@@ -1,0 +1,29 @@
+# Data Processing & ETL
+pandas>=2.2.0
+beautifulsoup4>=4.12.0
+lxml>=5.2.0
+numpy>=1.26.0
+
+# Database
+duckdb>=1.0.0
+qdrant-client>=1.10.0
+
+# AI & Agent Framework
+langchain>=0.2.10
+langgraph>=0.2.0
+openai>=1.40.0
+transformers>=4.40.0
+sentence-transformers>=3.0.0
+
+# NLP & String Matching
+rapidfuzz>=3.9.0
+scikit-learn>=1.5.0
+
+# API & UI
+fastapi>=0.112.0
+uvicorn>=0.30.0
+streamlit>=1.37.0
+
+# Utilities
+python-dotenv>=1.0.0
+pytest>=8.3.0
