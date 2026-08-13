@@ -1,31 +1,156 @@
-# Kiến Trúc Hệ Thống (System Architecture)
+# 02 - System Architecture
 
-Dự án áp dụng phương pháp **Kiến trúc Dữ liệu Lai (Hybrid Data Pipeline)** kết hợp **Định tuyến Tham số (Parameterized Routing Multi-Agent)** để đạt độ chính xác tối đa.
+## 1. Core Architecture
 
-## 1. Nguyên lý Thiết kế (Core Principles)
-- **Phân tách Dữ liệu:** Số liệu định lượng (Quantitative) lưu vào CSDL Quan hệ (SQL). Văn bản định tính (Qualitative) lưu vào CSDL Vector.
-- **Truy vấn Tham số hóa (Parameterized Query):** LLM không được quyền tự viết câu lệnh SQL thô. Thay vào đó, LLM trích xuất tham số (Intent Extraction), và hệ thống tự điền vào các SQL Template đã được chuẩn hóa.
-- **Kiểm soát & Xác thực (Sanity Check):** Thiết lập ngưỡng tin cậy (Confidence Threshold). Nếu kết quả ánh xạ chỉ tiêu dưới 95%, hệ thống sẽ kích hoạt cơ chế hỏi lại người dùng (Clarification) thay vì tự đoán và gây ra sai số.
+```text
+ViFinQA OCR TXT
+-> Preprocessing
+-> CSV Table Store
+-> Table Retrieval
+-> Evidence Package
+-> Text-to-Pandas Reasoning
+-> Verification
+-> Final Answer
+```
 
-## 2. Đường ống Dữ liệu (Data Pipeline)
-- **Nhánh Structured (Bảng biểu):** Dữ liệu đi qua module chuẩn hóa (Python), bóc tách và nạp vào cơ sở dữ liệu SQL theo Lược đồ hình sao (Star Schema). Bao gồm Bảng Fact (chứa số liệu) và Bảng Dimension (chứa mô tả chi tiết công ty, thời gian).
-- **Nhánh Unstructured (Văn bản):** Các đoạn thuyết minh được cắt nhỏ (Chunking), mã hóa (Embedding) và lưu vào Vector DB để chạy Hybrid Search (kết hợp Semantic Search và BM25).
-- **Alias Dictionary:** Bộ từ điển ánh xạ giúp chuẩn hóa tên các chỉ tiêu tài chính, được phân tách theo Namespace (Ngân hàng, Doanh nghiệp) và có đánh dấu quy tắc toán học (chỉ tiêu ghi âm/dương).
+The core data object is a CSV table loaded as a Pandas DataFrame.
 
-## 3. Kiến Trúc Multi-Agent (LangGraph)
-Hệ thống sử dụng Framework LangGraph để tổ chức luồng làm việc của các AI Agent độc lập:
+## 2. Preprocessing Layer
 
-1. **Router Agent (Tầng Điều phối):** Phân tích câu hỏi của người dùng và điều hướng luồng.
-    - Trích xuất Intent ra cấu trúc JSON (Mã công ty, Năm, Chỉ tiêu).
-    - Phân luồng nhanh (Fast-path) cho câu hỏi lấy số liệu thô hoặc phân luồng sâu (Deep-path) cho câu hỏi tìm nguyên nhân.
-2. **Data Analyst Agent (Tầng Số liệu):**
-    - Nhận các biến số đã được ánh xạ qua Metric Resolution.
-    - Thực thi SQL Template để truy xuất số liệu chính xác từ CSDL SQL.
-    - Đối với các câu hỏi phức tạp đòi hỏi logic cao (tính trung vị, phần trăm), thay vì để LLM (< 15B) tự do sinh mã Python (rất dễ sai logic), Agent sẽ được cung cấp bộ **Công cụ Toán học lập trình sẵn (Pre-defined Python Tools)** (ví dụ: `tinh_tang_truong()`, `tinh_trung_vi()`). LLM chỉ làm nhiệm vụ Function Calling truyền đúng tham số vào các hàm này.
-3. **Researcher Agent (Tầng Đọc hiểu):**
-    - Thực hiện Hybrid Search trên Vector DB.
-    - Tìm kiếm nguyên nhân, sự kiện từ các đoạn thuyết minh báo cáo tài chính (Metadata Filtering chặt chẽ theo Mã Công Ty & Năm).
-4. **Synthesizer & Validator Agent (Tầng Tổng hợp):**
-    - Nhận kết quả thô từ Data Analyst và Researcher.
-    - Tổng hợp câu trả lời cuối cùng bằng ngôn ngữ tự nhiên.
-    - **Yêu cầu Bắt buộc:** Đính kèm trích dẫn (Citations) chính xác từ file tài liệu/báo cáo gốc.
+Responsibilities:
+- split OCR reports by page marker;
+- infer report metadata from file paths;
+- extract every HTML `<table>`;
+- convert HTML tables into rectangular grids;
+- expand `rowspan`;
+- expand `colspan`;
+- normalize whitespace and HTML entities;
+- detect header rows;
+- flatten multi-row headers;
+- propagate financial hierarchy into row labels;
+- parse Vietnamese numeric formats;
+- write clean CSV files;
+- replace HTML table blocks with `TABLE_REF`;
+- write metadata and audit files.
+
+Required modules:
+
+```text
+preprocessing/ocr.py
+preprocessing/table_extract.py
+preprocessing/table_clean.py
+preprocessing/number_parser.py
+preprocessing/text_linker.py
+preprocessing/metadata.py
+preprocessing/audit.py
+preprocessing/pipeline.py
+```
+
+## 3. CSV Table Store Layer
+
+Each table must have metadata:
+
+```text
+table_id
+csv_path
+ticker
+company_name
+year
+report_type
+statement_type
+unit
+source_txt_path
+page_number
+table_index
+title
+nearby_text_before
+nearby_text_after
+row_count
+column_count
+numeric_cell_count
+quality_score
+needs_review
+review_reason
+created_at
+```
+
+`table_id` format:
+
+```text
+{ticker}_{year}_{report_type}_page{page_number}_table{table_index}
+```
+
+## 4. Retrieval Layer
+
+Retrieval pipeline:
+
+```text
+Question
+-> extract query hints
+-> filter table_metadata
+-> BM25 top 50
+-> Qwen3-Embedding-8B top 50
+-> merge candidates
+-> deduplicate table_id
+-> rerank top 10
+-> evidence package
+```
+
+Candidate outputs must preserve:
+
+```text
+table_id
+bm25_score
+dense_score
+reranker_score
+retrieval_source
+rank
+csv_path
+metadata_filter_status
+```
+
+## 5. Reasoning Layer
+
+Evidence tables are loaded into:
+
+```python
+dfs: dict[str, pandas.DataFrame]
+metadata_by_table: dict[str, dict]
+```
+
+Reasoning strategies:
+- `deterministic`: exact lookup with no LLM code;
+- `cot`: controlled natural-language reasoning;
+- `pot`: generated Pandas code executed in sandbox;
+- `multi_step`: iterative planning for hard questions.
+
+## 6. Verification Layer
+
+Verifier input:
+
+```text
+question
+answer
+selected_cells
+calculation_trace
+evidence_tables
+```
+
+Verifier checks:
+- selected table exists;
+- selected row matches requested metric;
+- selected column matches requested period;
+- raw value parses to parsed value;
+- unit conversion is correct;
+- sign convention is correct;
+- final rounding is correct;
+- final answer is grounded in evidence.
+
+## 7. No Database Rule
+Do not create:
+- database schemas;
+- migration files;
+- database connectors;
+- database ingestion scripts;
+- database inspection scripts;
+- Text-to-SQL modules.

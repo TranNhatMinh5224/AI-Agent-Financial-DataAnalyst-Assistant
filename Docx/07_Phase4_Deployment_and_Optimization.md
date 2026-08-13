@@ -1,52 +1,181 @@
-# Chi Tiết Triển Khai Giai Đoạn 4: Đưa vào sử dụng và Tối ưu hóa (Deployment & Optimization)
+# 07 - Phase 4: Evaluation, UI, and Optimization
 
-Giai đoạn 4 là bước cuối cùng trong vòng đời dự án, nhằm chuyển đổi một lõi AI Backend vững chắc thành một ứng dụng hoàn chỉnh, thân thiện với người dùng cuối (Nhà đầu tư, Chuyên viên phân tích) và có khả năng tự cải thiện (Self-improving) theo thời gian.
+## 1. Objective
+Build evaluation and user-facing tools that expose evidence, selected cells, calculation trace and verification status.
 
-## 1. Mục tiêu Giai đoạn 4
-- Đóng gói (Containerize) toàn bộ hệ thống Multi-Agent và Data Pipeline.
-- Xây dựng giao diện người dùng (UI) trực quan, có khả năng hiển thị cả số liệu bảng biểu lẫn văn bản trích dẫn.
-- Thiết lập vòng lặp phản hồi (Feedback Loop) để liên tục tối ưu hóa hệ thống mà không cần lập trình lại lõi thuật toán.
+## 2. Evaluation Artifacts
 
----
+```text
+<eval_root>/golden_questions.csv
+<eval_root>/golden_evidence_tables.csv
+<eval_root>/golden_answers.csv
+<eval_root>/retrieval_eval.csv
+<eval_root>/qa_eval.csv
+<eval_root>/error_analysis.csv
+```
 
-## 2. Chi tiết các Bước Thực thi
+## 3. Error Taxonomy
 
-### Bước 4.1: Xây dựng Backend API (FastAPI)
-Lõi LangGraph cần được bọc trong một RESTful API hiệu năng cao để có thể giao tiếp với giao diện người dùng.
+```text
+E_NUMERICAL_EXTRACTION: wrong row, column or cell
+I_INSUFFICIENT_EVIDENCE: missing required table
+T_TECHNICAL_ERROR: code crash, key error or sandbox error
+C_CALCULATION_ERROR: arithmetic error
+F_FORMULA_ERROR: wrong financial formula
+U_UNVERIFIED: verifier cannot confirm answer
+```
 
-- **Hành động:**
-  - Sử dụng **FastAPI** (Python) để tạo các endpoint API bất đồng bộ (Asynchronous).
-  - Đóng gói API dưới dạng giao tiếp WebSocket hoặc Server-Sent Events (SSE) để có thể **Stream (truyền phát) từng bước suy nghĩ của Agent** (Ví dụ: Hiển thị trạng thái *"Đang tìm kiếm dữ liệu công ty VNM năm 2023..."* lên màn hình cho người dùng đỡ sốt ruột).
-  - Tích hợp bộ nhớ hội thoại (Conversation Memory) thông qua LangGraph check-pointer để AI có thể nhớ ngữ cảnh của các câu hỏi trước đó trong cùng một phiên chat.
+## 4. Retrieval Metrics
 
-### Bước 4.2: Thiết kế Giao diện Người dùng (UI/UX)
-Hệ thống tài chính yêu cầu giao diện phải chuyên nghiệp, minh bạch và có khả năng hiển thị đa phương tiện (Bảng biểu, Biểu đồ, Chú thích).
+```text
+Recall@10
+Recall@50
+MRR
+missing_evidence_rate
+reranker_hit_rate
+latency_ms
+```
 
-- **Hành động:**
-  - Sử dụng **Streamlit** (để triển khai nhanh) hoặc **Next.js + React** (để có giao diện Web App chuyên nghiệp, chuẩn Enterprise).
-  - **Thiết kế tính năng hiển thị:**
-    1. **Khung Chat:** Nơi người dùng nhập câu hỏi tự nhiên.
-    2. **Khung Data Table:** Tự động render Pandas DataFrame thành bảng số liệu trực quan (có thể sắp xếp, lọc) khi Agent trả về kết quả định lượng.
-    3. **Khung Trích dẫn (Citations):** Một thanh side-bar hiển thị đoạn văn bản gốc (kèm ảnh chụp trang báo cáo nếu có) chứng minh cho câu trả lời, giúp người dùng dễ dàng kiểm chứng chéo (Cross-check).
+## 5. QA Metrics
 
-### Bước 4.3: Vòng lặp Phản hồi và Tối ưu (Feedback Loop)
-Hệ thống AI không bao giờ hoàn hảo ngay từ ngày đầu. Sẽ có những câu hỏi dùng "tiếng lóng" tài chính mà hệ thống chưa hiểu.
+```text
+exact_numeric_accuracy
+tolerance_numeric_accuracy
+unit_conversion_accuracy
+verified_answer_rate
+error_type_distribution
+```
 
-- **Hành động:**
-  1. **Ghi log câu hỏi "Hỏi lại" (Clarification Logs):** Khi RapidFuzz không match được tên chỉ tiêu (Confidence Score < 80%) hoặc (80% - 95%), câu hỏi gốc của người dùng sẽ được lưu vào cơ sở dữ liệu Log.
-  2. **Làm giàu Alias Dictionary:** Định kỳ (hàng tuần), các Data Engineer sẽ xem lại bảng Log này. Nếu phát hiện một cụm từ lóng (Ví dụ: người dùng hay gõ "Lãi ròng" thay vì "Lợi nhuận sau thuế"), kỹ sư chỉ cần bổ sung từ "Lãi ròng" vào file `Alias_Dictionary.json`.
-  3. **Cải tiến mà không cần Code:** Nhờ kiến trúc này, chất lượng hệ thống (Resolution Accuracy) sẽ ngày càng tăng lên chỉ bằng việc thao tác trên file JSON từ điển, hoàn toàn không phải động vào code lõi hay huấn luyện lại LLM.
+## 6. UI Requirements
+The UI must show:
+- user question;
+- extracted intent;
+- top evidence tables;
+- CSV table preview;
+- selected row, column and cell;
+- raw values;
+- parsed values;
+- calculation trace;
+- final answer;
+- verifier status;
+- feedback button.
 
-### Bước 4.4: Bảo mật và Kiểm soát tài nguyên
-Với việc dùng Agent sinh mã Python hoặc gọi hàm nội bộ, cần có lớp rào chắn an ninh.
+## 7. API Requirements
 
-- **Hành động:**
-  - Thiết lập **Docker Container** cách ly hoàn toàn (Sandbox) cho các tiến trình chạy code Python (nếu có tính toán động).
-  - Cấu hình Timeout nghiêm ngặt cho LangGraph (ví dụ max_steps = 10) để tránh trường hợp Agent bị kẹt trong vòng lặp vô hạn (Infinite loop) làm tốn tài nguyên server.
+```text
+POST /preprocess/sample
+POST /retrieval/search
+POST /qa/answer
+GET  /tables/{table_id}
+GET  /runs/{run_id}/evidence
+POST /feedback
+```
 
----
+## 8. Feedback Log Schema
 
-## 3. Tổng kết Dự Án (Project Wrap-up)
-Kết thúc Giai đoạn 4, chúng ta đã có một sản phẩm **AI Financial Data Analyst Assistant** hoàn chỉnh.
-- **Giá trị cốt lõi mang lại:** Thay vì phải mở hàng chục file PDF dài hàng trăm trang và loay hoay dò tìm từng con số, người dùng (Data Analyst, Nhà đầu tư) chỉ cần đặt một câu hỏi bằng tiếng Việt, và AI Agent sẽ trả về chính xác bảng số liệu, kèm theo phân tích nguyên nhân và trích dẫn minh bạch.
-- **Sự bền vững:** Do sử dụng LLM mã nguồn mở (< 15B) chạy Local kết hợp với các thuật toán Deterministic (Fuzzy Match, SQL), hệ thống đảm bảo 100% tính bảo mật dữ liệu công ty và miễn nhiễm hoàn toàn với rủi ro "ảo giác" chết người trong ngành tài chính.
+```text
+run_id
+question
+answer
+retrieved_table_ids
+selected_cells_json
+verifier_status
+user_rating
+user_comment
+error_type
+created_at
+```
+
+## 9. Optimization Priorities
+1. Improve missing evidence rate with metadata filtering, Qwen3-Embedding-8B retrieval and reranker.
+2. Improve numerical extraction with stronger cell grounding.
+3. Improve technical reliability with sandbox restrictions and CoT fallback.
+4. Improve formula correctness with reusable financial calculation tools.
+
+## 10. Implementation Steps
+
+### Step 1 - Golden Eval Files
+Create golden files with:
+- query_id;
+- question;
+- required table_ids;
+- expected numeric answer;
+- expected unit;
+- difficulty level.
+
+### Step 2 - Retrieval Eval
+Generate `retrieval_eval.csv` with:
+- query_id;
+- retrieved table ids;
+- gold table ids;
+- hit@10;
+- hit@50;
+- reciprocal rank;
+- missing evidence flag.
+
+### Step 3 - QA Eval
+Generate `qa_eval.csv` with:
+- query_id;
+- predicted answer;
+- expected answer;
+- absolute error;
+- relative error;
+- unit match;
+- verification status;
+- error type.
+
+### Step 4 - Evidence Viewer UI
+UI must display:
+- question;
+- intent;
+- evidence table list;
+- selected CSV preview;
+- highlighted row/column/cell;
+- calculation trace;
+- verifier result.
+
+### Step 5 - Feedback Loop
+Feedback must write append-only logs. Do not overwrite previous run logs.
+
+## 11. Run Scope Policy
+Phase 4 must not define its own sample/full data scope.
+
+Phase 4 displays and evaluates traces produced by Phase 3.
+
+```text
+config/run_profile.yaml
+-> Phase 1 selected reports
+-> Phase 2 selected retrieval index
+-> Phase 3 saved QA traces
+-> Phase 4 evaluation and UI
+```
+
+If the user wants to move from sample demo to full demo, change only `config/run_profile.yaml`, rerun the pipeline, then open the updated evaluation/UI outputs.
+
+Recommended UI development checks:
+- first render 1 saved QA run;
+- then connect retrieval;
+- then connect QA traces;
+- then enable feedback logging.
+
+```text
+# Ghi chú:
+# UI không tự quyết định sample hay full.
+# UI chỉ đọc các artifact đã được pipeline tạo ra.
+# Muốn đổi sample/full thì đổi duy nhất config/run_profile.yaml.
+```
+
+## 12. Review Gate
+Phase 4 can move forward only after:
+- eval files load correctly;
+- retrieval eval runs on sample questions;
+- QA eval runs on sample answers;
+- UI can show evidence table and selected cell;
+- feedback log is created.
+
+## 13. Anti-Patterns
+Do not:
+- show only final answer without evidence;
+- mix retrieval errors and QA errors in one metric;
+- overwrite eval history;
+- allow feedback without run_id.

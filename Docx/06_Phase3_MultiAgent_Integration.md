@@ -1,66 +1,331 @@
-# Chi Tiết Triển Khai Giai Đoạn 3: Tích hợp Multi-Agent & RAG (Multi-Agent Integration)
+# 06 - Phase 3: Text-to-Pandas QA and Multi-Agent Flow
 
-Giai đoạn 3 là lúc chúng ta "thổi hồn" vào hệ thống bằng cách ráp nối các Module tĩnh (đã xây dựng ở GĐ 1 & 2) thành một quy trình làm việc động (Workflow) thông qua framework **LangGraph**. Tại đây, các AI Agent (với sức mạnh của LLM < 15B) sẽ phối hợp với nhau như một phòng ban phân tích tài chính thu nhỏ.
+## 1. Objective
+Answer financial questions using retrieved CSV evidence tables and Pandas.
 
-## 1. Mục tiêu Giai đoạn 3
-- Xây dựng luồng công việc (State Graph) quản lý vòng đời của một truy vấn bằng LangGraph.
-- Cấu hình 4 Agent chuyên trách: Router, Data Analyst, Researcher, Synthesizer.
-- Tích hợp công cụ (Function Calling) toán học lập trình sẵn để bù đắp điểm yếu của LLM nhỏ.
-- Tích hợp Vector DB để xử lý các câu hỏi định tính (nguyên nhân, giải trình).
+The system must answer from selected CSV cells and calculation traces, not from model memory.
 
----
+## 2. Inputs
 
-## 2. Chi tiết các Bước Thực thi
+```text
+question
+top_k evidence tables
+table_metadata rows
+linked text snippets
+```
 
-### Bước 3.1: Xây dựng Bộ Công cụ (Toolkits) cho LLM
-Vì chúng ta bị giới hạn ở các mô hình mã nguồn mở < 15B (như Llama-3.1-8B, Qwen2.5-14B), khả năng tự sinh code Pandas phức tạp là không an toàn. Chúng ta phải chuẩn bị sẵn "đồ nghề" cho chúng.
+## 3. Evidence Package Schema
 
-- **Hành động:** Lập trình sẵn các hàm Python thuần túy. LLM chỉ cần gọi hàm (Function Calling).
-  - `query_sql(metric_id, company_id, year)`: Gửi SQL template vào DuckDB để lấy số liệu thô.
-  - `calculate_growth(value_current, value_previous)`: Tính tốc độ tăng trưởng (%).
-  - `calculate_median(list_of_values)`: Tính trung vị.
-  - `calculate_proportion(part, total)`: Tính tỷ trọng (%).
-  - *Lưu ý:* Bằng cách này, mọi phép tính đều do máy tính thực hiện, đảm bảo độ chính xác toán học 100%.
+```json
+{
+  "query_id": "string",
+  "question": "string",
+  "intent": {
+    "ticker": "string|null",
+    "company_name": "string|null",
+    "years": ["int"],
+    "report_type": "consolidated|separate|unknown",
+    "metrics": ["string"],
+    "unit_requested": "string|null",
+    "operation": "lookup|difference|growth_rate|ratio|mean|median|multi_hop|unknown"
+  },
+  "tables": [
+    {
+      "table_id": "string",
+      "csv_path": "string",
+      "metadata": {},
+      "retrieval_scores": {}
+    }
+  ],
+  "linked_text_context": ["string"]
+}
+```
 
-### Bước 3.2: Lập trình Đội ngũ AI Agent (LangGraph Nodes)
+## 4. Required Modules
 
-**1. Router Agent (Người Điều Phối)**
-- **Đầu vào:** Câu hỏi của người dùng.
-- **Nhiệm vụ:** Phân tích xem câu hỏi này thuộc loại gì.
-- **Quyết định (Conditional Edges):**
-  - Nếu là câu hỏi lấy số liệu (Quantitative): Chuyển cho *Data Analyst Agent*.
-  - Nếu là câu hỏi tìm nguyên nhân/diễn giải (Qualitative): Chuyển cho *Researcher Agent*.
-  - Nếu câu hỏi tối nghĩa/thiếu thông tin: Trả lại yêu cầu *Clarification* cho người dùng.
+```text
+reasoning/evidence.py
+reasoning/intent.py
+reasoning/prompts.py
+reasoning/sandbox.py
+reasoning/tools.py
+reasoning/verifier.py
+reasoning/answer.py
+```
 
-**2. Data Analyst Agent (Chuyên Viên Số Liệu)**
-- **Nhiệm vụ:** 
-  - Kích hoạt lõi truy xuất (Giai đoạn 2) để lấy Intent và Metric ID.
-  - Sử dụng các Toolkits (đã tạo ở Bước 3.1) để gọi dữ liệu từ DuckDB và tính toán.
-- **Đầu ra:** Bảng số liệu chính xác tuyệt đối kèm theo công thức đã dùng.
+## 5. Required Functions
 
-**3. Researcher Agent (Chuyên Viên Đọc Hiểu)**
-- **Nhiệm vụ:** 
-  - Chuyển câu hỏi thành Vector (Embedding).
-  - Truy vấn vào **Vector DB (Milvus/Qdrant)** bằng kỹ thuật Hybrid Search (Vector + Từ khóa).
-  - Sử dụng Metadata Filtering (chỉ tìm trong báo cáo của Công ty X, Năm Y) để không bị lẫn lộn dữ liệu của công ty khác.
-- **Đầu ra:** Trích xuất các đoạn văn bản (Text chunks) liên quan nhất từ Thuyết minh BCTC.
+```python
+load_evidence_tables(package: EvidencePackage) -> dict[str, pd.DataFrame]
+build_table_summary(df: pd.DataFrame, metadata: dict) -> TableSummary
+extract_intent(question: str) -> Intent
+choose_reasoning_strategy(intent: Intent, evidence: EvidencePackage) -> Literal["deterministic", "cot", "pot"]
+run_deterministic_lookup(intent: Intent, dfs: dict[str, pd.DataFrame]) -> ReasoningResult
+build_cot_prompt(package: EvidencePackage) -> str
+build_pot_prompt(package: EvidencePackage) -> str
+run_pandas_sandbox(code: str, dfs: dict[str, pd.DataFrame]) -> SandboxResult
+verify_answer(result: ReasoningResult, package: EvidencePackage) -> VerificationResult
+format_final_answer(result: ReasoningResult, verification: VerificationResult) -> FinalAnswer
+```
 
-**4. Synthesizer & Validator Agent (Người Tổng Hợp & Kiểm Duyệt)**
-- **Nhiệm vụ:** Nhận số liệu từ Data Analyst và văn bản từ Researcher. 
-- Dùng LLM để viết lại thành một câu trả lời hoàn chỉnh bằng ngôn ngữ tự nhiên.
-- **Bắt buộc:** Phải kèm theo nguồn trích dẫn (Ví dụ: *"Nguồn: Báo cáo tài chính hợp nhất kiểm toán 2023, CTCP FPT, Thuyết minh số V.2"*).
+## 6. Pandas Sandbox Contract
 
-### Bước 3.3: Lắp ráp Luồng Đồ Thị (State Graph)
-- **Hành động:** Sử dụng cấu trúc `StateGraph` của LangGraph để định nghĩa trạng thái của hệ thống.
-  - Trạng thái (State) sẽ lưu trữ: Câu hỏi gốc, JSON Intent, Kết quả SQL, Văn bản truy xuất, và Câu trả lời nháp.
-  - Cài đặt cơ chế Vòng lặp (Human-in-the-loop): Nếu Router Agent hoặc Metric Resolution báo lỗi "Tự tin thấp", LangGraph sẽ tạm dừng (Interrupt), trả về thông báo hỏi người dùng, và chờ người dùng phản hồi để tiếp tục luồng chạy.
+Generated code may use:
 
----
+```text
+pd
+dfs
+parse_vn_number()
+normalize_unit()
+safe_get_cell()
+```
 
-## 3. Đầu ra mong đợi (Deliverables) của Giai đoạn 3
-Hoàn thành Giai đoạn 3, hệ thống cơ bản đã có thể chạy thực tế qua giao diện Terminal (Command Line):
-1. **LangGraph Workflow:** Hoàn thiện và chạy mượt mà không bị kẹt luồng (Deadlock).
-2. **Cơ sở dữ liệu hoàn chỉnh:** SQL DB cho số liệu và Vector DB cho văn bản.
-3. **Log theo dõi (Tracing Trace):** Ghi nhận được toàn bộ hành vi của từng Agent (Nó gọi hàm gì? Nó truy xuất ra sao?) để phục vụ việc debug.
+Generated code must:
+- assign the final value to `result`;
+- avoid imports;
+- avoid file access;
+- avoid network access;
+- avoid mutation outside local variables;
+- keep raw row and column labels unchanged;
+- not round intermediate values.
 
-*Kết thúc Giai đoạn 3, hệ thống đã thông minh và chính xác. Giai đoạn 4 cuối cùng sẽ là khoác lên nó một giao diện (UI) và đưa vào môi trường production.*
+## 7. CoT Contract
+
+Use CoT when:
+- question is direct lookup;
+- evidence table is simple;
+- model is not reliable for code generation;
+- fallback is needed after sandbox error.
+
+CoT output must include:
+- selected table_id;
+- selected row label;
+- selected column label;
+- raw value;
+- parsed value;
+- final numeric answer.
+
+## 8. PoT Contract
+
+Use PoT when:
+- question needs arithmetic;
+- question needs grouping;
+- question needs multiple tables;
+- Pandas operations are safer than natural-language arithmetic.
+
+PoT code pattern:
+
+```python
+df = dfs["table_id"]
+# locate row and column
+# parse value
+# calculate
+result = ...
+```
+
+## 9. Verification Schema
+
+```json
+{
+  "is_valid": true,
+  "error_type": null,
+  "checked_cells": [
+    {
+      "table_id": "string",
+      "row_label": "string",
+      "column_label": "string",
+      "raw_value": "string",
+      "parsed_value": 0.0,
+      "unit": "string"
+    }
+  ],
+  "calculation_check": "string",
+  "final_answer": 0.0
+}
+```
+
+Error types:
+
+```text
+E_NUMERICAL_EXTRACTION
+I_INSUFFICIENT_EVIDENCE
+T_TECHNICAL_ERROR
+C_CALCULATION_ERROR
+F_FORMULA_ERROR
+U_UNVERIFIED
+```
+
+## 10. Final Answer Schema
+
+```json
+{
+  "answer": 0.0,
+  "answer_type": "numeric",
+  "unit": "string|null",
+  "citations": [
+    {
+      "table_id": "string",
+      "csv_path": "string",
+      "page_number": 0,
+      "row_label": "string",
+      "column_label": "string"
+    }
+  ],
+  "verification_status": "valid|invalid|unverified",
+  "error_type": null
+}
+```
+
+## 11. Tests Required
+- evidence loader loads CSV into `dfs`;
+- intent parser extracts ticker, year and metric from sample questions;
+- deterministic lookup finds exact row and column;
+- sandbox blocks imports;
+- sandbox blocks file access;
+- sandbox returns `result`;
+- verifier catches wrong row;
+- verifier catches wrong unit;
+- verifier catches wrong sign;
+- final answer formatter returns numeric-only when required.
+
+## 12. Implementation Steps
+
+### Step 1 - Evidence Loader
+Create `reasoning/evidence.py`.
+
+Rules:
+- read each CSV path from evidence package;
+- load into `dfs[table_id]`;
+- fail clearly if CSV path is missing;
+- preserve table metadata.
+
+### Step 2 - Intent Parser
+Create `reasoning/intent.py`.
+
+Rules:
+- extract ticker/company;
+- extract year or period;
+- extract metric terms;
+- extract requested unit;
+- classify operation type.
+
+### Step 3 - Strategy Selector
+Create strategy selector.
+
+Rules:
+- direct lookup -> deterministic first;
+- arithmetic with evidence -> PoT;
+- sandbox failure -> CoT fallback;
+- missing evidence -> return insufficient evidence.
+
+### Step 4 - Deterministic Lookup
+Implement exact and fuzzy row/column matching.
+
+Rules:
+- use `row_label_full` first;
+- fallback to `row_label_raw`;
+- use RapidFuzz for row label matching;
+- require confidence threshold;
+- return selected cell metadata.
+
+### Step 5 - CoT Prompt
+Build a prompt that requires:
+- selected table_id;
+- selected row label;
+- selected column label;
+- raw value;
+- parsed value;
+- final numeric answer.
+
+### Step 6 - PoT Prompt
+Build a prompt that requires generated code to:
+- use only `pd`, `dfs`, and approved helper functions;
+- assign final answer to `result`;
+- not import modules;
+- not read files;
+- not round intermediate values.
+
+### Step 7 - Sandbox
+Implement AST checks before execution.
+
+Block:
+- `import`;
+- `open`;
+- `exec`;
+- `eval`;
+- file system access;
+- network access;
+- dunder access.
+
+### Step 8 - Verifier
+Verify:
+- table exists;
+- selected cell exists;
+- raw value parse is consistent;
+- unit conversion is consistent;
+- formula is consistent;
+- final answer matches trace.
+
+### Step 9 - Final Answer
+Return:
+- numeric answer;
+- unit;
+- citations;
+- verification status;
+- error type if invalid.
+
+## 13. Run Scope Policy
+Phase 3 must not define its own sample/full data scope.
+
+Phase 3 uses evidence retrieved from Phase 2, and Phase 2 uses artifacts produced by Phase 1.
+
+```text
+config/run_profile.yaml
+-> Phase 1 selected reports
+-> Phase 2 retrieval index over selected CSV tables
+-> Phase 3 QA over selected evidence tables
+```
+
+If Phase 1 was run on one report, Phase 3 can only answer from that one-report artifact set.
+
+If Phase 1 was run full, Phase 3 can answer from the full artifact set.
+
+Question limits are allowed only for debugging/evaluation speed:
+
+```powershell
+python -m financial_text_to_pandas.reasoning.answer --config config/run_profile.yaml --oracle-evidence --strategy deterministic --limit 5
+python -m financial_text_to_pandas.reasoning.answer --config config/run_profile.yaml --strategy auto --limit 20 --save-trace
+```
+
+```text
+# Ghi chú:
+# --limit chỉ giới hạn số câu hỏi QA dùng để test.
+# Nó không quyết định sample/full dữ liệu báo cáo.
+# Sample/full dữ liệu báo cáo chỉ đổi trong config/run_profile.yaml.
+```
+
+## 14. Required CLI Controls
+Every Phase 3 command must support:
+- `--query-id`;
+- `--limit`;
+- `--oracle-evidence`;
+- `--strategy deterministic|cot|pot|auto`;
+- `--top-k`;
+- `--dry-run`;
+- `--save-trace`.
+
+## 15. Review Gate
+Phase 3 can move forward only after:
+- direct lookup sample works;
+- one arithmetic sample works;
+- sandbox blocks unsafe code;
+- verifier catches intentionally wrong cell;
+- final answer has citation.
+
+## 16. Anti-Patterns
+Do not:
+- let LLM answer without selected cells;
+- hide sandbox errors;
+- round intermediate values;
+- drop citations;
+- accept answers when verifier is invalid.

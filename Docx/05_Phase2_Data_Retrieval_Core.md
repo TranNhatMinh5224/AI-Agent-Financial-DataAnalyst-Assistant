@@ -1,63 +1,317 @@
-# Chi Tiết Triển Khai Giai Đoạn 2: Xây dựng Lõi Truy xuất Số liệu (Data Retrieval Core)
+# 05 - Phase 2: Table Retrieval Core
 
-Giai đoạn 2 tập trung vào việc biến đổi câu hỏi tự nhiên của người dùng thành các tham số máy tính có thể hiểu được, đảm bảo độ chính xác tuyệt đối trước khi tiến hành bất kỳ phép tính toán nào. Do rào cản sử dụng LLM mã nguồn mở dưới 15B tham số, trọng tâm của giai đoạn này là kỹ thuật **Few-Shot Prompting** và thuật toán **Khớp lệnh mờ (Fuzzy Matching)**.
+## 1. Objective
+Given a financial question, retrieve the top evidence CSV tables required for answering it.
 
-## 1. Mục tiêu Giai đoạn 2
-- Xây dựng thành công bộ máy trích xuất ý định (Intent Extraction) sử dụng LLM < 15B.
-- Ánh xạ chính xác tên chỉ tiêu từ người dùng vào Từ điển Ánh xạ (Metric Resolution) bằng thuật toán truyền thống.
-- Thiết lập cơ sở đánh giá (Golden Eval Set) để đo lường tự động độ chính xác của lõi truy xuất.
-- Đạt mốc chính xác >98% trên tập test trước khi chuyển sang xây dựng Agent.
+Optimize recall first. Missing a required evidence table should be treated as a critical retrieval failure.
 
----
+## 2. Inputs
 
-## 2. Chi tiết các Bước Thực thi
+```text
+<output_root>/table_metadata.csv
+<output_root>/reports_text_linked/**/*.txt
+<output_root>/tables_csv/**/*.csv
+ViFinQA/questions.jsonl or <eval_root>/golden_questions.csv
+```
 
-### Bước 2.1: Xây dựng Golden Eval Set (Tập dữ liệu Vàng)
-Không thể cải thiện hệ thống nếu không thể đo lường nó. Bộ dữ liệu ViFinQA (file `questions.jsonl`) cung cấp sẵn hơn 1.000 câu hỏi, đây là nguồn lý tưởng để làm Golden Eval Set.
+## 3. Outputs
 
-- **Hành động:** 
-  1. Trích xuất khoảng 300 câu hỏi ngẫu nhiên từ `questions.jsonl` (tập trung vào các câu hỏi trích xuất số liệu và tính toán cơ bản).
-  2. Gán nhãn thủ công (Ground Truth) cho 300 câu hỏi này dưới dạng JSON mong đợi. 
-     - *Ví dụ câu hỏi:* "Lãi tiền gửi năm 2018 của công ty mẹ CTCP Hàng không Vietjet (VJC) là bao nhiêu triệu đồng?"
-     - *Nhãn (Ground Truth):* `{"company_ticker": "VJC", "year": [2018], "scope": "mẹ", "metric_raw": "Lãi tiền gửi", "action": "extract"}`
-  3. Bổ sung các "Câu hỏi bẫy" (thiếu năm, tên công ty sai chính tả) để kiểm tra khả năng bắt lỗi và hỏi lại (Clarification) của hệ thống.
+```text
+<index_root>/table_corpus.csv
+<index_root>/bm25_index.pkl
+<index_root>/table_embeddings.parquet
+<index_root>/retrieval_candidates.csv
+<index_root>/retrieval_reranked.csv
+<eval_root>/retrieval_eval.csv
+```
 
-### Bước 2.2: Trích xuất Ý định (Intent Extraction) với LLM < 15B
-Các LLM < 15B (như Llama-3.1-8B, Qwen2.5-14B) có thể gặp khó khăn nếu yêu cầu sinh cấu trúc JSON phức tạp bằng Zero-shot. Giải pháp là sử dụng **Few-Shot Prompting** (cung cấp ví dụ mẫu).
+## 4. Table Corpus Schema
 
-- **Hành động:**
-  1. Xây dựng một System Prompt mạnh mẽ, quy định rõ schema JSON đầu ra.
-  2. Nhúng 5-10 ví dụ (Few-Shot) bao phủ các trường hợp khác nhau trực tiếp vào prompt để "dạy" mô hình cách trích xuất.
-  3. Ép kiểu đầu ra thành cấu trúc JSON hợp lệ bằng cách sử dụng các framework hỗ trợ Structured Output (như `Outlines` hoặc cơ chế JSON mode của LLM).
-  4. Các tham số cần trích xuất bao gồm: Mã công ty (hoặc tên), Năm/Giai đoạn, Loại báo cáo (Hợp nhất/Riêng lẻ), và Chuỗi chỉ tiêu gốc (`metric_raw`).
+```text
+table_id
+csv_path
+ticker
+company_name
+year
+report_type
+statement_type
+unit
+title
+headers_text
+row_labels_text
+nearby_text
+search_text
+quality_score
+needs_review
+```
 
-### Bước 2.3: Ánh xạ Chỉ tiêu (Metric Resolution)
-Không dùng LLM để match tên chỉ tiêu vì tốn thời gian và dễ ảo giác. Chúng ta dùng code Python truyền thống.
+`search_text` must concatenate:
 
-- **Hành động:**
-  1. Nhận chuỗi `metric_raw` từ Bước 2.2 (VD: "Lợi nhuận ròng").
-  2. Sử dụng thư viện `RapidFuzz` (tối ưu tốc độ hơn FuzzyWuzzy) để so khớp chuỗi `metric_raw` với danh sách các chỉ tiêu trong `Alias_Dictionary.json` (được tạo ở Giai đoạn 1).
-  3. Tính toán Điểm tự tin (Confidence Score - từ 0 đến 100).
-  4. **Logic Xử lý:**
-     - Nếu Điểm >= 95: Chấp nhận ánh xạ và lấy `metric_id` tương ứng.
-     - Nếu 80 <= Điểm < 95: Hệ thống tự động trả về câu hỏi làm rõ (Clarification Prompt) cho người dùng: *"Ý bạn là 'Lợi nhuận sau thuế' hay 'Lợi nhuận thuần từ hoạt động kinh doanh'?"*
-     - Nếu Điểm < 80: Thông báo không tìm thấy chỉ tiêu.
+```text
+title
+headers_text
+row_labels_text
+nearby_text
+unit
+statement_type
+ticker
+company_name
+year
+report_type
+```
 
-### Bước 2.4: Tự động hóa Kiểm thử và Đánh giá (Evaluation Loop)
-Đưa Bước 2.2 và 2.3 vào một luồng chạy tự động để kiểm thử trên Golden Eval Set.
+## 5. Query Hints Schema
 
-- **Hành động:**
-  1. Chạy hàng loạt 300 câu hỏi qua Pipeline.
-  2. Đo lường tỷ lệ LLM trích xuất đúng JSON (Format Accuracy).
-  3. Đo lường tỷ lệ RapidFuzz ánh xạ đúng chỉ tiêu (Resolution Accuracy).
-  4. Nếu tỷ lệ < 98%, tiến hành tinh chỉnh: Thêm ví dụ vào Few-Shot Prompt hoặc cập nhật thêm biến thể từ vựng vào Alias Dictionary. Lặp lại quá trình này (Iterate) đến khi đạt mục tiêu.
+```text
+query_id
+question
+ticker
+company_name
+years
+report_type
+metric_terms
+statement_type
+unit_requested
+operation
+confidence
+```
 
----
+## 6. Required Functions
 
-## 3. Đầu ra mong đợi (Deliverables) của Giai đoạn 1 & 2
-Sau khi hoàn thành 2 giai đoạn đầu, kiến trúc ngầm (Backend Core) của hệ thống đã vững chắc:
-1. **Module Intent Extractor:** Sẵn sàng chuyển đổi câu hỏi thành JSON chính xác với tốc độ cao.
-2. **Module Metric Resolver:** Chức năng đối chiếu và lọc chỉ tiêu cứng cáp, không thể bị qua mặt bởi ảo giác.
-3. **Eval Framework:** Script đánh giá tự động, giúp việc nâng cấp LLM (đổi sang model khác) sau này diễn ra an toàn mà không sợ hệ thống bị thoái lui (regression).
+```python
+build_table_corpus(table_metadata_path: Path, output_path: Path) -> pd.DataFrame
+extract_query_hints(question: str) -> QueryHints
+filter_by_metadata(corpus: pd.DataFrame, hints: QueryHints) -> pd.DataFrame
+build_bm25_index(corpus: pd.DataFrame) -> BM25Index
+search_bm25(index: BM25Index, query: str, top_k: int) -> list[Candidate]
+embed_tables(corpus: pd.DataFrame, model_name: str) -> EmbeddingStore
+embed_query(question: str, model_name: str) -> Vector
+search_dense(store: EmbeddingStore, query_vector: Vector, top_k: int) -> list[Candidate]
+merge_candidates(*candidate_lists: list[Candidate]) -> list[Candidate]
+rerank_candidates(question: str, candidates: list[Candidate], top_k: int) -> list[EvidenceTable]
+evaluate_retrieval(predictions: pd.DataFrame, gold: pd.DataFrame) -> RetrievalMetrics
+```
 
-*Lõi truy xuất này sẽ đóng vai trò như "Trái tim" của Data Analyst Agent trong việc giao tiếp với cơ sở dữ liệu ở Giai đoạn 3.*
+## 7. Retrieval Strategy
+
+```text
+Step 1: extract query hints
+Step 2: metadata filtering
+Step 3: BM25 top 50
+Step 4: Qwen3-Embedding-8B top 50
+Step 5: merge candidates
+Step 6: deduplicate by table_id
+Step 7: reranker top 10
+Step 8: return evidence tables
+```
+
+Fallback order:
+
+```text
+Qwen3-Embedding-4B
+BGE-M3
+BM25-only
+```
+
+## 8. Benchmark Targets
+
+```text
+BM25                              Recall@10 47.41%
+BGE-M3                            Recall@10 53.05%
+Qwen3-Embedding-4B                Recall@10 63.90%
+Qwen3-Embedding-8B                Recall@10 67.48%
+Qwen3-Embedding-4B + Reranker     Recall@10 80.19%
+Qwen3-Embedding-8B + Reranker     Recall@10 80.80%
+```
+
+## 9. Candidate Row Schema
+
+```text
+query_id
+question
+table_id
+rank
+bm25_score
+dense_score
+reranker_score
+retrieval_source
+csv_path
+metadata_filter_status
+model_name
+created_at
+```
+
+## 10. Evaluation Metrics
+
+```text
+Recall@10
+Recall@50
+MRR
+missing_evidence_rate
+reranker_hit_rate
+latency_ms
+```
+
+## 11. Tests Required
+- corpus creation from metadata;
+- query hint extraction;
+- metadata filtering by ticker;
+- metadata filtering by year;
+- metadata filtering by report type;
+- BM25 exact-match ranking;
+- dense search interface with mocked embeddings;
+- candidate merge and deduplication;
+- reranker top-k ordering with mocked scores;
+- Recall@K metrics.
+
+## 12. Implementation Steps
+
+### Step 1 - Corpus Builder
+Create `retrieval/corpus.py`.
+
+Inputs:
+
+```text
+table_metadata.csv
+tables_csv/**/*.csv
+reports_text_linked/**/*.txt
+```
+
+Output:
+
+```text
+table_corpus.csv
+```
+
+Rules:
+- skip `needs_review=true` tables by default;
+- allow `--include-review` flag;
+- read CSV headers and row labels;
+- truncate very long row label text safely;
+- generate `search_text`.
+
+### Step 2 - Query Hints
+Create `retrieval/query_hints.py`.
+
+Rules:
+- extract ticker symbols if present;
+- extract years;
+- extract report type keywords;
+- extract unit hints;
+- extract metric terms;
+- keep confidence score.
+
+### Step 3 - Metadata Filtering
+Create metadata filters before scoring.
+
+Rules:
+- exact ticker filter if confidence is high;
+- year filter if year is present;
+- report_type filter if explicit;
+- do not over-filter when hints are uncertain.
+
+### Step 4 - BM25 Baseline
+Create `retrieval/bm25.py`.
+
+Rules:
+- tokenize Vietnamese and ASCII text consistently;
+- build index from `search_text`;
+- return top 50 candidates;
+- store `bm25_score`.
+
+### Step 5 - Dense Retrieval
+Create `retrieval/embeddings.py`.
+
+Rules:
+- model name is configurable;
+- default model is `Qwen3-Embedding-8B`;
+- embeddings are cached as file artifacts;
+- query embedding uses same model;
+- return top 50 candidates with `dense_score`.
+
+### Step 6 - Candidate Merge
+Create `retrieval/search.py`.
+
+Rules:
+- merge BM25 and dense candidates;
+- deduplicate by `table_id`;
+- preserve all scores;
+- preserve retrieval source labels.
+
+### Step 7 - Reranker
+Create `retrieval/reranker.py`.
+
+Rules:
+- input is question + candidate table summary;
+- output top 10;
+- preserve `reranker_score`;
+- support mocked reranker for tests.
+
+### Step 8 - Evaluation
+Create `retrieval/evaluate.py`.
+
+Rules:
+- compute Recall@10;
+- compute Recall@50;
+- compute MRR;
+- compute missing evidence rate;
+- export `retrieval_eval.csv`.
+
+## 13. Run Scope Policy
+Phase 2 must not define its own sample/full data scope.
+
+Phase 2 reads the artifacts created by Phase 1:
+
+```text
+Phase 1 output_root
+-> table_metadata.csv
+-> reports_text_linked
+-> tables_csv
+-> Phase 2 retrieval corpus and indexes
+```
+
+If Phase 1 was run in sample mode, Phase 2 automatically builds retrieval artifacts from that sample output.
+
+If Phase 1 was run in full mode, Phase 2 automatically builds retrieval artifacts from the full output.
+
+No retrieval source code should be edited to switch between sample and full data. The only data-scope switch is `config/run_profile.yaml` in Phase 1.
+
+Question limits are allowed only for debugging/evaluation speed:
+
+```powershell
+python -m financial_text_to_pandas.retrieval.search --config config/run_profile.yaml --method bm25 --limit-questions 10 --top-k 10
+python -m financial_text_to_pandas.retrieval.search --config config/run_profile.yaml --method hybrid --limit-questions 10 --top-k 10
+```
+
+```text
+# Ghi chú:
+# --limit-questions chỉ giới hạn số câu hỏi dùng để test retrieval.
+# Nó không quyết định sample/full dữ liệu báo cáo.
+# Sample/full dữ liệu báo cáo đã được quyết định ở Phase 1.
+```
+
+## 14. Required CLI Controls
+Every Phase 2 command must support:
+- `--limit-questions`;
+- `--query-id`;
+- `--top-k`;
+- `--method bm25|dense|hybrid`;
+- `--model-name`;
+- `--mock-embeddings` for tests and offline development;
+- `--no-reranker` for ablation only.
+
+## 15. Review Gate
+Phase 2 can move forward only after:
+- BM25 baseline runs on sample corpus;
+- dense retrieval interface runs or is mocked;
+- reranker returns top 10;
+- retrieval evaluation report is generated;
+- at least 10 sample questions are manually inspected.
+
+## 16. Anti-Patterns
+Do not:
+- embed full raw CSV content without summarization;
+- ignore metadata filtering;
+- hardcode model paths;
+- overwrite embeddings without model/version metadata;
+- treat reranker as optional in final retrieval flow.
