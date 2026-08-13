@@ -1,57 +1,139 @@
-# 01 - Project Plan: AI Financial Data Assistant
+# 01 - Project Plan: Financial Text-to-Pandas
 
 ## 1. Objective
-Build an end-to-end Vietnamese financial question-answering system over ViFinQA reports.
+Build an end-to-end Vietnamese financial QA system that answers numerical questions from ViFinQA financial reports.
 
-The system must:
-- retrieve the correct financial report;
-- retrieve the correct evidence table;
-- identify the exact row, column, and cell used for the answer;
-- load evidence CSV files into Pandas;
-- calculate with deterministic code when needed;
-- verify the answer before returning it;
-- return a numeric answer with traceable evidence.
-
-## 2. Architecture Decision
-Use **Text-to-Pandas**.
-
-Do not implement:
-- Text-to-SQL;
-- relational database schema for cleaned financial tables;
-- database ingestion for cleaned table data;
-- vector database in the first implementation milestone.
-
-Implement:
-- OCR TXT preprocessing;
-- clean CSV table store;
-- linked text files containing `TABLE_REF`;
-- table metadata and audit files;
-- table retrieval using BM25 + Qwen3-Embedding-8B + reranker;
-- Pandas-based reasoning;
-- answer verification.
-
-## 3. End-to-End Flow
+The system must optimize for three core goals:
 
 ```text
-User question
--> intent extraction and metadata hints
--> table metadata filtering
--> BM25 candidate retrieval
--> Qwen3-Embedding-8B dense candidate retrieval
--> candidate merge and deduplication
--> reranker
--> top-k evidence tables
--> load CSV evidence into Pandas
--> cell grounding
--> deterministic lookup / CoT / PoT
--> verifier
--> final numeric answer + citation
+FIND THE RIGHT TABLE
+-> FIND THE RIGHT CELL
+-> THEN CALCULATE
 ```
 
-## 4. Target Package Layout
+Every final answer must be grounded in CSV evidence and traceable to:
+- `table_id`;
+- `csv_path`;
+- `page_number`;
+- `row_label`;
+- `column_label`;
+- `raw_value`;
+- `parsed_value`;
+- `unit`.
+
+## 2. Architecture Decision
+Use **Text-to-Pandas**, not Text-to-SQL.
+
+Keep:
+- CSV table store;
+- `TABLE_REF` linked text;
+- metadata files;
+- preprocessing audit;
+- sample/full run gates in Phase 1;
+- BM25;
+- dense retrieval;
+- reranker;
+- Pandas;
+- sandbox;
+- verification;
+- evaluation;
+- unit tests.
+
+Do not add:
+- database schemas;
+- database ingestion;
+- ORM;
+- vector database service;
+- Text-to-SQL;
+- distributed queues;
+- Kubernetes;
+- complex agent framework in the first implementation path.
+
+## 3. Canonical End-to-End Flow
+All documents in this project must use this flow:
+
+```text
+Financial Reports
+-> OCR TXT + HTML Tables
+-> Extract Tables
+-> Clean / Normalize Tables
+-> CSV Tables + Metadata + Linked Text
+
+Question
+-> Query Hints / Metadata Filtering
+-> Retriever
+-> Candidate Tables
+-> Reranker
+-> Top-K Evidence Tables
+
+Schema-Aware Cell Grounding
+-> Selected Tables / Rows / Columns / Cells
+
+Reasoning Strategy
+-> Direct Lookup / PoT / CoT / Multi-hop
+
+Verification
+-> Verified Numerical Answer
+```
+
+## 4. Phase Summary
+
+### Phase 1 - Data Preparation
+Convert OCR TXT reports into reviewable artifacts:
+- clean CSV tables;
+- linked text with `TABLE_REF`;
+- table metadata;
+- report metadata;
+- preprocessing audit.
+
+Phase 1 contains no LLM, retrieval, embedding, reasoning, database, or Text-to-SQL logic.
+
+### Phase 2 - Recall-First Table Retrieval
+Retrieve top evidence tables for a question:
+
+```text
+Question
+-> Query Hints
+-> Metadata Filtering
+-> BM25 + Dense Retrieval
+-> Candidate Merge
+-> Reranker
+-> Top-K Evidence Tables
+```
+
+Retriever optimizes recall. Reranker optimizes precision and ranking quality.
+
+Missing a required table is a critical retrieval failure.
+
+### Phase 3 - Text-to-Pandas QA and Reasoning
+Answer from retrieved CSV evidence:
+
+```text
+Question + Evidence Tables
+-> Schema-Aware Cell Grounding
+-> Strategy Selection
+-> Direct Lookup / PoT / CoT / Multi-hop
+-> Verification
+-> Final Answer
+```
+
+Reasoning must not start until grounding identifies evidence cells with acceptable confidence, unless the system returns `I_INSUFFICIENT_EVIDENCE`.
+
+### Phase 4 - Evaluation, UI, and Optimization
+Expose and evaluate:
+- retrieved tables;
+- grounded cells;
+- calculation traces;
+- verifier results;
+- error taxonomy;
+- feedback logs.
+
+## 5. Target Package Layout
 Create this layout only when implementation starts:
 
 ```text
+config/
+  run_profile.yaml
 src/financial_text_to_pandas/
   __init__.py
   config.py
@@ -79,9 +161,12 @@ src/financial_text_to_pandas/
     __init__.py
     evidence.py
     intent.py
+    cell_grounding.py
+    strategy.py
     prompts.py
     sandbox.py
     tools.py
+    multi_hop.py
     verifier.py
     answer.py
   eval/
@@ -93,7 +178,7 @@ tests/
 
 Do not create output folders during scaffold. Output folders are created only by runtime commands.
 
-## 5. Runtime Output Contract
+## 6. Runtime Artifact Contract
 
 Phase 1 creates:
 
@@ -116,16 +201,24 @@ Phase 2 creates:
 <eval_root>/retrieval_eval.csv
 ```
 
+Every embedding artifact must include:
+- `table_id`;
+- `model_name`;
+- `model_version`;
+- `created_at`;
+- source corpus checksum or version.
+
 Phase 3 creates:
 
 ```text
 <runs_root>/{run_id}/evidence_package.json
+<runs_root>/{run_id}/cell_grounding.json
 <runs_root>/{run_id}/reasoning_trace.json
 <runs_root>/{run_id}/verification.json
 <runs_root>/{run_id}/answer.json
 ```
 
-## 6. Retrieval Policy
+## 7. Retrieval Policy
 
 Default stack:
 
@@ -134,7 +227,7 @@ Lexical baseline: BM25
 Dense retriever: Qwen3-Embedding-8B
 Fallback dense retriever: Qwen3-Embedding-4B
 Fallback multilingual baseline: BGE-M3
-Reranker: required
+Reranker: required for final ranking
 ```
 
 Target retrieval benchmark:
@@ -148,30 +241,46 @@ Qwen3-Embedding-4B + Reranker     Recall@10 80.19%
 Qwen3-Embedding-8B + Reranker     Recall@10 80.80%
 ```
 
-## 7. Implementation Rules
-- Generate code only after this plan is approved.
-- Start with Phase 1 sample mode only.
-- Process one report first, not the full dataset.
-- Never run a full dataset job by default.
-- Every phase must define a small review run before a larger run.
-- A larger run starts only after the previous review gate is approved.
-- Do not create database code.
-- Do not create output folders at scaffold time.
-- Every CSV output must be readable by `pd.read_csv`.
-- Every table must have a stable `table_id`.
-- Every final answer must include evidence metadata.
-- Every generated module must have unit tests.
+Primary metrics:
+- `Recall@10`;
+- `Recall@50`;
+- `MRR`;
+- `missing_evidence_rate`.
 
-## 8. Run Scope Policy
-The sample/full execution switch belongs to **Phase 1 preprocessing**.
+## 8. Reasoning Policy
+Use adaptive reasoning after cell grounding.
 
-Reason:
-- Phase 1 is the expensive data-building step.
-- Phase 1 determines the quality of CSV tables, linked text, metadata, and audit files.
-- Phase 2, Phase 3, and Phase 4 should consume the approved Phase 1 artifacts instead of redefining their own dataset scope.
-- A full pipeline run should require changing one central setting only.
+Direct deterministic lookup:
+- use when there is 1 table, 1 exact cell, and no arithmetic;
+- run before complex reasoning.
 
-### 8.1 Single Source of Truth
+PoT:
+- use when arithmetic, aggregation, multiple values, multiple tables, or Pandas operations are needed;
+- generated code must run in a sandbox.
+
+CoT:
+- use when code generation is unstable, sandbox execution fails, or natural-language reasoning is more reliable.
+
+Multi-hop:
+- use for hard questions where an intermediate result determines the next company, table, year, report, or metric to retrieve.
+
+## 9. Error Taxonomy
+Use the same error codes across Phase 3, Phase 4, tests, evaluation, and logs:
+
+```text
+E_NUMERICAL_EXTRACTION
+I_INSUFFICIENT_EVIDENCE
+T_TECHNICAL_ERROR
+C_CALCULATION_ERROR
+F_FORMULA_ERROR
+U_UNVERIFIED
+```
+
+Do not add new error codes unless they solve a recurring evaluation need.
+
+## 10. Run Scope Policy
+The sample/full execution switch belongs to Phase 1 preprocessing only.
+
 Create one runtime configuration file when implementation starts:
 
 ```text
@@ -206,30 +315,6 @@ full_run_confirmed: false
 resume: true
 ```
 
-### 8.2 Scope Resolution
-All pipeline stages must read the same resolved scope from `run_profile.yaml`.
-
-```text
-run_profile.yaml
--> resolve report scope
--> Phase 1 preprocess selected reports
--> Phase 2 build retrieval corpus from Phase 1 outputs
--> Phase 3 answer from retrieved CSV evidence
--> Phase 4 evaluate and display saved traces
-```
-
-### 8.3 Preprocessing Review Gates
-Only Phase 1 needs data-size gates:
-
-```text
-Gate P1.0: unit tests only, no output data
-Gate P1.1: run_mode=sample, sample_limit_reports=1
-Gate P1.2: run_mode=sample, sample_tickers=[one ticker], no report limit
-Gate P1.3: run_mode=sample, sample_tickers=[5 representative tickers]
-Gate P1.4: run_mode=full, full_run_confirmed=true
-```
-
-### 8.4 One-Place Full Run Rule
 To switch from sample to full, edit only `config/run_profile.yaml`:
 
 ```yaml
@@ -242,42 +327,8 @@ full_run_confirmed: true
 
 No source code should be edited to switch from sample to full.
 
-### 8.5 Gate Output
-Every preprocessing gate must report:
-- command used;
-- current `run_mode`;
-- resolved ticker/report scope;
-- number of reports processed;
-- number of tables extracted;
-- number of CSV files written;
-- audit success/failure counts;
-- sample files to review before increasing scope.
+## 11. Acceptance Criteria
 
-## 9. Code Generation Workflow
-Antigravity must generate code phase by phase. Do not generate the whole system in one pass.
-
-Recommended order:
-
-```text
-1. Generate Phase 1 package skeleton and dataclasses.
-2. Generate Phase 1 pure functions and unit tests.
-3. Generate Phase 1 CLI sample command.
-4. Run sample on 1 report and review outputs.
-5. Only after approval, generate Phase 2 retrieval modules.
-6. Only after retrieval eval works, generate Phase 3 QA modules.
-7. Only after QA eval works, generate Phase 4 UI/API.
-```
-
-Each generated step must include:
-- files created or modified;
-- tests added;
-- command to run;
-- expected output;
-- maximum run size for that step;
-- validation checklist;
-- rollback-safe behavior.
-
-## 10. Acceptance Criteria
 Phase 1 is acceptable when:
 - one report can be converted into clean CSV tables;
 - linked text contains valid `TABLE_REF` entries;
@@ -286,14 +337,16 @@ Phase 1 is acceptable when:
 - unit tests pass.
 
 Phase 2 is acceptable when:
-- corpus is built from table metadata;
+- corpus is built from approved Phase 1 artifacts;
 - BM25 baseline works;
-- Qwen3-Embedding-8B retrieval interface works;
-- reranker produces top-k tables;
-- Recall@10 and Recall@50 are reported.
+- dense retrieval interface works;
+- reranker returns top-k evidence tables;
+- retrieval eval reports Recall@10, Recall@50, MRR, and missing evidence rate.
 
 Phase 3 is acceptable when:
 - evidence CSV files load into `dfs`;
+- schema-aware grounding returns selected cells with confidence;
 - direct lookup questions work;
 - arithmetic questions work through Pandas;
-- verifier catches wrong cell, wrong unit, wrong sign, and rounding errors.
+- multi-hop flow can request the next retrieval requirement;
+- verifier catches wrong table, row, column, cell, unit, sign, formula, and rounding errors.

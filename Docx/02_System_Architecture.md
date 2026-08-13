@@ -1,22 +1,38 @@
 # 02 - System Architecture
 
-## 1. Core Architecture
+## 1. Canonical Architecture
 
 ```text
-ViFinQA OCR TXT
--> Preprocessing
--> CSV Table Store
--> Table Retrieval
--> Evidence Package
--> Text-to-Pandas Reasoning
--> Verification
--> Final Answer
+Financial Reports
+-> OCR TXT + HTML Tables
+-> Extract Tables
+-> Clean / Normalize Tables
+-> CSV Tables + Metadata + Linked Text
+
+Question
+-> Query Hints / Metadata Filtering
+-> Retriever
+-> Candidate Tables
+-> Reranker
+-> Top-K Evidence Tables
+
+Schema-Aware Cell Grounding
+-> Selected Tables / Rows / Columns / Cells
+
+Reasoning Strategy
+-> Direct Lookup / PoT / CoT / Multi-hop
+
+Verification
+-> Verified Numerical Answer
 ```
 
-The core data object is a CSV table loaded as a Pandas DataFrame.
+The core financial representation is:
+
+```text
+CSV -> pandas.DataFrame
+```
 
 ## 2. Preprocessing Layer
-
 Responsibilities:
 - split OCR reports by page marker;
 - infer report metadata from file paths;
@@ -24,10 +40,11 @@ Responsibilities:
 - convert HTML tables into rectangular grids;
 - expand `rowspan`;
 - expand `colspan`;
+- align irregular rows;
 - normalize whitespace and HTML entities;
 - detect header rows;
 - flatten multi-row headers;
-- propagate financial hierarchy into row labels;
+- propagate financial group context into row labels;
 - parse Vietnamese numeric formats;
 - write clean CSV files;
 - replace HTML table blocks with `TABLE_REF`;
@@ -46,8 +63,9 @@ preprocessing/audit.py
 preprocessing/pipeline.py
 ```
 
-## 3. CSV Table Store Layer
+Phase 1 must not contain LLM, retrieval, embedding, reasoning, database, or Text-to-SQL code.
 
+## 3. CSV Table Store Layer
 Each table must have metadata:
 
 ```text
@@ -81,35 +99,67 @@ created_at
 ```
 
 ## 4. Retrieval Layer
-
-Retrieval pipeline:
+Retrieval is recall-first.
 
 ```text
 Question
--> extract query hints
--> filter table_metadata
+-> Query Hints
+-> Metadata Filtering
 -> BM25 top 50
--> Qwen3-Embedding-8B top 50
--> merge candidates
--> deduplicate table_id
--> rerank top 10
--> evidence package
+-> Dense Retrieval top 50
+-> Candidate Merge
+-> Deduplicate by table_id
+-> Reranker top 10
+-> Top-K Evidence Tables
 ```
+
+Retriever responsibility:
+- maximize chance that every required table appears in candidates;
+- avoid over-filtering when metadata confidence is low.
+
+Reranker responsibility:
+- improve precision and ranking quality among candidates;
+- preserve candidate scores and provenance.
+
+Missing a required table is a critical retrieval failure.
 
 Candidate outputs must preserve:
 
 ```text
+query_id
+question
 table_id
+rank
 bm25_score
 dense_score
 reranker_score
 retrieval_source
-rank
 csv_path
 metadata_filter_status
+model_name
+model_version
+created_at
 ```
 
-## 5. Reasoning Layer
+## 5. Evidence Package Layer
+Top-K evidence tables are packaged for reasoning:
+
+```json
+{
+  "query_id": "string",
+  "question": "string",
+  "intent": {},
+  "tables": [
+    {
+      "table_id": "string",
+      "csv_path": "string",
+      "metadata": {},
+      "retrieval_scores": {}
+    }
+  ],
+  "linked_text_context": ["string"]
+}
+```
 
 Evidence tables are loaded into:
 
@@ -118,39 +168,131 @@ dfs: dict[str, pandas.DataFrame]
 metadata_by_table: dict[str, dict]
 ```
 
+## 6. Schema-Aware Cell Grounding Layer
+Cell grounding is a first-class stage between retrieval and reasoning.
+
+Responsibilities:
+- identify the relevant `table_id`;
+- identify the relevant `row_label`;
+- identify the relevant `column_label`;
+- extract `raw_value`;
+- parse `parsed_value`;
+- determine `unit`;
+- assign confidence;
+- return `I_INSUFFICIENT_EVIDENCE` when required tables are missing;
+- return `E_NUMERICAL_EXTRACTION` when the table exists but row/column/cell grounding fails.
+
+Grounding priority:
+
+```text
+row_label_full
+-> row_label_raw
+-> fuzzy matching with confidence threshold
+```
+
+Reasoning must not start if required cells cannot be grounded with acceptable confidence.
+
+Grounded cell schema:
+
+```text
+table_id
+csv_path
+page_number
+row_label
+column_label
+raw_value
+parsed_value
+unit
+confidence
+grounding_method
+error_type
+```
+
+## 7. Reasoning Layer
 Reasoning strategies:
-- `deterministic`: exact lookup with no LLM code;
+- `deterministic`: direct lookup with one grounded cell and no arithmetic;
+- `pot`: Program-of-Thought, generated Pandas code executed in sandbox;
 - `cot`: controlled natural-language reasoning;
-- `pot`: generated Pandas code executed in sandbox;
-- `multi_step`: iterative planning for hard questions.
+- `multi_hop`: iterative retrieval and grounding for hard questions;
+- `auto`: strategy selector.
 
-## 6. Verification Layer
+Adaptive strategy:
 
+```text
+Schema-Aware Grounding
+-> Direct Lookup if one exact cell and no arithmetic
+-> Strategy Selection
+   -> PoT
+   -> CoT fallback
+   -> Multi-hop when intermediate result determines next evidence
+-> Verification
+```
+
+PoT is preferred for arithmetic, aggregation, multiple values, and multiple tables when code generation is reliable.
+
+CoT is used when sandbox/code execution fails, code generation is unstable, or natural-language reasoning is more reliable.
+
+Multi-hop flow:
+
+```text
+Question
+-> retrieve evidence
+-> grounding
+-> intermediate result
+-> determine next retrieval requirement
+-> retrieve again
+-> grounding again
+-> final calculation
+```
+
+This is not a complex multi-agent framework. It is an iterative control flow around retrieval, grounding, and reasoning.
+
+## 8. Verification Layer
 Verifier input:
 
 ```text
 question
 answer
-selected_cells
+grounded_cells
 calculation_trace
 evidence_tables
 ```
 
 Verifier checks:
 - selected table exists;
-- selected row matches requested metric;
-- selected column matches requested period;
+- selected row exists;
+- selected column exists;
+- selected cell exists;
 - raw value parses to parsed value;
 - unit conversion is correct;
 - sign convention is correct;
+- formula is correct;
 - final rounding is correct;
+- final numerical answer matches trace;
 - final answer is grounded in evidence.
 
-## 7. No Database Rule
+Answers with `verification_status = invalid` must not be accepted.
+
+## 9. Shared Error Taxonomy
+
+```text
+E_NUMERICAL_EXTRACTION
+I_INSUFFICIENT_EVIDENCE
+T_TECHNICAL_ERROR
+C_CALCULATION_ERROR
+F_FORMULA_ERROR
+U_UNVERIFIED
+```
+
+Use these codes consistently in Phase 3, Phase 4, tests, evaluation, and logs.
+
+## 10. No Database Rule
 Do not create:
 - database schemas;
 - migration files;
 - database connectors;
 - database ingestion scripts;
 - database inspection scripts;
-- Text-to-SQL modules.
+- ORM layers;
+- Text-to-SQL modules;
+- vector database services.
