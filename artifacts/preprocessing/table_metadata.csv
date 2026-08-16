@@ -1,0 +1,469 @@
+﻿table_id,csv_path,ticker,company_name,year,report_type,statement_type,unit,source_txt_path,page_number,table_index,title,nearby_text_before,nearby_text_after,row_count,column_count,numeric_cell_count,quality_score,needs_review,review_reason,created_at
+AAA_2015_consolidated_page2_table0,tables_csv/AAA/2015/consolidated/AAA_2015_consolidated_page2_table0.csv,AAA,AAA,2015,consolidated,unknown,đồng,AAA\2015\AAA_financial_statements_2015_consolidated\AAA_financial_statements_2015_consolidated_extracted.txt,2,0,MỤC LỤC,"CÔNG TY CỔ PHẦN NHỰA VÀ MÔI TRƯỜNG XANH AN PHÁT
+
+Lô CN11+CN12, cụm công nghiệp An Đồng, thị trấn Nam Sách, huyện Nam Sách, tỉnh Hải Dương
+
+MỤC LỤC","1
+
+1",6,5,2,0.333,False,,2026-08-16T16:02:20.653875+00:00
+AAA_2015_consolidated_page7_table0,tables_csv/AAA/2015/consolidated/AAA_2015_consolidated_page7_table0.csv,AAA,AAA,2015,consolidated,balance_sheet,đồng,AAA\2015\AAA_financial_statements_2015_consolidated\AAA_financial_statements_2015_consolidated_extracted.txt,7,0,Đơn vị: VND,"PHẦN NHỰA
+VÀ MÔI TRƯỜNG XANH AN PHÁT
+Lô CN11+CN12, cụm công nghiệp An Đồng,
+thị trấn Nam Sách, huyện Nam Sách, tỉnh Hải Dương
+
+BÁO CÁO TÀI CHÍNH
+HỢP NHẤT
+Cho năm tài chính kết thúc
+ngày 31 tháng 12 năm 2015
+
+BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT
+
+Tại ngày 31 tháng 12 năm 2015
+
+MÃU B 01-DN/HN
+
+Đơn vị: VND","Các thuyết minh từ trang 10 đến trang 42 là một bộ phận hợp thành của báo cáo tài chính hợp nhất
+
+6",34,11,108,0.794,False,,2026-08-16T16:02:20.653875+00:00
+AAA_2015_consolidated_page8_table0,tables_csv/AAA/2015/consolidated/AAA_2015_consolidated_page8_table0.csv,AAA,AAA,2015,consolidated,balance_sheet,đồng,AAA\2015\AAA_financial_statements_2015_consolidated\AAA_financial_statements_2015_consolidated_extracted.txt,8,0,Đơn vị: VND,"À MÔI TRƯỜNG XANH AN PHÁT
+Lô CN11+CN12, cụm công nghiệp An Đồng,
+thị trấn Nam Sách, huyện Nam Sách, tỉnh Hải Dương
+
+BÁO CÁO TÀI CHÍNH
+HỢP NHẤT
+Cho năm tài chính kết thúc
+ngày 31 tháng 12 năm 2015
+
+BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT (TIẾP THEO)
+
+Tại ngày 31 tháng 12 năm 2015
+
+MÃU B 01-DN/HN
+
+Đơn vị: VND","Nguyên Lê Trung
+
+Tổng Giám đốc
+
+Hải Dương, ngày 24 tháng 02 năm 2016
+
+Hòa Thị Thu Hà
+
+Kế toán trưởng
+
+f#a
+
+Hồ Thị Hòe
+
+Người lập
+
+Các thuyết minh từ trang 10 đến trang 42 là một bộ phận hợp thành của báo cáo tài chính hợp nhất
+
+7",25,11,78,0.78,False,,2026-08-16T16:02:20.653875+00:00
+AAA_2015_consolidated_page9_table0,tables_csv/AAA/2015/consolidated/AAA_2015_consolidated_page9_table0.csv,AAA,AAA,2015,consolidated,unknown,VNĐ,AAA\2015\AAA_financial_statements_2015_consolidated\AAA_financial_statements_2015_consolidated_extracted.txt,9,0,Dom vi: VND,"11+CN12, cum công nghiệp An Đông.
+
+thị trấn Nam Sách, huyện Nam Sách, tỉnh Hải Dương
+
+BÁO CÁO TÀI CHÍNH
+
+HỢP NHẤT
+
+Cho năm tài chính kết thúc
+
+ngày 31 tháng 12 năm 2015
+
+BÁO CÁO KÊT QUẢ HOẠT ĐỘNG KINH DOANH HỢP NHẤT
+
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2015
+
+MẦU B 02-DN/HN
+
+Dom vi: VND","Nguyen Lê Trung
+
+Tổng Giám đốc
+
+Hải Dương, ngày 24 tháng 02 năm 2016
+
+Hòa Thị Thu Hà
+
+Kế toán trường
+
+Hồ Thị Hòe
+
+Người lập
+
+Các thuyết mình từ trang 10 đến trang 42 là một bộ phận hợp thành của báo cáo tài chính hợp nhất
+
+8",23,11,78,0.848,False,,2026-08-16T16:02:20.653875+00:00
+AAA_2015_consolidated_page10_table0,tables_csv/AAA/2015/consolidated/AAA_2015_consolidated_page10_table0.csv,AAA,AAA,2015,consolidated,notes,đồng,AAA\2015\AAA_financial_statements_2015_consolidated\AAA_financial_statements_2015_consolidated_extracted.txt,10,0,Đơn vị: VND,"hiệp An Đồng,
+
+thị trân Nam Sách, huyện Nam Sách, tinh Hải Dương
+
+BÁO CÁO TÀI CHÍNH
+
+HỢP NHẤT
+
+Cho năm tài chính kết thúc
+
+ngày 31 tháng 12 năm 2015
+
+BẢO CẢO LƯU CHUYÊN TIỀN TỆ HỢP NHẤT
+
+(Theo phương pháp gián tiếp)
+
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2015
+
+MÃU B 03-DN/HN
+
+Đơn vị: VND","Nguyên Lê Trung
+
+Tổng Giám đốc
+
+Hải Dương, ngày 24 tháng 02 năm 2016
+
+Hòa Thị Thu Hà
+
+Kế toán trường
+
+Hồ Thị Hòe
+
+Người lập
+
+Các thuyết minh từ trang 10 đến trang 42 là một bộ phận hợp thành của báo cáo tài chính hợp nhất
+
+9
+
+11. N, 20, 二",36,9,89,0.824,False,,2026-08-16T16:02:20.653875+00:00
+AAA_2015_consolidated_page12_table0,tables_csv/AAA/2015/consolidated/AAA_2015_consolidated_page12_table0.csv,AAA,AAA,2015,consolidated,unknown,đồng,AAA\2015\AAA_financial_statements_2015_consolidated\AAA_financial_statements_2015_consolidated_extracted.txt,12,0,"ng nhận đăng ký kinh doanh thay đổi lần thứ 20 ngày 20 tháng 10 năm 2015, vốn điều lệ của Công ty là 494.999.880.000 đồng (Bốn trăm chín mươi bốn tỷ, chín trăm chín mươi chính triệu, tám trăm tám mươi","ng nhận đăng ký kinh doanh thay đổi lần thứ 20 ngày 20 tháng 10 năm 2015, vốn điều lệ của Công ty là 494.999.880.000 đồng (Bốn trăm chín mươi bốn tỷ, chín trăm chín mươi chính triệu, tám trăm tám mươi nghìn đồng) với mệnh giá 10.000 đồng/cổ phần. Danh sách các cổ đông sáng lập của Công ty như sau:","Ngành nghề kinh doanh và hoạt động chính
+
+Ngành nghề kinh doanh của Công ty là Sản xuất, kinh doanh nhựa và bao bì nhựa các loại.
+
+Hoạt động sản xuất kinh doanh chính của Công ty bao gồm:
+
+- Mua bán máy móc, vật tư, nguyên liệu sản phẩm nhựa, bao bì nhựa các loại;
+
+- Sản xuất các sản phẩm nhựa (PP",4,11,8,0.5,False,,2026-08-16T16:02:20.653875+00:00
+AAA_2015_consolidated_page17_table0,tables_csv/AAA/2015/consolidated/AAA_2015_consolidated_page17_table0.csv,AAA,AAA,2015,consolidated,income_statement,unknown,AAA\2015\AAA_financial_statements_2015_consolidated\AAA_financial_statements_2015_consolidated_extracted.txt,17,0,"Tài sản cố định hữu hình được khấu hao theo phương pháp đường thẳng dựa trên thời gian hữu dụng ước tính, cụ thể như sau:","ụng.
+
+Nguyên giá tài sản cố định hữu hình do nhà thầu thực hiện là giá trị quyết toán cuối cùng của công trình cộng các chi phí liên quan trực tiếp và chi phí đăng ký, nếu có.
+
+Tài sản cố định hữu hình được khấu hao theo phương pháp đường thẳng dựa trên thời gian hữu dụng ước tính, cụ thể như sau:","Các khoản lãi, lỗ phát sinh khi thanh lý, bán tài sản là chênh lệch giữa thu nhập từ thanh lý và giá trị còn lại của tài sản và được ghi nhận vào Báo cáo kết quả hoạt động kinh doanh.
+
+Tài sân cố định vô hình và khấu hao
+
+Tài sản cố định vô hình của Công ty bao gồm quyền sử dụng đất có thời hạn và",6,5,2,0.333,False,,2026-08-16T16:02:20.653875+00:00
+AAA_2015_consolidated_page17_table1,tables_csv/AAA/2015/consolidated/AAA_2015_consolidated_page17_table1.csv,AAA,AAA,2015,consolidated,unknown,unknown,AAA\2015\AAA_financial_statements_2015_consolidated\AAA_financial_statements_2015_consolidated_extracted.txt,17,1,Tài sản cố định vô hình được khấu hao theo phương pháp đường thẳng dựa trên thời gian hữu dụng ước tính. Thời gian khấu hao cụ thể như sau:,"oạt động kinh doanh.
+
+Tài sân cố định vô hình và khấu hao
+
+Tài sản cố định vô hình của Công ty bao gồm quyền sử dụng đất có thời hạn và phần mềm máy vi tính.
+
+Tài sản cố định vô hình được khấu hao theo phương pháp đường thẳng dựa trên thời gian hữu dụng ước tính. Thời gian khấu hao cụ thể như sau:","Chi phí xây dựng cơ bản dở dang
+
+Các tài sản đang trong quá trình xây dựng phục vụ mục đích sản xuất, cho thuê, quản trị hoặc cho bất kỳ mục đích nào khác được ghi nhận theo giá gốc. Chi phí này bao gồm chi phí dịch vụ và chi phí lãi vay có liên quan phù hợp với chính sách kế toán của Công ty. Việ",4,5,4,1.0,False,,2026-08-16T16:02:20.653875+00:00
+AAA_2015_consolidated_page20_table0,tables_csv/AAA/2015/consolidated/AAA_2015_consolidated_page20_table0.csv,AAA,AAA,2015,consolidated,balance_sheet,đồng,AAA\2015\AAA_financial_statements_2015_consolidated\AAA_financial_statements_2015_consolidated_extracted.txt,20,0,5.1. Tiền và các khoản tương đương tiền,"2 năm 2015
+
+THUYÊT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)
+
+MÃU SÓ B09 - DN/HN
+
+Các thuyết minh này là bộ phận hợp thành và cần được dọc đồng thời với Báo cáo tài chính kèm theo
+
+5. THÔNG TIN BỔ SUNG CHO CÁC KHOẢN MỤC TRÌNH BÀY TRÊN BẢNG CÂN ĐỐI KẾ TOÁN
+
+5.1. Tiền và các khoản tương đương tiền","5.2. Phải thu ngắn hạn của khách hàng
+
+ 31/12/2015VND 01/01/2015VND Phải thu ngắn hạn của khách hàng Phải thu khách hàng trong nước 3.106.438.220 1.875.311.609 Phải thu khách hàng nước ngo",4,7,8,1.0,False,,2026-08-16T16:02:20.653875+00:00
+AAA_2015_consolidated_page20_table1,tables_csv/AAA/2015/consolidated/AAA_2015_consolidated_page20_table1.csv,AAA,AAA,2015,consolidated,unknown,VNĐ,AAA\2015\AAA_financial_statements_2015_consolidated\AAA_financial_statements_2015_consolidated_extracted.txt,20,1,,,"5.3. Trả trước cho người bán ngắn hạn
+
+ 31/12/2015VND 01/01/2015VND Trả trước cho người bán ngắn hạn Trả trước cho người bán trong nước 42.508.272.790 3.241.996.107 Trả trước cho người bán",4,7,6,0.75,False,,2026-08-16T16:02:20.653875+00:00
+AAA_2015_consolidated_page20_table2,tables_csv/AAA/2015/consolidated/AAA_2015_consolidated_page20_table2.csv,AAA,AAA,2015,consolidated,unknown,VNĐ,AAA\2015\AAA_financial_statements_2015_consolidated\AAA_financial_statements_2015_consolidated_extracted.txt,20,2,5.3. Trả trước cho người bán ngắn hạn,">Phải thu khách hàng trong nước 3.106.438.220 1.875.311.609 Phải thu khách hàng nước ngoài 100.257.007.479 120.610.461.362 Cộng 103.363.445.699 122.485.772.971 
+
+5.3. Trả trước cho người bán ngắn hạn","5.4. Phải thu ngắn hạn khác
+
+ 31/12/2015VND 01/01/2015VND Ngắn hạn - Tạm ứng 31.335.296.127 24.323.966.379 - Ký cược, ký quỹ ngắn hạn 37.190.398.970 879.718.370",4,7,6,0.75,False,,2026-08-16T16:02:20.653875+00:00
+AAA_2015_consolidated_page20_table3,tables_csv/AAA/2015/consolidated/AAA_2015_consolidated_page20_table3.csv,AAA,AAA,2015,consolidated,unknown,unknown,AAA\2015\AAA_financial_statements_2015_consolidated\AAA_financial_statements_2015_consolidated_extracted.txt,20,3,5.4. Phải thu ngắn hạn khác,"r> Trả trước cho người bán trong nước 42.508.272.790 3.241.996.107 Trả trước cho người bán nước ngoài 126.751.292.744 1.329.977.813 Cộng 169.259.565.534 4.571.973.920 
+
+5.4. Phải thu ngắn hạn khác","19
+
+11. 20. 10. 30. 25.",6,7,10,0.833,False,,2026-08-16T16:02:20.653875+00:00
+AAA_2015_consolidated_page21_table0,tables_csv/AAA/2015/consolidated/AAA_2015_consolidated_page21_table0.csv,AAA,AAA,2015,consolidated,balance_sheet,VNĐ,AAA\2015\AAA_financial_statements_2015_consolidated\AAA_financial_statements_2015_consolidated_extracted.txt,21,0,CÔNG TY CỔ PHẦN NHỰA VÀ MÔI TRƯỜNG XANH AN PHÁT,CÔNG TY CỔ PHẦN NHỰA VÀ MÔI TRƯỜNG XANH AN PHÁT,"5. THÔNG TIN BỔ SUNG CHO CÁC KHOẢN MỤC TRÌNH BÀY TRÊN BẢNG CÂN ĐỐI KẾ TOÁN (TIẾP THEO)
+5.5. Hàng tồn kho
+
+ 31/12/2015 01/01/2015 Giá gốc VND Dự phòng VND Giá gốc VND Dự phòng VND",2,5,0,0.0,True,low_numeric_density,2026-08-16T16:02:20.653875+00:00
+AAA_2015_consolidated_page21_table1,tables_csv/AAA/2015/consolidated/AAA_2015_consolidated_page21_table1.csv,AAA,AAA,2015,consolidated,balance_sheet,đồng,AAA\2015\AAA_financial_statements_2015_consolidated\AAA_financial_statements_2015_consolidated_extracted.txt,21,1,5.5. Hàng tồn kho,"THUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)Các thuyết minh này là bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính kèm theo MẢU SỐ B09 - DN/HN 
+
+5. THÔNG TIN BỔ SUNG CHO CÁC KHOẢN MỤC TRÌNH BÀY TRÊN BẢNG CÂN ĐỐI KẾ TOÁN (TIẾP THEO)
+5.5. Hàng tồn kho","20
+
+\( \left( {1 + u}\right)  = \frac{u}{\left( {1 + u}\right) u} < \frac{u}{\left( {1 + u}\right) u} = \frac{u}{\left( {1 + u}\right) u} \)",21,11,34,0.405,False,,2026-08-16T16:02:20.653875+00:00
+AAA_2015_consolidated_page22_table0,tables_csv/AAA/2015/consolidated/AAA_2015_consolidated_page22_table0.csv,AAA,AAA,2015,consolidated,balance_sheet,VNĐ,AAA\2015\AAA_financial_statements_2015_consolidated\AAA_financial_statements_2015_consolidated_extracted.txt,22,0,CÔNG TY CỔ PHẦN NHỰA VÀ MÔI TRƯỜNG XANH AN PHÁT,CÔNG TY CỔ PHẦN NHỰA VÀ MÔI TRƯỜNG XANH AN PHÁT,"5. THÔNG TIN BỔ SUNG CHO CÁC KHOẢN MỤC TRÌNH BÀY TRÊN BẢNG CÂN ĐỐI KẾ TOÁN (TIẾP THEO)
+
+5.7. Tài sản cố định hữu hình
+
+ Nhà cửa vật kiến trúc VND Máy móc thiết bị VND Phương tiện vận tải VND Thiết bị văn phòng VND Cây lâu năm, sức vật làm việc",0,2,0,0.0,True,no_data_rows,2026-08-16T16:02:20.653875+00:00
+AAA_2015_consolidated_page22_table1,tables_csv/AAA/2015/consolidated/AAA_2015_consolidated_page22_table1.csv,AAA,AAA,2015,consolidated,balance_sheet,đồng,AAA\2015\AAA_financial_statements_2015_consolidated\AAA_financial_statements_2015_consolidated_extracted.txt,22,1,5.7. Tài sản cố định hữu hình,"ẢO CẢO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)Các thuyết minh này là bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính kèm theo MẦU SỐ B09 - DN/HN 
+
+5. THÔNG TIN BỔ SUNG CHO CÁC KHOẢN MỤC TRÌNH BÀY TRÊN BẢNG CÂN ĐỐI KẾ TOÁN (TIẾP THEO)
+
+5.7. Tài sản cố định hữu hình","Giá trị còn lại cuối kỳ của TSCĐ hữu hình đã dùng để thế chấp, cầm cố đảm bảo các khoản vay tại ngày 31/12/2015 là 595.375.421.956 đồng (tại ngày 31/12/2014 là 524.578.473.102 đồng).
+
+Nguyên giá của TSCĐ hữu hình đã khấu hao hết nhưng vẫn còn sử dụng tại ngày 31/12/2015 là 16.858.546.268 đồng (tại",14,17,64,0.653,False,,2026-08-16T16:02:20.653875+00:00
+AAA_2015_consolidated_page23_table0,tables_csv/AAA/2015/consolidated/AAA_2015_consolidated_page23_table0.csv,AAA,AAA,2015,consolidated,balance_sheet,đồng,AAA\2015\AAA_financial_statements_2015_consolidated\AAA_financial_statements_2015_consolidated_extracted.txt,23,0,5.8. Tài sản cố định vô hình,"năm 2015
+
+THUYÊT MINH BẢO CÁO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)
+
+MÃU SÓ B09 - DN/HN
+
+Các thuyết minh này là bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính kèm theo
+
+5. THÔNG TIN BỔ SUNG CHO CÁC KHOẢN MỤC TRÌNH BÀY TRÊN BẢNG CÂN ĐỐI KẾ TOÁN (TIẾP THEO)
+
+5.8. Tài sản cố định vô hình","Giá trị còn lại cuối kỳ của TSCĐ vô hình đã dùng để thế chấp, cầm cố đảm bảo các khoản vay tại ngày 31/12/2015 là 32.211.525.109 đồng (tại ngày 31/12/2014 là 18.212.328.636 đồng).
+
+5.9. Chi phí xây dựng cơ bản dở dang
+
+ 31/12/2015VND 01/01/2015VND Nh",11,9,23,0.697,False,,2026-08-16T16:02:20.653875+00:00
+AAA_2015_consolidated_page23_table1,tables_csv/AAA/2015/consolidated/AAA_2015_consolidated_page23_table1.csv,AAA,AAA,2015,consolidated,unknown,đồng,AAA\2015\AAA_financial_statements_2015_consolidated\AAA_financial_statements_2015_consolidated_extracted.txt,23,1,5.9. Chi phí xây dựng cơ bản dở dang,"> 41.070.592.231 86.194.446 41.156.786.677 
+
+Giá trị còn lại cuối kỳ của TSCĐ vô hình đã dùng để thế chấp, cầm cố đảm bảo các khoản vay tại ngày 31/12/2015 là 32.211.525.109 đồng (tại ngày 31/12/2014 là 18.212.328.636 đồng).
+
+5.9. Chi phí xây dựng cơ bản dở dang",22,8,7,11,0.688,False,,2026-08-16T16:02:20.653875+00:00
+AAA_2015_consolidated_page24_table0,tables_csv/AAA/2015/consolidated/AAA_2015_consolidated_page24_table0.csv,AAA,AAA,2015,consolidated,balance_sheet,đồng,AAA\2015\AAA_financial_statements_2015_consolidated\AAA_financial_statements_2015_consolidated_extracted.txt,24,0,"5.10. Đầu tư vào công ty liên doanh, liên kết","MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)
+
+MÃU SÓ B09 - DN/HN
+
+Các thuyết minh này là bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính kèm theo
+
+5. THÔNG TIN BỔ SUNG CHO CÁC KHOÀN MỤC TRÌNH BÀY TRÊN BẢNG CÂN ĐỐI KẾ TOÁN (TIẾP THEO)
+
+5.10. Đầu tư vào công ty liên doanh, liên kết","Đây là khoản đầu tư của Công ty Cổ phần Nhựa và Môi trường xanh An Phát vào Công ty Cổ phần Nhựa Bao bì Vinh dưới hình thức mua cổ phiếu của Công ty Cổ phần Nhựa Bao bì Vinh (Mã chứng khoán VBC). Tại thời điểm ngày 31 tháng 12 năm 2015, Công ty Cổ phần Nhựa và Môi trường Xanh An Phát nằm giữ 966.5",2,7,4,1.0,False,,2026-08-16T16:02:20.653875+00:00
+AAA_2015_consolidated_page24_table1,tables_csv/AAA/2015/consolidated/AAA_2015_consolidated_page24_table1.csv,AAA,AAA,2015,consolidated,unknown,unknown,AAA\2015\AAA_financial_statements_2015_consolidated\AAA_financial_statements_2015_consolidated_extracted.txt,24,1,5.11. Phải trả ngắn hạn khác,"nguyên liệu, thiết bị sản xuất bao bì các loại (hạt nhựa, giấy Krapept, máy móc sản xuất bao bì...); Kinh doanh vận tải hàng hóa đường bộ; Kinh doanh nhà ở... Công ty liên kết có địa chỉ tại số 18, Đường Phong Định Cảng, Phường Bến Thủy, Thành phố Vinh, Tỉnh Nghệ An.
+
+5.11. Phải trả ngắn hạn khác",23,9,7,16,0.889,False,,2026-08-16T16:02:20.653875+00:00
+AAA_2015_consolidated_page25_table0,tables_csv/AAA/2015/consolidated/AAA_2015_consolidated_page25_table0.csv,AAA,AAA,2015,consolidated,balance_sheet,VNĐ,AAA\2015\AAA_financial_statements_2015_consolidated\AAA_financial_statements_2015_consolidated_extracted.txt,25,0,CÔNG TY CỔ PHẦN NHỰA VÀ MÔI TRƯỜNG XANH AN PHÁT,CÔNG TY CỔ PHẦN NHỰA VÀ MÔI TRƯỜNG XANH AN PHÁT,"5. THÔNG TIN BỔ SUNG CHO CÁC KHOACIÓN MỤC TRÌNH BÀY TRÊN BẢNG CÂN ĐỐI KẾ TOÁN (TIẾP THEO)
+
+5.12. Phải trả người bán ngắn hạn
+
+ 31/12/2015 01/01/2015 Giá trịVND Số có khả năngtrả nợVND Giá trịVND",0,2,0,0.0,True,no_data_rows,2026-08-16T16:02:20.653875+00:00
+AAA_2015_consolidated_page25_table1,tables_csv/AAA/2015/consolidated/AAA_2015_consolidated_page25_table1.csv,AAA,AAA,2015,consolidated,balance_sheet,đồng,AAA\2015\AAA_financial_statements_2015_consolidated\AAA_financial_statements_2015_consolidated_extracted.txt,25,1,5.12. Phải trả người bán ngắn hạn,"I CHÍNH HỢP NHẤT (TIỂP THEO)Các thuyết minh nay là bộ phận hợp thành yỉc cần được đọc đồng thời vải. Báo cáo tài chính kèm theo MẦU SỐ B09 - DN/HN 
+
+5. THÔNG TIN BỔ SUNG CHO CÁC KHOACIÓN MỤC TRÌNH BÀY TRÊN BẢNG CÂN ĐỐI KẾ TOÁN (TIẾP THEO)
+
+5.12. Phải trả người bán ngắn hạn",24,11,11,24,0.545,False,,2026-08-16T16:02:20.653875+00:00
+AAA_2015_consolidated_page26_table0,tables_csv/AAA/2015/consolidated/AAA_2015_consolidated_page26_table0.csv,AAA,AAA,2015,consolidated,balance_sheet,unknown,AAA\2015\AAA_financial_statements_2015_consolidated\AAA_financial_statements_2015_consolidated_extracted.txt,26,0,5.14. Vay và nợ thuê tài chính ngắn hạn,"N PHÁT
+
+Lô CN11+CN12, cụm công nghiệp An Đông,
+thị trấn Nam Sách, huyện Nam Sách, tỉnh Hải Dương
+Cho năm tài chính kết thúc
+ngày 31 tháng 12 năm 2015
+
+MÃU SỐ B09 - DN/HN
+
+5. THÔNG TIN BÔ SUNG CHO CÁC KHOÀN MỤC TRÌNH BÀY TRÊN BẢNG CÂN ĐỐI KẾ TOÁN (TIẾP THEO)
+
+5.14. Vay và nợ thuê tài chính ngắn hạn",25,11,15,60,0.909,False,,2026-08-16T16:02:20.653875+00:00
+AAA_2015_consolidated_page29_table0,tables_csv/AAA/2015/consolidated/AAA_2015_consolidated_page29_table0.csv,AAA,AAA,2015,consolidated,balance_sheet,đồng,AAA\2015\AAA_financial_statements_2015_consolidated\AAA_financial_statements_2015_consolidated_extracted.txt,29,0,5.16. Vay và nợ thuê tài chính dài hạn,"ách, tỉnh Hải Dương
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)
+
+Các thuyết minh này là bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính kèm theo
+
+5. THÔNG TIN BỔ SUNG CHO CÁC KHOẢN MỤC TRÌNH BÀY TRÊN BẢNG CÂN ĐỐI KẾ TOÁN (TIẾP THEO)
+
+5.16. Vay và nợ thuê tài chính dài hạn","Cộng 171.262.661.266 171.262.661.266 93.615.035.250 50.003.365.386 127.650.991.402 127.650.991.402
+(i) Vay trung hạn tại Ngân hàng TMCP Xăng dầu Petrolimex - Chi nhánh Hải Dương theo các hợp đồng vay trung và dài hạn với số tiền vay quy định từng hợp đồng và thời hạn từ 50 - 60 tháng. Mục đích sử",5,15,25,0.833,False,,2026-08-16T16:02:20.653875+00:00
+AAA_2015_consolidated_page30_table0,tables_csv/AAA/2015/consolidated/AAA_2015_consolidated_page30_table0.csv,AAA,AAA,2015,consolidated,unknown,đồng,AAA\2015\AAA_financial_statements_2015_consolidated\AAA_financial_statements_2015_consolidated_extracted.txt,30,0,Các khoản vay dài hạn được hoàn trả theo lịch biểu sau:,"y là 48 tháng kể từ ngày rút khoản vốn đầu tiên. Lãi suất cho vay là lãi suất huy động tiết kiệm Việt Nam đồng cá nhân kỳ hạn 12 tháng trả lãi sau của bên cho vay +3,3% /năm. Bảo đảm tiền vay bằng tài sản với tổng giá trị 5.526.363.638 đồng.
+
+Các khoản vay dài hạn được hoàn trả theo lịch biểu sau:","29
+
+121 6.0A.0V.22",1,7,2,1.0,True,too_few_rows,2026-08-16T16:02:20.653875+00:00
+AAA_2015_consolidated_page31_table0,tables_csv/AAA/2015/consolidated/AAA_2015_consolidated_page31_table0.csv,AAA,AAA,2015,consolidated,balance_sheet,đồng,AAA\2015\AAA_financial_statements_2015_consolidated\AAA_financial_statements_2015_consolidated_extracted.txt,31,0,a. Băng đối chiếu biến động của vốn chủ sở hữu,"NH BÁO CÁO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)
+
+Các thuyết minh này là bộ phận hợp thành và cần được dọc đồng thời với Báo cáo tài chính kèm theo
+
+5. THÔNG TIN BỔ SUNG CHO CÁC KHOẢN MỤC TRÌNH BÀY TRÊN BẢNG CÂN ĐỐI KẾ TOÁN (TIẾP THEO)
+
+5.17. Vốn chủ sở hữu
+
+a. Băng đối chiếu biến động của vốn chủ sở hữu","BÁO CÁO TÀI CHÍNH HỢP NHẤTCho năm tài chính kết thúcngày 31 tháng 12 năm 2015 Mẫu SỐ B09 - DN/HN 
+
+30
+
+1",15,19,58,0.483,False,,2026-08-16T16:02:20.653875+00:00
+AAA_2015_consolidated_page31_table1,tables_csv/AAA/2015/consolidated/AAA_2015_consolidated_page31_table1.csv,AAA,AAA,2015,consolidated,unknown,unknown,AAA\2015\AAA_financial_statements_2015_consolidated\AAA_financial_statements_2015_consolidated_extracted.txt,31,1,.213.000) - - (876.213.000) Số dư tại ngày 31/12/2015 494.999.880.000 147.408.567.329 1.587.734.457 35.950.759.648 13.177.404.323 116.439.130.668 9.921.791.820 819.485.268.245,.213.000) - - (876.213.000) Số dư tại ngày 31/12/2015 494.999.880.000 147.408.567.329 1.587.734.457 35.950.759.648 13.177.404.323 116.439.130.668 9.921.791.820 819.485.268.245,"30
+
+1",1,3,0,0.0,True,low_numeric_density,2026-08-16T16:02:20.653875+00:00
+AAA_2015_consolidated_page33_table0,tables_csv/AAA/2015/consolidated/AAA_2015_consolidated_page33_table0.csv,AAA,AAA,2015,consolidated,balance_sheet,đồng,AAA\2015\AAA_financial_statements_2015_consolidated\AAA_financial_statements_2015_consolidated_extracted.txt,33,0,b. Các giao dịch về vốn với Chủ sở hữu,"NHẤT (TIẾP THEO)
+
+MÃU SỐ B09 - DN/HN
+
+Các thuyết minh này là bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính kèm theo
+
+5. THÔNG TIN BỔ SUNG CHO CÁC KHOÀN MỤC TRÌNH BÀY TRÊN BẢNG CÂN ĐỐI KẾ TOÁN (TIẾP THEO)
+
+5.17. Vốn chủ sở hữu (Tiếp theo)
+
+b. Các giao dịch về vốn với Chủ sở hữu","c. Cổ phiếu
+
+ Năm 2015Cổ phần Năm 2014Cổ phần Số lượng cổ phiếu đăng ký phát hành 39.600.000 39.600.000 Số lượng cổ phiếu đã bán ra công chúng 49.499.988 39.600.000 - Cổ phiếu phổ thôn",5,7,8,0.8,False,,2026-08-16T16:02:20.653875+00:00
+AAA_2015_consolidated_page33_table1,tables_csv/AAA/2015/consolidated/AAA_2015_consolidated_page33_table1.csv,AAA,AAA,2015,consolidated,unknown,đồng,AAA\2015\AAA_financial_statements_2015_consolidated\AAA_financial_statements_2015_consolidated_extracted.txt,33,1,c. Cổ phiếu,"00.000 - Vốn góp tăng trong kỳ 98.999.880.000 198.000.000.000 - Vốn góp cuối kỳ 494.999.880.000 396.000.000.000 Cổ tức, lợi nhuận đã chia 124.799.880.000 19.800.000.000 
+
+c. Cổ phiếu","Mệnh giá cổ phiếu đang lưu hành: 10.000 đồng/có phần.
+
+32",10,7,10,0.5,False,,2026-08-16T16:02:20.653875+00:00
+AAA_2015_consolidated_page34_table0,tables_csv/AAA/2015/consolidated/AAA_2015_consolidated_page34_table0.csv,AAA,AAA,2015,consolidated,notes,đồng,AAA\2015\AAA_financial_statements_2015_consolidated\AAA_financial_statements_2015_consolidated_extracted.txt,34,0,6.1. Doanh thu thuần về bán hàng và cung cấp dịch vụ,"2015
+
+THUYÊT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)
+
+MÃU SÓ B09 - DN/HN
+
+Các thuyết minh này là bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính kèm theo
+
+6. THÔNG TIN BỔ SUNG CÁC KHOẢN MỤC TRÊN BẢO CÁO KẾT QUẢ KINH DOANH
+
+6.1. Doanh thu thuần về bán hàng và cung cấp dịch vụ","6.2. Giá vốn hàng bán
+
+ Năm 2015VND Năm 2014VND Giá vốn bán thành phẩm đã bán 1.294.778.621.643 1.277.861.676.445 Giá vốn bán hàng hóa đã bán 128.999.091.382 100.037.026.680 Giá vốn củ",8,7,15,0.938,False,,2026-08-16T16:02:20.653875+00:00
+AAA_2015_consolidated_page34_table1,tables_csv/AAA/2015/consolidated/AAA_2015_consolidated_page34_table1.csv,AAA,AAA,2015,consolidated,unknown,VNĐ,AAA\2015\AAA_financial_statements_2015_consolidated\AAA_financial_statements_2015_consolidated_extracted.txt,34,1,6.2. Giá vốn hàng bán,"Giảm giá hàng bán 1.198.534.899 4.096.063.542 - Hàng bán bị trả lại 301.335.316 23.727.270 Doanh thu thuần về bán hàng và cung cấp dịch vụ 1.614.548.947.901 1.560.643.609.091 
+
+6.2. Giá vốn hàng bán","6.3. Doanh thu hoạt động tài chính
+
+ Năm 2015VND Năm 2014VND Lãi tiền gửi ngân hàng 5.536.394.107 1.716.999.544 Lãi đầu tư trái phiếu - 156.750.000 Cổ tức, lợi nhuận được chia",4,7,7,0.875,False,,2026-08-16T16:02:20.653875+00:00
+AAA_2015_consolidated_page34_table2,tables_csv/AAA/2015/consolidated/AAA_2015_consolidated_page34_table2.csv,AAA,AAA,2015,consolidated,unknown,unknown,AAA\2015\AAA_financial_statements_2015_consolidated\AAA_financial_statements_2015_consolidated_extracted.txt,34,2,6.3. Doanh thu hoạt động tài chính,"tr> Giá vốn bán hàng hóa đã bán 128.999.091.382 100.037.026.680 Giá vốn của dịch vụ gia công đã cung cấp 963.443.710 - Cộng 1.424.741.156.735 1.377.898.703.125 
+
+6.3. Doanh thu hoạt động tài chính",33,6,7,9,0.75,False,,2026-08-16T16:02:20.653875+00:00
+AAA_2015_consolidated_page35_table0,tables_csv/AAA/2015/consolidated/AAA_2015_consolidated_page35_table0.csv,AAA,AAA,2015,consolidated,notes,đồng,AAA\2015\AAA_financial_statements_2015_consolidated\AAA_financial_statements_2015_consolidated_extracted.txt,35,0,6.4. Chi phí hoạt động tài chính,"g 12 năm 2015
+
+THUYET MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)
+
+MÃU SÓ B09 - DN/HN
+
+Các thuyết minh này là bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính kèm theo
+
+6. THÔNG TIN BỔ SUNG CÁC KHOẢN MỤC TRÊN BÁO CÁO KẾT QUẢ KINH DOANH (TIẾP THEO)
+
+6.4. Chi phí hoạt động tài chính","6.5. Chi phí quản lý doanh nghiệp và Chi phí bán hàng
+
+ Năm 2015VND Năm 2014VND Các khoản chi phí quản lý doanh nghiệp phát sinh trong kỳ Chi phí nguyên liệu, vật liệu 4.276.349.916 3.036.699.155",4,7,8,1.0,False,,2026-08-16T16:02:20.653875+00:00
+AAA_2015_consolidated_page35_table1,tables_csv/AAA/2015/consolidated/AAA_2015_consolidated_page35_table1.csv,AAA,AAA,2015,consolidated,unknown,VNĐ,AAA\2015\AAA_financial_statements_2015_consolidated\AAA_financial_statements_2015_consolidated_extracted.txt,35,1,6.5. Chi phí quản lý doanh nghiệp và Chi phí bán hàng,"iá đã thực hiện 24.714.728.440 5.677.298.458 Lỗ chênh lệch tỷ giá chưa thực hiện 1.211.216.521 3.032.269.003 Cộng 49.991.756.319 25.896.787.122 
+
+6.5. Chi phí quản lý doanh nghiệp và Chi phí bán hàng","6.6. Chi phí thuế thu nhập doanh nghiệp hiện hành
+
+ Năm 2015VND Năm 2014VND Chi phí thuế thu nhập doanh nghiệp hiện hành- Chi phí thuế thu nhập doanh nghiệp tính trên thu nhập chịu thuế năm hiện hành 10.029.634.651 9.175.466.515",14,7,24,0.857,False,,2026-08-16T16:02:20.653875+00:00
+AAA_2015_consolidated_page35_table2,tables_csv/AAA/2015/consolidated/AAA_2015_consolidated_page35_table2.csv,AAA,AAA,2015,consolidated,unknown,unknown,AAA\2015\AAA_financial_statements_2015_consolidated\AAA_financial_statements_2015_consolidated_extracted.txt,35,2,6.6. Chi phí thuế thu nhập doanh nghiệp hiện hành,"r> Chi phí dịch vụ mua ngoài 31.497.801.798 33.221.617.617 Chi phí khác bằng tiền 6.258.080.206 2.512.687.898 Cộng 75.230.050.612 78.937.784.265 
+
+6.6. Chi phí thuế thu nhập doanh nghiệp hiện hành",34,1,7,2,1.0,True,too_few_rows,2026-08-16T16:02:20.653875+00:00
+AAA_2015_consolidated_page36_table0,tables_csv/AAA/2015/consolidated/AAA_2015_consolidated_page36_table0.csv,AAA,AAA,2015,consolidated,notes,đồng,AAA\2015\AAA_financial_statements_2015_consolidated\AAA_financial_statements_2015_consolidated_extracted.txt,36,0,6.7. Chi phí sản xuất kinh doanh theo yếu tố,"5
+
+THUYÊT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)
+
+MÃU SÓ B09 - DN/HN
+
+Các thuyết minh này là bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính kèm theo
+
+6. THÔNG TIN BỔ SUNG CÁC KHOẢN MỤC TRÊN BÁO CÁO KẾT QUẢ KINH DOANH (TIẾP THEO)
+
+6.7. Chi phí sản xuất kinh doanh theo yếu tố","6.8. Lãi cơ bản trên cổ phiếu /Lãi suy giảm trên cổ phiếu
+
+a. Lợi nhuận (i)
+
+ Năm 2015VND Năm 2014VND Lợi nhuận/(Lỗ) phân bổ cho cổ đông sở hữu cổ phiếu phổ thông 40.015.870.985 46.963.561.091 Trừ: Quỹ khen thưởng phú",6,7,12,1.0,False,,2026-08-16T16:02:20.653875+00:00
+AAA_2015_consolidated_page36_table1,tables_csv/AAA/2015/consolidated/AAA_2015_consolidated_page36_table1.csv,AAA,AAA,2015,consolidated,unknown,unknown,AAA\2015\AAA_financial_statements_2015_consolidated\AAA_financial_statements_2015_consolidated_extracted.txt,36,1,a. Lợi nhuận (i),"d> 99.291.995.820 85.341.139.657 Chi phí khác bằng tiền 13.410.566.583 11.935.090.378 Cộng 1.564.861.037.549 1.582.074.525.736 
+
+6.8. Lãi cơ bản trên cổ phiếu /Lãi suy giảm trên cổ phiếu
+
+a. Lợi nhuận (i)","(i) Theo hướng dẫn trình bày chỉ tiêu “mã số 70 - Lãi cơ bản trên cổ phiếu” và “mã số 71 - Lãi suy giảm trên cổ phiếu” trên Báo cáo kết quả kinh doanh của thông tư 200, phần “Lợi nhuận/(Lỗ) để tính lãi cơ bản trên cổ phiếu và lãi suy giảm trên cổ phiếu” được tính bằng “Lợi nhuận/(Lỗ) phân bổ cho c",8,7,12,0.75,False,,2026-08-16T16:02:20.653875+00:00
+AAA_2015_consolidated_page37_table0,tables_csv/AAA/2015/consolidated/AAA_2015_consolidated_page37_table0.csv,AAA,AAA,2015,consolidated,unknown,đồng,AAA\2015\AAA_financial_statements_2015_consolidated\AAA_financial_statements_2015_consolidated_extracted.txt,37,0,Số cổ phiếu phổ thông bình quân gia quyền đang lưu hành,"minh này là bộ phận hợp thành và cần được dọc đồng thời với Báo cáo tài chính kèm theo
+
+6. THÔNG TIN BỔ SUNG CÁC KHOẢN MỤC TRÊN BÁO CÁO KẾT QUẢ KINH DOANH (TIẾP THEO)
+
+6.8. Lãi cơ bản trên cổ phiếu /Lãi suy giảm trên cổ phiếu
+
+b. Số cổ phiếu
+
+Số cổ phiếu phổ thông bình quân gia quyền đang lưu hành","Điều chỉnh lại số cổ phiếu phổ thông đang lưu hành bình quân gia quyền
+
+Trong năm 2015, Công ty mẹ thực hiện trả cổ tức bằng cổ phiếu theo tỷ lệ 100:25 với số tiền tương ứng là 98.999.880.000 đồng (tương đương 9.899.977 cổ phần với mệnh giá 10.000 đồng/cổ phần) từ lợi nhuận sau thuế chưa phân phối",4,7,2,0.25,False,,2026-08-16T16:02:20.653875+00:00
+AAA_2015_consolidated_page37_table1,tables_csv/AAA/2015/consolidated/AAA_2015_consolidated_page37_table1.csv,AAA,AAA,2015,consolidated,unknown,đồng,AAA\2015\AAA_financial_statements_2015_consolidated\AAA_financial_statements_2015_consolidated_extracted.txt,37,1,"Đ ngày 16 tháng 07 năm 2015 và Nghị quyết số 1208/2015/NQ-HĐQT ngày 12 tháng 08 năm 2015 của Hội đồng Quản trị Công ty. Theo hướng dẫn tại Chuẩn mực Kế toán Việt nam số 30 “Lãi cơ bản trên cổ phiếu”, ","Đ ngày 16 tháng 07 năm 2015 và Nghị quyết số 1208/2015/NQ-HĐQT ngày 12 tháng 08 năm 2015 của Hội đồng Quản trị Công ty. Theo hướng dẫn tại Chuẩn mực Kế toán Việt nam số 30 “Lãi cơ bản trên cổ phiếu”, lãi cơ bản trên cổ phiếu của năm 2014 sẽ được điều chỉnh lại do ảnh hưởng của yếu tố trên như sau:","c. Lãi cơ bản trên cổ phiếu / Lãi suy giảm trên cổ phiếu
+
+ Năm 2015VND Năm 2014VND Lãi cơ bản trên cổ phiếu 642 1.197 Lãi suy giảm trên cổ phiếu 642 1.197 Mệnh giá cổ phiếu (đồng/cổ ph",3,7,6,1.0,False,,2026-08-16T16:02:20.653875+00:00
+AAA_2015_consolidated_page37_table2,tables_csv/AAA/2015/consolidated/AAA_2015_consolidated_page37_table2.csv,AAA,AAA,2015,consolidated,unknown,unknown,AAA\2015\AAA_financial_statements_2015_consolidated\AAA_financial_statements_2015_consolidated_extracted.txt,37,2,c. Lãi cơ bản trên cổ phiếu / Lãi suy giảm trên cổ phiếu,"chính năm 2014 24.784.293 1.895 Ảnh hưởng của cổ phiếu phát hành bằng cổ tức năm 2015 9.899.988 (698) Số đã điều chỉnh lại 34.684.281 1.197 
+
+c. Lãi cơ bản trên cổ phiếu / Lãi suy giảm trên cổ phiếu",36,3,7,6,1.0,False,,2026-08-16T16:02:20.653875+00:00
+AAA_2015_consolidated_page38_table0,tables_csv/AAA/2015/consolidated/AAA_2015_consolidated_page38_table0.csv,AAA,AAA,2015,consolidated,notes,unknown,AAA\2015\AAA_financial_statements_2015_consolidated\AAA_financial_statements_2015_consolidated_extracted.txt,38,0,Hệ số đơn bảy tài chính của Công ty tại ngày kết thúc kỳ kế toán như sau:,"oản vay như đã trình bày tại Thuyết minh số 5.14 và 5.16 trừ đi Tiền và các khoản tương đương tiền) và phần vốn của chủ sở hữu (bao gồm vốn góp, các quỹ dự trữ và lợi nhuận sau thuế chưa phân phối).
+
+Hệ số đơn bảy tài chính
+
+Hệ số đơn bảy tài chính của Công ty tại ngày kết thúc kỳ kế toán như sau:","Các chính sách kế toán chủ yếu
+
+Chi tiết các chính sách kế toán chủ yếu và phương pháp mà Công ty áp dụng (bao gồm các tiêu chí để ghi nhận, cơ sở xác định giá trị và cơ sở ghi nhận các khoản thu nhập và chi phí) đối với từng loại tài sản tài chính, công nợ tài chính và công cụ vốn được trình bày",5,7,10,1.0,False,,2026-08-16T16:02:20.653875+00:00
+AAA_2015_consolidated_page38_table1,tables_csv/AAA/2015/consolidated/AAA_2015_consolidated_page38_table1.csv,AAA,AAA,2015,consolidated,notes,unknown,AAA\2015\AAA_financial_statements_2015_consolidated\AAA_financial_statements_2015_consolidated_extracted.txt,38,1,Các loại công cụ tài chính,"toán chủ yếu và phương pháp mà Công ty áp dụng (bao gồm các tiêu chí để ghi nhận, cơ sở xác định giá trị và cơ sở ghi nhận các khoản thu nhập và chi phí) đối với từng loại tài sản tài chính, công nợ tài chính và công cụ vốn được trình bày chi tiết tại Thuyết minh số 4.
+
+Các loại công cụ tài chính","37
+
+1161 20 32 = 3.17",10,7,15,0.75,False,,2026-08-16T16:02:20.653875+00:00
+AAA_2015_consolidated_page39_table0,tables_csv/AAA/2015/consolidated/AAA_2015_consolidated_page39_table0.csv,AAA,AAA,2015,consolidated,unknown,unknown,AAA\2015\AAA_financial_statements_2015_consolidated\AAA_financial_statements_2015_consolidated_extracted.txt,39,0,Giá trị ghi sổ của các tài sản bằng tiền và công nợ bằng tiền có gốc ngoại tệ tại thời điểm cuối kỳ như sau:,"o này do thiếu thị trường mua các công cụ tài chính.
+
+Quản lý rủi ro tỷ giá
+
+Công ty thực hiện một số giao dịch có gốc ngoại tệ, theo đó, Công ty sẽ chịu rủi ro khi có biến động về tỷ giá.
+
+Giá trị ghi sổ của các tài sản bằng tiền và công nợ bằng tiền có gốc ngoại tệ tại thời điểm cuối kỳ như sau:","38
+
+\( \left( {x - 1}\right) \left( {x + 3}\right)  = 0 \)",10,7,16,0.8,False,,2026-08-16T16:02:20.653875+00:00
+AAA_2015_consolidated_page41_table0,tables_csv/AAA/2015/consolidated/AAA_2015_consolidated_page41_table0.csv,AAA,AAA,2015,consolidated,notes,đồng,AAA\2015\AAA_financial_statements_2015_consolidated\AAA_financial_statements_2015_consolidated_extracted.txt,41,0,Quản lý rủi ro thanh khoản (Tiếp theo),"háng 12 năm 2015
+
+THUYET MINH BẢO CÁO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)
+
+MÃU SÓ B09 - DN/HN
+
+Các thuyết minh này là bộ phận hợp thành và cần được dọc đồng thời với Báo cáo tài chính kèm theo
+
+7. CÁC THÔNG TIN KHÁC (TIẾP THEO)
+
+7.1. Công cụ tài chính (Tiếp theo)
+
+Quản lý rủi ro thanh khoản (Tiếp theo)","Ban Tổng Giám đốc đánh giá rủi ro thanh khoản ở mức thấp. Ban Tổng Giám đốc tin tưởng rằng Công ty có thể tạo ra đủ nguồn tiền để đáp ứng các nghĩa vụ tài chính khi đến hạn.
+
+40",22,9,40,0.606,False,,2026-08-16T16:02:20.653875+00:00
+AAA_2015_consolidated_page42_table0,tables_csv/AAA/2015/consolidated/AAA_2015_consolidated_page42_table0.csv,AAA,AAA,2015,consolidated,notes,đồng,AAA\2015\AAA_financial_statements_2015_consolidated\AAA_financial_statements_2015_consolidated_extracted.txt,42,0,"Thu nhập của Ban Tổng Giám đốc, Hội đồng Quản trị và Ban kiểm soát được hưởng trong kỳ như sau:","MÃU SỐ B09 - DN/HN
+
+Các thuyết minh này là bộ phận hợp thành và cần được dọc đồng thời với Báo cáo tài chính kèm theo
+
+7. CÁC THÔNG TIN KHÁC (TIẾP THEO)
+
+7.2. Nghiệp vụ và số dư với các bên liên quan
+
+Thu nhập của Ban Tổng Giám đốc, Hội đồng Quản trị và Ban kiểm soát được hưởng trong kỳ như sau:","7.3. Sự kiện sau ngày kết thúc niên độ kế toán
+
+Không có sự kiện trọng yếu nào xảy ra sau ngày kết thúc kỳ hoạt động và cho đến thời điểm lập báo cáo này cần thiết phải điều chỉnh hoặc trình bày trong Báo cáo tài chính hợp nhất.
+
+7.4. Số liệu so sánh
+
+Như đã trình bày tại Thuyết minh số 03, kể từ",4,7,8,1.0,False,,2026-08-16T16:02:20.653875+00:00
+AAA_2015_consolidated_page43_table0,tables_csv/AAA/2015/consolidated/AAA_2015_consolidated_page43_table0.csv,AAA,AAA,2015,consolidated,notes,đồng,AAA\2015\AAA_financial_statements_2015_consolidated\AAA_financial_statements_2015_consolidated_extracted.txt,43,0,"Một số số liệu của kỳ báo cáo trước được phân loại lại để phù hợp với việc so sánh với số liệu của kỳ này, cụ thể như sau:","DN/HN
+
+Các thuyết minh này là bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính kèm theo
+
+7. CÁC THÔNG TIN KHÁC (TIẾP THEO)
+
+7.4. Số liệu so sánh (Tiếp theo)
+
+Một số số liệu của kỳ báo cáo trước được phân loại lại để phù hợp với việc so sánh với số liệu của kỳ này, cụ thể như sau:",NGUỒN VỐN Mã số Số đã báo cáo Phân loại lại Số sau phân loại lại VND VND VND D. VỐN CHỦ SỞ HỮU 400 786.325.823.263 - 786.325.823.263,7,11,24,0.857,False,,2026-08-16T16:02:20.653875+00:00
+AAA_2015_consolidated_page43_table1,tables_csv/AAA/2015/consolidated/AAA_2015_consolidated_page43_table1.csv,AAA,AAA,2015,consolidated,balance_sheet,unknown,AAA\2015\AAA_financial_statements_2015_consolidated\AAA_financial_statements_2015_consolidated_extracted.txt,43,1,960.847.572 (25.204.099.470) 10.756.748.102 4. Tài sản ngắn hạn khác 155 25.204.099.470 (25.204.099.470) - TỔNG CỘNG TÀI SẢN 270 1.421.650.734.913 - 1.421.650.734.913,960.847.572 (25.204.099.470) 10.756.748.102 4. Tài sản ngắn hạn khác 155 25.204.099.470 (25.204.099.470) - TỔNG CỘNG TÀI SẢN 270 1.421.650.734.913 - 1.421.650.734.913,"(*) Theo thông tư 200, chỉ tiêu Quỹ dự phòng tài chính không còn trình bày trên Bảng cân đối kế toàn, số dư đầu kỳ sẽ được chuyển sang Quỹ đầu tư phát triển.
+
+Nguyễn Lê Trung
+
+Tổng Giám đốc
+
+Hải Dương, ngày 24 tháng 02 năm 2016
+
+Hòa Thị Thu Hà
+
+Kế toán trường
+
+Hồ Thị Hòe
+
+Người lập
+
+42",5,11,15,0.75,False,,2026-08-16T16:02:20.653875+00:00

@@ -1,0 +1,10 @@
+pandas
+numpy
+beautifulsoup4
+lxml
+PyYAML
+rapidfuzz
+
+[dev]
+pytest
+pytest-cov

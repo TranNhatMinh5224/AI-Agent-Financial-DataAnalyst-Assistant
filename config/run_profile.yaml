@@ -1,0 +1,24 @@
+# Chế độ chạy hiện tại của pipeline.
+# sample = chạy ít để kiểm tra chất lượng đầu ra.
+# full = chạy toàn bộ dữ liệu sau khi đã duyệt mẫu.
+run_mode: sample
+
+# Thư mục đầu vào chứa các file OCR TXT của ViFinQA.
+input_root: ViFinQA/financial_statements
+
+# Thư mục đầu ra chỉ được tạo khi pipeline runtime bắt đầu chạy.
+output_root: artifacts/preprocessing
+
+# Danh sách mã cổ phiếu dùng để chạy thử trong chế độ sample.
+sample_tickers:
+  - AAA
+
+# Giới hạn số báo cáo khi chạy thử lần đầu.
+# Sau khi duyệt 1 report, có thể đổi thành null để chạy cả ticker.
+sample_limit_reports: 1
+
+# Cần đặt true khi run_mode = full để tránh vô tình chạy toàn bộ dữ liệu.
+full_run_confirmed: false
+
+# Khi true, pipeline đọc audit và bỏ qua báo cáo đã xử lý thành công.
+resume: true
