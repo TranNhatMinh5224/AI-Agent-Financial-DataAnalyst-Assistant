@@ -4,3 +4,6 @@ __pycache__/
 data/duckdb/*.duckdb
 data/duckdb/*.duckdb.wal
 data/processed/
+ 
+artifacts/
+ViFinQA/

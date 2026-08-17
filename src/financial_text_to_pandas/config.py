@@ -25,6 +25,7 @@ class RunConfig:
     sample_limit_reports: Optional[int]
     full_run_confirmed: bool
     resume: bool
+    llm_config: dict[str, str | float] = field(default_factory=dict)
 
     # ── derived ───────────────────────────────────────────────────────────────
     @property
@@ -73,4 +74,5 @@ def load_config(config_path: Path) -> RunConfig:
         sample_limit_reports=sample_limit_reports,
         full_run_confirmed=full_run_confirmed,
         resume=bool(raw.get("resume", True)),
+        llm_config=raw.get("llm", {}),
     )

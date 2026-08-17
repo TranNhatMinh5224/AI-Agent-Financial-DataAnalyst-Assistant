@@ -1,0 +1,4 @@
+﻿query_id,golden_table_id,hit_rank,found_top10,found_top50
+q1,T2,2,True,True
+q2,T3,15,False,True
+q3,T4,60,False,False

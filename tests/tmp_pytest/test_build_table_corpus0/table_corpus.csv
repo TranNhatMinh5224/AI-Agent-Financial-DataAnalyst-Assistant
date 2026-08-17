@@ -1,0 +1,10 @@
+﻿table_id,csv_path,ticker,company_name,year,report_type,statement_type,unit,title,headers_text,row_labels_text,nearby_text,search_text,quality_score,needs_review
+T1,T1.csv,AAA,Cong ty AAA,2023,consolidated,balance_sheet,VND,Bang Can Doi,,Item 1,Text before Text after,"Bang Can Doi
+Item 1
+Text before Text after
+VND
+balance_sheet
+AAA
+Cong ty AAA
+2023
+consolidated",1.0,False

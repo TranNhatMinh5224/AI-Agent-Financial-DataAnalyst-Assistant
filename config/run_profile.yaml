@@ -1,7 +1,15 @@
-# Chế độ chạy hiện tại của pipeline.
-# sample = chạy ít để kiểm tra chất lượng đầu ra.
-# full = chạy toàn bộ dữ liệu sau khi đã duyệt mẫu.
-run_mode: sample
+# ================================================================================
+# QUẢN LÝ CHẾ ĐỘ CHẠY (RUN MODE)
+# Khi clone code về máy mới, người khác sẽ KHÔNG có thư mục `artifacts/` (vì nó bị gitignore).
+# Họ bắt buộc phải tự chạy lại Phase 1 (`pipeline.py`) và Phase 2 (`corpus.py`, `bm25.py`).
+# 
+# Có 2 chế độ chạy:
+# 1. "sample": Chế độ test. Chỉ chạy một vài file (được cấu hình ở sample_limit_reports) 
+#    để test xem code/pipeline có lỗi hay không. Chạy rất nhanh (vài giây).
+# 2. "full": Chế độ thật. Bỏ qua mọi giới hạn và cày toàn bộ ~2000 báo cáo tài chính trong 
+#    thư mục input_root. Chạy rất lâu (30-40 phút).
+# ================================================================================
+run_mode: full
 
 # Thư mục đầu vào chứa các file OCR TXT của ViFinQA.
 input_root: ViFinQA/financial_statements
@@ -9,16 +17,28 @@ input_root: ViFinQA/financial_statements
 # Thư mục đầu ra chỉ được tạo khi pipeline runtime bắt đầu chạy.
 output_root: artifacts/preprocessing
 
-# Danh sách mã cổ phiếu dùng để chạy thử trong chế độ sample.
+# ================================================================================
+# CẤU HÌNH CHO CHẾ ĐỘ TEST (run_mode = sample)
+# ================================================================================
+# Danh sách mã cổ phiếu dùng để chạy thử.
 sample_tickers:
   - AAA
 
-# Giới hạn số báo cáo khi chạy thử lần đầu.
-# Sau khi duyệt 1 report, có thể đổi thành null để chạy cả ticker.
-sample_limit_reports: 1
+# Giới hạn số báo cáo khi chạy thử.
+# Ví dụ: Để 5 thì nó chỉ bóc tách đúng 5 báo cáo đầu tiên của AAA rồi dừng.
+sample_limit_reports: null
 
-# Cần đặt true khi run_mode = full để tránh vô tình chạy toàn bộ dữ liệu.
-full_run_confirmed: false
+# ================================================================================
+# CẤU HÌNH CHO CHẾ ĐỘ THẬT (run_mode = full)
+# ================================================================================
+# Cần đặt true khi run_mode = full để tránh vô ý chạy nhầm toàn bộ dữ liệu.
+full_run_confirmed: true
 
 # Khi true, pipeline đọc audit và bỏ qua báo cáo đã xử lý thành công.
 resume: true
+
+llm:
+  base_url: "http://localhost:11434/v1"
+  api_key: "sk-xxxxxx"
+  model_name: "qwen2.5-coder:7b"
+  temperature: 0.0

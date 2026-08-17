@@ -151,3 +151,144 @@ class PreprocessingResult:
     linked_text_path: Optional[Path]
     success: bool
     error_message: str
+
+
+# ── Phase 2: Retrieval ────────────────────────────────────────────────────────
+
+@dataclass
+class QueryHints:
+    """Metadata extracted from the user's natural language question."""
+    query_id: str
+    question: str
+    ticker: Optional[str]
+    company_name: Optional[str]
+    years: list[int]
+    report_type: Optional[str]
+    statement_type: Optional[str]
+    metric_terms: list[str]
+    unit_requested: Optional[str]
+    operation: Optional[str]
+    confidence: float         # 0.0-1.0
+
+
+@dataclass
+class Candidate:
+    """A table candidate retrieved during the search phase."""
+    query_id: str
+    question: str
+    table_id: str
+    rank: int
+    bm25_score: float
+    dense_score: float
+    reranker_score: float
+    retrieval_source: str     # "bm25", "dense", "hybrid"
+    csv_path: str
+    metadata_filter_status: str # e.g., "pass", "filtered_by_year"
+    model_name: str
+    model_version: str
+    created_at: str
+
+
+@dataclass
+class EvidenceTable:
+    """Final selected evidence table after reranking."""
+    candidate: Candidate
+    # Could include summarized content later
+    
+
+@dataclass
+class RetrievalMetrics:
+    """Evaluation metrics for table retrieval."""
+    recall_at_10: float
+    recall_at_50: float
+    mrr: float
+    missing_evidence_rate: float
+    reranker_hit_rate: float
+    latency_ms: float
+
+
+# ── Phase 3: Reasoning ────────────────────────────────────────────────────────
+
+from typing import Literal, Any
+
+@dataclass
+class Intent:
+    """Parsed intention from the user's query for Phase 3."""
+    ticker: Optional[str]
+    company_name: Optional[str]
+    years: list[int]
+    report_type: str # "consolidated" | "separate" | "unknown"
+    metrics: list[str]
+    unit_requested: Optional[str]
+    operation: str # "lookup" | "difference" | "growth_rate" | "ratio" | "mean" | "median" | "multi_hop" | "unknown"
+
+@dataclass
+class EvidencePackage:
+    """The evidence payload passed from Retrieval to Reasoning."""
+    query_id: str
+    question: str
+    intent: Intent
+    tables: list[EvidenceTable]
+    linked_text_context: list[str]
+
+@dataclass
+class GroundedCell:
+    """A specific cell matched to answer the query."""
+    table_id: str
+    csv_path: str
+    page_number: int
+    row_label: str
+    column_label: str
+    raw_value: str
+    parsed_value: float
+    unit: Optional[str]
+    confidence: float
+    grounding_method: str # "exact" | "row_label_full" | "row_label_raw" | "fuzzy"
+    error_type: Optional[str]
+
+@dataclass
+class CellGroundingResult:
+    """Result of the grounding phase."""
+    grounded_cells: list[GroundedCell]
+    error_type: Optional[str] # "I_INSUFFICIENT_EVIDENCE", "E_NUMERICAL_EXTRACTION", etc.
+
+@dataclass
+class ReasoningResult:
+    """Result from a reasoning strategy (Lookup, PoT, CoT, Multi-hop)."""
+    strategy: str
+    code_generated: Optional[str]
+    sandbox_result: Any # Raw value returned by sandbox/LLM
+    numeric_result: Optional[float]
+    trace: str
+    error_type: Optional[str]
+
+@dataclass
+class VerificationResult:
+    """Result of the verification step."""
+    is_valid: bool
+    verification_status: str # "valid" | "invalid" | "unverified"
+    error_type: Optional[str]
+    checked_cells: list[GroundedCell]
+    calculation_check: str
+    final_answer: float
+
+@dataclass
+class Citation:
+    """A reference to a source cell for the final answer."""
+    table_id: str
+    csv_path: str
+    page_number: int
+    row_label: str
+    column_label: str
+
+@dataclass
+class FinalAnswer:
+    """The final structured answer returned to the user."""
+    answer: float
+    answer_type: str # "numeric"
+    unit: Optional[str]
+    citations: list[Citation]
+    verification_status: str
+    error_type: Optional[str]
+    trace: str
+    code_generated: Optional[str]

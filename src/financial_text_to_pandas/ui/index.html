@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Financial QA Assistant</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="background-blobs">
+        <div class="blob blob-1"></div>
+        <div class="blob blob-2"></div>
+    </div>
+    
+    <div class="container">
+        <header>
+            <h1>Financial Data Analyst</h1>
+            <p>Text-to-Pandas QA Engine</p>
+        </header>
+
+        <main>
+            <div class="search-box glass-panel">
+                <input type="text" id="questionInput" placeholder="VD: Tài sản của AAA năm 2023 là bao nhiêu?" />
+                <button id="askBtn" class="btn-primary">
+                    <span class="btn-text">Ask</span>
+                    <div class="loader hidden" id="askLoader"></div>
+                </button>
+            </div>
+
+            <div id="resultContainer" class="result-container hidden">
+                <div class="answer-card glass-panel fade-in">
+                    <h2>Final Answer</h2>
+                    <div class="answer-value" id="answerValue">-</div>
+                    <div class="answer-meta">
+                        <span class="badge" id="verificationBadge">Verifying...</span>
+                        <span class="badge badge-outline" id="unitBadge">Unit: -</span>
+                    </div>
+                </div>
+
+                <div class="trace-card glass-panel fade-in delay-1">
+                    <h3>Reasoning Trace</h3>
+                    <pre><code id="traceCode">Loading trace...</code></pre>
+                </div>
+                
+                <div class="feedback-card glass-panel fade-in delay-2">
+                    <p>Was this answer helpful?</p>
+                    <div class="feedback-actions">
+                        <button class="btn-icon" id="btnThumbUp">👍</button>
+                        <button class="btn-icon" id="btnThumbDown">👎</button>
+                    </div>
+                    <div id="feedbackThanks" class="hidden text-success mt-2">Thanks for your feedback!</div>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,2 @@
+﻿table_id,csv_path,ticker,company_name,year,report_type,statement_type,unit,title,nearby_text_before,nearby_text_after,needs_review,quality_score
+T1,T1.csv,AAA,Cong ty AAA,2023,consolidated,balance_sheet,VND,Bang Can Doi,Text before,Text after,False,1.0
