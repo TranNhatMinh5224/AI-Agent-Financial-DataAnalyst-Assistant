@@ -371,12 +371,22 @@ def clean_table(grid: List[List[str]], metadata: TableMetadata) -> CleanTable:
     for col in data_cols:
         numeric_col = f"numeric__{col}"
         parsed_values = []
+        normalized_strings = []
         for raw in df[col]:
             pn = parse_vn_number(str(raw))
             parsed_values.append(pn.parsed_value)
-            if pn.parse_status == "ok":
+            if pn.parse_status == "ok" and pn.parsed_value is not None:
                 numeric_cell_count += 1
+                # Replace the raw string with a clean python string representation
+                if pn.parsed_value == int(pn.parsed_value):
+                    normalized_strings.append(str(int(pn.parsed_value)))
+                else:
+                    normalized_strings.append(str(pn.parsed_value))
+            else:
+                normalized_strings.append(raw)
+        
         df[numeric_col] = parsed_values
+        df[col] = normalized_strings
 
     # ── Propagate group context → row_label_full ─────────────────────────────
     df = propagate_group_context(df)

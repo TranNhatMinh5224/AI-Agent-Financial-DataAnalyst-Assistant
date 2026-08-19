@@ -15,6 +15,7 @@ Grounded Cells available to use:
 
 Requirements:
 - You must ONLY use the provided `dfs` and grounded cells.
+- LƯU Ý QUAN TRỌNG (OCR ERROR AWARENESS): Dữ liệu Grounded Cells được trích xuất từ file scan OCR nên rất hay có lỗi chính tả (VD: "Chỉ phí" thay vì "Chi phí", "Tai sán" thay vì "Tài sản", "Lợi nhuận góp" thay vì "Lợi nhuận gộp", "Lãi suy giám" thay vì "Lãi suy giảm"). Bạn PHẢI dùng chính xác chuỗi ký tự bị lỗi đó (đúng từng dấu cách, dấu câu) đang có trong Grounded Cells để đưa vào hàm `safe_get_cell`. TUYỆT ĐỐI KHÔNG tự ý sửa lỗi chính tả khi query, nếu không code sẽ bị lỗi KeyError.
 - Do NOT define `safe_get_cell` or `normalize_unit` yourself; they are already injected into your environment and ready to use.
 - You must use the helper function exactly like this: `val = safe_get_cell(dfs, 'table_id_here', 'row_label_here', 'col_label_here')` which returns a float.
 - You can use `normalize_unit(val, from_unit, to_unit)` if unit conversion is needed.

@@ -36,7 +36,7 @@ def _hash_text(text: str) -> str:
 def embed_tables(
     corpus: pd.DataFrame, 
     output_path: Path, 
-    model_name: str = "Qwen3-Embedding-8B", 
+    model_name: str = "keepitreal/vietnamese-sbert", 
     model_version: str = "1.0",
     mock: bool = False
 ) -> EmbeddingStore:
@@ -93,22 +93,34 @@ def embed_tables(
         # Dimensions
         dim = 1536 if "Qwen" in model_name else 768
         
-        for row in to_embed:
-            if mock:
-                vec = np.random.rand(dim)
-                vec = vec / np.linalg.norm(vec)
-            else:
-                # TODO: Integrate actual model call here
-                vec = np.zeros(dim)
-                
+        encoder = None
+        if not mock:
+            from sentence_transformers import SentenceTransformer
+            print(f"Loading embedding model {model_name}...")
+            encoder = SentenceTransformer(model_name)
+        
+        # Extract all texts to embed
+        texts = [str(row["search_text"]) for row in to_embed]
+        
+        if mock:
+            embeddings_list = [np.random.rand(dim) for _ in texts]
+            embeddings_list = [vec / np.linalg.norm(vec) for vec in embeddings_list]
+        else:
+            # Batch encoding is much faster
+            print(f"Encoding {len(texts)} tables in batches...")
+            embeddings_matrix = encoder.encode(texts, batch_size=256, show_progress_bar=True)
+            embeddings_list = embeddings_matrix.tolist()
+            
+        for i, row in enumerate(to_embed):
+            vec_list = embeddings_list[i] if not mock else embeddings_list[i].tolist()
             new_rows.append({
                 "table_id": row["table_id"],
                 "model_name": model_name,
                 "model_version": model_version,
-                "embedding_dim": dim,
+                "embedding_dim": len(vec_list),
                 "source_text_checksum": row["current_hash"],
                 "created_at": now,
-                "embedding": vec.tolist() # Parquet saves lists well
+                "embedding": vec_list # Parquet saves lists well
             })
             
         cached_rows.extend(new_rows)
@@ -126,7 +138,7 @@ def embed_tables(
 
 def embed_query(
     question: str, 
-    model_name: str = "Qwen3-Embedding-8B", 
+    model_name: str = "keepitreal/vietnamese-sbert", 
     mock: bool = False
 ) -> np.ndarray:
     """Embed a query.
@@ -142,8 +154,9 @@ def embed_query(
         vec = vec / np.linalg.norm(vec)
         return vec
     else:
-        # TODO: Implement actual model inference
-        return np.zeros(dim)
+        from sentence_transformers import SentenceTransformer
+        encoder = SentenceTransformer(model_name)
+        return encoder.encode(question)
         
 
 def search_dense(

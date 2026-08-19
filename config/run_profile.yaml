@@ -38,7 +38,7 @@ sample_limit_reports: 5
 full_run_confirmed: true
 
 # Khi true, pipeline đọc audit và bỏ qua báo cáo đã xử lý thành công.
-resume: true
+resume: false
 
 llm:
   base_url: "http://localhost:11434/v1"

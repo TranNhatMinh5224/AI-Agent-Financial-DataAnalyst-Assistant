@@ -41,10 +41,33 @@ def rerank_candidates(
             base_score = max(cand.bm25_score, cand.dense_score)
             cand.reranker_score = base_score * 0.1 + random.random()
     else:
-        # TODO: Implement actual CrossEncoder reranker
+        # Implement actual CrossEncoder reranker
+        from sentence_transformers import CrossEncoder
+        print("Loading reranker model BAAI/bge-reranker-m3...")
+        # Note: BAAI/bge-reranker-m3 is a large model. 
+        # In a real app this should be loaded once globally.
+        encoder = CrossEncoder('BAAI/bge-reranker-m3')
+        
+        # We need the table search_text. Since we only have table_id in Candidate,
+        # we might need to load corpus here, or assume the candidate holds enough info.
+        # Wait, the search_py doesn't pass search_text into candidates yet.
+        # For simplicity, if we don't have it, we'll just mock it or we must load the corpus.
+        # Let's load corpus locally to get the texts for reranking.
+        from pathlib import Path
+        import pandas as pd
+        
+        # Hardcoding index path for this demo, usually should be passed in.
+        corpus_df = pd.read_csv(Path("artifacts/preprocessing/indexes/table_corpus.csv"), encoding="utf-8-sig")
+        corpus_dict = dict(zip(corpus_df["table_id"], corpus_df["search_text"]))
+        
+        pairs = []
         for cand in reranked:
-            # Fallback to sum of retrieved scores if no reranker
-            cand.reranker_score = cand.bm25_score + cand.dense_score
+            text = str(corpus_dict.get(cand.table_id, ""))
+            pairs.append([question, text])
+            
+        scores = encoder.predict(pairs)
+        for i, cand in enumerate(reranked):
+            cand.reranker_score = float(scores[i])
             
     # Sort descending
     reranked.sort(key=lambda x: x.reranker_score, reverse=True)
