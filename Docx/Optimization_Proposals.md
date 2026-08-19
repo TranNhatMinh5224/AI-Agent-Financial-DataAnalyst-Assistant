@@ -6,13 +6,14 @@ Tài liệu này phác thảo các chiến lược và phương pháp kỹ thu�
 
 ## 1. Giải quyết Nút Thắt Tiền Xử Lý (Preprocessing Bottlenecks)
 
-Quá trình OCR và trích xuất bảng từ định dạng thô dễ gặp sai sót về cấu trúc hàng/cột, ảnh hưởng tới toàn bộ pipeline phía sau.
+Đặc thù bộ dữ liệu ViFinQA là các báo cáo tài chính đã được OCR sẵn thành văn bản phẳng (flat text) với thẻ HTML `<table>` nội suy, đi kèm nhiều rác OCR, header/footer lặp lại và cấu trúc bảng đứt gãy. Việc sử dụng các công cụ xử lý PDF truyền thống (như pdfplumber) không còn phù hợp, thay vào đó cần một Pipeline làm sạch dữ liệu văn bản chuyên biệt.
 
-**Phương pháp tối ưu:**
-*   **Tránh dùng LLM cho việc căn chỉnh tọa độ:** LLM không giỏi làm việc với lưới tọa độ.
-*   **Sử dụng công cụ chuyên dụng (Deterministic):** 
-    *   Tích hợp `pdfplumber` hoặc `camelot-py` đối với file PDF chứa văn bản thuần túy (Text-based PDF) để lấy chính xác DataFrame.
-    *   Sử dụng các mô hình Vision chuyên dụng như **LayoutLMv3** hoặc **Table Transformer** (chạy offline) để nhận diện khung bảng trên file PDF dạng ảnh scan, thay vì dùng quy tắc (heuristics) quét HTML/TXT thô dễ hỏng.
+**Phương pháp tối ưu (Data Cleaning Pipeline 5 Bước):**
+*   **Bước 1 - Giảm nhiễu (Noise Reduction):** Dùng Regex lọc bỏ rác OCR, các cụm từ hệ thống (`Signature Not Verified`) và xóa header/footer (tên công ty, số trang `===== PAGE X =====`) lặp lại làm đứt gãy mạch văn bản.
+*   **Bước 2 - Tái tạo bảng (Table Reconstruction):** Parse các thẻ HTML `<table>` bằng thư viện `BeautifulSoup`, tự động nối các bảng bị đứt gãy do ngắt trang, xử lý gộp ô (colspan, rowspan) và chuyển đổi bảng về định dạng Markdown chuẩn.
+*   **Bước 3 - Chuẩn hóa số liệu (Data Normalization):** Đưa toàn bộ định dạng số tiếng Việt (dấu chấm/phẩy lộn xộn do OCR nhầm) về chuẩn float quốc tế `1234567.89` thống nhất, đồng thời trích xuất và lưu trữ Entity Đơn vị tính (VND, nghìn đồng) vào Metadata.
+*   **Bước 4 - Phân mảnh cấu trúc (Document Structuring):** Sử dụng Regex/Heuristics dựa trên mục lục chuẩn để tách file `.txt` lớn thành các Chunk cấu trúc logic (Bảng Cân đối, KQKD, LCTT, Thuyết minh) để phục vụ Retrieval chính xác hơn.
+*   **Bước 5 - LLM-Assisted Extraction (Tuỳ chọn):** Đối với các bảng quá nát không thể parse nguyên vẹn bằng HTML/BeautifulSoup, sử dụng một LLM nhỏ lẻ chuyên biệt (như Qwen-2.5-7B) để chuẩn hóa định dạng (Text-to-Markdown) trước khi đưa vào kho Vector DB.
 
 ## 2. Tối Ưu Hóa Retrieval (Vượt qua giới hạn BM25)
 
@@ -31,21 +32,22 @@ Sandbox hiện tại dùng `ast.NodeVisitor` để chặn hàm nguy hiểm, như
 *   **Giới hạn thời gian (Timeout):** Đặt mã thực thi (exec) vào một Process riêng biệt (sử dụng `multiprocessing`). Đặt timeout cứng (ví dụ: 5 giây). Nếu quá thời gian, tiến trình sẽ bị huỷ (kill) để bảo vệ server.
 *   **Cô lập hoàn toàn (Isolation):** Nếu triển khai thực tế, hãy xem xét dùng **Pyodide** (chạy Python trong môi trường WebAssembly cô lập) hoặc các Docker Container chỉ dùng một lần (ephemeral containers) để xử lý code.
 
-## 4. Tự Động Hóa Pipeline Nạp Dữ Liệu
+## 4. Tự Động Hóa Pipeline Nạp Dữ Liệu (Ingestion Pipeline)
 
-Người dùng không nên gõ 3 dòng lệnh Terminal thủ công mỗi khi có báo cáo tài chính mới.
+Người dùng không nên gõ các lệnh Terminal thủ công mỗi khi có báo cáo tài chính mới. Việc nạp dữ liệu cần được tự động hóa hoàn toàn.
 
 **Phương pháp tối ưu:**
-*   **Background Watcher:** Dùng thư viện `watchdog` của Python để giám sát thư mục `financial_statements`. Khi có file được thả vào, script sẽ tự động kích hoạt luồng xử lý (trích xuất, gộp metadata, sinh index).
-*   **Real-time Vector DB:** Thay vì dùng file `.pkl` tĩnh cho Index, hãy dùng **LanceDB** hoặc **ChromaDB** chạy local. Khi có file mới, hệ thống tự động `.add()` vào cơ sở dữ liệu mà không cần khởi động lại toàn bộ API Server.
+*   **Tích hợp Script Tiền xử lý:** Tích hợp trực tiếp module `preprocess_vifinqa.py` (chứa 5 bước làm sạch rác OCR, chuẩn hóa dấu thập phân và nối bảng HTML) vào luồng nạp dữ liệu.
+*   **Background Watcher:** Dùng thư viện `watchdog` của Python để giám sát thư mục `financial_statements`. Khi có file `.txt` mới được tải về, script sẽ tự động kích hoạt luồng xử lý (chạy qua Pipeline làm sạch, gộp metadata, sinh index).
+*   **Real-time Vector DB:** Thay vì dùng file `.pkl` tĩnh, hãy dùng **LanceDB** hoặc **ChromaDB** chạy local. Khi có file mới, hệ thống tự động `.add()` các chunk và bảng Markdown vào cơ sở dữ liệu mà không cần khởi động lại toàn bộ API Server.
 
 ## 5. Nâng Cấp Cell Grounding
 
 Thuật toán `rapidfuzz` với ngưỡng `partial_ratio > 80` hiện tại là quá cứng nhắc để khớp các chỉ tiêu tài chính.
 
 **Phương pháp tối ưu:**
-*   **Từ điển đồng nghĩa (Synonym Dictionary - Rule-based):** Xây dựng một file JSON chứa chuẩn mực kế toán Việt Nam (Ví dụ: `{"doanh thu thuần": ["doanh thu bán hàng", "doanh thu thuần về bán hàng"]}`). Kiểm tra đối chiếu cứng trước.
-*   **Embedding-based Matching:** Nếu không có trong từ điển, sử dụng Cosine Similarity từ Vector Embeddings của câu hỏi và tên dòng trong bảng để tìm ra dòng phù hợp nhất (ngưỡng tin cậy > 85%), tuyệt đối không giao phó việc "chọn dòng" cho LLM sinh từ để tránh sai số.
+*   **Từ điển đồng nghĩa (Synonym Dictionary - Rule-based):** Xây dựng một file JSON chứa chuẩn mực kế toán Việt Nam (Ví dụ: `{"doanh thu thuần": ["doanh thu bán hàng", "doanh thu thuần về bán hàng"]}`).
+*   **Embedding-based Matching:** Trích xuất cột đầu tiên của các bảng Markdown (sau khi parse từ HTML) làm danh sách các chỉ tiêu (Metrics). Nếu không có trong từ điển, sử dụng Cosine Similarity từ Vector Embeddings của câu hỏi và danh sách chỉ tiêu này để tìm ra dòng phù hợp nhất (ngưỡng tin cậy > 85%), tuyệt đối không giao phó việc "chọn dòng" cho LLM sinh từ tự do để tránh ảo giác.
 
 ---
 
@@ -71,9 +73,9 @@ Với 1 model đa năng 14B, nó rất thích "nói nhiều". Để code Python 
 
 Model 14B xử lý context càng dài thì càng chậm và càng dễ "ảo giác" (Lost in the middle).
 
-*   Tuyệt đối **KHÔNG** nhét toàn bộ bảng CSV / DataFrame vào prompt để model tự tìm.
-*   Chỉ nhét **Schema** (Tên các cột, tên một số dòng liên quan được tìm ra bởi thuật toán Embedding/BM25) vào prompt.
-*   *Ví dụ:* Thay vì đưa 100 dòng, chỉ đưa vào prompt: `"Dòng 12: Doanh thu thuần; Dòng 15: Giá vốn hàng bán"`. Model 14B sẽ tự biết dùng 2 dòng này để viết code Pandas.
+*   Tuyệt đối **KHÔNG** nhét toàn bộ văn bản báo cáo hoặc bảng Markdown thô dài hàng trăm dòng vào prompt để model tự mò mẫm.
+*   Chỉ nhét **Schema của Bảng** (Tên các cột) và **Các dòng dữ liệu liên quan** (đã được lọc ra bởi thuật toán Embedding/BM25 ở Bước Grounding) vào prompt.
+*   *Ví dụ:* Thay vì đưa cả Bảng Cân đối kế toán dài 5 trang, chỉ đưa vào prompt: `"Bảng KQKD 2023 - Cột: [Năm 2023, Năm 2022]. Dữ liệu trích xuất: | Doanh thu thuần | 15000.5 | 12000.2 |"`. Model 14B sẽ xử lý thông tin tinh gọn này cực kỳ chính xác.
 
 ## 9. Triển khai Semantic Caching (Bộ đệm ngữ nghĩa)
 
