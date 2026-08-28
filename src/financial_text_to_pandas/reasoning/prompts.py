@@ -90,4 +90,35 @@ VERDICT: CONSISTENT | CONTRADICTED | INCONCLUSIVE
 REASON: <1 sentence explanation>
 """
 
+PLANNER_PROMPT_TEMPLATE = """
+You are a Financial Data Analyst Planner.
+Given a complex financial question, your task is to decompose it into a logical multi-step reasoning plan.
 
+Question: {question}
+
+Requirements:
+1. Identify the key financial metrics needed.
+2. Identify the years or periods involved.
+3. Identify the operation required (e.g., lookup, difference, growth_rate, ratio).
+4. Output a concise step-by-step plan.
+"""
+
+RETRIEVER_GROUNDING_PROMPT_TEMPLATE = """
+You are a Financial Data Retriever.
+Given a question and a set of candidate tables, your task is to identify the most relevant table and the specific row and column that contain the answer.
+
+Question: {question}
+
+Candidate Tables (with metadata and snippets):
+{tables_context}
+
+Requirements:
+1. Analyze the candidate tables to find the exact cell that matches the question's intent.
+2. If the data is not present in the given tables, state "I_INSUFFICIENT_EVIDENCE".
+3. Otherwise, output a JSON object with the following structure:
+{{
+    "table_id": "<selected_table_id>",
+    "row_label": "<matched_row_label>",
+    "column_label": "<matched_column_label>"
+}}
+"""

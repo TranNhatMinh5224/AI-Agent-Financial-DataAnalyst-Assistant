@@ -18,8 +18,8 @@ def extract_python_code(text: str) -> str:
     # If no markdown block, return the whole text (assuming the LLM just returned raw code)
     return text.strip()
 
-def generate_pot_code(prompt: str, llm_config: dict[str, str | float]) -> str:
-    """Call Qwen API to generate PoT Python code."""
+def call_llm(prompt: str, llm_config: dict[str, str | float], system_prompt: str = "") -> str:
+    """Generic function to call an LLM with a given prompt and system prompt."""
     base_url = llm_config.get("base_url", "http://localhost:11434/v1")
     api_key = llm_config.get("api_key", "sk-xxxxxx")
     model = llm_config.get("model_name", "qwen2.5-coder-7b-instruct")
@@ -27,12 +27,14 @@ def generate_pot_code(prompt: str, llm_config: dict[str, str | float]) -> str:
     
     try:
         client = OpenAI(base_url=base_url, api_key=api_key)
+        messages = []
+        if system_prompt:
+            messages.append({"role": "system", "content": system_prompt})
+        messages.append({"role": "user", "content": prompt})
+        
         response = client.chat.completions.create(
             model=model,
-            messages=[
-                {"role": "system", "content": "You are an expert Data Analyst and Python programmer. You must output clean, robust Python code using pandas. Do not use import statements."},
-                {"role": "user", "content": prompt}
-            ],
+            messages=messages,
             temperature=temperature,
         )
         
@@ -40,8 +42,13 @@ def generate_pot_code(prompt: str, llm_config: dict[str, str | float]) -> str:
         if not raw_response:
             raise ValueError("LLM returned an empty response.")
             
-        return extract_python_code(raw_response)
+        return raw_response
     except Exception as e:
         print(f"LLM Connection failed: {e}")
-        # Chặn toàn bộ mock, bắt buộc phải dùng AI theo yêu cầu của user
-        raise RuntimeError(f"Chưa kết nối được AI (Qwen). Vui lòng kiểm tra lại Ollama. Lỗi: {e}")
+        raise RuntimeError(f"Chưa kết nối được AI ({model}). Vui lòng kiểm tra lại Ollama. Lỗi: {e}")
+
+def generate_pot_code(prompt: str, llm_config: dict[str, str | float]) -> str:
+    """Call LLM API to generate PoT Python code."""
+    system_prompt = "You are an expert Data Analyst and Python programmer. You must output clean, robust Python code using pandas. Do not use import statements."
+    raw_response = call_llm(prompt, llm_config, system_prompt)
+    return extract_python_code(raw_response)

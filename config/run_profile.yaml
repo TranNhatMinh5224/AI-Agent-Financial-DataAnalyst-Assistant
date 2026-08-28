@@ -10,8 +10,8 @@
 #    thư mục input_root. Chạy rất lâu (30-40 phút).
 # ================================================================================
 
-# run_mode: full
-run_mode: sample
+run_mode: full
+# run_mode: sample  # Chế độ test (chỉ AAA, 5 báo cáo)
 
 # Thư mục đầu vào chứa các file OCR TXT của ViFinQA.
 input_root: ViFinQA/financial_statements
@@ -40,10 +40,37 @@ full_run_confirmed: true
 # Khi true, pipeline đọc audit và bỏ qua báo cáo đã xử lý thành công.
 resume: true
 
-llm:
-  engine: "sglang" # Chọn "sglang" (Mặc định thi đấu), "vllm" hoặc "ollama"
-  base_url: "http://localhost:30000/v1" # SGLang mặc định chạy port 30000
-  # base_url: "http://localhost:11434/v1" # Ollama fallback
-  api_key: "sk-sglang-fast"
-  model_name: "qwen2.5-coder:7b"
+llm_planner:
+  engine: "sglang"
+  base_url: "http://localhost:30000/v1"
+  api_key: "sglang"
+  model_name: "deepseek-r1:14b"
   temperature: 0.0
+
+llm_retriever:
+  engine: "sglang"
+  base_url: "http://localhost:30001/v1"
+  api_key: "sglang"
+  model_name: "qwen2.5:7b"
+  temperature: 0.0
+
+llm_programmer:
+  engine: "sglang"
+  base_url: "http://localhost:30002/v1"
+  api_key: "sglang"
+  model_name: "qwen2.5-coder:14b"
+  temperature: 0.0
+
+llm_critic:
+  engine: "sglang"
+  base_url: "http://localhost:30003/v1"
+  api_key: "sglang"
+  model_name: "qwen2.5-coder:3b"
+  temperature: 0.0
+
+embedding:
+  model_name: "BAAI/bge-m3"
+  batch_size: 16
+
+reranker:
+  model_name: "BAAI/bge-reranker-v2-m3"

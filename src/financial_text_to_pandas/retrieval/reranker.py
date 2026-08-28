@@ -36,7 +36,8 @@ def rerank_candidates(
     candidates: List[Candidate], 
     corpus_df: pd.DataFrame = None,
     top_k: int = 10,
-    mock: bool = False
+    mock: bool = False,
+    model_name: str = "BAAI/bge-reranker-v2-m3"
 ) -> List[EvidenceTable]:
     """Rerank candidates using a cross-encoder or a mock for testing.
     
@@ -61,7 +62,7 @@ def rerank_candidates(
             cand.reranker_score = base_score * 0.1 + random.random()
     else:
         # Actual CrossEncoder logic
-        reranker = get_reranker()
+        reranker = get_reranker(model_name)
         if reranker is not None and corpus_df is not None:
             # Prepare pairs (question, document)
             pairs = []

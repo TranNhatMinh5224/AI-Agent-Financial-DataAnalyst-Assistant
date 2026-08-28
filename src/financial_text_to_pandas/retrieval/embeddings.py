@@ -13,6 +13,7 @@ from typing import List, Optional
 
 import numpy as np
 import pandas as pd
+from tqdm import tqdm
 
 from financial_text_to_pandas.types import Candidate
 
@@ -36,9 +37,10 @@ def _hash_text(text: str) -> str:
 def embed_tables(
     corpus: pd.DataFrame, 
     output_path: Path, 
-    model_name: str = "Qwen3-Embedding-8B", 
+    model_name: str = "Alibaba-NLP/gte-Qwen2-7B-instruct", 
     model_version: str = "1.0",
-    mock: bool = False
+    mock: bool = False,
+    batch_size: int = 16
 ) -> EmbeddingStore:
     """Embed corpus tables or load from cache if valid.
     
@@ -48,6 +50,7 @@ def embed_tables(
         model_name: The embedding model name.
         model_version: The embedding model version.
         mock: If True, generate random embeddings for testing.
+        batch_size: Batch size for model inference.
         
     Returns:
         EmbeddingStore.
@@ -90,27 +93,62 @@ def embed_tables(
         new_rows = []
         now = datetime.datetime.now().isoformat()
         
-        # Dimensions
-        dim = 1536 if "Qwen" in model_name else 768
-        
-        for row in to_embed:
-            if mock:
-                vec = np.random.rand(dim)
-                vec = vec / np.linalg.norm(vec)
-            else:
-                # TODO: Integrate actual model call here
-                vec = np.zeros(dim)
-                
-            new_rows.append({
-                "table_id": row["table_id"],
-                "model_name": model_name,
-                "model_version": model_version,
-                "embedding_dim": dim,
-                "source_text_checksum": row["current_hash"],
-                "created_at": now,
-                "embedding": vec.tolist() # Parquet saves lists well
-            })
+        dim = 768
+        if "Qwen" in model_name or "gte" in model_name.lower():
+            dim = 3584 # gte-Qwen2-7B uses 3584 dim, Qwen3 varies
+        elif "bge-m3" in model_name.lower():
+            dim = 1024
             
+        if not mock:
+            print(f"[INFO] Loading SentenceTransformer model: {model_name}...")
+            try:
+                from sentence_transformers import SentenceTransformer
+                import torch
+                
+                device = "cuda" if torch.cuda.is_available() else "cpu"
+                print(f"[INFO] Using device: {device}")
+                
+                model = SentenceTransformer(model_name, trust_remote_code=True)
+                model.to(device)
+            except ImportError:
+                print("[ERROR] sentence-transformers not installed. Run: pip install sentence-transformers")
+                raise
+        
+        # Batch processing
+        for i in tqdm(range(0, len(to_embed), batch_size), desc="Embedding tables"):
+            batch = to_embed[i:i + batch_size]
+            texts = [str(row["search_text"]) for row in batch]
+            
+            if mock:
+                vecs = []
+                for _ in batch:
+                    vec = np.random.rand(dim)
+                    vec = vec / np.linalg.norm(vec)
+                    vecs.append(vec)
+            else:
+                with torch.no_grad():
+                    # Generate embeddings and normalize
+                    embeddings = model.encode(texts, batch_size=batch_size, normalize_embeddings=True)
+                    vecs = [vec for vec in embeddings]
+                    dim = len(vecs[0]) # Update dim based on actual model output
+                
+            for row, vec in zip(batch, vecs):
+                new_rows.append({
+                    "table_id": row["table_id"],
+                    "model_name": model_name,
+                    "model_version": model_version,
+                    "embedding_dim": dim,
+                    "source_text_checksum": row["current_hash"],
+                    "created_at": now,
+                    "embedding": vec.tolist() # Parquet saves lists well
+                })
+            
+            # Auto-save every 1000 records to prevent data loss
+            if (i + batch_size) % 1000 < batch_size and i > 0:
+                temp_df = pd.DataFrame(cached_rows + new_rows)
+                output_path.parent.mkdir(parents=True, exist_ok=True)
+                temp_df.to_parquet(output_path, index=False)
+                
         cached_rows.extend(new_rows)
         
         # Save updated cache
@@ -126,7 +164,7 @@ def embed_tables(
 
 def embed_query(
     question: str, 
-    model_name: str = "Qwen3-Embedding-8B", 
+    model_name: str = "Alibaba-NLP/gte-Qwen2-7B-instruct", 
     mock: bool = False
 ) -> np.ndarray:
     """Embed a query.
@@ -136,15 +174,26 @@ def embed_query(
         model_name: Must match table embedding model.
         mock: If True, generate random embedding.
     """
-    dim = 1536 if "Qwen" in model_name else 768
+    dim = 3584 if "gte-Qwen" in model_name else 768
     if mock:
         vec = np.random.rand(dim)
         vec = vec / np.linalg.norm(vec)
         return vec
     else:
-        # TODO: Implement actual model inference
-        return np.zeros(dim)
-        
+        try:
+            from sentence_transformers import SentenceTransformer
+            import torch
+            
+            device = "cuda" if torch.cuda.is_available() else "cpu"
+            model = SentenceTransformer(model_name, trust_remote_code=True)
+            model.to(device)
+            
+            with torch.no_grad():
+                vec = model.encode(question, normalize_embeddings=True)
+                return vec
+        except ImportError:
+            print("[ERROR] sentence-transformers not installed. Returning zeros.")
+            return np.zeros(dim)
 
 def search_dense(
     store: EmbeddingStore, 

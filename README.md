@@ -15,14 +15,14 @@ Dự án này là giải pháp Trợ lý AI Phân tích Dữ liệu Tài chính,
 
 ---
 
-## 🚀 HƯỚNG DẪN KHỞI CHẠY TỪ A - Z (Dành cho người mới Clone)
+## 🚀 HƯỚNG DẪN KHỞI CHẠY TỪ A - Z (Để sinh toàn bộ đáp án dự thi)
 
-Khi bạn clone dự án này về máy mới, thư mục `artifacts/` chứa các dữ liệu xử lý (CSV, Index) sẽ KHÔNG tồn tại (do đã bị bỏ qua bởi `.gitignore`). Bạn **BẮT BUỘC** phải chạy lại các bước dưới đây theo thứ tự.
+Khi bạn clone dự án này về máy mới, thư mục `artifacts/` chứa các dữ liệu xử lý (CSV, Index) sẽ KHÔNG tồn tại (do đã bị bỏ qua bởi `.gitignore`). Để tạo ra bộ đáp án hoàn chỉnh cho 1012 câu hỏi, bạn **BẮT BUỘC** phải chạy các bước dưới đây theo thứ tự. Bạn sẽ cần mở tổng cộng **5 Terminal**.
 
-### Bước 1: Thiết Lập Môi Trường (Environment Setup)
-Yêu cầu hệ thống: Python 3.10+, 16GB+ RAM (Khuyến nghị có GPU để tăng tốc LLM/Embedding).
+### Bước 1: Thiết Lập Môi Trường (Terminal 1)
+Yêu cầu hệ thống: Python 3.10+, 16GB+ RAM (Khuyến nghị có GPU để tăng tốc SGLang).
 
-1. **Tạo và kích hoạt môi trường ảo (Virtual Environment):**
+1. **Tạo và kích hoạt môi trường ảo:**
    ```bash
    python -m venv .venv
    # Windows:
@@ -33,61 +33,57 @@ Yêu cầu hệ thống: Python 3.10+, 16GB+ RAM (Khuyến nghị có GPU để 
 2. **Cài đặt thư viện:**
    ```bash
    pip install -r requirements.txt
-   pip install "sglang[all]" # Cài đặt SGLang Engine
+   pip install "sglang[all]" # Cài đặt SGLang Engine (Bắt buộc cho hệ thống này)
    ```
-3. **Khởi chạy SGLang Server (Khuyên dùng thay thế Ollama):** 
-   Mở một Terminal mới và chạy SGLang Server (hỗ trợ RadixAttention siêu tốc):
-   ```bash
-   python -m sglang.launch_server --model-path Qwen/Qwen2.5-Coder-7B-Instruct --port 30000 --host 0.0.0.0
-   ```
-   *(Nếu bạn vẫn muốn dùng Ollama do máy không có GPU khỏe, hãy mở file `config/run_profile.yaml` và trỏ `base_url` về lại port `11434` của Ollama).*
 
----
-
-### Bước 2: Bóc Tách Dữ Liệu (Phase 1 - Preprocessing)
-Hệ thống sẽ đọc toàn bộ các file `.txt` báo cáo tài chính trong `ViFinQA/financial_statements/` và xuất ra các bảng `.csv` chuẩn hóa.
-
-1. **Kiểm tra cấu hình:** Mở tệp `config/run_profile.yaml` và đảm bảo `run_mode` đang là `sample` (để chạy thử mã `AAA`) hoặc `full` (để chạy toàn bộ).
-2. **Chạy Pipeline:**
-   ```bash
-   python -m src.financial_text_to_pandas.preprocessing.pipeline
-   ```
-   *Kết quả:* Các tệp `table_metadata.csv` và hàng nghìn file `<table_id>.csv` sẽ được tạo tại `artifacts/preprocessing/`.
-
----
-
-### Bước 3: Lập Chỉ Mục Tìm Kiếm (Phase 2 - Indexing)
-Bước này để gộp dữ liệu thành siêu từ điển và tạo Index để AI tìm kiếm nhanh.
-
-1. **Tạo Corpus (Tổng hợp Metadata):**
-   ```bash
-   python -m src.financial_text_to_pandas.retrieval.corpus --table-metadata artifacts/preprocessing/table_metadata.csv --output artifacts/retrieval/table_corpus.csv
-   ```
-2. **Tạo BM25 Index (Tìm kiếm từ khóa):**
-   ```bash
-   python -c "import pandas as pd; from pathlib import Path; from financial_text_to_pandas.retrieval.bm25 import build_bm25_index; df = pd.read_csv('artifacts/retrieval/table_corpus.csv'); build_bm25_index(df, Path('artifacts/retrieval/bm25_index.pkl')); print('BM25 Indexing Done!')"
-   ```
-3. **(Tùy chọn) Tạo Dense Vector Index (Tìm kiếm ngữ nghĩa):** 
-   Cấu hình trong `src/financial_text_to_pandas/retrieval/embeddings.py` để nhúng dữ liệu vào Parquet Store.
-
----
-
-### Bước 4: Đánh Giá Hiệu Suất (Benchmark Evaluation)
-Chạy tập câu hỏi vàng (`tests/golden_questions.json`) để đo lường độ chính xác của hệ thống (Exact Match, Recall@10, MRR).
+### Bước 2: Tiền Xử Lý Dữ Liệu (Terminal 1)
+Trước khi Agent có thể tìm kiếm, bạn cần chạy file tiền xử lý để bóc tách các Báo cáo tài chính PDF (.txt) thành các file CSV nhỏ:
 ```bash
-python -m src.financial_text_to_pandas.retrieval.evaluate
+python preprocess_vifinqa.py
+```
+*(Kết quả: Hàng nghìn file `<table_id>.csv` sẽ được tạo tại `artifacts/preprocessing/`).*
+
+### Bước 3: Khởi Chạy Hệ Thống LLMs (Mở 4 Terminal Mới)
+Mở thêm **4 Terminal mới**, ở mỗi Terminal nhớ kích hoạt môi trường ảo (`.venv\Scripts\activate`), sau đó gõ lần lượt các lệnh sau để khởi chạy 4 Agent:
+
+**Terminal 1 (Port 30000) - Chạy Planner Agent (DeepSeek-R1-14B)**
+```bash
+python -m sglang.launch_server --model-path deepseek-ai/DeepSeek-R1-Distill-Qwen-14B --port 30000 --host 0.0.0.0
 ```
 
----
-
-### Bước 5: Đóng Gói File Nộp Bài (Submission Packaging)
-Sau khi AI thực thi suy luận trên bộ câu hỏi kiểm thử `ViFinQA/questions.jsonl`, toàn bộ kết quả phải được đóng gói thành file ZIP chuẩn.
-Chạy kịch bản tự động tạo gói nộp bài:
+**Terminal 2 (Port 30001) - Chạy Retriever Agent (Qwen2.5-7B)**
 ```bash
-# Script mẫu minh họa việc generate
-python -c "from tests.test_submission import test_export_and_validate_submission_zip; import pathlib; test_export_and_validate_submission_zip(pathlib.Path('./artifacts/submission_test')); print('Submission ZIP created successfully!')"
+python -m sglang.launch_server --model-path Qwen/Qwen2.5-7B-Instruct --port 30001 --host 0.0.0.0
 ```
-*Gói xuất ra (`submission.zip`) sẽ chứa `submission.json` ở thư mục gốc và các tệp CSV chứng cứ trong thư mục `data/`, tuân thủ 100% định dạng Dashboard.*
+
+**Terminal 3 (Port 30002) - Chạy Programmer Agent (Qwen2.5-Coder-14B)**
+```bash
+python -m sglang.launch_server --model-path Qwen/Qwen2.5-Coder-14B-Instruct --port 30002 --host 0.0.0.0
+```
+
+**Terminal 4 (Port 30003) - Chạy Critic Agent (Qwen2.5-Coder-3B)**
+```bash
+python -m sglang.launch_server --model-path Qwen/Qwen2.5-Coder-3B-Instruct --port 30003 --host 0.0.0.0
+```
+*(Lưu ý: Lần đầu tiên chạy, hệ thống sẽ tự động tải các model này từ HuggingFace về máy, nên sẽ mất thời gian tùy thuộc vào tốc độ mạng).*
+
+### Bước 4: Chạy Toàn Bộ 1012 Câu Hỏi Để Ra Kết Quả (Terminal 1)
+Quay trở lại Terminal 1 (Terminal đầu tiên dùng để setup), gõ lệnh chạy Batch Inference để hệ thống giải quyết tất cả 1012 câu hỏi:
+```bash
+python run_batch_inference.py
+```
+*(Mẹo: Bạn có thể thêm cờ `--limit 5` để chạy thử 5 câu đầu nhằm kiểm tra lỗi trước khi chạy thật. Script hỗ trợ resume, nên nếu bị gián đoạn giữa chừng, chạy lại lệnh này sẽ tự động bỏ qua các câu đã làm).*
+
+### Bước 5: Đóng Gói File Nộp Bài Dashboard
+Khi script ở Bước 4 chạy xong, bạn sẽ thấy thư mục `submission` được tạo ra ở thư mục gốc của dự án với cấu trúc:
+```text
+submission/
+├── submission.json
+└── data/
+    ├── <báo_cáo_1>.csv
+    └── <báo_cáo_2>.csv
+```
+Nhiệm vụ cuối cùng của bạn là vào thư mục dự án, chuột phải vào thư mục `submission` (hoặc bôi đen toàn bộ ruột của nó) và **Compress to ZIP file** (đặt tên là `submission.zip`). Bạn đem file ZIP này upload lên Dashboard của Ban Tổ chức là xong! 🎯
 
 ---
 

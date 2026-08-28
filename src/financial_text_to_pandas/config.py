@@ -9,7 +9,7 @@ from __future__ import annotations
 
 from dataclasses import dataclass, field
 from pathlib import Path
-from typing import Optional
+from typing import Optional, Any
 
 import yaml
 
@@ -25,8 +25,12 @@ class RunConfig:
     sample_limit_reports: Optional[int]
     full_run_confirmed: bool
     resume: bool
-    llm_config: dict[str, str | float] = field(default_factory=dict)
-
+    llm_planner_config: dict[str, str | float] = field(default_factory=dict)
+    llm_retriever_config: dict[str, str | float] = field(default_factory=dict)
+    llm_programmer_config: dict[str, str | float] = field(default_factory=dict)
+    llm_critic_config: dict[str, str | float] = field(default_factory=dict)
+    embedding_config: dict[str, Any] = field(default_factory=dict)
+    reranker_config: dict[str, Any] = field(default_factory=dict)
     # ── derived ───────────────────────────────────────────────────────────────
     @property
     def is_sample(self) -> bool:
@@ -74,5 +78,10 @@ def load_config(config_path: Path) -> RunConfig:
         sample_limit_reports=sample_limit_reports,
         full_run_confirmed=full_run_confirmed,
         resume=bool(raw.get("resume", True)),
-        llm_config=raw.get("llm", {}),
+        llm_planner_config=raw.get("llm_planner", {}),
+        llm_retriever_config=raw.get("llm_retriever", {}),
+        llm_programmer_config=raw.get("llm_programmer", {}),
+        llm_critic_config=raw.get("llm_critic", {}),
+        embedding_config=raw.get("embedding", {}),
+        reranker_config=raw.get("reranker", {}),
     )

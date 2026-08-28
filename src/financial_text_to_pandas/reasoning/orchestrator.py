@@ -178,20 +178,18 @@ class FinancialQAOrchestrator:
     # ── Step 1: Planner ───────────────────────────────────────────────────────
 
     def plan(self, question: str, trace: OrchestrationTrace) -> str:
-        """Planner Agent: decompose question into reasoning steps.
+        """Planner Agent: decompose question into reasoning steps."""
+        from financial_text_to_pandas.reasoning.llm import call_llm
+        from financial_text_to_pandas.reasoning.prompts import PLANNER_PROMPT_TEMPLATE
 
-        Returns a natural language plan string.
-        In production this calls the LLM; here it returns a stub.
-        """
-        # Production: call LLM with planner prompt template
-        plan = (
-            f"1. Identify relevant financial statements for: {question}\n"
-            f"2. Retrieve key metric cells.\n"
-            f"3. Compute result via PoT or Chain-of-Table.\n"
-            f"4. Verify against narrative text."
-        )
-        trace.add_step(ROLE_PLANNER, "decompose", True, f"Plan generated ({len(plan)} chars)")
-        return plan
+        prompt = PLANNER_PROMPT_TEMPLATE.format(question=question)
+        try:
+            plan_text = call_llm(prompt, self.cfg.planner.to_llm_config())
+            trace.add_step(ROLE_PLANNER, "decompose", True, f"Plan generated ({len(plan_text)} chars)")
+            return plan_text
+        except Exception as e:
+            trace.add_step(ROLE_PLANNER, "decompose", False, f"Failed: {str(e)}")
+            return f"Failed to generate plan: {str(e)}"
 
     # ── Step 2: Retriever ─────────────────────────────────────────────────────
 
@@ -202,15 +200,32 @@ class FinancialQAOrchestrator:
         evidence_package: EvidencePackage,
         trace: OrchestrationTrace,
     ) -> CellGroundingResult:
-        """Retriever Agent: ground cells from evidence tables."""
+        """Retriever Agent: ground cells from evidence tables using LLM and heuristics."""
         import pandas as pd
+        import json
         from financial_text_to_pandas.reasoning.cell_grounding import ground_cells
+        from financial_text_to_pandas.reasoning.llm import call_llm
+        from financial_text_to_pandas.reasoning.prompts import RETRIEVER_GROUNDING_PROMPT_TEMPLATE
 
         dfs: Dict[str, pd.DataFrame] = {}
+        tables_context = ""
         for ev in evidence_package.tables:
             # In production, CSVs are already loaded; stub with empty DFs
             dfs[ev.candidate.table_id] = pd.DataFrame()
+            tables_context += f"Table ID: {ev.candidate.table_id}\nSnippet: {ev.candidate.csv_path}\n\n"
 
+        # Call Retriever LLM
+        prompt = RETRIEVER_GROUNDING_PROMPT_TEMPLATE.format(
+            question=question,
+            tables_context=tables_context
+        )
+        try:
+            llm_response = call_llm(prompt, self.cfg.retriever.to_llm_config())
+            trace.add_step(ROLE_RETRIEVER, "llm_grounding", True, "LLM Retriever suggested grounding")
+        except Exception as e:
+            trace.add_step(ROLE_RETRIEVER, "llm_grounding", False, f"LLM error: {str(e)}")
+
+        # For execution, we still rely on the robust schema-aware grounding
         grounding = ground_cells(evidence_package.intent, dfs)
         success = grounding.error_type is None
         trace.add_step(
@@ -259,7 +274,7 @@ class FinancialQAOrchestrator:
         """Critic Agent: Dual Verification (table vs narrative text)."""
         from financial_text_to_pandas.reasoning.verifier import verify_answer
 
-        verification = verify_answer(result, grounding, package, dfs)
+        verification = verify_answer(result, grounding, package, dfs, self.cfg.critic.to_llm_config())
         trace.add_step(
             ROLE_CRITIC, "dual_verify", verification.is_valid,
             f"status={verification.verification_status}"
