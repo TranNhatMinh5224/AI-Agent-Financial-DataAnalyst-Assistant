@@ -27,7 +27,8 @@ Thư mục này chứa bộ tài liệu kỹ thuật hoàn chỉnh và chính x�
 | `17_Official_Contest_Submission_Format_and_Packaging_Specification.md` | **QUY CHUẨN NỘP BÀI DASHBOARD**: Đặc tả schema JSON, đóng gói ZIP và module `submission.py` tự động validate. |
 | `18_QuickStart_Runbook_A_to_Z.md` | **HƯỚNG DẪN KHỞI CHẠY TỪ A-Z**: Dành cho Developer mới clone repo. Các lệnh tạo môi trường, Preprocessing, Indexing, Test và Web UI. (Nội dung tương tự README.md) |
 | `19_Multi_Hop_SubQuery_Implementation_Plan.md` | Kế hoạch triển khai Sub-query Decomposition để xử lý các câu hỏi phức tạp (Multi-hop RAG). |
-| **`20_End_to_End_System_Architecture_Diagram.md`** | **BẢN VẼ KIẾN TRÚC TỔNG THỂ**: Sơ đồ Mermaid minh họa luồng đi dữ liệu 5 Giai đoạn (Planner ➔ Retriever ➔ Grounding ➔ Sandbox ➔ Critic). |
+| `20_End_to_End_System_Architecture_Diagram.md` | **BẢN VẼ KIẾN TRÚC TỔNG THỂ**: Sơ đồ Mermaid minh họa luồng đi dữ liệu 5 Giai đoạn (Planner ➔ Retriever ➔ Grounding ➔ Sandbox ➔ Critic). |
+| **`21_ViFinQA_Dataset_Comprehensive_Analysis.md`** | **BÁO CÁO PHÂN TÍCH TOÀN DIỆN VIFINQA**: Phân tích chi tiết 100 mã cổ phiếu, 1,013 câu hỏi, phân loại đơn vị, tỷ lệ truy vấn và giải pháp kỹ thuật đã triển khai. |
 
 ---
 

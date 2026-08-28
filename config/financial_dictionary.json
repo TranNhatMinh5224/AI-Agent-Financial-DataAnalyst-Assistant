@@ -1,0 +1,61 @@
+{
+  "acronyms": {
+    "LNST": "lợi nhuận sau thuế",
+    "LNTT": "lợi nhuận trước thuế",
+    "TNDN": "thuế thu nhập doanh nghiệp",
+    "HĐQT": "hội đồng quản trị",
+    "TCTD": "tổ chức tín dụng",
+    "TSCĐ": "tài sản cố định",
+    "TSNH": "tài sản ngắn hạn",
+    "TSDH": "tài sản dài hạn",
+    "VCSH": "vốn chủ sở hữu",
+    "CTCP": "công ty cổ phần",
+    "TMCP": "thương mại cổ phần",
+    "QLDN": "quản lý doanh nghiệp",
+    "BH&CCDV": "bán hàng và cung cấp dịch vụ",
+    "LCTTN": "lưu chuyển tiền thuần",
+    "HĐKD": "hoạt động kinh doanh",
+    "HĐDT": "hoạt động đầu tư",
+    "HĐTC": "hoạt động tài chính",
+    "VAMC": "công ty quản lý tài sản",
+    "TNHH": "trách nhiệm hữu hạn"
+  },
+  "metrics_synonyms": {
+    "lãi ròng": "lợi nhuận sau thuế",
+    "lợi nhuận ròng": "lợi nhuận sau thuế",
+    "lợi nhuận gộp": "lãi gộp",
+    "doanh thu thuần": "doanh thu bán hàng và cung cấp dịch vụ",
+    "doanh thu": "doanh thu bán hàng",
+    "tiền và tương đương tiền": "tiền và các khoản tương đương tiền",
+    "nợ ngắn hạn": "tổng nợ ngắn hạn",
+    "nợ dài hạn": "tổng nợ dài hạn",
+    "nợ phải trả": "tổng nợ phải trả",
+    "tổng tài sản": "tổng cộng tài sản",
+    "chi phí lãi vay": "chi phí tài chính lãi vay",
+    "dự phòng rủi ro": "chi phí dự phòng rủi ro",
+    "quỹ khen thưởng": "quỹ khen thưởng phúc lợi"
+  },
+  "report_types": {
+    "công ty mẹ": "separate",
+    "riêng lẻ": "separate",
+    "mẹ": "separate",
+    "hợp nhất": "consolidated",
+    "tập đoàn": "consolidated",
+    "giải trình": "explanation"
+  },
+  "units_multiplier": {
+    "đồng": 1,
+    "vnd": 1,
+    "vnđ": 1,
+    "nghìn đồng": 1000,
+    "ngàn đồng": 1000,
+    "triệu đồng": 1000000,
+    "triệu": 1000000,
+    "tỷ đồng": 1000000000,
+    "tỷ": 1000000000,
+    "nghìn tỷ đồng": 1000000000000,
+    "nghìn tỷ": 1000000000000,
+    "%": 1,
+    "phần trăm": 1
+  }
+}

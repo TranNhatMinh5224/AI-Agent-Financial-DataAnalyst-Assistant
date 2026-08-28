@@ -13,6 +13,7 @@ from typing import Optional
 import pandas as pd
 
 from financial_text_to_pandas.types import QueryHints
+from financial_text_to_pandas.retrieval.dictionary import normalize_query_language
 
 # ── Keywords & Patterns ───────────────────────────────────────────────────────
 
@@ -53,7 +54,8 @@ def extract_query_hints(question: str) -> QueryHints:
     Returns:
         QueryHints dataclass containing extracted metadata.
     """
-    q_lower = question.lower()
+    normalized_q = normalize_query_language(question)
+    q_lower = normalized_q.lower()
     
     # 1. Ticker
     tickers = _TICKER_RE.findall(question)
