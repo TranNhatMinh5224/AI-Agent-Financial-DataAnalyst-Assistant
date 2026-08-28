@@ -1,85 +1,115 @@
 """
-evaluate.py — Evaluate retrieval quality against golden answers.
+evaluate.py — Evaluate system performance against official contest metrics.
 
-Phase 2, Step 8.
+Phase 4, Step 8.
 """
 
 from __future__ import annotations
 
+import math
 from typing import List, Dict
 import pandas as pd
 from pathlib import Path
 
-from financial_text_to_pandas.types import RetrievalMetrics
+from financial_text_to_pandas.types import ContestMetrics
 
-def evaluate_retrieval(predictions_df: pd.DataFrame, gold_df: pd.DataFrame, output_path: Path) -> RetrievalMetrics:
-    """Evaluate retrieval results.
+def evaluate_contest_metrics(
+    predictions: List[Dict], 
+    gold_data: List[Dict], 
+    error_threshold: float = 0.05
+) -> ContestMetrics:
+    """Evaluate system outputs against golden test set using official BTC formulas.
     
     Args:
-        predictions_df: DataFrame of retrieval results. Must have 'query_id', 'table_id', 'rank'.
-        gold_df: DataFrame of golden answers. Must have 'query_id', 'golden_table_id'.
-        output_path: Where to save retrieval_eval.csv.
+        predictions: List of dicts matching SubmissionItem format (id, relevant_tables, answer, pandas_query_status).
+        gold_data: List of dicts matching Golden format (id, golden_tables, golden_answer).
+        error_threshold: Allowed error margin for numeric answers (e.g., 0.05 for 5%).
         
     Returns:
-        RetrievalMetrics object.
+        ContestMetrics object containing official scores.
     """
-    total_queries = len(gold_df)
+    total_queries = len(gold_data)
     if total_queries == 0:
-        return RetrievalMetrics(0, 0, 0, 0, 0, 0)
+        return ContestMetrics(0, 0, 0, 0, 0)
         
-    hits_at_10 = 0
-    hits_at_50 = 0
-    mrr_sum = 0.0
+    gold_map = {item["id"] if "id" in item else item.get("query_id"): item for item in gold_data}
     
-    eval_rows = []
+    precision_sum = 0.0
+    recall_sum = 0.0
+    correct_answers = 0
+    correct_executions = 0
     
-    for _, gold_row in gold_df.iterrows():
-        qid = gold_row["query_id"]
-        gold_tid = gold_row["golden_table_id"]
+    for pred in predictions:
+        q_id = pred.get("id") or pred.get("query_id")
+        if q_id not in gold_map:
+            continue
+            
+        gold = gold_map[q_id]
         
-        preds = predictions_df[predictions_df["query_id"] == qid].sort_values("rank")
+        # 1. Retrieval Metrics (Macro-Average)
+        # Bảng dữ liệu đã truy hồi
+        pred_tables = set(pred.get("relevant_tables", []))
+        # Bảng dữ liệu liên quan (chuẩn)
+        gold_tables = set(gold.get("golden_tables", [gold.get("golden_table_id")] if gold.get("golden_table_id") else []))
         
-        hit_rank = -1
-        for rank, pred_tid in zip(preds["rank"], preds["table_id"]):
-            if pred_tid == gold_tid:
-                hit_rank = rank
-                break
+        num_retrieved = len(pred_tables)
+        num_relevant = len(gold_tables)
+        
+        # Số bảng dữ liệu truy hồi đúng
+        num_correct = len(pred_tables.intersection(gold_tables))
+        
+        # Precision cho truy vấn này
+        p_q = num_correct / num_retrieved if num_retrieved > 0 else 0.0
+        # Recall cho truy vấn này
+        r_q = num_correct / num_relevant if num_relevant > 0 else 0.0
+        
+        precision_sum += p_q
+        recall_sum += r_q
+        
+        # 2. Answer Accuracy (Trong ngưỡng sai số)
+        pred_ans = pred.get("answer")
+        gold_ans = gold.get("golden_answer")
+        
+        if pred_ans is not None and gold_ans is not None:
+            try:
+                pred_val = float(pred_ans)
+                gold_val = float(gold_ans)
                 
-        if hit_rank != -1 and hit_rank <= 10:
-            hits_at_10 += 1
-        if hit_rank != -1 and hit_rank <= 50:
-            hits_at_50 += 1
+                # Check within threshold
+                if gold_val == 0:
+                    if pred_val == 0:
+                        correct_answers += 1
+                else:
+                    error = abs(pred_val - gold_val) / abs(gold_val)
+                    if error <= error_threshold:
+                        correct_answers += 1
+            except (ValueError, TypeError):
+                pass
+                
+        # 3. Execution Accuracy
+        # (số code chạy được và cho kết quả đúng)
+        # Giả định: Trường is_execution_success được gán trong prediction
+        is_success = pred.get("is_execution_success", False)
+        if is_success:
+            correct_executions += 1
             
-        if hit_rank != -1:
-            mrr_sum += 1.0 / hit_rank
-            
-        eval_rows.append({
-            "query_id": qid,
-            "golden_table_id": gold_tid,
-            "hit_rank": hit_rank,
-            "found_top10": hit_rank != -1 and hit_rank <= 10,
-            "found_top50": hit_rank != -1 and hit_rank <= 50
-        })
+    # Tính trung bình Macro
+    macro_precision = precision_sum / total_queries
+    macro_recall = recall_sum / total_queries
+    
+    # Tính F2
+    if macro_precision + macro_recall == 0:
+        f2 = 0.0
+    else:
+        f2 = (5 * macro_precision * macro_recall) / (4 * macro_precision + macro_recall)
         
-    recall_10 = hits_at_10 / total_queries
-    recall_50 = hits_at_50 / total_queries
-    mrr = mrr_sum / total_queries
-    missing_rate = 1.0 - recall_50 # If not in top 50, it's missing from candidate pool entirely
+    answer_acc = correct_answers / total_queries
+    exec_acc = correct_executions / total_queries
     
-    # Reranker hit rate would require knowing dense vs rerank differences, simple proxy here
-    reranker_hit = recall_10
-    
-    metrics = RetrievalMetrics(
-        recall_at_10=recall_10,
-        recall_at_50=recall_50,
-        mrr=mrr,
-        missing_evidence_rate=missing_rate,
-        reranker_hit_rate=reranker_hit,
-        latency_ms=0.0
+    return ContestMetrics(
+        retrieval_precision=macro_precision,
+        retrieval_recall=macro_recall,
+        retrieval_f2_macro=f2,
+        answer_accuracy=answer_acc,
+        execution_accuracy=exec_acc
     )
-    
-    eval_df = pd.DataFrame(eval_rows)
-    output_path.parent.mkdir(parents=True, exist_ok=True)
-    eval_df.to_csv(output_path, index=False, encoding="utf-8-sig")
-    
-    return metrics

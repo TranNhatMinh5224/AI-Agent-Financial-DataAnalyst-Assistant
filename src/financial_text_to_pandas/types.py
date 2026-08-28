@@ -237,14 +237,22 @@ class EvidenceTable:
     
 
 @dataclass
-class RetrievalMetrics:
-    """Evaluation metrics for table retrieval."""
-    recall_at_10: float
-    recall_at_50: float
-    mrr: float
-    missing_evidence_rate: float
-    reranker_hit_rate: float
-    latency_ms: float
+class ContestMetrics:
+    """Evaluation metrics according to official competition rules."""
+    retrieval_precision: float
+    retrieval_recall: float
+    retrieval_f2_macro: float
+    answer_accuracy: float
+    execution_accuracy: float
+    
+    def to_dict(self) -> dict:
+        return {
+            "retrieval_precision": round(self.retrieval_precision, 4),
+            "retrieval_recall": round(self.retrieval_recall, 4),
+            "retrieval_f2_macro": round(self.retrieval_f2_macro, 4),
+            "answer_accuracy": round(self.answer_accuracy, 4),
+            "execution_accuracy": round(self.execution_accuracy, 4),
+        }
 
 
 # ── Phase 3: Reasoning ────────────────────────────────────────────────────────
