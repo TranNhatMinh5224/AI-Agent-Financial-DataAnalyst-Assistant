@@ -1,37 +1,64 @@
-# TẬP TÀI LIỆU KỸ THUẬT DỰ ÁN AI FINANCIAL DATA ANALYST ASSISTANT
+# 00 - MASTER DOCUMENTATION INDEX: AI FINANCIAL DATA ANALYST ASSISTANT
 
-Thư mục này chứa bộ tài liệu kỹ thuật hoàn chỉnh và chính xác nhất cho dự án **AI Agent Financial Data Analyst Assistant**.
-
----
-
-## 🗺️ Danh Mục Tài Liệu
-
-| Tên File | Mô tả nội dung chính |
-| :--- | :--- |
-| **`00_MASTER_ARCHITECTURE_SPECIFICATION.md`** | **TÀI LIỆU GỐC CHUẨN DUY NHẤT (Master Spec)**: Hợp nhất toàn bộ 6 bước siêu cấu trúc, Multi-Agent, De-lexicalization, TableRAG, Chain-of-Table, và Hạ tầng Production. |
-| `01_Project_Plan.md` | Đăng ký mục tiêu dự án, phạm vi PLAN-ONLY, và lộ trình tổng thể 5 Pha. |
-| `02_System_Architecture.md` | Kiến trúc hệ thống Text-to-Pandas & sơ đồ luồng dữ liệu. |
-| `03_Technology_Stack.md` | Danh mục công nghệ: Python 3.10+, Pandas, RapidFuzz, Qwen2.5-Coder, vLLM/SGLang. |
-| `04_Phase1_Data_Preparation.md` | Chi tiết Pha 1: Chuẩn hóa dữ liệu OCR BCTC, bóc tách bảng HTML, xử lý ô gộp và lưu trữ CSV Store. |
-| `05_Phase2_Data_Retrieval_Core.md` | Chi tiết Pha 2: Tìm kiếm bảng biểu lai (Hybrid Search: BM25 + Dense Embeddings + Reranker). |
-| `06_Phase3_Text_to_Pandas_QA_and_Reasoning.md` | Chi tiết Pha 3: Động cơ suy luận tài chính Text-to-Pandas và Cell Grounding. |
-| `07_Phase4_Deployment_and_Optimization.md` | Chi tiết Pha 4: Đánh giá Benchmark (Metrics, Error Taxonomy), Giao diện UI và Tối ưu hóa. |
-| `08_Task_Breakdown_and_Status.md` | Bảng theo dõi tiến độ chi tiết theo từng Task và Trạng thái hiện tại. |
-| `09_Production_Grade_Optimization_Plan.md` | Kế hoạch nâng cấp Production-Grade (Self-Correction, Symbolic Masking, Dual Verification). |
-| `11_MultiHiertt_Benchmark_and_Hierarchical_Tree_Encoding.md` | Phân tích bài báo MultiHiertt Benchmark (ACL 2022) và phương pháp mã hóa đường dẫn phân cấp `Parent > Child`. |
-| `12_De-lexicalization_Pipeline.md` | Quy trình 3 bước Khử ảo giác số học (Masking Context & Query → Symbolic Generation → Deterministic Value Binding). |
-| `13_Chain_of_Table_and_TableRAG.md` | Kỹ thuật Chain-of-Table (Google DeepMind - ICLR 2024) và TableRAG (NeurIPS 2024) cho bảng biểu triệu token. |
-| `14_Multi_Agent_Architecture_and_Production_Deployment.md` | Kiến trúc Multi-Agent (Planner, Retriever, Programmer, Critic), phân bổ VRAM 80GB, Serving SGLang và OS Sandbox. |
-| **`15_Contest_Compliance_and_Model_Manifest.md`** | **TUÂN THỦ QUY ĐỊNH CUỘC THI**: Danh mục 100% Mô hình Mở (Hugging Face) $\le$ 14B, phát hành trước 01/06/2026, lệnh tải và BibTeX trích dẫn tái lập kết quả. |
-| `16_Phase1_Preprocessing_Execution_Report.md` | Báo cáo thực thi Phase 1 Preprocessing: Cấu trúc ViFinQA, bóc tách 5 bước, cấu hình `run_profile.yaml` và tổ chức CSV Table Store. |
-| `17_Official_Contest_Submission_Format_and_Packaging_Specification.md` | **QUY CHUẨN NỘP BÀI DASHBOARD**: Đặc tả schema JSON, đóng gói ZIP và module `submission.py` tự động validate. |
-| `18_QuickStart_Runbook_A_to_Z.md` | **HƯỚNG DẪN KHỞI CHẠY TỪ A-Z**: Dành cho Developer mới clone repo. Các lệnh tạo môi trường, Preprocessing, Indexing, Test và Web UI. (Nội dung tương tự README.md) |
-| `19_Multi_Hop_SubQuery_Implementation_Plan.md` | Kế hoạch triển khai Sub-query Decomposition để xử lý các câu hỏi phức tạp (Multi-hop RAG). |
-| `20_End_to_End_System_Architecture_Diagram.md` | **BẢN VẼ KIẾN TRÚC TỔNG THỂ**: Sơ đồ Mermaid minh họa luồng đi dữ liệu 5 Giai đoạn (Planner ➔ Retriever ➔ Grounding ➔ Sandbox ➔ Critic). |
-| **`21_ViFinQA_Dataset_Comprehensive_Analysis.md`** | **BÁO CÁO PHÂN TÍCH TOÀN DIỆN VIFINQA**: Phân tích chi tiết 100 mã cổ phiếu, 1,013 câu hỏi, phân loại đơn vị, tỷ lệ truy vấn và giải pháp kỹ thuật đã triển khai. |
+Tài liệu này là **Master Index (Mục Mục Chính)** hợp nhất toàn bộ bộ tài liệu dự án **AI Financial Data Analyst Assistant** thành **5 PART chuyên sâu**. Nội dung trong từng PART được bảo toàn **đầy đủ chi tiết 100% (Full Specs)**, được tổ chức theo từng phân hệ logic khoa học.
 
 ---
 
-## 🎯 Điểm Bắt Đầu Đọc Khuyên Dùng
-- Đối với **Kiến trúc sư / Developer**: Bắt đầu bằng **`00_MASTER_ARCHITECTURE_SPECIFICATION.md`**.
-- Đối với **Quản lý Tiến độ / QA**: Bắt đầu bằng **`08_Task_Breakdown_and_Status.md`**.
+## 🌳 Sơ Đồ Cấu Trúc Bộ Tài Liệu 5 PART
+
+```text
+Docx/
+│
+├── PART_1_OVERVIEW_AND_PROJECT_PLAN.md               # Overview, Architecture Spec, Project Plan, Tech Stack
+├── PART_2_DATA_PREPROCESSING_AND_VIFINQA.md           # Phase 1 Preprocessing, Pipeline Execution, ViFinQA Analysis
+├── PART_3_RETRIEVAL_AND_REASONING_ENGINE.md           # Phase 2 & 3: Hybrid Retrieval, PoT, Tree Encoding, De-lex, TableRAG
+├── PART_4_MULTI_AGENT_DEPLOYMENT_AND_CONTEST.md       # Multi-Agent CLER, SGLang, Submission Format, Contest Compliance
+└── PART_5_SYSTEM_DIAGRAMS_AND_ROADMAP.md             # End-to-End Diagrams, Task Status, Multi-hop Plan, Proposals
+```
+
+---
+
+## 📚 Chi Tiết Nội Dung Từng PART
+
+### 🟢 [PART 1: Overview, Master Architecture & Project Plan](PART_1_OVERVIEW_AND_PROJECT_PLAN.md)
+*Hợp nhất đầy đủ từ các file: `00_MASTER_ARCHITECTURE_SPECIFICATION.md`, `01_Project_Plan.md`, `02_System_Architecture.md`, `03_Technology_Stack.md`*
+- **Kiến trúc Superstructure 6 bước**: Từ câu hỏi tự nhiên đến kết quả kiểm định kép.
+- **Quyết định thiết kế**: Lý do lựa chọn Text-to-Pandas & Program-of-Thoughts (PoT).
+- **Phân rã Multi-Agent Framework**: CLER Framework (Planner, Retriever, Programmer, Critic) & VRAM Budget (80GB).
+- **Kế hoạch dự án & Cấu trúc mã nguồn**: Chi tiết quy chuẩn các thư mục và gói `src/financial_text_to_pandas/`.
+
+---
+
+### 🔵 [PART 2: Data Preprocessing, Table Store & ViFinQA Analysis](PART_2_DATA_PREPROCESSING_AND_VIFINQA.md)
+*Hợp nhất đầy đủ từ các file: `04_Phase1_Data_Preparation.md`, `16_Phase1_Preprocessing_Execution_Report.md`, `21_ViFinQA_Dataset_Comprehensive_Analysis.md`*
+- **Quy trình bóc tách HTML Table & Grid Expansion**: Xử lý ô gộp `rowspan`/`colspan`, căn chỉnh ma trận 2D.
+- **Tiêu đề phân cấp & Normalization số liệu**: Flatten tiêu đề `Parent > Child` và parse chuẩn số liệu tiếng Việt.
+- **Chi tiết Dataset ViFinQA**: Phân tích 100 mã cổ phiếu và 1.013 câu hỏi kiểm thử.
+- **Quản lý chế độ chạy**: Cấu hình chi tiết `config/run_profile.yaml` cho 2 chế độ `sample` và `full`.
+
+---
+
+### 🟣 [PART 3: Retrieval & Reasoning Engine (Text-to-Pandas)](PART_3_RETRIEVAL_AND_REASONING_ENGINE.md)
+*Hợp nhất đầy đủ từ các file: `05_Phase2_Data_Retrieval_Core.md`, `06_Phase3_Text_to_Pandas_QA_and_Reasoning.md`, `11_MultiHiertt_Benchmark_and_Hierarchical_Tree_Encoding.md`, `12_De-lexicalization_Pipeline.md`, `13_Chain_of_Table_and_TableRAG.md`*
+- **Phase 2 Table Retrieval Core**: Kết hợp BM25 + `Qwen3-Embedding-8B` + `bge-reranker-v2-m3`.
+- **Phase 3 Reasoning & Schema-Aware Cell Grounding**: Định vị ô giao điểm chính xác trước khi thực thi code.
+- **Khử ảo giác số học (De-lexicalization)**: Quy trình 3 bước thay thế số thực bằng symbol `[NUM_X]`.
+- **TableRAG & Chain-of-Table**: Two-Level Retrieval (Schema & Cell-targeted Pointers) và bảng tự tiến hóa.
+
+---
+
+### 🟡 [PART 4: Multi-Agent Architecture, Production Deployment & Contest Compliance](PART_4_MULTI_AGENT_DEPLOYMENT_AND_CONTEST.md)
+*Hợp nhất đầy đủ từ các file: `07_Phase4_Deployment_and_Optimization.md`, `09_Production_Grade_Optimization_Plan.md`, `14_Multi_Agent_Architecture_and_Production_Deployment.md`, `15_Contest_Compliance_and_Model_Manifest.md`, `17_Official_Contest_Submission_Format_and_Packaging_Specification.md`, `18_QuickStart_Runbook_A_to_Z.md`*
+- **Tuân thủ quy định cuộc thi (Contest Compliance)**: 100% Open-weights LLMs $\le 14B$ (DeepSeek-R1-Distill-Qwen-14B, Qwen2.5-Coder-14B).
+- **Phục vụ mô hình (Serving)**: Tối ưu latency với SGLang Engine và RadixAttention KV-Cache sharing.
+- **Quy chuẩn nộp bài thi (Submission Packaging Spec)**: Cấu trúc file `submission.zip` & JSON Schema chính thức.
+- **QuickStart Runbook A–Z**: Hướng dẫn chạy từng bước từ cài môi trường đến khởi chạy Streamlit Web UI.
+
+---
+
+### 🔴 [PART 5: System Diagrams, Task Status & Future Roadmap](PART_5_SYSTEM_DIAGRAMS_AND_ROADMAP.md)
+*Hợp nhất đầy đủ từ các file: `08_Task_Breakdown_and_Status.md`, `19_Multi_Hop_SubQuery_Implementation_Plan.md`, `20_End_to_End_System_Architecture_Diagram.md`, `Optimization_Proposals.md`*
+- **Sơ đồ kiến trúc End-to-End**: Trực quan hóa luồng dữ liệu từ Query người dùng đến Verified Answer.
+- **Bảng trạng thái công việc (Task Breakdown)**: Tiến độ hoàn thành 4 Phase.
+- **Lộ trình nâng cấp Multi-Hop Sub-Query**: Kế hoạch phân rã câu hỏi đa điều kiện và Parallel Retrieval.
+- **Đề xuất tối ưu hóa Production**: Quantization strategy, log monitoring và bảo mật AST Sandbox.
