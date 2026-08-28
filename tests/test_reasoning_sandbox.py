@@ -46,3 +46,10 @@ def test_run_pandas_sandbox_requires_result():
     code = "x = 1"
     with pytest.raises(ValueError, match="did not assign a value to 'result'"):
         run_pandas_sandbox(code, {})
+
+def test_run_pandas_sandbox_symbol_map():
+    symbol_map = {"NUM_0": 100.0, "NUM_1": 150.0}
+    code = "result = NUM_1 - NUM_0"
+    val = run_pandas_sandbox(code, {}, symbol_map=symbol_map)
+    assert val == 50.0
+

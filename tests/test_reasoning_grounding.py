@@ -49,3 +49,26 @@ def test_ground_cells_fuzzy_match():
 def test_ground_cells_missing_evidence():
     result = ground_cells(Intent(None, None, [], "unknown", ["metric"], None, "lookup"), {})
     assert result.error_type == "I_INSUFFICIENT_EVIDENCE"
+
+def test_linearized_coordinate_path():
+    from financial_text_to_pandas.types import GroundedCell
+    cell = GroundedCell(
+        table_id="T1",
+        csv_path="",
+        page_number=1,
+        row_label="Kết quả kinh doanh > Phân khúc Cloud",
+        column_label="Năm 2023 > Quý 4",
+        raw_value="68.4",
+        parsed_value=68.4,
+        unit="%",
+        confidence=1.0,
+        grounding_method="exact",
+        error_type=None,
+        symbol_name="NUM_0"
+    )
+    path_str = cell.to_linearized_coordinate_path()
+    assert "[NUM_0]" in path_str
+    assert "RowPath: Kết quả kinh doanh > Phân khúc Cloud" in path_str
+    assert "ColPath: Năm 2023 > Quý 4" in path_str
+    assert "Value: 68.4" in path_str
+

@@ -42,4 +42,31 @@ def load_evidence_tables(package: EvidencePackage, base_dir: Path) -> Dict[str, 
         except Exception as e:
             raise RuntimeError(f"Failed to parse CSV for table {cand.table_id}: {e}")
             
+    # Also load linked text context for Dual Verification & Multi-hop
+    load_linked_text_context(package, base_dir)
     return dfs
+
+
+def load_linked_text_context(package: EvidencePackage, base_dir: Path) -> list[str]:
+    """Load linked text narrative notes corresponding to evidence tables."""
+    if package.linked_text_context:
+        return package.linked_text_context
+        
+    linked_texts = []
+    linked_dir = base_dir / "linked_text"
+    
+    for ev_table in package.tables:
+        cand = ev_table.candidate
+        tid = cand.table_id
+        
+        # Look for linked text file matching table_id or report
+        txt_candidates = list(linked_dir.glob(f"*{tid}*.txt")) if linked_dir.exists() else []
+        for txt_file in txt_candidates:
+            try:
+                content = txt_file.read_text(encoding="utf-8")
+                linked_texts.append(content[:1000]) # Take top 1000 chars of narrative note
+            except Exception:
+                pass
+                
+    package.linked_text_context = linked_texts
+    return linked_texts

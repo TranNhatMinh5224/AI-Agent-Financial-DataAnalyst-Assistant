@@ -197,7 +197,7 @@ def _score_header_row(row: List[str]) -> float:
 
 
 def flatten_headers(grid: List[List[str]], header_rows: List[int]) -> List[str]:
-    """Flatten multi-row headers into single column names.
+    """Flatten multi-row headers into single hierarchical column names (Parent > Child).
 
     Args:
         grid: Full 2-D grid.
@@ -219,16 +219,18 @@ def flatten_headers(grid: List[List[str]], header_rows: List[int]) -> List[str]:
         for ci, cell in enumerate(grid[ri]):
             cell_stripped = cell.strip()
             if cell_stripped:
-                col_parts[ci].append(cell_stripped)
+                # Avoid appending identical duplicate consecutive header string
+                if not col_parts[ci] or col_parts[ci][-1] != cell_stripped:
+                    col_parts[ci].append(cell_stripped)
 
-    # Build column names
+    # Build hierarchical column names using ' > ' separator
     col_names: List[str] = []
     seen: dict[str, int] = {}
     for ci, parts in enumerate(col_parts):
-        name = "_".join(parts) if parts else f"col_{ci}"
+        name = " > ".join(parts) if parts else f"col_{ci}"
         # Clean whitespace
         name = re.sub(r"\s+", " ", name).strip()
-        # Deduplicate
+        # Deduplicate identical full column names across different columns
         if name in seen:
             seen[name] += 1
             name = f"{name}_{seen[name]}"

@@ -135,8 +135,21 @@ def test_single_header_row():
 def test_multi_row_header():
     grid = [["", "Năm", "Năm"], ["Chỉ tiêu", "2023", "2022"], ["Doanh thu", "100", "90"]]
     names = flatten_headers(grid, header_rows=[0, 1])
-    # Should combine "Năm_2023" and "Năm_2022"
+    # Should combine "Năm > 2023" and "Năm > 2022"
     assert len(names) == 3
+    assert names[1] == "Năm > 2023"
+    assert names[2] == "Năm > 2022"
+
+def test_hierarchical_multi_row_header_three_levels():
+    grid = [
+        ["", "Năm 2023", "Năm 2023"],
+        ["", "Quý 4", "Quý 4"],
+        ["Chỉ tiêu", "Số tiền", "Tỷ lệ %"],
+        ["Doanh thu", "1000", "15%"]
+    ]
+    names = flatten_headers(grid, header_rows=[0, 1, 2])
+    assert names[1] == "Năm 2023 > Quý 4 > Số tiền"
+    assert names[2] == "Năm 2023 > Quý 4 > Tỷ lệ %"
 
 
 def test_duplicate_column_names_are_deduplicated():

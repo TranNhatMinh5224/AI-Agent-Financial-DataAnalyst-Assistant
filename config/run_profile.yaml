@@ -41,7 +41,9 @@ full_run_confirmed: true
 resume: true
 
 llm:
-  base_url: "http://localhost:11434/v1"
-  api_key: "sk-xxxxxx"
+  engine: "sglang" # Chọn "sglang" (Mặc định thi đấu), "vllm" hoặc "ollama"
+  base_url: "http://localhost:30000/v1" # SGLang mặc định chạy port 30000
+  # base_url: "http://localhost:11434/v1" # Ollama fallback
+  api_key: "sk-sglang-fast"
   model_name: "qwen2.5-coder:7b"
   temperature: 0.0

@@ -58,3 +58,31 @@ def test_verify_answer_invalid_result():
     verification = verify_answer(result, grounding, package, dfs)
     assert not verification.is_valid
     assert verification.error_type == "C_CALCULATION_ERROR"
+
+def test_verify_answer_dual_verification_passthrough():
+    dfs = {"T1": pd.DataFrame({"row_label_full": ["R"], "C": [50.0]})}
+    cell = GroundedCell("T1", "", 1, "R", "C", "50", 50.0, None, 1.0, "exact", None)
+    grounding = CellGroundingResult([cell], None)
+    result = ReasoningResult("pot", "result = 50.0", 50.0, 50.0, "trace", None)
+    
+    # Dual verification with matching narrative text
+    package = EvidencePackage("q1", "Doanh thu?", None, [], ["Theo thuyết minh BCTC, doanh thu đạt 50.0 tỷ đồng."])
+    
+    verification = verify_answer(result, grounding, package, dfs)
+    assert verification.is_valid
+    assert verification.verification_status == "verified_dual"
+    assert "Dual Verification PASSED" in verification.calculation_check
+
+def test_verify_answer_dual_verification_single():
+    dfs = {"T1": pd.DataFrame({"row_label_full": ["R"], "C": [50.0]})}
+    cell = GroundedCell("T1", "", 1, "R", "C", "50", 50.0, None, 1.0, "exact", None)
+    grounding = CellGroundingResult([cell], None)
+    result = ReasoningResult("pot", "result = 50.0", 50.0, 50.0, "trace", None)
+    
+    # No narrative text provided -> fallback to single verification
+    package = EvidencePackage("q1", "Doanh thu?", None, [], [])
+    
+    verification = verify_answer(result, grounding, package, dfs)
+    assert verification.is_valid
+    assert verification.verification_status == "verified_single"
+

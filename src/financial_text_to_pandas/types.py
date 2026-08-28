@@ -48,6 +48,7 @@ class HtmlTableBlock:
     html: str                 # raw HTML string of the <table>
     nearby_text_before: str   # up to 300 chars of text before the table
     nearby_text_after: str    # up to 300 chars of text after the table
+    start_line: int = 1       # line number (1-indexed) in original report text
 
 
 # ── Table cleaning ────────────────────────────────────────────────────────────
@@ -82,6 +83,7 @@ class CleanTable:
     quality_score: float      # 0.0–1.0
     needs_review: bool
     review_reason: str
+    start_line: int = 1
 
 
 # ── Metadata ──────────────────────────────────────────────────────────────────
@@ -110,6 +112,44 @@ class TableMetadata:
     needs_review: bool
     review_reason: str
     created_at: str           # ISO datetime string
+    start_line: int = 1
+
+
+# ── Submission Format ─────────────────────────────────────────────────────────
+
+@dataclass
+class EvidenceItem:
+    """Evidence entry for competition submission."""
+    variable: str             # e.g. "df1"
+    csv_path: str             # e.g. "data/AAA_financial_statements_2015_consolidated_table_1.csv"
+
+
+@dataclass
+class SubmissionItem:
+    """Single question prediction conforming to official competition schema."""
+    id: int
+    question: str
+    answer: float
+    relevant_docs: list[str]
+    relevant_tables: list[str]
+    evidence: list[EvidenceItem]
+    pandas_query: str
+
+    def to_dict(self) -> dict:
+        """Convert to dictionary matching competition JSON structure."""
+        return {
+            "id": self.id,
+            "question": self.question,
+            "answer": self.answer,
+            "relevant_docs": self.relevant_docs,
+            "relevant_tables": self.relevant_tables,
+            "evidence": [
+                {"variable": ev.variable, "csv_path": ev.csv_path}
+                for ev in self.evidence
+            ],
+            "pandas_query": self.pandas_query,
+        }
+
 
 
 # ── Audit ─────────────────────────────────────────────────────────────────────
@@ -245,6 +285,12 @@ class GroundedCell:
     confidence: float
     grounding_method: str # "exact" | "row_label_full" | "row_label_raw" | "fuzzy"
     error_type: Optional[str]
+    symbol_name: Optional[str] = None
+
+    def to_linearized_coordinate_path(self) -> str:
+        """Return Coordinate & Header Path Linearization: (RowPath, ColPath, Value)."""
+        sym = f"[{self.symbol_name}] " if self.symbol_name else ""
+        return f"{sym}[RowPath: {self.row_label} | ColPath: {self.column_label} | Value: {self.parsed_value}]"
 
 @dataclass
 class CellGroundingResult:

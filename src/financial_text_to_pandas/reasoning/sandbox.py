@@ -41,12 +41,17 @@ class SecureASTVisitor(ast.NodeVisitor):
         self.generic_visit(node)
 
 
-def run_pandas_sandbox(code: str, dfs: Dict[str, pd.DataFrame]) -> Any:
+def run_pandas_sandbox(
+    code: str, 
+    dfs: Dict[str, pd.DataFrame],
+    symbol_map: Optional[Dict[str, float]] = None
+) -> Any:
     """Run PoT code in a secure sandbox.
     
     Args:
         code: Python source code.
         dfs: Dictionary of dataframes.
+        symbol_map: Optional mapping of symbol names (e.g. NUM_0) to float values for Symbolic Masking.
         
     Returns:
         The value assigned to 'result' in the code.
@@ -82,6 +87,9 @@ def run_pandas_sandbox(code: str, dfs: Dict[str, pd.DataFrame]) -> Any:
         "normalize_unit": normalize_unit,
         "safe_get_cell": safe_get_cell,
     }
+    
+    if symbol_map:
+        sandbox_globals.update(symbol_map)
     
     sandbox_locals: Dict[str, Any] = {}
     

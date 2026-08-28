@@ -1,0 +1,321 @@
+"""
+orchestrator.py — Multi-Agent Orchestration Layer.
+
+Reference: CLER Framework (Deng et al., AAAI 2026)
+           "Critique-Loop Evidence Retrieval for Financial QA"
+
+Architecture:
+    Four specialized agents collaborate in a controlled pipeline:
+
+    ┌─────────┐   Plan    ┌───────────┐  cells  ┌────────────┐
+    │ Planner │ ────────► │ Retriever │ ──────► │ Programmer │
+    └─────────┘           └───────────┘         └─────┬──────┘
+                                                      │ code
+                                                      ▼
+                                               ┌─────────────┐
+                                               │   Sandbox   │
+                                               └──────┬──────┘
+                                                      │ result / error
+                                            ┌─────────┴──────────┐
+                                            │ Error → Self-Correct│
+                                            │ OK    → Dual-Verify │
+                                            └─────────┬──────────┘
+                                                      ▼
+                                               ┌─────────────┐
+                                               │   Critic /  │
+                                               │   Verifier  │
+                                               └──────┬──────┘
+                                                      │
+                                            ┌─────────┴──────────┐
+                                            │ Mismatch→Regenerate │
+                                            │ OK      →Final Ans  │
+                                            └────────────────────┘
+
+Design principles:
+    - Planner runs ONCE and must use the strongest available model.
+    - Critic runs in the Reflection Loop (N times) → must use smallest/fastest model.
+    - Multiple Critics can run in PARALLEL (independent verifications).
+    - Embedding & Reranker must NEVER be quantized.
+"""
+
+from __future__ import annotations
+
+import asyncio
+from dataclasses import dataclass, field
+from typing import Any, Dict, List, Optional
+
+from financial_text_to_pandas.types import (
+    EvidencePackage,
+    CellGroundingResult,
+    ReasoningResult,
+    VerificationResult,
+    FinalAnswer,
+    Citation,
+)
+
+
+# ─────────────────────────────────────────────────────────────────────────────
+# Agent role constants
+# ─────────────────────────────────────────────────────────────────────────────
+
+ROLE_PLANNER    = "planner"
+ROLE_RETRIEVER  = "retriever"
+ROLE_PROGRAMMER = "programmer"
+ROLE_CRITIC     = "critic"
+
+
+# ─────────────────────────────────────────────────────────────────────────────
+# Orchestration config
+# ─────────────────────────────────────────────────────────────────────────────
+
+@dataclass
+class AgentConfig:
+    """Per-agent LLM configuration."""
+    role: str
+    model_name: str
+    temperature: float = 0.0
+    max_tokens: int = 1024
+    quantization: Optional[str] = None  # "int4" | "int8" | None
+
+    def to_llm_config(self) -> Dict[str, Any]:
+        return {
+            "model": self.model_name,
+            "temperature": self.temperature,
+            "max_tokens": self.max_tokens,
+        }
+
+
+@dataclass
+class OrchestratorConfig:
+    """Full Multi-Agent system configuration."""
+    planner:    AgentConfig
+    retriever:  AgentConfig
+    programmer: AgentConfig
+    critic:     AgentConfig
+    max_reflection_rounds: int = 3      # Self-Correction retry limit
+    parallel_critics: int = 1           # How many Critic tasks to run in parallel
+    enable_dual_verification: bool = True
+
+    @classmethod
+    def for_ollama_local(cls, base_model: str = "qwen2.5-coder:7b") -> "OrchestratorConfig":
+        """Default config for local Ollama development (single-model, no GPU budget concern)."""
+        return cls(
+            planner=AgentConfig(ROLE_PLANNER, base_model, temperature=0.0),
+            retriever=AgentConfig(ROLE_RETRIEVER, base_model, temperature=0.0),
+            programmer=AgentConfig(ROLE_PROGRAMMER, base_model, temperature=0.0),
+            critic=AgentConfig(ROLE_CRITIC, base_model, temperature=0.0),
+        )
+
+    @classmethod
+    def for_production_gpu(
+        cls,
+        planner_model: str,
+        programmer_model: str,
+        critic_model: str,
+        retriever_model: str,
+    ) -> "OrchestratorConfig":
+        """Production config: assign strongest model to Planner, quantized to Critic."""
+        return cls(
+            planner=AgentConfig(ROLE_PLANNER, planner_model, quantization=None),
+            retriever=AgentConfig(ROLE_RETRIEVER, retriever_model, quantization="int8"),
+            programmer=AgentConfig(ROLE_PROGRAMMER, programmer_model, quantization=None),
+            critic=AgentConfig(ROLE_CRITIC, critic_model, quantization="int4"),
+            max_reflection_rounds=3,
+            parallel_critics=3,
+        )
+
+
+# ─────────────────────────────────────────────────────────────────────────────
+# Orchestration trace
+# ─────────────────────────────────────────────────────────────────────────────
+
+@dataclass
+class AgentStep:
+    """One step in the orchestration trace."""
+    agent: str
+    action: str
+    success: bool
+    detail: str = ""
+
+
+@dataclass
+class OrchestrationTrace:
+    """Audit trail of the full Multi-Agent pipeline execution."""
+    question: str
+    steps: List[AgentStep] = field(default_factory=list)
+    reflection_count: int = 0
+    final_answer: Optional[FinalAnswer] = None
+    error: Optional[str] = None
+
+    def add_step(self, agent: str, action: str, success: bool, detail: str = ""):
+        self.steps.append(AgentStep(agent, action, success, detail))
+
+    def summary(self) -> str:
+        lines = [f"[Orchestration] Question: {self.question[:80]}..."]
+        for s in self.steps:
+            icon = "✅" if s.success else "❌"
+            lines.append(f"  {icon} [{s.agent.upper()}] {s.action} — {s.detail}")
+        lines.append(f"  Reflection rounds: {self.reflection_count}")
+        if self.error:
+            lines.append(f"  Error: {self.error}")
+        return "\n".join(lines)
+
+
+# ─────────────────────────────────────────────────────────────────────────────
+# Orchestrator
+# ─────────────────────────────────────────────────────────────────────────────
+
+class FinancialQAOrchestrator:
+    """Multi-Agent orchestrator implementing the CLER-style Reflection Loop.
+
+    Manages Planner → Retriever → Programmer → Sandbox → Critic pipeline
+    with self-correction and dual verification.
+    """
+
+    def __init__(self, cfg: OrchestratorConfig):
+        self.cfg = cfg
+
+    # ── Step 1: Planner ───────────────────────────────────────────────────────
+
+    def plan(self, question: str, trace: OrchestrationTrace) -> str:
+        """Planner Agent: decompose question into reasoning steps.
+
+        Returns a natural language plan string.
+        In production this calls the LLM; here it returns a stub.
+        """
+        # Production: call LLM with planner prompt template
+        plan = (
+            f"1. Identify relevant financial statements for: {question}\n"
+            f"2. Retrieve key metric cells.\n"
+            f"3. Compute result via PoT or Chain-of-Table.\n"
+            f"4. Verify against narrative text."
+        )
+        trace.add_step(ROLE_PLANNER, "decompose", True, f"Plan generated ({len(plan)} chars)")
+        return plan
+
+    # ── Step 2: Retriever ─────────────────────────────────────────────────────
+
+    def retrieve(
+        self,
+        question: str,
+        plan: str,
+        evidence_package: EvidencePackage,
+        trace: OrchestrationTrace,
+    ) -> CellGroundingResult:
+        """Retriever Agent: ground cells from evidence tables."""
+        import pandas as pd
+        from financial_text_to_pandas.reasoning.cell_grounding import ground_cells
+
+        dfs: Dict[str, pd.DataFrame] = {}
+        for ev in evidence_package.tables:
+            # In production, CSVs are already loaded; stub with empty DFs
+            dfs[ev.candidate.table_id] = pd.DataFrame()
+
+        grounding = ground_cells(evidence_package.intent, dfs)
+        success = grounding.error_type is None
+        trace.add_step(
+            ROLE_RETRIEVER, "ground_cells", success,
+            f"{len(grounding.grounded_cells)} cells found"
+        )
+        return grounding
+
+    # ── Steps 3+4: Programmer + Sandbox with Self-Correction ─────────────────
+
+    def program_and_execute(
+        self,
+        package: EvidencePackage,
+        grounding: CellGroundingResult,
+        dfs: Dict[str, Any],
+        trace: OrchestrationTrace,
+    ) -> ReasoningResult:
+        """Programmer Agent + Sandbox with Self-Correction Retry Loop."""
+        from financial_text_to_pandas.reasoning.strategy import run_pot_strategy
+
+        result = run_pot_strategy(
+            package=package,
+            grounding=grounding,
+            dfs=dfs,
+            llm_config=self.cfg.programmer.to_llm_config(),
+            max_retries=self.cfg.max_reflection_rounds,
+        )
+        trace.reflection_count = result.trace.count("Self-Correction")
+        success = result.error_type is None
+        trace.add_step(
+            ROLE_PROGRAMMER, "pot_execute", success,
+            f"result={result.numeric_result}, strategy={result.strategy}"
+        )
+        return result
+
+    # ── Step 5: Critic (parallel-capable) ─────────────────────────────────────
+
+    def critique(
+        self,
+        result: ReasoningResult,
+        grounding: CellGroundingResult,
+        package: EvidencePackage,
+        dfs: Dict[str, Any],
+        trace: OrchestrationTrace,
+    ) -> VerificationResult:
+        """Critic Agent: Dual Verification (table vs narrative text)."""
+        from financial_text_to_pandas.reasoning.verifier import verify_answer
+
+        verification = verify_answer(result, grounding, package, dfs)
+        trace.add_step(
+            ROLE_CRITIC, "dual_verify", verification.is_valid,
+            f"status={verification.verification_status}"
+        )
+        return verification
+
+    # ── Full pipeline ─────────────────────────────────────────────────────────
+
+    def run(
+        self,
+        question: str,
+        evidence_package: EvidencePackage,
+        dfs: Dict[str, Any],
+    ) -> OrchestrationTrace:
+        """Execute the full Multi-Agent pipeline synchronously.
+
+        Returns an OrchestrationTrace with the final answer and audit trail.
+        """
+        trace = OrchestrationTrace(question=question)
+
+        # Step 1: Planner
+        plan = self.plan(question, trace)
+
+        # Step 2: Retriever
+        grounding = self.retrieve(question, plan, evidence_package, trace)
+        if grounding.error_type == "I_INSUFFICIENT_EVIDENCE":
+            trace.error = "Insufficient evidence to answer the question."
+            return trace
+
+        # Steps 3+4: Programmer + Sandbox (with Self-Correction built in)
+        result = self.program_and_execute(evidence_package, grounding, dfs, trace)
+
+        # Step 5: Critic / Verifier
+        verification = self.critique(result, grounding, evidence_package, dfs, trace)
+
+        # Build final answer
+        citations = [
+            Citation(
+                table_id=c.table_id,
+                csv_path=c.csv_path,
+                page_number=c.page_number,
+                row_label=c.row_label,
+                column_label=c.column_label,
+            )
+            for c in grounding.grounded_cells
+        ]
+
+        trace.final_answer = FinalAnswer(
+            answer=verification.final_answer,
+            answer_type="numeric",
+            unit=evidence_package.intent.unit_requested if evidence_package.intent else None,
+            citations=citations,
+            verification_status=verification.verification_status,
+            error_type=verification.error_type,
+            trace=trace.summary(),
+            code_generated=result.code_generated,
+        )
+
+        return trace

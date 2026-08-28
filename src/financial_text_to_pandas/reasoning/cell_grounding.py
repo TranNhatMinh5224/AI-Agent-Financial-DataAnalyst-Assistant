@@ -8,9 +8,29 @@ from __future__ import annotations
 
 from typing import Dict
 import pandas as pd
+import re
 from rapidfuzz import fuzz
 
 from financial_text_to_pandas.types import Intent, GroundedCell, CellGroundingResult
+
+
+def _normalize_text(text: str) -> str:
+    """Chuẩn hóa chuỗi để triệt tiêu rác OCR (OCR Noise Robustness).
+    - Xóa khoảng trắng thừa, chuyển thành chữ thường.
+    - Xóa các ghi chú trong ngoặc như (1), (V.1), (i).
+    - Xóa các ký tự đặc biệt thừa thãi ở cuối chuỗi.
+    """
+    if not isinstance(text, str):
+        return ""
+    
+    text = text.lower().strip()
+    # Xóa các tham chiếu thuyết minh thường gặp dạng (1), (V.2), (vii)
+    text = re.sub(r'\([ivx\d\.]+\)', ' ', text)
+    # Xóa các ký tự đặc biệt không phải chữ/số (ngoại trừ khoảng trắng)
+    text = re.sub(r'[^\w\s]', ' ', text)
+    # Rút gọn khoảng trắng
+    text = re.sub(r'\s+', ' ', text).strip()
+    return text
 
 
 def ground_cells(
@@ -34,11 +54,8 @@ def ground_cells(
     if not intent.metrics:
         return CellGroundingResult([], "E_NUMERICAL_EXTRACTION")
         
-    target_metric = intent.metrics[0].lower()
-    
-    # Simple grounding heuristic for the first iteration:
-    # 1. Search all tables for a row matching the metric.
-    # 2. Extract cells for the requested years.
+    target_metric = intent.metrics[0]
+    target_norm = _normalize_text(target_metric)
     
     found_row = False
     
@@ -50,33 +67,39 @@ def ground_cells(
         else:
             continue
             
-        # 1. Exact match
-        exact_matches = df[df[row_col].astype(str).str.lower().str.contains(target_metric, na=False)]
-        
-        # 2. Fuzzy match if no exact
         best_match_idx = None
         best_score = 0
-        match_method = "exact"
+        match_method = "fuzzy"
         
-        if not exact_matches.empty:
-            best_match_idx = exact_matches.index[0]
-            best_score = 100
-        else:
-            for idx, label in df[row_col].items():
-                score = fuzz.partial_ratio(target_metric, str(label).lower())
-                if score > best_score:
-                    best_score = score
-                    best_match_idx = idx
-            match_method = "fuzzy"
+        for idx, label in df[row_col].items():
+            label_norm = _normalize_text(str(label))
             
-        if best_match_idx is not None and best_score >= 80: # Confidence threshold
+            # Exact Match sau khi chuẩn hóa
+            if target_norm in label_norm or label_norm in target_norm:
+                score = 100
+                match_method = "exact_norm"
+            else:
+                # Fuzzy Match kết hợp partial_ratio và token_sort_ratio để lì lợm với lỗi rớt chữ
+                score_partial = fuzz.partial_ratio(target_norm, label_norm)
+                score_sort = fuzz.token_sort_ratio(target_norm, label_norm)
+                score = max(score_partial, score_sort)
+                
+            if score > best_score:
+                best_score = score
+                best_match_idx = idx
+                
+            # Tránh lặp vô ích nếu đã tìm thấy điểm tuyệt đối
+            if best_score == 100:
+                break
+                
+        # Ngưỡng chấp nhận rác OCR giảm xuống 75 (tăng độ bao phủ)
+        if best_match_idx is not None and best_score >= 75:
             found_row = True
             row = df.loc[best_match_idx]
             
             # Ground columns (years)
             years_to_find = intent.years if intent.years else []
             if not years_to_find:
-                # If no year specified, grab all numeric columns
                 col_cands = [c for c in df.columns if c.startswith("numeric__")]
             else:
                 col_cands = [c for c in df.columns if c.startswith("numeric__") and any(str(y) in c for y in years_to_find)]
@@ -90,12 +113,12 @@ def ground_cells(
                 try:
                     parsed_val = float(raw_val)
                 except ValueError:
-                    pass # Keep 0.0 for now, ideally use parse_vn_number
+                    pass
                     
                 grounded_cells.append(
                     GroundedCell(
                         table_id=table_id,
-                        csv_path="", # Will be filled later or ignored
+                        csv_path="",
                         page_number=0,
                         row_label=str(row[row_col]),
                         column_label=col,
@@ -110,5 +133,8 @@ def ground_cells(
                 
     if not found_row or not grounded_cells:
         return CellGroundingResult([], "E_NUMERICAL_EXTRACTION")
+        
+    for idx, cell in enumerate(grounded_cells):
+        cell.symbol_name = f"NUM_{idx}"
         
     return CellGroundingResult(grounded_cells, None)

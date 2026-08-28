@@ -58,47 +58,83 @@ def run_deterministic_lookup(
     )
 
 
-from financial_text_to_pandas.reasoning.prompts import POT_PROMPT_TEMPLATE
+from financial_text_to_pandas.reasoning.prompts import POT_PROMPT_TEMPLATE, POT_FIX_PROMPT_TEMPLATE
 from financial_text_to_pandas.reasoning.llm import generate_pot_code
+from financial_text_to_pandas.reasoning.delex import build_delex_context, render_audit_trace
 
 def run_pot_strategy(
     package: EvidencePackage, 
     grounding: CellGroundingResult,
     dfs: Dict[str, pd.DataFrame],
-    llm_config: dict[str, str | float]
+    llm_config: dict[str, str | float],
+    max_retries: int = 3
 ) -> ReasoningResult:
-    """Run PoT reasoning strategy."""
-    try:
-        # 1. Build prompt
-        prompt = POT_PROMPT_TEMPLATE.format(
-            question=package.question,
-            grounded_cells=grounding.grounded_cells
-        )
-        
-        # 2. Generate code via LLM
-        code = generate_pot_code(prompt, llm_config)
-        
-        # 3. Run in sandbox
-        sandbox_val = run_pandas_sandbox(code, dfs)
-        
-        # 4. Parse result
-        numeric_val = float(sandbox_val)
-        
-        return ReasoningResult(
-            strategy="pot",
-            code_generated=code,
-            sandbox_result=sandbox_val,
-            numeric_result=numeric_val,
-            trace="Generated and executed Pandas code successfully.",
-            error_type=None
-        )
-        
-    except Exception as e:
-        return ReasoningResult(
-            strategy="pot",
-            code_generated=locals().get("code", ""),
-            sandbox_result=None,
-            numeric_result=None,
-            trace=f"PoT failed: {e}",
-            error_type="C_CALCULATION_ERROR"
-        )
+    """Run PoT reasoning strategy with 3-Step De-lexicalization, Self-Correction Loop.
+
+    Steps:
+        1. De-lexicalize: Mask all numeric literals in question + grounded cells
+           with [NUM_X] placeholders (prevents LLM from "hallucinating" numbers).
+        2. Symbolic Program Generation: LLM generates formula using placeholders only.
+        3. Deterministic Value Binding: Inject real float values into Sandbox globals
+           and execute the symbolic formula deterministically.
+    """
+    # ── Step 1: De-lexicalization (Masking) ──────────────────────────────────
+    ctx = build_delex_context(
+        question=package.question,
+        grounded_cells=grounding.grounded_cells,
+    )
+    delex_trace = render_audit_trace(ctx)
+
+    code = ""
+    last_error = ""
+    trace_steps = [delex_trace]
+
+    # ── Steps 2 + 3: Symbolic Generation → Self-Correction → Sandbox Execution ─
+    for attempt in range(1, max_retries + 1):
+        try:
+            if attempt == 1:
+                # Step 2: Symbolic Program Generation on masked input
+                prompt = POT_PROMPT_TEMPLATE.format(
+                    question=ctx.masked_question,
+                    grounded_cells=ctx.masked_cells_str,
+                )
+                code = generate_pot_code(prompt, llm_config)
+                trace_steps.append("Attempt 1: Symbolic code generated on masked prompt.")
+            else:
+                # Self-Correction: send error back to LLM with masked context
+                fix_prompt = POT_FIX_PROMPT_TEMPLATE.format(
+                    question=ctx.masked_question,
+                    grounded_cells=ctx.masked_cells_str,
+                    previous_code=code,
+                    error_message=last_error,
+                )
+                code = generate_pot_code(fix_prompt, llm_config)
+                trace_steps.append(f"Attempt {attempt}: Self-Correction fix code generated.")
+
+            # Step 3: Deterministic Value Binding → inject symbol_map into Sandbox
+            sandbox_val = run_pandas_sandbox(code, dfs, symbol_map=ctx.symbol_map)
+            numeric_val = float(sandbox_val)
+
+            trace_msg = " | ".join(trace_steps) + " | Execution successful."
+            return ReasoningResult(
+                strategy="pot",
+                code_generated=code,
+                sandbox_result=sandbox_val,
+                numeric_result=numeric_val,
+                trace=trace_msg,
+                error_type=None,
+            )
+
+        except Exception as e:
+            last_error = str(e)
+            trace_steps.append(f"Attempt {attempt} error: {last_error}")
+
+    return ReasoningResult(
+        strategy="pot",
+        code_generated=code,
+        sandbox_result=None,
+        numeric_result=None,
+        trace=" | ".join(trace_steps),
+        error_type="C_CALCULATION_ERROR",
+    )
+
