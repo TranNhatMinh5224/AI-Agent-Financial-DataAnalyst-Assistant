@@ -98,22 +98,30 @@ def run_reasoning_pipeline(
         strategy = choose_reasoning_strategy(intent, grounding)
     else:
         strategy = strategy_override
-        
+
     # 5. Execution
     if strategy == "deterministic":
         result = run_deterministic_lookup(intent, grounding)
-    elif strategy == "pot":
+    elif strategy in ("pot", "growth_rate", "difference", "ratio", "sum", "count", "mean", "median", "unknown"):
+        # Tất cả arithmetic operations đều đi qua PoT
+        result = run_pot_strategy(package, grounding, dfs, llm_config)
+    elif strategy == "multi_hop":
+        # Multi-hop: stub — sẽ được implement trong Sprint 3
+        # Hiện tại fallback về PoT với tất cả grounded cells từ nhiều bảng
         result = run_pot_strategy(package, grounding, dfs, llm_config)
     else:
-        # fallback
-        result = ReasoningResult(strategy, None, None, None, "Strategy not supported yet.", "T_TECHNICAL_ERROR")
-        
+        result = ReasoningResult(
+            strategy, None, None, None,
+            f"Strategy '{strategy}' not supported yet.",
+            "T_TECHNICAL_ERROR"
+        )
+
     # 6. Verification
-    verification = verify_answer(result, grounding, package, dfs)
-    
+    verification = verify_answer(result, grounding, package, dfs, llm_config)
+
     # 7. Formatting
     final_answer = format_final_answer(result, verification, package)
-    
+
     return final_answer
 
 

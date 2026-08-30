@@ -19,11 +19,19 @@ def extract_python_code(text: str) -> str:
     return text.strip()
 
 def call_llm(prompt: str, llm_config: dict[str, str | float], system_prompt: str = "") -> str:
-    """Generic function to call an LLM with a given prompt and system prompt."""
+    """Generic function to call an LLM with a given prompt and system prompt.
+    
+    Hỗ trợ cả hai key 'model' và 'model_name' trong llm_config:
+    - AgentConfig.to_llm_config() trả về key 'model'
+    - run_profile.yaml dùng key 'model_name'
+    """
     base_url = llm_config.get("base_url", "http://localhost:11434/v1")
-    api_key = llm_config.get("api_key", "sk-xxxxxx")
-    model = llm_config.get("model_name", "qwen2.5-coder-7b-instruct")
+    api_key = llm_config.get("api_key", "ollama")
+    # BUG-003 FIX: Hỗ trợ cả "model" (AgentConfig) và "model_name" (YAML config)
+    model = llm_config.get("model") or llm_config.get("model_name", "qwen2.5-coder:7b")
     temperature = float(llm_config.get("temperature", 0.0))
+    # BUG-017 FIX: Truyền max_tokens vào API call
+    max_tokens = int(llm_config.get("max_tokens", 2048))
     
     try:
         client = OpenAI(base_url=base_url, api_key=api_key)
@@ -36,6 +44,7 @@ def call_llm(prompt: str, llm_config: dict[str, str | float], system_prompt: str
             model=model,
             messages=messages,
             temperature=temperature,
+            max_tokens=max_tokens,
         )
         
         raw_response = response.choices[0].message.content
@@ -45,7 +54,7 @@ def call_llm(prompt: str, llm_config: dict[str, str | float], system_prompt: str
         return raw_response
     except Exception as e:
         print(f"LLM Connection failed: {e}")
-        raise RuntimeError(f"Chưa kết nối được AI ({model}). Vui lòng kiểm tra lại Ollama. Lỗi: {e}")
+        raise RuntimeError(f"Chưa kết nối được AI ({model}). Vui lòng kiểm tra lại. Lỗi: {e}")
 
 def generate_pot_code(prompt: str, llm_config: dict[str, str | float]) -> str:
     """Call LLM API to generate PoT Python code."""

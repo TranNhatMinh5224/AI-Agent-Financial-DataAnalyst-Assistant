@@ -79,9 +79,12 @@ class AgentConfig:
 
     def to_llm_config(self) -> Dict[str, Any]:
         return {
-            "model": self.model_name,
+            "model": self.model_name,         # key 'model' — dùng bởi llm.py call_llm()
+            "model_name": self.model_name,    # key 'model_name' — fallback compatibility
             "temperature": self.temperature,
             "max_tokens": self.max_tokens,
+            "base_url": "http://localhost:11434/v1",  # default, sẽ bị override bởi run_batch_inference.py
+            "api_key": "ollama",
         }
 
 
@@ -201,6 +204,7 @@ class FinancialQAOrchestrator:
         trace: OrchestrationTrace,
     ) -> CellGroundingResult:
         """Retriever Agent: ground cells from evidence tables using LLM and heuristics."""
+        from pathlib import Path
         import pandas as pd
         import json
         from financial_text_to_pandas.reasoning.cell_grounding import ground_cells
@@ -210,27 +214,49 @@ class FinancialQAOrchestrator:
         dfs: Dict[str, pd.DataFrame] = {}
         tables_context = ""
         for ev in evidence_package.tables:
-            # In production, CSVs are already loaded; stub with empty DFs
-            dfs[ev.candidate.table_id] = pd.DataFrame()
-            tables_context += f"Table ID: {ev.candidate.table_id}\nSnippet: {ev.candidate.csv_path}\n\n"
+            cand = ev.candidate
+            # BUG-009 FIX: Load CSV thực tế thay vì stub DataFrame() rỗng
+            csv_path_str = cand.csv_path
+            loaded = False
+            if csv_path_str:
+                csv_path = Path(csv_path_str)
+                # Thử path tuyệt đối trước
+                if not csv_path.is_absolute() or not csv_path.exists():
+                    # Thử tương đối từ cwd
+                    csv_path_cwd = Path.cwd() / csv_path_str
+                    if csv_path_cwd.exists():
+                        csv_path = csv_path_cwd
+                if csv_path.exists():
+                    try:
+                        dfs[cand.table_id] = pd.read_csv(csv_path, encoding="utf-8-sig")
+                        loaded = True
+                    except Exception as e:
+                        trace.add_step(ROLE_RETRIEVER, "load_csv", False,
+                                       f"Failed to load {csv_path}: {e}")
+            if not loaded:
+                # Fallback: DataFrame rỗng nhưng log warning
+                dfs[cand.table_id] = pd.DataFrame()
+                trace.add_step(ROLE_RETRIEVER, "load_csv", False,
+                               f"CSV not found for {cand.table_id}: '{csv_path_str}'")
+            tables_context += f"Table ID: {cand.table_id}\nPath: {cand.csv_path}\n\n"
 
-        # Call Retriever LLM
+        # Call Retriever LLM (optional hint, kết quả chính vẫn từ ground_cells)
         prompt = RETRIEVER_GROUNDING_PROMPT_TEMPLATE.format(
             question=question,
             tables_context=tables_context
         )
         try:
-            llm_response = call_llm(prompt, self.cfg.retriever.to_llm_config())
-            trace.add_step(ROLE_RETRIEVER, "llm_grounding", True, "LLM Retriever suggested grounding")
+            call_llm(prompt, self.cfg.retriever.to_llm_config())
+            trace.add_step(ROLE_RETRIEVER, "llm_grounding", True, "LLM Retriever hint generated")
         except Exception as e:
-            trace.add_step(ROLE_RETRIEVER, "llm_grounding", False, f"LLM error: {str(e)}")
+            trace.add_step(ROLE_RETRIEVER, "llm_grounding", False, f"LLM hint skipped: {str(e)}")
 
-        # For execution, we still rely on the robust schema-aware grounding
+        # Schema-aware grounding (cơ chế chính)
         grounding = ground_cells(evidence_package.intent, dfs)
         success = grounding.error_type is None
         trace.add_step(
             ROLE_RETRIEVER, "ground_cells", success,
-            f"{len(grounding.grounded_cells)} cells found"
+            f"{len(grounding.grounded_cells)} cells grounded | error={grounding.error_type}"
         )
         return grounding
 
@@ -288,6 +314,8 @@ class FinancialQAOrchestrator:
         question: str,
         evidence_package: EvidencePackage,
         dfs: Dict[str, Any],
+        run_config: Any = None,
+        output_root: Any = None,
     ) -> OrchestrationTrace:
         """Execute the full Multi-Agent pipeline synchronously.
 
@@ -298,14 +326,29 @@ class FinancialQAOrchestrator:
         # Step 1: Planner
         plan = self.plan(question, trace)
 
-        # Step 2: Retriever
-        grounding = self.retrieve(question, plan, evidence_package, trace)
-        if grounding.error_type == "I_INSUFFICIENT_EVIDENCE":
-            trace.error = "Insufficient evidence to answer the question."
-            return trace
+        # Check Multi-hop condition
+        intent = evidence_package.intent
+        is_multi_hop = intent and (intent.operation == "multi_hop" or len(intent.years) >= 2)
 
-        # Steps 3+4: Programmer + Sandbox (with Self-Correction built in)
-        result = self.program_and_execute(evidence_package, grounding, dfs, trace)
+        if is_multi_hop and run_config and output_root:
+            trace.add_step(ROLE_PLANNER, "route", True, "Routing to Multi-hop Flow")
+            from financial_text_to_pandas.reasoning.multi_hop import run_multi_hop
+            result, grounding, dfs, evidence_package = run_multi_hop(
+                question, intent, run_config, output_root, self.cfg.programmer.to_llm_config()
+            )
+            trace.add_step(
+                ROLE_PROGRAMMER, "multi_hop_execute", result.error_type is None,
+                f"Multi-hop result: {result.numeric_result}"
+            )
+        else:
+            # Step 2: Retriever (Standard Flow)
+            grounding = self.retrieve(question, plan, evidence_package, trace)
+            if grounding.error_type == "I_INSUFFICIENT_EVIDENCE":
+                trace.error = "Insufficient evidence to answer the question."
+                return trace
+
+            # Steps 3+4: Programmer + Sandbox (with Self-Correction built in)
+            result = self.program_and_execute(evidence_package, grounding, dfs, trace)
 
         # Step 5: Critic / Verifier
         verification = self.critique(result, grounding, evidence_package, dfs, trace)

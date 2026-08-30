@@ -144,7 +144,7 @@ def main():
             dfs = load_evidence_tables(package, output_root)
 
             # 4. Orchestrate
-            trace = orchestrator.run(qtext, package, dfs)
+            trace = orchestrator.run(qtext, package, dfs, run_config=cfg, output_root=output_root)
             ans = trace.final_answer
 
             # Log the orchestration trace
@@ -155,26 +155,27 @@ def main():
             table_refs = []
             report_ids = set()
             
-            answer_val = ans.answer if ans and ans.answer is not None else 0.0
+            answer_val = ans.answer if (ans and ans.answer is not None) else None
             citations = ans.citations if ans and ans.citations else []
             code_gen = ans.code_generated if ans and ans.code_generated else ""
 
-            # Check if fallback logic returned 0.0
-            if answer_val == 0.0:
+            # Phân biệt "thực sự không có kết quả" (None) với "kết quả là 0.0"
+            if answer_val is None:
                 reason = "Không rõ nguyên nhân"
                 if ans:
                     if ans.error_type == "I_INSUFFICIENT_EVIDENCE":
-                        reason = "Lỗi Tìm kiếm (Retriever): Không tìm thấy bảng chứa dữ liệu (Thiếu Context)."
+                        reason = "Lỗi Tìm kiếm (Retriever): Không tìm thấy bảng chứa dữ liệu."
                     elif ans.error_type == "E_NUMERICAL_EXTRACTION":
-                        reason = "Lỗi Lập trình (Programmer): Tràn RAM (OOM) làm LLM sinh thiếu Code, hoặc không sinh được Code hợp lệ."
-                    elif ans.error_type == "T_TECHNICAL_ERROR" or getattr(ans, 'error_type', '') == "C_CALCULATION_ERROR":
-                        reason = "Lỗi Sandbox: Code Python chạy bị lỗi (Syntax Error, chia cho 0) sau 3 lần LLM tự sửa."
+                        reason = "Lỗi Grounding: Không ground được cell số từ bảng tìm thấy."
+                    elif ans.error_type in ("T_TECHNICAL_ERROR", "C_CALCULATION_ERROR"):
+                        reason = "Lỗi Sandbox: Code Python thất bại sau 3 lần tự sửa."
                     elif getattr(ans, 'verification_status', '') == "invalid":
-                        reason = "Lỗi Kiểm chứng (Critic): Kết quả không khớp với Thuyết minh BCTC."
+                        reason = "Lỗi Kiểm chứng (Critic): Kết quả không hợp lệ."
                     else:
                         reason = f"Lỗi Hệ thống: {getattr(ans, 'error_type', 'Unknown')}"
-                
-                logging.warning(f"⚠️ [CẢNH BÁO] Câu {qid} trả về 0.0! Nguyên nhân dự đoán: {reason}")
+                logging.warning(f"⚠️ [CẢNH BÁO] Câu {qid} KHÔNG CÓ KẾT QUẢ! Nguyên nhân: {reason}")
+                # Ghi 0.0 vào submission JSON (yêu cầu của BTC — phải là số)
+                answer_val = 0.0
 
             for i, citation in enumerate(citations):
                 var_name = f"df_{i}"
@@ -218,7 +219,31 @@ def main():
         except Exception as e:
             logging.error(f"[ERROR] Question {qid} failed catastrophically: {e}", exc_info=True)
 
-    logging.info(f"\n[SUCCESS] Submission files generated at: {submission_dir.absolute()}")
+    # ── ĐÓNG GÓI VÀ BÁO THỨC ──
+    logging.info(f"\n[SUCCESS] Tất cả câu hỏi đã xử lý xong. Đang nén file submission.zip...")
+    try:
+        from financial_text_to_pandas.submission import validate_submission_zip
+        import zipfile
+        
+        zip_path = submission_dir.parent / "submission.zip"
+        with zipfile.ZipFile(zip_path, "w", zipfile.ZIP_DEFLATED) as zf:
+            zf.write(output_json, "submission.json")
+            for csv_file in data_dir.glob("*.csv"):
+                zf.write(csv_file, f"data/{csv_file.name}")
+        
+        is_valid, errors = validate_submission_zip(zip_path)
+        if is_valid:
+            logging.info(f"✅ Gói nộp bài hợp lệ. File được lưu tại: {zip_path.absolute()}")
+        else:
+            logging.warning(f"⚠️ Gói nộp bài có lỗi format: {errors}")
+            
+        # Báo thức khi xong (Chỉ chạy trên Windows)
+        import winsound
+        winsound.Beep(1000, 500)  # Tần số 1000Hz, ngân 500ms
+        winsound.Beep(1200, 500)
+        winsound.Beep(1500, 1000)
+    except Exception as e:
+        logging.error(f"Lỗi khi đóng gói ZIP: {e}")
 
 if __name__ == "__main__":
     main()

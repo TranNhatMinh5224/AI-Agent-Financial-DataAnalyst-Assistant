@@ -48,14 +48,14 @@ llm_planner:
   engine: "ollama"
   base_url: "http://localhost:11434/v1"
   api_key: "ollama"
-  model_name: "deepseek-r1:14b"
+  model_name: "qwen2.5-coder:14b"
   temperature: 0.0
 
 llm_retriever:
   engine: "ollama"
   base_url: "http://localhost:11434/v1"
   api_key: "ollama"
-  model_name: "qwen2.5:7b"
+  model_name: "qwen2.5-coder:3b"
   temperature: 0.0
 
 llm_programmer:

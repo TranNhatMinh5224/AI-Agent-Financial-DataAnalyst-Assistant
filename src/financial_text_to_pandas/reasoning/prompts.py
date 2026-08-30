@@ -15,18 +15,47 @@ Grounded Cells available to use:
 
 Requirements:
 - You can directly use symbolic variable names like `NUM_0`, `NUM_1` if present in the grounded cells, OR call `safe_get_cell(dfs, 'table_id', 'row_label', 'col_label')`.
+- Use `safe_div(a, b)` for division to prevent ZeroDivisionError.
 - You MUST assign the final calculated numeric answer to the variable `result`.
 - Do NOT include `import` statements.
 - Do NOT round intermediate results.
 
 ### EXAMPLES
+
 Question: "Doanh thu năm 2023 tăng bao nhiêu phần trăm so với năm 2022?"
 Grounded Cells:
 - NUM_0 (Doanh thu 2022) = 1000.0
 - NUM_1 (Doanh thu 2023) = 1200.0
 Code:
 ```python
-result = ((NUM_1 - NUM_0) / NUM_0) * 100
+result = safe_div(NUM_1 - NUM_0, NUM_0) * 100
+```
+
+Question: "Chênh lệch lợi nhuận gộp giữa năm 2023 và năm 2022 là bao nhiêu?"
+Grounded Cells:
+- NUM_0 (Lợi nhuận gộp 2022) = 500.0
+- NUM_1 (Lợi nhuận gộp 2023) = 600.0
+Code:
+```python
+result = NUM_1 - NUM_0
+```
+
+Question: "Biên lợi nhuận gộp năm 2023 là bao nhiêu phần trăm?"
+Grounded Cells:
+- NUM_0 (Lợi nhuận gộp 2023) = 300.0
+- NUM_1 (Doanh thu thuần 2023) = 1200.0
+Code:
+```python
+result = safe_div(NUM_0, NUM_1) * 100
+```
+
+Question: "Tổng doanh thu 2 năm 2022 và 2023 là bao nhiêu?"
+Grounded Cells:
+- NUM_0 (Doanh thu 2022) = 1000.0
+- NUM_1 (Doanh thu 2023) = 1200.0
+Code:
+```python
+result = NUM_0 + NUM_1
 ```
 
 Code:

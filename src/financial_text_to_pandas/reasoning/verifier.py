@@ -86,7 +86,7 @@ def verify_answer(
             error_type=result.error_type,
             checked_cells=grounding.grounded_cells,
             calculation_check="Reasoning failed with error.",
-            final_answer=0.0
+            final_answer=None,   # BUG-010 FIX: None, không phải 0.0
         )
         
     if result.numeric_result is None:
@@ -96,7 +96,7 @@ def verify_answer(
             error_type="U_UNVERIFIED",
             checked_cells=grounding.grounded_cells,
             calculation_check="No numeric result returned.",
-            final_answer=0.0
+            final_answer=None,   # BUG-010 FIX: None, không phải 0.0
         )
         
     # Verify cells actually exist in dataframes
@@ -131,7 +131,7 @@ def verify_answer(
         llm_config
     )
     
-    is_valid = status in {"verified_dual", "verified_single", "valid"}
+    is_valid = status in {"verified_dual", "verified_single"}
     
     return VerificationResult(
         is_valid=is_valid,

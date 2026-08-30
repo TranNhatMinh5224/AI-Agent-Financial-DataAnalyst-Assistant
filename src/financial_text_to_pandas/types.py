@@ -320,11 +320,11 @@ class ReasoningResult:
 class VerificationResult:
     """Result of the verification step."""
     is_valid: bool
-    verification_status: str # "valid" | "invalid" | "unverified"
+    verification_status: str  # "verified_dual" | "verified_single" | "invalid"
     error_type: Optional[str]
     checked_cells: list[GroundedCell]
     calculation_check: str
-    final_answer: float
+    final_answer: Optional[float]  # BUG-010 FIX: None khi không có kết quả, 0.0 chỉ khi thực sự là 0
 
 @dataclass
 class Citation:
@@ -338,8 +338,8 @@ class Citation:
 @dataclass
 class FinalAnswer:
     """The final structured answer returned to the user."""
-    answer: float
-    answer_type: str # "numeric"
+    answer: Optional[float]  # None nếu không có kết quả
+    answer_type: str  # "numeric"
     unit: Optional[str]
     citations: list[Citation]
     verification_status: str

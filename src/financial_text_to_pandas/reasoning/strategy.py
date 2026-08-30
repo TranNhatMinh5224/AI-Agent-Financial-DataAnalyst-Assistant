@@ -13,23 +13,47 @@ from financial_text_to_pandas.types import Intent, CellGroundingResult, Reasonin
 from financial_text_to_pandas.reasoning.sandbox import run_pandas_sandbox
 
 
+# BUG-012 FIX: Explicit mapping cho tất cả operation types.
+# Trước đây chỉ có "lookup" và "multi_hop" được xử lý rõ ràng;
+# "sum", "count", "difference", "ratio", "mean", "median" đều silently fallback
+# về "pot" nhưng không có trong answer.py strategy switch → T_TECHNICAL_ERROR.
+_OP_TO_STRATEGY: dict[str, str] = {
+    "lookup":       "deterministic",  # Chỉ dung khi có đúng 1 cell
+    "growth_rate":  "pot",
+    "difference":   "pot",
+    "ratio":        "pot",
+    "sum":          "pot",
+    "count":        "pot",
+    "mean":         "pot",
+    "median":       "pot",
+    "multi_hop":    "multi_hop",
+    "unknown":      "pot",
+}
+
+
 def choose_reasoning_strategy(
-    intent: Intent, 
+    intent: Intent,
     grounding: CellGroundingResult
 ) -> Literal["deterministic", "pot", "cot", "multi_hop"]:
-    """Select the appropriate reasoning strategy."""
+    """Select the appropriate reasoning strategy.
     
-    if intent.operation == "multi_hop":
+    Logic:
+    - multi_hop: khi có >= 2 năm hoặc operation == 'multi_hop'
+    - deterministic: khi lookup và chính xác 1 cell
+    - pot: mọi trường hợp còn lại
+    """
+    # Multi-hop: ít nhất 2 năm khác nhau trong câu hỏi
+    if intent.operation == "multi_hop" or len(intent.years) >= 2:
         return "multi_hop"
-        
+
     cells = grounding.grounded_cells
-    
-    # Direct exact lookup
+
+    # Direct exact lookup: đúng 1 cell và operation là lookup
     if intent.operation == "lookup" and len(cells) == 1:
         return "deterministic"
-        
-    # Default to PoT for anything involving arithmetic or aggregation
-    return "pot"
+
+    # Mọi trường hợp còn lại → PoT
+    return _OP_TO_STRATEGY.get(intent.operation, "pot")
 
 
 def run_deterministic_lookup(

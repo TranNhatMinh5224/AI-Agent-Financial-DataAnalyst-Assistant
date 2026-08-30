@@ -7,7 +7,7 @@ Phase 3, Step 8.
 from __future__ import annotations
 
 import ast
-from typing import Dict, Any
+from typing import Dict, Any, Optional
 
 import pandas as pd
 
@@ -41,6 +41,28 @@ class SecureASTVisitor(ast.NodeVisitor):
         self.generic_visit(node)
 
 
+def clean_code_string(code: str) -> str:
+    """Strip markdown code fence blocks if present."""
+    code = code.strip()
+    if code.startswith("```python"):
+        code = code[9:]
+    elif code.startswith("```"):
+        code = code[3:]
+    if code.endswith("```"):
+        code = code[:-3]
+    return code.strip()
+
+
+def safe_div(a: float, b: float, default: float = 0.0) -> float:
+    """Safe division function to avoid ZeroDivisionError in generated code."""
+    try:
+        if b == 0 or pd.isna(b):
+            return default
+        return a / b
+    except Exception:
+        return default
+
+
 def run_pandas_sandbox(
     code: str, 
     dfs: Dict[str, pd.DataFrame],
@@ -56,8 +78,9 @@ def run_pandas_sandbox(
     Returns:
         The value assigned to 'result' in the code.
     """
+    cleaned_code = clean_code_string(code)
     try:
-        tree = ast.parse(code)
+        tree = ast.parse(cleaned_code)
     except SyntaxError as e:
         raise ValueError(f"Syntax error in generated code: {e}")
         
@@ -83,6 +106,7 @@ def run_pandas_sandbox(
         },
         "pd": pd,
         "dfs": dfs,
+        "safe_div": safe_div,
         "parse_vn_number": parse_vn_number,
         "normalize_unit": normalize_unit,
         "safe_get_cell": safe_get_cell,
@@ -97,7 +121,16 @@ def run_pandas_sandbox(
     compiled = compile(tree, filename="<sandbox>", mode="exec")
     exec(compiled, sandbox_globals, sandbox_locals)
     
-    if "result" not in sandbox_locals:
+    # Result có thể nằm trong locals (thông thường) hoặc globals (edge case với closures)
+    result_val = sandbox_locals.get("result", sandbox_globals.get("result", _MISSING))
+    if result_val is _MISSING:
         raise ValueError("Generated code did not assign a value to 'result'.")
         
-    return sandbox_locals["result"]
+    return result_val
+
+
+# Sentinel để phân biệt "result = None" với "result không tồn tại"
+class _MissingType:
+    pass
+
+_MISSING = _MissingType()
