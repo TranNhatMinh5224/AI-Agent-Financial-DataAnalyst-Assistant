@@ -40,6 +40,10 @@ full_run_confirmed: true
 # Khi true, pipeline đọc audit và bỏ qua báo cáo đã xử lý thành công.
 resume: true
 
+# Giới hạn số câu hỏi chạy Inference (0 = chạy hết toàn bộ). 
+# Hữu ích khi muốn test thử 20 câu kể cả khi run_mode đang là full.
+inference_limit_questions: 20
+
 llm_planner:
   engine: "sglang"
   base_url: "http://localhost:30000/v1"

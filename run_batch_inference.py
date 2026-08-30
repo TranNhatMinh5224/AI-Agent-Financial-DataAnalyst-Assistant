@@ -1,6 +1,7 @@
 import json
 import shutil
 import argparse
+import logging
 from pathlib import Path
 from tqdm import tqdm
 
@@ -17,7 +18,7 @@ def main():
     parser.add_argument("--config", default="config/run_profile.yaml")
     parser.add_argument("--questions", default="ViFinQA/questions/questions.jsonl")
     parser.add_argument("--output", default="submission")
-    parser.add_argument("--limit", type=int, default=0, help="Limit number of questions to process")
+    parser.add_argument("--limit", type=int, default=0, help="Limit number of questions to process (overrides config if > 0)")
     args = parser.parse_args()
 
     cfg = load_config(Path(args.config))
@@ -27,6 +28,18 @@ def main():
 
     submission_dir.mkdir(parents=True, exist_ok=True)
     data_dir.mkdir(parents=True, exist_ok=True)
+
+    # Setup Logging (Đưa ra thư mục gốc để không bị Zip nhầm vào bài thi)
+    log_file = Path("inference_log.txt")
+    logging.basicConfig(
+        level=logging.INFO,
+        format="%(asctime)s | %(message)s",
+        handlers=[
+            logging.FileHandler(log_file, encoding="utf-8"),
+            logging.StreamHandler()
+        ]
+    )
+    logging.info(f"Started batch inference. Logs saved to {log_file}")
 
     # Initialize Orchestrator
     # We pass the model names from the new 4-config layout
@@ -68,9 +81,9 @@ def main():
             with open(output_json, "r", encoding="utf-8") as f:
                 results = json.load(f)
             processed_ids = {item["id"] for item in results}
-            print(f"[INFO] Resuming. Found {len(processed_ids)} already processed questions.")
+            logging.info(f"[INFO] Resuming. Found {len(processed_ids)} already processed questions.")
         except Exception as e:
-            print(f"[WARN] Failed to read {output_json}: {e}. Starting fresh.")
+            logging.warning(f"[WARN] Failed to read {output_json}: {e}. Starting fresh.")
 
     # Load questions
     questions = []
@@ -80,10 +93,15 @@ def main():
             if not line: continue
             questions.append(json.loads(line))
 
-    if args.limit > 0:
-        questions = questions[:args.limit]
+    # Determine limit
+    limit = args.limit
+    if limit == 0 and getattr(cfg, 'inference_limit_questions', None):
+        limit = cfg.inference_limit_questions
 
-    print(f"[INFO] Total questions to process: {len(questions)}")
+    if limit and limit > 0:
+        questions = questions[:limit]
+
+    logging.info(f"[INFO] Total questions to process: {len(questions)}")
 
     for q in tqdm(questions, desc="Processing"):
         qid = q["id"]
@@ -92,6 +110,7 @@ def main():
         if qid in processed_ids:
             continue
 
+        logging.info(f"--- Processing Question {qid} ---")
         try:
             # 1. Search (BM25 or Hybrid)
             # using BM25 by default here for speed, or hybrid if embedding is ready
@@ -99,6 +118,7 @@ def main():
             try:
                 tables = run_search(qtext, cfg, method="hybrid", top_k=5)
             except Exception as e:
+                logging.warning(f"Hybrid search failed, fallback to BM25: {e}")
                 tables = run_search(qtext, cfg, method="bm25", top_k=5, no_reranker=True)
                 
             # 2. Extract Intent
@@ -123,6 +143,9 @@ def main():
             trace = orchestrator.run(qtext, package, dfs)
             ans = trace.final_answer
 
+            # Log the orchestration trace
+            logging.info(trace.summary())
+
             # Prepare fields for SubmissionItem
             evidence_tables = []
             table_refs = []
@@ -131,6 +154,23 @@ def main():
             answer_val = ans.answer if ans and ans.answer is not None else 0.0
             citations = ans.citations if ans and ans.citations else []
             code_gen = ans.code_generated if ans and ans.code_generated else ""
+
+            # Check if fallback logic returned 0.0
+            if answer_val == 0.0:
+                reason = "Không rõ nguyên nhân"
+                if ans:
+                    if ans.error_type == "I_INSUFFICIENT_EVIDENCE":
+                        reason = "Lỗi Tìm kiếm (Retriever): Không tìm thấy bảng chứa dữ liệu (Thiếu Context)."
+                    elif ans.error_type == "E_NUMERICAL_EXTRACTION":
+                        reason = "Lỗi Lập trình (Programmer): Tràn RAM (OOM) làm LLM sinh thiếu Code, hoặc không sinh được Code hợp lệ."
+                    elif ans.error_type == "T_TECHNICAL_ERROR" or getattr(ans, 'error_type', '') == "C_CALCULATION_ERROR":
+                        reason = "Lỗi Sandbox: Code Python chạy bị lỗi (Syntax Error, chia cho 0) sau 3 lần LLM tự sửa."
+                    elif getattr(ans, 'verification_status', '') == "invalid":
+                        reason = "Lỗi Kiểm chứng (Critic): Kết quả không khớp với Thuyết minh BCTC."
+                    else:
+                        reason = f"Lỗi Hệ thống: {getattr(ans, 'error_type', 'Unknown')}"
+                
+                logging.warning(f"⚠️ [CẢNH BÁO] Câu {qid} trả về 0.0! Nguyên nhân dự đoán: {reason}")
 
             for i, citation in enumerate(citations):
                 var_name = f"df_{i}"
@@ -172,9 +212,9 @@ def main():
             processed_ids.add(qid)
 
         except Exception as e:
-            print(f"\n[ERROR] Question {qid} failed: {e}")
+            logging.error(f"[ERROR] Question {qid} failed catastrophically: {e}", exc_info=True)
 
-    print(f"\n[SUCCESS] Submission files generated at: {submission_dir.absolute()}")
+    logging.info(f"\n[SUCCESS] Submission files generated at: {submission_dir.absolute()}")
 
 if __name__ == "__main__":
     main()

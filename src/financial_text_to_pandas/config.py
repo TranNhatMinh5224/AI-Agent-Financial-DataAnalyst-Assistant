@@ -23,6 +23,7 @@ class RunConfig:
     output_root: Path
     sample_tickers: list[str]
     sample_limit_reports: Optional[int]
+    inference_limit_questions: Optional[int]
     full_run_confirmed: bool
     resume: bool
     llm_planner_config: dict[str, str | float] = field(default_factory=dict)
@@ -70,12 +71,17 @@ def load_config(config_path: Path) -> RunConfig:
     if sample_limit_reports is not None:
         sample_limit_reports = int(sample_limit_reports)
 
+    inference_limit_questions = raw.get("inference_limit_questions")
+    if inference_limit_questions is not None:
+        inference_limit_questions = int(inference_limit_questions)
+
     return RunConfig(
         run_mode=run_mode,
         input_root=Path(raw.get("input_root", "ViFinQA/financial_statements")),
         output_root=Path(raw.get("output_root", "artifacts/preprocessing")),
         sample_tickers=list(raw.get("sample_tickers", [])),
         sample_limit_reports=sample_limit_reports,
+        inference_limit_questions=inference_limit_questions,
         full_run_confirmed=full_run_confirmed,
         resume=bool(raw.get("resume", True)),
         llm_planner_config=raw.get("llm_planner", {}),
