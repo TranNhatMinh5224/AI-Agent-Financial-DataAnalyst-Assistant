@@ -1,56 +1,110 @@
+# # ================================================================================
+# # QUẢN LÝ CHẾ ĐỘ CHẠY (RUN MODE)
+# # Khi clone code về máy mới, người khác sẽ KHÔNG có thư mục `artifacts/` (vì nó bị gitignore).
+# # Họ bắt buộc phải tự chạy lại Phase 1 (`pipeline.py`) và Phase 2 (`corpus.py`, `bm25.py`).
+# # 
+# # Có 2 chế độ chạy:
+# # 1. "sample": Chế độ test. Chỉ chạy một vài file (được cấu hình ở sample_limit_reports) 
+# #    để test xem code/pipeline có lỗi hay không. Chạy rất nhanh (vài giây).
+# # 2. "full": Chế độ thật. Bỏ qua mọi giới hạn và cày toàn bộ ~2000 báo cáo tài chính trong 
+# #    thư mục input_root. Chạy rất lâu (30-40 phút).
+# # ================================================================================
+
+# run_mode: full
+# # run_mode: sample  # Chế độ test (chỉ AAA, 5 báo cáo)
+
+# # Thư mục đầu vào chứa các file OCR TXT của ViFinQA.
+# input_root: ViFinQA/financial_statements
+
+# # Thư mục đầu ra chỉ được tạo khi pipeline runtime bắt đầu chạy.
+# output_root: artifacts/preprocessing
+
+# # ================================================================================
+# # CẤU HÌNH CHO CHẾ ĐỘ TEST (run_mode = sample)
+# # ================================================================================
+# # Danh sách mã cổ phiếu dùng để chạy thử.
+# sample_tickers:
+#   - AAA
+
+# # Giới hạn số báo cáo khi chạy thử.
+# # Ví dụ: Để 5 thì nó chỉ bóc tách đúng 5 báo cáo đầu tiên của AAA rồi dừng.
+# # sample_limit_reports: null
+# sample_limit_reports: 5
+
+# # ================================================================================
+# # CẤU HÌNH CHO CHẾ ĐỘ THẬT (run_mode = full)
+# # ================================================================================
+# # Cần đặt true khi run_mode = full để tránh vô ý chạy nhầm toàn bộ dữ liệu.
+# full_run_confirmed: true
+
+# # Khi true, pipeline đọc audit và bỏ qua báo cáo đã xử lý thành công.
+# resume: true
+
+# # Giới hạn số câu hỏi chạy Inference (0 = chạy hết toàn bộ). 
+# # Hữu ích khi muốn test thử 20 câu kể cả khi run_mode đang là full.
+# inference_limit_questions: 0
+
+# llm_planner:
+#   engine: "ollama"
+#   base_url: "http://localhost:11434/v1"
+#   api_key: "ollama"
+#   model_name: "qwen2.5-coder:14b"
+#   temperature: 0.0
+
+# llm_retriever:
+#   engine: "ollama"
+#   base_url: "http://localhost:11434/v1"
+#   api_key: "ollama"
+#   model_name: "qwen2.5-coder:3b"
+#   temperature: 0.0
+
+# llm_programmer:
+#   engine: "ollama"
+#   base_url: "http://localhost:11434/v1"
+#   api_key: "ollama"
+#   model_name: "qwen2.5-coder:14b"
+#   temperature: 0.0
+
+# llm_critic:
+#   engine: "ollama"
+#   base_url: "http://localhost:11434/v1"
+#   api_key: "ollama"
+#   model_name: "qwen2.5-coder:3b"
+#   temperature: 0.0
+
+# embedding:
+#   model_name: "BAAI/bge-m3"
+#   batch_size: 16
+
+# reranker:
+#   model_name: "BAAI/bge-reranker-v2-m3"
+
 # ================================================================================
-# QUẢN LÝ CHẾ ĐỘ CHẠY (RUN MODE)
-# Khi clone code về máy mới, người khác sẽ KHÔNG có thư mục `artifacts/` (vì nó bị gitignore).
-# Họ bắt buộc phải tự chạy lại Phase 1 (`pipeline.py`) và Phase 2 (`corpus.py`, `bm25.py`).
-# 
-# Có 2 chế độ chạy:
-# 1. "sample": Chế độ test. Chỉ chạy một vài file (được cấu hình ở sample_limit_reports) 
-#    để test xem code/pipeline có lỗi hay không. Chạy rất nhanh (vài giây).
-# 2. "full": Chế độ thật. Bỏ qua mọi giới hạn và cày toàn bộ ~2000 báo cáo tài chính trong 
-#    thư mục input_root. Chạy rất lâu (30-40 phút).
+# CẤU HÌNH INFERENCE HYBRID (API + LOCAL OLLAMA) - TUÂN THỦ < 15B
+# Planner & Programmer: Gọi OpenRouter API (Qwen 14B) siêu nhanh ~1s
+# Retriever & Critic: Chạy Local Ollama (Qwen 3B) siêu nhẹ ~2GB VRAM
 # ================================================================================
 
 run_mode: full
-# run_mode: sample  # Chế độ test (chỉ AAA, 5 báo cáo)
-
-# Thư mục đầu vào chứa các file OCR TXT của ViFinQA.
 input_root: ViFinQA/financial_statements
-
-# Thư mục đầu ra chỉ được tạo khi pipeline runtime bắt đầu chạy.
 output_root: artifacts/preprocessing
-
-# ================================================================================
-# CẤU HÌNH CHO CHẾ ĐỘ TEST (run_mode = sample)
-# ================================================================================
-# Danh sách mã cổ phiếu dùng để chạy thử.
-sample_tickers:
-  - AAA
-
-# Giới hạn số báo cáo khi chạy thử.
-# Ví dụ: Để 5 thì nó chỉ bóc tách đúng 5 báo cáo đầu tiên của AAA rồi dừng.
-# sample_limit_reports: null
-sample_limit_reports: 5
-
-# ================================================================================
-# CẤU HÌNH CHO CHẾ ĐỘ THẬT (run_mode = full)
-# ================================================================================
-# Cần đặt true khi run_mode = full để tránh vô ý chạy nhầm toàn bộ dữ liệu.
 full_run_confirmed: true
-
-# Khi true, pipeline đọc audit và bỏ qua báo cáo đã xử lý thành công.
 resume: true
+inference_limit_questions: 20
 
-# Giới hạn số câu hỏi chạy Inference (0 = chạy hết toàn bộ). 
-# Hữu ích khi muốn test thử 20 câu kể cả khi run_mode đang là full.
-inference_limit_questions: 0
-
+# ════════════════════════════════════════════════════════════════
+# 1. PLANNER: GỌI OPENROUTER API (Qwen 14B - Tốc độ ~1.3s)
+# ════════════════════════════════════════════════════════════════
 llm_planner:
-  engine: "ollama"
-  base_url: "http://localhost:11434/v1"
-  api_key: "ollama"
-  model_name: "qwen2.5-coder:14b"
+  engine: "openai"
+  base_url: "https://openrouter.ai/api/v1"
+  api_key: "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"
+  model_name: "qwen/qwen3-14b"
   temperature: 0.0
 
+# ════════════════════════════════════════════════════════════════
+# 2. RETRIEVER: CHẠY OLLAMA LOCAL (Qwen 3B)
+# ════════════════════════════════════════════════════════════════
 llm_retriever:
   engine: "ollama"
   base_url: "http://localhost:11434/v1"
@@ -58,13 +112,19 @@ llm_retriever:
   model_name: "qwen2.5-coder:3b"
   temperature: 0.0
 
+# ════════════════════════════════════════════════════════════════
+# 3. PROGRAMMER: GỌI OPENROUTER API (Qwen 14B - Tốc độ ~1.3s)
+# ════════════════════════════════════════════════════════════════
 llm_programmer:
-  engine: "ollama"
-  base_url: "http://localhost:11434/v1"
-  api_key: "ollama"
-  model_name: "qwen2.5-coder:14b"
+  engine: "openai"
+  base_url: "https://openrouter.ai/api/v1"
+  api_key: "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"
+  model_name: "qwen/qwen3-14b"
   temperature: 0.0
 
+# ════════════════════════════════════════════════════════════════
+# 4. CRITIC: CHẠY OLLAMA LOCAL (Qwen 3B)
+# ════════════════════════════════════════════════════════════════
 llm_critic:
   engine: "ollama"
   base_url: "http://localhost:11434/v1"
@@ -73,8 +133,10 @@ llm_critic:
   temperature: 0.0
 
 embedding:
-  model_name: "BAAI/bge-m3"
-  batch_size: 16
+  # Chuyển từ BAAI/bge-m3 (Mô hình cực nặng 567M params) 
+  # Sang MiniLM (Chỉ 117M params) - Chạy trên CPU nhanh gấp 5-10 lần mà vẫn hỗ trợ tiếng Việt tốt.
+  model_name: "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
+  batch_size: 32
 
 reranker:
   model_name: "BAAI/bge-reranker-v2-m3"
