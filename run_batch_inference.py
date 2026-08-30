@@ -2,8 +2,12 @@ import json
 import shutil
 import argparse
 import logging
+import sys
 from pathlib import Path
 from tqdm import tqdm
+
+# Đảm bảo Python nhận diện được thư mục src
+sys.path.append(str(Path(__file__).parent / "src"))
 
 from financial_text_to_pandas.config import load_config
 from financial_text_to_pandas.retrieval.search import run_search
