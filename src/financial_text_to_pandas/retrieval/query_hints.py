@@ -30,7 +30,68 @@ _REPORT_TYPES = {
     "rieng le": "separate",
     "giải trình": "explanation",
     "giai trinh": "explanation",
+    "công ty mẹ": "separate",
+    "cong ty me": "separate",
 }
+
+# ── Bảng tên công ty → ticker (cho câu hỏi dùng tên đầy đủ thay vì mã CK) ──────────────────
+_COMPANY_NAME_TO_TICKER: dict[str, str] = {
+    # Câu hỏi sử dụng tên đầy đủ không có mã CK trong ngoặc
+    "sài gòn tài lộc":           "SGB",
+    "ngoan mục tai loc":           "SGB",
+    "tmcp sài gòn tài lộc":       "SGB",
+    "sunshine homes":               "SSH",
+    "sunshine home":                "SSH",
+    "phát triển sunshine":         "SSH",
+    "bia rượu nước giải khát sài gòn": "SAB",
+    "sabeco":                       "SAB",
+    "sài gòn — hà nội":           "SHB",
+    "sài gòn hà nội":             "SHB",
+    "tmcp sài gòn hà nội":        "SHB",
+    "đầu tư và phát triển việt nam": "BID",
+    "tmcp đầu tư và phát triển":  "BID",
+    "bidv":                         "BID",
+    "đầu tư hạ tầng giao thông đèo cả": "HHV",
+    "đèo cả":                      "HHV",
+    "cao su việt nam":             "GVR",
+    "visorutex":                    "GVR",
+    "cao su miền nam":             "CSM",
+    "việt jet":                   "VJC",
+    "vietjet":                      "VJC",
+    "hàng không vietjet":          "VJC",
+    "hàng không việt jet":         "VJC",
+    "á châu":                      "ACB",
+    "tmcp á châu":                 "ACB",
+    "đầu tư và phát triển hà nội": "HDG",
+    "chường khoán fpt":            "FTS",
+    "chứng khoán fpt":            "FTS",
+    "fpt securities":               "FTS",
+    "miền nam vàng":               "PNJ",
+    "phú nhuận":                    "PNJ",
+    "chứng khoán mb":              "MBS",
+    "miền bắc":                   "MBS",
+    "bài xuất khẩu":              "VGT",
+    "dệt may việt nam":           "VGT",
+    "vinatex":                      "VGT",
+    "minh phú":                    "MPC",
+    "mpc":                         "MPC",
+    "điện lực gelex":              "GEE",
+    "gelex điện":                  "GEE",
+    "gee":                         "GEE",
+    "tập đoàn gelex":              "GEX",
+    "gelex":                        "GEX",
+}
+
+
+def _lookup_ticker_by_company_name(question: str) -> Optional[str]:
+    """Tra tên công ty đầy đủ trong câu hỏi ra mã ticker tương ứng."""
+    q = question.lower()
+    # Sắp xếp theo độ dài giảm dần để ưu tiên tên càng cụ thể càng được match trước
+    for name, ticker in sorted(_COMPANY_NAME_TO_TICKER.items(), key=lambda x: len(x[0]), reverse=True):
+        if name in q:
+            return ticker
+    return None
+
 
 _STATEMENT_TYPES = {
     "cân đối kế toán": "balance_sheet",
@@ -57,9 +118,11 @@ def extract_query_hints(question: str) -> QueryHints:
     normalized_q = normalize_query_language(question)
     q_lower = normalized_q.lower()
     
-    # 1. Ticker
+    # 1. Ticker: thử regex trước, fallback sang tra tên công ty
     tickers = _TICKER_RE.findall(question)
     ticker = tickers[0] if tickers else None
+    if not ticker:
+        ticker = _lookup_ticker_by_company_name(question)
     
     # 2. Years
     years_str = _YEAR_RE.findall(question)

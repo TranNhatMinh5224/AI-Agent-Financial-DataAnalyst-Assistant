@@ -43,6 +43,7 @@ from __future__ import annotations
 import asyncio
 from dataclasses import dataclass, field
 from typing import Any, Dict, List, Optional
+import pandas as pd
 
 from financial_text_to_pandas.types import (
     EvidencePackage,
@@ -202,42 +203,19 @@ class FinancialQAOrchestrator:
         plan: str,
         evidence_package: EvidencePackage,
         trace: OrchestrationTrace,
+        dfs: Dict[str, pd.DataFrame],
     ) -> CellGroundingResult:
         """Retriever Agent: ground cells from evidence tables using LLM and heuristics."""
-        from pathlib import Path
-        import pandas as pd
-        import json
         from financial_text_to_pandas.reasoning.cell_grounding import ground_cells
         from financial_text_to_pandas.reasoning.llm import call_llm
         from financial_text_to_pandas.reasoning.prompts import RETRIEVER_GROUNDING_PROMPT_TEMPLATE
 
-        dfs: Dict[str, pd.DataFrame] = {}
+        if dfs is None:
+            dfs = {}
+
         tables_context = ""
         for ev in evidence_package.tables:
             cand = ev.candidate
-            # BUG-009 FIX: Load CSV thực tế thay vì stub DataFrame() rỗng
-            csv_path_str = cand.csv_path
-            loaded = False
-            if csv_path_str:
-                csv_path = Path(csv_path_str)
-                # Thử path tuyệt đối trước
-                if not csv_path.is_absolute() or not csv_path.exists():
-                    # Thử tương đối từ cwd
-                    csv_path_cwd = Path.cwd() / csv_path_str
-                    if csv_path_cwd.exists():
-                        csv_path = csv_path_cwd
-                if csv_path.exists():
-                    try:
-                        dfs[cand.table_id] = pd.read_csv(csv_path, encoding="utf-8-sig")
-                        loaded = True
-                    except Exception as e:
-                        trace.add_step(ROLE_RETRIEVER, "load_csv", False,
-                                       f"Failed to load {csv_path}: {e}")
-            if not loaded:
-                # Fallback: DataFrame rỗng nhưng log warning
-                dfs[cand.table_id] = pd.DataFrame()
-                trace.add_step(ROLE_RETRIEVER, "load_csv", False,
-                               f"CSV not found for {cand.table_id}: '{csv_path_str}'")
             tables_context += f"Table ID: {cand.table_id}\nPath: {cand.csv_path}\n\n"
 
         # Call Retriever LLM (optional hint, kết quả chính vẫn từ ground_cells)
@@ -252,7 +230,7 @@ class FinancialQAOrchestrator:
             trace.add_step(ROLE_RETRIEVER, "llm_grounding", False, f"LLM hint skipped: {str(e)}")
 
         # Schema-aware grounding (cơ chế chính)
-        grounding = ground_cells(evidence_package.intent, dfs)
+        grounding = ground_cells(evidence_package.intent, dfs, raw_question=question)
         success = grounding.error_type is None
         trace.add_step(
             ROLE_RETRIEVER, "ground_cells", success,
@@ -342,11 +320,20 @@ class FinancialQAOrchestrator:
             )
         else:
             # Step 2: Retriever (Standard Flow)
-            grounding = self.retrieve(question, plan, evidence_package, trace)
-            if grounding.error_type == "I_INSUFFICIENT_EVIDENCE":
-                trace.error = "Insufficient evidence to answer the question."
+            grounding = self.retrieve(question, plan, evidence_package, trace, dfs)
+            if grounding.error_type:
+                trace.error = f"Grounding failed: {grounding.error_type}"
+                trace.final_answer = FinalAnswer(
+                    answer=None,
+                    answer_type="numeric",
+                    unit=evidence_package.intent.unit_requested if evidence_package.intent else None,
+                    citations=[],
+                    verification_status="invalid",
+                    error_type=grounding.error_type,
+                    trace=trace.summary(),
+                    code_generated="",
+                )
                 return trace
-
             # Steps 3+4: Programmer + Sandbox (with Self-Correction built in)
             result = self.program_and_execute(evidence_package, grounding, dfs, trace)
 
@@ -354,10 +341,11 @@ class FinancialQAOrchestrator:
         verification = self.critique(result, grounding, evidence_package, dfs, trace)
 
         # Build final answer
+        table_to_csv = {ev.candidate.table_id: ev.candidate.csv_path for ev in evidence_package.tables}
         citations = [
             Citation(
                 table_id=c.table_id,
-                csv_path=c.csv_path,
+                csv_path=table_to_csv.get(c.table_id, ""),
                 page_number=c.page_number,
                 row_label=c.row_label,
                 column_label=c.column_label,

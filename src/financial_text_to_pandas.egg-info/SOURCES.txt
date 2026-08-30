@@ -70,6 +70,7 @@ tests/test_retrieval_embeddings.py
 tests/test_retrieval_evaluate.py
 tests/test_retrieval_query_hints.py
 tests/test_retrieval_search.py
+tests/test_sprint1.py
 tests/test_submission.py
 tests/test_table_clean.py
 tests/test_table_extract.py

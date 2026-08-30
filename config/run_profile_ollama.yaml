@@ -42,7 +42,7 @@ resume: true
 
 # Giới hạn số câu hỏi chạy Inference (0 = chạy hết toàn bộ). 
 # Hữu ích khi muốn test thử 20 câu kể cả khi run_mode đang là full.
-inference_limit_questions: 20
+inference_limit_questions: 0
 
 llm_planner:
   engine: "ollama"

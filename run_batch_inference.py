@@ -75,17 +75,35 @@ def main():
 
     orchestrator = FinancialQAOrchestrator(orch_cfg)
 
-    # Checkpoint logic
+    # ── Smart Resume: chỉ skip câu đã có kết quả thực, chạy lại câu lỗi ──────
     output_json = submission_dir / "submission.json"
     results = []
-    processed_ids = set()
+    processed_ids = set()   # IDs câu đã THÀNH CÔNG → sẽ skip
+    failed_ids   = set()    # IDs câu đã chạy nhưng LỖI  → sẽ chạy lại
+
+    def _is_successful(item: dict) -> bool:
+        """Câu được coi là thành công nếu có kết quả != 0 HOẶC có evidence."""
+        has_answer   = item.get("answer", 0.0) not in (0.0, None, "")
+        has_evidence = bool(item.get("evidence") or item.get("relevant_docs"))
+        return has_answer or has_evidence
 
     if output_json.exists():
         try:
             with open(output_json, "r", encoding="utf-8") as f:
-                results = json.load(f)
-            processed_ids = {item["id"] for item in results}
-            logging.info(f"[INFO] Resuming. Found {len(processed_ids)} already processed questions.")
+                existing = json.load(f)
+
+            for item in existing:
+                qid = item["id"]
+                if _is_successful(item):
+                    processed_ids.add(qid)
+                    results.append(item)   # Giữ lại kết quả tốt
+                else:
+                    failed_ids.add(qid)    # Sẽ chạy lại, KHÔNG đưa vào results
+
+            logging.info(
+                f"[INFO] Resume: {len(processed_ids)} câu OK (skip), "
+                f"{len(failed_ids)} câu lỗi (chạy lại)."
+            )
         except Exception as e:
             logging.warning(f"[WARN] Failed to read {output_json}: {e}. Starting fresh.")
 
@@ -120,10 +138,13 @@ def main():
             # using BM25 by default here for speed, or hybrid if embedding is ready
             # Fallback to bm25 if hybrid fails
             try:
-                tables = run_search(qtext, cfg, method="hybrid", top_k=5)
+                # Sử dụng 'hybrid' để kết hợp cả BM25 và Embedding (Dense)
+                # Nếu bạn của bạn có máy yếu/không có GPU, hãy giữ no_reranker=True.
+                # Nếu có GPU mạnh, đổi no_reranker=False để kết quả tuyệt đối chính xác nhất.
+                tables = run_search(qtext, cfg, method="hybrid", top_k=80, no_reranker=True)
             except Exception as e:
-                logging.warning(f"Hybrid search failed, fallback to BM25: {e}")
-                tables = run_search(qtext, cfg, method="bm25", top_k=5, no_reranker=True)
+                logging.warning(f"Search failed: {e}")
+                tables = []
                 
             # 2. Extract Intent
             intent = extract_intent(qtext)

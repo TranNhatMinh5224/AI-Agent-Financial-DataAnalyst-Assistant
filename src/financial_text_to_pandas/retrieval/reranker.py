@@ -20,6 +20,8 @@ _RERANKER_MODEL = None
 def get_reranker(model_name: str = "BAAI/bge-reranker-v2-m3"):
     """Singleton pattern to load CrossEncoder once."""
     global _RERANKER_MODEL
+    if not model_name:
+        return None
     if _RERANKER_MODEL is None:
         try:
             from sentence_transformers import CrossEncoder

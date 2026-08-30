@@ -91,7 +91,7 @@ def run_search(
         if not bm25_path.exists():
             print(f"[WARN] BM25 index not found at {bm25_path}", file=sys.stderr)
         else:
-            bm25_cands = search_bm25(bm25_path, hints.query_id, query, top_k=50, filter_ids=filter_ids)
+            bm25_cands = search_bm25(bm25_path, hints.query_id, query, top_k=max(50, top_k * 2), filter_ids=filter_ids)
             all_candidates.append(bm25_cands)
             
     if method in ["dense", "hybrid"]:
@@ -100,7 +100,7 @@ def run_search(
         emb_batch = cfg.embedding_config.get("batch_size", 16)
         store = embed_tables(corpus_df, dense_path, model_name=emb_model, mock=mock_embeddings, batch_size=emb_batch)
         q_vec = embed_query(query, model_name=emb_model, mock=mock_embeddings)
-        dense_cands = search_dense(store, hints.query_id, query, q_vec, top_k=50, filter_ids=filter_ids)
+        dense_cands = search_dense(store, hints.query_id, query, q_vec, top_k=max(50, top_k * 2), filter_ids=filter_ids)
         all_candidates.append(dense_cands)
         
     # 4. Merge
@@ -112,8 +112,8 @@ def run_search(
         c.csv_path = str(path_map.get(c.table_id, ""))
         
     # 5. Rerank
-    reranker_model = cfg.reranker_config.get("model_name", "BAAI/bge-reranker-v2-m3")
-    evidence = rerank_candidates(query, merged, top_k=top_k, mock=not no_reranker, model_name=reranker_model)
+    reranker_model = None if no_reranker else cfg.reranker_config.get("model_name", "BAAI/bge-reranker-v2-m3")
+    evidence = rerank_candidates(query, merged, top_k=top_k, mock=False, model_name=reranker_model)
     
     return evidence
 

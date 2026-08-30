@@ -17,6 +17,8 @@ from tqdm import tqdm
 
 from financial_text_to_pandas.types import Candidate
 
+_EMBEDDING_MODEL = None  # Biến toàn cục (Singleton) để load model 1 lần duy nhất
+
 class EmbeddingStore:
     def __init__(self, df: pd.DataFrame, model_name: str, model_version: str):
         self.df = df
@@ -108,8 +110,11 @@ def embed_tables(
                 device = "cuda" if torch.cuda.is_available() else "cpu"
                 print(f"[INFO] Using device: {device}")
                 
-                model = SentenceTransformer(model_name, trust_remote_code=True)
-                model.to(device)
+                global _EMBEDDING_MODEL
+                if _EMBEDDING_MODEL is None:
+                    _EMBEDDING_MODEL = SentenceTransformer(model_name, trust_remote_code=True)
+                    _EMBEDDING_MODEL.to(device)
+                model = _EMBEDDING_MODEL
             except ImportError:
                 print("[ERROR] sentence-transformers not installed. Run: pip install sentence-transformers")
                 raise
@@ -185,8 +190,12 @@ def embed_query(
             import torch
             
             device = "cuda" if torch.cuda.is_available() else "cpu"
-            model = SentenceTransformer(model_name, trust_remote_code=True)
-            model.to(device)
+            
+            global _EMBEDDING_MODEL
+            if _EMBEDDING_MODEL is None:
+                _EMBEDDING_MODEL = SentenceTransformer(model_name, trust_remote_code=True)
+                _EMBEDDING_MODEL.to(device)
+            model = _EMBEDDING_MODEL
             
             with torch.no_grad():
                 vec = model.encode(question, normalize_embeddings=True)
