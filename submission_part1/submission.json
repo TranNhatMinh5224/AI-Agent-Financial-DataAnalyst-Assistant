@@ -16841,872 +16841,6 @@
     "pandas_query": "result = 9991034256.0"
   },
   {
-    "id": 83,
-    "question": "Số dư cam kết giao dịch hối đoái của công ty mẹ Ngân hàng TMCP Quốc tế Việt Nam đến ngày 31/12/2020 là bao nhiêu triệu đồng?",
-    "answer": 0.0,
-    "relevant_docs": [
-      "OCB_2020_separate_page11_table0",
-      "HDB_2020_separate_page10_table0",
-      "VIB_2017_consolidated_page10_table0",
-      "CTG_2021_separate_page12_table0",
-      "ABB_2020_consolidated_page11_table0",
-      "SSB_2020_separate_page51_table1",
-      "VIB_2016_consolidated_page52_table0",
-      "ACB_2020_consolidated_page69_table1",
-      "VPB_2018_separate_page10_table0",
-      "CTG_2020_separate_page11_table0",
-      "SSB_2025_separate_page57_table0",
-      "ACB_2022_consolidated_page74_table0",
-      "VIB_2016_separate_page10_table0",
-      "VIB_2019_separate_page10_table0",
-      "BVH_2016_consolidated_page65_table0",
-      "VIB_2021_consolidated_page62_table0",
-      "SSB_2021_separate_page57_table0",
-      "SSB_2023_separate_page59_table0",
-      "BVH_2017_consolidated_page66_table0",
-      "SSB_2021_consolidated_page60_table0",
-      "HDB_2020_consolidated_page12_table0",
-      "CTG_2017_separate_page11_table0",
-      "VIB_2022_consolidated_page9_table0",
-      "HDB_2021_separate_page10_table0",
-      "BAB_2019_consolidated_page40_table0",
-      "VIB_2021_separate_page9_table1",
-      "VIB_2019_separate_page49_table0",
-      "CTG_2018_consolidated_page11_table0",
-      "VPB_2020_separate_page59_table0",
-      "CTG_2019_separate_page11_table0",
-      "ABB_2020_separate_page10_table0",
-      "BAB_2018_consolidated_page41_table0",
-      "HDB_2019_separate_page10_table0",
-      "VIB_2019_consolidated_page10_table0",
-      "ACB_2020_separate_page64_table1",
-      "VIB_2017_separate_page10_table0",
-      "VIB_2020_consolidated_page59_table0",
-      "BVH_2020_consolidated_page61_table0",
-      "MBB_2025_separate_page12_table0",
-      "VPB_2019_separate_page11_table0",
-      "VIB_2018_consolidated_page10_table0",
-      "VIB_2018_separate_page10_table0",
-      "VIB_2025_separate_page11_table0",
-      "VIB_2021_consolidated_page9_table1",
-      "ACB_2024_consolidated_page76_table0",
-      "VIB_2017_consolidated_page54_table0",
-      "VIB_2015_consolidated_page10_table0",
-      "HDB_2018_consolidated_page10_table0",
-      "CTG_2020_consolidated_page11_table0",
-      "EIB_2020_consolidated_page11_table0",
-      "NVB_2022_separate_page43_table0",
-      "NVB_2024_separate_page12_table0",
-      "HDB_2020_consolidated_page65_table0",
-      "VPB_2017_consolidated_page11_table0",
-      "VIB_2019_consolidated_page50_table0",
-      "SSB_2020_consolidated_page53_table1",
-      "VIB_2025_consolidated_page55_table0",
-      "BVH_2015_consolidated_page60_table2",
-      "SSB_2025_consolidated_page59_table0",
-      "ACB_2023_separate_page67_table1",
-      "VIB_2016_consolidated_page10_table0",
-      "SSB_2024_separate_page61_table0",
-      "CTG_2021_consolidated_page12_table0",
-      "STB_2019_separate_page10_table0",
-      "MBB_2025_consolidated_page12_table0",
-      "HDB_2018_separate_page10_table0",
-      "HDB_2021_consolidated_page10_table0",
-      "VIB_2025_consolidated_page10_table0",
-      "ABB_2021_consolidated_page10_table0"
-    ],
-    "relevant_tables": [
-      "VIB_2019_separate_page10_table0|1",
-      "VIB_2019_separate_page10_table0|1",
-      "VIB_2019_separate_page10_table0|1",
-      "VIB_2019_separate_page49_table0|1",
-      "VIB_2019_separate_page49_table0|1",
-      "VIB_2019_consolidated_page10_table0|1",
-      "VIB_2019_consolidated_page10_table0|1",
-      "VIB_2019_consolidated_page10_table0|1",
-      "VIB_2019_consolidated_page50_table0|1",
-      "VIB_2019_consolidated_page50_table0|1",
-      "SSB_2025_separate_page57_table0|1",
-      "SSB_2025_separate_page57_table0|1",
-      "SSB_2025_consolidated_page59_table0|1",
-      "SSB_2025_consolidated_page59_table0|1",
-      "SSB_2021_separate_page57_table0|1",
-      "SSB_2020_separate_page51_table1|1",
-      "SSB_2020_separate_page51_table1|1",
-      "ACB_2020_separate_page64_table1|1",
-      "ACB_2020_separate_page64_table1|1",
-      "ACB_2020_separate_page64_table1|1",
-      "SSB_2021_consolidated_page60_table0|1",
-      "SSB_2021_consolidated_page60_table0|1",
-      "SSB_2024_separate_page61_table0|1",
-      "SSB_2024_separate_page61_table0|1",
-      "SSB_2024_separate_page61_table0|1",
-      "SSB_2024_separate_page61_table0|1",
-      "VIB_2025_separate_page11_table0|1",
-      "VIB_2025_separate_page11_table0|1",
-      "VIB_2025_separate_page11_table0|1",
-      "VIB_2020_consolidated_page59_table0|1",
-      "VIB_2020_consolidated_page59_table0|1",
-      "VIB_2025_consolidated_page10_table0|1",
-      "VIB_2025_consolidated_page10_table0|1",
-      "VIB_2025_consolidated_page10_table0|1",
-      "CTG_2020_separate_page11_table0|1",
-      "VIB_2022_consolidated_page9_table0|1",
-      "VIB_2022_consolidated_page9_table0|1",
-      "VIB_2022_consolidated_page9_table0|1",
-      "HDB_2020_separate_page10_table0|1",
-      "HDB_2020_separate_page10_table0|1",
-      "VIB_2021_consolidated_page9_table1|1",
-      "VIB_2021_consolidated_page9_table1|1",
-      "SSB_2023_separate_page59_table0|1",
-      "SSB_2023_separate_page59_table0|1",
-      "SSB_2023_separate_page59_table0|1",
-      "SSB_2023_separate_page59_table0|1",
-      "ACB_2020_consolidated_page69_table1|1",
-      "ACB_2020_consolidated_page69_table1|1",
-      "ACB_2020_consolidated_page69_table1|1",
-      "ACB_2023_separate_page67_table1|1",
-      "ACB_2023_separate_page67_table1|1",
-      "ACB_2023_separate_page67_table1|1",
-      "HDB_2020_consolidated_page12_table0|1",
-      "HDB_2020_consolidated_page12_table0|1",
-      "VIB_2025_consolidated_page55_table0|1",
-      "VIB_2025_consolidated_page55_table0|1",
-      "VIB_2025_consolidated_page55_table0|1",
-      "VIB_2025_consolidated_page55_table0|1",
-      "VIB_2021_separate_page9_table1|1",
-      "VIB_2021_separate_page9_table1|1",
-      "VIB_2021_consolidated_page62_table0|1",
-      "VIB_2021_consolidated_page62_table0|1",
-      "VPB_2020_separate_page59_table0|1",
-      "VPB_2020_separate_page59_table0|1",
-      "VIB_2017_separate_page10_table0|1",
-      "VIB_2017_separate_page10_table0|1",
-      "BVH_2015_consolidated_page60_table2|1",
-      "BVH_2015_consolidated_page60_table2|1",
-      "CTG_2019_separate_page11_table0|1",
-      "CTG_2019_separate_page11_table0|1",
-      "ABB_2020_consolidated_page11_table0|1",
-      "ABB_2020_consolidated_page11_table0|1",
-      "VIB_2017_consolidated_page54_table0|1",
-      "VIB_2017_consolidated_page54_table0|1",
-      "CTG_2020_consolidated_page11_table0|1",
-      "SSB_2020_consolidated_page53_table1|1",
-      "SSB_2020_consolidated_page53_table1|1",
-      "VIB_2016_consolidated_page52_table0|1",
-      "VIB_2016_consolidated_page52_table0|1",
-      "HDB_2018_separate_page10_table0|1",
-      "HDB_2018_separate_page10_table0|1",
-      "HDB_2019_separate_page10_table0|1",
-      "HDB_2019_separate_page10_table0|1",
-      "BVH_2017_consolidated_page66_table0|1",
-      "BVH_2017_consolidated_page66_table0|1",
-      "BVH_2017_consolidated_page66_table0|1",
-      "BVH_2017_consolidated_page66_table0|1",
-      "BVH_2017_consolidated_page66_table0|1",
-      "BVH_2017_consolidated_page66_table0|1",
-      "BVH_2020_consolidated_page61_table0|1",
-      "EIB_2020_consolidated_page11_table0|1",
-      "BVH_2016_consolidated_page65_table0|1",
-      "BVH_2016_consolidated_page65_table0|1",
-      "BVH_2016_consolidated_page65_table0|1",
-      "BVH_2016_consolidated_page65_table0|1",
-      "BVH_2016_consolidated_page65_table0|1",
-      "BVH_2016_consolidated_page65_table0|1",
-      "CTG_2017_separate_page11_table0|1",
-      "CTG_2017_separate_page11_table0|1",
-      "VIB_2018_consolidated_page10_table0|1",
-      "VIB_2018_consolidated_page10_table0|1",
-      "VIB_2018_separate_page10_table0|1",
-      "VIB_2018_separate_page10_table0|1",
-      "ACB_2022_consolidated_page74_table0|1",
-      "ACB_2022_consolidated_page74_table0|1",
-      "ACB_2022_consolidated_page74_table0|1",
-      "HDB_2021_separate_page10_table0|1",
-      "HDB_2021_separate_page10_table0|1",
-      "HDB_2020_consolidated_page65_table0|1",
-      "HDB_2020_consolidated_page65_table0|1",
-      "ABB_2021_consolidated_page10_table0|1",
-      "ABB_2021_consolidated_page10_table0|1",
-      "VIB_2016_consolidated_page10_table0|1",
-      "VIB_2016_consolidated_page10_table0|1",
-      "VIB_2016_separate_page10_table0|1",
-      "VIB_2016_separate_page10_table0|1",
-      "NVB_2022_separate_page43_table0|1",
-      "NVB_2022_separate_page43_table0|1",
-      "VIB_2015_consolidated_page10_table0|1",
-      "VIB_2015_consolidated_page10_table0|1",
-      "MBB_2025_separate_page12_table0|1",
-      "MBB_2025_separate_page12_table0|1",
-      "MBB_2025_separate_page12_table0|1",
-      "CTG_2021_separate_page12_table0|1",
-      "ABB_2020_separate_page10_table0|1",
-      "ABB_2020_separate_page10_table0|1",
-      "HDB_2021_consolidated_page10_table0|1",
-      "HDB_2021_consolidated_page10_table0|1",
-      "HDB_2018_consolidated_page10_table0|1",
-      "HDB_2018_consolidated_page10_table0|1",
-      "BAB_2018_consolidated_page41_table0|1",
-      "BAB_2018_consolidated_page41_table0|1",
-      "CTG_2021_consolidated_page12_table0|1",
-      "OCB_2020_separate_page11_table0|1",
-      "OCB_2020_separate_page11_table0|1",
-      "VPB_2019_separate_page11_table0|1",
-      "VPB_2019_separate_page11_table0|1",
-      "VIB_2017_consolidated_page10_table0|1",
-      "VIB_2017_consolidated_page10_table0|1",
-      "CTG_2018_consolidated_page11_table0|1",
-      "CTG_2018_consolidated_page11_table0|1",
-      "STB_2019_separate_page10_table0|1",
-      "STB_2019_separate_page10_table0|1",
-      "BAB_2019_consolidated_page40_table0|1",
-      "BAB_2019_consolidated_page40_table0|1",
-      "MBB_2025_consolidated_page12_table0|1",
-      "MBB_2025_consolidated_page12_table0|1",
-      "MBB_2025_consolidated_page12_table0|1",
-      "NVB_2024_separate_page12_table0|1",
-      "NVB_2024_separate_page12_table0|1",
-      "VPB_2018_separate_page10_table0|1",
-      "VPB_2018_separate_page10_table0|1",
-      "VPB_2017_consolidated_page11_table0|1",
-      "VPB_2017_consolidated_page11_table0|1",
-      "ACB_2024_consolidated_page76_table0|1",
-      "ACB_2024_consolidated_page76_table0|1",
-      "ACB_2024_consolidated_page76_table0|1"
-    ],
-    "evidence": [
-      {
-        "variable": "df_0",
-        "csv_path": "data/VIB_2019_separate_page10_table0.csv"
-      },
-      {
-        "variable": "df_1",
-        "csv_path": "data/VIB_2019_separate_page10_table0.csv"
-      },
-      {
-        "variable": "df_2",
-        "csv_path": "data/VIB_2019_separate_page10_table0.csv"
-      },
-      {
-        "variable": "df_3",
-        "csv_path": "data/VIB_2019_separate_page49_table0.csv"
-      },
-      {
-        "variable": "df_4",
-        "csv_path": "data/VIB_2019_separate_page49_table0.csv"
-      },
-      {
-        "variable": "df_5",
-        "csv_path": "data/VIB_2019_consolidated_page10_table0.csv"
-      },
-      {
-        "variable": "df_6",
-        "csv_path": "data/VIB_2019_consolidated_page10_table0.csv"
-      },
-      {
-        "variable": "df_7",
-        "csv_path": "data/VIB_2019_consolidated_page10_table0.csv"
-      },
-      {
-        "variable": "df_8",
-        "csv_path": "data/VIB_2019_consolidated_page50_table0.csv"
-      },
-      {
-        "variable": "df_9",
-        "csv_path": "data/VIB_2019_consolidated_page50_table0.csv"
-      },
-      {
-        "variable": "df_10",
-        "csv_path": "data/SSB_2025_separate_page57_table0.csv"
-      },
-      {
-        "variable": "df_11",
-        "csv_path": "data/SSB_2025_separate_page57_table0.csv"
-      },
-      {
-        "variable": "df_12",
-        "csv_path": "data/SSB_2025_consolidated_page59_table0.csv"
-      },
-      {
-        "variable": "df_13",
-        "csv_path": "data/SSB_2025_consolidated_page59_table0.csv"
-      },
-      {
-        "variable": "df_14",
-        "csv_path": "data/SSB_2021_separate_page57_table0.csv"
-      },
-      {
-        "variable": "df_15",
-        "csv_path": "data/SSB_2020_separate_page51_table1.csv"
-      },
-      {
-        "variable": "df_16",
-        "csv_path": "data/SSB_2020_separate_page51_table1.csv"
-      },
-      {
-        "variable": "df_17",
-        "csv_path": "data/ACB_2020_separate_page64_table1.csv"
-      },
-      {
-        "variable": "df_18",
-        "csv_path": "data/ACB_2020_separate_page64_table1.csv"
-      },
-      {
-        "variable": "df_19",
-        "csv_path": "data/ACB_2020_separate_page64_table1.csv"
-      },
-      {
-        "variable": "df_20",
-        "csv_path": "data/SSB_2021_consolidated_page60_table0.csv"
-      },
-      {
-        "variable": "df_21",
-        "csv_path": "data/SSB_2021_consolidated_page60_table0.csv"
-      },
-      {
-        "variable": "df_22",
-        "csv_path": "data/SSB_2024_separate_page61_table0.csv"
-      },
-      {
-        "variable": "df_23",
-        "csv_path": "data/SSB_2024_separate_page61_table0.csv"
-      },
-      {
-        "variable": "df_24",
-        "csv_path": "data/SSB_2024_separate_page61_table0.csv"
-      },
-      {
-        "variable": "df_25",
-        "csv_path": "data/SSB_2024_separate_page61_table0.csv"
-      },
-      {
-        "variable": "df_26",
-        "csv_path": "data/VIB_2025_separate_page11_table0.csv"
-      },
-      {
-        "variable": "df_27",
-        "csv_path": "data/VIB_2025_separate_page11_table0.csv"
-      },
-      {
-        "variable": "df_28",
-        "csv_path": "data/VIB_2025_separate_page11_table0.csv"
-      },
-      {
-        "variable": "df_29",
-        "csv_path": "data/VIB_2020_consolidated_page59_table0.csv"
-      },
-      {
-        "variable": "df_30",
-        "csv_path": "data/VIB_2020_consolidated_page59_table0.csv"
-      },
-      {
-        "variable": "df_31",
-        "csv_path": "data/VIB_2025_consolidated_page10_table0.csv"
-      },
-      {
-        "variable": "df_32",
-        "csv_path": "data/VIB_2025_consolidated_page10_table0.csv"
-      },
-      {
-        "variable": "df_33",
-        "csv_path": "data/VIB_2025_consolidated_page10_table0.csv"
-      },
-      {
-        "variable": "df_34",
-        "csv_path": "data/CTG_2020_separate_page11_table0.csv"
-      },
-      {
-        "variable": "df_35",
-        "csv_path": "data/VIB_2022_consolidated_page9_table0.csv"
-      },
-      {
-        "variable": "df_36",
-        "csv_path": "data/VIB_2022_consolidated_page9_table0.csv"
-      },
-      {
-        "variable": "df_37",
-        "csv_path": "data/VIB_2022_consolidated_page9_table0.csv"
-      },
-      {
-        "variable": "df_38",
-        "csv_path": "data/HDB_2020_separate_page10_table0.csv"
-      },
-      {
-        "variable": "df_39",
-        "csv_path": "data/HDB_2020_separate_page10_table0.csv"
-      },
-      {
-        "variable": "df_40",
-        "csv_path": "data/VIB_2021_consolidated_page9_table1.csv"
-      },
-      {
-        "variable": "df_41",
-        "csv_path": "data/VIB_2021_consolidated_page9_table1.csv"
-      },
-      {
-        "variable": "df_42",
-        "csv_path": "data/SSB_2023_separate_page59_table0.csv"
-      },
-      {
-        "variable": "df_43",
-        "csv_path": "data/SSB_2023_separate_page59_table0.csv"
-      },
-      {
-        "variable": "df_44",
-        "csv_path": "data/SSB_2023_separate_page59_table0.csv"
-      },
-      {
-        "variable": "df_45",
-        "csv_path": "data/SSB_2023_separate_page59_table0.csv"
-      },
-      {
-        "variable": "df_46",
-        "csv_path": "data/ACB_2020_consolidated_page69_table1.csv"
-      },
-      {
-        "variable": "df_47",
-        "csv_path": "data/ACB_2020_consolidated_page69_table1.csv"
-      },
-      {
-        "variable": "df_48",
-        "csv_path": "data/ACB_2020_consolidated_page69_table1.csv"
-      },
-      {
-        "variable": "df_49",
-        "csv_path": "data/ACB_2023_separate_page67_table1.csv"
-      },
-      {
-        "variable": "df_50",
-        "csv_path": "data/ACB_2023_separate_page67_table1.csv"
-      },
-      {
-        "variable": "df_51",
-        "csv_path": "data/ACB_2023_separate_page67_table1.csv"
-      },
-      {
-        "variable": "df_52",
-        "csv_path": "data/HDB_2020_consolidated_page12_table0.csv"
-      },
-      {
-        "variable": "df_53",
-        "csv_path": "data/HDB_2020_consolidated_page12_table0.csv"
-      },
-      {
-        "variable": "df_54",
-        "csv_path": "data/VIB_2025_consolidated_page55_table0.csv"
-      },
-      {
-        "variable": "df_55",
-        "csv_path": "data/VIB_2025_consolidated_page55_table0.csv"
-      },
-      {
-        "variable": "df_56",
-        "csv_path": "data/VIB_2025_consolidated_page55_table0.csv"
-      },
-      {
-        "variable": "df_57",
-        "csv_path": "data/VIB_2025_consolidated_page55_table0.csv"
-      },
-      {
-        "variable": "df_58",
-        "csv_path": "data/VIB_2021_separate_page9_table1.csv"
-      },
-      {
-        "variable": "df_59",
-        "csv_path": "data/VIB_2021_separate_page9_table1.csv"
-      },
-      {
-        "variable": "df_60",
-        "csv_path": "data/VIB_2021_consolidated_page62_table0.csv"
-      },
-      {
-        "variable": "df_61",
-        "csv_path": "data/VIB_2021_consolidated_page62_table0.csv"
-      },
-      {
-        "variable": "df_62",
-        "csv_path": "data/VPB_2020_separate_page59_table0.csv"
-      },
-      {
-        "variable": "df_63",
-        "csv_path": "data/VPB_2020_separate_page59_table0.csv"
-      },
-      {
-        "variable": "df_64",
-        "csv_path": "data/VIB_2017_separate_page10_table0.csv"
-      },
-      {
-        "variable": "df_65",
-        "csv_path": "data/VIB_2017_separate_page10_table0.csv"
-      },
-      {
-        "variable": "df_66",
-        "csv_path": "data/BVH_2015_consolidated_page60_table2.csv"
-      },
-      {
-        "variable": "df_67",
-        "csv_path": "data/BVH_2015_consolidated_page60_table2.csv"
-      },
-      {
-        "variable": "df_68",
-        "csv_path": "data/CTG_2019_separate_page11_table0.csv"
-      },
-      {
-        "variable": "df_69",
-        "csv_path": "data/CTG_2019_separate_page11_table0.csv"
-      },
-      {
-        "variable": "df_70",
-        "csv_path": "data/ABB_2020_consolidated_page11_table0.csv"
-      },
-      {
-        "variable": "df_71",
-        "csv_path": "data/ABB_2020_consolidated_page11_table0.csv"
-      },
-      {
-        "variable": "df_72",
-        "csv_path": "data/VIB_2017_consolidated_page54_table0.csv"
-      },
-      {
-        "variable": "df_73",
-        "csv_path": "data/VIB_2017_consolidated_page54_table0.csv"
-      },
-      {
-        "variable": "df_74",
-        "csv_path": "data/CTG_2020_consolidated_page11_table0.csv"
-      },
-      {
-        "variable": "df_75",
-        "csv_path": "data/SSB_2020_consolidated_page53_table1.csv"
-      },
-      {
-        "variable": "df_76",
-        "csv_path": "data/SSB_2020_consolidated_page53_table1.csv"
-      },
-      {
-        "variable": "df_77",
-        "csv_path": "data/VIB_2016_consolidated_page52_table0.csv"
-      },
-      {
-        "variable": "df_78",
-        "csv_path": "data/VIB_2016_consolidated_page52_table0.csv"
-      },
-      {
-        "variable": "df_79",
-        "csv_path": "data/HDB_2018_separate_page10_table0.csv"
-      },
-      {
-        "variable": "df_80",
-        "csv_path": "data/HDB_2018_separate_page10_table0.csv"
-      },
-      {
-        "variable": "df_81",
-        "csv_path": "data/HDB_2019_separate_page10_table0.csv"
-      },
-      {
-        "variable": "df_82",
-        "csv_path": "data/HDB_2019_separate_page10_table0.csv"
-      },
-      {
-        "variable": "df_83",
-        "csv_path": "data/BVH_2017_consolidated_page66_table0.csv"
-      },
-      {
-        "variable": "df_84",
-        "csv_path": "data/BVH_2017_consolidated_page66_table0.csv"
-      },
-      {
-        "variable": "df_85",
-        "csv_path": "data/BVH_2017_consolidated_page66_table0.csv"
-      },
-      {
-        "variable": "df_86",
-        "csv_path": "data/BVH_2017_consolidated_page66_table0.csv"
-      },
-      {
-        "variable": "df_87",
-        "csv_path": "data/BVH_2017_consolidated_page66_table0.csv"
-      },
-      {
-        "variable": "df_88",
-        "csv_path": "data/BVH_2017_consolidated_page66_table0.csv"
-      },
-      {
-        "variable": "df_89",
-        "csv_path": "data/BVH_2020_consolidated_page61_table0.csv"
-      },
-      {
-        "variable": "df_90",
-        "csv_path": "data/EIB_2020_consolidated_page11_table0.csv"
-      },
-      {
-        "variable": "df_91",
-        "csv_path": "data/BVH_2016_consolidated_page65_table0.csv"
-      },
-      {
-        "variable": "df_92",
-        "csv_path": "data/BVH_2016_consolidated_page65_table0.csv"
-      },
-      {
-        "variable": "df_93",
-        "csv_path": "data/BVH_2016_consolidated_page65_table0.csv"
-      },
-      {
-        "variable": "df_94",
-        "csv_path": "data/BVH_2016_consolidated_page65_table0.csv"
-      },
-      {
-        "variable": "df_95",
-        "csv_path": "data/BVH_2016_consolidated_page65_table0.csv"
-      },
-      {
-        "variable": "df_96",
-        "csv_path": "data/BVH_2016_consolidated_page65_table0.csv"
-      },
-      {
-        "variable": "df_97",
-        "csv_path": "data/CTG_2017_separate_page11_table0.csv"
-      },
-      {
-        "variable": "df_98",
-        "csv_path": "data/CTG_2017_separate_page11_table0.csv"
-      },
-      {
-        "variable": "df_99",
-        "csv_path": "data/VIB_2018_consolidated_page10_table0.csv"
-      },
-      {
-        "variable": "df_100",
-        "csv_path": "data/VIB_2018_consolidated_page10_table0.csv"
-      },
-      {
-        "variable": "df_101",
-        "csv_path": "data/VIB_2018_separate_page10_table0.csv"
-      },
-      {
-        "variable": "df_102",
-        "csv_path": "data/VIB_2018_separate_page10_table0.csv"
-      },
-      {
-        "variable": "df_103",
-        "csv_path": "data/ACB_2022_consolidated_page74_table0.csv"
-      },
-      {
-        "variable": "df_104",
-        "csv_path": "data/ACB_2022_consolidated_page74_table0.csv"
-      },
-      {
-        "variable": "df_105",
-        "csv_path": "data/ACB_2022_consolidated_page74_table0.csv"
-      },
-      {
-        "variable": "df_106",
-        "csv_path": "data/HDB_2021_separate_page10_table0.csv"
-      },
-      {
-        "variable": "df_107",
-        "csv_path": "data/HDB_2021_separate_page10_table0.csv"
-      },
-      {
-        "variable": "df_108",
-        "csv_path": "data/HDB_2020_consolidated_page65_table0.csv"
-      },
-      {
-        "variable": "df_109",
-        "csv_path": "data/HDB_2020_consolidated_page65_table0.csv"
-      },
-      {
-        "variable": "df_110",
-        "csv_path": "data/ABB_2021_consolidated_page10_table0.csv"
-      },
-      {
-        "variable": "df_111",
-        "csv_path": "data/ABB_2021_consolidated_page10_table0.csv"
-      },
-      {
-        "variable": "df_112",
-        "csv_path": "data/VIB_2016_consolidated_page10_table0.csv"
-      },
-      {
-        "variable": "df_113",
-        "csv_path": "data/VIB_2016_consolidated_page10_table0.csv"
-      },
-      {
-        "variable": "df_114",
-        "csv_path": "data/VIB_2016_separate_page10_table0.csv"
-      },
-      {
-        "variable": "df_115",
-        "csv_path": "data/VIB_2016_separate_page10_table0.csv"
-      },
-      {
-        "variable": "df_116",
-        "csv_path": "data/NVB_2022_separate_page43_table0.csv"
-      },
-      {
-        "variable": "df_117",
-        "csv_path": "data/NVB_2022_separate_page43_table0.csv"
-      },
-      {
-        "variable": "df_118",
-        "csv_path": "data/VIB_2015_consolidated_page10_table0.csv"
-      },
-      {
-        "variable": "df_119",
-        "csv_path": "data/VIB_2015_consolidated_page10_table0.csv"
-      },
-      {
-        "variable": "df_120",
-        "csv_path": "data/MBB_2025_separate_page12_table0.csv"
-      },
-      {
-        "variable": "df_121",
-        "csv_path": "data/MBB_2025_separate_page12_table0.csv"
-      },
-      {
-        "variable": "df_122",
-        "csv_path": "data/MBB_2025_separate_page12_table0.csv"
-      },
-      {
-        "variable": "df_123",
-        "csv_path": "data/CTG_2021_separate_page12_table0.csv"
-      },
-      {
-        "variable": "df_124",
-        "csv_path": "data/ABB_2020_separate_page10_table0.csv"
-      },
-      {
-        "variable": "df_125",
-        "csv_path": "data/ABB_2020_separate_page10_table0.csv"
-      },
-      {
-        "variable": "df_126",
-        "csv_path": "data/HDB_2021_consolidated_page10_table0.csv"
-      },
-      {
-        "variable": "df_127",
-        "csv_path": "data/HDB_2021_consolidated_page10_table0.csv"
-      },
-      {
-        "variable": "df_128",
-        "csv_path": "data/HDB_2018_consolidated_page10_table0.csv"
-      },
-      {
-        "variable": "df_129",
-        "csv_path": "data/HDB_2018_consolidated_page10_table0.csv"
-      },
-      {
-        "variable": "df_130",
-        "csv_path": "data/BAB_2018_consolidated_page41_table0.csv"
-      },
-      {
-        "variable": "df_131",
-        "csv_path": "data/BAB_2018_consolidated_page41_table0.csv"
-      },
-      {
-        "variable": "df_132",
-        "csv_path": "data/CTG_2021_consolidated_page12_table0.csv"
-      },
-      {
-        "variable": "df_133",
-        "csv_path": "data/OCB_2020_separate_page11_table0.csv"
-      },
-      {
-        "variable": "df_134",
-        "csv_path": "data/OCB_2020_separate_page11_table0.csv"
-      },
-      {
-        "variable": "df_135",
-        "csv_path": "data/VPB_2019_separate_page11_table0.csv"
-      },
-      {
-        "variable": "df_136",
-        "csv_path": "data/VPB_2019_separate_page11_table0.csv"
-      },
-      {
-        "variable": "df_137",
-        "csv_path": "data/VIB_2017_consolidated_page10_table0.csv"
-      },
-      {
-        "variable": "df_138",
-        "csv_path": "data/VIB_2017_consolidated_page10_table0.csv"
-      },
-      {
-        "variable": "df_139",
-        "csv_path": "data/CTG_2018_consolidated_page11_table0.csv"
-      },
-      {
-        "variable": "df_140",
-        "csv_path": "data/CTG_2018_consolidated_page11_table0.csv"
-      },
-      {
-        "variable": "df_141",
-        "csv_path": "data/STB_2019_separate_page10_table0.csv"
-      },
-      {
-        "variable": "df_142",
-        "csv_path": "data/STB_2019_separate_page10_table0.csv"
-      },
-      {
-        "variable": "df_143",
-        "csv_path": "data/BAB_2019_consolidated_page40_table0.csv"
-      },
-      {
-        "variable": "df_144",
-        "csv_path": "data/BAB_2019_consolidated_page40_table0.csv"
-      },
-      {
-        "variable": "df_145",
-        "csv_path": "data/MBB_2025_consolidated_page12_table0.csv"
-      },
-      {
-        "variable": "df_146",
-        "csv_path": "data/MBB_2025_consolidated_page12_table0.csv"
-      },
-      {
-        "variable": "df_147",
-        "csv_path": "data/MBB_2025_consolidated_page12_table0.csv"
-      },
-      {
-        "variable": "df_148",
-        "csv_path": "data/NVB_2024_separate_page12_table0.csv"
-      },
-      {
-        "variable": "df_149",
-        "csv_path": "data/NVB_2024_separate_page12_table0.csv"
-      },
-      {
-        "variable": "df_150",
-        "csv_path": "data/VPB_2018_separate_page10_table0.csv"
-      },
-      {
-        "variable": "df_151",
-        "csv_path": "data/VPB_2018_separate_page10_table0.csv"
-      },
-      {
-        "variable": "df_152",
-        "csv_path": "data/VPB_2017_consolidated_page11_table0.csv"
-      },
-      {
-        "variable": "df_153",
-        "csv_path": "data/VPB_2017_consolidated_page11_table0.csv"
-      },
-      {
-        "variable": "df_154",
-        "csv_path": "data/ACB_2024_consolidated_page76_table0.csv"
-      },
-      {
-        "variable": "df_155",
-        "csv_path": "data/ACB_2024_consolidated_page76_table0.csv"
-      },
-      {
-        "variable": "df_156",
-        "csv_path": "data/ACB_2024_consolidated_page76_table0.csv"
-      }
-    ],
-    "pandas_query": "Okay, let's try to figure out what the user is asking for. The question is about the committed foreign exchange transaction balance of the parent company, Vietnam International Commercial Joint Stock Bank, as of a specific date [NUM_157]/[NUM_158]/[NUM_159], in million VND.\n\nLooking at the grounded cells, there are several entries with different dates. The most recent one mentioned is 31/12/2025 with a value of 618,888,427 million VND (NUM_121). However, the user's question uses placeholders [NUM_157], [NUM_158], [NUM_159], which might correspond to day, month, year. But without knowing the exact date, it's tricky. \n\nWait, in the grounded cells, there's a value for 31/12/2020 (December 31, 2020) with 303,101,636 million VND (NUM_34, NUM_123, NUM_132). Also, there's a value for 31/12/2025 (December 31, 2025) with 618,888,427 million VND (NUM_121). But the user's question might be referring to a specific date that's not explicitly given. However, since the previous code attempt had a syntax error due to an unterminated string, maybe the correct approach is to pick the most relevant value from the grounded cells.\n\nLooking at the cells, the value for 31/12/2020 is 303,101,636 million VND. If the user's date is December 31, 2020, that would be the answer. But how do I know? The previous code tried to use a string with placeholders, which caused an error. The correct approach is to directly assign the value from the grounded cells that matches the required date. Since the user's question uses [NUM_157]/[NUM_158]/[NUM_159], but those numbers aren't provided, maybe the answer is the latest available date in the data, which is 2025. However, without knowing the exact date, it's hard to be certain. \n\nAlternatively, looking at the cells, there's a value for \"Số cuối năm Triệu đồng\" (end of year million VND) which is 153,781,044 (NUM_70). But that might be for a specific year. \n\nWait, the user's question is in Vietnamese, and the grounded cells have entries for various years. The answer might be the value from the most recent date in the data. However, the grounded cells have entries up to 2025. But the user's question might be using a specific date that's not in the data. \n\nAlternatively, maybe the answer is the value from the \"Tổng cộngTriệu VND\" (Total million VND) which is 44,365,611 (NUM_19). But that might not be the correct one. \n\nGiven the confusion, the safest bet is to use the value from the most recent date available in the grounded cells, which is 31/12/2025 with 618,888,427 million VND. However, the user's question might be referring to a different date. But since the previous code had a syntax error, the correct approach is to directly assign the value from the grounded cells that matches the required date. \n\nWait, looking back, the user's question is about the parent company's balance. In the grounded cells, there's a cell with [RowPath: Cam kết giao dịch hối đoái | ColPath: numeric__Ngày 31 tháng 12năm 2020triệu đồng | Value: 303101636.0] which is 303,101,636 million VND. That seems like a plausible answer if the date is December 31, 2020. But how do I know? \n\nAlternatively, maybe the answer is the value from the \"Số cuối năm Triệu đồng\" which is 153,781,044 (NUM_70). But that's for a specific year. \n\nGiven the ambiguity, the best approach is to select the value from the grounded cells that is most likely to be the answer. Since the user's question uses [NUM_157]/[NUM_158]/[NUM_"
-  },
-  {
     "id": 84,
     "question": "Số dư tiền và tương đương tiền cuối năm 2024 của công ty mẹ Tổng Công ty Điện lực TKV - CTCP là bao nhiêu tỷ đồng?",
     "answer": 59420334052.0,
@@ -20184,5 +19318,3280 @@
       }
     ],
     "pandas_query": "result = 11193158753866.0 / 1e6"
+  },
+  {
+    "id": 89,
+    "question": "Chi phí thuế thu nhập hiện hành của CTCP Tập đoàn Masan năm 2018 là bao nhiêu triệu đồng?",
+    "answer": 1286462.0,
+    "relevant_docs": [
+      "EIB_2021_consolidated_page51_table0",
+      "BAB_2019_consolidated_page38_table0",
+      "VPB_2023_unknown_page59_table0",
+      "MSN_2018_consolidated_page10_table0",
+      "DLG_2018_separate_page50_table0",
+      "MSB_2023_separate_page56_table0",
+      "BAB_2018_consolidated_page39_table0",
+      "MSB_2024_consolidated_page56_table0",
+      "MSN_2024_separate_page9_table0",
+      "EIB_2020_consolidated_page49_table0",
+      "NVB_2024_consolidated_page45_table1",
+      "MSN_2023_consolidated_page80_table0",
+      "BVH_2019_separate_page44_table1",
+      "CEO_2018_separate_page42_table0",
+      "ASM_2018_separate_page42_table0",
+      "MSN_2023_consolidated_page11_table0",
+      "DCM_2018_consolidated_page38_table2",
+      "MSN_2023_separate_page9_table0",
+      "MSN_2018_consolidated_page11_table0",
+      "EIB_2020_separate_page47_table1",
+      "VPB_2022_consolidated_page63_table0",
+      "HPG_2025_consolidated_page50_table0",
+      "SGB_2019_consolidated_page41_table0",
+      "MSN_2017_separate_page8_table0",
+      "SNZ_2018_consolidated_page59_table1",
+      "MSN_2025_separate_page11_table0",
+      "PC1_2025_consolidated_page59_table0",
+      "EIB_2021_separate_page51_table1",
+      "HSG_2018_consolidated_page47_table0",
+      "KBC_2015_consolidated_page56_table0",
+      "MSB_2025_separate_page54_table0",
+      "GVR_2018_consolidated_page62_table0",
+      "MCH_2018_consolidated_page29_table0",
+      "CTG_2019_separate_page47_table0",
+      "SNZ_2017_consolidated_page56_table1",
+      "VGC_2023_consolidated_page66_table0",
+      "MSN_2018_consolidated_page75_table0",
+      "MSB_2022_separate_page57_table0"
+    ],
+    "relevant_tables": [
+      "DCM_2018_consolidated_page38_table2|1",
+      "DCM_2018_consolidated_page38_table2|1",
+      "MSN_2023_consolidated_page80_table0|1",
+      "MSN_2023_consolidated_page80_table0|1",
+      "SGB_2019_consolidated_page41_table0|1",
+      "GVR_2018_consolidated_page62_table0|1",
+      "GVR_2018_consolidated_page62_table0|1",
+      "SNZ_2017_consolidated_page56_table1|1",
+      "SNZ_2017_consolidated_page56_table1|1",
+      "BAB_2018_consolidated_page39_table0|1",
+      "MSN_2017_separate_page8_table0|1",
+      "MSN_2017_separate_page8_table0|1",
+      "EIB_2020_separate_page47_table1|1",
+      "EIB_2020_separate_page47_table1|1",
+      "DLG_2018_separate_page50_table0|1",
+      "MSN_2018_consolidated_page10_table0|1",
+      "KBC_2015_consolidated_page56_table0|1",
+      "KBC_2015_consolidated_page56_table0|1",
+      "EIB_2021_separate_page51_table1|1",
+      "EIB_2021_separate_page51_table1|1",
+      "MSN_2018_consolidated_page11_table0|1",
+      "BAB_2019_consolidated_page38_table0|1",
+      "MSN_2023_consolidated_page11_table0|1",
+      "MSN_2023_consolidated_page11_table0|1",
+      "MSN_2023_consolidated_page11_table0|1",
+      "MSN_2023_consolidated_page11_table0|1",
+      "EIB_2021_consolidated_page51_table0|1",
+      "EIB_2021_consolidated_page51_table0|1",
+      "ASM_2018_separate_page42_table0|1",
+      "ASM_2018_separate_page42_table0|1",
+      "EIB_2020_consolidated_page49_table0|1",
+      "EIB_2020_consolidated_page49_table0|1",
+      "MSB_2023_separate_page56_table0|1",
+      "MSB_2023_separate_page56_table0|1",
+      "HSG_2018_consolidated_page47_table0|1",
+      "HSG_2018_consolidated_page47_table0|1",
+      "SNZ_2018_consolidated_page59_table1|1",
+      "BVH_2019_separate_page44_table1|1",
+      "MSB_2025_separate_page54_table0|1",
+      "MSB_2025_separate_page54_table0|1",
+      "CTG_2019_separate_page47_table0|1",
+      "MSB_2024_consolidated_page56_table0|1",
+      "MSB_2024_consolidated_page56_table0|1",
+      "MSN_2023_separate_page9_table0|1",
+      "MSN_2023_separate_page9_table0|1",
+      "MSN_2023_separate_page9_table0|1",
+      "PC1_2025_consolidated_page59_table0|1",
+      "PC1_2025_consolidated_page59_table0|1",
+      "VPB_2023_unknown_page59_table0|1",
+      "VPB_2023_unknown_page59_table0|1",
+      "MSN_2024_separate_page9_table0|1",
+      "MSN_2024_separate_page9_table0|1",
+      "VGC_2023_consolidated_page66_table0|1",
+      "VGC_2023_consolidated_page66_table0|1",
+      "VPB_2022_consolidated_page63_table0|1",
+      "HPG_2025_consolidated_page50_table0|1",
+      "HPG_2025_consolidated_page50_table0|1",
+      "CEO_2018_separate_page42_table0|1",
+      "MSN_2025_separate_page11_table0|1",
+      "MSN_2025_separate_page11_table0|1",
+      "MSB_2022_separate_page57_table0|1",
+      "MSB_2022_separate_page57_table0|1",
+      "MSN_2018_consolidated_page75_table0|1",
+      "MCH_2018_consolidated_page29_table0|1",
+      "NVB_2024_consolidated_page45_table1|1"
+    ],
+    "evidence": [
+      {
+        "variable": "df_0",
+        "csv_path": "data/DCM_2018_consolidated_page38_table2.csv"
+      },
+      {
+        "variable": "df_1",
+        "csv_path": "data/DCM_2018_consolidated_page38_table2.csv"
+      },
+      {
+        "variable": "df_2",
+        "csv_path": "data/MSN_2023_consolidated_page80_table0.csv"
+      },
+      {
+        "variable": "df_3",
+        "csv_path": "data/MSN_2023_consolidated_page80_table0.csv"
+      },
+      {
+        "variable": "df_4",
+        "csv_path": "data/SGB_2019_consolidated_page41_table0.csv"
+      },
+      {
+        "variable": "df_5",
+        "csv_path": "data/GVR_2018_consolidated_page62_table0.csv"
+      },
+      {
+        "variable": "df_6",
+        "csv_path": "data/GVR_2018_consolidated_page62_table0.csv"
+      },
+      {
+        "variable": "df_7",
+        "csv_path": "data/SNZ_2017_consolidated_page56_table1.csv"
+      },
+      {
+        "variable": "df_8",
+        "csv_path": "data/SNZ_2017_consolidated_page56_table1.csv"
+      },
+      {
+        "variable": "df_9",
+        "csv_path": "data/BAB_2018_consolidated_page39_table0.csv"
+      },
+      {
+        "variable": "df_10",
+        "csv_path": "data/MSN_2017_separate_page8_table0.csv"
+      },
+      {
+        "variable": "df_11",
+        "csv_path": "data/MSN_2017_separate_page8_table0.csv"
+      },
+      {
+        "variable": "df_12",
+        "csv_path": "data/EIB_2020_separate_page47_table1.csv"
+      },
+      {
+        "variable": "df_13",
+        "csv_path": "data/EIB_2020_separate_page47_table1.csv"
+      },
+      {
+        "variable": "df_14",
+        "csv_path": "data/DLG_2018_separate_page50_table0.csv"
+      },
+      {
+        "variable": "df_15",
+        "csv_path": "data/MSN_2018_consolidated_page10_table0.csv"
+      },
+      {
+        "variable": "df_16",
+        "csv_path": "data/KBC_2015_consolidated_page56_table0.csv"
+      },
+      {
+        "variable": "df_17",
+        "csv_path": "data/KBC_2015_consolidated_page56_table0.csv"
+      },
+      {
+        "variable": "df_18",
+        "csv_path": "data/EIB_2021_separate_page51_table1.csv"
+      },
+      {
+        "variable": "df_19",
+        "csv_path": "data/EIB_2021_separate_page51_table1.csv"
+      },
+      {
+        "variable": "df_20",
+        "csv_path": "data/MSN_2018_consolidated_page11_table0.csv"
+      },
+      {
+        "variable": "df_21",
+        "csv_path": "data/BAB_2019_consolidated_page38_table0.csv"
+      },
+      {
+        "variable": "df_22",
+        "csv_path": "data/MSN_2023_consolidated_page11_table0.csv"
+      },
+      {
+        "variable": "df_23",
+        "csv_path": "data/MSN_2023_consolidated_page11_table0.csv"
+      },
+      {
+        "variable": "df_24",
+        "csv_path": "data/MSN_2023_consolidated_page11_table0.csv"
+      },
+      {
+        "variable": "df_25",
+        "csv_path": "data/MSN_2023_consolidated_page11_table0.csv"
+      },
+      {
+        "variable": "df_26",
+        "csv_path": "data/EIB_2021_consolidated_page51_table0.csv"
+      },
+      {
+        "variable": "df_27",
+        "csv_path": "data/EIB_2021_consolidated_page51_table0.csv"
+      },
+      {
+        "variable": "df_28",
+        "csv_path": "data/ASM_2018_separate_page42_table0.csv"
+      },
+      {
+        "variable": "df_29",
+        "csv_path": "data/ASM_2018_separate_page42_table0.csv"
+      },
+      {
+        "variable": "df_30",
+        "csv_path": "data/EIB_2020_consolidated_page49_table0.csv"
+      },
+      {
+        "variable": "df_31",
+        "csv_path": "data/EIB_2020_consolidated_page49_table0.csv"
+      },
+      {
+        "variable": "df_32",
+        "csv_path": "data/MSB_2023_separate_page56_table0.csv"
+      },
+      {
+        "variable": "df_33",
+        "csv_path": "data/MSB_2023_separate_page56_table0.csv"
+      },
+      {
+        "variable": "df_34",
+        "csv_path": "data/HSG_2018_consolidated_page47_table0.csv"
+      },
+      {
+        "variable": "df_35",
+        "csv_path": "data/HSG_2018_consolidated_page47_table0.csv"
+      },
+      {
+        "variable": "df_36",
+        "csv_path": "data/SNZ_2018_consolidated_page59_table1.csv"
+      },
+      {
+        "variable": "df_37",
+        "csv_path": "data/BVH_2019_separate_page44_table1.csv"
+      },
+      {
+        "variable": "df_38",
+        "csv_path": "data/MSB_2025_separate_page54_table0.csv"
+      },
+      {
+        "variable": "df_39",
+        "csv_path": "data/MSB_2025_separate_page54_table0.csv"
+      },
+      {
+        "variable": "df_40",
+        "csv_path": "data/CTG_2019_separate_page47_table0.csv"
+      },
+      {
+        "variable": "df_41",
+        "csv_path": "data/MSB_2024_consolidated_page56_table0.csv"
+      },
+      {
+        "variable": "df_42",
+        "csv_path": "data/MSB_2024_consolidated_page56_table0.csv"
+      },
+      {
+        "variable": "df_43",
+        "csv_path": "data/MSN_2023_separate_page9_table0.csv"
+      },
+      {
+        "variable": "df_44",
+        "csv_path": "data/MSN_2023_separate_page9_table0.csv"
+      },
+      {
+        "variable": "df_45",
+        "csv_path": "data/MSN_2023_separate_page9_table0.csv"
+      },
+      {
+        "variable": "df_46",
+        "csv_path": "data/PC1_2025_consolidated_page59_table0.csv"
+      },
+      {
+        "variable": "df_47",
+        "csv_path": "data/PC1_2025_consolidated_page59_table0.csv"
+      },
+      {
+        "variable": "df_48",
+        "csv_path": "data/VPB_2023_unknown_page59_table0.csv"
+      },
+      {
+        "variable": "df_49",
+        "csv_path": "data/VPB_2023_unknown_page59_table0.csv"
+      },
+      {
+        "variable": "df_50",
+        "csv_path": "data/MSN_2024_separate_page9_table0.csv"
+      },
+      {
+        "variable": "df_51",
+        "csv_path": "data/MSN_2024_separate_page9_table0.csv"
+      },
+      {
+        "variable": "df_52",
+        "csv_path": "data/VGC_2023_consolidated_page66_table0.csv"
+      },
+      {
+        "variable": "df_53",
+        "csv_path": "data/VGC_2023_consolidated_page66_table0.csv"
+      },
+      {
+        "variable": "df_54",
+        "csv_path": "data/VPB_2022_consolidated_page63_table0.csv"
+      },
+      {
+        "variable": "df_55",
+        "csv_path": "data/HPG_2025_consolidated_page50_table0.csv"
+      },
+      {
+        "variable": "df_56",
+        "csv_path": "data/HPG_2025_consolidated_page50_table0.csv"
+      },
+      {
+        "variable": "df_57",
+        "csv_path": "data/CEO_2018_separate_page42_table0.csv"
+      },
+      {
+        "variable": "df_58",
+        "csv_path": "data/MSN_2025_separate_page11_table0.csv"
+      },
+      {
+        "variable": "df_59",
+        "csv_path": "data/MSN_2025_separate_page11_table0.csv"
+      },
+      {
+        "variable": "df_60",
+        "csv_path": "data/MSB_2022_separate_page57_table0.csv"
+      },
+      {
+        "variable": "df_61",
+        "csv_path": "data/MSB_2022_separate_page57_table0.csv"
+      },
+      {
+        "variable": "df_62",
+        "csv_path": "data/MSN_2018_consolidated_page75_table0.csv"
+      },
+      {
+        "variable": "df_63",
+        "csv_path": "data/MCH_2018_consolidated_page29_table0.csv"
+      },
+      {
+        "variable": "df_64",
+        "csv_path": "data/NVB_2024_consolidated_page45_table1.csv"
+      }
+    ],
+    "pandas_query": "result = 1286462.0"
+  },
+  {
+    "id": 90,
+    "question": "Chi phí khấu hao TSCĐ thuộc chi phí quản lý doanh nghiệp của Tập đoàn VINGROUP - CTCP (VIC) năm 2015 là bao nhiêu nghìn tỷ đồng?",
+    "answer": 0.032696324502,
+    "relevant_docs": [
+      "VIC_2015_separate_page69_table0",
+      "VIC_2015_consolidated_page84_table1",
+      "VIC_2015_consolidated_page85_table0",
+      "VIC_2015_separate_page56_table2",
+      "VIC_2015_consolidated_page37_table0",
+      "VIC_2015_consolidated_page102_table0",
+      "VIC_2015_consolidated_page106_table2"
+    ],
+    "relevant_tables": [
+      "VIC_2015_consolidated_page85_table0|1",
+      "VIC_2015_consolidated_page85_table0|1",
+      "VIC_2015_consolidated_page84_table1|1",
+      "VIC_2015_consolidated_page84_table1|1",
+      "VIC_2015_consolidated_page106_table2|1",
+      "VIC_2015_consolidated_page106_table2|1",
+      "VIC_2015_consolidated_page106_table2|1",
+      "VIC_2015_consolidated_page106_table2|1",
+      "VIC_2015_separate_page69_table0|1",
+      "VIC_2015_separate_page56_table2|1",
+      "VIC_2015_separate_page56_table2|1",
+      "VIC_2015_consolidated_page85_table0|1",
+      "VIC_2015_consolidated_page85_table0|1",
+      "VIC_2015_consolidated_page102_table0|1",
+      "VIC_2015_consolidated_page102_table0|1",
+      "VIC_2015_consolidated_page37_table0|1",
+      "VIC_2015_separate_page69_table0|1"
+    ],
+    "evidence": [
+      {
+        "variable": "df_0",
+        "csv_path": "data/VIC_2015_consolidated_page85_table0.csv"
+      },
+      {
+        "variable": "df_1",
+        "csv_path": "data/VIC_2015_consolidated_page85_table0.csv"
+      },
+      {
+        "variable": "df_2",
+        "csv_path": "data/VIC_2015_consolidated_page84_table1.csv"
+      },
+      {
+        "variable": "df_3",
+        "csv_path": "data/VIC_2015_consolidated_page84_table1.csv"
+      },
+      {
+        "variable": "df_4",
+        "csv_path": "data/VIC_2015_consolidated_page106_table2.csv"
+      },
+      {
+        "variable": "df_5",
+        "csv_path": "data/VIC_2015_consolidated_page106_table2.csv"
+      },
+      {
+        "variable": "df_6",
+        "csv_path": "data/VIC_2015_consolidated_page106_table2.csv"
+      },
+      {
+        "variable": "df_7",
+        "csv_path": "data/VIC_2015_consolidated_page106_table2.csv"
+      },
+      {
+        "variable": "df_8",
+        "csv_path": "data/VIC_2015_separate_page69_table0.csv"
+      },
+      {
+        "variable": "df_9",
+        "csv_path": "data/VIC_2015_separate_page56_table2.csv"
+      },
+      {
+        "variable": "df_10",
+        "csv_path": "data/VIC_2015_separate_page56_table2.csv"
+      },
+      {
+        "variable": "df_11",
+        "csv_path": "data/VIC_2015_consolidated_page85_table0.csv"
+      },
+      {
+        "variable": "df_12",
+        "csv_path": "data/VIC_2015_consolidated_page85_table0.csv"
+      },
+      {
+        "variable": "df_13",
+        "csv_path": "data/VIC_2015_consolidated_page102_table0.csv"
+      },
+      {
+        "variable": "df_14",
+        "csv_path": "data/VIC_2015_consolidated_page102_table0.csv"
+      },
+      {
+        "variable": "df_15",
+        "csv_path": "data/VIC_2015_consolidated_page37_table0.csv"
+      },
+      {
+        "variable": "df_16",
+        "csv_path": "data/VIC_2015_separate_page69_table0.csv"
+      }
+    ],
+    "pandas_query": "result = 32696324502.0 / 1e12"
+  },
+  {
+    "id": 91,
+    "question": "Nguyên giá bất động sản đầu tư của công ty mẹ CTCP Vincom Retail (VRE) vào cuối năm 2024 là bao nhiêu triệu đồng?",
+    "answer": 12168956.0,
+    "relevant_docs": [
+      "VRE_2024_separate_page34_table0",
+      "VRE_2024_separate_page39_table1",
+      "VRE_2024_separate_page38_table0",
+      "VRE_2024_separate_page8_table0",
+      "VRE_2024_separate_page40_table0",
+      "VRE_2024_separate_page23_table0",
+      "VRE_2024_separate_page35_table1",
+      "VRE_2024_separate_page33_table2",
+      "VRE_2024_separate_page24_table0",
+      "VRE_2024_separate_page35_table2",
+      "VRE_2024_separate_page39_table0"
+    ],
+    "relevant_tables": [
+      "VRE_2024_separate_page23_table0|1",
+      "VRE_2024_separate_page23_table0|1",
+      "VRE_2024_separate_page34_table0|1",
+      "VRE_2024_separate_page34_table0|1",
+      "VRE_2024_separate_page39_table0|1",
+      "VRE_2024_separate_page39_table0|1",
+      "VRE_2024_separate_page38_table0|1",
+      "VRE_2024_separate_page38_table0|1",
+      "VRE_2024_separate_page40_table0|1",
+      "VRE_2024_separate_page40_table0|1",
+      "VRE_2024_separate_page24_table0|1",
+      "VRE_2024_separate_page24_table0|1",
+      "VRE_2024_separate_page39_table1|1",
+      "VRE_2024_separate_page39_table1|1",
+      "VRE_2024_separate_page8_table0|1",
+      "VRE_2024_separate_page8_table0|1",
+      "VRE_2024_separate_page8_table0|1",
+      "VRE_2024_separate_page33_table2|1",
+      "VRE_2024_separate_page33_table2|1",
+      "VRE_2024_separate_page35_table1|1",
+      "VRE_2024_separate_page35_table1|1",
+      "VRE_2024_separate_page35_table2|1",
+      "VRE_2024_separate_page35_table2|1"
+    ],
+    "evidence": [
+      {
+        "variable": "df_0",
+        "csv_path": "data/VRE_2024_separate_page23_table0.csv"
+      },
+      {
+        "variable": "df_1",
+        "csv_path": "data/VRE_2024_separate_page23_table0.csv"
+      },
+      {
+        "variable": "df_2",
+        "csv_path": "data/VRE_2024_separate_page34_table0.csv"
+      },
+      {
+        "variable": "df_3",
+        "csv_path": "data/VRE_2024_separate_page34_table0.csv"
+      },
+      {
+        "variable": "df_4",
+        "csv_path": "data/VRE_2024_separate_page39_table0.csv"
+      },
+      {
+        "variable": "df_5",
+        "csv_path": "data/VRE_2024_separate_page39_table0.csv"
+      },
+      {
+        "variable": "df_6",
+        "csv_path": "data/VRE_2024_separate_page38_table0.csv"
+      },
+      {
+        "variable": "df_7",
+        "csv_path": "data/VRE_2024_separate_page38_table0.csv"
+      },
+      {
+        "variable": "df_8",
+        "csv_path": "data/VRE_2024_separate_page40_table0.csv"
+      },
+      {
+        "variable": "df_9",
+        "csv_path": "data/VRE_2024_separate_page40_table0.csv"
+      },
+      {
+        "variable": "df_10",
+        "csv_path": "data/VRE_2024_separate_page24_table0.csv"
+      },
+      {
+        "variable": "df_11",
+        "csv_path": "data/VRE_2024_separate_page24_table0.csv"
+      },
+      {
+        "variable": "df_12",
+        "csv_path": "data/VRE_2024_separate_page39_table1.csv"
+      },
+      {
+        "variable": "df_13",
+        "csv_path": "data/VRE_2024_separate_page39_table1.csv"
+      },
+      {
+        "variable": "df_14",
+        "csv_path": "data/VRE_2024_separate_page8_table0.csv"
+      },
+      {
+        "variable": "df_15",
+        "csv_path": "data/VRE_2024_separate_page8_table0.csv"
+      },
+      {
+        "variable": "df_16",
+        "csv_path": "data/VRE_2024_separate_page8_table0.csv"
+      },
+      {
+        "variable": "df_17",
+        "csv_path": "data/VRE_2024_separate_page33_table2.csv"
+      },
+      {
+        "variable": "df_18",
+        "csv_path": "data/VRE_2024_separate_page33_table2.csv"
+      },
+      {
+        "variable": "df_19",
+        "csv_path": "data/VRE_2024_separate_page35_table1.csv"
+      },
+      {
+        "variable": "df_20",
+        "csv_path": "data/VRE_2024_separate_page35_table1.csv"
+      },
+      {
+        "variable": "df_21",
+        "csv_path": "data/VRE_2024_separate_page35_table2.csv"
+      },
+      {
+        "variable": "df_22",
+        "csv_path": "data/VRE_2024_separate_page35_table2.csv"
+      }
+    ],
+    "pandas_query": "result = NUM_0"
+  },
+  {
+    "id": 92,
+    "question": "Tổng cộng tài sản của SSH cuối năm 2025 là bao nhiêu nghìn tỷ đồng?",
+    "answer": 2.040812248393,
+    "relevant_docs": [
+      "SSH_2025_separate_page8_table0",
+      "SSH_2025_separate_page7_table0",
+      "SSH_2025_consolidated_page9_table0",
+      "SSH_2025_consolidated_page8_table0",
+      "SSH_2025_consolidated_page7_table0"
+    ],
+    "relevant_tables": [
+      "SSH_2025_consolidated_page7_table0|1",
+      "SSH_2025_consolidated_page7_table0|1",
+      "SSH_2025_consolidated_page7_table0|1",
+      "SSH_2025_consolidated_page7_table0|1",
+      "SSH_2025_consolidated_page9_table0|1",
+      "SSH_2025_consolidated_page9_table0|1",
+      "SSH_2025_consolidated_page9_table0|1",
+      "SSH_2025_consolidated_page8_table0|1",
+      "SSH_2025_consolidated_page8_table0|1",
+      "SSH_2025_consolidated_page8_table0|1",
+      "SSH_2025_separate_page7_table0|1",
+      "SSH_2025_separate_page7_table0|1",
+      "SSH_2025_separate_page7_table0|1",
+      "SSH_2025_separate_page7_table0|1",
+      "SSH_2025_separate_page8_table0|1",
+      "SSH_2025_separate_page8_table0|1",
+      "SSH_2025_separate_page8_table0|1"
+    ],
+    "evidence": [
+      {
+        "variable": "df_0",
+        "csv_path": "data/SSH_2025_consolidated_page7_table0.csv"
+      },
+      {
+        "variable": "df_1",
+        "csv_path": "data/SSH_2025_consolidated_page7_table0.csv"
+      },
+      {
+        "variable": "df_2",
+        "csv_path": "data/SSH_2025_consolidated_page7_table0.csv"
+      },
+      {
+        "variable": "df_3",
+        "csv_path": "data/SSH_2025_consolidated_page7_table0.csv"
+      },
+      {
+        "variable": "df_4",
+        "csv_path": "data/SSH_2025_consolidated_page9_table0.csv"
+      },
+      {
+        "variable": "df_5",
+        "csv_path": "data/SSH_2025_consolidated_page9_table0.csv"
+      },
+      {
+        "variable": "df_6",
+        "csv_path": "data/SSH_2025_consolidated_page9_table0.csv"
+      },
+      {
+        "variable": "df_7",
+        "csv_path": "data/SSH_2025_consolidated_page8_table0.csv"
+      },
+      {
+        "variable": "df_8",
+        "csv_path": "data/SSH_2025_consolidated_page8_table0.csv"
+      },
+      {
+        "variable": "df_9",
+        "csv_path": "data/SSH_2025_consolidated_page8_table0.csv"
+      },
+      {
+        "variable": "df_10",
+        "csv_path": "data/SSH_2025_separate_page7_table0.csv"
+      },
+      {
+        "variable": "df_11",
+        "csv_path": "data/SSH_2025_separate_page7_table0.csv"
+      },
+      {
+        "variable": "df_12",
+        "csv_path": "data/SSH_2025_separate_page7_table0.csv"
+      },
+      {
+        "variable": "df_13",
+        "csv_path": "data/SSH_2025_separate_page7_table0.csv"
+      },
+      {
+        "variable": "df_14",
+        "csv_path": "data/SSH_2025_separate_page8_table0.csv"
+      },
+      {
+        "variable": "df_15",
+        "csv_path": "data/SSH_2025_separate_page8_table0.csv"
+      },
+      {
+        "variable": "df_16",
+        "csv_path": "data/SSH_2025_separate_page8_table0.csv"
+      }
+    ],
+    "pandas_query": "# Extracting relevant end-of-year asset values from grounded cells\nasset_end_year_values = [692595383511.0, 1339600000000.0, 8616864882.0]\ntotal_assets = sum(asset_end_year_values)\nresult = total_assets / 1e12  # Convert to nghìn tỷ đồng (thousands of billion VND)"
+  },
+  {
+    "id": 93,
+    "question": "Chi phí lãi vay Ngân hàng TMCP Xăng dầu Petrolimex của PLX năm 2022 là bao nhiêu tỷ đồng?",
+    "answer": 2.860257198,
+    "relevant_docs": [
+      "PLX_2022_separate_page9_table0",
+      "PLX_2022_separate_page48_table1",
+      "PLX_2022_separate_page48_table0",
+      "PLX_2022_consolidated_page60_table1",
+      "PLX_2022_separate_page49_table1",
+      "PLX_2022_consolidated_page10_table0",
+      "PLX_2022_consolidated_page30_table0",
+      "PLX_2022_consolidated_page28_table0"
+    ],
+    "relevant_tables": [
+      "PLX_2022_separate_page48_table0|1",
+      "PLX_2022_consolidated_page10_table0|1",
+      "PLX_2022_separate_page9_table0|1",
+      "PLX_2022_separate_page48_table1|1",
+      "PLX_2022_consolidated_page60_table1|1",
+      "PLX_2022_consolidated_page30_table0|1",
+      "PLX_2022_consolidated_page28_table0|1",
+      "PLX_2022_separate_page49_table1|1"
+    ],
+    "evidence": [
+      {
+        "variable": "df_0",
+        "csv_path": "data/PLX_2022_separate_page48_table0.csv"
+      },
+      {
+        "variable": "df_1",
+        "csv_path": "data/PLX_2022_consolidated_page10_table0.csv"
+      },
+      {
+        "variable": "df_2",
+        "csv_path": "data/PLX_2022_separate_page9_table0.csv"
+      },
+      {
+        "variable": "df_3",
+        "csv_path": "data/PLX_2022_separate_page48_table1.csv"
+      },
+      {
+        "variable": "df_4",
+        "csv_path": "data/PLX_2022_consolidated_page60_table1.csv"
+      },
+      {
+        "variable": "df_5",
+        "csv_path": "data/PLX_2022_consolidated_page30_table0.csv"
+      },
+      {
+        "variable": "df_6",
+        "csv_path": "data/PLX_2022_consolidated_page28_table0.csv"
+      },
+      {
+        "variable": "df_7",
+        "csv_path": "data/PLX_2022_separate_page49_table1.csv"
+      }
+    ],
+    "pandas_query": "result = 2860257198.0 / 1e9"
+  },
+  {
+    "id": 94,
+    "question": "Lợi nhuận thuần sau thuế của CTCP Tập đoàn Dabaco Việt Nam năm 2021 là bao nhiêu trăm tỷ đồng?",
+    "answer": 138.4382291476,
+    "relevant_docs": [
+      "HDG_2021_consolidated_page74_table0",
+      "VGT_2016_consolidated_page84_table0",
+      "PLX_2021_consolidated_page10_table0",
+      "KBC_2021_consolidated_page69_table0",
+      "DBC_2021_separate_page53_table0",
+      "KBC_2023_separate_page1_table0",
+      "DBC_2022_consolidated_page52_table0",
+      "DBC_2022_consolidated_page54_table0",
+      "KBC_2021_separate_page62_table0",
+      "DBC_2025_consolidated_page51_table0",
+      "GEX_2019_consolidated_page2_table0",
+      "HDG_2022_consolidated_page68_table0",
+      "GEX_2018_separate_page2_table0",
+      "VGT_2017_consolidated_page82_table0",
+      "DTK_2021_separate_page12_table0",
+      "EIB_2021_consolidated_page55_table0",
+      "VGT_2021_consolidated_page10_table0",
+      "EIB_2022_consolidated_page55_table0",
+      "DTK_2020_consolidated_page12_table0",
+      "VGT_2015_consolidated_page79_table0",
+      "BVH_2021_separate_page67_table5",
+      "HNG_2021_separate_page1_table0",
+      "DBC_2023_separate_page56_table0",
+      "GEX_2018_consolidated_page2_table0",
+      "KBC_2023_consolidated_page1_table0",
+      "NAB_2021_consolidated_page69_table0",
+      "VSC_2021_consolidated_page44_table0",
+      "DBC_2016_consolidated_page47_table0",
+      "DBC_2021_separate_page52_table0",
+      "GEX_2020_separate_page2_table0",
+      "GEX_2020_consolidated_page2_table0",
+      "HNG_2021_consolidated_page1_table0",
+      "GEX_2019_separate_page2_table0",
+      "DBC_2024_separate_page60_table0",
+      "BVH_2017_separate_page66_table0",
+      "GAS_2019_separate_page32_table0",
+      "DTK_2021_consolidated_page12_table0",
+      "DBC_2022_separate_page56_table0",
+      "DBC_2022_separate_page57_table0",
+      "HDG_2023_consolidated_page68_table0"
+    ],
+    "relevant_tables": [
+      "DBC_2021_separate_page52_table0|1",
+      "DBC_2022_separate_page57_table0|1",
+      "DBC_2022_consolidated_page52_table0|1",
+      "DBC_2022_consolidated_page52_table0|1",
+      "KBC_2021_consolidated_page69_table0|1",
+      "KBC_2021_separate_page62_table0|1",
+      "DBC_2021_separate_page53_table0|1",
+      "GEX_2020_separate_page2_table0|1",
+      "GEX_2020_separate_page2_table0|1",
+      "GEX_2020_separate_page2_table0|1",
+      "GEX_2020_separate_page2_table0|1",
+      "DBC_2022_separate_page56_table0|1",
+      "DBC_2025_consolidated_page51_table0|1",
+      "DBC_2025_consolidated_page51_table0|1",
+      "GEX_2020_consolidated_page2_table0|1",
+      "GEX_2020_consolidated_page2_table0|1",
+      "GEX_2020_consolidated_page2_table0|1",
+      "GEX_2020_consolidated_page2_table0|1",
+      "DBC_2016_consolidated_page47_table0|1",
+      "DBC_2016_consolidated_page47_table0|1",
+      "KBC_2023_separate_page1_table0|1",
+      "KBC_2023_separate_page1_table0|1",
+      "KBC_2023_separate_page1_table0|1",
+      "KBC_2023_separate_page1_table0|1",
+      "DBC_2022_consolidated_page54_table0|1",
+      "DBC_2022_consolidated_page54_table0|1",
+      "DBC_2022_consolidated_page54_table0|1",
+      "DBC_2022_consolidated_page54_table0|1",
+      "DBC_2022_consolidated_page54_table0|1",
+      "KBC_2023_consolidated_page1_table0|1",
+      "KBC_2023_consolidated_page1_table0|1",
+      "KBC_2023_consolidated_page1_table0|1",
+      "KBC_2023_consolidated_page1_table0|1",
+      "HNG_2021_separate_page1_table0|1",
+      "BVH_2021_separate_page67_table5|1",
+      "HNG_2021_consolidated_page1_table0|1",
+      "DBC_2023_separate_page56_table0|1",
+      "DTK_2021_consolidated_page12_table0|1",
+      "DBC_2024_separate_page60_table0|1",
+      "GEX_2018_consolidated_page2_table0|1",
+      "GEX_2018_consolidated_page2_table0|1",
+      "GEX_2018_consolidated_page2_table0|1",
+      "GEX_2019_separate_page2_table0|1",
+      "GEX_2019_separate_page2_table0|1",
+      "GEX_2019_separate_page2_table0|1",
+      "GEX_2019_consolidated_page2_table0|1",
+      "GEX_2019_consolidated_page2_table0|1",
+      "GEX_2019_consolidated_page2_table0|1",
+      "NAB_2021_consolidated_page69_table0|1",
+      "BVH_2017_separate_page66_table0|1",
+      "BVH_2017_separate_page66_table0|1",
+      "GEX_2018_separate_page2_table0|1",
+      "GEX_2018_separate_page2_table0|1",
+      "GEX_2018_separate_page2_table0|1",
+      "HDG_2023_consolidated_page68_table0|1",
+      "HDG_2023_consolidated_page68_table0|1",
+      "HDG_2022_consolidated_page68_table0|1",
+      "HDG_2022_consolidated_page68_table0|1",
+      "HDG_2021_consolidated_page74_table0|1",
+      "HDG_2021_consolidated_page74_table0|1",
+      "PLX_2021_consolidated_page10_table0|1",
+      "EIB_2021_consolidated_page55_table0|1",
+      "EIB_2021_consolidated_page55_table0|1",
+      "VGT_2021_consolidated_page10_table0|1",
+      "VGT_2015_consolidated_page79_table0|1",
+      "VGT_2016_consolidated_page84_table0|1",
+      "VGT_2016_consolidated_page84_table0|1",
+      "VGT_2017_consolidated_page82_table0|1",
+      "VGT_2017_consolidated_page82_table0|1",
+      "EIB_2022_consolidated_page55_table0|1",
+      "EIB_2022_consolidated_page55_table0|1",
+      "GAS_2019_separate_page32_table0|1",
+      "GAS_2019_separate_page32_table0|1",
+      "VSC_2021_consolidated_page44_table0|1",
+      "DTK_2021_separate_page12_table0|1",
+      "DTK_2020_consolidated_page12_table0|1",
+      "DTK_2020_consolidated_page12_table0|1",
+      "DTK_2020_consolidated_page12_table0|1"
+    ],
+    "evidence": [
+      {
+        "variable": "df_0",
+        "csv_path": "data/DBC_2021_separate_page52_table0.csv"
+      },
+      {
+        "variable": "df_1",
+        "csv_path": "data/DBC_2022_separate_page57_table0.csv"
+      },
+      {
+        "variable": "df_2",
+        "csv_path": "data/DBC_2022_consolidated_page52_table0.csv"
+      },
+      {
+        "variable": "df_3",
+        "csv_path": "data/DBC_2022_consolidated_page52_table0.csv"
+      },
+      {
+        "variable": "df_4",
+        "csv_path": "data/KBC_2021_consolidated_page69_table0.csv"
+      },
+      {
+        "variable": "df_5",
+        "csv_path": "data/KBC_2021_separate_page62_table0.csv"
+      },
+      {
+        "variable": "df_6",
+        "csv_path": "data/DBC_2021_separate_page53_table0.csv"
+      },
+      {
+        "variable": "df_7",
+        "csv_path": "data/GEX_2020_separate_page2_table0.csv"
+      },
+      {
+        "variable": "df_8",
+        "csv_path": "data/GEX_2020_separate_page2_table0.csv"
+      },
+      {
+        "variable": "df_9",
+        "csv_path": "data/GEX_2020_separate_page2_table0.csv"
+      },
+      {
+        "variable": "df_10",
+        "csv_path": "data/GEX_2020_separate_page2_table0.csv"
+      },
+      {
+        "variable": "df_11",
+        "csv_path": "data/DBC_2022_separate_page56_table0.csv"
+      },
+      {
+        "variable": "df_12",
+        "csv_path": "data/DBC_2025_consolidated_page51_table0.csv"
+      },
+      {
+        "variable": "df_13",
+        "csv_path": "data/DBC_2025_consolidated_page51_table0.csv"
+      },
+      {
+        "variable": "df_14",
+        "csv_path": "data/GEX_2020_consolidated_page2_table0.csv"
+      },
+      {
+        "variable": "df_15",
+        "csv_path": "data/GEX_2020_consolidated_page2_table0.csv"
+      },
+      {
+        "variable": "df_16",
+        "csv_path": "data/GEX_2020_consolidated_page2_table0.csv"
+      },
+      {
+        "variable": "df_17",
+        "csv_path": "data/GEX_2020_consolidated_page2_table0.csv"
+      },
+      {
+        "variable": "df_18",
+        "csv_path": "data/DBC_2016_consolidated_page47_table0.csv"
+      },
+      {
+        "variable": "df_19",
+        "csv_path": "data/DBC_2016_consolidated_page47_table0.csv"
+      },
+      {
+        "variable": "df_20",
+        "csv_path": "data/KBC_2023_separate_page1_table0.csv"
+      },
+      {
+        "variable": "df_21",
+        "csv_path": "data/KBC_2023_separate_page1_table0.csv"
+      },
+      {
+        "variable": "df_22",
+        "csv_path": "data/KBC_2023_separate_page1_table0.csv"
+      },
+      {
+        "variable": "df_23",
+        "csv_path": "data/KBC_2023_separate_page1_table0.csv"
+      },
+      {
+        "variable": "df_24",
+        "csv_path": "data/DBC_2022_consolidated_page54_table0.csv"
+      },
+      {
+        "variable": "df_25",
+        "csv_path": "data/DBC_2022_consolidated_page54_table0.csv"
+      },
+      {
+        "variable": "df_26",
+        "csv_path": "data/DBC_2022_consolidated_page54_table0.csv"
+      },
+      {
+        "variable": "df_27",
+        "csv_path": "data/DBC_2022_consolidated_page54_table0.csv"
+      },
+      {
+        "variable": "df_28",
+        "csv_path": "data/DBC_2022_consolidated_page54_table0.csv"
+      },
+      {
+        "variable": "df_29",
+        "csv_path": "data/KBC_2023_consolidated_page1_table0.csv"
+      },
+      {
+        "variable": "df_30",
+        "csv_path": "data/KBC_2023_consolidated_page1_table0.csv"
+      },
+      {
+        "variable": "df_31",
+        "csv_path": "data/KBC_2023_consolidated_page1_table0.csv"
+      },
+      {
+        "variable": "df_32",
+        "csv_path": "data/KBC_2023_consolidated_page1_table0.csv"
+      },
+      {
+        "variable": "df_33",
+        "csv_path": "data/HNG_2021_separate_page1_table0.csv"
+      },
+      {
+        "variable": "df_34",
+        "csv_path": "data/BVH_2021_separate_page67_table5.csv"
+      },
+      {
+        "variable": "df_35",
+        "csv_path": "data/HNG_2021_consolidated_page1_table0.csv"
+      },
+      {
+        "variable": "df_36",
+        "csv_path": "data/DBC_2023_separate_page56_table0.csv"
+      },
+      {
+        "variable": "df_37",
+        "csv_path": "data/DTK_2021_consolidated_page12_table0.csv"
+      },
+      {
+        "variable": "df_38",
+        "csv_path": "data/DBC_2024_separate_page60_table0.csv"
+      },
+      {
+        "variable": "df_39",
+        "csv_path": "data/GEX_2018_consolidated_page2_table0.csv"
+      },
+      {
+        "variable": "df_40",
+        "csv_path": "data/GEX_2018_consolidated_page2_table0.csv"
+      },
+      {
+        "variable": "df_41",
+        "csv_path": "data/GEX_2018_consolidated_page2_table0.csv"
+      },
+      {
+        "variable": "df_42",
+        "csv_path": "data/GEX_2019_separate_page2_table0.csv"
+      },
+      {
+        "variable": "df_43",
+        "csv_path": "data/GEX_2019_separate_page2_table0.csv"
+      },
+      {
+        "variable": "df_44",
+        "csv_path": "data/GEX_2019_separate_page2_table0.csv"
+      },
+      {
+        "variable": "df_45",
+        "csv_path": "data/GEX_2019_consolidated_page2_table0.csv"
+      },
+      {
+        "variable": "df_46",
+        "csv_path": "data/GEX_2019_consolidated_page2_table0.csv"
+      },
+      {
+        "variable": "df_47",
+        "csv_path": "data/GEX_2019_consolidated_page2_table0.csv"
+      },
+      {
+        "variable": "df_48",
+        "csv_path": "data/NAB_2021_consolidated_page69_table0.csv"
+      },
+      {
+        "variable": "df_49",
+        "csv_path": "data/BVH_2017_separate_page66_table0.csv"
+      },
+      {
+        "variable": "df_50",
+        "csv_path": "data/BVH_2017_separate_page66_table0.csv"
+      },
+      {
+        "variable": "df_51",
+        "csv_path": "data/GEX_2018_separate_page2_table0.csv"
+      },
+      {
+        "variable": "df_52",
+        "csv_path": "data/GEX_2018_separate_page2_table0.csv"
+      },
+      {
+        "variable": "df_53",
+        "csv_path": "data/GEX_2018_separate_page2_table0.csv"
+      },
+      {
+        "variable": "df_54",
+        "csv_path": "data/HDG_2023_consolidated_page68_table0.csv"
+      },
+      {
+        "variable": "df_55",
+        "csv_path": "data/HDG_2023_consolidated_page68_table0.csv"
+      },
+      {
+        "variable": "df_56",
+        "csv_path": "data/HDG_2022_consolidated_page68_table0.csv"
+      },
+      {
+        "variable": "df_57",
+        "csv_path": "data/HDG_2022_consolidated_page68_table0.csv"
+      },
+      {
+        "variable": "df_58",
+        "csv_path": "data/HDG_2021_consolidated_page74_table0.csv"
+      },
+      {
+        "variable": "df_59",
+        "csv_path": "data/HDG_2021_consolidated_page74_table0.csv"
+      },
+      {
+        "variable": "df_60",
+        "csv_path": "data/PLX_2021_consolidated_page10_table0.csv"
+      },
+      {
+        "variable": "df_61",
+        "csv_path": "data/EIB_2021_consolidated_page55_table0.csv"
+      },
+      {
+        "variable": "df_62",
+        "csv_path": "data/EIB_2021_consolidated_page55_table0.csv"
+      },
+      {
+        "variable": "df_63",
+        "csv_path": "data/VGT_2021_consolidated_page10_table0.csv"
+      },
+      {
+        "variable": "df_64",
+        "csv_path": "data/VGT_2015_consolidated_page79_table0.csv"
+      },
+      {
+        "variable": "df_65",
+        "csv_path": "data/VGT_2016_consolidated_page84_table0.csv"
+      },
+      {
+        "variable": "df_66",
+        "csv_path": "data/VGT_2016_consolidated_page84_table0.csv"
+      },
+      {
+        "variable": "df_67",
+        "csv_path": "data/VGT_2017_consolidated_page82_table0.csv"
+      },
+      {
+        "variable": "df_68",
+        "csv_path": "data/VGT_2017_consolidated_page82_table0.csv"
+      },
+      {
+        "variable": "df_69",
+        "csv_path": "data/EIB_2022_consolidated_page55_table0.csv"
+      },
+      {
+        "variable": "df_70",
+        "csv_path": "data/EIB_2022_consolidated_page55_table0.csv"
+      },
+      {
+        "variable": "df_71",
+        "csv_path": "data/GAS_2019_separate_page32_table0.csv"
+      },
+      {
+        "variable": "df_72",
+        "csv_path": "data/GAS_2019_separate_page32_table0.csv"
+      },
+      {
+        "variable": "df_73",
+        "csv_path": "data/VSC_2021_consolidated_page44_table0.csv"
+      },
+      {
+        "variable": "df_74",
+        "csv_path": "data/DTK_2021_separate_page12_table0.csv"
+      },
+      {
+        "variable": "df_75",
+        "csv_path": "data/DTK_2020_consolidated_page12_table0.csv"
+      },
+      {
+        "variable": "df_76",
+        "csv_path": "data/DTK_2020_consolidated_page12_table0.csv"
+      },
+      {
+        "variable": "df_77",
+        "csv_path": "data/DTK_2020_consolidated_page12_table0.csv"
+      }
+    ],
+    "pandas_query": "result = NUM_0 / 1e10"
+  },
+  {
+    "id": 96,
+    "question": "Chi phí trả trước ngắn hạn khác của Tập đoàn Dệt May Việt Nam cuối năm 2025 là bao nhiêu triệu đồng?",
+    "answer": 4608135385.0,
+    "relevant_docs": [
+      "VGT_2023_separate_page29_table0",
+      "DBC_2025_consolidated_page36_table0",
+      "VGT_2018_separate_page31_table0",
+      "VGT_2017_consolidated_page60_table0",
+      "VGT_2025_separate_page8_table0",
+      "VGT_2025_consolidated_page8_table0",
+      "VGT_2019_consolidated_page56_table0",
+      "VGT_2020_separate_page31_table0",
+      "VGT_2023_separate_page48_table0",
+      "VGT_2015_consolidated_page67_table0",
+      "VGT_2016_consolidated_page61_table0",
+      "VGT_2025_separate_page6_table0",
+      "VGT_2025_separate_page30_table0",
+      "VGT_2024_separate_page29_table0",
+      "VGT_2020_consolidated_page53_table0",
+      "VGT_2025_consolidated_page53_table0",
+      "VGT_2021_consolidated_page52_table0",
+      "VGT_2021_separate_page30_table0",
+      "VGT_2022_separate_page30_table0",
+      "VGT_2015_consolidated_page56_table0",
+      "VGT_2022_consolidated_page54_table0"
+    ],
+    "relevant_tables": [
+      "VGT_2025_consolidated_page53_table0|1",
+      "VGT_2025_consolidated_page53_table0|1",
+      "VGT_2022_consolidated_page54_table0|1",
+      "VGT_2022_consolidated_page54_table0|1",
+      "VGT_2015_consolidated_page56_table0|1",
+      "VGT_2015_consolidated_page56_table0|1",
+      "VGT_2021_separate_page30_table0|1",
+      "VGT_2021_separate_page30_table0|1",
+      "VGT_2017_consolidated_page60_table0|1",
+      "VGT_2017_consolidated_page60_table0|1",
+      "VGT_2022_separate_page30_table0|1",
+      "VGT_2022_separate_page30_table0|1",
+      "VGT_2023_separate_page29_table0|1",
+      "VGT_2023_separate_page29_table0|1",
+      "VGT_2016_consolidated_page61_table0|1",
+      "VGT_2016_consolidated_page61_table0|1",
+      "VGT_2024_separate_page29_table0|1",
+      "VGT_2024_separate_page29_table0|1",
+      "VGT_2020_separate_page31_table0|1",
+      "VGT_2020_separate_page31_table0|1",
+      "VGT_2019_consolidated_page56_table0|1",
+      "VGT_2019_consolidated_page56_table0|1",
+      "VGT_2025_separate_page8_table0|1",
+      "VGT_2025_separate_page8_table0|1",
+      "VGT_2023_separate_page48_table0|1",
+      "VGT_2023_separate_page48_table0|1",
+      "VGT_2021_consolidated_page52_table0|1",
+      "VGT_2021_consolidated_page52_table0|1",
+      "VGT_2025_separate_page30_table0|1",
+      "VGT_2025_separate_page30_table0|1",
+      "VGT_2018_separate_page31_table0|1",
+      "VGT_2018_separate_page31_table0|1",
+      "VGT_2025_separate_page6_table0|1",
+      "VGT_2025_separate_page6_table0|1",
+      "VGT_2015_consolidated_page67_table0|1",
+      "VGT_2015_consolidated_page67_table0|1",
+      "VGT_2025_consolidated_page8_table0|1",
+      "VGT_2025_consolidated_page8_table0|1",
+      "DBC_2025_consolidated_page36_table0|1",
+      "DBC_2025_consolidated_page36_table0|1",
+      "VGT_2020_consolidated_page53_table0|1"
+    ],
+    "evidence": [
+      {
+        "variable": "df_0",
+        "csv_path": "data/VGT_2025_consolidated_page53_table0.csv"
+      },
+      {
+        "variable": "df_1",
+        "csv_path": "data/VGT_2025_consolidated_page53_table0.csv"
+      },
+      {
+        "variable": "df_2",
+        "csv_path": "data/VGT_2022_consolidated_page54_table0.csv"
+      },
+      {
+        "variable": "df_3",
+        "csv_path": "data/VGT_2022_consolidated_page54_table0.csv"
+      },
+      {
+        "variable": "df_4",
+        "csv_path": "data/VGT_2015_consolidated_page56_table0.csv"
+      },
+      {
+        "variable": "df_5",
+        "csv_path": "data/VGT_2015_consolidated_page56_table0.csv"
+      },
+      {
+        "variable": "df_6",
+        "csv_path": "data/VGT_2021_separate_page30_table0.csv"
+      },
+      {
+        "variable": "df_7",
+        "csv_path": "data/VGT_2021_separate_page30_table0.csv"
+      },
+      {
+        "variable": "df_8",
+        "csv_path": "data/VGT_2017_consolidated_page60_table0.csv"
+      },
+      {
+        "variable": "df_9",
+        "csv_path": "data/VGT_2017_consolidated_page60_table0.csv"
+      },
+      {
+        "variable": "df_10",
+        "csv_path": "data/VGT_2022_separate_page30_table0.csv"
+      },
+      {
+        "variable": "df_11",
+        "csv_path": "data/VGT_2022_separate_page30_table0.csv"
+      },
+      {
+        "variable": "df_12",
+        "csv_path": "data/VGT_2023_separate_page29_table0.csv"
+      },
+      {
+        "variable": "df_13",
+        "csv_path": "data/VGT_2023_separate_page29_table0.csv"
+      },
+      {
+        "variable": "df_14",
+        "csv_path": "data/VGT_2016_consolidated_page61_table0.csv"
+      },
+      {
+        "variable": "df_15",
+        "csv_path": "data/VGT_2016_consolidated_page61_table0.csv"
+      },
+      {
+        "variable": "df_16",
+        "csv_path": "data/VGT_2024_separate_page29_table0.csv"
+      },
+      {
+        "variable": "df_17",
+        "csv_path": "data/VGT_2024_separate_page29_table0.csv"
+      },
+      {
+        "variable": "df_18",
+        "csv_path": "data/VGT_2020_separate_page31_table0.csv"
+      },
+      {
+        "variable": "df_19",
+        "csv_path": "data/VGT_2020_separate_page31_table0.csv"
+      },
+      {
+        "variable": "df_20",
+        "csv_path": "data/VGT_2019_consolidated_page56_table0.csv"
+      },
+      {
+        "variable": "df_21",
+        "csv_path": "data/VGT_2019_consolidated_page56_table0.csv"
+      },
+      {
+        "variable": "df_22",
+        "csv_path": "data/VGT_2025_separate_page8_table0.csv"
+      },
+      {
+        "variable": "df_23",
+        "csv_path": "data/VGT_2025_separate_page8_table0.csv"
+      },
+      {
+        "variable": "df_24",
+        "csv_path": "data/VGT_2023_separate_page48_table0.csv"
+      },
+      {
+        "variable": "df_25",
+        "csv_path": "data/VGT_2023_separate_page48_table0.csv"
+      },
+      {
+        "variable": "df_26",
+        "csv_path": "data/VGT_2021_consolidated_page52_table0.csv"
+      },
+      {
+        "variable": "df_27",
+        "csv_path": "data/VGT_2021_consolidated_page52_table0.csv"
+      },
+      {
+        "variable": "df_28",
+        "csv_path": "data/VGT_2025_separate_page30_table0.csv"
+      },
+      {
+        "variable": "df_29",
+        "csv_path": "data/VGT_2025_separate_page30_table0.csv"
+      },
+      {
+        "variable": "df_30",
+        "csv_path": "data/VGT_2018_separate_page31_table0.csv"
+      },
+      {
+        "variable": "df_31",
+        "csv_path": "data/VGT_2018_separate_page31_table0.csv"
+      },
+      {
+        "variable": "df_32",
+        "csv_path": "data/VGT_2025_separate_page6_table0.csv"
+      },
+      {
+        "variable": "df_33",
+        "csv_path": "data/VGT_2025_separate_page6_table0.csv"
+      },
+      {
+        "variable": "df_34",
+        "csv_path": "data/VGT_2015_consolidated_page67_table0.csv"
+      },
+      {
+        "variable": "df_35",
+        "csv_path": "data/VGT_2015_consolidated_page67_table0.csv"
+      },
+      {
+        "variable": "df_36",
+        "csv_path": "data/VGT_2025_consolidated_page8_table0.csv"
+      },
+      {
+        "variable": "df_37",
+        "csv_path": "data/VGT_2025_consolidated_page8_table0.csv"
+      },
+      {
+        "variable": "df_38",
+        "csv_path": "data/DBC_2025_consolidated_page36_table0.csv"
+      },
+      {
+        "variable": "df_39",
+        "csv_path": "data/DBC_2025_consolidated_page36_table0.csv"
+      },
+      {
+        "variable": "df_40",
+        "csv_path": "data/VGT_2020_consolidated_page53_table0.csv"
+      }
+    ],
+    "pandas_query": "result = NUM_38"
+  },
+  {
+    "id": 97,
+    "question": "Tỷ lệ sở hữu Công ty CP Gang thép Hòa Phát của HPG đến ngày 31/12/2023 là bao nhiêu %?",
+    "answer": 0.99988,
+    "relevant_docs": [
+      "HPG_2023_separate_page27_table0",
+      "HPG_2023_separate_page21_table0",
+      "HPG_2023_separate_page37_table0",
+      "HPG_2023_separate_page20_table0",
+      "HPG_2023_separate_page39_table0",
+      "HPG_2023_separate_page22_table0",
+      "HPG_2023_separate_page38_table0"
+    ],
+    "relevant_tables": [
+      "HPG_2023_separate_page27_table0|1",
+      "HPG_2023_separate_page27_table0|1",
+      "HPG_2023_separate_page27_table0|1",
+      "HPG_2023_separate_page27_table0|1",
+      "HPG_2023_separate_page27_table0|1",
+      "HPG_2023_separate_page27_table0|1",
+      "HPG_2023_separate_page37_table0|1",
+      "HPG_2023_separate_page37_table0|1",
+      "HPG_2023_separate_page38_table0|1",
+      "HPG_2023_separate_page38_table0|1",
+      "HPG_2023_separate_page22_table0|1",
+      "HPG_2023_separate_page39_table0|1",
+      "HPG_2023_separate_page21_table0|1",
+      "HPG_2023_separate_page21_table0|1",
+      "HPG_2023_separate_page20_table0|1",
+      "HPG_2023_separate_page20_table0|1"
+    ],
+    "evidence": [
+      {
+        "variable": "df_0",
+        "csv_path": "data/HPG_2023_separate_page27_table0.csv"
+      },
+      {
+        "variable": "df_1",
+        "csv_path": "data/HPG_2023_separate_page27_table0.csv"
+      },
+      {
+        "variable": "df_2",
+        "csv_path": "data/HPG_2023_separate_page27_table0.csv"
+      },
+      {
+        "variable": "df_3",
+        "csv_path": "data/HPG_2023_separate_page27_table0.csv"
+      },
+      {
+        "variable": "df_4",
+        "csv_path": "data/HPG_2023_separate_page27_table0.csv"
+      },
+      {
+        "variable": "df_5",
+        "csv_path": "data/HPG_2023_separate_page27_table0.csv"
+      },
+      {
+        "variable": "df_6",
+        "csv_path": "data/HPG_2023_separate_page37_table0.csv"
+      },
+      {
+        "variable": "df_7",
+        "csv_path": "data/HPG_2023_separate_page37_table0.csv"
+      },
+      {
+        "variable": "df_8",
+        "csv_path": "data/HPG_2023_separate_page38_table0.csv"
+      },
+      {
+        "variable": "df_9",
+        "csv_path": "data/HPG_2023_separate_page38_table0.csv"
+      },
+      {
+        "variable": "df_10",
+        "csv_path": "data/HPG_2023_separate_page22_table0.csv"
+      },
+      {
+        "variable": "df_11",
+        "csv_path": "data/HPG_2023_separate_page39_table0.csv"
+      },
+      {
+        "variable": "df_12",
+        "csv_path": "data/HPG_2023_separate_page21_table0.csv"
+      },
+      {
+        "variable": "df_13",
+        "csv_path": "data/HPG_2023_separate_page21_table0.csv"
+      },
+      {
+        "variable": "df_14",
+        "csv_path": "data/HPG_2023_separate_page20_table0.csv"
+      },
+      {
+        "variable": "df_15",
+        "csv_path": "data/HPG_2023_separate_page20_table0.csv"
+      }
+    ],
+    "pandas_query": "result = 0.99988"
+  },
+  {
+    "id": 98,
+    "question": "Tổng giá trị hàng tồn kho của công ty mẹ CTCP Tasco vào cuối năm 2024 là bao nhiêu tỷ đồng?",
+    "answer": 100479759917.0,
+    "relevant_docs": [
+      "GEE_2025_consolidated_page36_table0",
+      "BVH_2024_consolidated_page45_table1",
+      "BVH_2017_consolidated_page49_table1",
+      "KBC_2021_separate_page32_table0",
+      "BVH_2023_consolidated_page49_table1",
+      "VIC_2021_consolidated_page45_table0",
+      "VIC_2025_consolidated_page50_table0",
+      "DCM_2025_separate_page27_table0",
+      "GAS_2025_separate_page34_table0",
+      "HHV_2019_consolidated_page37_table0",
+      "HHV_2019_consolidated_page34_table0",
+      "GAS_2025_consolidated_page35_table0",
+      "BVH_2021_consolidated_page46_table1",
+      "HSG_2024_consolidated_page30_table0",
+      "DPM_2024_consolidated_page28_table1",
+      "BVH_2022_consolidated_page47_table1",
+      "BVH_2025_consolidated_page47_table1",
+      "GEX_2024_consolidated_page44_table0",
+      "FIT_2018_consolidated_page27_table1",
+      "HUT_2024_separate_page37_table0",
+      "MWG_2015_consolidated_page20_table1",
+      "BVH_2019_consolidated_page45_table1",
+      "HUT_2022_consolidated_page29_table0",
+      "SCR_2024_consolidated_page36_table0",
+      "DBC_2024_separate_page32_table0",
+      "BVH_2016_consolidated_page48_table1",
+      "PNJ_2024_separate_page25_table1",
+      "HSG_2025_separate_page30_table0",
+      "VIC_2024_consolidated_page51_table0",
+      "VSF_2017_separate_page29_table0",
+      "PNJ_2024_consolidated_page25_table1",
+      "AAA_2024_separate_page33_table0",
+      "SCR_2024_separate_page36_table0",
+      "HUT_2022_separate_page27_table0",
+      "GEX_2025_consolidated_page53_table1",
+      "SCR_2025_consolidated_page36_table0",
+      "BVH_2020_consolidated_page45_table1",
+      "HSG_2024_separate_page30_table0",
+      "DBC_2016_separate_page27_table1",
+      "BVH_2018_consolidated_page48_table1",
+      "DTK_2019_separate_page28_table0",
+      "GEE_2024_consolidated_page33_table1",
+      "FIT_2020_consolidated_page36_table1",
+      "NKG_2025_consolidated_page30_table0",
+      "FIT_2017_consolidated_page26_table1",
+      "HSG_2025_consolidated_page29_table0",
+      "DBC_2022_separate_page29_table1",
+      "DCM_2025_consolidated_page28_table1"
+    ],
+    "relevant_tables": [
+      "VIC_2024_consolidated_page51_table0|1",
+      "VIC_2024_consolidated_page51_table0|1",
+      "VIC_2024_consolidated_page51_table0|1",
+      "VIC_2024_consolidated_page51_table0|1",
+      "GEE_2024_consolidated_page33_table1|1",
+      "GEE_2024_consolidated_page33_table1|1",
+      "GEE_2024_consolidated_page33_table1|1",
+      "GEX_2025_consolidated_page53_table1|1",
+      "GEX_2025_consolidated_page53_table1|1",
+      "GEX_2025_consolidated_page53_table1|1",
+      "GEX_2025_consolidated_page53_table1|1",
+      "HSG_2024_consolidated_page30_table0|1",
+      "HSG_2024_consolidated_page30_table0|1",
+      "BVH_2024_consolidated_page45_table1|1",
+      "DBC_2024_separate_page32_table0|1",
+      "DBC_2024_separate_page32_table0|1",
+      "HUT_2024_separate_page37_table0|1",
+      "HUT_2024_separate_page37_table0|1",
+      "VIC_2025_consolidated_page50_table0|1",
+      "VIC_2025_consolidated_page50_table0|1",
+      "VIC_2025_consolidated_page50_table0|1",
+      "VIC_2025_consolidated_page50_table0|1",
+      "GEE_2025_consolidated_page36_table0|1",
+      "GEE_2025_consolidated_page36_table0|1",
+      "HSG_2025_separate_page30_table0|1",
+      "HSG_2025_separate_page30_table0|1",
+      "HSG_2024_separate_page30_table0|1",
+      "HSG_2024_separate_page30_table0|1",
+      "HSG_2025_consolidated_page29_table0|1",
+      "HSG_2025_consolidated_page29_table0|1",
+      "HUT_2022_consolidated_page29_table0|1",
+      "HUT_2022_consolidated_page29_table0|1",
+      "PNJ_2024_consolidated_page25_table1|1",
+      "PNJ_2024_consolidated_page25_table1|1",
+      "HHV_2019_consolidated_page34_table0|1",
+      "HHV_2019_consolidated_page34_table0|1",
+      "BVH_2016_consolidated_page48_table1|1",
+      "BVH_2016_consolidated_page48_table1|1",
+      "BVH_2025_consolidated_page47_table1|1",
+      "PNJ_2024_separate_page25_table1|1",
+      "PNJ_2024_separate_page25_table1|1",
+      "NKG_2025_consolidated_page30_table0|1",
+      "SCR_2024_consolidated_page36_table0|1",
+      "SCR_2024_consolidated_page36_table0|1",
+      "SCR_2024_consolidated_page36_table0|1",
+      "SCR_2024_consolidated_page36_table0|1",
+      "DCM_2025_consolidated_page28_table1|1",
+      "DCM_2025_consolidated_page28_table1|1",
+      "DCM_2025_consolidated_page28_table1|1",
+      "DCM_2025_consolidated_page28_table1|1",
+      "HUT_2022_separate_page27_table0|1",
+      "BVH_2017_consolidated_page49_table1|1",
+      "BVH_2017_consolidated_page49_table1|1",
+      "SCR_2024_separate_page36_table0|1",
+      "SCR_2024_separate_page36_table0|1",
+      "SCR_2024_separate_page36_table0|1",
+      "SCR_2024_separate_page36_table0|1",
+      "BVH_2023_consolidated_page49_table1|1",
+      "BVH_2023_consolidated_page49_table1|1",
+      "BVH_2022_consolidated_page47_table1|1",
+      "BVH_2022_consolidated_page47_table1|1",
+      "FIT_2020_consolidated_page36_table1|1",
+      "FIT_2020_consolidated_page36_table1|1",
+      "FIT_2020_consolidated_page36_table1|1",
+      "FIT_2020_consolidated_page36_table1|1",
+      "DPM_2024_consolidated_page28_table1|1",
+      "DPM_2024_consolidated_page28_table1|1",
+      "BVH_2021_consolidated_page46_table1|1",
+      "BVH_2021_consolidated_page46_table1|1",
+      "VIC_2021_consolidated_page45_table0|1",
+      "VIC_2021_consolidated_page45_table0|1",
+      "VIC_2021_consolidated_page45_table0|1",
+      "VIC_2021_consolidated_page45_table0|1",
+      "DBC_2016_separate_page27_table1|1",
+      "DBC_2016_separate_page27_table1|1",
+      "DBC_2022_separate_page29_table1|1",
+      "DBC_2022_separate_page29_table1|1",
+      "HHV_2019_consolidated_page37_table0|1",
+      "HHV_2019_consolidated_page37_table0|1",
+      "GAS_2025_separate_page34_table0|1",
+      "GAS_2025_separate_page34_table0|1",
+      "GEX_2024_consolidated_page44_table0|1",
+      "GEX_2024_consolidated_page44_table0|1",
+      "GEX_2024_consolidated_page44_table0|1",
+      "GEX_2024_consolidated_page44_table0|1",
+      "GAS_2025_consolidated_page35_table0|1",
+      "GAS_2025_consolidated_page35_table0|1",
+      "AAA_2024_separate_page33_table0|1",
+      "AAA_2024_separate_page33_table0|1",
+      "BVH_2018_consolidated_page48_table1|1",
+      "BVH_2018_consolidated_page48_table1|1",
+      "MWG_2015_consolidated_page20_table1|1",
+      "MWG_2015_consolidated_page20_table1|1",
+      "BVH_2020_consolidated_page45_table1|1",
+      "BVH_2020_consolidated_page45_table1|1",
+      "SCR_2025_consolidated_page36_table0|1",
+      "SCR_2025_consolidated_page36_table0|1",
+      "SCR_2025_consolidated_page36_table0|1",
+      "SCR_2025_consolidated_page36_table0|1",
+      "BVH_2019_consolidated_page45_table1|1",
+      "BVH_2019_consolidated_page45_table1|1",
+      "FIT_2018_consolidated_page27_table1|1",
+      "FIT_2018_consolidated_page27_table1|1",
+      "FIT_2018_consolidated_page27_table1|1",
+      "FIT_2018_consolidated_page27_table1|1",
+      "FIT_2017_consolidated_page26_table1|1",
+      "FIT_2017_consolidated_page26_table1|1",
+      "FIT_2017_consolidated_page26_table1|1",
+      "FIT_2017_consolidated_page26_table1|1",
+      "KBC_2021_separate_page32_table0|1",
+      "DCM_2025_separate_page27_table0|1",
+      "DCM_2025_separate_page27_table0|1",
+      "DCM_2025_separate_page27_table0|1",
+      "DCM_2025_separate_page27_table0|1",
+      "VSF_2017_separate_page29_table0|1",
+      "VSF_2017_separate_page29_table0|1",
+      "VSF_2017_separate_page29_table0|1",
+      "VSF_2017_separate_page29_table0|1",
+      "DTK_2019_separate_page28_table0|1",
+      "DTK_2019_separate_page28_table0|1"
+    ],
+    "evidence": [
+      {
+        "variable": "df_0",
+        "csv_path": "data/VIC_2024_consolidated_page51_table0.csv"
+      },
+      {
+        "variable": "df_1",
+        "csv_path": "data/VIC_2024_consolidated_page51_table0.csv"
+      },
+      {
+        "variable": "df_2",
+        "csv_path": "data/VIC_2024_consolidated_page51_table0.csv"
+      },
+      {
+        "variable": "df_3",
+        "csv_path": "data/VIC_2024_consolidated_page51_table0.csv"
+      },
+      {
+        "variable": "df_4",
+        "csv_path": "data/GEE_2024_consolidated_page33_table1.csv"
+      },
+      {
+        "variable": "df_5",
+        "csv_path": "data/GEE_2024_consolidated_page33_table1.csv"
+      },
+      {
+        "variable": "df_6",
+        "csv_path": "data/GEE_2024_consolidated_page33_table1.csv"
+      },
+      {
+        "variable": "df_7",
+        "csv_path": "data/GEX_2025_consolidated_page53_table1.csv"
+      },
+      {
+        "variable": "df_8",
+        "csv_path": "data/GEX_2025_consolidated_page53_table1.csv"
+      },
+      {
+        "variable": "df_9",
+        "csv_path": "data/GEX_2025_consolidated_page53_table1.csv"
+      },
+      {
+        "variable": "df_10",
+        "csv_path": "data/GEX_2025_consolidated_page53_table1.csv"
+      },
+      {
+        "variable": "df_11",
+        "csv_path": "data/HSG_2024_consolidated_page30_table0.csv"
+      },
+      {
+        "variable": "df_12",
+        "csv_path": "data/HSG_2024_consolidated_page30_table0.csv"
+      },
+      {
+        "variable": "df_13",
+        "csv_path": "data/BVH_2024_consolidated_page45_table1.csv"
+      },
+      {
+        "variable": "df_14",
+        "csv_path": "data/DBC_2024_separate_page32_table0.csv"
+      },
+      {
+        "variable": "df_15",
+        "csv_path": "data/DBC_2024_separate_page32_table0.csv"
+      },
+      {
+        "variable": "df_16",
+        "csv_path": "data/HUT_2024_separate_page37_table0.csv"
+      },
+      {
+        "variable": "df_17",
+        "csv_path": "data/HUT_2024_separate_page37_table0.csv"
+      },
+      {
+        "variable": "df_18",
+        "csv_path": "data/VIC_2025_consolidated_page50_table0.csv"
+      },
+      {
+        "variable": "df_19",
+        "csv_path": "data/VIC_2025_consolidated_page50_table0.csv"
+      },
+      {
+        "variable": "df_20",
+        "csv_path": "data/VIC_2025_consolidated_page50_table0.csv"
+      },
+      {
+        "variable": "df_21",
+        "csv_path": "data/VIC_2025_consolidated_page50_table0.csv"
+      },
+      {
+        "variable": "df_22",
+        "csv_path": "data/GEE_2025_consolidated_page36_table0.csv"
+      },
+      {
+        "variable": "df_23",
+        "csv_path": "data/GEE_2025_consolidated_page36_table0.csv"
+      },
+      {
+        "variable": "df_24",
+        "csv_path": "data/HSG_2025_separate_page30_table0.csv"
+      },
+      {
+        "variable": "df_25",
+        "csv_path": "data/HSG_2025_separate_page30_table0.csv"
+      },
+      {
+        "variable": "df_26",
+        "csv_path": "data/HSG_2024_separate_page30_table0.csv"
+      },
+      {
+        "variable": "df_27",
+        "csv_path": "data/HSG_2024_separate_page30_table0.csv"
+      },
+      {
+        "variable": "df_28",
+        "csv_path": "data/HSG_2025_consolidated_page29_table0.csv"
+      },
+      {
+        "variable": "df_29",
+        "csv_path": "data/HSG_2025_consolidated_page29_table0.csv"
+      },
+      {
+        "variable": "df_30",
+        "csv_path": "data/HUT_2022_consolidated_page29_table0.csv"
+      },
+      {
+        "variable": "df_31",
+        "csv_path": "data/HUT_2022_consolidated_page29_table0.csv"
+      },
+      {
+        "variable": "df_32",
+        "csv_path": "data/PNJ_2024_consolidated_page25_table1.csv"
+      },
+      {
+        "variable": "df_33",
+        "csv_path": "data/PNJ_2024_consolidated_page25_table1.csv"
+      },
+      {
+        "variable": "df_34",
+        "csv_path": "data/HHV_2019_consolidated_page34_table0.csv"
+      },
+      {
+        "variable": "df_35",
+        "csv_path": "data/HHV_2019_consolidated_page34_table0.csv"
+      },
+      {
+        "variable": "df_36",
+        "csv_path": "data/BVH_2016_consolidated_page48_table1.csv"
+      },
+      {
+        "variable": "df_37",
+        "csv_path": "data/BVH_2016_consolidated_page48_table1.csv"
+      },
+      {
+        "variable": "df_38",
+        "csv_path": "data/BVH_2025_consolidated_page47_table1.csv"
+      },
+      {
+        "variable": "df_39",
+        "csv_path": "data/PNJ_2024_separate_page25_table1.csv"
+      },
+      {
+        "variable": "df_40",
+        "csv_path": "data/PNJ_2024_separate_page25_table1.csv"
+      },
+      {
+        "variable": "df_41",
+        "csv_path": "data/NKG_2025_consolidated_page30_table0.csv"
+      },
+      {
+        "variable": "df_42",
+        "csv_path": "data/SCR_2024_consolidated_page36_table0.csv"
+      },
+      {
+        "variable": "df_43",
+        "csv_path": "data/SCR_2024_consolidated_page36_table0.csv"
+      },
+      {
+        "variable": "df_44",
+        "csv_path": "data/SCR_2024_consolidated_page36_table0.csv"
+      },
+      {
+        "variable": "df_45",
+        "csv_path": "data/SCR_2024_consolidated_page36_table0.csv"
+      },
+      {
+        "variable": "df_46",
+        "csv_path": "data/DCM_2025_consolidated_page28_table1.csv"
+      },
+      {
+        "variable": "df_47",
+        "csv_path": "data/DCM_2025_consolidated_page28_table1.csv"
+      },
+      {
+        "variable": "df_48",
+        "csv_path": "data/DCM_2025_consolidated_page28_table1.csv"
+      },
+      {
+        "variable": "df_49",
+        "csv_path": "data/DCM_2025_consolidated_page28_table1.csv"
+      },
+      {
+        "variable": "df_50",
+        "csv_path": "data/HUT_2022_separate_page27_table0.csv"
+      },
+      {
+        "variable": "df_51",
+        "csv_path": "data/BVH_2017_consolidated_page49_table1.csv"
+      },
+      {
+        "variable": "df_52",
+        "csv_path": "data/BVH_2017_consolidated_page49_table1.csv"
+      },
+      {
+        "variable": "df_53",
+        "csv_path": "data/SCR_2024_separate_page36_table0.csv"
+      },
+      {
+        "variable": "df_54",
+        "csv_path": "data/SCR_2024_separate_page36_table0.csv"
+      },
+      {
+        "variable": "df_55",
+        "csv_path": "data/SCR_2024_separate_page36_table0.csv"
+      },
+      {
+        "variable": "df_56",
+        "csv_path": "data/SCR_2024_separate_page36_table0.csv"
+      },
+      {
+        "variable": "df_57",
+        "csv_path": "data/BVH_2023_consolidated_page49_table1.csv"
+      },
+      {
+        "variable": "df_58",
+        "csv_path": "data/BVH_2023_consolidated_page49_table1.csv"
+      },
+      {
+        "variable": "df_59",
+        "csv_path": "data/BVH_2022_consolidated_page47_table1.csv"
+      },
+      {
+        "variable": "df_60",
+        "csv_path": "data/BVH_2022_consolidated_page47_table1.csv"
+      },
+      {
+        "variable": "df_61",
+        "csv_path": "data/FIT_2020_consolidated_page36_table1.csv"
+      },
+      {
+        "variable": "df_62",
+        "csv_path": "data/FIT_2020_consolidated_page36_table1.csv"
+      },
+      {
+        "variable": "df_63",
+        "csv_path": "data/FIT_2020_consolidated_page36_table1.csv"
+      },
+      {
+        "variable": "df_64",
+        "csv_path": "data/FIT_2020_consolidated_page36_table1.csv"
+      },
+      {
+        "variable": "df_65",
+        "csv_path": "data/DPM_2024_consolidated_page28_table1.csv"
+      },
+      {
+        "variable": "df_66",
+        "csv_path": "data/DPM_2024_consolidated_page28_table1.csv"
+      },
+      {
+        "variable": "df_67",
+        "csv_path": "data/BVH_2021_consolidated_page46_table1.csv"
+      },
+      {
+        "variable": "df_68",
+        "csv_path": "data/BVH_2021_consolidated_page46_table1.csv"
+      },
+      {
+        "variable": "df_69",
+        "csv_path": "data/VIC_2021_consolidated_page45_table0.csv"
+      },
+      {
+        "variable": "df_70",
+        "csv_path": "data/VIC_2021_consolidated_page45_table0.csv"
+      },
+      {
+        "variable": "df_71",
+        "csv_path": "data/VIC_2021_consolidated_page45_table0.csv"
+      },
+      {
+        "variable": "df_72",
+        "csv_path": "data/VIC_2021_consolidated_page45_table0.csv"
+      },
+      {
+        "variable": "df_73",
+        "csv_path": "data/DBC_2016_separate_page27_table1.csv"
+      },
+      {
+        "variable": "df_74",
+        "csv_path": "data/DBC_2016_separate_page27_table1.csv"
+      },
+      {
+        "variable": "df_75",
+        "csv_path": "data/DBC_2022_separate_page29_table1.csv"
+      },
+      {
+        "variable": "df_76",
+        "csv_path": "data/DBC_2022_separate_page29_table1.csv"
+      },
+      {
+        "variable": "df_77",
+        "csv_path": "data/HHV_2019_consolidated_page37_table0.csv"
+      },
+      {
+        "variable": "df_78",
+        "csv_path": "data/HHV_2019_consolidated_page37_table0.csv"
+      },
+      {
+        "variable": "df_79",
+        "csv_path": "data/GAS_2025_separate_page34_table0.csv"
+      },
+      {
+        "variable": "df_80",
+        "csv_path": "data/GAS_2025_separate_page34_table0.csv"
+      },
+      {
+        "variable": "df_81",
+        "csv_path": "data/GEX_2024_consolidated_page44_table0.csv"
+      },
+      {
+        "variable": "df_82",
+        "csv_path": "data/GEX_2024_consolidated_page44_table0.csv"
+      },
+      {
+        "variable": "df_83",
+        "csv_path": "data/GEX_2024_consolidated_page44_table0.csv"
+      },
+      {
+        "variable": "df_84",
+        "csv_path": "data/GEX_2024_consolidated_page44_table0.csv"
+      },
+      {
+        "variable": "df_85",
+        "csv_path": "data/GAS_2025_consolidated_page35_table0.csv"
+      },
+      {
+        "variable": "df_86",
+        "csv_path": "data/GAS_2025_consolidated_page35_table0.csv"
+      },
+      {
+        "variable": "df_87",
+        "csv_path": "data/AAA_2024_separate_page33_table0.csv"
+      },
+      {
+        "variable": "df_88",
+        "csv_path": "data/AAA_2024_separate_page33_table0.csv"
+      },
+      {
+        "variable": "df_89",
+        "csv_path": "data/BVH_2018_consolidated_page48_table1.csv"
+      },
+      {
+        "variable": "df_90",
+        "csv_path": "data/BVH_2018_consolidated_page48_table1.csv"
+      },
+      {
+        "variable": "df_91",
+        "csv_path": "data/MWG_2015_consolidated_page20_table1.csv"
+      },
+      {
+        "variable": "df_92",
+        "csv_path": "data/MWG_2015_consolidated_page20_table1.csv"
+      },
+      {
+        "variable": "df_93",
+        "csv_path": "data/BVH_2020_consolidated_page45_table1.csv"
+      },
+      {
+        "variable": "df_94",
+        "csv_path": "data/BVH_2020_consolidated_page45_table1.csv"
+      },
+      {
+        "variable": "df_95",
+        "csv_path": "data/SCR_2025_consolidated_page36_table0.csv"
+      },
+      {
+        "variable": "df_96",
+        "csv_path": "data/SCR_2025_consolidated_page36_table0.csv"
+      },
+      {
+        "variable": "df_97",
+        "csv_path": "data/SCR_2025_consolidated_page36_table0.csv"
+      },
+      {
+        "variable": "df_98",
+        "csv_path": "data/SCR_2025_consolidated_page36_table0.csv"
+      },
+      {
+        "variable": "df_99",
+        "csv_path": "data/BVH_2019_consolidated_page45_table1.csv"
+      },
+      {
+        "variable": "df_100",
+        "csv_path": "data/BVH_2019_consolidated_page45_table1.csv"
+      },
+      {
+        "variable": "df_101",
+        "csv_path": "data/FIT_2018_consolidated_page27_table1.csv"
+      },
+      {
+        "variable": "df_102",
+        "csv_path": "data/FIT_2018_consolidated_page27_table1.csv"
+      },
+      {
+        "variable": "df_103",
+        "csv_path": "data/FIT_2018_consolidated_page27_table1.csv"
+      },
+      {
+        "variable": "df_104",
+        "csv_path": "data/FIT_2018_consolidated_page27_table1.csv"
+      },
+      {
+        "variable": "df_105",
+        "csv_path": "data/FIT_2017_consolidated_page26_table1.csv"
+      },
+      {
+        "variable": "df_106",
+        "csv_path": "data/FIT_2017_consolidated_page26_table1.csv"
+      },
+      {
+        "variable": "df_107",
+        "csv_path": "data/FIT_2017_consolidated_page26_table1.csv"
+      },
+      {
+        "variable": "df_108",
+        "csv_path": "data/FIT_2017_consolidated_page26_table1.csv"
+      },
+      {
+        "variable": "df_109",
+        "csv_path": "data/KBC_2021_separate_page32_table0.csv"
+      },
+      {
+        "variable": "df_110",
+        "csv_path": "data/DCM_2025_separate_page27_table0.csv"
+      },
+      {
+        "variable": "df_111",
+        "csv_path": "data/DCM_2025_separate_page27_table0.csv"
+      },
+      {
+        "variable": "df_112",
+        "csv_path": "data/DCM_2025_separate_page27_table0.csv"
+      },
+      {
+        "variable": "df_113",
+        "csv_path": "data/DCM_2025_separate_page27_table0.csv"
+      },
+      {
+        "variable": "df_114",
+        "csv_path": "data/VSF_2017_separate_page29_table0.csv"
+      },
+      {
+        "variable": "df_115",
+        "csv_path": "data/VSF_2017_separate_page29_table0.csv"
+      },
+      {
+        "variable": "df_116",
+        "csv_path": "data/VSF_2017_separate_page29_table0.csv"
+      },
+      {
+        "variable": "df_117",
+        "csv_path": "data/VSF_2017_separate_page29_table0.csv"
+      },
+      {
+        "variable": "df_118",
+        "csv_path": "data/DTK_2019_separate_page28_table0.csv"
+      },
+      {
+        "variable": "df_119",
+        "csv_path": "data/DTK_2019_separate_page28_table0.csv"
+      }
+    ],
+    "pandas_query": "result = NUM_13"
+  },
+  {
+    "id": 99,
+    "question": "Tiền của NKG cuối năm 2022 là bao nhiêu tỷ đồng?",
+    "answer": 0.0,
+    "relevant_docs": [
+      "NKG_2022_consolidated_page25_table0",
+      "NKG_2022_separate_page24_table0"
+    ],
+    "relevant_tables": [
+      "NKG_2022_separate_page24_table0|1",
+      "NKG_2022_consolidated_page25_table0|1"
+    ],
+    "evidence": [
+      {
+        "variable": "df_0",
+        "csv_path": "data/NKG_2022_separate_page24_table0.csv"
+      },
+      {
+        "variable": "df_1",
+        "csv_path": "data/NKG_2022_consolidated_page25_table0.csv"
+      }
+    ],
+    "pandas_query": "Okay, let's see. The user is asking for the amount of money NKG has at the end of year [NUM_2] in billion VND. The grounded cells provided are NUM_0 and NUM_1, both with the same value of 57,100,000,000.0. The row path is \"Các khoản tương đương tiền (*)\" which is Cash and cash equivalents, and the column is 2022 VND.\n\nWait, the question mentions [NUM_2], but the available cells are NUM_0 and NUM_1. Maybe there's a typo, but since the user provided those cells, I should use them. Both have the same value, so maybe the answer is that value. The value is 57,100,000,000.0 VND, which is 57.1 billion. But the question asks for the answer in billion, so maybe I need to divide by 1e9. However, looking at the previous code examples, they just used the given numbers without conversion. For example, if the value was 1200, the answer was 1200.0. So maybe here, the answer is 57100000000.0, but the unit is already in VND. However, the question specifies \"tỷ đồng\" (billion VND), so perhaps the answer should be 57.1. But the user's code examples didn't do that conversion. Hmm.\n\nWait, the error message says there's an unterminated string literal. Looking at the previous code, maybe the user tried to write a string but forgot the closing quote. But the code provided by the user is empty. Oh, the user's previous code was supposed to be generated but had a syntax error. The assistant's task is to fix that.\n\nWait, the user's previous code was empty, but the error message indicates a syntax error. So maybe the assistant's code had an unterminated string. For example, if they wrote something like:\n\nresult = \"57100000000.0\n\nBut forgot the closing quote. But the user's code is empty. Wait, the user's previous code was:\n\nOkay, let's see. The question is asking for the amount of money NKG has at the end of the year [NUM_2] in billion VND. The grounded cells provided are NUM_0 and NUM_1, both with the same value of 57,100,000,000.0. The row path is \"Các khoản tương đương tiền (*)\" which translates to something like \"Cash and cash equivalents (*)\", and the column path is numeric__2022VND, so 2022 VND.\n\nWait, the question mentions [NUM_2], but the available cells are NUM_0 and NUM_1. Maybe there's a typo or confusion here. But according to the grounded cells provided, both NUM_0 and NUM_1 have the same value. Since the user says to use the symbolic variables if present, and the question is about the end-of-year money, perhaps the answer is simply the value of either NUM_0 or NUM_1 since they are the same. \n\nThe question might be expecting to use NUM_2, but since it's not available in the grounded cells, maybe the user made a mistake. However, the available cells are NUM_0 and NUM_1, both with the same value. So the answer would be 57,100,000,000.0 VND. But the question asks for the answer in billion VND. Let me check the value: 57,100,000,000.0 is 57.1 billion VND. But the problem says to assign the numeric answer to 'result'. Since the value is already in VND, but the question asks for \"tỷ đồng\" which is billion VND. So maybe the value is already correct as is. \n\nBut the user's example shows that when the value is in VND, they just use it directly. For example, in the first example, the answer is 1200.0, which is in the same unit. So in this case, the answer is 57100000000.0, which is 57.1 billion. But the question is phrased as \"bao nhiêu tỷ đồng\", so the answer should be 57.1. However, the grounded cells have the value as 57100000000.0, which is 57.1 billion. But the user's code examples don't do any conversion, they just use the given values. So maybe the"
+  },
+  {
+    "id": 100,
+    "question": "Tổng số lượng cổ phần của Tập đoàn Bảo Việt (BVH) vào cuối năm 2018 là bao nhiêu cổ phần?",
+    "answer": 2159930729474.0,
+    "relevant_docs": [
+      "BVH_2018_consolidated_page59_table2",
+      "BVH_2018_consolidated_page65_table0",
+      "BVH_2018_separate_page37_table1",
+      "BVH_2018_consolidated_page46_table0",
+      "BVH_2018_consolidated_page22_table1",
+      "BVH_2018_consolidated_page21_table0",
+      "BVH_2018_separate_page17_table0",
+      "BVH_2018_separate_page49_table0",
+      "BVH_2018_separate_page16_table0",
+      "BVH_2018_separate_page33_table0",
+      "BVH_2018_separate_page18_table1",
+      "BVH_2018_separate_page31_table0",
+      "BVH_2018_separate_page39_table1",
+      "BVH_2018_consolidated_page56_table0",
+      "BVH_2018_consolidated_page20_table0"
+    ],
+    "relevant_tables": [
+      "BVH_2018_consolidated_page21_table0|1",
+      "BVH_2018_consolidated_page21_table0|1",
+      "BVH_2018_separate_page17_table0|1",
+      "BVH_2018_separate_page17_table0|1",
+      "BVH_2018_consolidated_page20_table0|1",
+      "BVH_2018_consolidated_page20_table0|1",
+      "BVH_2018_separate_page16_table0|1",
+      "BVH_2018_separate_page16_table0|1",
+      "BVH_2018_separate_page33_table0|1",
+      "BVH_2018_separate_page33_table0|1",
+      "BVH_2018_consolidated_page56_table0|1",
+      "BVH_2018_separate_page18_table1|1",
+      "BVH_2018_separate_page18_table1|1",
+      "BVH_2018_separate_page18_table1|1",
+      "BVH_2018_separate_page18_table1|1",
+      "BVH_2018_consolidated_page22_table1|1",
+      "BVH_2018_consolidated_page22_table1|1",
+      "BVH_2018_consolidated_page22_table1|1",
+      "BVH_2018_consolidated_page22_table1|1",
+      "BVH_2018_separate_page31_table0|1",
+      "BVH_2018_separate_page31_table0|1",
+      "BVH_2018_consolidated_page65_table0|1",
+      "BVH_2018_consolidated_page65_table0|1",
+      "BVH_2018_consolidated_page59_table2|1",
+      "BVH_2018_separate_page49_table0|1",
+      "BVH_2018_separate_page39_table1|1",
+      "BVH_2018_separate_page37_table1|1",
+      "BVH_2018_consolidated_page46_table0|1"
+    ],
+    "evidence": [
+      {
+        "variable": "df_0",
+        "csv_path": "data/BVH_2018_consolidated_page21_table0.csv"
+      },
+      {
+        "variable": "df_1",
+        "csv_path": "data/BVH_2018_consolidated_page21_table0.csv"
+      },
+      {
+        "variable": "df_2",
+        "csv_path": "data/BVH_2018_separate_page17_table0.csv"
+      },
+      {
+        "variable": "df_3",
+        "csv_path": "data/BVH_2018_separate_page17_table0.csv"
+      },
+      {
+        "variable": "df_4",
+        "csv_path": "data/BVH_2018_consolidated_page20_table0.csv"
+      },
+      {
+        "variable": "df_5",
+        "csv_path": "data/BVH_2018_consolidated_page20_table0.csv"
+      },
+      {
+        "variable": "df_6",
+        "csv_path": "data/BVH_2018_separate_page16_table0.csv"
+      },
+      {
+        "variable": "df_7",
+        "csv_path": "data/BVH_2018_separate_page16_table0.csv"
+      },
+      {
+        "variable": "df_8",
+        "csv_path": "data/BVH_2018_separate_page33_table0.csv"
+      },
+      {
+        "variable": "df_9",
+        "csv_path": "data/BVH_2018_separate_page33_table0.csv"
+      },
+      {
+        "variable": "df_10",
+        "csv_path": "data/BVH_2018_consolidated_page56_table0.csv"
+      },
+      {
+        "variable": "df_11",
+        "csv_path": "data/BVH_2018_separate_page18_table1.csv"
+      },
+      {
+        "variable": "df_12",
+        "csv_path": "data/BVH_2018_separate_page18_table1.csv"
+      },
+      {
+        "variable": "df_13",
+        "csv_path": "data/BVH_2018_separate_page18_table1.csv"
+      },
+      {
+        "variable": "df_14",
+        "csv_path": "data/BVH_2018_separate_page18_table1.csv"
+      },
+      {
+        "variable": "df_15",
+        "csv_path": "data/BVH_2018_consolidated_page22_table1.csv"
+      },
+      {
+        "variable": "df_16",
+        "csv_path": "data/BVH_2018_consolidated_page22_table1.csv"
+      },
+      {
+        "variable": "df_17",
+        "csv_path": "data/BVH_2018_consolidated_page22_table1.csv"
+      },
+      {
+        "variable": "df_18",
+        "csv_path": "data/BVH_2018_consolidated_page22_table1.csv"
+      },
+      {
+        "variable": "df_19",
+        "csv_path": "data/BVH_2018_separate_page31_table0.csv"
+      },
+      {
+        "variable": "df_20",
+        "csv_path": "data/BVH_2018_separate_page31_table0.csv"
+      },
+      {
+        "variable": "df_21",
+        "csv_path": "data/BVH_2018_consolidated_page65_table0.csv"
+      },
+      {
+        "variable": "df_22",
+        "csv_path": "data/BVH_2018_consolidated_page65_table0.csv"
+      },
+      {
+        "variable": "df_23",
+        "csv_path": "data/BVH_2018_consolidated_page59_table2.csv"
+      },
+      {
+        "variable": "df_24",
+        "csv_path": "data/BVH_2018_separate_page49_table0.csv"
+      },
+      {
+        "variable": "df_25",
+        "csv_path": "data/BVH_2018_separate_page39_table1.csv"
+      },
+      {
+        "variable": "df_26",
+        "csv_path": "data/BVH_2018_separate_page37_table1.csv"
+      },
+      {
+        "variable": "df_27",
+        "csv_path": "data/BVH_2018_consolidated_page46_table0.csv"
+      }
+    ],
+    "pandas_query": "result = 2159930729474"
+  },
+  {
+    "id": 83,
+    "question": "Số dư cam kết giao dịch hối đoái của công ty mẹ Ngân hàng TMCP Quốc tế Việt Nam đến ngày 31/12/2020 là bao nhiêu triệu đồng?",
+    "answer": 618888427.0,
+    "relevant_docs": [
+      "VPB_2019_separate_page11_table0",
+      "SSB_2021_separate_page57_table0",
+      "VIB_2025_separate_page11_table0",
+      "BVH_2017_consolidated_page66_table0",
+      "VIB_2019_separate_page49_table0",
+      "SSB_2025_consolidated_page59_table0",
+      "ACB_2020_separate_page64_table1",
+      "VIB_2019_consolidated_page10_table0",
+      "ACB_2023_separate_page67_table1",
+      "HDB_2018_separate_page10_table0",
+      "BVH_2016_consolidated_page65_table0",
+      "CTG_2017_separate_page11_table0",
+      "HDB_2018_consolidated_page10_table0",
+      "VIB_2018_consolidated_page10_table0",
+      "CTG_2021_consolidated_page12_table0",
+      "VIB_2019_consolidated_page50_table0",
+      "VPB_2017_consolidated_page11_table0",
+      "CTG_2019_separate_page11_table0",
+      "VIB_2016_consolidated_page10_table0",
+      "NVB_2024_separate_page12_table0",
+      "VIB_2022_consolidated_page9_table0",
+      "HDB_2021_consolidated_page10_table0",
+      "HDB_2021_separate_page10_table0",
+      "CTG_2021_separate_page12_table0",
+      "MBB_2025_separate_page12_table0",
+      "VPB_2018_separate_page10_table0",
+      "BAB_2019_consolidated_page40_table0",
+      "HDB_2019_separate_page10_table0",
+      "VIB_2016_consolidated_page52_table0",
+      "ABB_2020_consolidated_page11_table0",
+      "EIB_2020_consolidated_page11_table0",
+      "ACB_2024_consolidated_page76_table0",
+      "SSB_2020_consolidated_page53_table1",
+      "BVH_2020_consolidated_page61_table0",
+      "BVH_2015_consolidated_page60_table2",
+      "VIB_2021_separate_page9_table1",
+      "CTG_2020_consolidated_page11_table0",
+      "OCB_2020_separate_page11_table0",
+      "CTG_2020_separate_page11_table0",
+      "BAB_2018_consolidated_page41_table0",
+      "VIB_2019_separate_page10_table0",
+      "ABB_2020_separate_page10_table0",
+      "ABB_2021_consolidated_page10_table0",
+      "VIB_2015_consolidated_page10_table0",
+      "ACB_2022_consolidated_page74_table0",
+      "NVB_2022_separate_page43_table0",
+      "VIB_2020_consolidated_page59_table0",
+      "VPB_2020_separate_page59_table0",
+      "HDB_2020_separate_page10_table0",
+      "VIB_2021_consolidated_page9_table1",
+      "SSB_2020_separate_page51_table1",
+      "VIB_2018_separate_page10_table0",
+      "VIB_2021_consolidated_page62_table0",
+      "CTG_2018_consolidated_page11_table0",
+      "SSB_2024_separate_page61_table0",
+      "ACB_2020_consolidated_page69_table1",
+      "HDB_2020_consolidated_page12_table0",
+      "VIB_2017_consolidated_page54_table0",
+      "STB_2019_separate_page10_table0",
+      "MBB_2025_consolidated_page12_table0",
+      "SSB_2025_separate_page57_table0",
+      "VIB_2016_separate_page10_table0",
+      "VIB_2025_consolidated_page10_table0",
+      "HDB_2020_consolidated_page65_table0",
+      "SSB_2023_separate_page59_table0",
+      "SSB_2021_consolidated_page60_table0",
+      "VIB_2025_consolidated_page55_table0",
+      "VIB_2017_separate_page10_table0",
+      "VIB_2017_consolidated_page10_table0"
+    ],
+    "relevant_tables": [
+      "VIB_2019_separate_page10_table0|1",
+      "VIB_2019_separate_page10_table0|1",
+      "VIB_2019_separate_page10_table0|1",
+      "VIB_2019_separate_page49_table0|1",
+      "VIB_2019_separate_page49_table0|1",
+      "VIB_2019_consolidated_page10_table0|1",
+      "VIB_2019_consolidated_page10_table0|1",
+      "VIB_2019_consolidated_page10_table0|1",
+      "VIB_2019_consolidated_page50_table0|1",
+      "VIB_2019_consolidated_page50_table0|1",
+      "SSB_2025_separate_page57_table0|1",
+      "SSB_2025_separate_page57_table0|1",
+      "SSB_2025_consolidated_page59_table0|1",
+      "SSB_2025_consolidated_page59_table0|1",
+      "SSB_2021_separate_page57_table0|1",
+      "SSB_2020_separate_page51_table1|1",
+      "SSB_2020_separate_page51_table1|1",
+      "ACB_2020_separate_page64_table1|1",
+      "ACB_2020_separate_page64_table1|1",
+      "ACB_2020_separate_page64_table1|1",
+      "SSB_2021_consolidated_page60_table0|1",
+      "SSB_2021_consolidated_page60_table0|1",
+      "SSB_2024_separate_page61_table0|1",
+      "SSB_2024_separate_page61_table0|1",
+      "SSB_2024_separate_page61_table0|1",
+      "SSB_2024_separate_page61_table0|1",
+      "VIB_2025_separate_page11_table0|1",
+      "VIB_2025_separate_page11_table0|1",
+      "VIB_2025_separate_page11_table0|1",
+      "VIB_2020_consolidated_page59_table0|1",
+      "VIB_2020_consolidated_page59_table0|1",
+      "VIB_2025_consolidated_page10_table0|1",
+      "VIB_2025_consolidated_page10_table0|1",
+      "VIB_2025_consolidated_page10_table0|1",
+      "CTG_2020_separate_page11_table0|1",
+      "VIB_2022_consolidated_page9_table0|1",
+      "VIB_2022_consolidated_page9_table0|1",
+      "VIB_2022_consolidated_page9_table0|1",
+      "BVH_2015_consolidated_page60_table2|1",
+      "BVH_2015_consolidated_page60_table2|1",
+      "HDB_2020_separate_page10_table0|1",
+      "HDB_2020_separate_page10_table0|1",
+      "VIB_2021_consolidated_page9_table1|1",
+      "VIB_2021_consolidated_page9_table1|1",
+      "SSB_2023_separate_page59_table0|1",
+      "SSB_2023_separate_page59_table0|1",
+      "SSB_2023_separate_page59_table0|1",
+      "SSB_2023_separate_page59_table0|1",
+      "ACB_2020_consolidated_page69_table1|1",
+      "ACB_2020_consolidated_page69_table1|1",
+      "ACB_2020_consolidated_page69_table1|1",
+      "ACB_2023_separate_page67_table1|1",
+      "ACB_2023_separate_page67_table1|1",
+      "ACB_2023_separate_page67_table1|1",
+      "HDB_2020_consolidated_page12_table0|1",
+      "HDB_2020_consolidated_page12_table0|1",
+      "VIB_2025_consolidated_page55_table0|1",
+      "VIB_2025_consolidated_page55_table0|1",
+      "VIB_2025_consolidated_page55_table0|1",
+      "VIB_2025_consolidated_page55_table0|1",
+      "VIB_2021_separate_page9_table1|1",
+      "VIB_2021_separate_page9_table1|1",
+      "VIB_2021_consolidated_page62_table0|1",
+      "VIB_2021_consolidated_page62_table0|1",
+      "VPB_2020_separate_page59_table0|1",
+      "VPB_2020_separate_page59_table0|1",
+      "VIB_2017_separate_page10_table0|1",
+      "VIB_2017_separate_page10_table0|1",
+      "CTG_2019_separate_page11_table0|1",
+      "CTG_2019_separate_page11_table0|1",
+      "ABB_2020_consolidated_page11_table0|1",
+      "ABB_2020_consolidated_page11_table0|1",
+      "VIB_2017_consolidated_page54_table0|1",
+      "VIB_2017_consolidated_page54_table0|1",
+      "CTG_2020_consolidated_page11_table0|1",
+      "SSB_2020_consolidated_page53_table1|1",
+      "SSB_2020_consolidated_page53_table1|1",
+      "VIB_2016_consolidated_page52_table0|1",
+      "VIB_2016_consolidated_page52_table0|1",
+      "HDB_2018_separate_page10_table0|1",
+      "HDB_2018_separate_page10_table0|1",
+      "HDB_2019_separate_page10_table0|1",
+      "HDB_2019_separate_page10_table0|1",
+      "BVH_2017_consolidated_page66_table0|1",
+      "BVH_2017_consolidated_page66_table0|1",
+      "BVH_2017_consolidated_page66_table0|1",
+      "BVH_2017_consolidated_page66_table0|1",
+      "BVH_2017_consolidated_page66_table0|1",
+      "BVH_2017_consolidated_page66_table0|1",
+      "BVH_2020_consolidated_page61_table0|1",
+      "EIB_2020_consolidated_page11_table0|1",
+      "BVH_2016_consolidated_page65_table0|1",
+      "BVH_2016_consolidated_page65_table0|1",
+      "BVH_2016_consolidated_page65_table0|1",
+      "BVH_2016_consolidated_page65_table0|1",
+      "BVH_2016_consolidated_page65_table0|1",
+      "BVH_2016_consolidated_page65_table0|1",
+      "CTG_2017_separate_page11_table0|1",
+      "CTG_2017_separate_page11_table0|1",
+      "VIB_2018_consolidated_page10_table0|1",
+      "VIB_2018_consolidated_page10_table0|1",
+      "VIB_2018_separate_page10_table0|1",
+      "VIB_2018_separate_page10_table0|1",
+      "ACB_2022_consolidated_page74_table0|1",
+      "ACB_2022_consolidated_page74_table0|1",
+      "ACB_2022_consolidated_page74_table0|1",
+      "HDB_2021_separate_page10_table0|1",
+      "HDB_2021_separate_page10_table0|1",
+      "HDB_2020_consolidated_page65_table0|1",
+      "HDB_2020_consolidated_page65_table0|1",
+      "ABB_2021_consolidated_page10_table0|1",
+      "ABB_2021_consolidated_page10_table0|1",
+      "VIB_2016_consolidated_page10_table0|1",
+      "VIB_2016_consolidated_page10_table0|1",
+      "VIB_2016_separate_page10_table0|1",
+      "VIB_2016_separate_page10_table0|1",
+      "NVB_2022_separate_page43_table0|1",
+      "NVB_2022_separate_page43_table0|1",
+      "VIB_2015_consolidated_page10_table0|1",
+      "VIB_2015_consolidated_page10_table0|1",
+      "MBB_2025_separate_page12_table0|1",
+      "MBB_2025_separate_page12_table0|1",
+      "MBB_2025_separate_page12_table0|1",
+      "CTG_2021_separate_page12_table0|1",
+      "ABB_2020_separate_page10_table0|1",
+      "ABB_2020_separate_page10_table0|1",
+      "HDB_2021_consolidated_page10_table0|1",
+      "HDB_2021_consolidated_page10_table0|1",
+      "HDB_2018_consolidated_page10_table0|1",
+      "HDB_2018_consolidated_page10_table0|1",
+      "CTG_2021_consolidated_page12_table0|1",
+      "BAB_2018_consolidated_page41_table0|1",
+      "BAB_2018_consolidated_page41_table0|1",
+      "OCB_2020_separate_page11_table0|1",
+      "OCB_2020_separate_page11_table0|1",
+      "VPB_2019_separate_page11_table0|1",
+      "VPB_2019_separate_page11_table0|1",
+      "VIB_2017_consolidated_page10_table0|1",
+      "VIB_2017_consolidated_page10_table0|1",
+      "CTG_2018_consolidated_page11_table0|1",
+      "CTG_2018_consolidated_page11_table0|1",
+      "MBB_2025_consolidated_page12_table0|1",
+      "MBB_2025_consolidated_page12_table0|1",
+      "MBB_2025_consolidated_page12_table0|1",
+      "STB_2019_separate_page10_table0|1",
+      "STB_2019_separate_page10_table0|1",
+      "BAB_2019_consolidated_page40_table0|1",
+      "BAB_2019_consolidated_page40_table0|1",
+      "NVB_2024_separate_page12_table0|1",
+      "NVB_2024_separate_page12_table0|1",
+      "VPB_2018_separate_page10_table0|1",
+      "VPB_2018_separate_page10_table0|1",
+      "ACB_2024_consolidated_page76_table0|1",
+      "ACB_2024_consolidated_page76_table0|1",
+      "ACB_2024_consolidated_page76_table0|1",
+      "VPB_2017_consolidated_page11_table0|1",
+      "VPB_2017_consolidated_page11_table0|1"
+    ],
+    "evidence": [
+      {
+        "variable": "df_0",
+        "csv_path": "data/VIB_2019_separate_page10_table0.csv"
+      },
+      {
+        "variable": "df_1",
+        "csv_path": "data/VIB_2019_separate_page10_table0.csv"
+      },
+      {
+        "variable": "df_2",
+        "csv_path": "data/VIB_2019_separate_page10_table0.csv"
+      },
+      {
+        "variable": "df_3",
+        "csv_path": "data/VIB_2019_separate_page49_table0.csv"
+      },
+      {
+        "variable": "df_4",
+        "csv_path": "data/VIB_2019_separate_page49_table0.csv"
+      },
+      {
+        "variable": "df_5",
+        "csv_path": "data/VIB_2019_consolidated_page10_table0.csv"
+      },
+      {
+        "variable": "df_6",
+        "csv_path": "data/VIB_2019_consolidated_page10_table0.csv"
+      },
+      {
+        "variable": "df_7",
+        "csv_path": "data/VIB_2019_consolidated_page10_table0.csv"
+      },
+      {
+        "variable": "df_8",
+        "csv_path": "data/VIB_2019_consolidated_page50_table0.csv"
+      },
+      {
+        "variable": "df_9",
+        "csv_path": "data/VIB_2019_consolidated_page50_table0.csv"
+      },
+      {
+        "variable": "df_10",
+        "csv_path": "data/SSB_2025_separate_page57_table0.csv"
+      },
+      {
+        "variable": "df_11",
+        "csv_path": "data/SSB_2025_separate_page57_table0.csv"
+      },
+      {
+        "variable": "df_12",
+        "csv_path": "data/SSB_2025_consolidated_page59_table0.csv"
+      },
+      {
+        "variable": "df_13",
+        "csv_path": "data/SSB_2025_consolidated_page59_table0.csv"
+      },
+      {
+        "variable": "df_14",
+        "csv_path": "data/SSB_2021_separate_page57_table0.csv"
+      },
+      {
+        "variable": "df_15",
+        "csv_path": "data/SSB_2020_separate_page51_table1.csv"
+      },
+      {
+        "variable": "df_16",
+        "csv_path": "data/SSB_2020_separate_page51_table1.csv"
+      },
+      {
+        "variable": "df_17",
+        "csv_path": "data/ACB_2020_separate_page64_table1.csv"
+      },
+      {
+        "variable": "df_18",
+        "csv_path": "data/ACB_2020_separate_page64_table1.csv"
+      },
+      {
+        "variable": "df_19",
+        "csv_path": "data/ACB_2020_separate_page64_table1.csv"
+      },
+      {
+        "variable": "df_20",
+        "csv_path": "data/SSB_2021_consolidated_page60_table0.csv"
+      },
+      {
+        "variable": "df_21",
+        "csv_path": "data/SSB_2021_consolidated_page60_table0.csv"
+      },
+      {
+        "variable": "df_22",
+        "csv_path": "data/SSB_2024_separate_page61_table0.csv"
+      },
+      {
+        "variable": "df_23",
+        "csv_path": "data/SSB_2024_separate_page61_table0.csv"
+      },
+      {
+        "variable": "df_24",
+        "csv_path": "data/SSB_2024_separate_page61_table0.csv"
+      },
+      {
+        "variable": "df_25",
+        "csv_path": "data/SSB_2024_separate_page61_table0.csv"
+      },
+      {
+        "variable": "df_26",
+        "csv_path": "data/VIB_2025_separate_page11_table0.csv"
+      },
+      {
+        "variable": "df_27",
+        "csv_path": "data/VIB_2025_separate_page11_table0.csv"
+      },
+      {
+        "variable": "df_28",
+        "csv_path": "data/VIB_2025_separate_page11_table0.csv"
+      },
+      {
+        "variable": "df_29",
+        "csv_path": "data/VIB_2020_consolidated_page59_table0.csv"
+      },
+      {
+        "variable": "df_30",
+        "csv_path": "data/VIB_2020_consolidated_page59_table0.csv"
+      },
+      {
+        "variable": "df_31",
+        "csv_path": "data/VIB_2025_consolidated_page10_table0.csv"
+      },
+      {
+        "variable": "df_32",
+        "csv_path": "data/VIB_2025_consolidated_page10_table0.csv"
+      },
+      {
+        "variable": "df_33",
+        "csv_path": "data/VIB_2025_consolidated_page10_table0.csv"
+      },
+      {
+        "variable": "df_34",
+        "csv_path": "data/CTG_2020_separate_page11_table0.csv"
+      },
+      {
+        "variable": "df_35",
+        "csv_path": "data/VIB_2022_consolidated_page9_table0.csv"
+      },
+      {
+        "variable": "df_36",
+        "csv_path": "data/VIB_2022_consolidated_page9_table0.csv"
+      },
+      {
+        "variable": "df_37",
+        "csv_path": "data/VIB_2022_consolidated_page9_table0.csv"
+      },
+      {
+        "variable": "df_38",
+        "csv_path": "data/BVH_2015_consolidated_page60_table2.csv"
+      },
+      {
+        "variable": "df_39",
+        "csv_path": "data/BVH_2015_consolidated_page60_table2.csv"
+      },
+      {
+        "variable": "df_40",
+        "csv_path": "data/HDB_2020_separate_page10_table0.csv"
+      },
+      {
+        "variable": "df_41",
+        "csv_path": "data/HDB_2020_separate_page10_table0.csv"
+      },
+      {
+        "variable": "df_42",
+        "csv_path": "data/VIB_2021_consolidated_page9_table1.csv"
+      },
+      {
+        "variable": "df_43",
+        "csv_path": "data/VIB_2021_consolidated_page9_table1.csv"
+      },
+      {
+        "variable": "df_44",
+        "csv_path": "data/SSB_2023_separate_page59_table0.csv"
+      },
+      {
+        "variable": "df_45",
+        "csv_path": "data/SSB_2023_separate_page59_table0.csv"
+      },
+      {
+        "variable": "df_46",
+        "csv_path": "data/SSB_2023_separate_page59_table0.csv"
+      },
+      {
+        "variable": "df_47",
+        "csv_path": "data/SSB_2023_separate_page59_table0.csv"
+      },
+      {
+        "variable": "df_48",
+        "csv_path": "data/ACB_2020_consolidated_page69_table1.csv"
+      },
+      {
+        "variable": "df_49",
+        "csv_path": "data/ACB_2020_consolidated_page69_table1.csv"
+      },
+      {
+        "variable": "df_50",
+        "csv_path": "data/ACB_2020_consolidated_page69_table1.csv"
+      },
+      {
+        "variable": "df_51",
+        "csv_path": "data/ACB_2023_separate_page67_table1.csv"
+      },
+      {
+        "variable": "df_52",
+        "csv_path": "data/ACB_2023_separate_page67_table1.csv"
+      },
+      {
+        "variable": "df_53",
+        "csv_path": "data/ACB_2023_separate_page67_table1.csv"
+      },
+      {
+        "variable": "df_54",
+        "csv_path": "data/HDB_2020_consolidated_page12_table0.csv"
+      },
+      {
+        "variable": "df_55",
+        "csv_path": "data/HDB_2020_consolidated_page12_table0.csv"
+      },
+      {
+        "variable": "df_56",
+        "csv_path": "data/VIB_2025_consolidated_page55_table0.csv"
+      },
+      {
+        "variable": "df_57",
+        "csv_path": "data/VIB_2025_consolidated_page55_table0.csv"
+      },
+      {
+        "variable": "df_58",
+        "csv_path": "data/VIB_2025_consolidated_page55_table0.csv"
+      },
+      {
+        "variable": "df_59",
+        "csv_path": "data/VIB_2025_consolidated_page55_table0.csv"
+      },
+      {
+        "variable": "df_60",
+        "csv_path": "data/VIB_2021_separate_page9_table1.csv"
+      },
+      {
+        "variable": "df_61",
+        "csv_path": "data/VIB_2021_separate_page9_table1.csv"
+      },
+      {
+        "variable": "df_62",
+        "csv_path": "data/VIB_2021_consolidated_page62_table0.csv"
+      },
+      {
+        "variable": "df_63",
+        "csv_path": "data/VIB_2021_consolidated_page62_table0.csv"
+      },
+      {
+        "variable": "df_64",
+        "csv_path": "data/VPB_2020_separate_page59_table0.csv"
+      },
+      {
+        "variable": "df_65",
+        "csv_path": "data/VPB_2020_separate_page59_table0.csv"
+      },
+      {
+        "variable": "df_66",
+        "csv_path": "data/VIB_2017_separate_page10_table0.csv"
+      },
+      {
+        "variable": "df_67",
+        "csv_path": "data/VIB_2017_separate_page10_table0.csv"
+      },
+      {
+        "variable": "df_68",
+        "csv_path": "data/CTG_2019_separate_page11_table0.csv"
+      },
+      {
+        "variable": "df_69",
+        "csv_path": "data/CTG_2019_separate_page11_table0.csv"
+      },
+      {
+        "variable": "df_70",
+        "csv_path": "data/ABB_2020_consolidated_page11_table0.csv"
+      },
+      {
+        "variable": "df_71",
+        "csv_path": "data/ABB_2020_consolidated_page11_table0.csv"
+      },
+      {
+        "variable": "df_72",
+        "csv_path": "data/VIB_2017_consolidated_page54_table0.csv"
+      },
+      {
+        "variable": "df_73",
+        "csv_path": "data/VIB_2017_consolidated_page54_table0.csv"
+      },
+      {
+        "variable": "df_74",
+        "csv_path": "data/CTG_2020_consolidated_page11_table0.csv"
+      },
+      {
+        "variable": "df_75",
+        "csv_path": "data/SSB_2020_consolidated_page53_table1.csv"
+      },
+      {
+        "variable": "df_76",
+        "csv_path": "data/SSB_2020_consolidated_page53_table1.csv"
+      },
+      {
+        "variable": "df_77",
+        "csv_path": "data/VIB_2016_consolidated_page52_table0.csv"
+      },
+      {
+        "variable": "df_78",
+        "csv_path": "data/VIB_2016_consolidated_page52_table0.csv"
+      },
+      {
+        "variable": "df_79",
+        "csv_path": "data/HDB_2018_separate_page10_table0.csv"
+      },
+      {
+        "variable": "df_80",
+        "csv_path": "data/HDB_2018_separate_page10_table0.csv"
+      },
+      {
+        "variable": "df_81",
+        "csv_path": "data/HDB_2019_separate_page10_table0.csv"
+      },
+      {
+        "variable": "df_82",
+        "csv_path": "data/HDB_2019_separate_page10_table0.csv"
+      },
+      {
+        "variable": "df_83",
+        "csv_path": "data/BVH_2017_consolidated_page66_table0.csv"
+      },
+      {
+        "variable": "df_84",
+        "csv_path": "data/BVH_2017_consolidated_page66_table0.csv"
+      },
+      {
+        "variable": "df_85",
+        "csv_path": "data/BVH_2017_consolidated_page66_table0.csv"
+      },
+      {
+        "variable": "df_86",
+        "csv_path": "data/BVH_2017_consolidated_page66_table0.csv"
+      },
+      {
+        "variable": "df_87",
+        "csv_path": "data/BVH_2017_consolidated_page66_table0.csv"
+      },
+      {
+        "variable": "df_88",
+        "csv_path": "data/BVH_2017_consolidated_page66_table0.csv"
+      },
+      {
+        "variable": "df_89",
+        "csv_path": "data/BVH_2020_consolidated_page61_table0.csv"
+      },
+      {
+        "variable": "df_90",
+        "csv_path": "data/EIB_2020_consolidated_page11_table0.csv"
+      },
+      {
+        "variable": "df_91",
+        "csv_path": "data/BVH_2016_consolidated_page65_table0.csv"
+      },
+      {
+        "variable": "df_92",
+        "csv_path": "data/BVH_2016_consolidated_page65_table0.csv"
+      },
+      {
+        "variable": "df_93",
+        "csv_path": "data/BVH_2016_consolidated_page65_table0.csv"
+      },
+      {
+        "variable": "df_94",
+        "csv_path": "data/BVH_2016_consolidated_page65_table0.csv"
+      },
+      {
+        "variable": "df_95",
+        "csv_path": "data/BVH_2016_consolidated_page65_table0.csv"
+      },
+      {
+        "variable": "df_96",
+        "csv_path": "data/BVH_2016_consolidated_page65_table0.csv"
+      },
+      {
+        "variable": "df_97",
+        "csv_path": "data/CTG_2017_separate_page11_table0.csv"
+      },
+      {
+        "variable": "df_98",
+        "csv_path": "data/CTG_2017_separate_page11_table0.csv"
+      },
+      {
+        "variable": "df_99",
+        "csv_path": "data/VIB_2018_consolidated_page10_table0.csv"
+      },
+      {
+        "variable": "df_100",
+        "csv_path": "data/VIB_2018_consolidated_page10_table0.csv"
+      },
+      {
+        "variable": "df_101",
+        "csv_path": "data/VIB_2018_separate_page10_table0.csv"
+      },
+      {
+        "variable": "df_102",
+        "csv_path": "data/VIB_2018_separate_page10_table0.csv"
+      },
+      {
+        "variable": "df_103",
+        "csv_path": "data/ACB_2022_consolidated_page74_table0.csv"
+      },
+      {
+        "variable": "df_104",
+        "csv_path": "data/ACB_2022_consolidated_page74_table0.csv"
+      },
+      {
+        "variable": "df_105",
+        "csv_path": "data/ACB_2022_consolidated_page74_table0.csv"
+      },
+      {
+        "variable": "df_106",
+        "csv_path": "data/HDB_2021_separate_page10_table0.csv"
+      },
+      {
+        "variable": "df_107",
+        "csv_path": "data/HDB_2021_separate_page10_table0.csv"
+      },
+      {
+        "variable": "df_108",
+        "csv_path": "data/HDB_2020_consolidated_page65_table0.csv"
+      },
+      {
+        "variable": "df_109",
+        "csv_path": "data/HDB_2020_consolidated_page65_table0.csv"
+      },
+      {
+        "variable": "df_110",
+        "csv_path": "data/ABB_2021_consolidated_page10_table0.csv"
+      },
+      {
+        "variable": "df_111",
+        "csv_path": "data/ABB_2021_consolidated_page10_table0.csv"
+      },
+      {
+        "variable": "df_112",
+        "csv_path": "data/VIB_2016_consolidated_page10_table0.csv"
+      },
+      {
+        "variable": "df_113",
+        "csv_path": "data/VIB_2016_consolidated_page10_table0.csv"
+      },
+      {
+        "variable": "df_114",
+        "csv_path": "data/VIB_2016_separate_page10_table0.csv"
+      },
+      {
+        "variable": "df_115",
+        "csv_path": "data/VIB_2016_separate_page10_table0.csv"
+      },
+      {
+        "variable": "df_116",
+        "csv_path": "data/NVB_2022_separate_page43_table0.csv"
+      },
+      {
+        "variable": "df_117",
+        "csv_path": "data/NVB_2022_separate_page43_table0.csv"
+      },
+      {
+        "variable": "df_118",
+        "csv_path": "data/VIB_2015_consolidated_page10_table0.csv"
+      },
+      {
+        "variable": "df_119",
+        "csv_path": "data/VIB_2015_consolidated_page10_table0.csv"
+      },
+      {
+        "variable": "df_120",
+        "csv_path": "data/MBB_2025_separate_page12_table0.csv"
+      },
+      {
+        "variable": "df_121",
+        "csv_path": "data/MBB_2025_separate_page12_table0.csv"
+      },
+      {
+        "variable": "df_122",
+        "csv_path": "data/MBB_2025_separate_page12_table0.csv"
+      },
+      {
+        "variable": "df_123",
+        "csv_path": "data/CTG_2021_separate_page12_table0.csv"
+      },
+      {
+        "variable": "df_124",
+        "csv_path": "data/ABB_2020_separate_page10_table0.csv"
+      },
+      {
+        "variable": "df_125",
+        "csv_path": "data/ABB_2020_separate_page10_table0.csv"
+      },
+      {
+        "variable": "df_126",
+        "csv_path": "data/HDB_2021_consolidated_page10_table0.csv"
+      },
+      {
+        "variable": "df_127",
+        "csv_path": "data/HDB_2021_consolidated_page10_table0.csv"
+      },
+      {
+        "variable": "df_128",
+        "csv_path": "data/HDB_2018_consolidated_page10_table0.csv"
+      },
+      {
+        "variable": "df_129",
+        "csv_path": "data/HDB_2018_consolidated_page10_table0.csv"
+      },
+      {
+        "variable": "df_130",
+        "csv_path": "data/CTG_2021_consolidated_page12_table0.csv"
+      },
+      {
+        "variable": "df_131",
+        "csv_path": "data/BAB_2018_consolidated_page41_table0.csv"
+      },
+      {
+        "variable": "df_132",
+        "csv_path": "data/BAB_2018_consolidated_page41_table0.csv"
+      },
+      {
+        "variable": "df_133",
+        "csv_path": "data/OCB_2020_separate_page11_table0.csv"
+      },
+      {
+        "variable": "df_134",
+        "csv_path": "data/OCB_2020_separate_page11_table0.csv"
+      },
+      {
+        "variable": "df_135",
+        "csv_path": "data/VPB_2019_separate_page11_table0.csv"
+      },
+      {
+        "variable": "df_136",
+        "csv_path": "data/VPB_2019_separate_page11_table0.csv"
+      },
+      {
+        "variable": "df_137",
+        "csv_path": "data/VIB_2017_consolidated_page10_table0.csv"
+      },
+      {
+        "variable": "df_138",
+        "csv_path": "data/VIB_2017_consolidated_page10_table0.csv"
+      },
+      {
+        "variable": "df_139",
+        "csv_path": "data/CTG_2018_consolidated_page11_table0.csv"
+      },
+      {
+        "variable": "df_140",
+        "csv_path": "data/CTG_2018_consolidated_page11_table0.csv"
+      },
+      {
+        "variable": "df_141",
+        "csv_path": "data/MBB_2025_consolidated_page12_table0.csv"
+      },
+      {
+        "variable": "df_142",
+        "csv_path": "data/MBB_2025_consolidated_page12_table0.csv"
+      },
+      {
+        "variable": "df_143",
+        "csv_path": "data/MBB_2025_consolidated_page12_table0.csv"
+      },
+      {
+        "variable": "df_144",
+        "csv_path": "data/STB_2019_separate_page10_table0.csv"
+      },
+      {
+        "variable": "df_145",
+        "csv_path": "data/STB_2019_separate_page10_table0.csv"
+      },
+      {
+        "variable": "df_146",
+        "csv_path": "data/BAB_2019_consolidated_page40_table0.csv"
+      },
+      {
+        "variable": "df_147",
+        "csv_path": "data/BAB_2019_consolidated_page40_table0.csv"
+      },
+      {
+        "variable": "df_148",
+        "csv_path": "data/NVB_2024_separate_page12_table0.csv"
+      },
+      {
+        "variable": "df_149",
+        "csv_path": "data/NVB_2024_separate_page12_table0.csv"
+      },
+      {
+        "variable": "df_150",
+        "csv_path": "data/VPB_2018_separate_page10_table0.csv"
+      },
+      {
+        "variable": "df_151",
+        "csv_path": "data/VPB_2018_separate_page10_table0.csv"
+      },
+      {
+        "variable": "df_152",
+        "csv_path": "data/ACB_2024_consolidated_page76_table0.csv"
+      },
+      {
+        "variable": "df_153",
+        "csv_path": "data/ACB_2024_consolidated_page76_table0.csv"
+      },
+      {
+        "variable": "df_154",
+        "csv_path": "data/ACB_2024_consolidated_page76_table0.csv"
+      },
+      {
+        "variable": "df_155",
+        "csv_path": "data/VPB_2017_consolidated_page11_table0.csv"
+      },
+      {
+        "variable": "df_156",
+        "csv_path": "data/VPB_2017_consolidated_page11_table0.csv"
+      }
+    ],
+    "pandas_query": "result = NUM_121"
   }
 ]

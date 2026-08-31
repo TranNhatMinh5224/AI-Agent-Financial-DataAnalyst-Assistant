@@ -10,13 +10,26 @@ from openai import OpenAI
 
 def extract_python_code(text: str) -> str:
     """Extract Python code from LLM Markdown output."""
-    # Match ```python ... ``` or just ``` ... ```
+    # 1. Match closed code block ```python ... ```
     pattern = re.compile(r"```(?:python)?\s*(.*?)\s*```", re.DOTALL | re.IGNORECASE)
     match = pattern.search(text)
     if match:
         return match.group(1).strip()
+        
+    # 2. Match unclosed code block ```python ... (hit max_tokens before closing)
+    unclosed_pattern = re.compile(r"```(?:python)?\s*(.*)", re.DOTALL | re.IGNORECASE)
+    match_unclosed = unclosed_pattern.search(text)
+    if match_unclosed:
+        candidate = match_unclosed.group(1).strip()
+        if "result" in candidate:
+            return candidate
+            
+    # 3. Look for explicit result = assignment anywhere in the text
+    result_pattern = re.search(r"((?:[a-zA-Z_0-9]+\s*=\s*.*\n?)*result\s*=\s*[^\n]+)", text)
+    if result_pattern:
+        return result_pattern.group(1).strip()
     
-    # If no markdown block, return the whole text (assuming the LLM just returned raw code)
+    # 4. If no markdown block, return the whole text
     return text.strip()
 
 def call_llm(prompt: str, llm_config: dict[str, str | float], system_prompt: str = "") -> str:

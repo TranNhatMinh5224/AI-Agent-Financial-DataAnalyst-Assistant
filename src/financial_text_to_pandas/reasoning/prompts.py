@@ -14,6 +14,7 @@ Grounded Cells available to use:
 {grounded_cells}
 
 Requirements:
+- You MUST only output the code inside a ```python ... ``` code block. Do NOT write conversational explanations or reasoning thoughts before or after the code.
 - You can directly use symbolic variable names like `NUM_0`, `NUM_1` if present in the grounded cells, OR call `safe_get_cell(dfs, 'table_id', 'row_label', 'col_label')`.
 - Use `safe_div(a, b)` for division to prevent ZeroDivisionError.
 - You MUST assign the final calculated numeric answer to the variable `result`.
