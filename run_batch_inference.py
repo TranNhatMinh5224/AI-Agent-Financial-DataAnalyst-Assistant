@@ -32,9 +32,15 @@ def main():
     parser.add_argument("--output", default="submission")
     parser.add_argument("--start", type=int, default=1, help="Start question number (1-indexed, e.g. --start 501)")
     parser.add_argument("--limit", type=int, default=0, help="Limit number of questions to process (e.g. --limit 500)")
+    parser.add_argument("--api-key", default=None, help="Ghi đè LLM_API_KEY cho tiến trình này để dùng nhiều key độc lập")
     args = parser.parse_args()
 
     cfg = load_config(Path(args.config))
+    if args.api_key:
+        os.environ["LLM_API_KEY"] = args.api_key
+        for c in [cfg.llm_planner_config, cfg.llm_retriever_config, cfg.llm_programmer_config, cfg.llm_critic_config]:
+            c["api_key"] = args.api_key
+
     questions_file = Path(args.questions)
     submission_dir = Path(args.output)
     data_dir = submission_dir / "data"
