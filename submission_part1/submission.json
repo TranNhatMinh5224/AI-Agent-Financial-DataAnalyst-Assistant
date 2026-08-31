@@ -22593,5 +22593,519 @@
       }
     ],
     "pandas_query": "result = NUM_121"
+  },
+  {
+    "id": 95,
+    "question": "Chi phí thuế hiện hành của CTCP Tập đoàn Hà Đô năm 2015 là bao nhiêu triệu đồng?",
+    "answer": 288860.245969,
+    "relevant_docs": [
+      "HDG_2020_separate_page55_table0",
+      "HDG_2016_consolidated_page28_table0",
+      "HDG_2018_separate_page52_table0",
+      "EIB_2020_consolidated_page49_table0",
+      "VIB_2016_separate_page45_table0",
+      "VIB_2019_separate_page41_table1",
+      "HDG_2021_separate_page57_table0",
+      "GEX_2015_consolidated_page42_table0",
+      "HDG_2015_separate_page9_table0",
+      "HAG_2015_consolidated_page76_table1",
+      "HDG_2015_separate_page24_table0",
+      "HDG_2015_consolidated_page51_table0",
+      "EIB_2020_separate_page47_table1",
+      "HDG_2024_consolidated_page41_table1",
+      "HDG_2015_separate_page26_table0",
+      "EIB_2022_separate_page50_table1",
+      "VIC_2025_consolidated_page88_table0",
+      "KBC_2022_consolidated_page59_table0",
+      "KBC_2016_consolidated_page50_table1",
+      "GVR_2015_separate_page47_table0",
+      "HDG_2016_separate_page9_table0",
+      "VIF_2015_separate_page46_table0",
+      "KBC_2015_consolidated_page56_table0",
+      "SNZ_2018_consolidated_page59_table1",
+      "EIB_2022_consolidated_page51_table1",
+      "EIB_2021_consolidated_page51_table0",
+      "HDG_2019_separate_page51_table0",
+      "DCM_2015_separate_page33_table1",
+      "HDG_2015_consolidated_page28_table0",
+      "KBC_2023_consolidated_page57_table0",
+      "HDG_2016_consolidated_page10_table0",
+      "PLX_2015_consolidated_page63_table0",
+      "HBC_2016_consolidated_page51_table1",
+      "HPG_2015_consolidated_page66_table0",
+      "OGC_2016_consolidated_page56_table0",
+      "SNZ_2017_consolidated_page56_table1",
+      "DIG_2015_consolidated_page46_table0",
+      "MSB_2025_separate_page54_table0",
+      "NVB_2025_consolidated_page47_table0",
+      "VIB_2016_consolidated_page45_table0",
+      "VIC_2015_consolidated_page86_table0",
+      "HDG_2015_consolidated_page9_table0",
+      "DXG_2023_consolidated_page60_table1",
+      "HDG_2016_separate_page42_table0",
+      "ACB_2019_consolidated_page65_table0",
+      "SNZ_2019_consolidated_page57_table2",
+      "STB_2015_consolidated_page58_table0",
+      "NVL_2016_consolidated_page74_table0",
+      "ACB_2018_consolidated_page65_table0",
+      "EIB_2021_separate_page51_table1",
+      "VIC_2015_separate_page57_table0",
+      "HDG_2025_consolidated_page46_table1",
+      "HDG_2015_separate_page32_table0",
+      "DCM_2018_consolidated_page38_table2",
+      "HDG_2015_separate_page43_table0",
+      "DXG_2025_consolidated_page53_table1",
+      "VIC_2016_separate_page52_table1"
+    ],
+    "relevant_tables": [
+      "HDG_2015_separate_page43_table0|1",
+      "HDG_2015_consolidated_page51_table0|1",
+      "KBC_2015_consolidated_page56_table0|1",
+      "KBC_2015_consolidated_page56_table0|1",
+      "HDG_2016_separate_page42_table0|1",
+      "HDG_2015_separate_page9_table0|1",
+      "HDG_2015_consolidated_page9_table0|1",
+      "HDG_2015_consolidated_page28_table0|1",
+      "HDG_2020_separate_page55_table0|1",
+      "HDG_2021_separate_page57_table0|1",
+      "VIF_2015_separate_page46_table0|1",
+      "VIF_2015_separate_page46_table0|1",
+      "SNZ_2018_consolidated_page59_table1|1",
+      "SNZ_2018_consolidated_page59_table1|1",
+      "HDG_2016_consolidated_page28_table0|1",
+      "KBC_2022_consolidated_page59_table0|1",
+      "HDG_2018_separate_page52_table0|1",
+      "HDG_2018_separate_page52_table0|1",
+      "HDG_2016_consolidated_page10_table0|1",
+      "HDG_2016_separate_page9_table0|1",
+      "SNZ_2017_consolidated_page56_table1|1",
+      "SNZ_2017_consolidated_page56_table1|1",
+      "HDG_2024_consolidated_page41_table1|1",
+      "HDG_2024_consolidated_page41_table1|1",
+      "OGC_2016_consolidated_page56_table0|1",
+      "VIC_2015_consolidated_page86_table0|1",
+      "VIC_2015_consolidated_page86_table0|1",
+      "NVL_2016_consolidated_page74_table0|1",
+      "HAG_2015_consolidated_page76_table1|1",
+      "HAG_2015_consolidated_page76_table1|1",
+      "VIC_2015_separate_page57_table0|1",
+      "VIB_2016_separate_page45_table0|1",
+      "HDG_2015_separate_page24_table0|1",
+      "EIB_2022_consolidated_page51_table1|1",
+      "GVR_2015_separate_page47_table0|1",
+      "EIB_2022_separate_page50_table1|1",
+      "VIB_2016_consolidated_page45_table0|1",
+      "DIG_2015_consolidated_page46_table0|1",
+      "DIG_2015_consolidated_page46_table0|1",
+      "HDG_2015_separate_page32_table0|1",
+      "HDG_2015_separate_page32_table0|1",
+      "DCM_2015_separate_page33_table1|1",
+      "DCM_2015_separate_page33_table1|1",
+      "HDG_2025_consolidated_page46_table1|1",
+      "HDG_2025_consolidated_page46_table1|1",
+      "SNZ_2019_consolidated_page57_table2|1",
+      "SNZ_2019_consolidated_page57_table2|1",
+      "PLX_2015_consolidated_page63_table0|1",
+      "GEX_2015_consolidated_page42_table0|1",
+      "EIB_2020_separate_page47_table1|1",
+      "EIB_2020_separate_page47_table1|1",
+      "KBC_2016_consolidated_page50_table1|1",
+      "KBC_2016_consolidated_page50_table1|1",
+      "EIB_2021_consolidated_page51_table0|1",
+      "EIB_2021_consolidated_page51_table0|1",
+      "DXG_2023_consolidated_page60_table1|1",
+      "DXG_2023_consolidated_page60_table1|1",
+      "EIB_2021_separate_page51_table1|1",
+      "EIB_2021_separate_page51_table1|1",
+      "ACB_2018_consolidated_page65_table0|1",
+      "ACB_2018_consolidated_page65_table0|1",
+      "HPG_2015_consolidated_page66_table0|1",
+      "KBC_2023_consolidated_page57_table0|1",
+      "KBC_2023_consolidated_page57_table0|1",
+      "DXG_2025_consolidated_page53_table1|1",
+      "DXG_2025_consolidated_page53_table1|1",
+      "EIB_2020_consolidated_page49_table0|1",
+      "EIB_2020_consolidated_page49_table0|1",
+      "ACB_2019_consolidated_page65_table0|1",
+      "VIC_2016_separate_page52_table1|1",
+      "VIC_2016_separate_page52_table1|1",
+      "HDG_2019_separate_page51_table0|1",
+      "HDG_2019_separate_page51_table0|1",
+      "STB_2015_consolidated_page58_table0|1",
+      "STB_2015_consolidated_page58_table0|1",
+      "MSB_2025_separate_page54_table0|1",
+      "MSB_2025_separate_page54_table0|1",
+      "NVB_2025_consolidated_page47_table0|1",
+      "NVB_2025_consolidated_page47_table0|1",
+      "DCM_2018_consolidated_page38_table2|1",
+      "DCM_2018_consolidated_page38_table2|1",
+      "HBC_2016_consolidated_page51_table1|1",
+      "HBC_2016_consolidated_page51_table1|1",
+      "HDG_2015_separate_page26_table0|1",
+      "HDG_2015_separate_page26_table0|1",
+      "VIC_2025_consolidated_page88_table0|1",
+      "VIC_2025_consolidated_page88_table0|1",
+      "VIB_2019_separate_page41_table1|1",
+      "VIB_2019_separate_page41_table1|1"
+    ],
+    "evidence": [
+      {
+        "variable": "df_0",
+        "csv_path": "data/HDG_2015_separate_page43_table0.csv"
+      },
+      {
+        "variable": "df_1",
+        "csv_path": "data/HDG_2015_consolidated_page51_table0.csv"
+      },
+      {
+        "variable": "df_2",
+        "csv_path": "data/KBC_2015_consolidated_page56_table0.csv"
+      },
+      {
+        "variable": "df_3",
+        "csv_path": "data/KBC_2015_consolidated_page56_table0.csv"
+      },
+      {
+        "variable": "df_4",
+        "csv_path": "data/HDG_2016_separate_page42_table0.csv"
+      },
+      {
+        "variable": "df_5",
+        "csv_path": "data/HDG_2015_separate_page9_table0.csv"
+      },
+      {
+        "variable": "df_6",
+        "csv_path": "data/HDG_2015_consolidated_page9_table0.csv"
+      },
+      {
+        "variable": "df_7",
+        "csv_path": "data/HDG_2015_consolidated_page28_table0.csv"
+      },
+      {
+        "variable": "df_8",
+        "csv_path": "data/HDG_2020_separate_page55_table0.csv"
+      },
+      {
+        "variable": "df_9",
+        "csv_path": "data/HDG_2021_separate_page57_table0.csv"
+      },
+      {
+        "variable": "df_10",
+        "csv_path": "data/VIF_2015_separate_page46_table0.csv"
+      },
+      {
+        "variable": "df_11",
+        "csv_path": "data/VIF_2015_separate_page46_table0.csv"
+      },
+      {
+        "variable": "df_12",
+        "csv_path": "data/SNZ_2018_consolidated_page59_table1.csv"
+      },
+      {
+        "variable": "df_13",
+        "csv_path": "data/SNZ_2018_consolidated_page59_table1.csv"
+      },
+      {
+        "variable": "df_14",
+        "csv_path": "data/HDG_2016_consolidated_page28_table0.csv"
+      },
+      {
+        "variable": "df_15",
+        "csv_path": "data/KBC_2022_consolidated_page59_table0.csv"
+      },
+      {
+        "variable": "df_16",
+        "csv_path": "data/HDG_2018_separate_page52_table0.csv"
+      },
+      {
+        "variable": "df_17",
+        "csv_path": "data/HDG_2018_separate_page52_table0.csv"
+      },
+      {
+        "variable": "df_18",
+        "csv_path": "data/HDG_2016_consolidated_page10_table0.csv"
+      },
+      {
+        "variable": "df_19",
+        "csv_path": "data/HDG_2016_separate_page9_table0.csv"
+      },
+      {
+        "variable": "df_20",
+        "csv_path": "data/SNZ_2017_consolidated_page56_table1.csv"
+      },
+      {
+        "variable": "df_21",
+        "csv_path": "data/SNZ_2017_consolidated_page56_table1.csv"
+      },
+      {
+        "variable": "df_22",
+        "csv_path": "data/HDG_2024_consolidated_page41_table1.csv"
+      },
+      {
+        "variable": "df_23",
+        "csv_path": "data/HDG_2024_consolidated_page41_table1.csv"
+      },
+      {
+        "variable": "df_24",
+        "csv_path": "data/OGC_2016_consolidated_page56_table0.csv"
+      },
+      {
+        "variable": "df_25",
+        "csv_path": "data/VIC_2015_consolidated_page86_table0.csv"
+      },
+      {
+        "variable": "df_26",
+        "csv_path": "data/VIC_2015_consolidated_page86_table0.csv"
+      },
+      {
+        "variable": "df_27",
+        "csv_path": "data/NVL_2016_consolidated_page74_table0.csv"
+      },
+      {
+        "variable": "df_28",
+        "csv_path": "data/HAG_2015_consolidated_page76_table1.csv"
+      },
+      {
+        "variable": "df_29",
+        "csv_path": "data/HAG_2015_consolidated_page76_table1.csv"
+      },
+      {
+        "variable": "df_30",
+        "csv_path": "data/VIC_2015_separate_page57_table0.csv"
+      },
+      {
+        "variable": "df_31",
+        "csv_path": "data/VIB_2016_separate_page45_table0.csv"
+      },
+      {
+        "variable": "df_32",
+        "csv_path": "data/HDG_2015_separate_page24_table0.csv"
+      },
+      {
+        "variable": "df_33",
+        "csv_path": "data/EIB_2022_consolidated_page51_table1.csv"
+      },
+      {
+        "variable": "df_34",
+        "csv_path": "data/GVR_2015_separate_page47_table0.csv"
+      },
+      {
+        "variable": "df_35",
+        "csv_path": "data/EIB_2022_separate_page50_table1.csv"
+      },
+      {
+        "variable": "df_36",
+        "csv_path": "data/VIB_2016_consolidated_page45_table0.csv"
+      },
+      {
+        "variable": "df_37",
+        "csv_path": "data/DIG_2015_consolidated_page46_table0.csv"
+      },
+      {
+        "variable": "df_38",
+        "csv_path": "data/DIG_2015_consolidated_page46_table0.csv"
+      },
+      {
+        "variable": "df_39",
+        "csv_path": "data/HDG_2015_separate_page32_table0.csv"
+      },
+      {
+        "variable": "df_40",
+        "csv_path": "data/HDG_2015_separate_page32_table0.csv"
+      },
+      {
+        "variable": "df_41",
+        "csv_path": "data/DCM_2015_separate_page33_table1.csv"
+      },
+      {
+        "variable": "df_42",
+        "csv_path": "data/DCM_2015_separate_page33_table1.csv"
+      },
+      {
+        "variable": "df_43",
+        "csv_path": "data/HDG_2025_consolidated_page46_table1.csv"
+      },
+      {
+        "variable": "df_44",
+        "csv_path": "data/HDG_2025_consolidated_page46_table1.csv"
+      },
+      {
+        "variable": "df_45",
+        "csv_path": "data/SNZ_2019_consolidated_page57_table2.csv"
+      },
+      {
+        "variable": "df_46",
+        "csv_path": "data/SNZ_2019_consolidated_page57_table2.csv"
+      },
+      {
+        "variable": "df_47",
+        "csv_path": "data/PLX_2015_consolidated_page63_table0.csv"
+      },
+      {
+        "variable": "df_48",
+        "csv_path": "data/GEX_2015_consolidated_page42_table0.csv"
+      },
+      {
+        "variable": "df_49",
+        "csv_path": "data/EIB_2020_separate_page47_table1.csv"
+      },
+      {
+        "variable": "df_50",
+        "csv_path": "data/EIB_2020_separate_page47_table1.csv"
+      },
+      {
+        "variable": "df_51",
+        "csv_path": "data/KBC_2016_consolidated_page50_table1.csv"
+      },
+      {
+        "variable": "df_52",
+        "csv_path": "data/KBC_2016_consolidated_page50_table1.csv"
+      },
+      {
+        "variable": "df_53",
+        "csv_path": "data/EIB_2021_consolidated_page51_table0.csv"
+      },
+      {
+        "variable": "df_54",
+        "csv_path": "data/EIB_2021_consolidated_page51_table0.csv"
+      },
+      {
+        "variable": "df_55",
+        "csv_path": "data/DXG_2023_consolidated_page60_table1.csv"
+      },
+      {
+        "variable": "df_56",
+        "csv_path": "data/DXG_2023_consolidated_page60_table1.csv"
+      },
+      {
+        "variable": "df_57",
+        "csv_path": "data/EIB_2021_separate_page51_table1.csv"
+      },
+      {
+        "variable": "df_58",
+        "csv_path": "data/EIB_2021_separate_page51_table1.csv"
+      },
+      {
+        "variable": "df_59",
+        "csv_path": "data/ACB_2018_consolidated_page65_table0.csv"
+      },
+      {
+        "variable": "df_60",
+        "csv_path": "data/ACB_2018_consolidated_page65_table0.csv"
+      },
+      {
+        "variable": "df_61",
+        "csv_path": "data/HPG_2015_consolidated_page66_table0.csv"
+      },
+      {
+        "variable": "df_62",
+        "csv_path": "data/KBC_2023_consolidated_page57_table0.csv"
+      },
+      {
+        "variable": "df_63",
+        "csv_path": "data/KBC_2023_consolidated_page57_table0.csv"
+      },
+      {
+        "variable": "df_64",
+        "csv_path": "data/DXG_2025_consolidated_page53_table1.csv"
+      },
+      {
+        "variable": "df_65",
+        "csv_path": "data/DXG_2025_consolidated_page53_table1.csv"
+      },
+      {
+        "variable": "df_66",
+        "csv_path": "data/EIB_2020_consolidated_page49_table0.csv"
+      },
+      {
+        "variable": "df_67",
+        "csv_path": "data/EIB_2020_consolidated_page49_table0.csv"
+      },
+      {
+        "variable": "df_68",
+        "csv_path": "data/ACB_2019_consolidated_page65_table0.csv"
+      },
+      {
+        "variable": "df_69",
+        "csv_path": "data/VIC_2016_separate_page52_table1.csv"
+      },
+      {
+        "variable": "df_70",
+        "csv_path": "data/VIC_2016_separate_page52_table1.csv"
+      },
+      {
+        "variable": "df_71",
+        "csv_path": "data/HDG_2019_separate_page51_table0.csv"
+      },
+      {
+        "variable": "df_72",
+        "csv_path": "data/HDG_2019_separate_page51_table0.csv"
+      },
+      {
+        "variable": "df_73",
+        "csv_path": "data/STB_2015_consolidated_page58_table0.csv"
+      },
+      {
+        "variable": "df_74",
+        "csv_path": "data/STB_2015_consolidated_page58_table0.csv"
+      },
+      {
+        "variable": "df_75",
+        "csv_path": "data/MSB_2025_separate_page54_table0.csv"
+      },
+      {
+        "variable": "df_76",
+        "csv_path": "data/MSB_2025_separate_page54_table0.csv"
+      },
+      {
+        "variable": "df_77",
+        "csv_path": "data/NVB_2025_consolidated_page47_table0.csv"
+      },
+      {
+        "variable": "df_78",
+        "csv_path": "data/NVB_2025_consolidated_page47_table0.csv"
+      },
+      {
+        "variable": "df_79",
+        "csv_path": "data/DCM_2018_consolidated_page38_table2.csv"
+      },
+      {
+        "variable": "df_80",
+        "csv_path": "data/DCM_2018_consolidated_page38_table2.csv"
+      },
+      {
+        "variable": "df_81",
+        "csv_path": "data/HBC_2016_consolidated_page51_table1.csv"
+      },
+      {
+        "variable": "df_82",
+        "csv_path": "data/HBC_2016_consolidated_page51_table1.csv"
+      },
+      {
+        "variable": "df_83",
+        "csv_path": "data/HDG_2015_separate_page26_table0.csv"
+      },
+      {
+        "variable": "df_84",
+        "csv_path": "data/HDG_2015_separate_page26_table0.csv"
+      },
+      {
+        "variable": "df_85",
+        "csv_path": "data/VIC_2025_consolidated_page88_table0.csv"
+      },
+      {
+        "variable": "df_86",
+        "csv_path": "data/VIC_2025_consolidated_page88_table0.csv"
+      },
+      {
+        "variable": "df_87",
+        "csv_path": "data/VIB_2019_separate_page41_table1.csv"
+      },
+      {
+        "variable": "df_88",
+        "csv_path": "data/VIB_2019_separate_page41_table1.csv"
+      }
+    ],
+    "pandas_query": "# Identify the correct value for the current year's tax expense\ncurrent_tax_expense = 288860245969.0  # From NUM_45 for 2019\nresult = current_tax_expense / 1_000_000  # Convert to million VND"
   }
 ]

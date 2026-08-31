@@ -2264,3 +2264,39 @@
 2026-08-31 09:40:52,821 | 
 [SUCCESS] Tất cả câu hỏi đã xử lý xong. Đang nén file submission.zip...
 2026-08-31 09:40:54,469 | ✅ Gói nộp bài hợp lệ. File được lưu tại: C:\Users\Minh\Desktop\My-Project\AI-Agent-Financial-DataAnalyst-Assistant\submission.zip
+2026-08-31 09:47:51,522 | Started batch inference. Logs saved to inference_log.txt
+2026-08-31 09:47:51,528 | [INFO] Resume: 98 câu OK (skip), 2 câu lỗi (chạy lại).
+2026-08-31 09:47:51,531 | [INFO] Total questions to process: 100
+2026-08-31 09:47:51,535 | --- Processing Question 83 ---
+2026-08-31 09:48:18,122 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 09:48:27,807 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 09:48:35,064 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 09:48:35,627 | [Orchestration] Question: Số dư cam kết giao dịch hối đoái của công ty mẹ Ngân hàng TMCP Quốc tế Việt Nam ...
+  ✅ [PLANNER] decompose — Plan generated (945 chars)
+  ✅ [RETRIEVER] llm_grounding — LLM Retriever hint generated
+  ✅ [RETRIEVER] ground_cells — 157 cells grounded | error=None
+  ✅ [PROGRAMMER] pot_execute — result=618888427.0, strategy=pot
+  ✅ [CRITIC] dual_verify — status=verified_single
+  Reflection rounds: 0
+2026-08-31 09:48:35,763 | --- Processing Question 95 ---
+2026-08-31 09:48:53,221 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 09:49:05,696 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 09:49:14,346 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 09:49:17,377 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 09:49:33,911 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 09:50:06,670 | [Orchestration] Question: Chi phí thuế hiện hành của CTCP Tập đoàn Hà Đô năm 2015 là bao nhiêu triệu đồng?...
+  ✅ [PLANNER] decompose — Plan generated (794 chars)
+  ✅ [RETRIEVER] llm_grounding — LLM Retriever hint generated
+  ✅ [RETRIEVER] ground_cells — 89 cells grounded | error=None
+  ✅ [PROGRAMMER] pot_execute — result=288860.245969, strategy=pot
+  ✅ [CRITIC] dual_verify — status=verified_single
+  Reflection rounds: 2
+2026-08-31 09:50:06,748 | 
+[SUCCESS] Tất cả câu hỏi đã xử lý xong. Đang nén file submission.zip...
+2026-08-31 09:50:07,387 | ✅ Gói nộp bài hợp lệ. File được lưu tại: C:\Users\Minh\Desktop\My-Project\AI-Agent-Financial-DataAnalyst-Assistant\submission.zip
+2026-08-31 09:50:37,821 | Started batch inference. Logs saved to inference_log.txt
+2026-08-31 09:50:37,826 | [INFO] Resume: 100 câu OK (skip), 0 câu lỗi (chạy lại).
+2026-08-31 09:50:37,830 | [INFO] Total questions to process: 100
+2026-08-31 09:50:37,835 | 
+[SUCCESS] Tất cả câu hỏi đã xử lý xong. Đang nén file submission.zip...
+2026-08-31 09:50:38,250 | ✅ Gói nộp bài hợp lệ. File được lưu tại: C:\Users\Minh\Desktop\My-Project\AI-Agent-Financial-DataAnalyst-Assistant\submission.zip
