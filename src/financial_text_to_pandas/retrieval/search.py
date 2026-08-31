@@ -44,6 +44,26 @@ def merge_candidates(candidates_lists: List[List[Candidate]]) -> List[Candidate]
     return list(merged.values())
 
 
+_CORPUS_CACHE: Dict[str, pd.DataFrame] = {}
+
+
+def _load_corpus_cached(corpus_path: Path) -> pd.DataFrame:
+    key = str(corpus_path.resolve())
+    if key in _CORPUS_CACHE:
+        return _CORPUS_CACHE[key]
+    try:
+        df = pd.read_csv(corpus_path, encoding="utf-8-sig")
+    except Exception:
+        try:
+            df = pd.read_csv(corpus_path, encoding="utf-8-sig", engine="python")
+        except Exception:
+            import time
+            time.sleep(0.5)
+            df = pd.read_csv(corpus_path, encoding="utf-8-sig", engine="python")
+    _CORPUS_CACHE[key] = df
+    return df
+
+
 def run_search(
     query: str,
     cfg: RunConfig,
@@ -77,7 +97,7 @@ def run_search(
     if not corpus_path.exists():
         raise FileNotFoundError(f"Corpus not found at {corpus_path}. Run corpus.py first.")
         
-    corpus_df = pd.read_csv(corpus_path, encoding="utf-8-sig")
+    corpus_df = _load_corpus_cached(corpus_path)
     
     # 1. Query Hints & Filtering
     hints = extract_query_hints(query)

@@ -1,0 +1,31 @@
+﻿row_label_raw,row_label_full,col_0,Mã số,Thuyết minh,31/12/2024 VND,1/1/2024 VND Đã điều chỉnh lại,numeric__Mã số,numeric__Thuyết minh,numeric__31/12/2024 VND,numeric__1/1/2024 VND Đã điều chỉnh lại
+Bất động sản đầu tư,Bất động sản đầu tư,Bất động sản đầu tư,230,18,112.102.582.263,145.675.172.322,230.0,18.0,112102582263.0,145675172322.0
+Nguyên giá,Nguyên giá,Nguyên giá,231,,536.746.846.681,558.088.029.012,231.0,,536746846681.0,558088029012.0
+Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,232,,(424.644.264.418),(412.412.856.690),232.0,,-424644264418.0,-412412856690.0
+Tài sản dở dang dài hạn,Tài sản dở dang dài hạn,Tài sản dở dang dài hạn,240,,372.571.762.744,112.686.564.279,240.0,,372571762744.0,112686564279.0
+"Chi phí sản xuất, kinh doanh dở dang dài hạn","Chi phí sản xuất, kinh doanh dở dang dài hạn","Chi phí sản xuất, kinh doanh dở dang dài hạn",241,19,202.549.187.157,-,241.0,19.0,202549187157.0,
+Xây dựng cơ bản dở dang,Xây dựng cơ bản dở dang,Xây dựng cơ bản dở dang,242,20,170.022.575.587,112.686.564.279,242.0,20.0,170022575587.0,112686564279.0
+Đầu tư tài chính dài hạn,Đầu tư tài chính dài hạn,Đầu tư tài chính dài hạn,250,,1.709.056.198.340,1.606.569.505.763,250.0,,1709056198340.0,1606569505763.0
+Đầu tư vào công ty liên kết,Đầu tư vào công ty liên kết,Đầu tư vào công ty liên kết,252,7(b),1.708.234.428.340,1.605.353.748.672,252.0,,1708234428340.0,1605353748672.0
+Đầu tư góp vốn vào đơn vị khác,Đầu tư góp vốn vào đơn vị khác,Đầu tư góp vốn vào đơn vị khác,253,7(c),4.821.770.000,4.821.770.000,253.0,,4821770000.0,4821770000.0
+Dự phòng đầu tư tài chính dài hạn,Dự phòng đầu tư tài chính dài hạn,Dự phòng đầu tư tài chính dài hạn,254,7(c),(4.000.000.000),(3.606.012.909),254.0,,-4000000000.0,-3606012909.0
+Tài sản dài hạn khác,Tài sản dài hạn khác,Tài sản dài hạn khác,260,,528.428.450.216,731.576.123.215,260.0,,528428450216.0,731576123215.0
+Chi phí trả trước dài hạn,Chi phí trả trước dài hạn,Chi phí trả trước dài hạn,261,21(b),290.930.501.865,478.808.935.599,261.0,,290930501865.0,478808935599.0
+Tài sản thuế thu nhập hoãn lại,Tài sản thuế thu nhập hoãn lại,Tài sản thuế thu nhập hoãn lại,262,22,30.280.921.273,34.226.534.092,262.0,22.0,30280921273.0,34226534092.0
+"Thiết bị, vật tư, phụ tùng thay thế dài hạn","Thiết bị, vật tư, phụ tùng thay thế dài hạn","Thiết bị, vật tư, phụ tùng thay thế dài hạn",263,,25.969.362.920,2.198.615.537,263.0,,25969362920.0,2198615537.0
+Lợi thế thương mại,Lợi thế thương mại,Lợi thế thương mại,269,23,181.247.664.158,216.342.037.987,269.0,23.0,181247664158.0,216342037987.0
+TỔNG CỘNG TÀI SẢN (270 = 100 + 200),TỔNG CỘNG TÀI SẢN (270 = 100 + 200),TỔNG CỘNG TÀI SẢN (270 = 100 + 200),270,,20.987.644.741.128,20.175.144.882.940,270.0,,20987644741128.0,20175144882940.0
+NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,,,,
+NỘ PHẢI TRẢ (300 = 310 + 330),NGUỒN VỐN > NỘ PHẢI TRẢ (300 = 310 + 330),NỘ PHẢI TRẢ (300 = 310 + 330),300,,13.271.625.448.232,13.027.533.672.586,300.0,,13271625448232.0,13027533672586.0
+Nợ ngắn hạn,NGUỒN VỐN > Nợ ngắn hạn,Nợ ngắn hạn,310,,5.078.147.101.360,4.777.754.337.912,310.0,,5078147101360.0,4777754337912.0
+Phải trả người bán ngắn hạn,NGUỒN VỐN > Phải trả người bán ngắn hạn,Phải trả người bán ngắn hạn,311,24,1.120.664.359.789,1.048.601.949.747,311.0,24.0,1120664359789.0,1048601949747.0
+Người mua trả tiền trước ngắn hạn,NGUỒN VỐN > Người mua trả tiền trước ngắn hạn,Người mua trả tiền trước ngắn hạn,312,25,299.209.751.506,169.442.503.266,312.0,25.0,299209751506.0,169442503266.0
+Thuế và các khoản khác phải nộp Nhà nước,NGUỒN VỐN > Thuế và các khoản khác phải nộp Nhà nước,Thuế và các khoản khác phải nộp Nhà nước,313,26,230.165.562.350,143.917.465.802,313.0,26.0,230165562350.0,143917465802.0
+Phải trả người lao động,NGUỒN VỐN > Phải trả người lao động,Phải trả người lao động,314,,98.754.378.100,56.308.500.869,314.0,,98754378100.0,56308500869.0
+Chi phí phải trả ngắn hạn,NGUỒN VỐN > Chi phí phải trả ngắn hạn,Chi phí phải trả ngắn hạn,315,27,83.045.126.902,216.868.137.878,315.0,27.0,83045126902.0,216868137878.0
+Phải trả theo tiến độ kế hoạch hợp đồng xây dựng,NGUỒN VỐN > Phải trả theo tiến độ kế hoạch hợp đồng xây dựng,Phải trả theo tiến độ kế hoạch hợp đồng xây dựng,317,,850.614.873,-,317.0,,850614873.0,
+Doanh thu chưa thực hiện ngắn hạn,NGUỒN VỐN > Doanh thu chưa thực hiện ngắn hạn,Doanh thu chưa thực hiện ngắn hạn,318,,6.780.962.417,4.697.211.060,318.0,,6780962417.0,4697211060.0
+Phải trả ngắn hạn khác,NGUỒN VỐN > Phải trả ngắn hạn khác,Phải trả ngắn hạn khác,319,28(a),109.774.770.645,102.223.715.675,319.0,,109774770645.0,102223715675.0
+"Vay ngắn hạn, trái phiếu phát hành và nợ thuê tài chính dài hạn đến hạn trả","NGUỒN VỐN > Vay ngắn hạn, trái phiếu phát hành và nợ thuê tài chính dài hạn đến hạn trả","Vay ngắn hạn, trái phiếu phát hành và nợ thuê tài chính dài hạn đến hạn trả",320,29(a),2.950.283.971.656,2.838.478.333.363,320.0,,2950283971656.0,2838478333363.0
+Dự phòng phải trả ngắn hạn,NGUỒN VỐN > Dự phòng phải trả ngắn hạn,Dự phòng phải trả ngắn hạn,321,30,11.957.159.622,12.523.794.502,321.0,30.0,11957159622.0,12523794502.0
+"Quỹ khen thưởng, phúc lợi","NGUỒN VỐN > Quỹ khen thưởng, phúc lợi","Quỹ khen thưởng, phúc lợi",322,31,166.660.443.500,184.692.725.750,322.0,31.0,166660443500.0,184692725750.0

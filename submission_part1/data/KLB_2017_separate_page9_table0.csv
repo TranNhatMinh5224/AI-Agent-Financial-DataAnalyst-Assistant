@@ -1,0 +1,17 @@
+﻿row_label_raw,row_label_full,col_0,col_1,Thuyết minh,2017 Triệu VND,2016 Triệu VND,numeric__col_1,numeric__Thuyết minh,numeric__2017 Triệu VND,numeric__2016 Triệu VND
+1,1,1,Thu nhập lãi và các khoản thu nhập tương tự,20,2.908.703,2.294.005,,20.0,2908703.0,2294005.0
+2,2,2,Chi phí lãi và các chi phí tương tự,20,(1.867.168),(1.508.879),,20.0,-1867168.0,-1508879.0
+I,I,I,Thu nhập lãi và các khoản thu nhập tương tự thuần,20,1.041.535,785.126,,20.0,1041535.0,785126.0
+3,3,3,Thu nhập từ hoạt động dịch vụ,21,17.145,10.855,,21.0,17145.0,10855.0
+4,4,4,Chi phí hoạt động dịch vụ,21,(10.837),(6.343),,21.0,-10837.0,-6343.0
+II,II,II,Lãi thuần từ hoạt động dịch vụ,21,6.308,4.512,,21.0,6308.0,4512.0
+III,III,III,Lãi thuần từ hoạt động kinh doanh ngoại hối,22,3.633,6.483,,22.0,3633.0,6483.0
+V,V,V,(Lỗ)/lãi thuần từ mua bán chứng khoán đầu tư,23,(4.133),66.112,,23.0,-4133.0,66112.0
+5,5,5,Thu nhập từ hoạt động khác,24,38.012,30.018,,24.0,38012.0,30018.0
+6,6,6,Chi phí hoạt động khác,24,(15.777),(14.958),,24.0,-15777.0,-14958.0
+VI,VI,VI,Lãi thuần từ hoạt động khác,24,22.235,15.060,,24.0,22235.0,15060.0
+VII,VII,VII,"Thu nhập từ góp vốn, mua cổ phần",25,12.452,11.063,,25.0,12452.0,11063.0
+VIII,VIII,VIII,Chi phí hoạt động,26,(768.117),(655.238),,26.0,-768117.0,-655238.0
+IX,IX,IX,Lợi nhuận thuần từ hoạt động kinh doanh trước chi phí dự phòng rủi ro tín dụng,,313.913,233.118,,,313913.0,233118.0
+X,X,X,Chi phí dự phòng rủi ro tín dụng,27,(68.757),(92.029),,27.0,-68757.0,-92029.0
+XI,XI,XI,Tổng lợi nhuận trước thuế (mang sang trang sau),,245.156,141.089,,,245156.0,141089.0
