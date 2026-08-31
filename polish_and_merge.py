@@ -115,6 +115,10 @@ def main():
     if failed_items and not args.no_polish:
         print(f"\n🚀 Đang khởi động AI Orchestrator để giải lại {len(failed_items)} câu lỗi...")
         cfg = load_config(Path(args.config))
+        from financial_text_to_pandas.retrieval.search import run_search
+        from financial_text_to_pandas.reasoning.intent import extract_intent
+        from financial_text_to_pandas.types import EvidencePackage
+        from financial_text_to_pandas.reasoning.evidence import load_evidence_tables
 
         def create_agent_config(role, cfg_dict, default_model):
             model = cfg_dict.get("model_name", default_model)
@@ -125,10 +129,10 @@ def main():
             return agent
 
         orch_cfg = OrchestratorConfig(
-            planner=create_agent_config("planner", cfg.llm_planner_config, "deepseek-r1:14b"),
-            retriever=create_agent_config("retriever", cfg.llm_retriever_config, "qwen2.5:7b"),
-            programmer=create_agent_config("programmer", cfg.llm_programmer_config, "qwen2.5-coder:14b"),
-            critic=create_agent_config("critic", cfg.llm_critic_config, "qwen2.5-coder:3b")
+            planner=create_agent_config("planner", cfg.llm_planner_config, "qwen/qwen3-14b"),
+            retriever=create_agent_config("retriever", cfg.llm_retriever_config, "qwen/qwen-2.5-7b-instruct"),
+            programmer=create_agent_config("programmer", cfg.llm_programmer_config, "qwen/qwen3-14b"),
+            critic=create_agent_config("critic", cfg.llm_critic_config, "qwen/qwen-2.5-7b-instruct")
         )
 
         def to_llm_config_patched(self):
@@ -142,30 +146,88 @@ def main():
         AgentConfig.to_llm_config = lambda self: to_llm_config_patched(self)
         orchestrator = FinancialQAOrchestrator(orch_cfg)
 
+        output_root = cfg.output_root
+        if not output_root.is_absolute():
+            output_root = Path.cwd() / output_root
+
         fixed_count = 0
         for item in failed_items:
             qid = int(item["id"])
             q_text = questions_map.get(qid, item.get("question", ""))
             print(f"\n--- Đang Polish Câu {qid}: {q_text[:70]}... ---")
             try:
-                state = orchestrator.process_question(str(qid), q_text)
-                new_item = create_submission_item(state)
-                # Đảm bảo giữ ID số nguyên
-                new_item["id"] = qid
-                new_item["question"] = q_text
+                tables = run_search(q_text, cfg, method="hybrid", top_k=80, no_reranker=False)
+                intent = extract_intent(q_text)
+                package = EvidencePackage(
+                    query_id=str(qid),
+                    question=q_text,
+                    intent=intent,
+                    tables=tables,
+                    linked_text_context=[]
+                )
+                dfs = load_evidence_tables(package, output_root)
+                trace = orchestrator.run(q_text, package, dfs, run_config=cfg, output_root=output_root)
+                ans = trace.final_answer
+
+                answer_val = ans.answer if (ans and ans.answer is not None) else None
+                citations = ans.citations if ans and ans.citations else []
+                code_gen = ans.code_generated if ans and ans.code_generated else ""
+
+                if answer_val is not None:
+                    try:
+                        f_ans = float(answer_val)
+                    except (ValueError, TypeError):
+                        f_ans = 0.0
+                else:
+                    f_ans = 0.0
+
+                evidence_tables = []
+                table_refs = []
+                report_ids = set()
+
+                for i, citation in enumerate(citations):
+                    var_name = f"df_{i}"
+                    report_id = citation.table_id
+                    csv_path_str = citation.csv_path
+                    if not Path(csv_path_str).is_absolute():
+                        csv_path_full = output_root / csv_path_str
+                    else:
+                        csv_path_full = Path(csv_path_str)
+                        
+                    evidence_tables.append((var_name, report_id, csv_path_full.name))
+                    table_refs.append((report_id, 1))
+                    report_ids.add(report_id)
+
+                    if csv_path_full.exists():
+                        csv_sources[csv_path_full.name] = csv_path_full
+
+                sub_item = create_submission_item(
+                    question_id=int(qid),
+                    question_text=q_text,
+                    answer=f_ans,
+                    report_ids=list(report_ids),
+                    table_refs=table_refs,
+                    evidence_tables=evidence_tables,
+                    pandas_query=code_gen,
+                )
+
+                new_item = {
+                    "id": qid,
+                    "question": q_text,
+                    "answer": sub_item.answer,
+                    "pandas_query": sub_item.pandas_query,
+                    "relevant_docs": sub_item.relevant_docs,
+                    "relevant_tables": sub_item.relevant_tables,
+                    "evidence": [{"variable": e.variable, "csv_path": e.csv_path} for e in sub_item.evidence],
+                    "trace": trace.summary()
+                }
 
                 if is_valid_answer(new_item):
                     print(f"  🎉 [THÀNH CÔNG] Câu {qid} -> Đáp án: {new_item.get('answer')}")
                     merged_items[qid] = new_item
                     fixed_count += 1
-                    # Cập nhật nguồn CSV
-                    for t in state.evidence_tables:
-                        if t.candidate and t.candidate.csv_path:
-                            p = Path(t.candidate.csv_path)
-                            if p.exists():
-                                csv_sources[p.name] = p
                 else:
-                    print(f"  ⚠️ [VẪN 0.0] Câu {qid} (Có thể là True Zero trong BCTC)")
+                    print(f"  ⚠️ [VẪN 0.0] Câu {qid} (True Zero theo BCTC hoặc không có dữ liệu)")
                     merged_items[qid] = new_item
             except Exception as e:
                 print(f"  ❌ Lỗi khi xử lý câu {qid}: {e}")

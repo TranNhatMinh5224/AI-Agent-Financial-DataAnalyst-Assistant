@@ -307,18 +307,25 @@ class FinancialQAOrchestrator:
         # Check Multi-hop condition
         intent = evidence_package.intent
         is_multi_hop = intent and (intent.operation == "multi_hop" or len(intent.years) >= 2)
+        fallback = False
 
         if is_multi_hop and run_config and output_root:
             trace.add_step(ROLE_PLANNER, "route", True, "Routing to Multi-hop Flow")
             from financial_text_to_pandas.reasoning.multi_hop import run_multi_hop
-            result, grounding, dfs, evidence_package = run_multi_hop(
+            result, grounding, dfs, evidence_package_mh = run_multi_hop(
                 question, intent, run_config, output_root, self.cfg.programmer.to_llm_config()
             )
-            trace.add_step(
-                ROLE_PROGRAMMER, "multi_hop_execute", result.error_type is None,
-                f"Multi-hop result: {result.numeric_result}"
-            )
-        else:
+            if result.error_type is None:
+                evidence_package = evidence_package_mh
+                trace.add_step(
+                    ROLE_PROGRAMMER, "multi_hop_execute", True,
+                    f"Multi-hop result: {result.numeric_result}"
+                )
+            else:
+                trace.add_step(ROLE_PROGRAMMER, "multi_hop_execute", False, "Multi-hop failed. Falling back to Standard Flow.")
+                fallback = True
+        
+        if not is_multi_hop or fallback:
             # Step 2: Retriever (Standard Flow)
             grounding = self.retrieve(question, plan, evidence_package, trace, dfs)
             if grounding.error_type:

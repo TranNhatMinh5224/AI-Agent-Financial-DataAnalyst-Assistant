@@ -32,15 +32,19 @@ def load_evidence_tables(package: EvidencePackage, base_dir: Path) -> Dict[str, 
     for ev_table in package.tables:
         cand = ev_table.candidate
         csv_path = base_dir / cand.csv_path
-        
         if not csv_path.exists():
-            raise FileNotFoundError(f"Evidence CSV missing for table {cand.table_id}: {csv_path}")
+            csv_path = base_dir / "artifacts" / "preprocessing" / cand.csv_path
+        if not csv_path.exists() and Path(cand.csv_path).exists():
+            csv_path = Path(cand.csv_path)
+            
+        if not csv_path.exists():
+            continue
             
         try:
             df = pd.read_csv(csv_path, encoding="utf-8-sig")
             dfs[cand.table_id] = df
-        except Exception as e:
-            raise RuntimeError(f"Failed to parse CSV for table {cand.table_id}: {e}")
+        except Exception:
+            continue
             
     # Also load linked text context for Dual Verification & Multi-hop
     load_linked_text_context(package, base_dir)

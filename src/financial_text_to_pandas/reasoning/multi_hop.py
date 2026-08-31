@@ -31,9 +31,12 @@ def run_multi_hop(
     """
     # 1. Tạo sub-queries (ví dụ: so sánh 2 năm → bóc tách thành từng năm)
     sub_queries = []
+    tickers = intent.tickers if hasattr(intent, "tickers") and intent.tickers else ([intent.ticker] if intent.ticker else [])
+    ticker_str = ", ".join(tickers)
+    
     for year in intent.years:
         for metric in intent.metrics:
-            sq = f"{metric} {intent.ticker or ''} năm {year}".strip()
+            sq = f"{metric} {ticker_str} năm {year}".strip()
             sub_queries.append(sq)
             
     if not sub_queries:
@@ -45,9 +48,9 @@ def run_multi_hop(
         try:
             # Fallback bm25 if hybrid is not fully setup
             try:
-                tables = run_search(sq, run_config, method="hybrid", top_k=5)
+                tables = run_search(sq, run_config, method="hybrid", top_k=20)
             except Exception:
-                tables = run_search(sq, run_config, method="bm25", top_k=5, no_reranker=True)
+                tables = run_search(sq, run_config, method="bm25", top_k=20, no_reranker=True)
                 
             for ev in tables:
                 all_tables[ev.candidate.table_id] = ev

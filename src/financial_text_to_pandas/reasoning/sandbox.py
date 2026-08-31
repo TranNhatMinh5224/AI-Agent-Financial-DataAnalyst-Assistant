@@ -10,6 +10,11 @@ import ast
 from typing import Dict, Any, Optional
 
 import pandas as pd
+import numpy as np
+import math
+import statistics
+import re
+from statistics import mean, median
 
 from financial_text_to_pandas.reasoning.tools import parse_vn_number, normalize_unit, safe_get_cell
 
@@ -22,10 +27,15 @@ class SecureASTVisitor(ast.NodeVisitor):
     """AST Visitor to enforce security rules on generated code."""
     
     def visit_Import(self, node):
-        raise SecurityViolation("Imports are not allowed in the sandbox.")
+        for alias in node.names:
+            if alias.name not in {"pandas", "numpy", "math", "statistics", "re"}:
+                raise SecurityViolation(f"Import '{alias.name}' is not allowed in the sandbox.")
+        self.generic_visit(node)
         
     def visit_ImportFrom(self, node):
-        raise SecurityViolation("Imports are not allowed in the sandbox.")
+        if node.module not in {"pandas", "numpy", "math", "statistics", "re"}:
+            raise SecurityViolation(f"ImportFrom '{node.module}' is not allowed in the sandbox.")
+        self.generic_visit(node)
         
     def visit_Call(self, node):
         if isinstance(node.func, ast.Name):
@@ -113,6 +123,12 @@ def run_pandas_sandbox(
             "print": print,
         },
         "pd": pd,
+        "np": np,
+        "math": math,
+        "statistics": statistics,
+        "re": re,
+        "mean": mean,
+        "median": median,
         "dfs": dfs,
         "safe_div": safe_div,
         "parse_vn_number": parse_vn_number,
