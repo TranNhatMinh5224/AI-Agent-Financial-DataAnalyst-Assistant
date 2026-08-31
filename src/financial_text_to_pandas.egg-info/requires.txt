@@ -4,6 +4,7 @@ beautifulsoup4
 lxml
 PyYAML
 rapidfuzz
+openai
 
 [dev]
 pytest

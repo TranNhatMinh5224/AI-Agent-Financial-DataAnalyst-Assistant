@@ -1,0 +1,21 @@
+﻿row_label_raw,row_label_full,col_0,col_1,Thuyết minh,Năm tài chính kết thúc ngày 31 tháng 12 năm > 2024 Triệu đồng,Năm tài chính kết thúc ngày 31 tháng 12 năm > 2023 Triệu đồng,numeric__col_1,numeric__Thuyết minh,numeric__Năm tài chính kết thúc ngày 31 tháng 12 năm > 2024 Triệu đồng,numeric__Năm tài chính kết thúc ngày 31 tháng 12 năm > 2023 Triệu đồng
+1,1,1,Thu nhập lãi và các khoản thu nhập tương tự,20,13.234.075,14.699.192,,20.0,13234075.0,14699192.0
+2,2,2,Chi phí lãi và các khoản chi phí tương tự,21,(7.310.550),(10.102.088),,21.0,-7310550.0,-10102088.0
+I,I,I,Thu nhập lãi thuần,,5.923.525,4.597.104,,,5923525.0,4597104.0
+3,3,3,Thu nhập từ hoạt động dịch vụ,22,2.165.867,1.393.614,,22.0,2165867.0,1393614.0
+4,4,4,Chi phí từ hoạt động dịch vụ,23,(1.085.567),(879.314),,23.0,-1085567.0,-879314.0
+II,II,II,Lãi thuần từ hoạt động dịch vụ,,1.080.300,514.300,,,1080300.0,514300.0
+III,III,III,Lãi thuần từ hoạt động kinh doanh ngoại hối,24,673.796,485.920,,24.0,673796.0,485920.0
+V,V,V,(Lỗ)/lãi thuần từ mua bán chứng khoán đầu tư,25,(68.479),121.282,,25.0,-68479.0,121282.0
+5,5,5,Thu nhập từ hoạt động khác,,1.079.063,930.556,,,1079063.0,930556.0
+6,6,6,Chi phí hoạt động khác,,(131.955),(95.477),,,-131955.0,-95477.0
+VI,VI,VI,Lãi thuần từ hoạt động khác,26,947.108,835.079,,26.0,947108.0,835079.0
+VII,VII,VII,"Thu nhập từ góp vốn, mua cổ phần",,1.385,1.148,,,1385.0,1148.0
+VIII,VIII,VIII,Chi phí hoạt động,27,(3.400.146),(3.140.808),,27.0,-3400146.0,-3140808.0
+IX,IX,IX,Lợi nhuận thuần từ hoạt động kinh doanh trước chi phí dự phòng rủi ro tín dụng,,5.157.489,3.414.025,,,5157489.0,3414025.0
+X,X,X,Chi phí dự phòng rủi ro tín dụng,28,(969.072),(694.399),,28.0,-969072.0,-694399.0
+XI,XI,XI,Tổng lợi nhuận trước thuế,,4.188.417,2.719.626,,,4188417.0,2719626.0
+7,7,7,Chi phí thuế TNDN - hiện hành,,(861.791),(554.528),,,-861791.0,-554528.0
+8,8,8,Thu nhập thuế TNDN - hoãn lại,,178,1,,,178.0,1.0
+XII,XII,XII,Chi phí thuế TNDN,29,(861.613),(554.527),,29.0,-861613.0,-554527.0
+XIII,XIII,XIII,Lợi nhuận sau thuế,,3.326.804,2.165.099,,,3326804.0,2165099.0

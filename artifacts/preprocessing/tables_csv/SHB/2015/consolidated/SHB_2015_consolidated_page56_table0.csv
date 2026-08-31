@@ -1,0 +1,25 @@
+﻿row_label_raw,row_label_full,col_0,31/12/2015triệu VND,31/12/2014triệu VND,numeric__31/12/2015triệu VND,numeric__31/12/2014triệu VND
+Thu nhập từ hoạt động kinh doanh trước thuế,Thu nhập từ hoạt động kinh doanh trước thuế,Thu nhập từ hoạt động kinh doanh trước thuế,1.017.054,1.012.348,1017054.0,1012348.0
+Điều chỉnh cho các khoản:,Điều chỉnh cho các khoản:,Điều chỉnh cho các khoản:,,,,
+- Thu nhập từ cổ tức không chịu thuế,Điều chỉnh cho các khoản: > - Thu nhập từ cổ tức không chịu thuế,- Thu nhập từ cổ tức không chịu thuế,(8.565),(7.820),-8565.0,-7820.0
+- Lãi từ chi nhánh Campuchia,Điều chỉnh cho các khoản: > - Lãi từ chi nhánh Campuchia,- Lãi từ chi nhánh Campuchia,(48.822),(42.539),-48822.0,-42539.0
+- (Lãi)/Lỗ từ chi nhánh Lào,Điều chỉnh cho các khoản: > - (Lãi)/Lỗ từ chi nhánh Lào,- (Lãi)/Lỗ từ chi nhánh Lào,(8.920),(26.503),-8920.0,-26503.0
+- Lỗ của công ty con,Điều chỉnh cho các khoản: > - Lỗ của công ty con,- Lỗ của công ty con,-,(25.176),,-25176.0
+- Chi phạt không được khấu trừ,Điều chỉnh cho các khoản: > - Chi phạt không được khấu trừ,- Chi phạt không được khấu trừ,231,,231.0,
+- Các khoản điều chỉnh của Chi nhánh Campuchia,Điều chỉnh cho các khoản: > - Các khoản điều chỉnh của Chi nhánh Campuchia,- Các khoản điều chỉnh của Chi nhánh Campuchia,-,(4.176),,-4176.0
+- Chuyển lỗ tính thuế từ năm trước của SHBS,Điều chỉnh cho các khoản: > - Chuyển lỗ tính thuế từ năm trước của SHBS,- Chuyển lỗ tính thuế từ năm trước của SHBS,-,331,,331.0
+- Điều chỉnh hợp nhất,Điều chỉnh cho các khoản: > - Điều chỉnh hợp nhất,- Điều chỉnh hợp nhất,-,23.531,,23531.0
+Thu nhập chịu thuế TNDN của Ngân hàng,Điều chỉnh cho các khoản: > Thu nhập chịu thuế TNDN của Ngân hàng,Thu nhập chịu thuế TNDN của Ngân hàng,950.978,929.996,950978.0,929996.0
+Chi phí thuế TNDN trong năm của hệ thống Ngân hàng (i),Điều chỉnh cho các khoản: > Chi phí thuế TNDN trong năm của hệ thống Ngân hàng (i),Chi phí thuế TNDN trong năm của hệ thống Ngân hàng (i),209.237,204.599,209237.0,204599.0
+Chi phí thuế TNDN của chi nhánh Lào (ii),Điều chỉnh cho các khoản: > Chi phí thuế TNDN của chi nhánh Lào (ii),Chi phí thuế TNDN của chi nhánh Lào (ii),2.142,6.361,2142.0,6361.0
+Chi phí thuế TNDN của chi nhánh Campuchia (iii),Điều chỉnh cho các khoản: > Chi phí thuế TNDN của chi nhánh Campuchia (iii),Chi phí thuế TNDN của chi nhánh Campuchia (iii),9.931,9.083,9931.0,9083.0
+Chi phí thuế TNDN hoãn lại của Chi nhánh Campuchia (iv),Điều chỉnh cho các khoản: > Chi phí thuế TNDN hoãn lại của Chi nhánh Campuchia (iv),Chi phí thuế TNDN hoãn lại của Chi nhánh Campuchia (iv),461,(137),461.0,-137.0
+Chi phí thuế TNDN của công ty con (v),Điều chỉnh cho các khoản: > Chi phí thuế TNDN của công ty con (v),Chi phí thuế TNDN của công ty con (v),127,1.558,127.0,1558.0
+Thuế TNDN trong năm (i+ii+iii+iv+v),Điều chỉnh cho các khoản: > Thuế TNDN trong năm (i+ii+iii+iv+v),Thuế TNDN trong năm (i+ii+iii+iv+v),221.898,221.464,221898.0,221464.0
+Chi phí thuế TNDN nộp bổ sung năm 2013,Điều chỉnh cho các khoản: > Chi phí thuế TNDN nộp bổ sung năm 2013,Chi phí thuế TNDN nộp bổ sung năm 2013,-,52,,52.0
+Thuế TNDN (nộp thừa)/phải trả đầu năm,Điều chỉnh cho các khoản: > Thuế TNDN (nộp thừa)/phải trả đầu năm,Thuế TNDN (nộp thừa)/phải trả đầu năm,66.690,(25.962),66690.0,-25962.0
+Thuế TNDN đã trả trong năm,Điều chỉnh cho các khoản: > Thuế TNDN đã trả trong năm,Thuế TNDN đã trả trong năm,(224.991),(128.864),-224991.0,-128864.0
+Thuế TNDN phải trả cuối năm,Điều chỉnh cho các khoản: > Thuế TNDN phải trả cuối năm,Thuế TNDN phải trả cuối năm,63.597,66.690,63597.0,66690.0
+Trong đó,Trong đó,Trong đó,,,,
+- Tạm ứng nộp thuế TNDN,Trong đó > - Tạm ứng nộp thuế TNDN,- Tạm ứng nộp thuế TNDN,-,(130),,-130.0
+- Thuế TNDN phải trả cuối năm,Trong đó > - Thuế TNDN phải trả cuối năm,- Thuế TNDN phải trả cuối năm,63.597,66.820,63597.0,66820.0

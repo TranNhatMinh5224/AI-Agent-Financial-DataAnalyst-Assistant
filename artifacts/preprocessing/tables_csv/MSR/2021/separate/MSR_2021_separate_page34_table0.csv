@@ -1,0 +1,16 @@
+﻿row_label_raw,row_label_full,col_0,Code,Note,2021VND’000,2020VND’000,numeric__Code,numeric__Note,numeric__2021VND’000,numeric__2020VND’000
+CASH FLOWS FROM OPERATING ACTIVITIES,CASH FLOWS FROM OPERATING ACTIVITIES,CASH FLOWS FROM OPERATING ACTIVITIES,CASH FLOWS FROM OPERATING ACTIVITIES,CASH FLOWS FROM OPERATING ACTIVITIES,CASH FLOWS FROM OPERATING ACTIVITIES,CASH FLOWS FROM OPERATING ACTIVITIES,,,,
+Profit before tax,CASH FLOWS FROM OPERATING ACTIVITIES > Profit before tax,Profit before tax,01,,"839,074","1,971,889",1.0,,839.074,
+Adjustments for Profits from investing activities,CASH FLOWS FROM OPERATING ACTIVITIES > Adjustments for Profits from investing activities,Adjustments for Profits from investing activities,05,,"(280,995,953)","(306,449,356)",5.0,,,
+Interest expense and borrowing fees,CASH FLOWS FROM OPERATING ACTIVITIES > Interest expense and borrowing fees,Interest expense and borrowing fees,06,,"272,008,141","298,399,658",6.0,,,
+Operating loss before changes in working capital,CASH FLOWS FROM OPERATING ACTIVITIES > Operating loss before changes in working capital,Operating loss before changes in working capital,08,,"(8,148,738)","(6,077,809)",8.0,,,
+Change in receivables and other assets,CASH FLOWS FROM OPERATING ACTIVITIES > Change in receivables and other assets,Change in receivables and other assets,09,,"(23,690,110)","(292,885)",9.0,,,-292.885
+Change in payables and other liabilities,CASH FLOWS FROM OPERATING ACTIVITIES > Change in payables and other liabilities,Change in payables and other liabilities,11,,"507,671","(413,263)",11.0,,507.671,-413.263
+,,,,,"(31,331,177)","(6,783,957)",,,,
+Interest paid,CASH FLOWS FROM OPERATING ACTIVITIES > Interest paid,Interest paid,14,,"(269,138,899)","(301,932,976)",14.0,,,
+Income tax paid,CASH FLOWS FROM OPERATING ACTIVITIES > Income tax paid,Income tax paid,15,,"(245,627)","(300,000)",15.0,,-245.627,-300.0
+Net cash flows from operating activities,CASH FLOWS FROM OPERATING ACTIVITIES > Net cash flows from operating activities,Net cash flows from operating activities,20,,"(300,715,703)","(309,016,933)",20.0,,,
+CASH FLOWS FROM INVESTING ACTIVITIES,CASH FLOWS FROM INVESTING ACTIVITIES,CASH FLOWS FROM INVESTING ACTIVITIES,CASH FLOWS FROM INVESTING ACTIVITIES,CASH FLOWS FROM INVESTING ACTIVITIES,CASH FLOWS FROM INVESTING ACTIVITIES,CASH FLOWS FROM INVESTING ACTIVITIES,,,,
+Capital contribution to a subsidiary,CASH FLOWS FROM INVESTING ACTIVITIES > Capital contribution to a subsidiary,Capital contribution to a subsidiary,25,,-,"(2,701,705,929)",25.0,,,
+Receipts of interests and dividends,CASH FLOWS FROM INVESTING ACTIVITIES > Receipts of interests and dividends,Receipts of interests and dividends,27,,"276,001,125","963,858,457",27.0,,,
+Net cash flows from investing activities,CASH FLOWS FROM INVESTING ACTIVITIES > Net cash flows from investing activities,Net cash flows from investing activities,30,,"276,001,125","(1,737,847,472)",30.0,,,

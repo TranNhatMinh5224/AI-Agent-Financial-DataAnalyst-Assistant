@@ -1,0 +1,11 @@
+﻿row_label_raw,row_label_full,col_0,Code,Note,2025 VND'000,2024 VND'000,numeric__Code,numeric__Note,numeric__2025 VND'000,numeric__2024 VND'000
+Financial income,Financial income,Financial income,21,15,"170,005,339","245,564,883",21.0,15.0,,
+Financial expenses,Financial expenses,Financial expenses,22,16,"164,744,233","240,976,620",22.0,16.0,,
+In which: Interest expense,In which: Interest expense,In which: Interest expense,23,,"154,674,553","240,203,591",23.0,,,
+General and administration expenses,General and administration expenses,General and administration expenses,26,,"4,684,088","4,023,369",26.0,,,
+Net operating profit (30 = 21 - 22 - 26),Net operating profit (30 = 21 - 22 - 26),Net operating profit (30 = 21 - 22 - 26),30,,"577,018","564,894",30.0,,577.018,564.894
+Other expenses,Other expenses,Other expenses,32,,"24,081","2,145",32.0,,24.081,2.145
+Results of other activities (40 = -32),Results of other activities (40 = -32),Results of other activities (40 = -32),40,,"(24,081)","(2,145)",40.0,,-24.081,-2.145
+Accounting profit before tax (50 = 30 + 40),Accounting profit before tax (50 = 30 + 40),Accounting profit before tax (50 = 30 + 40),50,,"552,937","562,749",50.0,,552.937,562.749
+Income tax expense - current,Income tax expense - current,Income tax expense - current,51,17,"108,520","119,862",51.0,17.0,108.52,119.862
+Net profit after tax (60 = 50 - 51),Net profit after tax (60 = 50 - 51),Net profit after tax (60 = 50 - 51),60,,"444,417","442,887",60.0,,444.417,442.887

@@ -1,0 +1,23 @@
+﻿row_label_raw,row_label_full,Chỉ tiêu,Quyền sử dụng đất,Quyền phát hành,"Bản quyền, bằng sáng chế",Phần mềm vi tính,TSCĐ vô hình khác,Cộng,numeric__Quyền sử dụng đất,numeric__Quyền phát hành,"numeric__Bản quyền, bằng sáng chế",numeric__Phần mềm vi tính,numeric__TSCĐ vô hình khác,numeric__Cộng
+I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,,,,,,
+1. Số dư đầu năm,I. Nguyên giá > 1. Số dư đầu năm,1. Số dư đầu năm,221.858.474.830,,,936.365.200,,222.794.840.030,221858474830.0,,,936365200.0,,222794840030.0
+2. Số tăng trong năm,I. Nguyên giá > 2. Số tăng trong năm,2. Số tăng trong năm,,,,408.000.000,1.620.370.370,2.028.370.370,,,,408000000.0,1620370370.0,2028370370.0
+- Mua trong năm,I. Nguyên giá > - Mua trong năm,- Mua trong năm,,,,150.000.000,1.620.370.370,1.770.370.370,,,,150000000.0,1620370370.0,1770370370.0
+- Tăng từ XDCB,I. Nguyên giá > - Tăng từ XDCB,- Tăng từ XDCB,,,,258.000.000,,258.000.000,,,,258000000.0,,258000000.0
+- Tăng khác,- Tăng khác,- Tăng khác,,,,,,,,,,,,
+3. Số giảm trong năm,3. Số giảm trong năm,3. Số giảm trong năm,,,,,,,,,,,,
+"- Thanh lý, nhượng bán","- Thanh lý, nhượng bán","- Thanh lý, nhượng bán",,,,,,,,,,,,
+- Giảm khác,- Giảm khác,- Giảm khác,,,,,,,,,,,,
+4. Số dư cuối năm,- Giảm khác > 4. Số dư cuối năm,4. Số dư cuối năm,221.858.474.830,,,1.344.365.200,1.620.370.370,224.823.210.400,221858474830.0,,,1344365200.0,1620370370.0,224823210400.0
+II. Giá trị hao mòn luỹ kế,II. Giá trị hao mòn luỹ kế,II. Giá trị hao mòn luỹ kế,II. Giá trị hao mòn luỹ kế,II. Giá trị hao mòn luỹ kế,II. Giá trị hao mòn luỹ kế,II. Giá trị hao mòn luỹ kế,II. Giá trị hao mòn luỹ kế,II. Giá trị hao mòn luỹ kế,,,,,,
+1. Số dư đầu năm,II. Giá trị hao mòn luỹ kế > 1. Số dư đầu năm,1. Số dư đầu năm,,,,50.402.802,,50.402.802,,,,50402802.0,,50402802.0
+2. Khấu hao trong năm,II. Giá trị hao mòn luỹ kế > 2. Khấu hao trong năm,2. Khấu hao trong năm,,,,206.880.660,162.037.032,368.917.692,,,,206880660.0,162037032.0,368917692.0
+- Khấu hao trong năm,II. Giá trị hao mòn luỹ kế > - Khấu hao trong năm,- Khấu hao trong năm,,,,206.880.660,162.037.032,368.917.692,,,,206880660.0,162037032.0,368917692.0
+- Tăng khác,- Tăng khác,- Tăng khác,,,,,,,,,,,,
+3. Giảm trong năm,3. Giảm trong năm,3. Giảm trong năm,,,,,,,,,,,,
+"- Thanh lý, nhượng bán","- Thanh lý, nhượng bán","- Thanh lý, nhượng bán",,,,,,,,,,,,
+- Giảm khác,- Giảm khác,- Giảm khác,,,,,,,,,,,,
+4. Số dư cuối năm,- Giảm khác > 4. Số dư cuối năm,4. Số dư cuối năm,,,,257.283.462,162.037.032,419.320.494,,,,257283462.0,162037032.0,419320494.0
+III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,,,,,,
+1. Tại ngày đầu năm,III. Giá trị còn lại > 1. Tại ngày đầu năm,1. Tại ngày đầu năm,221.858.474.830,,,885.962.398,,222.744.437.228,221858474830.0,,,885962398.0,,222744437228.0
+2. Tại ngày cuối năm,III. Giá trị còn lại > 2. Tại ngày cuối năm,2. Tại ngày cuối năm,221.858.474.830,,,1.087.081.738,1.458.333.338,224.403.889.906,221858474830.0,,,1087081738.0,1458333338.0,224403889906.0

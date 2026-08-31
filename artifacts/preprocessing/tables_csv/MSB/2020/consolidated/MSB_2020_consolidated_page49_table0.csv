@@ -1,0 +1,14 @@
+﻿row_label_raw,row_label_full,col_0,Quyền sử dụng đất Triệu VND,Phần mềm máy vi tính Triệu VND,Tài sản cố định vô hình khác Triệu VND,Tổng cộng Triệu VND,numeric__Quyền sử dụng đất Triệu VND,numeric__Phần mềm máy vi tính Triệu VND,numeric__Tài sản cố định vô hình khác Triệu VND,numeric__Tổng cộng Triệu VND
+Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,,,,
+Số dư đầu năm,Nguyên giá > Số dư đầu năm,Số dư đầu năm,52.233,399.067,3.211,454.511,52233.0,399067.0,3211.0,454511.0
+Mua sắm trong năm,Nguyên giá > Mua sắm trong năm,Mua sắm trong năm,28.722,34.853,13.951,77.526,28722.0,34853.0,13951.0,77526.0
+Thanh lý trong năm,Nguyên giá > Thanh lý trong năm,Thanh lý trong năm,(28.722),-,-,(28.722),-28722.0,,,-28722.0
+Số dư cuối năm,Nguyên giá > Số dư cuối năm,Số dư cuối năm,52.233,433.920,17.162,503.315,52233.0,433920.0,17162.0,503315.0
+Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,,,,
+Số dư đầu năm,Giá trị hao mòn lũy kế > Số dư đầu năm,Số dư đầu năm,-,284.932,2.104,287.036,,284932.0,2104.0,287036.0
+Khấu hao trong năm,Giá trị hao mòn lũy kế > Khấu hao trong năm,Khấu hao trong năm,590,46.220,801,47.611,590.0,46220.0,801.0,47611.0
+Thanh lý trong năm,Giá trị hao mòn lũy kế > Thanh lý trong năm,Thanh lý trong năm,(590),-,-,(590),-590.0,,,-590.0
+Số dư cuối năm,Giá trị hao mòn lũy kế > Số dư cuối năm,Số dư cuối năm,-,331.152,2.905,334.057,,331152.0,2905.0,334057.0
+Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,,,,
+Số dư đầu năm,Giá trị còn lại > Số dư đầu năm,Số dư đầu năm,52.233,114.135,1.107,167.475,52233.0,114135.0,1107.0,167475.0
+Số dư cuối năm,Giá trị còn lại > Số dư cuối năm,Số dư cuối năm,52.233,102.768,14.257,169.258,52233.0,102768.0,14257.0,169258.0

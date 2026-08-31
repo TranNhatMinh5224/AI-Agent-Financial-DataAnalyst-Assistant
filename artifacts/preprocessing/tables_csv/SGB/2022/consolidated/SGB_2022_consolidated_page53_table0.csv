@@ -1,0 +1,21 @@
+﻿row_label_raw,row_label_full,Chỉ tiêu,Quá hạn > Trên 3 tháng,Quá hạn > Đến 3 tháng,Trong hạn > Đến 1 tháng,Trong hạn > Từ 1 - 3 tháng,Trong hạn > Từ 3 - 12 tháng,Trong hạn > Từ 1 - 5 năm,Trong hạn > Trên 5 năm,Tổng,numeric__Quá hạn > Trên 3 tháng,numeric__Quá hạn > Đến 3 tháng,numeric__Trong hạn > Đến 1 tháng,numeric__Trong hạn > Từ 1 - 3 tháng,numeric__Trong hạn > Từ 3 - 12 tháng,numeric__Trong hạn > Từ 1 - 5 năm,numeric__Trong hạn > Trên 5 năm,numeric__Tổng
+"Tiền mặt, vàng bạc, đá quý","Tiền mặt, vàng bạc, đá quý","Tiền mặt, vàng bạc, đá quý",-,-,205.194,-,-,-,-,205.194,,,205194.0,,,,,205194.0
+Tiền gối tại ngân hàng Nhà nước,Tiền gối tại ngân hàng Nhà nước,Tiền gối tại ngân hàng Nhà nước,-,-,530.440,-,-,-,-,530.440,,,530440.0,,,,,530440.0
+"Tiền, vàng gối tại và cho vay các TCTD khác (*)","Tiền, vàng gối tại và cho vay các TCTD khác (*)","Tiền, vàng gối tại và cho vay các TCTD khác (*)",-,-,5.092.983,-,520.000,-,-,5.612.983,,,5092983.0,,520000.0,,,5612983.0
+Chứng khoán kinh doanh (*),Chứng khoán kinh doanh (*),Chứng khoán kinh doanh (*),-,-,-,-,-,-,-,-,,,,,,,,
+Các công cụ tài chính phải sinh và các tài sản tài chính khác (*),Chứng khoán kinh doanh (*) > Các công cụ tài chính phải sinh và các tài sản tài chính khác (*),Các công cụ tài chính phải sinh và các tài sản tài chính khác (*),-,-,27.344,-,-,-,-,27.344,,,27344.0,,,,,27344.0
+Cho vay khách hàng (*),Chứng khoán kinh doanh (*) > Cho vay khách hàng (*),Cho vay khách hàng (*),179.343,84.203,642.919,2.935.772,7.127.060,2.883.949,2.648.893,16.502.139,179343.0,84203.0,642919.0,2935772.0,7127060.0,2883949.0,2648893.0,16502139.0
+Chứng khoán đầu tư (*),Chứng khoán kinh doanh (*) > Chứng khoán đầu tư (*),Chứng khoán đầu tư (*),-,-,-,-,-,657.446,-,657.446,,,,,,657446.0,,657446.0
+"Góp vốn, đầu tư dài hạn (*)","Chứng khoán kinh doanh (*) > Góp vốn, đầu tư dài hạn (*)","Góp vốn, đầu tư dài hạn (*)",-,-,-,-,-,-,53.880,53.880,,,,,,,53880.0,53880.0
+Tải sản cố định và Bất động sản đầu tư,Chứng khoán kinh doanh (*) > Tải sản cố định và Bất động sản đầu tư,Tải sản cố định và Bất động sản đầu tư,-,-,-,-,-,-,1.161.779,1.161.779,,,,,,,1161779.0,1161779.0
+Tải sản Có khác (*),Chứng khoán kinh doanh (*) > Tải sản Có khác (*),Tải sản Có khác (*),-,-,374.873,-,-,-,-,374.873,,,374873.0,,,,,374873.0
+Tổng Tài sản,Chứng khoán kinh doanh (*) > Tổng Tài sản,Tổng Tài sản,179.343,84.203,6.873.753,2.935.772,7.647.060,3.541.395,3.864.552,25.126.078,179343.0,84203.0,6873753.0,2935772.0,7647060.0,3541395.0,3864552.0,25126078.0
+Nợ phải trả,Nợ phải trả,Nợ phải trả,,,,,-,-,-,,,,,,,,,
+Tiền gửi của và vay từ NHNN và các TCTD khác,Nợ phải trả > Tiền gửi của và vay từ NHNN và các TCTD khác,Tiền gửi của và vay từ NHNN và các TCTD khác,-,-,1.920.861,420.000,916,700,554,2.343.031,,,1920861.0,420000.0,916.0,700.0,554.0,2343031.0
+Tiền gửi của khách hàng,Nợ phải trả > Tiền gửi của khách hàng,Tiền gửi của khách hàng,-,-,6.096.900,3.701.058,7.531.804,775.725,,18.105.487,,,6096900.0,3701058.0,7531804.0,775725.0,,18105487.0
+Các công cụ tài chính phải sinh và các khoản nợ tài chính khác,Các công cụ tài chính phải sinh và các khoản nợ tài chính khác,Các công cụ tài chính phải sinh và các khoản nợ tài chính khác,-,-,-,-,-,-,-,-,,,,,,,,
+"Vốn tài trợ, ủy thác đầu tư, cho vay TCTD chịu rủi ro","Vốn tài trợ, ủy thác đầu tư, cho vay TCTD chịu rủi ro","Vốn tài trợ, ủy thác đầu tư, cho vay TCTD chịu rủi ro",-,-,-,-,-,-,-,-,,,,,,,,
+Phát hành giấy tờ có giá,Phát hành giấy tờ có giá,Phát hành giấy tờ có giá,-,-,-,-,-,-,-,-,,,,,,,,
+Các khoản nợ khác,Phát hành giấy tờ có giá > Các khoản nợ khác,Các khoản nợ khác,-,-,451.410,-,-,-,-,451.410,,,451410.0,,,,,451410.0
+Tổng Nợ phải trả,Phát hành giấy tờ có giá > Tổng Nợ phải trả,Tổng Nợ phải trả,-,-,8.469.171,4.121.058,7.532.720,776.425,554,20.899.928,,,8469171.0,4121058.0,7532720.0,776425.0,554.0,20899928.0
+Mức chênh thanh khoản ròng,Phát hành giấy tờ có giá > Mức chênh thanh khoản ròng,Mức chênh thanh khoản ròng,179.343,84.203,(1.595.418),(1.185.286),114.340,2.764.970,3.863.998,4.226.150,179343.0,84203.0,-1595418.0,-1185286.0,114340.0,2764970.0,3863998.0,4226150.0

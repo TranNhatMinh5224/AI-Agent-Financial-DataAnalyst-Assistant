@@ -1,0 +1,15 @@
+﻿row_label_raw,row_label_full,Chỉ tiêu,31/12/2022,31/12/2021,numeric__31/12/2022,numeric__31/12/2021
+Bảo lãnh vay vốn,Bảo lãnh vay vốn,Bảo lãnh vay vốn,-,-,,
+Cam kết giao dịch ngoại hối,Bảo lãnh vay vốn > Cam kết giao dịch ngoại hối,Cam kết giao dịch ngoại hối,1.537.250,1.697.100,1537250.0,1697100.0
+Cam kết mua ngoại tệ,Cam kết mua ngoại tệ,Cam kết mua ngoại tệ,-,-,,
+Cam kết bán ngoại tệ,Cam kết bán ngoại tệ,Cam kết bán ngoại tệ,-,-,,
+Cam kết giao dịch hoán đổi,Cam kết bán ngoại tệ > Cam kết giao dịch hoán đổi,Cam kết giao dịch hoán đổi,1.537.250,1.697.100,1537250.0,1697100.0
+Cam kết cho vay không hủy ngang,Cam kết cho vay không hủy ngang,Cam kết cho vay không hủy ngang,-,,,
+Cam kết trong nghiệp vụ L/C,Cam kết cho vay không hủy ngang > Cam kết trong nghiệp vụ L/C,Cam kết trong nghiệp vụ L/C,133.100,132.368,133100.0,132368.0
+Cam kết thanh toán trong nghiệp vụ L/C,Cam kết cho vay không hủy ngang > Cam kết thanh toán trong nghiệp vụ L/C,Cam kết thanh toán trong nghiệp vụ L/C,133.100,132.368,133100.0,132368.0
+Các cam kết khác,Cam kết cho vay không hủy ngang > Các cam kết khác,Các cam kết khác,221.961,232.670,221961.0,232670.0
+Bảo lãnh thanh toán,Cam kết cho vay không hủy ngang > Bảo lãnh thanh toán,Bảo lãnh thanh toán,92.336,108.762,92336.0,108762.0
+Bảo lãnh thực hiện hợp đồng,Cam kết cho vay không hủy ngang > Bảo lãnh thực hiện hợp đồng,Bảo lãnh thực hiện hợp đồng,56.456,38.978,56456.0,38978.0
+Bảo lãnh dự thầu,Cam kết cho vay không hủy ngang > Bảo lãnh dự thầu,Bảo lãnh dự thầu,5.654,20.488,5654.0,20488.0
+Cam kết bảo lãnh khác,Cam kết cho vay không hủy ngang > Cam kết bảo lãnh khác,Cam kết bảo lãnh khác,67.515,64.442,67515.0,64442.0
+Tổng,Cam kết cho vay không hủy ngang > Tổng,Tổng,1.892.311,2.062.138,1892311.0,2062138.0

@@ -1,0 +1,21 @@
+﻿row_label_raw,row_label_full,col_0,Ghi nhận giá trị hợp lý thống qua kết quả hoạt động kinh doanh triệu đồng,Giữ đến ngày đáo hạn triệu đồng,Cho vay và phải thu triệu đồng,Sẵn sàng để bán triệu đồng,Tài sắc và nợ khác hạch toán theo giá trị phân bố triệu đồng,Tổng cộng giá trị ghi số triệu đồng,Giá trị hợp lý triệu đồng,numeric__Ghi nhận giá trị hợp lý thống qua kết quả hoạt động kinh doanh triệu đồng,numeric__Giữ đến ngày đáo hạn triệu đồng,numeric__Cho vay và phải thu triệu đồng,numeric__Sẵn sàng để bán triệu đồng,numeric__Tài sắc và nợ khác hạch toán theo giá trị phân bố triệu đồng,numeric__Tổng cộng giá trị ghi số triệu đồng,numeric__Giá trị hợp lý triệu đồng
+Tài sản,Tài sản,Tài sản,Tài sản,Tài sản,Tài sản,Tài sản,Tài sản,Tài sản,Tài sản,,,,,,,
+"Tiền mặt, vàng bạc, đã quý","Tài sản > Tiền mặt, vàng bạc, đã quý","Tiền mặt, vàng bạc, đã quý",9.930.181,-,-,-,-,9.930.181,9.930.181,9930181.0,,,,,9930181.0,9930181.0
+Tiền gửi tại NHNN,Tài sản > Tiền gửi tại NHNN,Tiền gửi tại NHNN,57.616.650,-,-,-,-,57.616.650,57.616.650,57616650.0,,,,,57616650.0,57616650.0
+Tiền gửi tại và cho vay các TCTD khác,Tài sản > Tiền gửi tại và cho vay các TCTD khác,Tiền gửi tại và cho vay các TCTD khác,-,-,102.532.818,-,-,102.532.818,(*),,,102532818.0,,,102532818.0,
+Chứng khoán kinh doanh,Tài sản > Chứng khoán kinh doanh,Chứng khoán kinh doanh,5.723.160,-,-,-,-,5.723.160,(*),5723160.0,,,,,5723160.0,
+Các công cụ tài chính phải sinh va các tài sản tài chính,Tài sản > Các công cụ tài chính phải sinh va các tài sản tài chính,Các công cụ tài chính phải sinh va các tài sản tài chính,137.122,-,-,-,-,137.122,(*),137122.0,,,,,137122.0,
+Cho vay khách hàng,Tài sản > Cho vay khách hàng,Cho vay khách hàng,-,-,1.015.333.270,-,-,1.015.333.270,(*),,,1015333270.0,,,1015333270.0,
+Chứng khoán sẵn sàng để bán,Tài sản > Chứng khoán sẵn sàng để bán,Chứng khoán sẵn sàng để bán,-,-,-,112.677.836,-,112.677.836,(*),,,,112677836.0,,112677836.0,
+Chứng khoán giữ đến ngày đắc hạn,Tài sản > Chứng khoán giữ đến ngày đắc hạn,Chứng khoán giữ đến ngày đắc hạn,-,2.616.778,-,-,-,2.616.778,(*),,2616778.0,,,,2616778.0,
+Đầu tư dài hạn khác,Tài sản > Đầu tư dài hạn khác,Đầu tư dài hạn khác,-,-,-,240.662,-,240.662,(*),,,,240662.0,,240662.0,
+Tài sản tài chính khác,Tài sản > Tài sản tài chính khác,Tài sản tài chính khác,-,-,33.816.313,-,-,33.816.313,(*),,,33816313.0,,,33816313.0,
+,,,73.407.113,2.616.778,1.151.682.401,112.918.498,-,1.340.624.790,,73407113.0,2616778.0,1151682401.0,112918498.0,,1340624790.0,
+Nợ phải trả,Nợ phải trả,Nợ phải trả,Nợ phải trả,Nợ phải trả,Nợ phải trả,Nợ phải trả,Nợ phải trả,Nợ phải trả,Nợ phải trả,,,,,,,
+Các khoản nợ Chính phủ và NHNN,Nợ phải trả > Các khoản nợ Chính phủ và NHNN,Các khoản nợ Chính phủ và NHNN,-,-,-,-,44.597.188,44.597.188,(*),,,,,44597188.0,44597188.0,
+Tiền gửi và vay các TCTD khác,Nợ phải trả > Tiền gửi và vay các TCTD khác,Tiền gửi và vay các TCTD khác,-,-,-,-,128.519.115,128.519.115,(*),,,,,128519115.0,128519115.0,
+Tiền gửi của khách hàng,Nợ phải trả > Tiền gửi của khách hàng,Tiền gửi của khách hàng,-,-,-,-,990.331.285,990.331.285,(*),,,,,990331285.0,990331285.0,
+"Vốn tài trợ, ủy thác đầu tư, cho vay tổ chức tín dụng chịu rủi ro","Nợ phải trả > Vốn tài trợ, ủy thác đầu tư, cho vay tổ chức tín dụng chịu rủi ro","Vốn tài trợ, ủy thác đầu tư, cho vay tổ chức tín dụng chịu rủi ro",-,-,-,-,2.733.251,2.733.251,(*),,,,,2733251.0,2733251.0,
+Phát hành giấy tờ có giá,Nợ phải trả > Phát hành giấy tờ có giá,Phát hành giấy tờ có giá,-,-,-,-,59.875.570,59.875.570,(*),,,,,59875570.0,59875570.0,
+Các khoản nợ tài chính khác,Nợ phải trả > Các khoản nợ tài chính khác,Các khoản nợ tài chính khác,-,-,-,-,27.682.000,27.682.000,(*),,,,,27682000.0,27682000.0,
+,,,-,-,-,-,1.253.738.409,1.253.738.409,,,,,,1253738409.0,1253738409.0,

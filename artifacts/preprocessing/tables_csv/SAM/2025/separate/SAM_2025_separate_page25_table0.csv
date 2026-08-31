@@ -1,0 +1,14 @@
+﻿row_label_raw,row_label_full,col_0,"Nhà cửa, vật kiến trúc","Máy móc, thiết bị","Phương tiện vận tải,truyền dẫn","Thiết bị, dụng cụ quản lý",Cộng,"numeric__Nhà cửa, vật kiến trúc","numeric__Máy móc, thiết bị","numeric__Phương tiện vận tải,truyền dẫn","numeric__Thiết bị, dụng cụ quản lý",numeric__Cộng
+,,,VND,VND,VND,VND,VND,,,,,
+Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,,,,,
+Số dư đầu năm,Nguyên giá > Số dư đầu năm,Số dư đầu năm,11.466.978.282,134.290.000,3.702.943.364,1.612.733.389,16.916.945.035,11466978282.0,134290000.0,3702943364.0,1612733389.0,16916945035.0
+"- Thanh lý, nhượng bán","Nguyên giá > - Thanh lý, nhượng bán","- Thanh lý, nhượng bán",-,-,-,(49.000.000),(49.000.000),,,,-49000000.0,-49000000.0
+Số dư cuối năm,Nguyên giá > Số dư cuối năm,Số dư cuối năm,11.466.978.282,134.290.000,3.702.943.364,1.563.733.389,16.867.945.035,11466978282.0,134290000.0,3702943364.0,1563733389.0,16867945035.0
+Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,,,,,
+Số dư đầu năm,Giá trị hao mòn lũy kế > Số dư đầu năm,Số dư đầu năm,11.466.978.282,134.290.000,1.633.055.379,1.586.218.240,14.820.541.901,11466978282.0,134290000.0,1633055379.0,1586218240.0,14820541901.0
+- Khấu hao trong năm,Giá trị hao mòn lũy kế > - Khấu hao trong năm,- Khấu hao trong năm,-,-,370.294.344,26.515.149,396.809.493,,,370294344.0,26515149.0,396809493.0
+"- Thanh lý, nhượng bán","Giá trị hao mòn lũy kế > - Thanh lý, nhượng bán","- Thanh lý, nhượng bán",-,-,-,(49.000.000),(49.000.000),,,,-49000000.0,-49000000.0
+Số dư cuối năm,Giá trị hao mòn lũy kế > Số dư cuối năm,Số dư cuối năm,11.466.978.282,134.290.000,2.003.349.723,1.563.733.389,15.168.351.394,11466978282.0,134290000.0,2003349723.0,1563733389.0,15168351394.0
+Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,,,,,
+Tại ngày đầu năm,Giá trị còn lại > Tại ngày đầu năm,Tại ngày đầu năm,-,-,2.069.887.985,26.515.149,2.096.403.134,,,2069887985.0,26515149.0,2096403134.0
+Tại ngày cuối năm,Giá trị còn lại > Tại ngày cuối năm,Tại ngày cuối năm,-,-,1.699.593.641,-,1.699.593.641,,,1699593641.0,,1699593641.0

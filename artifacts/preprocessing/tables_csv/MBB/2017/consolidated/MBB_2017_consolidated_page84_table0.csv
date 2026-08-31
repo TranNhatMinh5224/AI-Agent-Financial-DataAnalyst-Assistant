@@ -1,0 +1,21 @@
+﻿row_label_raw,row_label_full,Tại ngày 31 tháng 12 năm 2016 (Triệu VND),Quá hạn,Không hưởng lãi,Đến 1 tháng,Từ trên 1 đến 3 tháng,Từ trên 3 đến 6 tháng,Từ trên 6 đến 12 tháng,Trên 1 năm,Tổng cộng,numeric__Quá hạn,numeric__Không hưởng lãi,numeric__Đến 1 tháng,numeric__Từ trên 1 đến 3 tháng,numeric__Từ trên 3 đến 6 tháng,numeric__Từ trên 6 đến 12 tháng,numeric__Trên 1 năm,numeric__Tổng cộng
+Tài sản,Tài sản,Tài sản,,,,,,,,,,,,,,,,
+Tiền mặt và vàng,Tài sản > Tiền mặt và vàng,Tiền mặt và vàng,-,1.519.952,-,-,-,-,-,1.519.952,,1519952.0,,,,,,1519952.0
+Tiền gửi tại NHNN,Tài sản > Tiền gửi tại NHNN,Tiền gửi tại NHNN,-,-,10.002.478,-,-,-,-,10.002.478,,,10002478.0,,,,,10002478.0
+Tiền gửi và cho vay các TCTD khác - gộp,Tài sản > Tiền gửi và cho vay các TCTD khác - gộp,Tiền gửi và cho vay các TCTD khác - gộp,196.000,406.294,6.860.090,10.538.710,6.626.085,521.836,2.000.000,27.149.015,196000.0,406294.0,6860090.0,10538710.0,6626085.0,521836.0,2000000.0,27149015.0
+Chứng khoán kinh doanh - gộp,Tài sản > Chứng khoán kinh doanh - gộp,Chứng khoán kinh doanh - gộp,-,1.060.665,-,-,-,-,-,1.060.665,,1060665.0,,,,,,1060665.0
+Các công cụ tài chính phải sinh và các tài sản tài chính khác,Tài sản > Các công cụ tài chính phải sinh và các tài sản tài chính khác,Các công cụ tài chính phải sinh và các tài sản tài chính khác,-,-,53.419,-,-,-,-,53.419,,,53419.0,,,,,53419.0
+Cho vay khách hàng - gộp,Tài sản > Cho vay khách hàng - gộp,Cho vay khách hàng - gộp,4.162.406,-,25.945.818,61.850.922,37.276.376,14.840.639,6.661.541,150.737.702,4162406.0,,25945818.0,61850922.0,37276376.0,14840639.0,6661541.0,150737702.0
+Chứng khoán đầu tư - gộp,Tài sản > Chứng khoán đầu tư - gộp,Chứng khoán đầu tư - gộp,400.000,498.757,3.344.725,4.598.104,1.430.482,3.073.421,41.561.386,54.906.875,400000.0,498757.0,3344725.0,4598104.0,1430482.0,3073421.0,41561386.0,54906875.0
+"Gộp vốn, đầu tư dài hạn - gộp","Tài sản > Gộp vốn, đầu tư dài hạn - gộp","Gộp vốn, đầu tư dài hạn - gộp",32.530,942.788,-,-,-,-,-,975.318,32530.0,942788.0,,,,,,975318.0
+Tài sản cố định và bắt động sản đầu tư,Tài sản > Tài sản cố định và bắt động sản đầu tư,Tài sản cố định và bắt động sản đầu tư,-,2.607.019,-,-,-,-,-,2.607.019,,2607019.0,,,,,,2607019.0
+Tài sản Có khác - gộp,Tài sản > Tài sản Có khác - gộp,Tài sản Có khác - gộp,1.081.295,10.807.640,-,-,-,-,-,11.888.935,1081295.0,10807640.0,,,,,,11888935.0
+,,,5.872.231,17.843.115,46.206.530,76.987.736,45.332.943,18.435.896,50.222.927,260.901.378,5872231.0,17843115.0,46206530.0,76987736.0,45332943.0,18435896.0,50222927.0,260901378.0
+Nợ phải trả,Nợ phải trả,Nợ phải trả,,,,,,,,,,,,,,,,
+Tiền gửi và vay các TCTD khác,Nợ phải trả > Tiền gửi và vay các TCTD khác,Tiền gửi và vay các TCTD khác,-,59.546,15.914.210,6.884.032,1.207.234,405.308,242.646,24.712.976,,59546.0,15914210.0,6884032.0,1207234.0,405308.0,242646.0,24712976.0
+Tiền gửi của khách hàng,Nợ phải trả > Tiền gửi của khách hàng,Tiền gửi của khách hàng,-,3.638.230,44.457.613,42.010.166,24.187.692,18.366.146,62.152.550,194.812.397,,3638230.0,44457613.0,42010166.0,24187692.0,18366146.0,62152550.0,194812397.0
+"Vốn tài trợ, ủy thác đầu tư, cho vay TCTD chịu rủi ro","Nợ phải trả > Vốn tài trợ, ủy thác đầu tư, cho vay TCTD chịu rủi ro","Vốn tài trợ, ủy thác đầu tư, cho vay TCTD chịu rủi ro",-,-,-,211,703,14.357,242.899,258.170,,,,211.0,703.0,14357.0,242899.0,258170.0
+Phát hành giấy tờ có giá,Nợ phải trả > Phát hành giấy tờ có giá,Phát hành giấy tờ có giá,-,-,36.953,-,-,-,2.330.000,2.366.953,,,36953.0,,,,2330000.0,2366953.0
+Các khoản nợ khác,Nợ phải trả > Các khoản nợ khác,Các khoản nợ khác,-,7.519.558,-,-,-,-,-,7.519.558,,7519558.0,,,,,,7519558.0
+,,,-,11.217.334,60.408.776,48.894.409,25.395.629,18.785.811,64.968.095,229.670.054,,11217334.0,60408776.0,48894409.0,25395629.0,18785811.0,64968095.0,229670054.0
+Mức chênh nhạy cảm với lãi suất nội bảng,Nợ phải trả > Mức chênh nhạy cảm với lãi suất nội bảng,Mức chênh nhạy cảm với lãi suất nội bảng,5.872.231,6.625.781,(14.202.246),28.093.327,19.937.314,(349.915),(14.745.168),31.231.324,5872231.0,6625781.0,-14202246.0,28093327.0,19937314.0,-349915.0,-14745168.0,31231324.0

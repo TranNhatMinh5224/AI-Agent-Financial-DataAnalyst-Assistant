@@ -1,0 +1,13 @@
+﻿row_label_raw,row_label_full,Mã số,CHỈ TIÊU,Thuyết minh,Năm 2021,Đơn vị tính: VNDNăm 2020,numeric__CHỈ TIÊU,numeric__Thuyết minh,numeric__Năm 2021,numeric__Đơn vị tính: VNDNăm 2020
+,,,III. Lưu chuyển tiền từ hoạt động tài chính,III. Lưu chuyển tiền từ hoạt động tài chính,III. Lưu chuyển tiền từ hoạt động tài chính,III. Lưu chuyển tiền từ hoạt động tài chính,,,,
+31,31,31,"1. Tiền thu từ phát hành cổ phiếu, nhận vốn góp của chủ sở hữu",,-,-,,,,
+32,32,32,"2. Tiền trả lại vốn góp cho các chủ sở hữu, mua lại cổ phiếu của doanh nghiệp đã phát hành",,-,-,,,,
+33,32 > 33,33,3. Tiền thu từ đi vay,,3.382.141.215.246,7.634.624.227.313,,,3382141215246.0,7634624227313.0
+34,32 > 34,34,4. Tiền trả nợ gốc vay,,(6.484.167.558.274),(7.390.017.822.421),,,-6484167558274.0,-7390017822421.0
+35,35,35,5. Tiền trả nợ gốc thuê tài chính,,-,-,,,,
+36,35 > 36,36,"6. Cổ tức, lợi nhuận đã trả cho chủ sở hữu",,(109.942.261.055),(118.761.632.340),,,-109942261055.0,-118761632340.0
+40,35 > 40,40,Lưu chuyển tiền thuần từ hoạt động tài chính,,(3.211.968.604.083),125.844.772.552,,,-3211968604083.0,125844772552.0
+50,35 > 50,50,Lưu chuyển tiền thuần trong năm (50 = 20+30+40),,(222.288.492.900),(1.576.687.564.776),,,-222288492900.0,-1576687564776.0
+60,35 > 60,60,Tiền và tương đương tiền đầu năm,,5.528.283.614.830,7.114.787.951.797,,,5528283614830.0,7114787951797.0
+61,35 > 61,61,Ảnh hưởng của thay đổi tỷ giá hối đoái quy đổi ngoại tệ,,(2.375.781.162),(9.816.772.191),,,-2375781162.0,-9816772191.0
+70,35 > 70,70,Tiền và tương đương tiền cuối năm (70 = 50+60+61),,5.303.619.340.768,5.528.283.614.830,,,5303619340768.0,5528283614830.0

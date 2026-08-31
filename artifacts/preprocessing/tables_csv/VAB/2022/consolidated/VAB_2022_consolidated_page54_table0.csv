@@ -1,0 +1,16 @@
+﻿row_label_raw,row_label_full,col_0,col_1,Quá hạn,Quá hạn_1,Trong hạn,Trong hạn_1,Trong hạn_2,Trong hạn_3,Trong hạn_4,Tổng,numeric__col_1,numeric__Quá hạn,numeric__Quá hạn_1,numeric__Trong hạn,numeric__Trong hạn_1,numeric__Trong hạn_2,numeric__Trong hạn_3,numeric__Trong hạn_4,numeric__Tổng
+,,,,Trên 03 tháng,Đến 03 tháng,Đến 01 tháng,Từ trên 01 đến 03 tháng,Từ trên 03 đến 12 tháng,Từ trên 01 đến 05 năm,Trên 05 năm,Tổng,,,,,,,,,
+,,,,Triệu VND,Triệu VND,Triệu VND,Triệu VND,Triệu VND,Triệu VND,Triệu VND,Triệu VND,,,,,,,,,
+TÀI SẢN,TÀI SẢN,TÀI SẢN,TÀI SẢN,TÀI SẢN,TÀI SẢN,TÀI SẢN,TÀI SẢN,TÀI SẢN,TÀI SẢN,TÀI SẢN,TÀI SẢN,,,,,,,,,
+I,TÀI SẢN > I,I,"Tiền mặt, vàng bạc, đá quý",-,-,447.803,-,-,-,-,447.803,,,,447803.0,,,,,447803.0
+II,TÀI SẢN > II,II,Tiền gửi tại NIHNN,-,-,1.374.242,-,-,-,-,1.374.242,,,,1374242.0,,,,,1374242.0
+III,TÀI SẢN > III,III,Tiền gửi và cho vay các TCTD khác (*),-,-,17.788.313,3.300.000,200.000,-,-,21.288.313,,,,17788313.0,3300000.0,200000.0,,,21288313.0
+IV,IV,IV,Chứng khoán kinh doanh (*),-,-,-,-,-,-,-,-,,,,,,,,,
+V,IV > V,V,Các công cụ tài chính phải sinh và các tài sản tài chính khác,-,-,9.615,-,-,-,-,9.615,,,,9615.0,,,,,9615.0
+VI,IV > VI,VI,Cho vay khách hàng (*),695.313,1.389.761,5.692.368,9.366.563,35.109.430,5.736.417,4.518.268,62.508.119,,695313.0,1389761.0,5692368.0,9366563.0,35109430.0,5736417.0,4518268.0,62508119.0
+VII,VII,VII,Hoạt động mua nợ (*),-,-,-,-,-,-,-,-,,,,,,,,,
+VIII,VII > VIII,VIII,Chứng khoán đầu tư (*),-,-,7.342.786,1.312.950,-,291.800,53.571,9.001.108,,,,7342786.0,1312950.0,,291800.0,53571.0,9001108.0
+IX,VII > IX,IX,"Góp vốn, đầu tư dài hạn (*)",-,-,-,-,-,-,134.974,134.974,,,,,,,,134974.0,134974.0
+X,VII > X,X,Tài sản cố định,-,-,-,-,-,-,204.658,204.658,,,,,,,,204658.0,204658.0
+XI,VII > XI,XI,Tài sản có khác (*),-,-,11.239.229,-,-,-,-,11.239.229,,,,11239229.0,,,,,11239229.0
+Tổng tài sản,VII > Tổng tài sản,Tổng tài sản,Tổng tài sản,695.313,1.389.761,43.894.356,13.979.513,35.309.430,6.028.217,4.911.471,106.208.060,,695313.0,1389761.0,43894356.0,13979513.0,35309430.0,6028217.0,4911471.0,106208060.0

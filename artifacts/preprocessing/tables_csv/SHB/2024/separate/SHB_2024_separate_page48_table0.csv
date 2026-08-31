@@ -1,0 +1,16 @@
+﻿row_label_raw,row_label_full,col_0,Năm nay,Năm trước,numeric__Năm nay,numeric__Năm trước
+,,,Triệu VND,Triệu VND,,
+Lợi nhuận trước thuế TNDN,Lợi nhuận trước thuế TNDN,Lợi nhuận trước thuế TNDN,11.339.253,9.158.616,11339253.0,9158616.0
+Trừ:,Trừ:,Trừ:,,,,
+- Thu nhập từ cổ tức và lợi nhuận được chia không chịu thuế,Trừ: > - Thu nhập từ cổ tức và lợi nhuận được chia không chịu thuế,- Thu nhập từ cổ tức và lợi nhuận được chia không chịu thuế,(13.772),(21.558),-13772.0,-21558.0
+Cộng:,Cộng:,Cộng:,,,,
+- Chi phí khác không được khấu trừ thuế,Cộng: > - Chi phí khác không được khấu trừ thuế,- Chi phí khác không được khấu trừ thuế,38.323,43.503,38323.0,43503.0
+Thu nhập chịu thuế,Cộng: > Thu nhập chịu thuế,Thu nhập chịu thuế,11.363.804,9.180.561,11363804.0,9180561.0
+Thuế suất thuế TNDN,Cộng: > Thuế suất thuế TNDN,Thuế suất thuế TNDN,20%,20%,0.2,0.2
+Chi phí thuế TNDN theo thuế suất,Cộng: > Chi phí thuế TNDN theo thuế suất,Chi phí thuế TNDN theo thuế suất,2.272.761,1.836.112,2272761.0,1836112.0
+Chi phí thuế TNDN tính trên thu nhập chịu thuế năm hiện tại,Cộng: > Chi phí thuế TNDN tính trên thu nhập chịu thuế năm hiện tại,Chi phí thuế TNDN tính trên thu nhập chịu thuế năm hiện tại,2.272.761,1.836.112,2272761.0,1836112.0
+Điều chỉnh chi phí thuế TNDN của năm trước vào chi phí thuế TNDN năm hiện hành,Cộng: > Điều chỉnh chi phí thuế TNDN của năm trước vào chi phí thuế TNDN năm hiện hành,Điều chỉnh chi phí thuế TNDN của năm trước vào chi phí thuế TNDN năm hiện hành,(65.546),2.428,-65546.0,2428.0
+Tổng chi phí thuế TNDN trong năm,Cộng: > Tổng chi phí thuế TNDN trong năm,Tổng chi phí thuế TNDN trong năm,2.207.215,1.838.540,2207215.0,1838540.0
+Thuế TNDN phải trả đầu năm,Cộng: > Thuế TNDN phải trả đầu năm,Thuế TNDN phải trả đầu năm,1.136.111,1.702.813,1136111.0,1702813.0
+Thuế TNDN đã trả trong năm,Cộng: > Thuế TNDN đã trả trong năm,Thuế TNDN đã trả trong năm,(1.836.932),(2.405.242),-1836932.0,-2405242.0
+Thuế TNDN còn phải nộp cuối năm,Cộng: > Thuế TNDN còn phải nộp cuối năm,Thuế TNDN còn phải nộp cuối năm,1.506.394,1.136.111,1506394.0,1136111.0

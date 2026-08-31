@@ -1,0 +1,10 @@
+﻿row_label_raw,row_label_full,col_0,Tại ngày 1.1.2021VND,Số phải thu/nộptrong nămVND,Số đã thực nộp/cấn trừ trong nămVND,Tại ngày 31.12.2021VND,numeric__Tại ngày 1.1.2021VND,numeric__Số phải thu/nộptrong nămVND,numeric__Số đã thực nộp/cấn trừ trong nămVND,numeric__Tại ngày 31.12.2021VND
+a) Phải thu,a) Phải thu,a) Phải thu,a) Phải thu,a) Phải thu,a) Phải thu,a) Phải thu,,,,
+Thuế GTGT được khấu trừ,a) Phải thu > Thuế GTGT được khấu trừ,Thuế GTGT được khấu trừ,-,41.091.007.084,-,41.091.007.084,,41091007084.0,,41091007084.0
+b) Phải nộp,b) Phải nộp,b) Phải nộp,b) Phải nộp,b) Phải nộp,b) Phải nộp,b) Phải nộp,,,,
+Thuế TNDN,b) Phải nộp > Thuế TNDN,Thuế TNDN,138.784.864.775,-,-,138.784.864.775,138784864775.0,,,138784864775.0
+Thuế GTGT,b) Phải nộp > Thuế GTGT,Thuế GTGT,103.888.422.189,405.745.140.702,(426.940.009.517),82.693.553.374,103888422189.0,405745140702.0,-426940009517.0,82693553374.0
+Thuế thu nhập cá nhân,b) Phải nộp > Thuế thu nhập cá nhân,Thuế thu nhập cá nhân,53.764.602.421,38.754.272.201,(47.075.531.474),45.443.343.148,53764602421.0,38754272201.0,-47075531474.0,45443343148.0
+Thuế nhà thầu nước ngoài,b) Phải nộp > Thuế nhà thầu nước ngoài,Thuế nhà thầu nước ngoài,-,50.228.421.844,(28.363.981.257),21.864.440.587,,50228421844.0,-28363981257.0,21864440587.0
+Thuế khác,b) Phải nộp > Thuế khác,Thuế khác,-,18.327.956,(18.327.956),-,,18327956.0,-18327956.0,
+,,,296.437.889.385,494.746.162.703,(502.397.850.204),288.786.201.884,296437889385.0,494746162703.0,-502397850204.0,288786201884.0

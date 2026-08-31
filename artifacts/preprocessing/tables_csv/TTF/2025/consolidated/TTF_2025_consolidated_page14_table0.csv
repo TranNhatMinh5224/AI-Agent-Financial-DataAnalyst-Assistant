@@ -1,0 +1,11 @@
+﻿row_label_raw,row_label_full,Tên công ty con,Địa điểm,Ngành nghề,Tỷ lệ lợi ích (%),Quyền biểu quyết (%),numeric__Địa điểm,numeric__Ngành nghề,numeric__Tỷ lệ lợi ích (%),numeric__Quyền biểu quyết (%)
+Công ty con trực tiếp,Công ty con trực tiếp,Công ty con trực tiếp,Công ty con trực tiếp,Công ty con trực tiếp,Công ty con trực tiếp,Công ty con trực tiếp,,,,
+1. Công ty TNHH MTV Sử Thiên Thanh,Công ty con trực tiếp > 1. Công ty TNHH MTV Sử Thiên Thanh,1. Công ty TNHH MTV Sử Thiên Thanh,TP. Hồ Chí Minh,Sản xuất đồ sử,"100,00","100,00",,,100.0,100.0
+2. Công ty Cổ phần Trường Thành Xanh,Công ty con trực tiếp > 2. Công ty Cổ phần Trường Thành Xanh,2. Công ty Cổ phần Trường Thành Xanh,Đắk Lắk,Trồng rừng,"99,98","99,98",,,99.98,99.98
+3. Công ty Cổ phần Lâm Nghiệp Trường Thành,Công ty con trực tiếp > 3. Công ty Cổ phần Lâm Nghiệp Trường Thành,3. Công ty Cổ phần Lâm Nghiệp Trường Thành,Đắk Lắk,Trồng rừng,"99,97","99,97",,,99.97,99.97
+4. Công ty Cổ phần Trồng rừng Trường Thành,Công ty con trực tiếp > 4. Công ty Cổ phần Trồng rừng Trường Thành,4. Công ty Cổ phần Trồng rừng Trường Thành,Đắk Lắk,Trồng rừng,"97,24","97,24",,,97.24,97.24
+5. Công ty Cổ phần Quản lý Cụm Công nghiệp Trường Thành – Ea H'leo,Công ty con trực tiếp > 5. Công ty Cổ phần Quản lý Cụm Công nghiệp Trường Thành – Ea H'leo,5. Công ty Cổ phần Quản lý Cụm Công nghiệp Trường Thành – Ea H'leo,Đắk Lắk,Khu công nghiệp,"97,30","97,30",,,97.3,97.3
+6. Công ty Cổ phần Đồ Gỗ Casadora,Công ty con trực tiếp > 6. Công ty Cổ phần Đồ Gỗ Casadora,6. Công ty Cổ phần Đồ Gỗ Casadora,TP. Hồ Chí Minh,Sản xuất đồ gỗ,"60,00","60,00",,,60.0,60.0
+7. Công ty Cổ phần Central Wood,Công ty con trực tiếp > 7. Công ty Cổ phần Central Wood,7. Công ty Cổ phần Central Wood,Gia Lai,Sản xuất đồ gỗ,"51,00","51,00",,,51.0,51.0
+Công ty con gián tiếp,Công ty con gián tiếp,Công ty con gián tiếp,Công ty con gián tiếp,Công ty con gián tiếp,Công ty con gián tiếp,Công ty con gián tiếp,,,,
+1. Belmonte Design Services L.L.C,Công ty con gián tiếp > 1. Belmonte Design Services L.L.C,1. Belmonte Design Services L.L.C,Dubai,Thiết kế sản phẩm nội thất,"100,00","100,00",,,100.0,100.0

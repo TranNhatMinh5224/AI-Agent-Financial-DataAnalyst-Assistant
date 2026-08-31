@@ -5,6 +5,7 @@ llm.py — Connect to Qwen LLM and parse outputs.
 from __future__ import annotations
 
 import re
+import time
 from openai import OpenAI
 
 def extract_python_code(text: str) -> str:
@@ -33,28 +34,44 @@ def call_llm(prompt: str, llm_config: dict[str, str | float], system_prompt: str
     # BUG-017 FIX: Truyền max_tokens vào API call
     max_tokens = int(llm_config.get("max_tokens", 2048))
     
-    try:
-        client = OpenAI(base_url=base_url, api_key=api_key)
-        messages = []
-        if system_prompt:
-            messages.append({"role": "system", "content": system_prompt})
-        messages.append({"role": "user", "content": prompt})
-        
-        response = client.chat.completions.create(
-            model=model,
-            messages=messages,
-            temperature=temperature,
-            max_tokens=max_tokens,
-        )
-        
-        raw_response = response.choices[0].message.content
-        if not raw_response:
-            raise ValueError("LLM returned an empty response.")
+    max_attempts = 4
+    last_err = None
+    for attempt in range(1, max_attempts + 1):
+        try:
+            client = OpenAI(base_url=base_url, api_key=api_key)
+            messages = []
+            if system_prompt:
+                messages.append({"role": "system", "content": system_prompt})
+            messages.append({"role": "user", "content": prompt})
             
-        return raw_response
-    except Exception as e:
-        print(f"LLM Connection failed: {e}")
-        raise RuntimeError(f"Chưa kết nối được AI ({model}). Vui lòng kiểm tra lại. Lỗi: {e}")
+            response = client.chat.completions.create(
+                model=model,
+                messages=messages,
+                temperature=temperature,
+                max_tokens=max_tokens,
+                timeout=90.0,
+            )
+            
+            msg = response.choices[0].message
+            raw_response = msg.content
+            if not raw_response:
+                raw_response = getattr(msg, "reasoning", None) or getattr(msg, "reasoning_content", None)
+                if hasattr(msg, "model_extra") and msg.model_extra:
+                    raw_response = raw_response or msg.model_extra.get("reasoning") or msg.model_extra.get("reasoning_content")
+                    
+            if not raw_response:
+                raise ValueError("LLM returned an empty response.")
+                
+            return raw_response
+        except Exception as e:
+            last_err = e
+            if attempt < max_attempts:
+                wait_time = 2 ** attempt
+                print(f"[WARN] LLM API call attempt {attempt}/{max_attempts} failed: {e}. Retrying in {wait_time}s...")
+                time.sleep(wait_time)
+            else:
+                print(f"LLM Connection failed after {max_attempts} attempts: {e}")
+                raise RuntimeError(f"Chưa kết nối được AI ({model}). Vui lòng kiểm tra lại. Lỗi: {e}")
 
 def generate_pot_code(prompt: str, llm_config: dict[str, str | float]) -> str:
     """Call LLM API to generate PoT Python code."""

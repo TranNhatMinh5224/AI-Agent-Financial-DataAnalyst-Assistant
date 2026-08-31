@@ -1,0 +1,22 @@
+﻿row_label_raw,row_label_full,STT,Chi tiêu,Thuyết minh,Năm 2020 > Triệu VND,Năm 2019 > Triệu VND,numeric__Chi tiêu,numeric__Thuyết minh,numeric__Năm 2020 > Triệu VND,numeric__Năm 2019 > Triệu VND
+1,1,1,Thu nhập lãi và các khoản thu nhập tương tự,23,9.824.590,8.936.134,,23.0,9824590.0,8936134.0
+2,2,2,Chi phí lãi và các chi phí tương tự,24,(7.793.519),(6.969.579),,24.0,-7793519.0,-6969579.0
+I,I,I,Thu nhập lãi thuần,,2.031.071,1.966.555,,,2031071.0,1966555.0
+3,3,3,Thu nhập từ hoạt động dịch vụ,,91.143,107.180,,,91143.0,107180.0
+4,4,4,Chi phí hoạt động dịch vụ,,(31.381),(34.455),,,-31381.0,-34455.0
+II,II,II,Lãi thuần từ hoạt động dịch vụ,25,59.762,72.725,,25.0,59762.0,72725.0
+III,III,III,Lãi thuần từ hoạt động kinh doanh ngoại hối,26,23.782,30.655,,26.0,23782.0,30655.0
+V,V,V,Lãi thuần từ mua bán chứng khoán đầu tư,27,46.735,25.974,,27.0,46735.0,25974.0
+5,5,5,Thu nhập từ hoạt động khác,,81.388,88.879,,,81388.0,88879.0
+6,6,6,Chi phí hoạt động khác,,(16.437),(7.699),,,-16437.0,-7699.0
+VI,VI,VI,Lãi thuần từ hoạt động khác,28,64.951,81.180,,28.0,64951.0,81180.0
+VII,VII,VII,"Thu nhập từ góp vốn, mua cổ phần",29,3.227,15.297,,29.0,3227.0,15297.0
+VIII,VIII,VIII,Chi phí hoạt động,30,(1.240.389),(1.103.592),,30.0,-1240389.0,-1103592.0
+IX,IX,IX,Lợi nhuận thuần từ hoạt động kinh doanh trước chi phí dự phòng rủi ro tín dụng,,989.139,1.088.794,,,989139.0,1088794.0
+X,X,X,Chi phí dự phòng rủi ro tín dụng,,(254.326),(154.901),,,-254326.0,-154901.0
+XI,XI,XI,Tổng lợi nhuận trước thuế,,734.813,933.893,,,734813.0,933893.0
+7,7,7,Chi phí thuế TNDN hiện hành,,(146.067),(183.719),,,-146067.0,-183719.0
+8,8,8,Chi phí thuế TNDN hoãn lại,,(952),(718),,,-952.0,-718.0
+XII,XII,XII,Chi phí thuế thu nhập doanh nghiệp,31,(147.019),(184.437),,31.0,-147019.0,-184437.0
+XIII,XIII,XIII,Lợi nhuận sau thuế,,587.794,749.456,,,587794.0,749456.0
+XV,XV,XV,Lãi cơ bản trên cổ phiếu (VND),22.2,830,1.058,,222.0,830.0,1058.0

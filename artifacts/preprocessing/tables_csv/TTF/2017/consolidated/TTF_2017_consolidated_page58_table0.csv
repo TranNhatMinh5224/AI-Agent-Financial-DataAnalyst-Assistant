@@ -1,0 +1,21 @@
+﻿row_label_raw,row_label_full,col_0,Chế biến gỗ,Trồng rừng,Loại trừ,VND Tổng cộng,numeric__Chế biến gỗ,numeric__Trồng rừng,numeric__Loại trừ,numeric__VND Tổng cộng
+Doanh thu,Doanh thu,Doanh thu,Doanh thu,Doanh thu,Doanh thu,Doanh thu,,,,
+Doanh thu từ bán hàng ra bên ngoài,Doanh thu > Doanh thu từ bán hàng ra bên ngoài,Doanh thu từ bán hàng ra bên ngoài,626.371.143.262,16.645.079.580,-,643.016.222.842,626371143262.0,16645079580.0,,643016222842.0
+Doanh thu từ bán hàng cho các bộ phận,Doanh thu > Doanh thu từ bán hàng cho các bộ phận,Doanh thu từ bán hàng cho các bộ phận,-,9.204.526.881,(9.204.526.881),-,,9204526881.0,-9204526881.0,
+Tổng doanh thu,Doanh thu > Tổng doanh thu,Tổng doanh thu,626.371.143.262,25.849.606.461,(9.204.526.881),643.016.222.842,626371143262.0,25849606461.0,-9204526881.0,643016222842.0
+Kết quả,Kết quả,Kết quả,Kết quả,Kết quả,Kết quả,Kết quả,,,,
+Lỗ từ hoạt động kinh doanh của bộ phận,Kết quả > Lỗ từ hoạt động kinh doanh của bộ phận,Lỗ từ hoạt động kinh doanh của bộ phận,(174.258.038.268),(18.175.714.141),-,(192.433.752.409),-174258038268.0,-18175714141.0,,-192433752409.0
+Doanh thu hoạt động tài chính,Kết quả > Doanh thu hoạt động tài chính,Doanh thu hoạt động tài chính,,,,28.512.292.284,,,,28512292284.0
+Chi phí tài chính,Kết quả > Chi phí tài chính,Chi phí tài chính,,,,(274.084.957.571),,,,-274084957571.0
+Thu nhập khác,Kết quả > Thu nhập khác,Thu nhập khác,,,,42.197.904.045,,,,42197904045.0
+Chi phí khác,Kết quả > Chi phí khác,Chi phí khác,,,,(42.800.419.349),,,,-42800419349.0
+Phần lỗ trong công ty liên kết,Kết quả > Phần lỗ trong công ty liên kết,Phần lỗ trong công ty liên kết,,,,(3.889.142.632),,,,-3889142632.0
+Chi phí thuế thu nhập doanh nghiệp,Chi phí thuế thu nhập doanh nghiệp,Chi phí thuế thu nhập doanh nghiệp,,,,-,,,,
+Lỗ sau thuế,Chi phí thuế thu nhập doanh nghiệp > Lỗ sau thuế,Lỗ sau thuế,,,,(442.498.075.632),,,,-442498075632.0
+Tài sản và nợ phải trả,Tài sản và nợ phải trả,Tài sản và nợ phải trả,Tài sản và nợ phải trả,Tài sản và nợ phải trả,Tài sản và nợ phải trả,Tài sản và nợ phải trả,,,,
+Tài sản bộ phận,Tài sản và nợ phải trả > Tài sản bộ phận,Tài sản bộ phận,3.102.771.264.414,482.344.738.788,-,3.585.116.003.202,3102771264414.0,482344738788.0,,3585116003202.0
+Tài sản không phân bổ,Tài sản không phân bổ,Tài sản không phân bổ,-,-,-,-,,,,
+Tổng tài sản,Tài sản không phân bổ > Tổng tài sản,Tổng tài sản,,,,3.585.116.003.202,,,,3585116003202.0
+Nợ phải trả bộ phận,Tài sản không phân bổ > Nợ phải trả bộ phận,Nợ phải trả bộ phận,3.372.859.778.632,80.156.371.047,-,3.453.016.149.679,3372859778632.0,80156371047.0,,3453016149679.0
+Nợ phải trả không phân bổ,Nợ phải trả không phân bổ,Nợ phải trả không phân bổ,-,-,-,-,,,,
+Tổng nợ phải trả,Nợ phải trả không phân bổ > Tổng nợ phải trả,Tổng nợ phải trả,,,,3.453.016.149.679,,,,3453016149679.0

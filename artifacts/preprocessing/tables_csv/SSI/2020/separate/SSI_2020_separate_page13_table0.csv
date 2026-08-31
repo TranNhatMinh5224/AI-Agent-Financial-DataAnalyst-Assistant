@@ -1,0 +1,17 @@
+﻿row_label_raw,row_label_full,Mã số,CHÍ TIÊU,Thuyết minh,Số cuối năm,Số đầu năm,numeric__CHÍ TIÊU,numeric__Thuyết minh,numeric__Số cuối năm,numeric__Số đầu năm
+,,,B. TÀI SẢN VÀ CÁC KHOẢN PHẢI TRẢ VỀ TÀI SẢN QUẢN LÝ CAM KẾT VỚI KHÁCH HÀNG (tiếp theo),,,,,,,
+022,022,022,Tài sản tài chính đã lưu ký tại Trung tâm Lưu ký Chứng khoán và chưa giao dịch của Nhà đầu tư,28.6,625.891.680.000,382.623.990.000,,286.0,625891680000.0,382623990000.0
+022.1,022.1,022.1,"Tài sản tài chính đã lưu ký tại Trung tâm Lưu ký Chứng khoán và chưa giao dịch, tự do chuyển nhượng",,573.756.680.000,330.441.990.000,,,573756680000.0,330441990000.0
+022.2,022.2,022.2,"Tài sản tài chính đã lưu ký tại Trung tâm Lưu ký Chứng khoán và chưa giao dịch, hạn chế chuyển nhượng",,51.990.000.000,52.037.000.000,,,51990000000.0,52037000000.0
+022.4,022.4,022.4,"Tài sản tài chính đã lưu ký tại Trung tâm Lưu ký Chứng khoán và chưa giao dịch, phong tỏa, tạm giữ",,145.000.000,145.000.000,,,145000000.0,145000000.0
+023,023,023,Tài sản tài chính chóv về của Nhà đầu tư,28.7,1.232.619.088.600,278.568.854.100,,287.0,1232619088600.0,278568854100.0
+024b,024b,024b,Tài sản tài chính chưa lưu ký tại Trung tâm Lưu ký Chứng khoán của Nhà đầu tư,28.8,51.572.580.000,35.217.990.000,,288.0,51572580000.0,35217990000.0
+025,025,025,Tài sản tài chính được hưởng quyền của Nhà đầu tư,28.9,38.864.880.000,97.275.710.000,,289.0,38864880000.0,97275710000.0
+026,026,026,Tiền gửi của khách hàng,,4.812.384.222.934,2.531.793.630.697,,,4812384222934.0,2531793630697.0
+027,027,027,Tiền gửi của Nhà đầu tư về giao dịch chứng khoán theo phương thức CTCK quản lý,28.10,4.372.810.873.724,2.065.881.233.987,,2810.0,4372810873724.0,2065881233987.0
+027.1,027.1,027.1,Tiền gửi ký quỹ của Nhà đầu tư tại VSD,28.10,407.563.136.036,415.120.594.227,,2810.0,407563136036.0,415120594227.0
+028,028,028,Tiền gửi tổng hợp giao dịch chứng khoán cho khách hàng,28.10,19.711.153.662,3.790.098.239,,2810.0,19711153662.0,3790098239.0
+030,030,030,Tiền gửi của Tổ chức phát hành chứng khoán,28.11,12.299.059.512,47.001.704.244,,2811.0,12299059512.0,47001704244.0
+031,031,031,Phải trả Nhà đầu tư về tiền gửi giao dịch chứng khoán theo phương thức CTCK quản lý,28.12,4.780.374.009.760,2.481.001.828.214,,2812.0,4780374009760.0,2481001828214.0
+031.1,031.1,031.1,Phải trả Nhà đầu tư trong nước về tiền gửi giao dịch chứng khoán theo phương thức CTCK quản lý,,4.203.647.551.737,1.986.051.905.846,,,4203647551737.0,1986051905846.0
+031.2,031.2,031.2,Phải trả Nhà đầu tư nước ngoài về tiền gửi giao dịch chứng khoán theo phương thức CTCK quản lý,,576.726.458.023,494.949.922.368,,,576726458023.0,494949922368.0

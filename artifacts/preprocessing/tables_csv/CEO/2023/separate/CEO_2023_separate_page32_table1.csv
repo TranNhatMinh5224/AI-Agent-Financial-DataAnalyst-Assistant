@@ -1,0 +1,11 @@
+﻿row_label_raw,row_label_full,col_0,01/01/2023,Số phải nộp trong năm,Số đã thực nộp trong năm,Đơn vị tính: VND 31/12/2023,numeric__01/01/2023,numeric__Số phải nộp trong năm,numeric__Số đã thực nộp trong năm,numeric__Đơn vị tính: VND 31/12/2023
+a) Phải nộp,a) Phải nộp,a) Phải nộp,a) Phải nộp,a) Phải nộp,a) Phải nộp,a) Phải nộp,,,,
+Thuế GTGT,a) Phải nộp > Thuế GTGT,Thuế GTGT,190.301.656,4.278.081.658,4.468.383.314,-,190301656.0,4278081658.0,4468383314.0,
+Thuế thu nhập cá nhân,a) Phải nộp > Thuế thu nhập cá nhân,Thuế thu nhập cá nhân,365.343.425,4.180.648.957,4.059.318.504,486.673.878,365343425.0,4180648957.0,4059318504.0,486673878.0
+"Thuế nhà đất, tiền thuê đất","a) Phải nộp > Thuế nhà đất, tiền thuê đất","Thuế nhà đất, tiền thuê đất",-,3.051.117.040,2.830.643.749,220.473.291,,3051117040.0,2830643749.0,220473291.0
+Các loại thuế khác,a) Phải nộp > Các loại thuế khác,Các loại thuế khác,155.042.792.000,8.393.987.000,163.436.779.000,-,155042792000.0,8393987000.0,163436779000.0,
+Cộng,a) Phải nộp > Cộng,Cộng,155.598.437.081,19.903.834.655,174.795.124.567,707.147.169,155598437081.0,19903834655.0,174795124567.0,707147169.0
+b) Phải thu,b) Phải thu,b) Phải thu,b) Phải thu,b) Phải thu,b) Phải thu,b) Phải thu,,,,
+Thuế GTGT,b) Phải thu > Thuế GTGT,Thuế GTGT,-,-,4.002,4.002,,,4002.0,4002.0
+Thuế thu nhập doanh nghiệp,b) Phải thu > Thuế thu nhập doanh nghiệp,Thuế thu nhập doanh nghiệp,645.070.240,(4.873.727),82.588.381,732.532.348,645070240.0,-4873727.0,82588381.0,732532348.0
+Cộng,b) Phải thu > Cộng,Cộng,645.070.240,(4.873.727),82.592.383,732.536.350,645070240.0,-4873727.0,82592383.0,732536350.0

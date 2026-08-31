@@ -1,0 +1,21 @@
+﻿row_label_raw,row_label_full,STT CHỈ TIÊU,STT CHỈ TIÊU_1,Thuyết minh,2015,2014 Trình bày lại,numeric__STT CHỈ TIÊU_1,numeric__Thuyết minh,numeric__2015,numeric__2014 Trình bày lại
+1.,1.,1.,Thu nhập lãi và các khoản thu nhập tương tự,27,42.054.991,41.049.944,,27.0,42054991.0,41049944.0
+2.,2.,2.,Chi phí lãi và các chi phí tương tự,28,(23.644.103),(23.549.642),,28.0,-23644103.0,-23549642.0
+I.,I.,I.,Thu nhập lãi thuần,,18.410.888,17.500.302,,,18410888.0,17500302.0
+3.,3.,3.,Thu nhập từ hoạt động dịch vụ,,2.045.085,1.720.987,,,2045085.0,1720987.0
+4.,4.,4.,Chi phí hoạt động dịch vụ,,(854.163),(730.836),,,-854163.0,-730836.0
+II.,II.,II.,Lãi thuần từ hoạt động dịch vụ,29,1.190.922,990.151,,29.0,1190922.0,990151.0
+III.,III.,III.,Lãi thuần từ hoạt động kinh doanh ngoại hối,30,10.970,384.926,,30.0,10970.0,384926.0
+IV.,IV.,IV.,Lãi thuần từ mua bán chứng khoán kinh doanh,31,142.456,191.627,,31.0,142456.0,191627.0
+V.,V.,V.,Lãi/(Lỗ) thuần từ mua bán chứng khoán đầu tư,32,54.235,(120.888),,32.0,54235.0,-120888.0
+5.,5.,5.,Thu nhập từ hoạt động khác,,3.970.441,3.688.571,,,3970441.0,3688571.0
+6.,6.,6.,Chi phí hoạt động khác,,(1.873.309),(2.330.066),,,-1873309.0,-2330066.0
+VI.,VI.,VI.,Lãi thuần từ hoạt động khác,33,2.097.132,1.358.505,,33.0,2097132.0,1358505.0
+VII.,VII.,VII.,"Thu nhập từ góp vốn, mua cổ phần",34,332.029,307.419,,34.0,332029.0,307419.0
+VIII.,VIII.,VIII.,Chi phí hoạt động,35,(10.320.484),(9.565.054),,35.0,-10320484.0,-9565054.0
+IX.,IX.,IX.,Lợi nhuận thuần từ hoạt động kinh doanh trước chi phí dự phòng rủi ro tín dụng,,11.918.148,11.046.988,,,11918148.0,11046988.0
+X.,X.,X.,Chi phí dự phòng rủi ro tín dụng,,(4.654.631),(3.880.794),,,-4654631.0,-3880794.0
+XI.,XI.,XI.,Tổng lợi nhuận trước thuế,,7.263.517,7.166.194,,,7263517.0,7166194.0
+7.,7.,7.,Chi phí thuế TNDN hiện hành,36,(1.545.426),(1.511.704),,36.0,-1545426.0,-1511704.0
+XII.,XII.,XII.,Chi phí thuế TNDN,36,(1.545.426),(1.511.704),,36.0,-1545426.0,-1511704.0
+XIII.,XIII.,XIII.,Lợi nhuận sau thuế TNDN,,5.718.091,5.654.490,,,5718091.0,5654490.0

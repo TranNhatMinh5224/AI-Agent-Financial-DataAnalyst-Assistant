@@ -1,0 +1,20 @@
+﻿row_label_raw,row_label_full,col_0,Code,Note,31/12/2023 VND'000,1/1/2023 VND'000,numeric__Code,numeric__Note,numeric__31/12/2023 VND'000,numeric__1/1/2023 VND'000
+RESOURCES,RESOURCES,RESOURCES,RESOURCES,RESOURCES,RESOURCES,RESOURCES,,,,
+LIABILITIES (300 = 310 + 330),RESOURCES > LIABILITIES (300 = 310 + 330),LIABILITIES (300 = 310 + 330),300,,"3,117,172,705","3,106,878,067",300.0,,,
+Current liabilities,RESOURCES > Current liabilities,Current liabilities,310,,"1,617,172,705","1,606,878,067",310.0,,,
+Accounts payable to suppliers,RESOURCES > Accounts payable to suppliers,Accounts payable to suppliers,311,,"2,464,030","7,988,080",311.0,,,
+Taxes payable to State Treasury,RESOURCES > Taxes payable to State Treasury,Taxes payable to State Treasury,313,,"125,030","202,027",313.0,,125.03,202.027
+Accrued expenses,RESOURCES > Accrued expenses,Accrued expenses,315,9,"61,376,800","54,836,678",315.0,9.0,,
+Other short-term payables,RESOURCES > Other short-term payables,Other short-term payables,319,10,"27,006,845","22,651,282",319.0,10.0,,
+Short-term borrowings and bonds,RESOURCES > Short-term borrowings and bonds,Short-term borrowings and bonds,320,11(a),"1,526,200,000","1,521,200,000",320.0,,,
+Long-term liabilities,RESOURCES > Long-term liabilities,Long-term liabilities,330,,"1,500,000,000","1,500,000,000",330.0,,,
+Long-term bonds,RESOURCES > Long-term bonds,Long-term bonds,338,11(b),"1,500,000,000","1,500,000,000",338.0,,,
+EQUITY (400 = 410),RESOURCES > EQUITY (400 = 410),EQUITY (400 = 410),400,,"12,158,705,150","12,158,346,129",400.0,,,
+Equity,RESOURCES > Equity,Equity,410,12,"12,158,705,150","12,158,346,129",410.0,12.0,,
+Share capital,RESOURCES > Share capital,Share capital,411,13,"10,991,554,200","10,991,554,200",411.0,13.0,,
+- Ordinary shares with voting rights,- Ordinary shares with voting rights,- Ordinary shares with voting rights,411a,,"10,991,554,200","10,991,554,200",,,,
+Share premium,- Ordinary shares with voting rights > Share premium,Share premium,412,13,"1,098,259,892","1,098,259,892",412.0,13.0,,
+Retained profits after tax,- Ordinary shares with voting rights > Retained profits after tax,Retained profits after tax,421,,"68,891,058","68,532,037",421.0,,,
+- Retained profits brought forward,- Retained profits brought forward,- Retained profits brought forward,421a,,"68,532,037","67,820,861",,,,
+- Retained profit for the current year,- Retained profits brought forward > - Retained profit for the current year,- Retained profit for the current year,421b,,"359,021","711,176",,,359.021,711.176
+TOTAL RESOURCES(440 = 300 + 400),- Retained profits brought forward > TOTAL RESOURCES(440 = 300 + 400),TOTAL RESOURCES(440 = 300 + 400),440,,"15,275,877,855","15,265,224,196",440.0,,,

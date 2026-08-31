@@ -1,0 +1,41 @@
+﻿row_label_raw,row_label_full,TÀI SẢN,Mã số,Thuyết minh,31/12/2023 VND,01/01/2023 VND,numeric__Mã số,numeric__Thuyết minh,numeric__31/12/2023 VND,numeric__01/01/2023 VND
+A. TÀI SẢN NGĂN HẠN,A. TÀI SẢN NGĂN HẠN,A. TÀI SẢN NGĂN HẠN,100,,8.091.482.216.843,6.087.257.921.774,100.0,,8091482216843.0,6087257921774.0
+I. Tiền và các khoản tương đương tiền,I. Tiền và các khoản tương đương tiền,I. Tiền và các khoản tương đương tiền,110,,288.969.487.361,201.953.492.369,110.0,,288969487361.0,201953492369.0
+1. Tiền,1. Tiền,1. Tiền,111,5,288.969.487.361,201.953.492.369,111.0,5.0,288969487361.0,201953492369.0
+2. Các khoản tương đương tiền,2. Các khoản tương đương tiền,2. Các khoản tương đương tiền,112,,-,-,112.0,,,
+II. Đầu tư tài chính ngắn hạn,II. Đầu tư tài chính ngắn hạn,II. Đầu tư tài chính ngắn hạn,120,,6.165.000.000.000,4.296.000.000.000,120.0,,6165000000000.0,4296000000000.0
+1. Chứng khoán kinh doanh,1. Chứng khoán kinh doanh,1. Chứng khoán kinh doanh,121,,-,-,121.0,,,
+2. Đầu tư nắm giữ đến ngày đáo hạn,2. Đầu tư nắm giữ đến ngày đáo hạn,2. Đầu tư nắm giữ đến ngày đáo hạn,123,6.a,6.165.000.000.000,4.296.000.000.000,123.0,,6165000000000.0,4296000000000.0
+III. Các khoản phải thu ngắn hạn,III. Các khoản phải thu ngắn hạn,III. Các khoản phải thu ngắn hạn,130,,660.905.475.189,586.778.251.472,130.0,,660905475189.0,586778251472.0
+1. Phải thu ngắn hạn của khách hàng,1. Phải thu ngắn hạn của khách hàng,1. Phải thu ngắn hạn của khách hàng,131,7,247.883.101.555,146.051.447.210,131.0,7.0,247883101555.0,146051447210.0
+2. Trả trước cho người bán ngắn hạn,2. Trả trước cho người bán ngắn hạn,2. Trả trước cho người bán ngắn hạn,132,8,379.855.956.240,410.943.227.278,132.0,8.0,379855956240.0,410943227278.0
+3. Phải thu ngắn hạn khác,3. Phải thu ngắn hạn khác,3. Phải thu ngắn hạn khác,136,9.a,52.334.442.791,47.192.150.629,136.0,,52334442791.0,47192150629.0
+4. Dự phòng phải thu ngắn hạn khó đòi,4. Dự phòng phải thu ngắn hạn khó đòi,4. Dự phòng phải thu ngắn hạn khó đòi,137,10,(19.168.025.397),(17.408.573.645),137.0,10.0,-19168025397.0,-17408573645.0
+IV. Hàng tồn kho,IV. Hàng tồn kho,IV. Hàng tồn kho,140,11,957.509.561.445,945.588.775.727,140.0,11.0,957509561445.0,945588775727.0
+1. Hàng tồn kho,1. Hàng tồn kho,1. Hàng tồn kho,141,,960.148.782.878,946.659.821.282,141.0,,960148782878.0,946659821282.0
+2. Dự phòng giảm giá hàng tồn kho,2. Dự phòng giảm giá hàng tồn kho,2. Dự phòng giảm giá hàng tồn kho,149,,(2.639.221.433),(1.071.045.555),149.0,,-2639221433.0,-1071045555.0
+V. Tài sản ngắn hạn khác,V. Tài sản ngắn hạn khác,V. Tài sản ngắn hạn khác,150,,19.097.692.848,56.937.402.206,150.0,,19097692848.0,56937402206.0
+1. Chi phí trả trước ngắn hạn,1. Chi phí trả trước ngắn hạn,1. Chi phí trả trước ngắn hạn,151,12.a,18.356.310.764,54.909.834.199,151.0,,18356310764.0,54909834199.0
+2. Thuế và các khoản khác phải thu Nhà nước,2. Thuế và các khoản khác phải thu Nhà nước,2. Thuế và các khoản khác phải thu Nhà nước,153,18,741.382.084,2.027.568.007,153.0,18.0,741382084.0,2027568007.0
+B. TÀI SẢN DÀI HẠN,B. TÀI SẢN DÀI HẠN,B. TÀI SẢN DÀI HẠN,200,,4.759.144.462.436,4.975.684.446.379,200.0,,4759144462436.0,4975684446379.0
+I. Các khoản phải thu dài hạn,I. Các khoản phải thu dài hạn,I. Các khoản phải thu dài hạn,210,,786.569.947,456.640.965,210.0,,786569947.0,456640965.0
+1. Phải thu dài hạn của khách hàng,1. Phải thu dài hạn của khách hàng,1. Phải thu dài hạn của khách hàng,211,,-,-,211.0,,,
+2. Phải thu dài hạn khác,2. Phải thu dài hạn khác,2. Phải thu dài hạn khác,216,9.b,786.569.947,456.640.965,216.0,,786569947.0,456640965.0
+II. Tài sản cố định,II. Tài sản cố định,II. Tài sản cố định,220,,3.666.123.937.870,3.913.337.322.796,220.0,,3666123937870.0,3913337322796.0
+1. Tài sản cố định hữu hình,1. Tài sản cố định hữu hình,1. Tài sản cố định hữu hình,221,13,3.650.071.571.533,3.905.463.978.341,221.0,13.0,3650071571533.0,3905463978341.0
+- Nguyên giá,- Nguyên giá,- Nguyên giá,222,,9.201.583.768.224,9.051.489.881.726,222.0,,9201583768224.0,9051489881726.0
+- Giá trị hao mòn lũy kế,- Giá trị hao mòn lũy kế,- Giá trị hao mòn lũy kế,223,,(5.551.512.196.691),(5.146.025.903.385),223.0,,-5551512196691.0,-5146025903385.0
+2. Tài sản cố định vô hình,2. Tài sản cố định vô hình,2. Tài sản cố định vô hình,227,14,16.052.366.337,7.873.344.455,227.0,14.0,16052366337.0,7873344455.0
+- Nguyên giá,- Nguyên giá,- Nguyên giá,228,,74.486.330.425,62.861.937.395,228.0,,74486330425.0,62861937395.0
+- Giá trị hao mòn lũy kế,- Giá trị hao mòn lũy kế,- Giá trị hao mòn lũy kế,229,,(58.433.964.088),(54.988.592.940),229.0,,-58433964088.0,-54988592940.0
+III. Bất động sản đầu tư,III. Bất động sản đầu tư,III. Bất động sản đầu tư,230,,-,-,230.0,,,
+IV. Tài sản dở dang dài hạn,IV. Tài sản dở dang dài hạn,IV. Tài sản dở dang dài hạn,240,,53.483.559.255,33.080.880.259,240.0,,53483559255.0,33080880259.0
+"1. Chi phí sản xuất, kinh doanh dở dang dài hạn","1. Chi phí sản xuất, kinh doanh dở dang dài hạn","1. Chi phí sản xuất, kinh doanh dở dang dài hạn",241,,-,-,241.0,,,
+2. Chi phí xây dựng cơ bản dở dang,2. Chi phí xây dựng cơ bản dở dang,2. Chi phí xây dựng cơ bản dở dang,242,15,53.483.559.255,33.080.880.259,242.0,15.0,53483559255.0,33080880259.0
+V. Đầu tư tài chính dài hạn,V. Đầu tư tài chính dài hạn,V. Đầu tư tài chính dài hạn,250,,800.000.000.000,800.000.000.000,250.0,,800000000000.0,800000000000.0
+1. Đầu tư vào công ty con,1. Đầu tư vào công ty con,1. Đầu tư vào công ty con,251,6.b,800.000.000.000,800.000.000.000,251.0,,800000000000.0,800000000000.0
+2. Đầu tư nắm giữ đến ngày đáo hạn,2. Đầu tư nắm giữ đến ngày đáo hạn,2. Đầu tư nắm giữ đến ngày đáo hạn,255,,-,-,255.0,,,
+VI. Tài sản dài hạn khác,VI. Tài sản dài hạn khác,VI. Tài sản dài hạn khác,260,,238.750.395.364,228.809.602.359,260.0,,238750395364.0,228809602359.0
+1. Chi phí trả trước dài hạn,1. Chi phí trả trước dài hạn,1. Chi phí trả trước dài hạn,261,12.b,238.750.395.364,228.809.602.359,261.0,,238750395364.0,228809602359.0
+2. Tài sản dài hạn khác,2. Tài sản dài hạn khác,2. Tài sản dài hạn khác,268,,-,-,268.0,,,
+TỔNG CỘNG TÀI SẢN,TỔNG CỘNG TÀI SẢN,TỔNG CỘNG TÀI SẢN,270,,12.850.626.679.279,11.062.942.368.153,270.0,,12850626679279.0,11062942368153.0

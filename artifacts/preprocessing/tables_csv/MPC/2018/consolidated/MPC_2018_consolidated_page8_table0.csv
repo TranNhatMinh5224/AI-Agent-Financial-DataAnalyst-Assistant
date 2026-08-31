@@ -1,0 +1,27 @@
+﻿row_label_raw,row_label_full,col_0,Mã số,Thuyết minh,31/12/2018 VND,1/1/2018 VND,numeric__Mã số,numeric__Thuyết minh,numeric__31/12/2018 VND,numeric__1/1/2018 VND
+NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,,,,
+NỘ PHẢI TRẢ (300 = 310 + 330),NGUỒN VỐN > NỘ PHẢI TRẢ (300 = 310 + 330),NỘ PHẢI TRẢ (300 = 310 + 330),300,,5.367.904.149.095,6.518.661.625.096,300.0,,5367904149095.0,6518661625096.0
+Nợ ngắn hạn,NGUỒN VỐN > Nợ ngắn hạn,Nợ ngắn hạn,310,,4.119.261.773.165,4.411.280.651.253,310.0,,4119261773165.0,4411280651253.0
+Phải trả người bán,NGUỒN VỐN > Phải trả người bán,Phải trả người bán,311,,412.563.976.912,656.213.732.042,311.0,,412563976912.0,656213732042.0
+Người mua trả tiền trước,NGUỒN VỐN > Người mua trả tiền trước,Người mua trả tiền trước,312,,74.376.259.833,20.156.483.977,312.0,,74376259833.0,20156483977.0
+Thuế phải nộp Ngân sách Nhà nước,NGUỒN VỐN > Thuế phải nộp Ngân sách Nhà nước,Thuế phải nộp Ngân sách Nhà nước,313,18(a),28.760.736.215,33.539.904.002,313.0,,28760736215.0,33539904002.0
+Phải trả người lao động,NGUỒN VỐN > Phải trả người lao động,Phải trả người lao động,314,,107.161.940.966,88.722.496.835,314.0,,107161940966.0,88722496835.0
+Chi phí phải trả,NGUỒN VỐN > Chi phí phải trả,Chi phí phải trả,315,,781.085.147,944.624.935,315.0,,781085147.0,944624935.0
+Phải trả ngắn hạn khác,NGUỒN VỐN > Phải trả ngắn hạn khác,Phải trả ngắn hạn khác,319,20(a),59.221.024.130,76.110.288.683,319.0,,59221024130.0,76110288683.0
+Vay ngắn hạn,NGUỒN VỐN > Vay ngắn hạn,Vay ngắn hạn,320,21(a),3.377.225.991.304,3.475.843.624.232,320.0,,3377225991304.0,3475843624232.0
+Quỹ khen thưởng và phúc lợi,NGUỒN VỐN > Quỹ khen thưởng và phúc lợi,Quỹ khen thưởng và phúc lợi,322,22,59.170.758.658,59.749.496.547,322.0,22.0,59170758658.0,59749496547.0
+Nợ dài hạn,NGUỒN VỐN > Nợ dài hạn,Nợ dài hạn,330,,1.248.642.375.930,2.107.380.973.843,330.0,,1248642375930.0,2107380973843.0
+Doanh thu chưa thực hiện dài hạn,NGUỒN VỐN > Doanh thu chưa thực hiện dài hạn,Doanh thu chưa thực hiện dài hạn,336,19,36.956.212.257,37.736.977.305,336.0,19.0,36956212257.0,37736977305.0
+Phải trả dài hạn khác,NGUỒN VỐN > Phải trả dài hạn khác,Phải trả dài hạn khác,337,20(b),1.896.856.000,6.836.856.000,337.0,,1896856000.0,6836856000.0
+Trái phiếu,NGUỒN VỐN > Trái phiếu,Trái phiếu,338,21(b),1.190.166.666.695,2.042.916.666.687,338.0,,1190166666695.0,2042916666687.0
+Thuế thu nhập hoãn lại phải trả,NGUỒN VỐN > Thuế thu nhập hoãn lại phải trả,Thuế thu nhập hoãn lại phải trả,341,16,19.622.640.978,19.890.473.851,341.0,16.0,19622640978.0,19890473851.0
+VỐN CHỦ SỞ HỮU (400 = 410),NGUỒN VỐN > VỐN CHỦ SỞ HỮU (400 = 410),VỐN CHỦ SỞ HỮU (400 = 410),400,,3.724.610.906.066,2.991.625.028.663,400.0,,3724610906066.0,2991625028663.0
+Vốn chủ sở hữu,NGUỒN VỐN > Vốn chủ sở hữu,Vốn chủ sở hữu,410,23,3.724.610.906.066,2.991.625.028.663,410.0,23.0,3724610906066.0,2991625028663.0
+Vốn cổ phần,NGUỒN VỐN > Vốn cổ phần,Vốn cổ phần,411,24,1.400.000.000.000,700.000.000.000,411.0,24.0,1400000000000.0,700000000000.0
+Thăng dư vốn cổ phần,NGUỒN VỐN > Thăng dư vốn cổ phần,Thăng dư vốn cổ phần,412,23,,177.876.869.236,412.0,23.0,,177876869236.0
+Cổ phiếu quỹ,NGUỒN VỐN > Cổ phiếu quỹ,Cổ phiếu quỹ,415,23,(80.162.090.861),(80.162.090.861),415.0,23.0,-80162090861.0,-80162090861.0
+Chênh lệch tỷ giá hối đoái,NGUỒN VỐN > Chênh lệch tỷ giá hối đoái,Chênh lệch tỷ giá hối đoái,417,23,135.680.972.288,125.543.277.919,417.0,23.0,135680972288.0,125543277919.0
+Quỹ đầu tư phát triển,NGUỒN VỐN > Quỹ đầu tư phát triển,Quỹ đầu tư phát triển,418,25,166.417.831.058,54.374.900.005,418.0,25.0,166417831058.0,54374900005.0
+Lợi nhuận sau thuế chưa phân phối,NGUỒN VỐN > Lợi nhuận sau thuế chưa phân phối,Lợi nhuận sau thuế chưa phân phối,421,,1.506.571.790.753,1.452.263.283.294,421.0,,1506571790753.0,1452263283294.0
+Lợi ích cổ đông không kiểm soát,NGUỒN VỐN > Lợi ích cổ đông không kiểm soát,Lợi ích cổ đông không kiểm soát,429,,596.102.402.828,561.728.789.070,429.0,,596102402828.0,561728789070.0
+TỔNG NGUỒN VỐN(440 = 300 + 400),NGUỒN VỐN > TỔNG NGUỒN VỐN(440 = 300 + 400),TỔNG NGUỒN VỐN(440 = 300 + 400),440,,9.092.515.055.161,"9.510.286.653.759,",440.0,,9092515055161.0,9510286653759.0

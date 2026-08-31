@@ -1,0 +1,15 @@
+﻿row_label_raw,row_label_full,Tình trạng hồ sơ,Số hồ sơ,Số dư nợ,Số dư nợ_1,numeric__Số hồ sơ,numeric__Số dư nợ,numeric__Số dư nợ_1
+Tình trạng hồ sơ,Tình trạng hồ sơ,Tình trạng hồ sơ,Số hồ sơ,Nợ gốc,Nợ lãi,,,
+,,,,VND,VND,,,
+"Hồ sơ đã khởi kiện, chuyển Tòa án","Tình trạng hồ sơ > Hồ sơ đã khởi kiện, chuyển Tòa án","Hồ sơ đã khởi kiện, chuyển Tòa án",43,522.778.659.676,1.088.825.860.877,43.0,522778659676.0,1088825860877.0
+"+ Hồ sơ tín dụng khởi kiện, đã có bản án, phương án xử lý, thỏa thuận trả nợ theo cam kết","Tình trạng hồ sơ > + Hồ sơ tín dụng khởi kiện, đã có bản án, phương án xử lý, thỏa thuận trả nợ theo cam kết","+ Hồ sơ tín dụng khởi kiện, đã có bản án, phương án xử lý, thỏa thuận trả nợ theo cam kết",12,2.000.000.000,92.247.083.564,12.0,2000000000.0,92247083564.0
++ Hồ sơ tín dụng Tòa án đang thụ lý chưa có bản án,Tình trạng hồ sơ > + Hồ sơ tín dụng Tòa án đang thụ lý chưa có bản án,+ Hồ sơ tín dụng Tòa án đang thụ lý chưa có bản án,23,473.512.284.877,944.399.106.783,23.0,473512284877.0,944399106783.0
++ Hồ sơ tín dụng đã có bản án nhưng chưa thi hành án,Tình trạng hồ sơ > + Hồ sơ tín dụng đã có bản án nhưng chưa thi hành án,+ Hồ sơ tín dụng đã có bản án nhưng chưa thi hành án,4,12.334.454.598,46.648.407.500,4.0,12334454598.0,46648407500.0
++ Hồ sơ tín dụng Tòa án đã định chi khởi kiện do hết hiệu lực khởi kiện,Tình trạng hồ sơ > + Hồ sơ tín dụng Tòa án đã định chi khởi kiện do hết hiệu lực khởi kiện,+ Hồ sơ tín dụng Tòa án đã định chi khởi kiện do hết hiệu lực khởi kiện,4,34.931.920.201,5.531.263.030,4.0,34931920201.0,5531263030.0
+Hồ sơ tại cơ quan thi hành án,Tình trạng hồ sơ > Hồ sơ tại cơ quan thi hành án,Hồ sơ tại cơ quan thi hành án,137,216.594.016.346,851.011.671.580,137.0,216594016346.0,851011671580.0
++ Hồ sơ trong giai đoạn phát mãi tài sản để thi hành án,Tình trạng hồ sơ > + Hồ sơ trong giai đoạn phát mãi tài sản để thi hành án,+ Hồ sơ trong giai đoạn phát mãi tài sản để thi hành án,47,206.371.681.976,518.494.230.217,47.0,206371681976.0,518494230217.0
++ Hồ sơ tại cơ quan thi hành án nhưng không có tài thế chấp để phát mãi,Tình trạng hồ sơ > + Hồ sơ tại cơ quan thi hành án nhưng không có tài thế chấp để phát mãi,+ Hồ sơ tại cơ quan thi hành án nhưng không có tài thế chấp để phát mãi,7,669.136.214,1.590.015.605,7.0,669136214.0,1590015605.0
++ Hồ sơ tín dụng tại cơ quan thi hành án đã có quyết định đình chỉ thi hành án,Tình trạng hồ sơ > + Hồ sơ tín dụng tại cơ quan thi hành án đã có quyết định đình chỉ thi hành án,+ Hồ sơ tín dụng tại cơ quan thi hành án đã có quyết định đình chỉ thi hành án,4,19.458.817,3.379.389.231,4.0,19458817.0,3379389231.0
++ Hồ sơ tín dụng đã phát mãi hết tài sản,Tình trạng hồ sơ > + Hồ sơ tín dụng đã phát mãi hết tài sản,+ Hồ sơ tín dụng đã phát mãi hết tài sản,79,9.533.739.339,327.548.036.527,79.0,9533739339.0,327548036527.0
+Hồ sơ chưa khởi kiện,Tình trạng hồ sơ > Hồ sơ chưa khởi kiện,Hồ sơ chưa khởi kiện,2,1.340.000.000,1.210.413.385,2.0,1340000000.0,1210413385.0
+,,,182,740.712.676.022,1.941.047.945.842,182.0,740712676022.0,1941047945842.0

@@ -1,0 +1,14 @@
+﻿row_label_raw,row_label_full,col_0,Quyền sử dụng đất,"Nhà cửa, vật kiến trúc",Ngân VND Tổng cộng,numeric__Quyền sử dụng đất,"numeric__Nhà cửa, vật kiến trúc",numeric__Ngân VND Tổng cộng
+Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,,,
+Số dư đầu năm,Nguyên giá > Số dư đầu năm,Số dư đầu năm,81.183.514,15.001.180,96.184.694,81183514.0,15001180.0,96184694.0
+Mua sắm mới,Nguyên giá > Mua sắm mới,Mua sắm mới,64.477.600,-,64.477.600,64477600.0,,64477600.0
+Thanh lý trong năm,Nguyên giá > Thanh lý trong năm,Thanh lý trong năm,(81.183.514),-,(81.183.514),-81183514.0,,-81183514.0
+Số dư cuối năm,Nguyên giá > Số dư cuối năm,Số dư cuối năm,64.477.600,15.001.180,79.478.780,64477600.0,15001180.0,79478780.0
+Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,,,
+Số dư đầu năm,Giá trị hao mòn lũy kế > Số dư đầu năm,Số dư đầu năm,-,750.059,750.059,,750059.0,750059.0
+Khấu hao trong năm,Giá trị hao mòn lũy kế > Khấu hao trong năm,Khấu hao trong năm,-,500.039,500.039,,500039.0,500039.0
+Số dư cuối năm,Giá trị hao mòn lũy kế > Số dư cuối năm,Số dư cuối năm,-,1.250.098,1.250.098,,1250098.0,1250098.0
+Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,,,
+Số dư đầu năm,Giá trị còn lại > Số dư đầu năm,Số dư đầu năm,81.183.514,14.251.121,95.434.635,81183514.0,14251121.0,95434635.0
+Số dư cuối năm,Giá trị còn lại > Số dư cuối năm,Số dư cuối năm,64.477.600,13.751.082,78.228.682,64477600.0,13751082.0,78228682.0
+Trong đó:Thế chấp/cẩm cố để đảm bảo cho các khoản vay của công ty con,Giá trị còn lại > Trong đó:Thế chấp/cẩm cố để đảm bảo cho các khoản vay của công ty con,Trong đó:Thế chấp/cẩm cố để đảm bảo cho các khoản vay của công ty con,-,13.751.082,13.751.082,,13751082.0,13751082.0

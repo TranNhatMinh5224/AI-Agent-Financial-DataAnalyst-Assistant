@@ -1,0 +1,31 @@
+﻿row_label_raw,row_label_full,B -,NỘ PHẢI TRẢ VÀ VỐN CHỦ SỞ HỮU,Thuyết minh,Số cuối năm,Số đầu năm,numeric__NỘ PHẢI TRẢ VÀ VỐN CHỦ SỞ HỮU,numeric__Thuyết minh,numeric__Số cuối năm,numeric__Số đầu năm
+I.,I.,I.,Các khoản nợ Chính phủ và NHNN,,-,-,,,,
+1.,1.,1.,"Tiền gửi và vay Chính phủ, NHNN",,-,-,,,,
+2.,2.,2.,Giao dịch bán và mua lại trái phiếu Chính phủ với Kho bạc Nhà nước,,-,-,,,,
+II.,2. > II.,II.,Tiền gửi và vay các TCTD khác,V.13,15.875.437,15.125.547,,,15875437.0,15125547.0
+1.,2. > 1.,1.,Tiền gửi của các TCTD khác,V.13,15.867.227,15.117.285,,,15867227.0,15117285.0
+2.,2. > 2.,2.,Vay các TCTD khác,V.13,8.210,8.262,,,8210.0,8262.0
+III.,2. > III.,III.,Tiền gửi của khách hàng,V.14,72.010.409,63.521.494,,,72010409.0,63521494.0
+IV.,2. > IV.,IV.,Các công cụ tài chính phải sinh và các khoản nợ tài chính khác,V.15,-,112.476,,,,112476.0
+V.,V.,V.,"Vốn tài trợ, ủy thác đầu tư, cho vay TCTD chịu rủi ro",,-,-,,,,
+VI.,V. > VI.,VI.,Phát hành giấy tờ có giá,V.16,3.475.125,3.928.457,,,3475125.0,3928457.0
+VII.,V. > VII.,VII.,Các khoản nợ khác,,3.525.215,2.883.342,,,3525215.0,2883342.0
+1.,V. > 1.,1.,"Các khoản lãi, phí phải trả",V.17,1.388.819,1.002.054,,,1388819.0,1002054.0
+2.,2.,2.,Thuế TNDN hoãn lại phải trả,,-,-,,,,
+3.,2. > 3.,3.,Các khoản phải trả và công nợ khác,V.18,2.136.396,1.881.288,,,2136396.0,1881288.0
+4.,4.,4.,Dự phòng rủi ro khác (dự phòng cho công nợ tiềm ấn),,-,-,,,,
+,,,Tổng nợ phải trả,,94.886.186,85.571.316,,,94886186.0,85571316.0
+VIII.,4. > VIII.,VIII.,Vốn chủ sở hữu,V.19,8.416.503,6.604.952,,,8416503.0,6604952.0
+1.,4. > 1.,1.,Vốn của TCTD,,5.787.505,3.618.619,,,5787505.0,3618619.0
+a.,4. > a.,a.,Vốn điều lệ,V.19,5.821.705,3.652.819,,,5821705.0,3652819.0
+b.,b.,b.,"Vốn đầu tư XDCB, mua sắm tài sản cố định",,-,-,,,,
+c.,c.,c.,Thăng dư vốn cố phần,,-,-,,,,
+d.,c. > d.,d.,Cổ phiếu quỹ,V.19,(34.200),(34.200),,,-34200.0,-34200.0
+e.,e.,e.,Cổ phiếu ưu đãi,,-,-,,,,
+f.,f.,f.,Vốn khác,,-,-,,,,
+2.,f. > 2.,2.,Quỹ của TCTD,"V.19, 20",751.338,573.838,,,751338.0,573838.0
+3.,3.,3.,Chênh lệch tỷ giá hối đoái,,-,-,,,,
+4.,4.,4.,Chênh lệch đánh giá lại tài sản,,-,-,,,,
+5.,4. > 5.,5.,Lợi nhuận chưa phân phối,V.19,1.877.660,2.412.495,,,1877660.0,2412495.0
+6.,6.,6.,Lợi ích của cổ đông không kiểm soát,,-,-,,,,
+,,,TỔNG NỘ PHẢI TRẢ VÀ VỐN CHỦ SỞ HỮU,,103.302.689,92.176.268,,,103302689.0,92176268.0

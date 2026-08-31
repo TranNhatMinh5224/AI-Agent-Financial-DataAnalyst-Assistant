@@ -1,0 +1,23 @@
+﻿row_label_raw,row_label_full,STT,CHỈ TIÊU,Thuyết minh,Năm nay,Năm trước,numeric__CHỈ TIÊU,numeric__Thuyết minh,numeric__Năm nay,numeric__Năm trước
+1.,1.,1.,Thu nhập lãi và các khoản thu nhập tương tự,VI.1,7.779.429,5.376.251,,,7779429.0,5376251.0
+2.,2.,2.,Chi phí lãi và các khoản chi phí tương tự,VI.2,5.741.323,3.284.730,,,5741323.0,3284730.0
+I.,I.,I.,Thu nhập lãi thuần,,2.038.106,2.091.521,,,2038106.0,2091521.0
+3.,3.,3.,Thu nhập từ hoạt động dịch vụ,VI.3,556.312,422.695,,,556312.0,422695.0
+4.,4.,4.,Chi phí từ hoạt động dịch vụ,VI.3,43.579,26.651,,,43579.0,26651.0
+II.,II.,II.,Lãi/lỗ thuần từ hoạt động dịch vụ,VI.3,512.733,396.044,,,512733.0,396044.0
+III.,III.,III.,Lãi/lỗ thuần từ kinh doanh ngoại hối,VI.4,59.196,34.981,,,59196.0,34981.0
+IV.,IV.,IV.,Lãi/lỗ thuần từ mua bán chứng khoán kinh doanh,,-,-,,,,
+V.,IV. > V.,V.,Lãi/lỗ thuần từ mua bán chứng khoán đầu tư,VI.5,82.450,7.818,,,82450.0,7818.0
+5.,IV. > 5.,5.,Thu nhập từ hoạt động khác,VI.6,95.764,88.565,,,95764.0,88565.0
+6.,IV. > 6.,6.,Chi phí từ hoạt động khác,VI.6,5.845,5.651,,,5845.0,5651.0
+VI.,IV. > VI.,VI.,Lãi/lỗ thuần từ hoạt động khác,VI.6,89.919,82.914,,,89919.0,82914.0
+VII.,VII.,VII.,"Thu nhập từ góp vốn, mua cổ phần",,-,-,,,,
+VIII.,VII. > VIII.,VIII.,Chỉ phí hoạt động,VI.7,1.645.837,1.459.022,,,1645837.0,1459022.0
+IX.,VII. > IX.,IX.,Lợi nhuận thuần từ hoạt động kinh doanh trước chỉ phí dự phòng rủi ro tín dụng,,1.136.567,1.154.256,,,1136567.0,1154256.0
+X.,VII. > X.,X.,Chi phí dự phòng rủi ro tín dụng,VI.8,417.920,472.393,,,417920.0,472393.0
+XI.,VII. > XI.,XI.,Tổng lợi nhuận trước thuế,,718.647,681.863,,,718647.0,681863.0
+7.,VII. > 7.,7.,Chi phí thuế thu nhập doanh nghiệp hiện hành,VIII.2,143.478,137.342,,,143478.0,137342.0
+8.,VII. > 8.,8.,Chi phí thuế thu nhập doanh nghiệp hoãn lại,,1.185,-,,,1185.0,
+XII.,VII. > XII.,XII.,Chi phí thuế thu nhập doanh nghiệp,,144.663,137.342,,,144663.0,137342.0
+XIII.,VII. > XIII.,XIII.,Lợi nhuận sau thuế,,573.984,544.521,,,573984.0,544521.0
+XIV.,VII. > XIV.,XIV.,Lãi cơ bản trên cổ phiếu,VI.9,1.588,1.506,,,1588.0,1506.0

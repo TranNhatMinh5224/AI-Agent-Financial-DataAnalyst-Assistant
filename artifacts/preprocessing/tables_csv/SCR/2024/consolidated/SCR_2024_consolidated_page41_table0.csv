@@ -1,0 +1,25 @@
+﻿row_label_raw,row_label_full,18. Thuế và các khoản phảinộp/phải thu Nhà nước,01/01/2024,Số phải nộptrong năm,Số đã thựcnộp trong năm,31/12/2024,numeric__01/01/2024,numeric__Số phải nộptrong năm,numeric__Số đã thựcnộp trong năm,numeric__31/12/2024
+a. Phải nộp,a. Phải nộp,a. Phải nộp,a. Phải nộp,a. Phải nộp,a. Phải nộp,a. Phải nộp,,,,
+Thuế giá trị gia tăng,a. Phải nộp > Thuế giá trị gia tăng,Thuế giá trị gia tăng,14.369.358.516,3.663.858.516,15.231.165.909,2.802.051.123,14369358516.0,3663858516.0,15231165909.0,2802051123.0
+Thuế thu nhập doanh nghiệp,a. Phải nộp > Thuế thu nhập doanh nghiệp,Thuế thu nhập doanh nghiệp,31.866.043.695,25.867.195.300,32.541.982.689,25.191.256.306,31866043695.0,25867195300.0,32541982689.0,25191256306.0
+Thuế thu nhập cá nhân,a. Phải nộp > Thuế thu nhập cá nhân,Thuế thu nhập cá nhân,4.605.810.446,9.212.770.098,11.436.188.838,2.382.391.706,4605810446.0,9212770098.0,11436188838.0,2382391706.0
+"Thuế nhà đất, tiền thuê đất","a. Phải nộp > Thuế nhà đất, tiền thuê đất","Thuế nhà đất, tiền thuê đất",12.494.062.768,31.774.523.639,44.268.586.407,-,12494062768.0,31774523639.0,44268586407.0,
+Các loại thuế khác,a. Phải nộp > Các loại thuế khác,Các loại thuế khác,629.401.317,7.230.636.655,7.094.343.775,765.694.197,629401317.0,7230636655.0,7094343775.0,765694197.0
+Cộng,a. Phải nộp > Cộng,Cộng,63.964.676.742,77.748.984.208,110.572.267.618,31.141.393.332,63964676742.0,77748984208.0,110572267618.0,31141393332.0
+b. Phải thu,b. Phải thu,b. Phải thu,b. Phải thu,b. Phải thu,b. Phải thu,b. Phải thu,,,,
+Thuế thu nhập cá nhân nộp,Thuế thu nhập cá nhân nộp,Thuế thu nhập cá nhân nộp,Thuế thu nhập cá nhân nộp,Thuế thu nhập cá nhân nộp,Thuế thu nhập cá nhân nộp,Thuế thu nhập cá nhân nộp,,,,
+thừa,Thuế thu nhập cá nhân nộp > thừa,thừa,693.191,-,-,693.191,693191.0,,,693191.0
+"Thuế nhà đất, tiền thuê đất","Thuế thu nhập cá nhân nộp > Thuế nhà đất, tiền thuê đất","Thuế nhà đất, tiền thuê đất",-,-,3.709.786.900,3.709.786.900,,,3709786900.0,3709786900.0
+Cộng,Thuế thu nhập cá nhân nộp > Cộng,Cộng,693.191,-,3.709.786.900,3.710.480.091,693191.0,,3709786900.0,3710480091.0
+c. Khấu trừ,c. Khấu trừ,c. Khấu trừ,01/01/2024,Tăng trong năm,Giảm trong năm,31/12/2024,,,,
+Thuế giá trị gia tăng,c. Khấu trừ > Thuế giá trị gia tăng,Thuế giá trị gia tăng,159.513.220.605,67.116.303.016,69.992.173.284,156.637.350.337,159513220605.0,67116303016.0,69992173284.0,156637350337.0
+Cộng,c. Khấu trừ > Cộng,Cộng,159.513.220.605,67.116.303.016,69.992.173.284,156.637.350.337,159513220605.0,67116303016.0,69992173284.0,156637350337.0
+19. Chi phí phải trả,19. Chi phí phải trả,19. Chi phí phải trả,,,31/12/2024,01/01/2024,,,,
+a. Ngắn hạn,19. Chi phí phải trả > a. Ngắn hạn,a. Ngắn hạn,,,374.076.609.960,383.261.824.294,,,374076609960.0,383261824294.0
+Chi phí xây dựng,19. Chi phí phải trả > Chi phí xây dựng,Chi phí xây dựng,,,236.881.726.284,242.872.822.466,,,236881726284.0,242872822466.0
+Chi phí bồi thường thuộc dự án Charmington Dragonic,19. Chi phí phải trả > Chi phí bồi thường thuộc dự án Charmington Dragonic,Chi phí bồi thường thuộc dự án Charmington Dragonic,,,38.282.833.530,38.282.833.530,,,38282833530.0,38282833530.0
+Chi phí lãi vay phải trả,19. Chi phí phải trả > Chi phí lãi vay phải trả,Chi phí lãi vay phải trả,,,56.693.325.274,60.855.030.948,,,56693325274.0,60855030948.0
+Chi phí phải trả khác,19. Chi phí phải trả > Chi phí phải trả khác,Chi phí phải trả khác,,,42.218.724.872,41.251.137.350,,,42218724872.0,41251137350.0
+b. Dài hạn,19. Chi phí phải trả > b. Dài hạn,b. Dài hạn,,,86.016.987.675,86.016.987.675,,,86016987675.0,86016987675.0
+Chi phí thuê đất và chia lợi nhuận cố định (*),19. Chi phí phải trả > Chi phí thuê đất và chia lợi nhuận cố định (*),Chi phí thuê đất và chia lợi nhuận cố định (*),,,86.016.987.675,86.016.987.675,,,86016987675.0,86016987675.0
+Cộng,19. Chi phí phải trả > Cộng,Cộng,,,460.093.597.635,469.278.811.969,,,460093597635.0,469278811969.0

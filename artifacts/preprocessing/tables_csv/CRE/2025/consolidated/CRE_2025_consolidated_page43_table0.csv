@@ -1,0 +1,17 @@
+﻿row_label_raw,row_label_full,col_0,Giá trị quyền sử dụng đất (*),Phần mềm máy tính,Tài sản cố định vô hình khác,Cộng,numeric__Giá trị quyền sử dụng đất (*),numeric__Phần mềm máy tính,numeric__Tài sản cố định vô hình khác,numeric__Cộng
+,,,VND,VND,VND,VND,,,,
+Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,,,,
+Số dư đầu năm,Nguyên giá > Số dư đầu năm,Số dư đầu năm,11.995.200.171,222.576.835.335,374.727.273,234.946.762.779,11995200171.0,222576835335.0,374727273.0,234946762779.0
+- Mua trong năm,Nguyên giá > - Mua trong năm,- Mua trong năm,-,110.000.000,-,110.000.000,,110000000.0,,110000000.0
+- Tăng do hợp nhất kinh doanh (*),Nguyên giá > - Tăng do hợp nhất kinh doanh (*),- Tăng do hợp nhất kinh doanh (*),-,5.052.000.000,-,5.052.000.000,,5052000000.0,,5052000000.0
+"- Thanh lý, nhượng bán","Nguyên giá > - Thanh lý, nhượng bán","- Thanh lý, nhượng bán",-,(136.772.000),-,(136.772.000),,-136772000.0,,-136772000.0
+Số dư cuối năm,Nguyên giá > Số dư cuối năm,Số dư cuối năm,11.995.200.171,227.602.063.335,374.727.273,239.971.990.779,11995200171.0,227602063335.0,374727273.0,239971990779.0
+Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,,,,
+Số dư đầu năm,Giá trị hao mòn lũy kế > Số dư đầu năm,Số dư đầu năm,-,160.484.169.472,374.727.273,160.858.896.745,,160484169472.0,374727273.0,160858896745.0
+- Khấu hao trong năm,Giá trị hao mòn lũy kế > - Khấu hao trong năm,- Khấu hao trong năm,-,24.409.111.355,-,24.409.111.355,,24409111355.0,,24409111355.0
+- Tăng do hợp nhất kinh doanh (**),Giá trị hao mòn lũy kế > - Tăng do hợp nhất kinh doanh (**),- Tăng do hợp nhất kinh doanh (**),-,3.768.666.652,-,3.768.666.652,,3768666652.0,,3768666652.0
+"- Thanh lý, nhượng bán","Giá trị hao mòn lũy kế > - Thanh lý, nhượng bán","- Thanh lý, nhượng bán",-,(136.772.000),-,(136.772.000),,-136772000.0,,-136772000.0
+Số dư cuối năm,Giá trị hao mòn lũy kế > Số dư cuối năm,Số dư cuối năm,-,188.525.175.479,374.727.273,188.899.902.752,,188525175479.0,374727273.0,188899902752.0
+Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,,,,
+Tại ngày đầu năm,Giá trị còn lại > Tại ngày đầu năm,Tại ngày đầu năm,11.995.200.171,62.092.665.863,-,74.087.866.034,11995200171.0,62092665863.0,,74087866034.0
+Tại ngày cuối năm,Giá trị còn lại > Tại ngày cuối năm,Tại ngày cuối năm,11.995.200.171,39.076.887.856,-,51.072.088.027,11995200171.0,39076887856.0,,51072088027.0

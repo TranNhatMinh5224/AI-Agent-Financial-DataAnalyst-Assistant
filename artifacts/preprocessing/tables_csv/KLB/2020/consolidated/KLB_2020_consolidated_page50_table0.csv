@@ -1,0 +1,15 @@
+﻿row_label_raw,row_label_full,col_0,USD được quy đổi,EUR được quy đổi,Tiền tệ khác quy đổi,Cộng,numeric__USD được quy đổi,numeric__EUR được quy đổi,numeric__Tiền tệ khác quy đổi,numeric__Cộng
+Tài sản,Tài sản,Tài sản,Tài sản,Tài sản,Tài sản,Tài sản,,,,
+"Tiền mặt, vàng bạc, đá quý","Tài sản > Tiền mặt, vàng bạc, đá quý","Tiền mặt, vàng bạc, đá quý",104.151,1.218,10.129,115.498,104151.0,1218.0,10129.0,115498.0
+Tiền gửi tại Ngân hàng Nhà nước,Tài sản > Tiền gửi tại Ngân hàng Nhà nước,Tiền gửi tại Ngân hàng Nhà nước,35.727,-,-,35.727,35727.0,,,35727.0
+Tiền gửi tại và cho vay các TCTD khác (*),Tài sản > Tiền gửi tại và cho vay các TCTD khác (*),Tiền gửi tại và cho vay các TCTD khác (*),3.526.166,1.867,6.688,3.534.721,3526166.0,1867.0,6688.0,3534721.0
+Cho vay khách hàng (*),Tài sản > Cho vay khách hàng (*),Cho vay khách hàng (*),263.215,-,-,263.215,263215.0,,,263215.0
+Tổng tài sản,Tài sản > Tổng tài sản,Tổng tài sản,3.929.259,3.085,16.817,3.949.161,3929259.0,3085.0,16817.0,3949161.0
+Nợ phải trả và vốn chủ sở hữu,Nợ phải trả và vốn chủ sở hữu,Nợ phải trả và vốn chủ sở hữu,Nợ phải trả và vốn chủ sở hữu,Nợ phải trả và vốn chủ sở hữu,Nợ phải trả và vốn chủ sở hữu,Nợ phải trả và vốn chủ sở hữu,,,,
+Tiền gửi và vay các TCTD khác,Nợ phải trả và vốn chủ sở hữu > Tiền gửi và vay các TCTD khác,Tiền gửi và vay các TCTD khác,3.533.640,-,-,3.533.640,3533640.0,,,3533640.0
+Tiền gửi của khách hàng,Nợ phải trả và vốn chủ sở hữu > Tiền gửi của khách hàng,Tiền gửi của khách hàng,419.471,452,7.539,427.462,419471.0,452.0,7539.0,427462.0
+Các khoản nợ khác,Nợ phải trả và vốn chủ sở hữu > Các khoản nợ khác,Các khoản nợ khác,226,-,-,226,226.0,,,226.0
+Tổng nợ phải trả và vốn chủ sở hữu,Nợ phải trả và vốn chủ sở hữu > Tổng nợ phải trả và vốn chủ sở hữu,Tổng nợ phải trả và vốn chủ sở hữu,3.953.337,452,7.539,3.961.328,3953337.0,452.0,7539.0,3961328.0
+Trạng thái tiền tệ nội bảng,Nợ phải trả và vốn chủ sở hữu > Trạng thái tiền tệ nội bảng,Trạng thái tiền tệ nội bảng,(24.078),2.633,9.278,(12.167),-24078.0,2633.0,9278.0,-12167.0
+Trạng thái tiền tệ ngoại bảng,Trạng thái tiền tệ ngoại bảng,Trạng thái tiền tệ ngoại bảng,-,-,-,-,,,,
+"Trạng thái tiền tệ nội, ngoại bảng","Trạng thái tiền tệ ngoại bảng > Trạng thái tiền tệ nội, ngoại bảng","Trạng thái tiền tệ nội, ngoại bảng",(24.078),2.633,9.278,(12.167),-24078.0,2633.0,9278.0,-12167.0

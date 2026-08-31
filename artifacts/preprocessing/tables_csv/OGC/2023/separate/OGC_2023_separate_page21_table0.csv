@@ -1,0 +1,6 @@
+﻿row_label_raw,row_label_full,col_0,Số cuối năm,Số đầu năm,numeric__Số cuối năm,numeric__Số đầu năm
+- Tiền,- Tiền,- Tiền,481.268.175,1.086.730.985,481268175.0,1086730985.0
++ Tiền mặt,+ Tiền mặt,+ Tiền mặt,-,-,,
++ Tiền gửi ngân hàng không kỳ hạn,+ Tiền mặt > + Tiền gửi ngân hàng không kỳ hạn,+ Tiền gửi ngân hàng không kỳ hạn,481.268.175,1.086.730.985,481268175.0,1086730985.0
+- Các khoản tương đương tiền (*),+ Tiền mặt > - Các khoản tương đương tiền (*),- Các khoản tương đương tiền (*),22.462.843.820,27.537.568.459,22462843820.0,27537568459.0
+Cộng,+ Tiền mặt > Cộng,Cộng,22.944.111.995,28.624.299.444,22944111995.0,28624299444.0

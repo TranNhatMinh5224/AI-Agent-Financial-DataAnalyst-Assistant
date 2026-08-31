@@ -1,0 +1,22 @@
+﻿row_label_raw,row_label_full,col_0,Nhà cửa và vật kiến trúc,Máy móc thiết bị,Phương tiện vận tải,Thiết bị văn phòng,Các tài sản cố định hữu hình khác,Tổng cộng,numeric__Nhà cửa và vật kiến trúc,numeric__Máy móc thiết bị,numeric__Phương tiện vận tải,numeric__Thiết bị văn phòng,numeric__Các tài sản cố định hữu hình khác,numeric__Tổng cộng
+,,,Triệu VND,Triệu VND,Triệu VND,Triệu VND,Triệu VND,Triệu VND,,,,,,
+Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,,,,,,
+Số dư tại ngày 1 tháng 1 năm 2016,Nguyên giá > Số dư tại ngày 1 tháng 1 năm 2016,Số dư tại ngày 1 tháng 1 năm 2016,234.555,279.728,171.386,86.353,25.248,797.270,234555.0,279728.0,171386.0,86353.0,25248.0,797270.0
+Mua trong năm,Nguyên giá > Mua trong năm,Mua trong năm,69.748,18.555,28.103,4.030,3.145,123.581,69748.0,18555.0,28103.0,4030.0,3145.0,123581.0
+Tăng do sáp nhập VVF,Nguyên giá > Tăng do sáp nhập VVF,Tăng do sáp nhập VVF,25.005,112,2.174,2.866,-,30.157,25005.0,112.0,2174.0,2866.0,,30157.0
+Giảm do tách SHB Lào thành công ty con,Nguyên giá > Giảm do tách SHB Lào thành công ty con,Giảm do tách SHB Lào thành công ty con,(83),(3.179),(2.115),(559),(85),(6.021),-83.0,-3179.0,-2115.0,-559.0,-85.0,-6021.0
+Giảm do tách SHB Campuchia thành công ty con,Nguyên giá > Giảm do tách SHB Campuchia thành công ty con,Giảm do tách SHB Campuchia thành công ty con,(26.559),(4.169),(2.217),(5.326),-,(38.271),-26559.0,-4169.0,-2217.0,-5326.0,,-38271.0
+"Thanh lý, nhượng bán","Nguyên giá > Thanh lý, nhượng bán","Thanh lý, nhượng bán",(15.144),(148),(3.979),(1.697),(1.739),(22.707),-15144.0,-148.0,-3979.0,-1697.0,-1739.0,-22707.0
+Chênh lệch tỷ giá,Nguyên giá > Chênh lệch tỷ giá,Chênh lệch tỷ giá,249,(141),7,(1),(39),75,249.0,-141.0,7.0,-1.0,-39.0,75.0
+Số dư tại ngày 31 tháng 12 năm 2016,Nguyên giá > Số dư tại ngày 31 tháng 12 năm 2016,Số dư tại ngày 31 tháng 12 năm 2016,287.771,290.758,193.359,85.666,26.530,884.084,287771.0,290758.0,193359.0,85666.0,26530.0,884084.0
+Hao mòn lũy kế,Hao mòn lũy kế,Hao mòn lũy kế,Hao mòn lũy kế,Hao mòn lũy kế,Hao mòn lũy kế,Hao mòn lũy kế,Hao mòn lũy kế,Hao mòn lũy kế,,,,,,
+Số dư tại ngày 1 tháng 1 năm 2016,Hao mòn lũy kế > Số dư tại ngày 1 tháng 1 năm 2016,Số dư tại ngày 1 tháng 1 năm 2016,66.560,178.058,101.236,73.347,17.760,436.961,66560.0,178058.0,101236.0,73347.0,17760.0,436961.0
+Khấu hao trong năm,Hao mòn lũy kế > Khấu hao trong năm,Khấu hao trong năm,13.638,34.364,19.255,7.370,4.843,79.470,13638.0,34364.0,19255.0,7370.0,4843.0,79470.0
+Tăng do sáp nhập VVF,Hao mòn lũy kế > Tăng do sáp nhập VVF,Tăng do sáp nhập VVF,5.775,112,2.173,2.340,-,10.400,5775.0,112.0,2173.0,2340.0,,10400.0
+Giảm do tách SHB Lào thành công ty con,Hao mòn lũy kế > Giảm do tách SHB Lào thành công ty con,Giảm do tách SHB Lào thành công ty con,(28),(2.044),(1.419),(352),(50),(3.893),-28.0,-2044.0,-1419.0,-352.0,-50.0,-3893.0
+Giảm do tách SHB Campuchia thành công ty con,Hao mòn lũy kế > Giảm do tách SHB Campuchia thành công ty con,Giảm do tách SHB Campuchia thành công ty con,(10.879),(1.282),(1.305),(2.148),(2.402),(18.016),-10879.0,-1282.0,-1305.0,-2148.0,-2402.0,-18016.0
+"Thanh lý, nhượng bán","Hao mòn lũy kế > Thanh lý, nhượng bán","Thanh lý, nhượng bán",(5.867),(148),(3.979),(1.697),(1.739),(13.430),-5867.0,-148.0,-3979.0,-1697.0,-1739.0,-13430.0
+Số dư tại ngày 31 tháng 12 năm 2016,Hao mòn lũy kế > Số dư tại ngày 31 tháng 12 năm 2016,Số dư tại ngày 31 tháng 12 năm 2016,69.199,209.060,115.961,78.860,18.412,491.492,69199.0,209060.0,115961.0,78860.0,18412.0,491492.0
+Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,,,,,,
+Số dư tại ngày 1 tháng 1 năm 2016,Giá trị còn lại > Số dư tại ngày 1 tháng 1 năm 2016,Số dư tại ngày 1 tháng 1 năm 2016,167.995,101.670,70.150,13.006,7.488,360.309,167995.0,101670.0,70150.0,13006.0,7488.0,360309.0
+Số dư tại ngày 31 tháng 12 năm 2016,Giá trị còn lại > Số dư tại ngày 31 tháng 12 năm 2016,Số dư tại ngày 31 tháng 12 năm 2016,218.572,81.698,77.398,6.806,8.118,392.592,218572.0,81698.0,77398.0,6806.0,8118.0,392592.0

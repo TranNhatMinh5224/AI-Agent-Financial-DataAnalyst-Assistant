@@ -1,0 +1,15 @@
+﻿row_label_raw,row_label_full,STT,CHỈ TIÊU,Năm 2025,Năm 2024,numeric__CHỈ TIÊU,numeric__Năm 2025,numeric__Năm 2024
+,,,LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TƯ,,,,,
+01,01,01,Mua sắm tài sản cố định,(192.016),(4.942),,-192016.0,-4942.0
+02,02,02,"Tiền thu từ thanh lý, nhượng bán TSCD",60,90,,60.0,90.0
+03,03,03,"Tiền chỉ đầu tư, góp vốn vào các đơn vị khác",(82.500),(1.207.454),,-82500.0,-1207454.0
+04,04,04,"Tiền thu đầu tư, góp vốn vào các đơn vị khác",120.000,331.851,,120000.0,331851.0
+05,05,05,"Tiền thu cố tức và lợi nhuận được chia từ các khoản đầu tư, góp vốn dài hạn",47.166,15.204,,47166.0,15204.0
+II,II,II,Lưu chuyển tiền thuần từ hoạt động đầu tư,(107.290),(865.251),,-107290.0,-865251.0
+,,,LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG TÀI CHÍNH,,,,,
+01,01,01,"Cổ tức trả cho cố đông, lợi nhuận đã chia",(828),(1.740),,-828.0,-1740.0
+III,III,III,Lưu chuyển tiền thuần từ hoạt động tài chính,(828),(1.740),,-828.0,-1740.0
+IV,IV,IV,Lưu chuyển tiền thuần trong năm,1.438.313,(5.869.580),,1438313.0,-5869580.0
+V,V,V,Tiền và tương đương tiền đầu năm (Thuyết minh VII.1),5.393.298,11.262.878,,5393298.0,11262878.0
+VI,VI,VI,Điều chỉnh ảnh hưởng của thay đổi tỷ giá,-,-,,,
+VII,VI > VII,VII,Tiền và tương đương tiền cuối năm (Thuyết minh VII.1),6.831.611,5.393.298,,6831611.0,5393298.0

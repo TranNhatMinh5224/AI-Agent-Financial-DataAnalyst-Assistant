@@ -1,0 +1,30 @@
+﻿row_label_raw,row_label_full,CHỈ TIÊU,CHỈ TIÊU_1,Mã số,Thuyết minh,Năm nay,Năm trước,numeric__CHỈ TIÊU_1,numeric__Mã số,numeric__Thuyết minh,numeric__Năm nay,numeric__Năm trước
+I. Lưu chuyển tiền từ hoạt động kinh doanh,I. Lưu chuyển tiền từ hoạt động kinh doanh,I. Lưu chuyển tiền từ hoạt động kinh doanh,I. Lưu chuyển tiền từ hoạt động kinh doanh,I. Lưu chuyển tiền từ hoạt động kinh doanh,I. Lưu chuyển tiền từ hoạt động kinh doanh,I. Lưu chuyển tiền từ hoạt động kinh doanh,I. Lưu chuyển tiền từ hoạt động kinh doanh,,,,,
+1.,I. Lưu chuyển tiền từ hoạt động kinh doanh > 1.,1.,Lợi nhuận trước thuế,01,,377.688.944.961,58.059.600.950,,1.0,,377688944961.0,58059600950.0
+2.,2.,2.,Điều chỉnh cho các khoản:,,,,,,,,,
+-,2. > -,-,Khấu hao tài sản cố định và bắt động sản đầu tư,02,,23.416.957.552,13.853.980.138,,2.0,,23416957552.0,13853980138.0
+-,2. > -,-,Các khoản dự phòng,03,,22.885.648.778,1.848.814.261,,3.0,,22885648778.0,1848814261.0
+-,2. > -,-,"Lãi, lỗ chênh lệch tỷ giá hối đoái do đánh giá lại các khoản mục tiền tệ có gốc ngoại tệ",04,,-,-,,4.0,,,
+-,2. > -,-,"Lãi, lỗ từ hoạt động đầu tư",05,,(16.895.569.276),2.563.098.277,,5.0,,-16895569276.0,2563098277.0
+-,2. > -,-,Chỉ phí lãi vay,06,,4.488.772.605,112.128.081.229,,6.0,,4488772605.0,112128081229.0
+-,2. > -,-,Các khoản điều chỉnh khác,07,,-,-,,7.0,,,
+3.,2. > 3.,3.,Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động,08,,411.584.754.620,188.453.574.855,,8.0,,411584754620.0,188453574855.0
+-,2. > -,-,"Tăng, giảm các khoản phải thu",09,,705.904.595.983,1.551.689.937.093,,9.0,,705904595983.0,1551689937093.0
+-,2. > -,-,"Tăng, giảm hàng tồn kho",10,,(51.167.791.440),(101.424.079.110),,10.0,,-51167791440.0,-101424079110.0
+-,2. > -,-,"Tăng, giảm các khoản phải trả",11,,(731.069.834.405),274.520.367.815,,11.0,,-731069834405.0,274520367815.0
+-,2. > -,-,"Tăng, giảm chỉ phí trả trước",12,,2.918.681.083,(48.148.078.453),,12.0,,2918681083.0,-48148078453.0
+-,2. > -,-,"Tăng, giảm chứng khoán kinh doanh",13,,(65.097.500.000),-,,13.0,,-65097500000.0,
+-,2. > -,-,Tiền lãi vay đã trả,14,,(1.325.819.180),(116.233.732.116),,14.0,,-1325819180.0,-116233732116.0
+-,2. > -,-,Thuế thu nhập doanh nghiệp đã nộp,15,,(63.433.657.343),(3.722.333.471),,15.0,,-63433657343.0,-3722333471.0
+-,2. > -,-,Tiền thu khác từ hoạt động kinh doanh,16,,-,111.473.100.000,,16.0,,,111473100000.0
+-,2. > -,-,Tiền chỉ khác cho hoạt động kinh doanh,17,,-,-,,17.0,,,
+,,,Lưu chuyển tiền thuần từ hoạt động kinh doanh,20,,208.313.429.318,1.856.608.756.613,,20.0,,208313429318.0,1856608756613.0
+II. Lưu chuyển tiền từ hoạt động đầu tư,II. Lưu chuyển tiền từ hoạt động đầu tư,II. Lưu chuyển tiền từ hoạt động đầu tư,II. Lưu chuyển tiền từ hoạt động đầu tư,II. Lưu chuyển tiền từ hoạt động đầu tư,II. Lưu chuyển tiền từ hoạt động đầu tư,II. Lưu chuyển tiền từ hoạt động đầu tư,II. Lưu chuyển tiền từ hoạt động đầu tư,,,,,
+1.,II. Lưu chuyển tiền từ hoạt động đầu tư > 1.,1.,"Tiền chỉ để mua sắm, xây dựng tài sản cố định và các tài sản dài hạn khác",21,,(174.014.906.932),(183.550.342.573),,21.0,,-174014906932.0,-183550342573.0
+2.,II. Lưu chuyển tiền từ hoạt động đầu tư > 2.,2.,"Tiền thu từ thanh lý, nhượng bán tài sản cố định và các tài sản dài hạn khác",22,,21.811.216.150,2.375.096.764,,22.0,,21811216150.0,2375096764.0
+3.,II. Lưu chuyển tiền từ hoạt động đầu tư > 3.,3.,"Tiền chỉ cho vay, mua các công cụ nợ của đơn vị khác",23,,(262.101.701.949),(109.615.406.034),,23.0,,-262101701949.0,-109615406034.0
+4.,II. Lưu chuyển tiền từ hoạt động đầu tư > 4.,4.,"Tiền thu hồi cho vay, bán lại các công cụ nợ của đơn vị khác",24,,149.416.593.000,32.735.832.777,,24.0,,149416593000.0,32735832777.0
+5.,II. Lưu chuyển tiền từ hoạt động đầu tư > 5.,5.,Tiền chỉ đầu tư góp vốn vào đơn vị khác,25,,(541.080.000.000),(151.555.131.513),,25.0,,-541080000000.0,-151555131513.0
+6.,II. Lưu chuyển tiền từ hoạt động đầu tư > 6.,6.,Tiền thu hồi đầu tư góp vốn vào đơn vị khác,26,,1.200.000.000,-,,26.0,,1200000000.0,
+7.,II. Lưu chuyển tiền từ hoạt động đầu tư > 7.,7.,"Tiền thu lãi cho vay, cổ tức và lợi nhuận được chia",27,,4.266.727.073,2.402.461.694,,27.0,,4266727073.0,2402461694.0
+,,,Lưu chuyển tiền thuần từ hoạt động đầu tư,30,,(800.502.072.658),(407.207.488.885),,30.0,,-800502072658.0,-407207488885.0

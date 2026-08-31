@@ -1,0 +1,19 @@
+﻿row_label_raw,row_label_full,col_0,Mã số,Thuyết minh,2019Triệu VND,2018Triệu VND,numeric__Mã số,numeric__Thuyết minh,numeric__2019Triệu VND,numeric__2018Triệu VND
+Doanh thu bán hàng và cung cấp dịch vụ,Doanh thu bán hàng và cung cấp dịch vụ,Doanh thu bán hàng và cung cấp dịch vụ,01,32,9.259.257,9.123.952,1.0,32.0,9259257.0,9123952.0
+Các khoản giảm trừ doanh thu,Các khoản giảm trừ doanh thu,Các khoản giảm trừ doanh thu,02,32,-,-,2.0,32.0,,
+Doanh thu thuần (10 = 01 - 02),Doanh thu thuần (10 = 01 - 02),Doanh thu thuần (10 = 01 - 02),10,32,9.259.257,9.123.952,10.0,32.0,9259257.0,9123952.0
+Giá vốn hàng bán,Giá vốn hàng bán,Giá vốn hàng bán,11,33,4.855.637,5.482.655,11.0,33.0,4855637.0,5482655.0
+Lợi nhuận gộp (20 = 10 - 11),Lợi nhuận gộp (20 = 10 - 11),Lợi nhuận gộp (20 = 10 - 11),20,,4.403.620,3.641.297,20.0,,4403620.0,3641297.0
+Doanh thu hoạt động tài chính,Doanh thu hoạt động tài chính,Doanh thu hoạt động tài chính,21,34,265.083,519.224,21.0,34.0,265083.0,519224.0
+Chỉ phí tài chính,Chỉ phí tài chính,Chỉ phí tài chính,22,35,302.500,417.400,22.0,35.0,302500.0,417400.0
+Trong đó: Chi phí lãi vay,Trong đó: Chi phí lãi vay,Trong đó: Chi phí lãi vay,23,,299.007,375.271,23.0,,299007.0,375271.0
+Chỉ phí bán hàng,Chỉ phí bán hàng,Chỉ phí bán hàng,25,36,371.960,408.675,25.0,36.0,371960.0,408675.0
+Chỉ phí quản lý doanh nghiệp,Chỉ phí quản lý doanh nghiệp,Chỉ phí quản lý doanh nghiệp,26,37,448.658,342.115,26.0,37.0,448658.0,342115.0
+Lợi nhuận thuần từ hoạt động kinh doanh\( (30 = 20 + (21 - 22) - (25 + 26)) \),Lợi nhuận thuần từ hoạt động kinh doanh\( (30 = 20 + (21 - 22) - (25 + 26)) \),Lợi nhuận thuần từ hoạt động kinh doanh\( (30 = 20 + (21 - 22) - (25 + 26)) \),30,,3.545.585,2.992.331,30.0,,3545585.0,2992331.0
+Thu nhập khác,Thu nhập khác,Thu nhập khác,31,38,70.729,78.051,31.0,38.0,70729.0,78051.0
+Chỉ phí khác,Chỉ phí khác,Chỉ phí khác,32,39,40.372,17.597,32.0,39.0,40372.0,17597.0
+Kết quả từ các hoạt động khác(40 = 31 - 32),Kết quả từ các hoạt động khác(40 = 31 - 32),Kết quả từ các hoạt động khác(40 = 31 - 32),40,,30.357,60.454,40.0,,30357.0,60454.0
+Lợi nhuận kế toán trước thuế(50 = 30 + 40),Lợi nhuận kế toán trước thuế(50 = 30 + 40),Lợi nhuận kế toán trước thuế(50 = 30 + 40),50,,3.575.942,3.052.785,50.0,,3575942.0,3052785.0
+Chỉ phí thuế TNDN hiện hành,Chỉ phí thuế TNDN hiện hành,Chỉ phí thuế TNDN hiện hành,51,41,724.603,616.686,51.0,41.0,724603.0,616686.0
+(Lợi ích)/chi phí thuế TNDN hoãn lại,(Lợi ích)/chi phí thuế TNDN hoãn lại,(Lợi ích)/chi phí thuế TNDN hoãn lại,52,41,(594),22.872,52.0,41.0,-594.0,22872.0
+Lợi nhuận sau thuế TNDN(60 = 50 - 51 - 52)(mang sang trang tiếp theo),Lợi nhuận sau thuế TNDN(60 = 50 - 51 - 52)(mang sang trang tiếp theo),Lợi nhuận sau thuế TNDN(60 = 50 - 51 - 52)(mang sang trang tiếp theo),60,,2.851.933,2.413.227,60.0,,2851933.0,2413227.0

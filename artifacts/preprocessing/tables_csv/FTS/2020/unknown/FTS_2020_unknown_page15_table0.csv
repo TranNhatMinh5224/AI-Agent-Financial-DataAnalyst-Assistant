@@ -1,0 +1,27 @@
+﻿row_label_raw,row_label_full,Chỉ tiêu,Mã số,Thuyết minh,Năm nay,Năm trước,numeric__Mã số,numeric__Thuyết minh,numeric__Năm nay,numeric__Năm trước
+A,A,A,B,C,1,2,,,1.0,2.0
+II. Lưu chuyển tiền từ hoạt động đầu tư,II. Lưu chuyển tiền từ hoạt động đầu tư,II. Lưu chuyển tiền từ hoạt động đầu tư,,,,,,,,
+"1. Tiền chi để mua sắm, xây dựng TSCĐ, BĐSĐT và các tài sản khác","II. Lưu chuyển tiền từ hoạt động đầu tư > 1. Tiền chi để mua sắm, xây dựng TSCĐ, BĐSĐT và các tài sản khác","1. Tiền chi để mua sắm, xây dựng TSCĐ, BĐSĐT và các tài sản khác",61,,(6.731.726.108),(4.373.901.230),61.0,,-6731726108.0,-4373901230.0
+"2. Tiền thu từ thanh lý, nhượng bán TSCĐ, BĐSĐT và các tài sản khác","II. Lưu chuyển tiền từ hoạt động đầu tư > 2. Tiền thu từ thanh lý, nhượng bán TSCĐ, BĐSĐT và các tài sản khác","2. Tiền thu từ thanh lý, nhượng bán TSCĐ, BĐSĐT và các tài sản khác",62,,181.818,,62.0,,181818.0,
+Lưu chuyển tiền thuần từ hoạt động đầu tư,II. Lưu chuyển tiền từ hoạt động đầu tư > Lưu chuyển tiền thuần từ hoạt động đầu tư,Lưu chuyển tiền thuần từ hoạt động đầu tư,70,,(6.731.544.290),(4.373.901.230),70.0,,-6731544290.0,-4373901230.0
+III. Lưu chuyển tiền từ hoạt động tài chính,III. Lưu chuyển tiền từ hoạt động tài chính,III. Lưu chuyển tiền từ hoạt động tài chính,,,,,,,,
+"1. Tiền thu từ phát hành cổ phiếu, nhận vốn góp của chủ sở hữu","III. Lưu chuyển tiền từ hoạt động tài chính > 1. Tiền thu từ phát hành cổ phiếu, nhận vốn góp của chủ sở hữu","1. Tiền thu từ phát hành cổ phiếu, nhận vốn góp của chủ sở hữu",71,,7.980.000,,71.0,,7980000.0,
+"2. Tiền chi trả vốn góp cho chủ sở hữu, mua lại cổ phiếu phát hành","III. Lưu chuyển tiền từ hoạt động tài chính > 2. Tiền chi trả vốn góp cho chủ sở hữu, mua lại cổ phiếu phát hành","2. Tiền chi trả vốn góp cho chủ sở hữu, mua lại cổ phiếu phát hành",72,,(7.170.700),(4.418.850),72.0,,-7170700.0,-4418850.0
+3. Tiền vay gốc,III. Lưu chuyển tiền từ hoạt động tài chính > 3. Tiền vay gốc,3. Tiền vay gốc,73,,2.313.000.000.000,1.448.950.000.000,73.0,,2313000000000.0,1448950000000.0
+3.1. Tiền vay Quỹ Hỗ trợ thanh toán,III. Lưu chuyển tiền từ hoạt động tài chính > 3.1. Tiền vay Quỹ Hỗ trợ thanh toán,3.1. Tiền vay Quỹ Hỗ trợ thanh toán,73.1,,,,731.0,,,
+3.2. Tiền vay khác,III. Lưu chuyển tiền từ hoạt động tài chính > 3.2. Tiền vay khác,3.2. Tiền vay khác,73.2,,2.313.000.000.000,1.448.950.000.000,732.0,,2313000000000.0,1448950000000.0
+4. Tiền chi trả nợ gốc vay,III. Lưu chuyển tiền từ hoạt động tài chính > 4. Tiền chi trả nợ gốc vay,4. Tiền chi trả nợ gốc vay,74,,(2.077.500.000.000),(1.564.650.000.000),74.0,,-2077500000000.0,-1564650000000.0
+4.1. Tiền chi trả gốc vay Quỹ Hỗ trợ thanh toán,III. Lưu chuyển tiền từ hoạt động tài chính > 4.1. Tiền chi trả gốc vay Quỹ Hỗ trợ thanh toán,4.1. Tiền chi trả gốc vay Quỹ Hỗ trợ thanh toán,74.1,,,,741.0,,,
+4.2. Tiền chi trả nợ gốc vay tài sản tài chính,III. Lưu chuyển tiền từ hoạt động tài chính > 4.2. Tiền chi trả nợ gốc vay tài sản tài chính,4.2. Tiền chi trả nợ gốc vay tài sản tài chính,74.2,,,,742.0,,,
+4.3. Tiền chi trả gốc nợ vay khác,III. Lưu chuyển tiền từ hoạt động tài chính > 4.3. Tiền chi trả gốc nợ vay khác,4.3. Tiền chi trả gốc nợ vay khác,74.3,,(2.077.500.000.000),(1.564.650.000.000),743.0,,-2077500000000.0,-1564650000000.0
+5. Tiền chi trả nợ thuê tài chính,III. Lưu chuyển tiền từ hoạt động tài chính > 5. Tiền chi trả nợ thuê tài chính,5. Tiền chi trả nợ thuê tài chính,75,,,,75.0,,,
+"6. Cổ tức, lợi nhuận đã trả cho chủ sở hữu","III. Lưu chuyển tiền từ hoạt động tài chính > 6. Cổ tức, lợi nhuận đã trả cho chủ sở hữu","6. Cổ tức, lợi nhuận đã trả cho chủ sở hữu",76,,(59.718.014.500),(54.490.714.000),76.0,,-59718014500.0,-54490714000.0
+Lưu chuyển tiền thuần từ hoạt động tài chính,III. Lưu chuyển tiền từ hoạt động tài chính > Lưu chuyển tiền thuần từ hoạt động tài chính,Lưu chuyển tiền thuần từ hoạt động tài chính,80,,175.782.794.800,(170.195.132.850),80.0,,175782794800.0,-170195132850.0
+IV. Tăng/giảm tiền thuần trong kỳ,III. Lưu chuyển tiền từ hoạt động tài chính > IV. Tăng/giảm tiền thuần trong kỳ,IV. Tăng/giảm tiền thuần trong kỳ,90,,156.085.132.796,(407.774.902.523),90.0,,156085132796.0,-407774902523.0
+V. Tiền và các khoản tương đương tiền đầu kỳ,III. Lưu chuyển tiền từ hoạt động tài chính > V. Tiền và các khoản tương đương tiền đầu kỳ,V. Tiền và các khoản tương đương tiền đầu kỳ,101,,50.280.157.184,458.055.059.707,101.0,,50280157184.0,458055059707.0
+- Tiền,III. Lưu chuyển tiền từ hoạt động tài chính > - Tiền,- Tiền,101.1,,50.280.157.184,218.055.059.707,1011.0,,50280157184.0,218055059707.0
+- Các khoản tương đương tiền,III. Lưu chuyển tiền từ hoạt động tài chính > - Các khoản tương đương tiền,- Các khoản tương đương tiền,101.2,,,240.000.000.000,1012.0,,,240000000000.0
+VI. Tiền và các khoản tương đương tiền cuối kỳ,III. Lưu chuyển tiền từ hoạt động tài chính > VI. Tiền và các khoản tương đương tiền cuối kỳ,VI. Tiền và các khoản tương đương tiền cuối kỳ,103,,206.365.289.980,50.280.157.184,103.0,,206365289980.0,50280157184.0
+- Tiền,III. Lưu chuyển tiền từ hoạt động tài chính > - Tiền,- Tiền,103.1,,96.365.289.980,50.280.157.184,1031.0,,96365289980.0,50280157184.0
+- Các khoản tương đương tiền,III. Lưu chuyển tiền từ hoạt động tài chính > - Các khoản tương đương tiền,- Các khoản tương đương tiền,103.2,,110.000.000.000,,1032.0,,110000000000.0,
+- Ảnh hưởng của thay đổi tỷ giá hối đoái quy đổi ngoại tệ,III. Lưu chuyển tiền từ hoạt động tài chính > - Ảnh hưởng của thay đổi tỷ giá hối đoái quy đổi ngoại tệ,- Ảnh hưởng của thay đổi tỷ giá hối đoái quy đổi ngoại tệ,104,,,,104.0,,,

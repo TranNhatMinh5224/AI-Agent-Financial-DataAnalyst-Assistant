@@ -1,0 +1,16 @@
+﻿row_label_raw,row_label_full,col_0,col_1,Tại ngày1/1/2025VND,Số phát sinhtrong nămVND,Số thực trảtrong nămVND,Cán trừVND,Phân loại lạiVND,Tại ngày31/12/2025VND,numeric__col_1,numeric__Tại ngày1/1/2025VND,numeric__Số phát sinhtrong nămVND,numeric__Số thực trảtrong nămVND,numeric__Cán trừVND,numeric__Phân loại lạiVND,numeric__Tại ngày31/12/2025VND
+(a),(a),(a),Thuế GTGT được khấu trừ,Thuế GTGT được khấu trừ,Thuế GTGT được khấu trừ,Thuế GTGT được khấu trừ,Thuế GTGT được khấu trừ,Thuế GTGT được khấu trừ,Thuế GTGT được khấu trừ,,,,,,,
+(a),(a) > (a),(a),Thuế GTGT,10.892.687.241,23.592.599.023,-,(14.029.509.110),-,20.455.777.154,,10892687241.0,23592599023.0,,-14029509110.0,,20455777154.0
+(b),(b),(b),Thuế và các khoản khác phải thu Nhà nước,Thuế và các khoản khác phải thu Nhà nước,Thuế và các khoản khác phải thu Nhà nước,Thuế và các khoản khác phải thu Nhà nước,Thuế và các khoản khác phải thu Nhà nước,Thuế và các khoản khác phải thu Nhà nước,Thuế và các khoản khác phải thu Nhà nước,,,,,,,
+(b),(b) > (b),(b),Thuế TNDN,1.229.125.740,-,-,-,(1.229.125.740),-,,1229125740.0,,,,-1229125740.0,
+(b),(b) > (b),(b),Thuế thu nhập cá nhân,159.100.581,-,-,-,(159.100.581),-,,159100581.0,,,,-159100581.0,
+(b),(b) > (b),(b),Thuế đất,117.159.414,-,-,-,(117.159.414),-,,117159414.0,,,,-117159414.0,
+(b),(b) > (b),(b),,1.505.385.735,-,-,-,(1.505.385.735),-,,1505385735.0,,,,-1505385735.0,
+(c),(c),(c),Phải nộp,Phải nộp,Phải nộp,Phải nộp,Phải nộp,Phải nộp,Phải nộp,,,,,,,
+(c),(c) > (c),(c),Thuế GTGT,-,14.178.928.127,(149.419.017),(14.029.509.110),-,-,,,14178928127.0,-149419017.0,-14029509110.0,,
+(c),(c) > (c),(c),Thuế TNDN,-,33.168.554.796,-,-,(1.229.125.740),31.939.429.056,,,33168554796.0,,,-1229125740.0,31939429056.0
+(c),(c) > (c),(c),Thuế thu nhập cá nhân,214.242.000,12.176.811.974,(12.157.676.105),-,(159.100.581),74.277.288,,214242000.0,12176811974.0,-12157676105.0,,-159100581.0,74277288.0
+(c),(c) > (c),(c),Thuế đất,-,6.387.507.472,(6.270.348.058),-,(117.159.414),-,,,6387507472.0,-6270348058.0,,-117159414.0,
+(c),(c),(c),Thuế và các khoản phải nộp,Thuế và các khoản phải nộp,Thuế và các khoản phải nộp,Thuế và các khoản phải nộp,Thuế và các khoản phải nộp,Thuế và các khoản phải nộp,Thuế và các khoản phải nộp,,,,,,,
+(c),(c) > (c),(c),Nhà nước khác,-,17.675.312,(17.675.312),-,-,-,,,17675312.0,-17675312.0,,,
+(c),(c) > (c),(c),,214.242.000,65.929.477.681,(18.595.118.492),(14.029.509.110),(1.505.385.735),32.013.706.344,,214242000.0,65929477681.0,-18595118492.0,-14029509110.0,-1505385735.0,32013706344.0

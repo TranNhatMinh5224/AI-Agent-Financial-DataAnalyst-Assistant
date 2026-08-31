@@ -1,0 +1,9 @@
+﻿row_label_raw,row_label_full,col_0,Ending balance,Ending balance_1,Ending balance_2,Beginning balance,Beginning balance_1,Beginning balance_2,numeric__Ending balance,numeric__Ending balance_1,numeric__Ending balance_2,numeric__Beginning balance,numeric__Beginning balance_1,numeric__Beginning balance_2
+,,,Amount,Cost,Decrease in value,Amount,Cost,Decrease in value,,,,,,
+HPG,HPG,HPG,"408,047","11,003,582,275","(129,129,725)","135,316","5,095,149,422","(1,313,067,222)",408.047,,,135.316,,
+VPB,VPB,VPB,"5,128,200","100,121,284,494","(1,659,844,494)",-,-,-,,,,,,
+MWG,VPB > MWG,MWG,"43,872","2,921,875,200","(245,683,200)","86,302","4,398,686,368","(704,960,768)",43.872,,,86.302,,
+VCB,VPB > VCB,VCB,"87,850","8,172,293,912","(160,373,912)",-,-,-,87.85,,,,,
+CTF,VPB > CTF,CTF,"487,313","13,814,406,374","(3,093,520,374)",-,-,-,487.313,,,,,
+Other,VPB > Other,Other,"1,465,795","58,529,870,770","(11,378,186,020)","353,749","21,855,807,481","(13,351,124,581)",,,,353.749,,
+Total,VPB > Total,Total,"7,621,077","194,563,313,025","(16,666,737,725)","575,367","31,349,643,271","(15,369,152,571)",,,,575.367,,

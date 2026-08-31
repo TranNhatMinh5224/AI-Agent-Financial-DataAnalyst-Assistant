@@ -1,0 +1,18 @@
+﻿row_label_raw,row_label_full,TT,Tên đơn vị,Giá trị mua trong kỳ > Nơi dung,Giá trị mua trong kỳ > Giá trị,Giá trị bản trong kỳ > Nơi dung,Giá trị bản trong kỳ > Giá trị,numeric__Tên đơn vị,numeric__Giá trị mua trong kỳ > Nơi dung,numeric__Giá trị mua trong kỳ > Giá trị,numeric__Giá trị bản trong kỳ > Nơi dung,numeric__Giá trị bản trong kỳ > Giá trị
+A,A,A,B,1,2,3,4,,1.0,2.0,3.0,4.0
+1,1,1,Công ty Kho vận và Cằng Cẩm phả - Vinacomin,Mua than,9.880.276.265.324,Bán than,168.828.691.033,,,9880276265324.0,,168828691033.0
+2,2,2,Tổng công ty Công nghiệp Hóa chất mỏ - Vinacomin,Mua hóa chất,6.036.828.780,,-,,,6036828780.0,,
+3,3,3,Bệnh viện Than - Khoáng sản,Khám sức khoẻ,650.554.326,,-,,,650554326.0,,
+4,4,4,Viện Cơ khí năng lượng và mỏ - Vinacomin,"Mua vật tư, dịch vụ",3.850.912.545,,-,,,3850912545.0,,
+5,5,5,Trường quản trị kinh doanh - Vinacomin,Đào tạo,485.440.000,,-,,,485440000.0,,
+6,6,6,Công ty TNHH MTV môi trường - TKV,Mua dịch vụ,6.795.320.161,Bán phế liệu,137.646.028,,,6795320161.0,,137646028.0
+7,7,7,"Công ty CP Tin Học, Công Nghệ, Môi trường - Vinacomin",Dịch vụ quan trắc,845.500.323,,-,,,845500323.0,,
+8,8,8,Trường cao đẳng nghề Than - Khoáng sản Việt Nam,Đào tạo,368.117.500,,-,,,368117500.0,,
+9,9,9,Tổng Công ty Công nghiệp Hóa chất mỏ - Vinacomin,Dịch vụ du lịch,-,,-,,,,,
+10,9 > 10,10,Công ty CP VLXD và kinh doanh tổng hợp - VVMI,Mua thiết bị,20.908.238.624,,-,,,20908238624.0,,
+11,9 > 11,11,Công ty CP Vật tư - TKV,Mua vật tư,72.202.702.937,Bán phế liệu,1.435.192,,,72202702937.0,,1435192.0
+12,9 > 12,12,Công ty Than Na Dương - VVMI,,-,Bán điện,505.286.906,,,,,505286906.0
+13,9 > 13,13,Công ty Than Núi Hồng - VVMI,,3.854.545,Bán điện,1.249.523.186,,,3854545.0,,1249523186.0
+14,9 > 14,14,Công ty CP Xi măng Quán Triều VVMI,,-,Bán điện,473.814.076,,,,,473814076.0
+15,9 > 15,15,Công ty CP Xuất nhập khẩu Than - Vinacomin,"Mua thiết bị, dịch vụ",9.504.719.867,,-,,,9504719867.0,,
+15,9 > 15,15,Công ty CP Kinh doanh than Cẩm Phả - Vinacomin,Dịch vụ tro xỉ,5.751.648.490,,-,,,5751648490.0,,

@@ -1,0 +1,33 @@
+﻿row_label_raw,row_label_full,(*) Chi tiết các khoản cho vay các tổ chức tin dụng như sau:,Số tiền,Ngày đáo hạn,numeric__Số tiền,numeric__Ngày đáo hạn
+Bằng VND,Bằng VND,Bằng VND,499.000,,499000.0,
+Ngân hàng TMCP An Bình,Ngân hàng TMCP An Bình,Ngân hàng TMCP An Bình,37.000,07/03/2018,37000.0,
+Công ty tài chính CP Điện lực,Công ty tài chính CP Điện lực,Công ty tài chính CP Điện lực,258.000,20/11/2018,258000.0,
+,,,143.000,09/03/2018,143000.0,
+,,,61.000,12/03/2018,61000.0,
+Bằng ngoại hối,Bằng ngoại hối,Bằng ngoại hối,224.250,,224250.0,
+Ngân hàng TMCP Đầu tư và phát triển Việt Nam,Ngân hàng TMCP Đầu tư và phát triển Việt Nam,Ngân hàng TMCP Đầu tư và phát triển Việt Nam,67.275,12/03/2018,67275.0,
+,,,156.975,09/03/2018,156975.0,
+Cộng,Cộng,Cộng,723.250,,723250.0,
+"Phân tích chất lượng dư nợ cho vay, tiền gửi các TCTD khác","Phân tích chất lượng dư nợ cho vay, tiền gửi các TCTD khác","Phân tích chất lượng dư nợ cho vay, tiền gửi các TCTD khác",31/12/2017,01/01/2017,,
+- Nợ đủ tiêu chuẩn,"Phân tích chất lượng dư nợ cho vay, tiền gửi các TCTD khác > - Nợ đủ tiêu chuẩn",- Nợ đủ tiêu chuẩn,9.445.182,11.518.329,9445182.0,11518329.0
+Tổng cộng,"Phân tích chất lượng dư nợ cho vay, tiền gửi các TCTD khác > Tổng cộng",Tổng cộng,9.445.182,11.518.329,9445182.0,11518329.0
+4. Cho vay khách hàng,4. Cho vay khách hàng,4. Cho vay khách hàng,4. Cho vay khách hàng,4. Cho vay khách hàng,,
+,,,31/12/2017,01/01/2017,,
+"Cho vay các tổ chức kinh tế, cá nhân trong nước","4. Cho vay khách hàng > Cho vay các tổ chức kinh tế, cá nhân trong nước","Cho vay các tổ chức kinh tế, cá nhân trong nước",31.921.700,25.098.067,31921700.0,25098067.0
+Cho vay chiết khấu công cụ chuyển nhượng và các giấy tờ có giá,4. Cho vay khách hàng > Cho vay chiết khấu công cụ chuyển nhượng và các giấy tờ có giá,Cho vay chiết khấu công cụ chuyển nhượng và các giấy tờ có giá,11.058,26.180,11058.0,26180.0
+"Cho vay bằng vốn tài trợ, ủy thác đầu tư","4. Cho vay khách hàng > Cho vay bằng vốn tài trợ, ủy thác đầu tư","Cho vay bằng vốn tài trợ, ủy thác đầu tư",177.828,227.970,177828.0,227970.0
+Tổng cộng,4. Cho vay khách hàng > Tổng cộng,Tổng cộng,32.110.586,25.352.217,32110586.0,25352217.0
+4.1. Phân tích chất lượng nợ cho vay,4.1. Phân tích chất lượng nợ cho vay,4.1. Phân tích chất lượng nợ cho vay,4.1. Phân tích chất lượng nợ cho vay,4.1. Phân tích chất lượng nợ cho vay,,
+,,,31/12/2017,01/01/2017,,
+Nợ đủ tiêu chuẩn,4.1. Phân tích chất lượng nợ cho vay > Nợ đủ tiêu chuẩn,Nợ đủ tiêu chuẩn,30.440.139,23.493.409,30440139.0,23493409.0
+Nợ cần chủ ý,4.1. Phân tích chất lượng nợ cho vay > Nợ cần chủ ý,Nợ cần chủ ý,1.178.136,1.482.433,1178136.0,1482433.0
+Nợ dưới tiêu chuẩn,4.1. Phân tích chất lượng nợ cho vay > Nợ dưới tiêu chuẩn,Nợ dưới tiêu chuẩn,118.105,150.144,118105.0,150144.0
+Nợ nghi ngờ,4.1. Phân tích chất lượng nợ cho vay > Nợ nghi ngờ,Nợ nghi ngờ,90.580,22.298,90580.0,22298.0
+Nợ có khả năng mất vốn,4.1. Phân tích chất lượng nợ cho vay > Nợ có khả năng mất vốn,Nợ có khả năng mất vốn,283.626,203.933,283626.0,203933.0
+Tổng cộng,4.1. Phân tích chất lượng nợ cho vay > Tổng cộng,Tổng cộng,32.110.586,25.352.217,32110586.0,25352217.0
+4.2. Phân tích dư nợ theo thời gian,4.2. Phân tích dư nợ theo thời gian,4.2. Phân tích dư nợ theo thời gian,4.2. Phân tích dư nợ theo thời gian,4.2. Phân tích dư nợ theo thời gian,,
+,,,31/12/2017,01/01/2017,,
+Nợ ngắn hạn,4.2. Phân tích dư nợ theo thời gian > Nợ ngắn hạn,Nợ ngắn hạn,13.415.050,8.079.759,13415050.0,8079759.0
+Nợ trung hạn,4.2. Phân tích dư nợ theo thời gian > Nợ trung hạn,Nợ trung hạn,8.790.499,8.855.917,8790499.0,8855917.0
+Nợ dài hạn,4.2. Phân tích dư nợ theo thời gian > Nợ dài hạn,Nợ dài hạn,9.905.037,8.416.542,9905037.0,8416542.0
+Tổng cộng,4.2. Phân tích dư nợ theo thời gian > Tổng cộng,Tổng cộng,32.110.586,25.352.217,32110586.0,25352217.0

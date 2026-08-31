@@ -1,0 +1,26 @@
+﻿row_label_raw,row_label_full,col_0,Thuyết minh,Năm 2022 triệu đồng,Năm 2021 triệu đồng,numeric__Thuyết minh,numeric__Năm 2022 triệu đồng,numeric__Năm 2021 triệu đồng
+Thu nhập lãi và các khoản thu nhập tương tự,Thu nhập lãi và các khoản thu nhập tương tự,Thu nhập lãi và các khoản thu nhập tương tự,,52.485.812(16.462.690),38.464.932(12.265.378),,,
+Chỉ phí lãi và các chi phí tương tự,Chỉ phí lãi và các chi phí tương tự,Chỉ phí lãi và các chi phí tương tự,,,,,,
+Thu nhập lãi thuần,Chỉ phí lãi và các chi phí tương tự > Thu nhập lãi thuần,Thu nhập lãi thuần,28,36.023.122,26.199.554,28.0,36023122.0,26199554.0
+Thu nhập từ hoạt động dịch vụ,Thu nhập từ hoạt động dịch vụ,Thu nhập từ hoạt động dịch vụ,,14.243.734(10.108.166),12.308.295(7.940.917),,,
+Chi phí hoạt động dịch vụ,Chi phí hoạt động dịch vụ,Chi phí hoạt động dịch vụ,,,,,,
+Lãi thuần từ hoạt động dịch vụ,Chi phí hoạt động dịch vụ > Lãi thuần từ hoạt động dịch vụ,Lãi thuần từ hoạt động dịch vụ,29,4.135.568,4.367.378,29.0,4135568.0,4367378.0
+Lãi thuần từ hoạt động kinh doanh ngoại hối,Chi phí hoạt động dịch vụ > Lãi thuần từ hoạt động kinh doanh ngoại hối,Lãi thuần từ hoạt động kinh doanh ngoại hối,30,1.703.960,1.331.468,30.0,1703960.0,1331468.0
+Lãi thuần từ mua bán chứng khoán kinh doanh,Chi phí hoạt động dịch vụ > Lãi thuần từ mua bán chứng khoán kinh doanh,Lãi thuần từ mua bán chứng khoán kinh doanh,31,141.128,221.236,31.0,141128.0,221236.0
+Lãi thuần từ mua bán chứng khoán đầu tư và đầu tư dài hạn,Chi phí hoạt động dịch vụ > Lãi thuần từ mua bán chứng khoán đầu tư và đầu tư dài hạn,Lãi thuần từ mua bán chứng khoán đầu tư và đầu tư dài hạn,32,1.315.248,1.445.713,32.0,1315248.0,1445713.0
+Thu nhập từ hoạt động khác,Thu nhập từ hoạt động khác,Thu nhập từ hoạt động khác,,3.025.807(884.149),4.210.764(956.450),,,
+Chi phí cho hoạt động khác,Chi phí cho hoạt động khác,Chi phí cho hoạt động khác,,,,,,
+Lãi thuần từ hoạt động khác,Chi phí cho hoạt động khác > Lãi thuần từ hoạt động khác,Lãi thuần từ hoạt động khác,33,2.141.658,3.254.314,33.0,2141658.0,3254314.0
+"Thu nhập từ góp vốn, mua cổ phần","Chi phí cho hoạt động khác > Thu nhập từ góp vốn, mua cổ phần","Thu nhập từ góp vốn, mua cổ phần",34,131.941,114.835,34.0,131941.0,114835.0
+TỔNG THU NHẬP HOẠT ĐỘNG,Chi phí cho hoạt động khác > TỔNG THU NHẬP HOẠT ĐỘNG,TỔNG THU NHẬP HOẠT ĐỘNG,,45.592.625,36.934.498,,45592625.0,36934498.0
+TỔNG CHI PHÍ HOẠT ĐỘNG,Chi phí cho hoạt động khác > TỔNG CHI PHÍ HOẠT ĐỘNG,TỔNG CHI PHÍ HOẠT ĐỘNG,35,(14.815.628),(12.377.188),35.0,-14815628.0,-12377188.0
+Lợi nhuận thuần từ hoạt động kinh doanh trước chỉ phí dự phòng rủi ro,Lợi nhuận thuần từ hoạt động kinh doanh trước chỉ phí dự phòng rủi ro,Lợi nhuận thuần từ hoạt động kinh doanh trước chỉ phí dự phòng rủi ro,,30.776.997(8.047.677),24.557.310(8.030.051),,,
+Chi phí dự phòng rủi ro,Lợi nhuận thuần từ hoạt động kinh doanh trước chỉ phí dự phòng rủi ro > Chi phí dự phòng rủi ro,Chi phí dự phòng rủi ro,36,,,36.0,,
+TỔNG LỢI NHUẬN TRƯỚC THUẾ,Lợi nhuận thuần từ hoạt động kinh doanh trước chỉ phí dự phòng rủi ro > TỔNG LỢI NHUẬN TRƯỚC THUẾ,TỔNG LỢI NHUẬN TRƯỚC THUẾ,,22.729.320,16.527.259,,22729320.0,16527259.0
+Chi phí thuế thu nhập doanh nghiệp hiện hành,Lợi nhuận thuần từ hoạt động kinh doanh trước chỉ phí dự phòng rủi ro > Chi phí thuế thu nhập doanh nghiệp hiện hành,Chi phí thuế thu nhập doanh nghiệp hiện hành,37.1,(4.582.973)8.838,(3.307.574)1.752,371.0,,
+Thu nhập thuế thu nhập hoãn lại,Thu nhập thuế thu nhập hoãn lại,Thu nhập thuế thu nhập hoãn lại,,,,,,
+Chi phí thuế thu nhập doanh nghiệp,Thu nhập thuế thu nhập hoãn lại > Chi phí thuế thu nhập doanh nghiệp,Chi phí thuế thu nhập doanh nghiệp,,(4.574.135),(3.305.822),,-4574135.0,-3305822.0
+LỢI NHUẬN SAU THUÊ,Thu nhập thuế thu nhập hoãn lại > LỢI NHUẬN SAU THUÊ,LỢI NHUẬN SAU THUÊ,,18.155.185,13.221.437,,18155185.0,13221437.0
+Lợi ích của cổ đông không kiểm soát,Thu nhập thuế thu nhập hoãn lại > Lợi ích của cổ đông không kiểm soát,Lợi ích của cổ đông không kiểm soát,,672.450,524.362,,672450.0,524362.0
+Lợi nhuận ròng trong năm,Thu nhập thuế thu nhập hoãn lại > Lợi nhuận ròng trong năm,Lợi nhuận ròng trong năm,,17.482.735,12.697.075,,17482735.0,12697075.0
+Lãi cơ bản trên cổ phiếu (VND/cổ phiếu),Thu nhập thuế thu nhập hoãn lại > Lãi cơ bản trên cổ phiếu (VND/cổ phiếu),Lãi cơ bản trên cổ phiếu (VND/cổ phiếu),38,3.856,3.133,38.0,3856.0,3133.0

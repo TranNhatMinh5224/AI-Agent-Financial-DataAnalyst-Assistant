@@ -1,0 +1,2 @@
+﻿row_label_raw,row_label_full,Thời điểm phát sinh khoản nợ,Khoảng thời gian phát sinh nghĩa vụ trả nợ,Tình trạng quá hạn,Khoảng thời gian phát sinh quá hạn,Nguyên tắc giữ nguyên nhóm nợ,numeric__Khoảng thời gian phát sinh nghĩa vụ trả nợ,numeric__Tình trạng quá hạn,numeric__Khoảng thời gian phát sinh quá hạn,numeric__Nguyên tắc giữ nguyên nhóm nợ
+,,,,Quá hạn,Từ 23/1/2020 đến trước 17/5/2021,Giữ nguyên nhóm nợ đã phân loại tại thời điểm gần nhất trước ngày khoản nợ bị chuyển quá hạn.,,,,

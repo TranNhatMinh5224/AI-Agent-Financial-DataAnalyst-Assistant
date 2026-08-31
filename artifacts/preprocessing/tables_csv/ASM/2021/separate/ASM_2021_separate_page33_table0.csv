@@ -1,0 +1,17 @@
+﻿row_label_raw,row_label_full,Chỉ tiêu,Quyền sử dụng đất,Quyền phát hành,"Bản quyền, bằng sáng chế",Phần mềm vi tính,TSCĐ vô hình khác,Cộng,numeric__Quyền sử dụng đất,numeric__Quyền phát hành,"numeric__Bản quyền, bằng sáng chế",numeric__Phần mềm vi tính,numeric__TSCĐ vô hình khác,numeric__Cộng
+I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,,,,,,
+1. Số dư đầu năm,I. Nguyên giá > 1. Số dư đầu năm,1. Số dư đầu năm,30.357.987.193,,,,,30.357.987.193,30357987193.0,,,,,30357987193.0
+2. Số tăng trong năm - Mua trong năm,2. Số tăng trong năm - Mua trong năm,2. Số tăng trong năm - Mua trong năm,,,,,,,,,,,,
+- Tăng khác,- Tăng khác,- Tăng khác,,,,,,,,,,,,
+3. Số giảm trong năm,- Tăng khác > 3. Số giảm trong năm,3. Số giảm trong năm,2.774.194.808,,,,,2.774.194.808,2774194808.0,,,,,2774194808.0
+"- Thanh lý, nhượng bán","- Tăng khác > - Thanh lý, nhượng bán","- Thanh lý, nhượng bán",2.774.194.808,,,,,2.774.194.808,2774194808.0,,,,,2774194808.0
+- Giảm khác,- Giảm khác,- Giảm khác,,,,,,,,,,,,
+4. Số dư cuối năm,- Giảm khác > 4. Số dư cuối năm,4. Số dư cuối năm,27.583.792.385,,,,,27.583.792.385,27583792385.0,,,,,27583792385.0
+II. Giá trị hao mòn luỹ kế,II. Giá trị hao mòn luỹ kế,II. Giá trị hao mòn luỹ kế,II. Giá trị hao mòn luỹ kế,II. Giá trị hao mòn luỹ kế,II. Giá trị hao mòn luỹ kế,II. Giá trị hao mòn luỹ kế,II. Giá trị hao mòn luỹ kế,II. Giá trị hao mòn luỹ kế,,,,,,
+1. Số dư đầu năm,1. Số dư đầu năm,1. Số dư đầu năm,,,,,,,,,,,,
+2. Khấu hao trong năm - Khấu hao trong năm - Tăng khác,2. Khấu hao trong năm - Khấu hao trong năm - Tăng khác,2. Khấu hao trong năm - Khấu hao trong năm - Tăng khác,,,,,,,,,,,,
+"3. Giảm trong năm - Thanh lý, nhượng bán - Giảm khác","3. Giảm trong năm - Thanh lý, nhượng bán - Giảm khác","3. Giảm trong năm - Thanh lý, nhượng bán - Giảm khác",,,,,,,,,,,,
+4. Số dư cuối năm,4. Số dư cuối năm,4. Số dư cuối năm,,,,,,,,,,,,
+III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,,,,,,
+1. Tại ngày đầu năm,III. Giá trị còn lại > 1. Tại ngày đầu năm,1. Tại ngày đầu năm,30.357.987.193,,,,,30.357.987.193,30357987193.0,,,,,30357987193.0
+2. Tại ngày cuối năm,III. Giá trị còn lại > 2. Tại ngày cuối năm,2. Tại ngày cuối năm,27.583.792.385,,,,,27.583.792.385,27583792385.0,,,,,27583792385.0

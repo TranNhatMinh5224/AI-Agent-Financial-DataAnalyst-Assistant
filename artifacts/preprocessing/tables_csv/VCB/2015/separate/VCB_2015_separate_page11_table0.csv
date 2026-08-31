@@ -1,0 +1,19 @@
+﻿row_label_raw,row_label_full,col_0,col_1,Thuyết minh,Năm kết thúc 31/12/2015 Triệu VND,Năm kết thúc 31/12/2014 Triệu VND (Trình bày lại),numeric__col_1,numeric__Thuyết minh,numeric__Năm kết thúc 31/12/2015 Triệu VND,numeric__Năm kết thúc 31/12/2014 Triệu VND (Trình bày lại)
+1,1,1,Thu nhập lãi và các khoản thu nhập tương tự,22,31.194.938,28.076.637,,22.0,31194938.0,28076637.0
+2,2,2,Chỉ phí lãi và các chỉ phí tương tự,23,(15.889.915),(16.248.305),,23.0,-15889915.0,-16248305.0
+I,I,I,Thu nhập lãi thuần,,15.305.023,11.828.332,,,15305023.0,11828332.0
+3,3,3,Thu nhập từ hoạt động dịch vụ,,3.277.774,2.699.641,,,3277774.0,2699641.0
+4,4,4,Chỉ phí từ hoạt động dịch vụ,,(1.632.364),(1.320.858),,,-1632364.0,-1320858.0
+II,II,II,Lãi/ (lỗ) thuần từ hoạt động dịch vụ,24,1.645.410,1.378.783,,24.0,1645410.0,1378783.0
+III,III,III,Lãi/ (lỗ) thuần từ hoạt động kinh doanh ngoại hối,25,1.571.400,1.344.735,,25.0,1571400.0,1344735.0
+IV,IV,IV,Lãi/ (lỗ) thuần từ mua bán chứng khoán kinh doanh,26,175.287,154.929,,26.0,175287.0,154929.0
+V,V,V,Lãi/ (lỗ) thuần từ mua bán chứng khoán đầu tư,27,179.268,183.816,,27.0,179268.0,183816.0
+5,5,5,Thu nhập từ hoạt động khác,,2.135.799,1.937.037,,,2135799.0,1937037.0
+6,6,6,Chỉ phí hoạt động khác,,(230.390),(149.955),,,-230390.0,-149955.0
+VI,VI,VI,Lãi/ (lỗ) thuần từ hoạt động khác,28,1.905.409,1.787.082,,28.0,1905409.0,1787082.0
+VII,VII,VII,"Thu nhập từ góp vốn, mua cổ phần",29,83.479,265.306,,29.0,83479.0,265306.0
+,,,TỔNG THU NHẬP HOẠT ĐỘNG,,20.865.276,16.942.983,,,20865276.0,16942983.0
+VIII,VIII,VIII,CHỈ PHÍ HOẠT ĐỘNG,30,(8.161.247),(6.722.416),,30.0,-8161247.0,-6722416.0
+IX,IX,IX,Lợi nhuận thuần từ hoạt động kinh doanh trước chi phí dự phòng rủi ro tín dụng,,12.704.029,10.220.567,,,12704029.0,10220567.0
+X,X,X,Chỉ phí dự phòng rủi ro tín dụng,31,(6.049.730),(4.572.664),,31.0,-6049730.0,-4572664.0
+XI,XI,XI,TỔNG LỢI NHUẬN TRƯỚC THUẾ,,6.654.299,5.647.903,,,6654299.0,5647903.0

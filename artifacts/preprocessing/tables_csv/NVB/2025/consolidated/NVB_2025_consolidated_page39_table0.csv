@@ -1,0 +1,14 @@
+﻿row_label_raw,row_label_full,13. Tiền gửi và vay các TCTD khác,31/12/2025,31/12/2024,numeric__31/12/2025,numeric__31/12/2024
+13.1. Tiền gửi của các TCTD khác,13.1. Tiền gửi của các TCTD khác,13.1. Tiền gửi của các TCTD khác,,,,
+a. Tiền gửi không kỳ hạn,13.1. Tiền gửi của các TCTD khác > a. Tiền gửi không kỳ hạn,a. Tiền gửi không kỳ hạn,12.533.521,7.536.450,12533521.0,7536450.0
+- Bằng VND,13.1. Tiền gửi của các TCTD khác > - Bằng VND,- Bằng VND,12.533.443,7.536.383,12533443.0,7536383.0
+- Bằng ngoại hối,13.1. Tiền gửi của các TCTD khác > - Bằng ngoại hối,- Bằng ngoại hối,78,67,78.0,67.0
+b. Tiền gửi có kỳ hạn,13.1. Tiền gửi của các TCTD khác > b. Tiền gửi có kỳ hạn,b. Tiền gửi có kỳ hạn,200.000,2.500.000,200000.0,2500000.0
+- Bằng VND,13.1. Tiền gửi của các TCTD khác > - Bằng VND,- Bằng VND,200.000,2.500.000,200000.0,2500000.0
+- Bằng ngoại hối,- Bằng ngoại hối,- Bằng ngoại hối,-,-,,
+Cộng,- Bằng ngoại hối > Cộng,Cộng,12.733.521,10.036.450,12733521.0,10036450.0
+13.2. Vay các TCTD khác,13.2. Vay các TCTD khác,13.2. Vay các TCTD khác,,,,
+- Bằng VND,13.2. Vay các TCTD khác > - Bằng VND,- Bằng VND,270.000,-,270000.0,
+- Bằng ngoại hối,- Bằng ngoại hối,- Bằng ngoại hối,-,-,,
+Cộng,- Bằng ngoại hối > Cộng,Cộng,270.000,-,270000.0,
+Tổng cộng tiền gửi của và vay TCTD khác,- Bằng ngoại hối > Tổng cộng tiền gửi của và vay TCTD khác,Tổng cộng tiền gửi của và vay TCTD khác,13.003.521,10.036.450,13003521.0,10036450.0

@@ -1,0 +1,14 @@
+﻿row_label_raw,row_label_full,col_0,col_1,Quá hạn,Không chịu lãi,Dưới 01 tháng,Từ 01 đến 03 tháng,Từ trên 03 đến 06 tháng,Từ trên 06 đến 12 tháng,Từ trên 01 đến 05 năm,Trên 05 năm,Tổng,numeric__col_1,numeric__Quá hạn,numeric__Không chịu lãi,numeric__Dưới 01 tháng,numeric__Từ 01 đến 03 tháng,numeric__Từ trên 03 đến 06 tháng,numeric__Từ trên 06 đến 12 tháng,numeric__Từ trên 01 đến 05 năm,numeric__Trên 05 năm,numeric__Tổng
+,,,,Triệu VND,Triệu VND,Triệu VND,Triệu VND,Triệu VND,Triệu VND,Triệu VND,Triệu VND,Triệu VND,,,,,,,,,,
+TÀI SẢN,TÀI SẢN,TÀI SẢN,TÀI SẢN,TÀI SẢN,TÀI SẢN,TÀI SẢN,TÀI SẢN,TÀI SẢN,TÀI SẢN,TÀI SẢN,TÀI SẢN,TÀI SẢN,,,,,,,,,,
+I,TÀI SẢN > I,I,"Tiền mặt, vàng bạc, đá quý",-,711.783,-,-,-,-,-,-,711.783,,,711783.0,,,,,,,711783.0
+II,TÀI SẢN > II,II,Tiền gửi tại NHNN,-,-,786.421,-,-,-,-,-,786.421,,,,786421.0,,,,,,786421.0
+III,TÀI SẢN > III,III,Tiền gửi và cho vay các TCTD khác (*),-,-,7.037.227,4.000.000,-,-,735.393,122.185,11.894.805,,,,7037227.0,4000000.0,,,735393.0,122185.0,11894805.0
+IV,TÀI SẢN > IV,IV,Chứng khoán kinh doanh (*),-,-,-,-,-,2.700.000,2.068.290,-,4.768.290,,,,,,,2700000.0,2068290.0,,4768290.0
+V,TÀI SẢN > V,V,Các công cụ tài chính phải sinh và các tài sản tài chính khác,-,-,103.023,-,-,-,-,-,103.023,,,,103023.0,,,,,,103023.0
+VI,TÀI SẢN > VI,VI,Cho vay khách hàng (*),1.131.025,-,9.141.476,5.310.762,14.365.177,13.582.398,14.211.964,36.377.798,94.120.600,,1131025.0,,9141476.0,5310762.0,14365177.0,13582398.0,14211964.0,36377798.0,94120600.0
+VIII,TÀI SẢN > VIII,VIII,Chứng khoán đầu tư (*),-,136.500,-,-,-,-,6.707.297,6.132.587,12.976.384,,,136500.0,,,,,6707297.0,6132587.0,12976384.0
+IX,TÀI SẢN > IX,IX,"Góp vốn, đầu tư dài hạn (*)",-,162.845,-,-,-,-,-,-,162.845,,,162845.0,,,,,,,162845.0
+X,TÀI SẢN > X,X,Tài sản cố định và bất động sản đầu tư,-,764.969,-,-,-,-,-,-,764.969,,,764969.0,,,,,,,764969.0
+XI,TÀI SẢN > XI,XI,Tài sản có khác (*),-,3.599.479,-,-,-,-,-,-,3.599.479,,,3599479.0,,,,,,,3599479.0
+Tổng tài sản,TÀI SẢN > Tổng tài sản,Tổng tài sản,Tổng tài sản,1.131.025,5.375.576,17.068.147,9.310.762,14.365.177,16.282.398,23.722.944,42.632.570,129.888.599,,1131025.0,5375576.0,17068147.0,9310762.0,14365177.0,16282398.0,23722944.0,42632570.0,129888599.0

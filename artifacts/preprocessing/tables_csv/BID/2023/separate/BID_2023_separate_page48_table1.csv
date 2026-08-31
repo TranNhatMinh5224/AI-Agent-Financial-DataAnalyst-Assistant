@@ -1,0 +1,18 @@
+﻿row_label_raw,row_label_full,col_0,Năm nay,Năm trước(Trình bày lại),numeric__Năm nay,numeric__Năm trước(Trình bày lại)
+,,,Triệu VND,Triệu VND,,
+Thu nhập từ hoạt động kinh doanh trước thuế,Thu nhập từ hoạt động kinh doanh trước thuế,Thu nhập từ hoạt động kinh doanh trước thuế,26.705.669,22.416.172,26705669.0,22416172.0
+Trừ:,Trừ:,Trừ:,,,,
+Thu nhập từ cổ tức không chịu thuế,Trừ: > Thu nhập từ cổ tức không chịu thuế,Thu nhập từ cổ tức không chịu thuế,(327.046),(304.005),-327046.0,-304005.0
+Cộng:,Cộng:,Cộng:,,,,
+Chi phí khác không được khấu trừ thuế,Cộng: > Chi phí khác không được khấu trừ thuế,Chi phí khác không được khấu trừ thuế,275.053,18.204,275053.0,18204.0
+Chênh lệch tam thời chi phí dự phòng đầu tư dài hạn theo quy định tại Thông tư 48,Cộng: > Chênh lệch tam thời chi phí dự phòng đầu tư dài hạn theo quy định tại Thông tư 48,Chênh lệch tam thời chi phí dự phòng đầu tư dài hạn theo quy định tại Thông tư 48,3.632,(9.421),3632.0,-9421.0
+Thu nhập chịu thuế TNDN,Cộng: > Thu nhập chịu thuế TNDN,Thu nhập chịu thuế TNDN,26.657.308,22.120.950,26657308.0,22120950.0
+Thuế suất thuế TNDN,Cộng: > Thuế suất thuế TNDN,Thuế suất thuế TNDN,20%,20%,0.2,0.2
+Chi phí thuế TNDN theo thuế suất,Cộng: > Chi phí thuế TNDN theo thuế suất,Chi phí thuế TNDN theo thuế suất,5.331.461,4.424.190,5331461.0,4424190.0
+Thuế TNDN trong năm,Cộng: > Thuế TNDN trong năm,Thuế TNDN trong năm,5.331.461,4.424.190,5331461.0,4424190.0
+Thuế TNDN phải trả đầu năm,Cộng: > Thuế TNDN phải trả đầu năm,Thuế TNDN phải trả đầu năm,2.327.013,512.584,2327013.0,512584.0
+Thuế TNDN đã nộp ở nước ngoài trong năm,Cộng: > Thuế TNDN đã nộp ở nước ngoài trong năm,Thuế TNDN đã nộp ở nước ngoài trong năm,(11.438),(11.663),-11438.0,-11663.0
+Thuế TNDN đã nộp trong nước trong năm,Cộng: > Thuế TNDN đã nộp trong nước trong năm,Thuế TNDN đã nộp trong nước trong năm,(4.311.113),(2.598.078),-4311113.0,-2598078.0
+Bù trừ số thuế nộp thừa các năm trước,Cộng: > Bù trừ số thuế nộp thừa các năm trước,Bù trừ số thuế nộp thừa các năm trước,(16.784),-,-16784.0,
+Tăng/(Giảm) khác,Cộng: > Tăng/(Giảm) khác,Tăng/(Giảm) khác,8.147,(20),8147.0,-20.0
+Thuế TNDN phải trả thuần cuối năm,Cộng: > Thuế TNDN phải trả thuần cuối năm,Thuế TNDN phải trả thuần cuối năm,3.327.286,2.327.013,3327286.0,2327013.0

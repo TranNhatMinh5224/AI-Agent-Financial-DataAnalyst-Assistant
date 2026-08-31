@@ -1,0 +1,21 @@
+﻿row_label_raw,row_label_full,col_0,col_1,Thuyết minh,Năm tài chính kết thúc ngày 31 tháng 12 năm > 2023 Triệu đồng,Năm tài chính kết thúc ngày 31 tháng 12 năm > 2022 Triệu đồng,numeric__col_1,numeric__Thuyết minh,numeric__Năm tài chính kết thúc ngày 31 tháng 12 năm > 2023 Triệu đồng,numeric__Năm tài chính kết thúc ngày 31 tháng 12 năm > 2022 Triệu đồng
+1,1,1,Thu nhập lãi và các khoản thu nhập tương tự,19,14.699.192,12.170.179,,19.0,14699192.0,12170179.0
+2,2,2,Chi phí lãi và các khoản chi phí tương tự,20,(10.118.123),(6.587.308),,20.0,-10118123.0,-6587308.0
+I,I,I,Thu nhập lãi thuần,,4.581.069,5.582.871,,,4581069.0,5582871.0
+3,3,3,Thu nhập từ hoạt động dịch vụ,21,1.385.386,1.113.135,,21.0,1385386.0,1113135.0
+4,4,4,Chi phí từ hoạt động dịch vụ,22,(879.314),(605.172),,22.0,-879314.0,-605172.0
+II,II,II,Lãi thuần từ hoạt động dịch vụ,,506.072,507.963,,,506072.0,507963.0
+III,III,III,Lãi thuần từ hoạt động kinh doanh ngoại hối,23,485.920,606.104,,23.0,485920.0,606104.0
+V,V,V,Lãi thuần từ mua bán chứng khoán đầu tư,24,121.282,87.550,,24.0,121282.0,87550.0
+5,5,5,Thu nhập từ hoạt động khác,,927.914,528.672,,,927914.0,528672.0
+6,6,6,Chi phí hoạt động khác,,(139.464),(73.098),,,-139464.0,-73098.0
+VI,VI,VI,Lãi thuần từ hoạt động khác,25,788.450,455.574,,25.0,788450.0,455574.0
+VII,VII,VII,"Thu nhập từ góp vốn, mua cổ phần",,1.148,5.643,,,1148.0,5643.0
+VIII,VIII,VIII,Chi phí hoạt động,26,(3.093.126),(3.434.424),,26.0,-3093126.0,-3434424.0
+IX,IX,IX,Lợi nhuận thuần từ hoạt động kinh doanh trước chi phí dự phòng rủi ro tín dụng,,3.390.815,3.811.281,,,3390815.0,3811281.0
+X,X,X,Chi phí dự phòng rủi ro tín dụng,27,(694.399),(103.590),,27.0,-694399.0,-103590.0
+XI,XI,XI,Tổng lợi nhuận trước thuế,,2.696.416,3.707.691,,,2696416.0,3707691.0
+7,7,7,Chi phí thuế TNDN - hiện hành,,(550.125),(774.317),,,-550125.0,-774317.0
+8,8,8,Thu nhập thuế TNDN - hoãn lại,,1,11.003,,,1.0,11003.0
+XII,XII,XII,Chi phí thuế TNDN,28,(550.124),(763.314),,28.0,-550124.0,-763314.0
+XIII,XIII,XIII,Lợi nhuận sau thuế,,2.146.292,2.944.377,,,2146292.0,2944377.0

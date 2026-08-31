@@ -1,0 +1,26 @@
+﻿row_label_raw,row_label_full,Chỉ tiêu,VND,USD được quy đổi,EUR được quy đổi,Giá trị vàng tiền tệ được quy đổi,Các ngoại tệ khác được quy đổi,Tổng,numeric__VND,numeric__USD được quy đổi,numeric__EUR được quy đổi,numeric__Giá trị vàng tiền tệ được quy đổi,numeric__Các ngoại tệ khác được quy đổi,numeric__Tổng
+Tài sản,Tài sản,Tài sản,Tài sản,Tài sản,Tài sản,Tài sản,Tài sản,Tài sản,,,,,,
+"Tiền mặt, vàng bạc, đá quý","Tài sản > Tiền mặt, vàng bạc, đá quý","Tiền mặt, vàng bạc, đá quý",297.074,29.626,1.623,312,2.078,330.713,297074.0,29626.0,1623.0,312.0,2078.0,330713.0
+Tiền gửi tại Ngân hàng Nhà nước,Tài sản > Tiền gửi tại Ngân hàng Nhà nước,Tiền gửi tại Ngân hàng Nhà nước,1.130.561,331,-,-,-,1.130.892,1130561.0,331.0,,,,1130892.0
+"Tiền, vàng gửi tại và cho vay các TCTD khác (*)","Tài sản > Tiền, vàng gửi tại và cho vay các TCTD khác (*)","Tiền, vàng gửi tại và cho vay các TCTD khác (*)",22.063.716,249.944,1.429,-,12.618,22.327.707,22063716.0,249944.0,1429.0,,12618.0,22327707.0
+Chứng khoán kinh doanh (*),Chứng khoán kinh doanh (*),Chứng khoán kinh doanh (*),,-,-,-,-,-,,,,,,
+Các công cụ tài chính phải sinh và các tài sản tài chính khác (*),Chứng khoán kinh doanh (*) > Các công cụ tài chính phải sinh và các tài sản tài chính khác (*),Các công cụ tài chính phải sinh và các tài sản tài chính khác (*),201.725,-,-,-,-,201.725,201725.0,,,,,201725.0
+Cho vay khách hàng (*),Chứng khoán kinh doanh (*) > Cho vay khách hàng (*),Cho vay khách hàng (*),88.681.729,59.787,-,-,-,88.741.516,88681729.0,59787.0,,,,88741516.0
+Chứng khoán đầu tư (*),Chứng khoán kinh doanh (*) > Chứng khoán đầu tư (*),Chứng khoán đầu tư (*),19.193.831,-,-,-,-,19.193.831,19193831.0,,,,,19193831.0
+"Góp vốn, đầu tư dài hạn (*)","Chứng khoán kinh doanh (*) > Góp vốn, đầu tư dài hạn (*)","Góp vốn, đầu tư dài hạn (*)",83.610,-,-,-,-,83.610,83610.0,,,,,83610.0
+Tài sản cố định và Bất động sản đầu tư,Chứng khoán kinh doanh (*) > Tài sản cố định và Bất động sản đầu tư,Tài sản cố định và Bất động sản đầu tư,476.767,-,-,-,-,476.767,476767.0,,,,,476767.0
+Tài sản Có khác (*),Chứng khoán kinh doanh (*) > Tài sản Có khác (*),Tài sản Có khác (*),9.321.898,15.127,-,-,-,9.337.025,9321898.0,15127.0,,,,9337025.0
+Tổng Tài sản,Chứng khoán kinh doanh (*) > Tổng Tài sản,Tổng Tài sản,141.450.911,354.815,3.052,312,14.696,141.823.786,141450911.0,354815.0,3052.0,312.0,14696.0,141823786.0
+Nợ phải trả và Vốn chủ sở hữu,Nợ phải trả và Vốn chủ sở hữu,Nợ phải trả và Vốn chủ sở hữu,Nợ phải trả và Vốn chủ sở hữu,Nợ phải trả và Vốn chủ sở hữu,Nợ phải trả và Vốn chủ sở hữu,Nợ phải trả và Vốn chủ sở hữu,Nợ phải trả và Vốn chủ sở hữu,Nợ phải trả và Vốn chủ sở hữu,,,,,,
+Các khoản nợ NHNNVN,Nợ phải trả và Vốn chủ sở hữu > Các khoản nợ NHNNVN,Các khoản nợ NHNNVN,4.735.943,-,-,-,-,4.735.943,4735943.0,,,,,4735943.0
+Tiền gửi của và vay từ NHNN và các TCTD khác,Nợ phải trả và Vốn chủ sở hữu > Tiền gửi của và vay từ NHNN và các TCTD khác,Tiền gửi của và vay từ NHNN và các TCTD khác,18.731.446,657.404,-,-,-,19.388.850,18731446.0,657404.0,,,,19388850.0
+Tiền gửi của khách hàng,Nợ phải trả và Vốn chủ sở hữu > Tiền gửi của khách hàng,Tiền gửi của khách hàng,98.888.075,190.807,103,-,953,99.079.938,98888075.0,190807.0,103.0,,953.0,99079938.0
+Các công cụ tài chính phải sinh và các khoản nợ tài chính khác,Các công cụ tài chính phải sinh và các khoản nợ tài chính khác,Các công cụ tài chính phải sinh và các khoản nợ tài chính khác,-,-,-,-,-,-,,,,,,
+"Vốn tài trợ, ủy thác đầu tư, cho vay TCTD chịu rủi ro","Các công cụ tài chính phải sinh và các khoản nợ tài chính khác > Vốn tài trợ, ủy thác đầu tư, cho vay TCTD chịu rủi ro","Vốn tài trợ, ủy thác đầu tư, cho vay TCTD chịu rủi ro",20.320,-,-,-,-,20.320,20320.0,,,,,20320.0
+Phát hành giấy tờ có giá,Các công cụ tài chính phải sinh và các khoản nợ tài chính khác > Phát hành giấy tờ có giá,Phát hành giấy tờ có giá,4.958.831,-,-,-,-,4.958.831,4958831.0,,,,,4958831.0
+Các khoản nợ khác,Các công cụ tài chính phải sinh và các khoản nợ tài chính khác > Các khoản nợ khác,Các khoản nợ khác,2.142.834,3.790,-,-,-,2.146.624,2142834.0,3790.0,,,,2146624.0
+Vốn và các quỹ,Các công cụ tài chính phải sinh và các khoản nợ tài chính khác > Vốn và các quỹ,Vốn và các quỹ,10.155.027,-,-,-,-,10.155.027,10155027.0,,,,,10155027.0
+Tổng Nợ phải trả và Vốn chủ sở hữu,Các công cụ tài chính phải sinh và các khoản nợ tài chính khác > Tổng Nợ phải trả và Vốn chủ sở hữu,Tổng Nợ phải trả và Vốn chủ sở hữu,139.632.475,852.001,103,-,953,140.485.532,139632475.0,852001.0,103.0,,953.0,140485532.0
+Trạng thái tiền tệ nội bảng,Các công cụ tài chính phải sinh và các khoản nợ tài chính khác > Trạng thái tiền tệ nội bảng,Trạng thái tiền tệ nội bảng,1.818.436,-497.186,2.949,312,13.743,1.338.254,1818436.0,-497186.0,2949.0,312.0,13743.0,1338254.0
+Trạng thái tiền tệ ngoại bảng,Trạng thái tiền tệ ngoại bảng,Trạng thái tiền tệ ngoại bảng,-,-,-,-,-,-,,,,,,
+"Trạng thái tiền tệ nội, ngoại bảng","Trạng thái tiền tệ ngoại bảng > Trạng thái tiền tệ nội, ngoại bảng","Trạng thái tiền tệ nội, ngoại bảng",1.818.436,-497.186,2.949,312,13.743,1.338.254,1818436.0,-497186.0,2949.0,312.0,13743.0,1338254.0

@@ -1,0 +1,34 @@
+﻿row_label_raw,row_label_full,Items,Codes,Notes,This year,Previous year,numeric__Codes,numeric__Notes,numeric__This year,numeric__Previous year
+A,A,A,B,C,1,2,,,1.0,2.0
+I. Cash flow from operating activities,I. Cash flow from operating activities,I. Cash flow from operating activities,0,,,,0.0,,,
+1. Profit before Corporate Income Tax,1. Profit before Corporate Income Tax,1. Profit before Corporate Income Tax,01,,663.173.267.145,541.944.640.753,1.0,,663173267145.0,541944640753.0
+2. Adjustments for the items:,2. Adjustments for the items:,2. Adjustments for the items:,02,,34.859.019.826,(9.964.711.684),2.0,,34859019826.0,-9964711684.0
+- Depreciation of fixed assets,- Depreciation of fixed assets,- Depreciation of fixed assets,03,,19.145.813.755,19.920.006.367,3.0,,19145813755.0,19920006367.0
+- Provisions,- Provisions,- Provisions,04,,15.150.000,40.185.000,4.0,,15150000.0,40185000.0
+- Interest expense,- Interest expense,- Interest expense,06,,,,6.0,,,
+"- Profit, loss from investment activities","- Profit, loss from investment activities","- Profit, loss from investment activities",07,,(57.407.407),(33.109.092),7.0,,-57407407.0,-33109092.0
+- Accrued interests,- Accrued interests,- Accrued interests,08,,15.755.463.478,(29.891.793.959),8.0,,15755463478.0,-29891793959.0
+- Other adjustments,- Other adjustments,- Other adjustments,09,,,,9.0,,,
+3. Increase non-monetary expenses,3. Increase non-monetary expenses,3. Increase non-monetary expenses,10,,(1.985.477),1.362.127,10.0,,-1985477.0,1362127.0
+- Loss from re-evaluating of financial assets at FVTPL,- Loss from re-evaluating of financial assets at FVTPL,- Loss from re-evaluating of financial assets at FVTPL,11,,(1.985.477),1.362.127,11.0,,-1985477.0,1362127.0
+4. Reduce non-monetary revenue,4. Reduce non-monetary revenue,4. Reduce non-monetary revenue,18,,(150.503.304.470),(31.907.355.060),18.0,,-150503304470.0,-31907355060.0
+- Profit from re-evaluating of financial assets at FVTPL,- Profit from re-evaluating of financial assets at FVTPL,- Profit from re-evaluating of financial assets at FVTPL,19,,(150.503.304.470),(31.907.355.060),19.0,,-150503304470.0,-31907355060.0
+5. Profits from business operations before changes in working capital,5. Profits from business operations before changes in working capital,5. Profits from business operations before changes in working capital,30,,(3.505.326.135.568),(1.243.551.140.320),30.0,,-3505326135568.0,-1243551140320.0
+- Increase (decrease) in financial assets at FVTPL,- Increase (decrease) in financial assets at FVTPL,- Increase (decrease) in financial assets at FVTPL,31,,(414.216.654.670),(245.819.526.243),31.0,,-414216654670.0,-245819526243.0
+- Increase (decrease) in loans,- Increase (decrease) in loans,- Increase (decrease) in loans,33,,(1.674.066.439.441),(1.658.505.867.333),33.0,,-1674066439441.0,-1658505867333.0
+"- Increase (decrease) the receivables and accrued dividends, interests of financial assets","- Increase (decrease) the receivables and accrued dividends, interests of financial assets","- Increase (decrease) the receivables and accrued dividends, interests of financial assets",36,,155.222.403,(109.650.483),36.0,,155222403.0,-109650483.0
+- Increase (decrease) the receivables of services that Securities Company provides,- Increase (decrease) the receivables of services that Securities Company provides,- Increase (decrease) the receivables of services that Securities Company provides,37,,597.308.368,(1.404.607.661),37.0,,597308368.0,-1404607661.0
+- Increase (decrease) other receivables,- Increase (decrease) other receivables,- Increase (decrease) other receivables,39,,1.188.339.443,(2.033.770.721),39.0,,1188339443.0,-2033770721.0
+- Increase (decrease) other assets,- Increase (decrease) other assets,- Increase (decrease) other assets,40,,40.225.599,1.460.028.741,40.0,,40225599.0,1460028741.0
+- Increase (decrease) the payable costs (excluding interests),- Increase (decrease) the payable costs (excluding interests),- Increase (decrease) the payable costs (excluding interests),41,,4.982.930.767,485.582.590,41.0,,4982930767.0,485582590.0
+- Increase (decrease) the prepaid costs,- Increase (decrease) the prepaid costs,- Increase (decrease) the prepaid costs,42,,(4.438.232.424),907.451.764,42.0,,-4438232424.0,907451764.0
+- Corporate income tax paid,- Corporate income tax paid,- Corporate income tax paid,43,,(99.881.896.967),(97.625.047.281),43.0,,-99881896967.0,-97625047281.0
+- Interest expenses paid,- Interest expenses paid,- Interest expenses paid,44,,,,44.0,,,
+- Increase (decrease) the payables,- Increase (decrease) the payables,- Increase (decrease) the payables,45,,529.049.673,(696.904.295),45.0,,529049673.0,-696904295.0
+- Increase (decrease) deductions for employee benefits,- Increase (decrease) deductions for employee benefits,- Increase (decrease) deductions for employee benefits,46,,283.930.182,176.349.588,46.0,,283930182.0,176349588.0
+- Increase (decrease) taxes and contributions to the State (excluding the paid corporate income tax),- Increase (decrease) taxes and contributions to the State (excluding the paid corporate income tax),- Increase (decrease) taxes and contributions to the State (excluding the paid corporate income tax),47,,2.173.905.105,(9.910.886.819),47.0,,2173905105.0,-9910886819.0
+- Increase (decrease) payable to employees,- Increase (decrease) payable to employees,- Increase (decrease) payable to employees,48,,527.056.741,2.365.131.183,48.0,,527056741.0,2365131183.0
+- Increase (decrease) other payables,- Increase (decrease) other payables,- Increase (decrease) other payables,50,,(1.300.275.558.889),796.925.042.822,50.0,,-1300275558889.0,796925042822.0
+- Proceeds from business activities,- Proceeds from business activities,- Proceeds from business activities,51,,251.000.000,15.000.000,51.0,,251000000.0,15000000.0
+- Payments from business activities,- Payments from business activities,- Payments from business activities,52,,(23.176.321.458),(29.779.466.172),52.0,,-23176321458.0,-29779466172.0
+Net cash flow from operating activities,Net cash flow from operating activities,Net cash flow from operating activities,60,,(2.957.799.138.544),(743.477.204.184),60.0,,-2957799138544.0,-743477204184.0

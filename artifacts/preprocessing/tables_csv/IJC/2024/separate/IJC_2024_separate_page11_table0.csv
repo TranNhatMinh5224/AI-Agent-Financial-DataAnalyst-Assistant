@@ -1,0 +1,23 @@
+﻿row_label_raw,row_label_full,CHỈ TIÊU,Mã số,Thuyết minh,Số cuối năm,Số đầu năm,numeric__Mã số,numeric__Thuyết minh,numeric__Số cuối năm,numeric__Số đầu năm
+D - VỐN CHỦ SỞ HỮ'U,D - VỐN CHỦ SỞ HỮ'U,D - VỐN CHỦ SỞ HỮ'U,400,,5.019.430.112.851,3.799.678.961.610,400.0,,5019430112851.0,3799678961610.0
+I. Vốn chủ sở hữu,I. Vốn chủ sở hữu,I. Vốn chủ sở hữu,410,,5.019.430.112.851,3.799.678.961.610,410.0,,5019430112851.0,3799678961610.0
+1. Vốn góp của chủ sở hữu,1. Vốn góp của chủ sở hữu,1. Vốn góp của chủ sở hữu,411,V.23,3.777.483.840.000,2.518.325.090.000,411.0,,3777483840000.0,2518325090000.0
+- Có phiếu phổ thông có quyền biểu quyết,- Có phiếu phổ thông có quyền biểu quyết,- Có phiếu phổ thông có quyền biểu quyết,411a,,3.777.483.840.000,2.518.325.090.000,,,3777483840000.0,2518325090000.0
+- Có phiếu ưu đãi,- Có phiếu ưu đãi,- Có phiếu ưu đãi,411b,,-,-,,,,
+2. Thặng dư vốn cổ phần,- Có phiếu ưu đãi > 2. Thặng dư vốn cổ phần,2. Thặng dư vốn cổ phần,412,V.23,211.326.226.000,211.326.226.000,412.0,,211326226000.0,211326226000.0
+3. Quyền chọn chuyển đổi trái phiếu,- Có phiếu ưu đãi > 3. Quyền chọn chuyển đổi trái phiếu,3. Quyền chọn chuyển đổi trái phiếu,413,,-,-,413.0,,,
+4. Vốn khác của chủ sở hữu,- Có phiếu ưu đãi > 4. Vốn khác của chủ sở hữu,4. Vốn khác của chủ sở hữu,414,,-,-,414.0,,,
+5. Cổ phiếu quỹ,- Có phiếu ưu đãi > 5. Cổ phiếu quỹ,5. Cổ phiếu quỹ,415,,-,-,415.0,,,
+6. Chênh lệch đánh giá lại tài sản,- Có phiếu ưu đãi > 6. Chênh lệch đánh giá lại tài sản,6. Chênh lệch đánh giá lại tài sản,416,,-,-,416.0,,,
+7. Chênh lệch tỷ giá hối đoái,- Có phiếu ưu đãi > 7. Chênh lệch tỷ giá hối đoái,7. Chênh lệch tỷ giá hối đoái,417,,-,-,417.0,,,
+8. Quỹ đầu tư phát triển,- Có phiếu ưu đãi > 8. Quỹ đầu tư phát triển,8. Quỹ đầu tư phát triển,418,V.23,704.578.470.202,593.024.752.659,418.0,,704578470202.0,593024752659.0
+9. Quỹ hỗ trợ sắp xếp doanh nghiệp,- Có phiếu ưu đãi > 9. Quỹ hỗ trợ sắp xếp doanh nghiệp,9. Quỹ hỗ trợ sắp xếp doanh nghiệp,419,,-,-,419.0,,,
+10. Quỹ khác thuộc vốn chủ sở hữu,- Có phiếu ưu đãi > 10. Quỹ khác thuộc vốn chủ sở hữu,10. Quỹ khác thuộc vốn chủ sở hữu,420,,-,-,420.0,,,
+11. Lợi nhuận sau thuế chưa phân phối,- Có phiếu ưu đãi > 11. Lợi nhuận sau thuế chưa phân phối,11. Lợi nhuận sau thuế chưa phân phối,421,V.23,326.041.576.649,477.002.892.951,421.0,,326041576649.0,477002892951.0
+- Lợi nhuận sau thuế chưa phân phối lũy kế đến cuối kỳ trước,- Có phiếu ưu đãi > - Lợi nhuận sau thuế chưa phân phối lũy kế đến cuối kỳ trước,- Lợi nhuận sau thuế chưa phân phối lũy kế đến cuối kỳ trước,421a,,82.433.020.351,477.002.892.951,,,82433020351.0,477002892951.0
+- Lợi nhuận sau thuế chưa phân phối kỳ này,- Có phiếu ưu đãi > - Lợi nhuận sau thuế chưa phân phối kỳ này,- Lợi nhuận sau thuế chưa phân phối kỳ này,421b,,243.608.556.298,-,,,243608556298.0,
+12. Nguồn vốn đầu tư xây dựng cơ bản,- Có phiếu ưu đãi > 12. Nguồn vốn đầu tư xây dựng cơ bản,12. Nguồn vốn đầu tư xây dựng cơ bản,422,,-,-,422.0,,,
+II. Nguồn kinh phí và quỹ khác,- Có phiếu ưu đãi > II. Nguồn kinh phí và quỹ khác,II. Nguồn kinh phí và quỹ khác,430,,-,-,430.0,,,
+1. Nguồn kinh phí,- Có phiếu ưu đãi > 1. Nguồn kinh phí,1. Nguồn kinh phí,431,,-,-,431.0,,,
+2. Nguồn kinh phí đã hình thành tài sản cố định,- Có phiếu ưu đãi > 2. Nguồn kinh phí đã hình thành tài sản cố định,2. Nguồn kinh phí đã hình thành tài sản cố định,432,,-,-,432.0,,,
+TỔNG CỘNG NGUỒN VỐN,- Có phiếu ưu đãi > TỔNG CỘNG NGUỒN VỐN,TỔNG CỘNG NGUỒN VỐN,440,,7.648.825.524.178,6.301.300.678.442,440.0,,7648825524178.0,6301300678442.0

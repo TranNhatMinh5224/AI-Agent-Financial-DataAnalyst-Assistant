@@ -1,0 +1,22 @@
+﻿row_label_raw,row_label_full,col_0,"Nhà cửa, vật kiến trúc","Máy móc, thiết bị","Phương tiện vận tải,truyền dẫn","Thiết bị, dụng cụ quản lý",Cộng,"numeric__Nhà cửa, vật kiến trúc","numeric__Máy móc, thiết bị","numeric__Phương tiện vận tải,truyền dẫn","numeric__Thiết bị, dụng cụ quản lý",numeric__Cộng
+,,,VND,VND,VND,VND,VND,,,,,
+Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,,,,,
+Số dư đầu kỳ,Nguyên giá > Số dư đầu kỳ,Số dư đầu kỳ,7.511.011.520,13.896.793.175,17.378.159.512,261.503.416,39.047.467.623,7511011520.0,13896793175.0,17378159512.0,261503416.0,39047467623.0
+- Mua trong kỳ,Nguyên giá > - Mua trong kỳ,- Mua trong kỳ,205.840.170,-,-,66.560.000,272.400.170,205840170.0,,,66560000.0,272400170.0
+- Tăng theo giá trị định giá,Nguyên giá > - Tăng theo giá trị định giá,- Tăng theo giá trị định giá,4.165.907.405,3.255.912.079,7.294.162.465,-,14.715.981.949,4165907405.0,3255912079.0,7294162465.0,,14715981949.0
+- Giảm theo giá trị định giá,Nguyên giá > - Giảm theo giá trị định giá,- Giảm theo giá trị định giá,(1.135.335.957),(2.622.204.494),(492.178.971),-,(4.249.719.422),-1135335957.0,-2622204494.0,-492178971.0,,-4249719422.0
+- Bàn giao cho Công ty TNHH Quản lý và Đầu tư Dự án Bình Dương (*),Nguyên giá > - Bàn giao cho Công ty TNHH Quản lý và Đầu tư Dự án Bình Dương (*),- Bàn giao cho Công ty TNHH Quản lý và Đầu tư Dự án Bình Dương (*),(2.609.618.356),(702.722.594),(3.121.838.527),-,(6.434.179.477),-2609618356.0,-702722594.0,-3121838527.0,,-6434179477.0
+"- Thanh lý, nhượng bán","Nguyên giá > - Thanh lý, nhượng bán","- Thanh lý, nhượng bán",(582.259.600),(1.515.303.289),(905.268.114),(68.438.643),(3.071.269.646),-582259600.0,-1515303289.0,-905268114.0,-68438643.0,-3071269646.0
+Số dư cuối kỳ,Nguyên giá > Số dư cuối kỳ,Số dư cuối kỳ,7.555.545.182,12.312.474.877,20.153.036.365,259.624.773,40.280.681.197,7555545182.0,12312474877.0,20153036365.0,259624773.0,40280681197.0
+Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,,,,,
+Số dư đầu kỳ,Giá trị hao mòn lũy kế > Số dư đầu kỳ,Số dư đầu kỳ,7.269.862.937,12.125.731.582,12.953.755.804,231.620.843,32.580.971.166,7269862937.0,12125731582.0,12953755804.0,231620843.0,32580971166.0
+- Khấu hao trong kỳ,Giá trị hao mòn lũy kế > - Khấu hao trong kỳ,- Khấu hao trong kỳ,87.390.870,293.004.992,959.608.131,10.098.018,1.350.102.011,87390870.0,293004992.0,959608131.0,10098018.0,1350102011.0
+- Tăng theo giá trị định giá,Giá trị hao mòn lũy kế > - Tăng theo giá trị định giá,- Tăng theo giá trị định giá,732.533.875,255.727.641,3.621.999.102,-,4.610.260.618,732533875.0,255727641.0,3621999102.0,,4610260618.0
+- Giảm theo giá trị định giá,Giá trị hao mòn lũy kế > - Giảm theo giá trị định giá,- Giảm theo giá trị định giá,(1.135.335.957),(2.622.204.494),(500.940.180),(133.333.745),(4.391.814.376),-1135335957.0,-2622204494.0,-500940180.0,-133333745.0,-4391814376.0
+- Bàn giao cho Công ty TNHH Quản lý và Đầu tư Dự án Bình Dương (*),Giá trị hao mòn lũy kế > - Bàn giao cho Công ty TNHH Quản lý và Đầu tư Dự án Bình Dương (*),- Bàn giao cho Công ty TNHH Quản lý và Đầu tư Dự án Bình Dương (*),(2.609.618.356),(702.722.594),(3.121.838.527),-,(6.434.179.477),-2609618356.0,-702722594.0,-3121838527.0,,-6434179477.0
+"- Thanh lý, nhượng bán","Giá trị hao mòn lũy kế > - Thanh lý, nhượng bán","- Thanh lý, nhượng bán",(582.259.600),(1.445.901.048),(905.268.114),(68.438.643),(3.001.867.405),-582259600.0,-1445901048.0,-905268114.0,-68438643.0,-3001867405.0
+Số dư cuối kỳ,Giá trị hao mòn lũy kế > Số dư cuối kỳ,Số dư cuối kỳ,3.762.573.769,7.903.636.079,13.007.316.216,39.946.473,24.713.472.537,3762573769.0,7903636079.0,13007316216.0,39946473.0,24713472537.0
+Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,,,,,
+Tại ngày đầu kỳ,Giá trị còn lại > Tại ngày đầu kỳ,Tại ngày đầu kỳ,241.148.583,1.771.061.593,4.424.403.708,29.882.573,6.466.496.457,241148583.0,1771061593.0,4424403708.0,29882573.0,6466496457.0
+Tại ngày cuối kỳ,Giá trị còn lại > Tại ngày cuối kỳ,Tại ngày cuối kỳ,3.792.971.413,4.408.838.798,7.145.720.149,219.678.300,15.567.208.660,3792971413.0,4408838798.0,7145720149.0,219678300.0,15567208660.0
+Trong đó:,Trong đó:,Trong đó:,Trong đó:,Trong đó:,Trong đó:,Trong đó:,Trong đó:,,,,,

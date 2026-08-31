@@ -1,0 +1,10 @@
+﻿row_label_raw,row_label_full,col_0,Tiền gửi tại NHNN Triệu VND,Tiền gửi và cho vay các TCTD khác Triệu VND,Chứng khoán kinh doanh Triệu VND,Cho vay khách hàng Triệu VND,Chứng khoán đầu tư Triệu VND,Các tài sản tài chính khác Triệu VND,Tổng cộng Triệu VND,numeric__Tiền gửi tại NHNN Triệu VND,numeric__Tiền gửi và cho vay các TCTD khác Triệu VND,numeric__Chứng khoán kinh doanh Triệu VND,numeric__Cho vay khách hàng Triệu VND,numeric__Chứng khoán đầu tư Triệu VND,numeric__Các tài sản tài chính khác Triệu VND,numeric__Tổng cộng Triệu VND
+Chưa quá hạn và chưa bị suy giảm giá trị,Chưa quá hạn và chưa bị suy giảm giá trị,Chưa quá hạn và chưa bị suy giảm giá trị,8.314.574,8.695.488,1.036.829,196.250.658,52.373.092,6.068.119,272.738.760,8314574.0,8695488.0,1036829.0,196250658.0,52373092.0,6068119.0,272738760.0
+Đã quá hạn nhưng chưa bị suy giảm giá trị,Đã quá hạn nhưng chưa bị suy giảm giá trị,Đã quá hạn nhưng chưa bị suy giảm giá trị,-,-,-,247.809,-,-,247.809,,,,247809.0,,,247809.0
+Bị suy giảm giá trị,Bị suy giảm giá trị,Bị suy giảm giá trị,-,400.000,-,2.014.927,40.373,2.150.907,4.606.207,,400000.0,,2014927.0,40373.0,2150907.0,4606207.0
+Trừ: Dự phòng rủi ro,Trừ: Dự phòng rủi ro,Trừ: Dự phòng rủi ro,-,(153.761),(1.068),(1.844.638),(15.101),(1.472.091),(3.486.659),,-153761.0,-1068.0,-1844638.0,-15101.0,-1472091.0,-3486659.0
+Giá trị ròng,Giá trị ròng,Giá trị ròng,8.314.574,8.941.727,1.035.761,196.668.756,52.398.364,6.746.935,274.106.117,8314574.0,8941727.0,1035761.0,196668756.0,52398364.0,6746935.0,274106117.0
+Dự phòng rủi ro,Dự phòng rủi ro,Dự phòng rủi ro,,,,,,,,,,,,,,
+Dự phòng cụ thể,Dự phòng rủi ro > Dự phòng cụ thể,Dự phòng cụ thể,-,(153.761),-,(320.063),-,-,(473.824),,-153761.0,,-320063.0,,,-473824.0
+Dự phòng chung,Dự phòng rủi ro > Dự phòng chung,Dự phòng chung,-,-,-,(1.436.568),(3.845),-,(1.440.413),,,,-1436568.0,-3845.0,,-1440413.0
+Dự phòng rủi ro khác,Dự phòng rủi ro > Dự phòng rủi ro khác,Dự phòng rủi ro khác,-,-,(1.068),(88.007),(11.256),(1.472.091),(1.572.422),,,-1068.0,-88007.0,-11256.0,-1472091.0,-1572422.0

@@ -1,0 +1,22 @@
+﻿row_label_raw,row_label_full,Tại ngày 31 tháng 12 năm 2018,VNDTriệu VND,USDTriệu VND,VàngTriệu VND,EURTriệu VND,Tiền tệ khácTriệu VND,TổngTriệu VND,numeric__VNDTriệu VND,numeric__USDTriệu VND,numeric__VàngTriệu VND,numeric__EURTriệu VND,numeric__Tiền tệ khácTriệu VND,numeric__TổngTriệu VND
+Tài sản,Tài sản,Tài sản,,,,,,,,,,,,
+"Tiền mặt, vàng","Tài sản > Tiền mặt, vàng","Tiền mặt, vàng",1.029.108,624.517,152.692,129.738,420.143,2.356.198,1029108.0,624517.0,152692.0,129738.0,420143.0,2356198.0
+Tiền gửi tại NHNNVN,Tài sản > Tiền gửi tại NHNNVN,Tiền gửi tại NHNNVN,5.898.408,513.717,-,-,-,6.412.125,5898408.0,513717.0,,,,6412125.0
+Tiền gửi và cho vay các tổ chức tín dụng khác,Tài sản > Tiền gửi và cho vay các tổ chức tín dụng khác,Tiền gửi và cho vay các tổ chức tín dụng khác,11.537.834,6.531.385,-,616.020,365.625,19.050.864,11537834.0,6531385.0,,616020.0,365625.0,19050864.0
+Cho vay khách hàng – gộp,Tài sản > Cho vay khách hàng – gộp,Cho vay khách hàng – gộp,94.277.470,9.727.397,29.380,8.330,-,104.042.577,94277470.0,9727397.0,29380.0,8330.0,,104042577.0
+Chứng khoán đầu tư – gộp,Tài sản > Chứng khoán đầu tư – gộp,Chứng khoán đầu tư – gộp,17.173.320,-,-,-,-,17.173.320,17173320.0,,,,,17173320.0
+"Góp vốn, đầu tư dài hạn – gộp","Tài sản > Góp vốn, đầu tư dài hạn – gộp","Góp vốn, đầu tư dài hạn – gộp",110.566,-,-,-,-,110.566,110566.0,,,,,110566.0
+Tài sản cố định,Tài sản > Tài sản cố định,Tài sản cố định,3.558.890,-,-,-,-,3.558.890,3558890.0,,,,,3558890.0
+Tài sản Có khác – gộp,Tài sản > Tài sản Có khác – gộp,Tài sản Có khác – gộp,3.634.572,59.832,77,236,-,3.694.717,3634572.0,59832.0,77.0,236.0,,3694717.0
+Tổng tài sản (1),Tài sản > Tổng tài sản (1),Tổng tài sản (1),137.220.168,17.456.848,182.149,754.324,785.768,156.399.257,137220168.0,17456848.0,182149.0,754324.0,785768.0,156399257.0
+Nợ phải trả và vốn chủ sở hữu,Nợ phải trả và vốn chủ sở hữu,Nợ phải trả và vốn chủ sở hữu,,,,,,,,,,,,
+Các khoản nợ NHNNVN,Nợ phải trả và vốn chủ sở hữu > Các khoản nợ NHNNVN,Các khoản nợ NHNNVN,49.327,-,-,-,-,49.327,49327.0,,,,,49327.0
+Tiền gửi và vay các tổ chức tín dụng khác,Nợ phải trả và vốn chủ sở hữu > Tiền gửi và vay các tổ chức tín dụng khác,Tiền gửi và vay các tổ chức tín dụng khác,4.305.811,11.279.960,-,425.106,187,16.011.064,4305811.0,11279960.0,,425106.0,187.0,16011064.0
+Tiền gửi của khách hàng,Nợ phải trả và vốn chủ sở hữu > Tiền gửi của khách hàng,Tiền gửi của khách hàng,111.842.943,5.963.665,-,317.482,569.779,118.693.869,111842943.0,5963665.0,,317482.0,569779.0,118693869.0
+Các công cụ tài chính phải sinh và khoản nợ tài chính khác,Nợ phải trả và vốn chủ sở hữu > Các công cụ tài chính phải sinh và khoản nợ tài chính khác,Các công cụ tài chính phải sinh và khoản nợ tài chính khác,(4.377.720),4.368.515,-,-,68.463,59.258,-4377720.0,4368515.0,,,68463.0,59258.0
+Các khoản nợ khác,Nợ phải trả và vốn chủ sở hữu > Các khoản nợ khác,Các khoản nợ khác,2.704.465,244.134,-,3.698,2.714,2.955.011,2704465.0,244134.0,,3698.0,2714.0,2955011.0
+Vốn chủ sở hữu,Nợ phải trả và vốn chủ sở hữu > Vốn chủ sở hữu,Vốn chủ sở hữu,14.883.534,-,-,-,-,14.883.534,14883534.0,,,,,14883534.0
+Tổng nợ phải trả và vốn chủ sở hữu (2),Nợ phải trả và vốn chủ sở hữu > Tổng nợ phải trả và vốn chủ sở hữu (2),Tổng nợ phải trả và vốn chủ sở hữu (2),129.408.360,21.856.274,-,746.286,641.143,152.652.063,129408360.0,21856274.0,,746286.0,641143.0,152652063.0
+Trạng thái tiền tệ nội bằng [(3)=(1)-(2)],Nợ phải trả và vốn chủ sở hữu > Trạng thái tiền tệ nội bằng [(3)=(1)-(2)],Trạng thái tiền tệ nội bằng [(3)=(1)-(2)],7.811.808,(4.399.426),182.149,8.038,144.625,3.747.194,7811808.0,-4399426.0,182149.0,8038.0,144625.0,3747194.0
+Trạng thái tiền tệ ngoại bằng (4),Nợ phải trả và vốn chủ sở hữu > Trạng thái tiền tệ ngoại bằng (4),Trạng thái tiền tệ ngoại bằng (4),(3.024.354),3.202.262,(18.939),(8.767),(142.187),8.015,-3024354.0,3202262.0,-18939.0,-8767.0,-142187.0,8015.0
+"Trạng thái tiền tệ nội, ngoại bằng [(5)=(3)+(4)]","Nợ phải trả và vốn chủ sở hữu > Trạng thái tiền tệ nội, ngoại bằng [(5)=(3)+(4)]","Trạng thái tiền tệ nội, ngoại bằng [(5)=(3)+(4)]",4.787.454,(1.197.164),163.210,(729),2.438,3.755.209,4787454.0,-1197164.0,163210.0,-729.0,2438.0,3755209.0

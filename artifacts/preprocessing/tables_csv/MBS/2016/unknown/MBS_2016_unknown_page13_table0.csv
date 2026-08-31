@@ -1,0 +1,11 @@
+﻿row_label_raw,row_label_full,col_0,Chỉ tiêu,Mã số,Thuyết minh,2016 VND,2015 VND (phân loại lại),numeric__Chỉ tiêu,numeric__Mã số,numeric__Thuyết minh,numeric__2016 VND,numeric__2015 VND (phân loại lại)
+III,III,III,DOANH THU HOẠT ĐỘNG TÀI CHÍNH,DOANH THU HOẠT ĐỘNG TÀI CHÍNH,DOANH THU HOẠT ĐỘNG TÀI CHÍNH,DOANH THU HOẠT ĐỘNG TÀI CHÍNH,DOANH THU HOẠT ĐỘNG TÀI CHÍNH,,,,,
+3.2.,III > 3.2.,3.2.,"Doanh thu, dự thu cổ tức, lãi tiền gửi ngân hàng không cổ định",42,26,2.083.690.733,591.371.776,,42.0,26.0,2083690733.0,591371776.0
+3.2.,III > 3.2.,3.2.,Cộng doanh thu hoạt động tài chính (50 = 42),50,,2.083.690.733,591.371.776,,50.0,,2083690733.0,591371776.0
+IV.,IV.,IV.,CHI PHÍ TÀI CHÍNH,CHI PHÍ TÀI CHÍNH,CHI PHÍ TÀI CHÍNH,CHI PHÍ TÀI CHÍNH,CHI PHÍ TÀI CHÍNH,,,,,
+4.2.,IV. > 4.2.,4.2.,Chi phí lãi vay,52,,116.206.925.002,86.117.776.530,,52.0,,116206925002.0,86117776530.0
+4.5.,IV. > 4.5.,4.5.,Chi phí tài chính khác,55,,4.097.475.145,240.437.158,,55.0,,4097475145.0,240437158.0
+4.5.,IV. > 4.5.,4.5.,Cộng chi phí tài chính (60 = 52 → 55),60,,120.304.400.147,86.358.213.688,,60.0,,120304400147.0,86358213688.0
+V.,IV. > V.,V.,CHI PHÍ BÁN HÀNG,61,27,1.791.642.913,1.469.329.767,,61.0,27.0,1791642913.0,1469329767.0
+VI.,IV. > VI.,VI.,CHI PHÍ QUẢN LÝ CÔNG TY CHỨNG KHOÁN,62,28,58.313.417.217,43.689.409.066,,62.0,28.0,58313417217.0,43689409066.0
+VII.,IV. > VII.,VII.,KẾT QUẢ HOẠT ĐỘNG (70 = 20 + 50 - 40 - 60 - 61 - 62),70,,16.357.948.661,8.747.183.216,,70.0,,16357948661.0,8747183216.0

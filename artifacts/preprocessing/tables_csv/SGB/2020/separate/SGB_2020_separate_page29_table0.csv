@@ -1,0 +1,26 @@
+﻿row_label_raw,row_label_full,col_0,Dự phòng chung,Dự phòng cụ thể,numeric__Dự phòng chung,numeric__Dự phòng cụ thể
+Năm nay,Năm nay,Năm nay,Năm nay,Năm nay,,
+Số đầu năm nay,Năm nay > Số đầu năm nay,Số đầu năm nay,(106.499),(8.155),-106499.0,-8155.0
+Dự phòng rủi ro (trich lập) trong năm nay,Năm nay > Dự phòng rủi ro (trich lập) trong năm nay,Dự phòng rủi ro (trich lập) trong năm nay,(624),(44.573),-624.0,-44573.0
+Sử dụng dự phòng trong năm nay,Năm nay > Sử dụng dự phòng trong năm nay,Sử dụng dự phòng trong năm nay,-,43.086,,43086.0
+Số cuối năm nay,Năm nay > Số cuối năm nay,Số cuối năm nay,(107.123),(9.642),-107123.0,-9642.0
+Năm trước,Năm trước,Năm trước,Năm trước,Năm trước,,
+Số đầu năm trước,Năm trước > Số đầu năm trước,Số đầu năm trước,(102.622),(8.922),-102622.0,-8922.0
+Dự phòng rủi ro (trich lập) trong năm trước,Năm trước > Dự phòng rủi ro (trich lập) trong năm trước,Dự phòng rủi ro (trich lập) trong năm trước,(3.877),(21.791),-3877.0,-21791.0
+Sử dụng dự phòng trong năm trước,Năm trước > Sử dụng dự phòng trong năm trước,Sử dụng dự phòng trong năm trước,-,22.558,,22558.0
+Số cuối năm trước,Năm trước > Số cuối năm trước,Số cuối năm trước,(106.499),(8.155),-106499.0,-8155.0
+Chỉ tiết số dư dự phòng,Chỉ tiết số dư dự phòng,Chỉ tiết số dư dự phòng,Chỉ tiết số dư dự phòng,Chỉ tiết số dư dự phòng,,
+,,,Số cuối năm,Số đầu năm,,
+Dự phòng rủi ro cho vay khách hàng:,Dự phòng rủi ro cho vay khách hàng:,Dự phòng rủi ro cho vay khách hàng:,Dự phòng rủi ro cho vay khách hàng:,Dự phòng rủi ro cho vay khách hàng:,,
+Dự phòng chung,Dự phòng rủi ro cho vay khách hàng: > Dự phòng chung,Dự phòng chung,(107.123),(106.499),-107123.0,-106499.0
+Dự phòng cụ thể,Dự phòng rủi ro cho vay khách hàng: > Dự phòng cụ thể,Dự phòng cụ thể,(9.642),(8.155),-9642.0,-8155.0
+Cộng,Dự phòng rủi ro cho vay khách hàng: > Cộng,Cộng,(116.765),(114.654),-116765.0,-114654.0
+Chứng khoán đầu tư giữ đến ngày đáo hạn,Chứng khoán đầu tư giữ đến ngày đáo hạn,Chứng khoán đầu tư giữ đến ngày đáo hạn,Chứng khoán đầu tư giữ đến ngày đáo hạn,Chứng khoán đầu tư giữ đến ngày đáo hạn,,
+,,,Số cuối năm,Số đầu năm,,
+Chứng khoán đầu tư giữ đến ngày đáo hạn (không bao gồm trái phiếu đặc biệt do VAMC phát hành),Chứng khoán đầu tư giữ đến ngày đáo hạn > Chứng khoán đầu tư giữ đến ngày đáo hạn (không bao gồm trái phiếu đặc biệt do VAMC phát hành),Chứng khoán đầu tư giữ đến ngày đáo hạn (không bao gồm trái phiếu đặc biệt do VAMC phát hành),-,250.000,,250000.0
+Chứng khoán nợ,Chứng khoán nợ,Chứng khoán nợ,Chứng khoán nợ,Chứng khoán nợ,,
+Trái phiếu Chính phủ\( ^{(1)} \),Chứng khoán nợ > Trái phiếu Chính phủ\( ^{(1)} \),Trái phiếu Chính phủ\( ^{(1)} \),-,250.000,,250000.0
+Trái phiếu đặc biệt do VAMC phát hành,Chứng khoán nợ > Trái phiếu đặc biệt do VAMC phát hành,Trái phiếu đặc biệt do VAMC phát hành,522.403,569.628,522403.0,569628.0
+Mệnh giá trái phiếu đặc biệt\( ^{(ii)} \),Chứng khoán nợ > Mệnh giá trái phiếu đặc biệt\( ^{(ii)} \),Mệnh giá trái phiếu đặc biệt\( ^{(ii)} \),752.229,800.857,752229.0,800857.0
+Dự phòng trái phiếu đặc biệt\( ^{(iii)} \),Chứng khoán nợ > Dự phòng trái phiếu đặc biệt\( ^{(iii)} \),Dự phòng trái phiếu đặc biệt\( ^{(iii)} \),(229.826),(231.229),-229826.0,-231229.0
+Cộng chứng khoán đầu tư giữ đến ngày đáo hạn,Chứng khoán nợ > Cộng chứng khoán đầu tư giữ đến ngày đáo hạn,Cộng chứng khoán đầu tư giữ đến ngày đáo hạn,522.403,819.628,522403.0,819628.0

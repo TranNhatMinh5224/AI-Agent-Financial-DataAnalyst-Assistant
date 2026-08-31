@@ -1,0 +1,20 @@
+﻿row_label_raw,row_label_full,col_0,Quá hạn,Không chịu lãi,Dưới 1 tháng,Từ 1 – 3 tháng,Từ 3 – 6 tháng,Từ 6 – 12 tháng,Từ 1 – 5 năm,Trên 5 năm,Cộng,numeric__Quá hạn,numeric__Không chịu lãi,numeric__Dưới 1 tháng,numeric__Từ 1 – 3 tháng,numeric__Từ 3 – 6 tháng,numeric__Từ 6 – 12 tháng,numeric__Từ 1 – 5 năm,numeric__Trên 5 năm,numeric__Cộng
+Tài sản,Tài sản,Tài sản,,,,,,,,,,,,,,,,,,
+"Tiền mặt vàng bạc, đá quý","Tài sản > Tiền mặt vàng bạc, đá quý","Tiền mặt vàng bạc, đá quý",-,602.139,-,-,-,-,-,-,602.139,,602139.0,,,,,,,602139.0
+Tiền gửi tại NHNN,Tài sản > Tiền gửi tại NHNN,Tiền gửi tại NHNN,-,-,5.803.001,-,-,-,-,-,5.803.001,,,5803001.0,,,,,,5803001.0
+Tiền gửi tại và cho vay các TCTD khác (*),Tài sản > Tiền gửi tại và cho vay các TCTD khác (*),Tiền gửi tại và cho vay các TCTD khác (*),-,-,16.164.800,-,-,-,-,-,16.164.800,,,16164800.0,,,,,,16164800.0
+Cho vay khách hàng (*),Tài sản > Cho vay khách hàng (*),Cho vay khách hàng (*),2.168.832,-,4.588.919,10.513.353,9.101.948,14.297.307,24.476.364,6.440.979,71.587.702,2168832.0,,4588919.0,10513353.0,9101948.0,14297307.0,24476364.0,6440979.0,71587702.0
+Công cụ tài chính phải sinh và các tài sản tài chính khác (*),Tài sản > Công cụ tài chính phải sinh và các tài sản tài chính khác (*),Công cụ tài chính phải sinh và các tài sản tài chính khác (*),-,-,224.532,-,-,-,-,-,224.532,,,224532.0,,,,,,224532.0
+Chứng khoán đầu tư (*),Tài sản > Chứng khoán đầu tư (*),Chứng khoán đầu tư (*),-,-,-,-,-,-,-,3.013.321,3.013.321,,,,,,,,3013321.0,3013321.0
+Tài sản cố định,Tài sản > Tài sản cố định,Tài sản cố định,-,1.382.212,-,-,-,-,-,-,1.382.212,,1382212.0,,,,,,,1382212.0
+Các tài sản Có khác (*),Tài sản > Các tài sản Có khác (*),Các tài sản Có khác (*),60.214,5.768.895,-,-,-,-,-,-,5.829.109,60214.0,5768895.0,,,,,,,5829109.0
+Tổng tài sản,Tài sản > Tổng tài sản,Tổng tài sản,2.229.046,7.753.246,26.781.252,10.513.353,9.101.948,14.297.307,24.476.364,9.454.300,104.606.816,2229046.0,7753246.0,26781252.0,10513353.0,9101948.0,14297307.0,24476364.0,9454300.0,104606816.0
+Nợ phải trả,Nợ phải trả,Nợ phải trả,,,,,,,,,,,,,,,,,,
+Tiền gửi và vay NHNN và các TCTD khác,Nợ phải trả > Tiền gửi và vay NHNN và các TCTD khác,Tiền gửi và vay NHNN và các TCTD khác,-,-,15.867.227,-,-,-,7.601,609,15.875.437,,,15867227.0,,,,7601.0,609.0,15875437.0
+Tiền gửi của khách hàng,Nợ phải trả > Tiền gửi của khách hàng,Tiền gửi của khách hàng,-,-,18.183.770,15.344.131,14.451.626,9.096.893,14.927.009,6.980,72.010.409,,,18183770.0,15344131.0,14451626.0,9096893.0,14927009.0,6980.0,72010409.0
+Phát hành giấy tờ có giá,Nợ phải trả > Phát hành giấy tờ có giá,Phát hành giấy tờ có giá,-,-,-,-,-,-,66.537,3.408.588,3.475.125,,,,,,,66537.0,3408588.0,3475125.0
+Các khoản nợ khác,Nợ phải trả > Các khoản nợ khác,Các khoản nợ khác,-,3.525.215,-,-,-,-,-,-,3.525.215,,3525215.0,,,,,,,3525215.0
+Tổng nợ phải trả,Nợ phải trả > Tổng nợ phải trả,Tổng nợ phải trả,-,3.525.215,34.050.997,15.344.131,14.451.626,9.096.893,15.001.147,3.416.177,94.886.186,,3525215.0,34050997.0,15344131.0,14451626.0,9096893.0,15001147.0,3416177.0,94886186.0
+Mức chênh nhạy cảm với lãi suất – nội bằng,Nợ phải trả > Mức chênh nhạy cảm với lãi suất – nội bằng,Mức chênh nhạy cảm với lãi suất – nội bằng,2.229.046,4.228.031,(7.269.745),(4.830.778),(5.349.678),5.200.414,9.475.217,6.038.123,9.720.630,2229046.0,4228031.0,-7269745.0,-4830778.0,-5349678.0,5200414.0,9475217.0,6038123.0,9720630.0
+Các cam kết ngoại bảng có tác động tới mức độ nhạy cảm với Lãi suất của các Tài sản và công nợ (ròng),Nợ phải trả > Các cam kết ngoại bảng có tác động tới mức độ nhạy cảm với Lãi suất của các Tài sản và công nợ (ròng),Các cam kết ngoại bảng có tác động tới mức độ nhạy cảm với Lãi suất của các Tài sản và công nợ (ròng),-,(5.723.077),-,-,-,-,-,-,(5.723.077),,-5723077.0,,,,,,,-5723077.0
+"Mức chênh nhạy cảm với lãi suất nội, ngoại bảng","Nợ phải trả > Mức chênh nhạy cảm với lãi suất nội, ngoại bảng","Mức chênh nhạy cảm với lãi suất nội, ngoại bảng",2.229.046,(1.495.046),(7.269.745),(4.830.778),(5.349.678),5.200.414,9.475.217,6.038.123,3.997.553,2229046.0,-1495046.0,-7269745.0,-4830778.0,-5349678.0,5200414.0,9475217.0,6038123.0,3997553.0

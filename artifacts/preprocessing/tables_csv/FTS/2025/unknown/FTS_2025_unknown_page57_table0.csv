@@ -1,0 +1,43 @@
+﻿row_label_raw,row_label_full,Items,Codes,Notes,Ending balance,Opening balance,numeric__Codes,numeric__Notes,numeric__Ending balance,numeric__Opening balance
+A,A,A,B,C,1,2,,,1.0,2.0
+A. CURRENT ASSETS (100 = 110 + 130),A. CURRENT ASSETS (100 = 110 + 130),A. CURRENT ASSETS (100 = 110 + 130),100,,13.750.838.979.456,9.580.161.791.615,100.0,,13750838979456.0,9580161791615.0
+I. Financial assets,I. Financial assets,I. Financial assets,110,,13.746.420.453.894,9.574.610.342.486,110.0,,13746420453894.0,9574610342486.0
+1. Cash and cash equivalents,1. Cash and cash equivalents,1. Cash and cash equivalents,111,A.7.1,2.913.630.824.055,565.564.523.996,111.0,,2913630824055.0,565564523996.0
+1.1. Cash on hand,1.1. Cash on hand,1.1. Cash on hand,111.1,,1.563.630.824.055,155.685.498.972,1111.0,,1563630824055.0,155685498972.0
+1.2. Cash equivalents,1.2. Cash equivalents,1.2. Cash equivalents,111.2,,1.350.000.000.000,409.879.025.024,1112.0,,1350000000000.0,409879025024.0
+2. Financial Assets at Fair Value through Profit and Loss (FVTPL),2. Financial Assets at Fair Value through Profit and Loss (FVTPL),2. Financial Assets at Fair Value through Profit and Loss (FVTPL),112,A.7.3.1,2.508.787.157.290,1.914.035.124.647,112.0,,2508787157290.0,1914035124647.0
+4. Loans,4. Loans,4. Loans,114,A.7.3.2,8.248.145.852.555,7.068.146.259.915,114.0,,8248145852555.0,7068146259915.0
+6. Provision for impairment of financial and collateral assets,6. Provision for impairment of financial and collateral assets,6. Provision for impairment of financial and collateral assets,116,A.7.4,(10.885.616.176),(10.885.616.176),116.0,,-10885616176.0,-10885616176.0
+7. Receivables,7. Receivables,7. Receivables,117,,82.694.785.252,32.363.945.074,117.0,,82694785252.0,32363945074.0
+7.1. Receivable to sell the financial assets,7.1. Receivable to sell the financial assets,7.1. Receivable to sell the financial assets,117.1,,,,1171.0,,,
+7.2. Receivables and accrual from dividend and interest income,7.2. Receivables and accrual from dividend and interest income,7.2. Receivables and accrual from dividend and interest income,117.2,A.7.5.1,82.694.785.252,32.363.945.074,1172.0,,82694785252.0,32363945074.0
+7.2.1. Receivables from dividend and interest on the date of receipt,7.2.1. Receivables from dividend and interest on the date of receipt,7.2.1. Receivables from dividend and interest on the date of receipt,117.3,,305.030.975,72.835.969,1173.0,,305030975.0,72835969.0
+7.2.2. Accrual from dividend and interest is not the date of receipt,7.2.2. Accrual from dividend and interest is not the date of receipt,7.2.2. Accrual from dividend and interest is not the date of receipt,117.4,,82.389.754.277,32.291.109.105,1174.0,,82389754277.0,32291109105.0
+8. Advances to suppliers,8. Advances to suppliers,8. Advances to suppliers,118,,679.500.760,2.241.349.233,118.0,,679500760.0,2241349233.0
+9. Receivables from services provided by the Company,9. Receivables from services provided by the Company,9. Receivables from services provided by the Company,119,A.7.5.2,2.015.523.494,2.257.938.624,119.0,,2015523494.0,2257938624.0
+12. Other receivables,12. Other receivables,12. Other receivables,122,A.7.5.4,1.551.836.664,1.060.292.143,122.0,,1551836664.0,1060292143.0
+13. Provision for impairment of receivables,13. Provision for impairment of receivables,13. Provision for impairment of receivables,129,A.7.6,(199.410.000),(173.475.000),129.0,,-199410000.0,-173475000.0
+II. Other current assets,II. Other current assets,II. Other current assets,130,,4.418.525.562,5.551.449.129,130.0,,4418525562.0,5551449129.0
+1. Advance payment,1. Advance payment,1. Advance payment,131,,,,131.0,,,
+"2. Office supplies, tools, instruments","2. Office supplies, tools, instruments","2. Office supplies, tools, instruments",132,A.7.7,1.032.362.460,1.334.990.049,132.0,,1032362460.0,1334990049.0
+3. Short-term prepaid expenses,3. Short-term prepaid expenses,3. Short-term prepaid expenses,133,A.7.8a,2.396.437.017,3.143.226.089,133.0,,2396437017.0,3143226089.0
+"4. Mortgages, collateral, short-term deposits","4. Mortgages, collateral, short-term deposits","4. Mortgages, collateral, short-term deposits",134,,8.800.000,80.800.000,134.0,,8800000.0,80800000.0
+5. Value-added tax deductible,5. Value-added tax deductible,5. Value-added tax deductible,135,,,519.111,135.0,,,519111.0
+6. Taxes and receivables of the State,6. Taxes and receivables of the State,6. Taxes and receivables of the State,136,,980.926.085,991.913.880,136.0,,980926085.0,991913880.0
+B. NON-CURRENT ASSETS (200 = 210 + 220 + 230 + 240 + 250 - 260),B. NON-CURRENT ASSETS (200 = 210 + 220 + 230 + 240 + 250 - 260),B. NON-CURRENT ASSETS (200 = 210 + 220 + 230 + 240 + 250 - 260),200,,168.842.075.462,179.399.308.818,200.0,,168842075462.0,179399308818.0
+I. Long-term financial assets,I. Long-term financial assets,I. Long-term financial assets,210,,,,210.0,,,
+II. Fixed assets,II. Fixed assets,II. Fixed assets,220,,132.796.703.401,142.596.719.735,220.0,,132796703401.0,142596719735.0
+1. Tangible fixed assets,1. Tangible fixed assets,1. Tangible fixed assets,221,A.7.10,113.103.635.393,122.365.384.893,221.0,,113103635393.0,122365384893.0
+- Cost,- Cost,- Cost,222,,263.837.973.219,262.174.298.013,222.0,,263837973219.0,262174298013.0
+- Accumulated depreciation,- Accumulated depreciation,- Accumulated depreciation,223a,,(150.734.337.826),(139.808.913.120),,,-150734337826.0,-139808913120.0
+2. Financial lease assets,2. Financial lease assets,2. Financial lease assets,224,,,,224.0,,,
+3. Intangible fixed assets,3. Intangible fixed assets,3. Intangible fixed assets,227,A.7.11,19.693.068.008,20.231.334.842,227.0,,19693068008.0,20231334842.0
+- Cost,- Cost,- Cost,228,,44.912.945.438,44.912.945.438,228.0,,44912945438.0,44912945438.0
+- Accumulated depreciation,- Accumulated depreciation,- Accumulated depreciation,229a,,(25.219.877.430),(24.681.610.596),,,-25219877430.0,-24681610596.0
+IV. Construction in progress,IV. Construction in progress,IV. Construction in progress,240,,,,240.0,,,
+V. Other non-current assets,V. Other non-current assets,V. Other non-current assets,250,,36.045.372.061,36.802.589.083,250.0,,36045372061.0,36802589083.0
+"1. Mortgages, collateral, long - term deposits","1. Mortgages, collateral, long - term deposits","1. Mortgages, collateral, long - term deposits",251,,923.099.800,1.221.270.570,251.0,,923099800.0,1221270570.0
+2. Long-term prepaid expenses,2. Long-term prepaid expenses,2. Long-term prepaid expenses,252,A.7.8b,5.046.824.671,5.525.991.266,252.0,,5046824671.0,5525991266.0
+4. Payment for Settlement Assistance Fund,4. Payment for Settlement Assistance Fund,4. Payment for Settlement Assistance Fund,254,A.7.9,30.075.447.590,30.055.327.247,254.0,,30075447590.0,30055327247.0
+VI. Provision for impairment of long-term assets,VI. Provision for impairment of long-term assets,VI. Provision for impairment of long-term assets,260,,,,260.0,,,
+TOTAL ASSETS (270 = 100 + 200),TOTAL ASSETS (270 = 100 + 200),TOTAL ASSETS (270 = 100 + 200),270,,13.919.681.054.918,9.759.561.100.433,270.0,,13919681054918.0,9759561100433.0

@@ -1,0 +1,18 @@
+﻿row_label_raw,row_label_full,col_0,Năm 2015,Năm 2014,numeric__Năm 2015,numeric__Năm 2014
+,,,Triệu VND,Triệu VND,,
+Thu nhập từ hoạt động kinh doanh trước thuế,Thu nhập từ hoạt động kinh doanh trước thuế,Thu nhập từ hoạt động kinh doanh trước thuế,7.643.082,6.055.998,7643082.0,6055998.0
+Trừ:,Trừ:,Trừ:,,,,
+Thu nhập từ cổ tức không chịu thuế,Trừ: > Thu nhập từ cổ tức không chịu thuế,Thu nhập từ cổ tức không chịu thuế,(324.725),(237.526),-324725.0,-237526.0
+Khoản lỗ của MHB được trừ khi tính thuế,Trừ: > Khoản lỗ của MHB được trừ khi tính thuế,Khoản lỗ của MHB được trừ khi tính thuế,(368.987),-,-368987.0,
+Cộng:,Cộng:,Cộng:,,,,
+Chi phí khác không được khấu trừ thuế,Cộng: > Chi phí khác không được khấu trừ thuế,Chi phí khác không được khấu trừ thuế,38.825,591,38825.0,591.0
+Thu nhập chịu thuế TNDN,Cộng: > Thu nhập chịu thuế TNDN,Thu nhập chịu thuế TNDN,6.988.195,5.819.063,6988195.0,5819063.0
+Thuế suất thuế TNDN,Cộng: > Thuế suất thuế TNDN,Thuế suất thuế TNDN,22%,22%,0.22,0.22
+Chi phí thuế TNDN theo thuế suất,Cộng: > Chi phí thuế TNDN theo thuế suất,Chi phí thuế TNDN theo thuế suất,1.537.403,1.280.194,1537403.0,1280194.0
+Thuế TNDN trong năm,Cộng: > Thuế TNDN trong năm,Thuế TNDN trong năm,1.537.403,1.280.194,1537403.0,1280194.0
+Thuế TNDN phải trả đầu năm,Cộng: > Thuế TNDN phải trả đầu năm,Thuế TNDN phải trả đầu năm,353.888,947.504,353888.0,947504.0
+Điều chỉnh thuế TNDN theo Công văn của Bộ Tài chính,Cộng: > Điều chỉnh thuế TNDN theo Công văn của Bộ Tài chính,Điều chỉnh thuế TNDN theo Công văn của Bộ Tài chính,-,(390.404),,-390404.0
+Tăng thuế TNDN phải nộp sau kết quả của kiểm toán Nhà nước,Cộng: > Tăng thuế TNDN phải nộp sau kết quả của kiểm toán Nhà nước,Tăng thuế TNDN phải nộp sau kết quả của kiểm toán Nhà nước,4.682,-,4682.0,
+Nộp bổ sung theo quyết toàn thuế,Cộng: > Nộp bổ sung theo quyết toàn thuế,Nộp bổ sung theo quyết toàn thuế,998,-,998.0,
+Thuế TNDN đã trả trong năm,Cộng: > Thuế TNDN đã trả trong năm,Thuế TNDN đã trả trong năm,(1.694.146),(1.483.406),-1694146.0,-1483406.0
+Thuế TNDN phải trả thuần cuối năm,Cộng: > Thuế TNDN phải trả thuần cuối năm,Thuế TNDN phải trả thuần cuối năm,202.825,353.888,202825.0,353888.0

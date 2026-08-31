@@ -1,0 +1,14 @@
+﻿row_label_raw,row_label_full,CHỈ TIÊU,EUR quy đổi > Triệu VND,USD quy đổi > Triệu VND,Các loại tiền tệ khác được quy đổi > Triệu VND,Tổng > Triệu VND,numeric__EUR quy đổi > Triệu VND,numeric__USD quy đổi > Triệu VND,numeric__Các loại tiền tệ khác được quy đổi > Triệu VND,numeric__Tổng > Triệu VND
+Tài sản,Tài sản,Tài sản,Tài sản,Tài sản,Tài sản,Tài sản,,,,
+Tiền mặt,Tài sản > Tiền mặt,Tiền mặt,105,127,-,232,105.0,127.0,,232.0
+Tiền gửi tại NHNN,Tài sản > Tiền gửi tại NHNN,Tiền gửi tại NHNN,-,23,-,23,,23.0,,23.0
+Tiền gửi tại và cho vay các TCTD khác (*),Tài sản > Tiền gửi tại và cho vay các TCTD khác (*),Tiền gửi tại và cho vay các TCTD khác (*),3.371,1.723.207,112,1.726.690,3371.0,1723207.0,112.0,1726690.0
+Cho vay khách hàng (*),Tài sản > Cho vay khách hàng (*),Cho vay khách hàng (*),-,4.020.350,-,4.020.350,,4020350.0,,4020350.0
+Tài sản Có khác (*),Tài sản > Tài sản Có khác (*),Tài sản Có khác (*),31,136.023,1.901,137.955,31.0,136023.0,1901.0,137955.0
+Tổng tài sản,Tài sản > Tổng tài sản,Tổng tài sản,3.507,5.879.730,2.013,5.885.250,3507.0,5879730.0,2013.0,5885250.0
+Nợ phải trả,Nợ phải trả,Nợ phải trả,Nợ phải trả,Nợ phải trả,Nợ phải trả,Nợ phải trả,,,,
+Tiền gửi và vay các TCTD khác,Nợ phải trả > Tiền gửi và vay các TCTD khác,Tiền gửi và vay các TCTD khác,-,1.494.465,-,1.494.465,,1494465.0,,1494465.0
+"Vốn tài trợ, ủy thác đầu tư, cho vay TCTD chịu rủi ro","Nợ phải trả > Vốn tài trợ, ủy thác đầu tư, cho vay TCTD chịu rủi ro","Vốn tài trợ, ủy thác đầu tư, cho vay TCTD chịu rủi ro",-,4.242.883,-,4.242.883,,4242883.0,,4242883.0
+Các khoản nợ khác (*),Nợ phải trả > Các khoản nợ khác (*),Các khoản nợ khác (*),-,72.125,-,72.125,,72125.0,,72125.0
+Tổng Nợ phải trả,Nợ phải trả > Tổng Nợ phải trả,Tổng Nợ phải trả,-,5.809.473,-,5.809.473,,5809473.0,,5809473.0
+Trạng thái tiền tệ nội bảng,Nợ phải trả > Trạng thái tiền tệ nội bảng,Trạng thái tiền tệ nội bảng,3.507,70.257,2.013,75.777,3507.0,70257.0,2013.0,75777.0

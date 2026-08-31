@@ -1,0 +1,16 @@
+﻿row_label_raw,row_label_full,col_0,Quyền sử dụng đất,Phần mềm kế toán,Cộng,numeric__Quyền sử dụng đất,numeric__Phần mềm kế toán,numeric__Cộng
+,,,VND,VND,VND,,,
+Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,,,
+Số dư đầu năm,Nguyên giá > Số dư đầu năm,Số dư đầu năm,582.514.858.131,3.214.034.009,585.728.892.140,582514858131.0,3214034009.0,585728892140.0
+- Mua trong năm,Nguyên giá > - Mua trong năm,- Mua trong năm,-,471.175.000,471.175.000,,471175000.0,471175000.0
+"- Thanh lý, nhượng bán","Nguyên giá > - Thanh lý, nhượng bán","- Thanh lý, nhượng bán",(71.458.770),-,(71.458.770),-71458770.0,,-71458770.0
+- Chênh lệch tỷ giá do chuyển đổi báo cáo tài chính,Nguyên giá > - Chênh lệch tỷ giá do chuyển đổi báo cáo tài chính,- Chênh lệch tỷ giá do chuyển đổi báo cáo tài chính,(5.445.000),-,(5.445.000),-5445000.0,,-5445000.0
+Số dư cuối năm,Nguyên giá > Số dư cuối năm,Số dư cuối năm,582.437.954.361,3.685.209.009,586.123.163.370,582437954361.0,3685209009.0,586123163370.0
+Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,,,
+Số dư đầu năm,Giá trị hao mòn lũy kế > Số dư đầu năm,Số dư đầu năm,29.867.286.904,2.023.984.708,31.891.271.612,29867286904.0,2023984708.0,31891271612.0
+- Khấu hao trong năm,Giá trị hao mòn lũy kế > - Khấu hao trong năm,- Khấu hao trong năm,23.549.339.064,360.016.439,23.909.355.503,23549339064.0,360016439.0,23909355503.0
+"- Thanh lý, nhượng bán","Giá trị hao mòn lũy kế > - Thanh lý, nhượng bán","- Thanh lý, nhượng bán",(28.743.839),-,(28.743.839),-28743839.0,,-28743839.0
+Số dư cuối năm,Giá trị hao mòn lũy kế > Số dư cuối năm,Số dư cuối năm,53.387.882.129,2.384.001.147,55.771.883.276,53387882129.0,2384001147.0,55771883276.0
+Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,,,
+Tại ngày đầu năm,Giá trị còn lại > Tại ngày đầu năm,Tại ngày đầu năm,552.647.571.227,1.190.049.301,553.837.620.528,552647571227.0,1190049301.0,553837620528.0
+Tại ngày cuối năm,Giá trị còn lại > Tại ngày cuối năm,Tại ngày cuối năm,529.050.072.232,1.301.207.862,530.351.280.094,529050072232.0,1301207862.0,530351280094.0

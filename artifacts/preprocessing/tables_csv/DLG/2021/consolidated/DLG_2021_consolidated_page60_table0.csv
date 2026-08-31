@@ -1,0 +1,17 @@
+﻿row_label_raw,row_label_full,col_0,Mã số,Số liệu trước điều chỉnh,Các điều chỉnh,Số liệu sau điều chỉnh,numeric__Mã số,numeric__Số liệu trước điều chỉnh,numeric__Các điều chỉnh,numeric__Số liệu sau điều chỉnh
+,,,(1),(2),(3),(2)+(3),-1.0,-2.0,-3.0,
+Băng cân đối kế toán,Băng cân đối kế toán,Băng cân đối kế toán,Băng cân đối kế toán,Băng cân đối kế toán,Băng cân đối kế toán,Băng cân đối kế toán,,,,
+Tài sản,Tài sản,Tài sản,Tài sản,Tài sản,Tài sản,Tài sản,,,,
+- Đầu tư nằm giữ đến ngày đáo hạn,Tài sản > - Đầu tư nằm giữ đến ngày đáo hạn,- Đầu tư nằm giữ đến ngày đáo hạn,123,-,50.000.000.000,50.000.000.000,123.0,,50000000000.0,50000000000.0
+- Phải thu ngắn hạn của khách hàng,Tài sản > - Phải thu ngắn hạn của khách hàng,- Phải thu ngắn hạn của khách hàng,131,813.423.192.266,(15.000.000.000),798.423.192.266,131.0,813423192266.0,-15000000000.0,798423192266.0
+- Dự phòng nợ phải thu ngắn hạn khó đòi,Tài sản > - Dự phòng nợ phải thu ngắn hạn khó đòi,- Dự phòng nợ phải thu ngắn hạn khó đòi,231,(431.855.179.822),(17.572.750.000),(449.427.929.822),231.0,-431855179822.0,-17572750000.0,-449427929822.0
+Cộng,Tài sản > Cộng,Cộng,,381.568.012.444,17.427.250.000,398.995.262.444,,381568012444.0,17427250000.0,398995262444.0
+Nợ ngắn hạn,Tài sản > Nợ ngắn hạn,Nợ ngắn hạn,,229.401.927.870,13.605.559.196,243.007.487.066,,229401927870.0,13605559196.0,243007487066.0
+- Người mua trả tiền trước ngắn hạn,Tài sản > - Người mua trả tiền trước ngắn hạn,- Người mua trả tiền trước ngắn hạn,312,140.233.087.163,17.000.000.000,157.233.087.163,312.0,140233087163.0,17000000000.0,157233087163.0
+- Thuế thu nhập hoãn lại phải trả,Tài sản > - Thuế thu nhập hoãn lại phải trả,- Thuế thu nhập hoãn lại phải trả,341,89.168.840.707,(3.394.440.804),85.774.399.903,341.0,89168840707.0,-3394440804.0,85774399903.0
+Vốn chủ sở hữu,Tài sản > Vốn chủ sở hữu,Vốn chủ sở hữu,,(555.256.086.202),3.821.690.804,(551.434.395.398),,-555256086202.0,3821690804.0,-551434395398.0
+- Lợi nhuận sau thuế chưa phân phối,Tài sản > - Lợi nhuận sau thuế chưa phân phối,- Lợi nhuận sau thuế chưa phân phối,421,(865.906.565.649),(1.090.142.036),(866.996.707.685),421.0,-865906565649.0,-1090142036.0,-866996707685.0
+- LNST chưa phân phối lũy kế đến cuối kỳ trước,Tài sản > - LNST chưa phân phối lũy kế đến cuối kỳ trước,- LNST chưa phân phối lũy kế đến cuối kỳ trước,421a,40.694.978.917,(2.145.460.067),38.549.518.850,,40694978917.0,-2145460067.0,38549518850.0
+- LNST chưa phân phối kỳ này,Tài sản > - LNST chưa phân phối kỳ này,- LNST chưa phân phối kỳ này,421b,(906.601.544.566),1.055.318.031,(905.546.226.535),,-906601544566.0,1055318031.0,-905546226535.0
+- Lợi ích của cổ đông không kiểm soát,Tài sản > - Lợi ích của cổ đông không kiểm soát,- Lợi ích của cổ đông không kiểm soát,429,310.650.479.447,4.911.832.840,315.562.312.287,429.0,310650479447.0,4911832840.0,315562312287.0
+Cộng,Tài sản > Cộng,Cộng,,(325.854.158.332),17.427.250.000,(308.426.908.332),,-325854158332.0,17427250000.0,-308426908332.0

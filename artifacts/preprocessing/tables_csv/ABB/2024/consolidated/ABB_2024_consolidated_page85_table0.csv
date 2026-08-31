@@ -1,0 +1,18 @@
+﻿row_label_raw,row_label_full,Tại ngày 31 tháng 12 năm 2024,USDTriệuVND,EURTriệuVND,Tiền tệkhácTriệuVND,TổngTriệuVND,numeric__USDTriệuVND,numeric__EURTriệuVND,numeric__Tiền tệkhácTriệuVND,numeric__TổngTriệuVND
+Tải sản,Tải sản,Tải sản,,,,,,,,
+Tiền mặt,Tải sản > Tiền mặt,Tiền mặt,7.104,398,439,7.941,7104.0,398.0,439.0,7941.0
+Tiền gửi tại NHNNVN,Tải sản > Tiền gửi tại NHNNVN,Tiền gửi tại NHNNVN,83.477,74,-,83.551,83477.0,74.0,,83551.0
+Tiền gửi và cho vay các TCTĐ khác,Tải sản > Tiền gửi và cho vay các TCTĐ khác,Tiền gửi và cho vay các TCTĐ khác,9.840.236,29.355,35.939,9.905.530,9840236.0,29355.0,35939.0,9905530.0
+Cho vay khách hàng – gộp,Tải sản > Cho vay khách hàng – gộp,Cho vay khách hàng – gộp,1.606.403,320.366,-,1.926.769,1606403.0,320366.0,,1926769.0
+Hoạt động mua nợ – gộp,Tải sản > Hoạt động mua nợ – gộp,Hoạt động mua nợ – gộp,80.122,-,-,80.122,80122.0,,,80122.0
+Tải sản Có khác – gộp,Tải sản > Tải sản Có khác – gộp,Tải sản Có khác – gộp,111.355,364,-,111.719,111355.0,364.0,,111719.0
+Tổng tài sản (1),Tải sản > Tổng tài sản (1),Tổng tài sản (1),11.728.697,350.557,36.378,12.115.632,11728697.0,350557.0,36378.0,12115632.0
+Nợ phải trả,Nợ phải trả,Nợ phải trả,,,,,,,,
+Tiền gửi và vay các TCTĐ khác,Nợ phải trả > Tiền gửi và vay các TCTĐ khác,Tiền gửi và vay các TCTĐ khác,9.589.829,50,21,9.589.900,9589829.0,50.0,21.0,9589900.0
+Tiền gửi của khách hàng,Nợ phải trả > Tiền gửi của khách hàng,Tiền gửi của khách hàng,982.190,15.552,26.633,1.024.375,982190.0,15552.0,26633.0,1024375.0
+Các công cụ tài chính phải sinh và các khoản nợ tài chính khác,Nợ phải trả > Các công cụ tài chính phải sinh và các khoản nợ tài chính khác,Các công cụ tài chính phải sinh và các khoản nợ tài chính khác,6.046,332.225,-,338.271,6046.0,332225.0,,338271.0
+Các khoản nợ khác,Nợ phải trả > Các khoản nợ khác,Các khoản nợ khác,47.204,142,917,48.263,47204.0,142.0,917.0,48263.0
+Tổng nợ phải trả (2),Nợ phải trả > Tổng nợ phải trả (2),Tổng nợ phải trả (2),10.625.269,347.969,27.571,11.000.809,10625269.0,347969.0,27571.0,11000809.0
+Trạng thái tiền tệ nội bảng [(3)=(1)-(2)],Nợ phải trả > Trạng thái tiền tệ nội bảng [(3)=(1)-(2)],Trạng thái tiền tệ nội bảng [(3)=(1)-(2)],1.103.428,2.588,8.807,1.114.823,1103428.0,2588.0,8807.0,1114823.0
+Trạng thái tiền tệ ngoại bảng (4),Nợ phải trả > Trạng thái tiền tệ ngoại bảng (4),Trạng thái tiền tệ ngoại bảng (4),707.064,-,1.558,708.622,707064.0,,1558.0,708622.0
+"Trạng thái tiền tệ nội, ngoại bảng [(5)=(3)+(4)]","Nợ phải trả > Trạng thái tiền tệ nội, ngoại bảng [(5)=(3)+(4)]","Trạng thái tiền tệ nội, ngoại bảng [(5)=(3)+(4)]",1.810.492,2.588,10.365,1.823.445,1810492.0,2588.0,10365.0,1823445.0

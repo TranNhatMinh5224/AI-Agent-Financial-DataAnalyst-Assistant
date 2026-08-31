@@ -1,0 +1,6 @@
+﻿row_label_raw,row_label_full,Group,Type,Specific reserve rate,numeric__Type,numeric__Specific reserve rate
+1,1,1,Standard debts,0%,,0.0
+2,2,2,Debts needing attention,5%,,0.05
+3,3,3,Substandard debts,20%,,0.2
+4,4,4,Doubtful debts,50%,,0.5
+5,5,5,Debts giving rise to loss,100%,,1.0

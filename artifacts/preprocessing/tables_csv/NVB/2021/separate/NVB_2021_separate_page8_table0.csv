@@ -1,0 +1,28 @@
+﻿row_label_raw,row_label_full,CHỈ TIÊU,Thuyết minh,31/12/2021,01/01/2021,numeric__Thuyết minh,numeric__31/12/2021,numeric__01/01/2021
+A. TẢI SẢN,A. TẢI SẢN,A. TẢI SẢN,A. TẢI SẢN,A. TẢI SẢN,A. TẢI SẢN,,,
+"I. Tiền mặt, vàng bạc, đá quỹ","A. TẢI SẢN > I. Tiền mặt, vàng bạc, đá quỹ","I. Tiền mặt, vàng bạc, đá quỹ",V.01,242.435,297.561,,242435.0,297561.0
+II. Tiền gửi tại ngân hàng nhà nước,A. TẢI SẢN > II. Tiền gửi tại ngân hàng nhà nước,II. Tiền gửi tại ngân hàng nhà nước,V.02,1.966.518,1.550.785,,1966518.0,1550785.0
+III. Tiền gửi và cho vay các TCTD khác,A. TẢI SẢN > III. Tiền gửi và cho vay các TCTD khác,III. Tiền gửi và cho vay các TCTD khác,V.03,3.201.163,12.114.276,,3201163.0,12114276.0
+1. Tiền gửi tại các TCTD khác,A. TẢI SẢN > 1. Tiền gửi tại các TCTD khác,1. Tiền gửi tại các TCTD khác,,3.064.609,12.014.276,,3064609.0,12014276.0
+2. Cho vay các TCTD khác,A. TẢI SẢN > 2. Cho vay các TCTD khác,2. Cho vay các TCTD khác,,136.554,100.000,,136554.0,100000.0
+3. Dự phòng rủi ro,3. Dự phòng rủi ro,3. Dự phòng rủi ro,,-,-,,,
+IV. Chứng khoán kinh doanh,IV. Chứng khoán kinh doanh,IV. Chứng khoán kinh doanh,,-,-,,,
+1. Chứng khoán kinh doanh,1. Chứng khoán kinh doanh,1. Chứng khoán kinh doanh,,-,-,,,
+2. Dự phòng rủi ro chứng khoán kinh doanh,2. Dự phòng rủi ro chứng khoán kinh doanh,2. Dự phòng rủi ro chứng khoán kinh doanh,,-,-,,,
+V. Các công cụ tài chính phải sinh và các tài sản tài chính khác,2. Dự phòng rủi ro chứng khoán kinh doanh > V. Các công cụ tài chính phải sinh và các tài sản tài chính khác,V. Các công cụ tài chính phải sinh và các tài sản tài chính khác,,-,38.573,,,38573.0
+VI. Cho vay khách hàng,2. Dự phòng rủi ro chứng khoán kinh doanh > VI. Cho vay khách hàng,VI. Cho vay khách hàng,,40.923.404,39.854.967,,40923404.0,39854967.0
+1. Cho vay khách hàng,2. Dự phòng rủi ro chứng khoán kinh doanh > 1. Cho vay khách hàng,1. Cho vay khách hàng,V.04,41.615.019,40.313.272,,41615019.0,40313272.0
+2. Dự phòng rủi ro cho vay khách hàng,2. Dự phòng rủi ro chứng khoán kinh doanh > 2. Dự phòng rủi ro cho vay khách hàng,2. Dự phòng rủi ro cho vay khách hàng,V.05,(691.615),(458.305),,-691615.0,-458305.0
+VII. Hoạt động mua nợ,VII. Hoạt động mua nợ,VII. Hoạt động mua nợ,,-,-,,,
+1. Mua nợ,1. Mua nợ,1. Mua nợ,,-,-,,,
+2. Dự phòng rủi ro hoạt động mua nợ,2. Dự phòng rủi ro hoạt động mua nợ,2. Dự phòng rủi ro hoạt động mua nợ,,-,-,,,
+VIII. Chứng khoán đầu tư,2. Dự phòng rủi ro hoạt động mua nợ > VIII. Chứng khoán đầu tư,VIII. Chứng khoán đầu tư,V.06,10.108.282,13.295.520,,10108282.0,13295520.0
+1. Chứng khoán đầu tư sẵn sàng để bán,2. Dự phòng rủi ro hoạt động mua nợ > 1. Chứng khoán đầu tư sẵn sàng để bán,1. Chứng khoán đầu tư sẵn sàng để bán,,4.814.463,7.656.115,,4814463.0,7656115.0
+2. Chứng khoán đầu tư giữ đến ngày đáo hạn,2. Dự phòng rủi ro hoạt động mua nợ > 2. Chứng khoán đầu tư giữ đến ngày đáo hạn,2. Chứng khoán đầu tư giữ đến ngày đáo hạn,,5.699.462,5.866.923,,5699462.0,5866923.0
+3. Dự phòng rủi ro chứng khoán đầu tư,2. Dự phòng rủi ro hoạt động mua nợ > 3. Dự phòng rủi ro chứng khoán đầu tư,3. Dự phòng rủi ro chứng khoán đầu tư,,(405.643),(227.518),,-405643.0,-227518.0
+"IX. Góp vốn, đầu tư dài hạn","2. Dự phòng rủi ro hoạt động mua nợ > IX. Góp vốn, đầu tư dài hạn","IX. Góp vốn, đầu tư dài hạn",V.07,854.682,854.682,,854682.0,854682.0
+1. Đầu tư vào công ty con,2. Dự phòng rủi ro hoạt động mua nợ > 1. Đầu tư vào công ty con,1. Đầu tư vào công ty con,,200.000,200.000,,200000.0,200000.0
+2. Vốn góp liên doanh,2. Vốn góp liên doanh,2. Vốn góp liên doanh,,-,-,,,
+3. Đầu tư vào công ty liên kết,3. Đầu tư vào công ty liên kết,3. Đầu tư vào công ty liên kết,,-,-,,,
+4. Đầu tư dài hạn khác,3. Đầu tư vào công ty liên kết > 4. Đầu tư dài hạn khác,4. Đầu tư dài hạn khác,,719.600,719.600,,719600.0,719600.0
+5. Dự phòng giảm giả đầu tư dài hạn,3. Đầu tư vào công ty liên kết > 5. Dự phòng giảm giả đầu tư dài hạn,5. Dự phòng giảm giả đầu tư dài hạn,,(64.918),(64.918),,-64918.0,-64918.0

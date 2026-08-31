@@ -1,0 +1,7 @@
+﻿row_label_raw,row_label_full,TT,Tên đơn vị,Giá trị mua trong kỳ > Nội dung,Giá trị mua trong kỳ > Giá trị,Giá trị bán trong kỳ > Nội dung,Giá trị bán trong kỳ > Giá trị,numeric__Tên đơn vị,numeric__Giá trị mua trong kỳ > Nội dung,numeric__Giá trị mua trong kỳ > Giá trị,numeric__Giá trị bán trong kỳ > Nội dung,numeric__Giá trị bán trong kỳ > Giá trị
+A,A,A,B,1,2,3,4,,1.0,2.0,3.0,4.0
+23,23,23,Công ty CP Cơ khí Hòn Gai- Vinacomin,Mua vật tư,102.890.000,,-,,,102890000.0,,
+24,24,24,Công ty CP VLXD và kinh doanh tổng hợp - VVMI,Mua vật liệu,21.239.245.435,,-,,,21239245435.0,,
+25,25,25,Công ty Cổ phần cơ khí mỏ Việt Bắc- VVMI,Mua dịch vụ,2.655.306.999,,-,,,2655306999.0,,
+26,26,26,Công ty CP Vật tư - TKV,"Dầu, bảo hộ LĐ",78.771.730.551,Bán điện,1.694.748,,,78771730551.0,,1694748.0
+,,,Cộng,,3.260.029.456.717,-,92.324.784.932,,,3260029456717.0,,92324784932.0

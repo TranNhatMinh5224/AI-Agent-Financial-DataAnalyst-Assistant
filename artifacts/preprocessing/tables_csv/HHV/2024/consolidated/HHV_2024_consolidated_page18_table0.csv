@@ -1,0 +1,12 @@
+﻿row_label_raw,row_label_full,Mã số,col_1,Thuyết minh,Năm tài chính kết thúc ngày 31 tháng 12 năm > 2024 VND,Năm tài chính kết thúc ngày 31 tháng 12 năm > 2023 VND,numeric__col_1,numeric__Thuyết minh,numeric__Năm tài chính kết thúc ngày 31 tháng 12 năm > 2024 VND,numeric__Năm tài chính kết thúc ngày 31 tháng 12 năm > 2023 VND
+,,,LƯU CHUYÊN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH,,,,,,,
+31,31,31,"Thu từ phát hành cổ phiếu, nhận vốn góp của chủ sở hữu",,830.254.742.000,61.000.000,,,830254742000.0,61000000.0
+33,33,33,"Thu từ vay ngắn hạn, dài hạn",,484.325.689.987,503.403.158.775,,,484325689987.0,503403158775.0
+34,34,34,Chi trả nợ gốc vay,,(1.772.220.761.360),(886.294.034.961),,,-1772220761360.0,-886294034961.0
+35,35,35,Chi trả nợ gốc thuê tài chính,,(3.495.086.748),(4.970.543.556),,,-3495086748.0,-4970543556.0
+36,36,36,"Chi trả cổ tức, lợi nhuận cho chủ sở hữu",,(66.050.631),-,,,-66050631.0,
+40,40,40,Lưu chuyển thuần từ hoạt động tài chính,,(461.201.466.752),(387.800.419.742),,,-461201466752.0,-387800419742.0
+50,50,50,Lưu chuyển tiền thuần trong năm,,12.806.289.161,(86.133.521.761),,,12806289161.0,-86133521761.0
+60,60,60,Tiền và các khoản tương đương tiền đầu năm,V.1,296.127.587.276,382.261.109.037,,,296127587276.0,382261109037.0
+61,61,61,Ảnh hưởng của thay đổi tỷ giá hối đoái quy đổi ngoại tệ,,-,-,,,,
+70,61 > 70,70,Tiền và các khoản tương đương tiền cuối năm,V.1,308.933.876.437,296.127.587.276,,,308933876437.0,296127587276.0

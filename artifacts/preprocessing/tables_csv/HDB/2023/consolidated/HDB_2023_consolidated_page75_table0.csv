@@ -1,0 +1,11 @@
+﻿row_label_raw,row_label_full,col_0,Tiền gửi và cho vay các TCTD khác Triệu đồng,Chứng khoán kinh doanh Triệu đồng,Các công cụ tài chính phải sinh Triệu đồng,Cho vay khách hàng Triệu đồng,Chứng khoán nợ đầu tư Triệu đồng,Các tài sản tài chính khác Triệu đồng,Tổng cộng Triệu đồng,numeric__Tiền gửi và cho vay các TCTD khác Triệu đồng,numeric__Chứng khoán kinh doanh Triệu đồng,numeric__Các công cụ tài chính phải sinh Triệu đồng,numeric__Cho vay khách hàng Triệu đồng,numeric__Chứng khoán nợ đầu tư Triệu đồng,numeric__Các tài sản tài chính khác Triệu đồng,numeric__Tổng cộng Triệu đồng
+Chưa quá hạn và chưa bị giảm giá,Chưa quá hạn và chưa bị giảm giá,Chưa quá hạn và chưa bị giảm giá,96.514.863,18.580.932,110.079,316.903.432,24.034.975,52.500.121,508.644.402,96514863.0,18580932.0,110079.0,316903432.0,24034975.0,52500121.0,508644402.0
+Đã quá hạn nhưng chưa bị giảm giá,Đã quá hạn nhưng chưa bị giảm giá,Đã quá hạn nhưng chưa bị giảm giá,-,-,-,10.750.454,2.484.995,-,13.235.449,,,,10750454.0,2484995.0,,13235449.0
+Bị giảm giá,Bị giảm giá,Bị giảm giá,-,-,-,15.750.409,45.000,46.799,15.842.208,,,,15750409.0,45000.0,46799.0,15842208.0
+,,,96.514.863,18.580.932,110.079,343.404.295,26.564.970,52.546.920,537.722.059,96514863.0,18580932.0,110079.0,343404295.0,26564970.0,52546920.0,537722059.0
+Trừ: dự phòng rủi ro,Trừ: dự phòng rủi ro,Trừ: dự phòng rủi ro,,,,,,,,,,,,,,
+Dự phòng cụ thể,Trừ: dự phòng rủi ro > Dự phòng cụ thể,Dự phòng cụ thể,-,-,-,(1.491.241),(9.000),-,(1.500.241),,,,-1491241.0,-9000.0,,-1500241.0
+Dự phòng chung,Trừ: dự phòng rủi ro > Dự phòng chung,Dự phòng chung,-,-,-,(2.563.216),(75.272),-,(2.638.488),,,,-2563216.0,-75272.0,,-2638488.0
+Dự phòng rủi ro khác,Trừ: dự phòng rủi ro > Dự phòng rủi ro khác,Dự phòng rủi ro khác,-,-,-,-,-,(46.521),(46.521),,,,,,-46521.0,-46521.0
+,,,-,-,-,(4.054.457),(84.272),(46.521),(4.185.250),,,,-4054457.0,-84272.0,-46521.0,-4185250.0
+Giá trị thuần,Trừ: dự phòng rủi ro > Giá trị thuần,Giá trị thuần,96.514.863,18.580.932,110.079,339.349.838,26.480.698,52.500.399,533.536.809,96514863.0,18580932.0,110079.0,339349838.0,26480698.0,52500399.0,533536809.0

@@ -1,0 +1,26 @@
+﻿row_label_raw,row_label_full,STT,CHỈ TIÊU,Thuyết minh,Năm nay,Năm trước (Trình bày lại),numeric__CHỈ TIÊU,numeric__Thuyết minh,numeric__Năm nay,numeric__Năm trước (Trình bày lại)
+1.,1.,1.,Thu nhập lãi và các khoản thu nhập tương tự,26,67.992.416,57.995.528,,26.0,67992416.0,57995528.0
+2.,2.,2.,Chi phí lãi và các chi phí tương tự,27,(33.246.226),(27.138.452),,27.0,-33246226.0,-27138452.0
+I.,I.,I.,Thu nhập lãi thuần,,34.746.190,30.857.076,,,34746190.0,30857076.0
+3.,3.,3.,Thu nhập từ hoạt động dịch vụ,,5.697.854,3.648.913,,,5697854.0,3648913.0
+4.,4.,4.,Chi phí hoạt động dịch vụ,,(1.571.814),(1.879.045),,,-1571814.0,-1879045.0
+II.,II.,II.,Lãi thuần từ hoạt động dịch vụ,28,4.126.040,1.769.868,,28.0,4126040.0,1769868.0
+III.,III.,III.,Lãi thuần từ hoạt động kinh doanh ngoại hồi,29,1.272.182,843.813,,29.0,1272182.0,843813.0
+IV.,IV.,IV.,Lãi thuần từ mua bán chứng khoán kinh doanh,30,639.460,68.929,,30.0,639460.0,68929.0
+V.,V.,V.,Lãi thuần từ mua bán chứng khoán đầu tư,31,855.910,68.253,,31.0,855910.0,68253.0
+5.,5.,5.,Thu nhập từ hoạt động khác,,1.026.156,516.572,,,1026156.0,516572.0
+6.,6.,6.,Chi phí hoạt động khác,,(289.538),(163.991),,,-289538.0,-163991.0
+VI.,VI.,VI.,Lãi thuần từ hoạt động khác,32,736.618,352.581,,32.0,736618.0,352581.0
+VII.,VII.,VII.,"Thu nhập từ góp vốn, mua cố phần",33,319.472,71.664,,33.0,319472.0,71664.0
+VIII.,VIII.,VIII.,Chi phí hoạt động,34,(11.600.987),(11.980.755),,34.0,-11600987.0,-11980755.0
+IX.,IX.,IX.,Lợi nhuận thuần từ hoạt động kinh doanh trước chi phí dự phòng rủi ro tín dụng,,31.094.885,22.051.429,,,31094885.0,22051429.0
+X.,X.,X.,Chi phí dự phòng rủi ro tín dụng,,(9.748.394),(5.321.434),,,-9748394.0,-5321434.0
+XI.,XI.,XI.,Tổng lợi nhuận trước thuế,,21.346.491,16.729.995,,,21346491.0,16729995.0
+7.,7.,7.,Chi phí thuế TNDN hiện hành,35,(4.189.679),(3.561.555),,35.0,-4189679.0,-3561555.0
+8.,8.,8.,(Chi phí)/Thu nhập thuế TNDN hoãn lại,,(83.190),79.208,,,-83190.0,79208.0
+XII.,XII.,XII.,Chi phí thuế TNDN,,(4.272.869),(3.482.347),,,-4272869.0,-3482347.0
+XIII.,XIII.,XIII.,Lợi nhuận sau thuế,,17.073.622,13.247.648,,,17073622.0,13247648.0
+XIV.,XIV.,XIV.,Lợi ích của cố động không kiểm soát,,549.234,484.695,,,549234.0,484695.0
+XV.,XV.,XV.,Lợi nhuận thuần của chú sở hữu,,16.524.388,12.762.953,,,16524388.0,12762953.0
+XVI.,XVI.,XVI.,Lãi cơ bản trên cố phiếu (VND/cố phiếu),36,3.584,2.826,,36.0,3584.0,2826.0
+XVII.,XVII.,XVII.,Lãi suy giám trên cố phiếu (VND/cố phiếu),36,3.461,2.576,,36.0,3461.0,2576.0

@@ -1,0 +1,18 @@
+﻿row_label_raw,row_label_full,col_0,Quyền sử dụng đất Triệu VND,Phần mềm vi tính Triệu VND,Thương hiệu Triệu VND,Quan hệ khách hàng Triệu VND,Tài nguyên nước khoáng Triệu VND,Quyền khai thác mỏ Triệu VND,Công nghệ Triệu VND,Quyền khai thác nguồn nước khoáng Triệu VND,Tổng Triệu VND,numeric__Quyền sử dụng đất Triệu VND,numeric__Phần mềm vi tính Triệu VND,numeric__Thương hiệu Triệu VND,numeric__Quan hệ khách hàng Triệu VND,numeric__Tài nguyên nước khoáng Triệu VND,numeric__Quyền khai thác mỏ Triệu VND,numeric__Công nghệ Triệu VND,numeric__Quyền khai thác nguồn nước khoáng Triệu VND,numeric__Tổng Triệu VND
+Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,,,,,,,,,
+Số dư đầu năm,Nguyên giá > Số dư đầu năm,Số dư đầu năm,387.234,449.602,2.413.459,3.074.214,412.698,588.373,669.433,117.945,8.112.958,387234.0,449602.0,2413459.0,3074214.0,412698.0,588373.0,669433.0,117945.0,8112958.0
+Tăng trong năm,Nguyên giá > Tăng trong năm,Tăng trong năm,-,80,-,-,-,-,-,2.765,2.845,,80.0,,,,,,2765.0,2845.0
+Chuyển từ chi phí xây dựng cơ bản dở dang,Nguyên giá > Chuyển từ chi phí xây dựng cơ bản dở dang,Chuyển từ chi phí xây dựng cơ bản dở dang,-,2.456,-,-,-,-,-,-,2.456,,2456.0,,,,,,,2456.0
+Chuyển sang chi phí trả trước dài hạn,Nguyên giá > Chuyển sang chi phí trả trước dài hạn,Chuyển sang chi phí trả trước dài hạn,(54.465),(1.070),-,-,-,-,-,-,(55.535),-54465.0,-1070.0,,,,,,,-55535.0
+Xóa số,Nguyên giá > Xóa số,Xóa số,-,(490),-,-,-,-,-,-,(490),,-490.0,,,,,,,-490.0
+Khác,Nguyên giá > Khác,Khác,-,-,-,-,-,-,-,(46.436),(46.436),,,,,,,,-46436.0,-46436.0
+Số dư cuối năm,Nguyên giá > Số dư cuối năm,Số dư cuối năm,332.769,450.578,2.413.459,3.074.214,412.698,588.373,669.433,74.274,8.015.798,332769.0,450578.0,2413459.0,3074214.0,412698.0,588373.0,669433.0,74274.0,8015798.0
+Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,,,,,,,,,
+Số dư đầu năm,Giá trị hao mòn lũy kế > Số dư đầu năm,Số dư đầu năm,46.113,153.008,611.289,714.788,51.463,97.019,368.382,13.899,2.055.961,46113.0,153008.0,611289.0,714788.0,51463.0,97019.0,368382.0,13899.0,2055961.0
+Khấu hao trong năm,Giá trị hao mòn lũy kế > Khấu hao trong năm,Khấu hao trong năm,10.989,55.266,151.401,143.838,21.935,30.550,138.144,3.917,556.040,10989.0,55266.0,151401.0,143838.0,21935.0,30550.0,138144.0,3917.0,556040.0
+Chuyển sang chi phí trả trước dài hạn,Giá trị hao mòn lũy kế > Chuyển sang chi phí trả trước dài hạn,Chuyển sang chi phí trả trước dài hạn,(1.028),(242),-,-,-,-,-,-,(1.270),-1028.0,-242.0,,,,,,,-1270.0
+Xóa số,Giá trị hao mòn lũy kế > Xóa số,Xóa số,-,(490),-,-,-,-,-,-,(490),,-490.0,,,,,,,-490.0
+Số dư cuối năm,Giá trị hao mòn lũy kế > Số dư cuối năm,Số dư cuối năm,56.074,207.542,762.690,858.626,73.398,127.569,506.526,17.816,2.610.241,56074.0,207542.0,762690.0,858626.0,73398.0,127569.0,506526.0,17816.0,2610241.0
+Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,,,,,,,,,
+Số dư đầu năm,Giá trị còn lại > Số dư đầu năm,Số dư đầu năm,341.121,296.594,1.802.170,2.359.426,361.235,491.354,301.051,104.046,6.056.997,341121.0,296594.0,1802170.0,2359426.0,361235.0,491354.0,301051.0,104046.0,6056997.0
+Số dư cuối năm,Giá trị còn lại > Số dư cuối năm,Số dư cuối năm,276.695,243.036,1.650.769,2.215.588,339.300,460.804,162.907,56.458,5.405.557,276695.0,243036.0,1650769.0,2215588.0,339300.0,460804.0,162907.0,56458.0,5405557.0

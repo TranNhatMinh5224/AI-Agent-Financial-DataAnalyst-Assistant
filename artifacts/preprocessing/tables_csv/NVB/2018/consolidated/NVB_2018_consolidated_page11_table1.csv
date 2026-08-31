@@ -1,0 +1,11 @@
+﻿row_label_raw,row_label_full,CHỈ TIÊU,Thuyết minh,31/12/2018,01/01/2018,numeric__Thuyết minh,numeric__31/12/2018,numeric__01/01/2018
+1. Bao lãnh vay vốn,1. Bao lãnh vay vốn,1. Bao lãnh vay vốn,V.30,-,1.640,,,1640.0
+2. Cam kết giao dịch hồi đoái,2. Cam kết giao dịch hồi đoái,2. Cam kết giao dịch hồi đoái,,13.122.710,7.871.175,,13122710.0,7871175.0
+2.1 Cam kết mua ngoại tệ,2.1 Cam kết mua ngoại tệ,2.1 Cam kết mua ngoại tệ,,-,-,,,
+2.2 Cam kết bán ngoại tệ,2.2 Cam kết bán ngoại tệ,2.2 Cam kết bán ngoại tệ,,-,-,,,
+2.3 Cam kết giao dịch hoàn đối,2.2 Cam kết bán ngoại tệ > 2.3 Cam kết giao dịch hoàn đối,2.3 Cam kết giao dịch hoàn đối,,13.122.710,7.871.175,,13122710.0,7871175.0
+2.4 Cam kết giao dịch tương lại,2.4 Cam kết giao dịch tương lại,2.4 Cam kết giao dịch tương lại,,-,-,,,
+3. Cam kết cho vay không huy ngang,3. Cam kết cho vay không huy ngang,3. Cam kết cho vay không huy ngang,,-,-,,,
+4. Cam kết trong nghiệp vụ L/C,3. Cam kết cho vay không huy ngang > 4. Cam kết trong nghiệp vụ L/C,4. Cam kết trong nghiệp vụ L/C,,124.445,160.495,,124445.0,160495.0
+5. Bao lãnh khác,3. Cam kết cho vay không huy ngang > 5. Bao lãnh khác,5. Bao lãnh khác,,2.644.624,3.403.495,,2644624.0,3403495.0
+6. Các cam kết khác,3. Cam kết cho vay không huy ngang > 6. Các cam kết khác,6. Các cam kết khác,,185.000,211.000,,185000.0,211000.0

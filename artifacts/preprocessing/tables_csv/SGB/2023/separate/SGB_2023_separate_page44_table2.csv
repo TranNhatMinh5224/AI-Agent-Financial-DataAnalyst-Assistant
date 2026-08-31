@@ -1,0 +1,14 @@
+﻿row_label_raw,row_label_full,Chỉ tiêu,31/12/2023,31/12/2022,numeric__31/12/2023,numeric__31/12/2022
+Bảo lãnh vay vốn,Bảo lãnh vay vốn,Bảo lãnh vay vốn,-,-,,
+Cam kết giao dịch ngoại hối,Bảo lãnh vay vốn > Cam kết giao dịch ngoại hối,Cam kết giao dịch ngoại hối,-,1.537.250,,1537250.0
+Cam kết mua ngoại tệ,Cam kết mua ngoại tệ,Cam kết mua ngoại tệ,-,-,,
+Cam kết bán ngoại tệ,Cam kết bán ngoại tệ,Cam kết bán ngoại tệ,-,-,,
+Cam kết giao dịch hoán đối,Cam kết bán ngoại tệ > Cam kết giao dịch hoán đối,Cam kết giao dịch hoán đối,-,1.537.250,,1537250.0
+Cam kết trong nghiệp vụ L/C,Cam kết bán ngoại tệ > Cam kết trong nghiệp vụ L/C,Cam kết trong nghiệp vụ L/C,51.315,133.100,51315.0,133100.0
+Cam kết thanh toán trong nghiệp vụ L/C,Cam kết bán ngoại tệ > Cam kết thanh toán trong nghiệp vụ L/C,Cam kết thanh toán trong nghiệp vụ L/C,51.315,133.100,51315.0,133100.0
+Các cam kết khác,Cam kết bán ngoại tệ > Các cam kết khác,Các cam kết khác,294.463,221.961,294463.0,221961.0
+Bảo lãnh thanh toán,Cam kết bán ngoại tệ > Bảo lãnh thanh toán,Bảo lãnh thanh toán,118.613,92.336,118613.0,92336.0
+Bảo lãnh thực hiện hợp đồng,Cam kết bán ngoại tệ > Bảo lãnh thực hiện hợp đồng,Bảo lãnh thực hiện hợp đồng,62.849,56.456,62849.0,56456.0
+Bảo lãnh dự thầu,Cam kết bán ngoại tệ > Bảo lãnh dự thầu,Bảo lãnh dự thầu,9.380,5.654,9380.0,5654.0
+Cam kết bảo lãnh khác,Cam kết bán ngoại tệ > Cam kết bảo lãnh khác,Cam kết bảo lãnh khác,103.621,67.515,103621.0,67515.0
+Tổng,Cam kết bán ngoại tệ > Tổng,Tổng,345.778,1.892.311,345778.0,1892311.0

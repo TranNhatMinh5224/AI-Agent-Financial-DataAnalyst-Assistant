@@ -1,0 +1,15 @@
+﻿row_label_raw,row_label_full,THUẾ VÀ CÁC KHOẢN PHẢI NỘP NHÀ NUỐC,THUẾ VÀ CÁC KHOẢN PHẢI NỘP NHÀ NUỐC_1,THUẾ VÀ CÁC KHOẢN PHẢI NỘP NHÀ NUỐC_2,THUẾ VÀ CÁC KHOẢN PHẢI NỘP NHÀ NUỐC_3,THUẾ VÀ CÁC KHOẢN PHẢI NỘP NHÀ NUỐC_4,numeric__THUẾ VÀ CÁC KHOẢN PHẢI NỘP NHÀ NUỐC_1,numeric__THUẾ VÀ CÁC KHOẢN PHẢI NỘP NHÀ NUỐC_2,numeric__THUẾ VÀ CÁC KHOẢN PHẢI NỘP NHÀ NUỐC_3,numeric__THUẾ VÀ CÁC KHOẢN PHẢI NỘP NHÀ NUỐC_4
+a) Phải nộp,a) Phải nộp,a) Phải nộp,Số cuối năm,Số phải nộp trong năm,Số đã thực nộp trong năm,Số đầu năm,,,,
+Thuế giá trị gia tăng,a) Phải nộp > Thuế giá trị gia tăng,Thuế giá trị gia tăng,45.453.238.693,69.616.429.156,74.306.811.981,50.143.621.518,45453238693.0,69616429156.0,74306811981.0,50143621518.0
+Thuế GTGT hàng nhập khẩu,a) Phải nộp > Thuế GTGT hàng nhập khẩu,Thuế GTGT hàng nhập khẩu,,4.900.243.908,4.900.243.908,,,4900243908.0,4900243908.0,
+Thuế thu nhập doanh nghiệp,a) Phải nộp > Thuế thu nhập doanh nghiệp,Thuế thu nhập doanh nghiệp,69.044.192.061,70.447.739.128,127.153.386.306,125.749.839.239,69044192061.0,70447739128.0,127153386306.0,125749839239.0
+Thuế thu nhập cá nhân,a) Phải nộp > Thuế thu nhập cá nhân,Thuế thu nhập cá nhân,2.947.411.133,11.538.363.722,51.196.115.744,43.108.308.208,2947411133.0,11538363722.0,51196115744.0,43108308208.0
+Thuế nhà đất và tiền thuê đất,a) Phải nộp > Thuế nhà đất và tiền thuê đất,Thuế nhà đất và tiền thuê đất,418.923.450.875,777.024.749.235,358.101.298.360,,418923450875.0,777024749235.0,358101298360.0,
+"Các khoản phí, lệ phí, thuế khác","a) Phải nộp > Các khoản phí, lệ phí, thuế khác","Các khoản phí, lệ phí, thuế khác",189.768.000,4.793.574.830,5.423.726.717,819.919.887,189768000.0,4793574830.0,5423726717.0,819919887.0
+Cộng,a) Phải nộp > Cộng,Cộng,536.558.060.762,938.321.099.979,621.081.583.016,219.821.688.852,536558060762.0,938321099979.0,621081583016.0,219821688852.0
+b) Phải thu,b) Phải thu,b) Phải thu,Số cuối năm,Số phải thu trong năm,Số đã thực thu trong năm,Số đầu năm,,,,
+Thuế giá trị gia tăng,b) Phải thu > Thuế giá trị gia tăng,Thuế giá trị gia tăng,,,2.309.395,2.309.395,,,2309395.0,2309395.0
+Thuế thu nhập cá nhân,b) Phải thu > Thuế thu nhập cá nhân,Thuế thu nhập cá nhân,2.451.467.328,2.156.921.165,378.421.646,672.967.809,2451467328.0,2156921165.0,378421646.0,672967809.0
+Thuế nhà đất và tiền thuê đất,b) Phải thu > Thuế nhà đất và tiền thuê đất,Thuế nhà đất và tiền thuê đất,,1.544.521.671,2.691.060.341,1.146.538.670,,1544521671.0,2691060341.0,1146538670.0
+"Các khoản phí, lệ phí, thuế khác","b) Phải thu > Các khoản phí, lệ phí, thuế khác","Các khoản phí, lệ phí, thuế khác",,86.213,86.213,,,86213.0,86213.0,
+Cộng,b) Phải thu > Cộng,Cộng,2.451.467.328,3.701.529.049,3.071.877.595,1.821.815.874,2451467328.0,3701529049.0,3071877595.0,1821815874.0

@@ -1,0 +1,12 @@
+﻿row_label_raw,row_label_full,col_0,Mã số,Thuyết minh,2021 VND,2020 VND,numeric__Mã số,numeric__Thuyết minh,numeric__2021 VND,numeric__2020 VND
+Doanh thu hoạt động tài chính,Doanh thu hoạt động tài chính,Doanh thu hoạt động tài chính,21,18,5.271.261.693.608,463.728.321.981,21.0,18.0,5271261693608.0,463728321981.0
+Chi phí tài chính,Chi phí tài chính,Chi phí tài chính,22,19,2.933.473.829.813,1.560.433.586.679,22.0,19.0,2933473829813.0,1560433586679.0
+Trong đó: Chi phí lãi vay,Trong đó: Chi phí lãi vay,Trong đó: Chi phí lãi vay,23,,2.427.396.695.049,1.450.677.577.025,23.0,,2427396695049.0,1450677577025.0
+Chi phí quản lý doanh nghiệp,Chi phí quản lý doanh nghiệp,Chi phí quản lý doanh nghiệp,26,20,290.861.162.773,226.080.051.894,26.0,20.0,290861162773.0,226080051894.0
+Lợi nhuận/(lỗ) thuần từ hoạt động kinh doanh (30 = 21 - 22 - 26),Lợi nhuận/(lỗ) thuần từ hoạt động kinh doanh (30 = 21 - 22 - 26),Lợi nhuận/(lỗ) thuần từ hoạt động kinh doanh (30 = 21 - 22 - 26),30,,2.046.926.701.022,(1.322.785.316.592),30.0,,2046926701022.0,-1322785316592.0
+Chi phí khác,Chi phí khác,Chi phí khác,32,21,65.000.000.000,-,32.0,21.0,65000000000.0,
+Kết quả từ hoạt động khác (40 = - 32),Kết quả từ hoạt động khác (40 = - 32),Kết quả từ hoạt động khác (40 = - 32),40,,(65.000.000.000),-,40.0,,-65000000000.0,
+Lợi nhuận/(lỗ) kế toán trước thuế (50 = 30 + 40),Lợi nhuận/(lỗ) kế toán trước thuế (50 = 30 + 40),Lợi nhuận/(lỗ) kế toán trước thuế (50 = 30 + 40),50,,1.981.926.701.022,(1.322.785.316.592),50.0,,1981926701022.0,-1322785316592.0
+Chi phí thuế TNDN hiện hành,Chi phí thuế TNDN hiện hành,Chi phí thuế TNDN hiện hành,51,22,256.000.000.000,-,51.0,22.0,256000000000.0,
+Chi phí thuế TNDN hoãn lại,Chi phí thuế TNDN hoãn lại,Chi phí thuế TNDN hoãn lại,52,22,-,-,52.0,22.0,,
+Lợi nhuận/(lỗ) sau thuế TNDN (60 = 50 - 51 - 52),Lợi nhuận/(lỗ) sau thuế TNDN (60 = 50 - 51 - 52),Lợi nhuận/(lỗ) sau thuế TNDN (60 = 50 - 51 - 52),60,,1.725.926.701.022,(1.322.785.316.592),60.0,,1725926701022.0,-1322785316592.0

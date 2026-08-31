@@ -1,0 +1,28 @@
+﻿row_label_raw,row_label_full,Chỉ tiêu,Mã số,Thuyết minh,Năm nay,Năm trước,numeric__Mã số,numeric__Thuyết minh,numeric__Năm nay,numeric__Năm trước
+A,A,A,B,C,1,2,,,1.0,2.0
+"I. Lưu chuyển tiền hoạt động môi giới, ủy thác của khách hàng","I. Lưu chuyển tiền hoạt động môi giới, ủy thác của khách hàng","I. Lưu chuyển tiền hoạt động môi giới, ủy thác của khách hàng",,,,,,,,
+1. Tiền thu bán chứng khoán môi giới cho khách hàng,"I. Lưu chuyển tiền hoạt động môi giới, ủy thác của khách hàng > 1. Tiền thu bán chứng khoán môi giới cho khách hàng",1. Tiền thu bán chứng khoán môi giới cho khách hàng,1,,70.382.155.535.200,32.737.310.920.300,1.0,,70382155535200.0,32737310920300.0
+2. Tiền chi mua chứng khoán môi giới cho khách hàng,"I. Lưu chuyển tiền hoạt động môi giới, ủy thác của khách hàng > 2. Tiền chi mua chứng khoán môi giới cho khách hàng",2. Tiền chi mua chứng khoán môi giới cho khách hàng,2,,(69.078.096.971.980),(32.112.557.741.080),2.0,,-69078096971980.0,-32112557741080.0
+7. Nhận tiền gửi để thanh toán giao dịch chứng khoán của khách hàng,"I. Lưu chuyển tiền hoạt động môi giới, ủy thác của khách hàng > 7. Nhận tiền gửi để thanh toán giao dịch chứng khoán của khách hàng",7. Nhận tiền gửi để thanh toán giao dịch chứng khoán của khách hàng,7,,936.247.936.980,(761.637.576.382),7.0,,936247936980.0,-761637576382.0
+11. Chi trả phí lưu ký chứng khoán của khách hàng,"I. Lưu chuyển tiền hoạt động môi giới, ủy thác của khách hàng > 11. Chi trả phí lưu ký chứng khoán của khách hàng",11. Chi trả phí lưu ký chứng khoán của khách hàng,11,,(9.566.992.551),(6.299.795.302),11.0,,-9566992551.0,-6299795302.0
+12. Thu lỗi giao dịch chứng khoán,"I. Lưu chuyển tiền hoạt động môi giới, ủy thác của khách hàng > 12. Thu lỗi giao dịch chứng khoán",12. Thu lỗi giao dịch chứng khoán,12,,,,12.0,,,
+13. Chi lỗi giao dịch chứng khoán,"I. Lưu chuyển tiền hoạt động môi giới, ủy thác của khách hàng > 13. Chi lỗi giao dịch chứng khoán",13. Chi lỗi giao dịch chứng khoán,13,,,,13.0,,,
+14. Tiền thu của Tổ chức phát hành chứng khoán,"I. Lưu chuyển tiền hoạt động môi giới, ủy thác của khách hàng > 14. Tiền thu của Tổ chức phát hành chứng khoán",14. Tiền thu của Tổ chức phát hành chứng khoán,14,,998.646.512.800,933.277.762.954,14.0,,998646512800.0,933277762954.0
+15. Tiền chi trả Tổ chức phát hành chứng khoán,"I. Lưu chuyển tiền hoạt động môi giới, ủy thác của khách hàng > 15. Tiền chi trả Tổ chức phát hành chứng khoán",15. Tiền chi trả Tổ chức phát hành chứng khoán,15,,(989.322.413.661),(933.297.951.879),15.0,,-989322413661.0,-933297951879.0
+Tăng/giảm tiền thuần trong kỳ,"I. Lưu chuyển tiền hoạt động môi giới, ủy thác của khách hàng > Tăng/giảm tiền thuần trong kỳ",Tăng/giảm tiền thuần trong kỳ,20,,2.240.063.606.788,(143.204.381.389),20.0,,2240063606788.0,-143204381389.0
+II. Tiền và các khoản tương đương tiền đầu kỳ của khách hàng,"I. Lưu chuyển tiền hoạt động môi giới, ủy thác của khách hàng > II. Tiền và các khoản tương đương tiền đầu kỳ của khách hàng",II. Tiền và các khoản tương đương tiền đầu kỳ của khách hàng,30,,828.993.222.175,972.197.603.564,30.0,,828993222175.0,972197603564.0
+Tiền gửi ngân hàng đầu kỳ:,"I. Lưu chuyển tiền hoạt động môi giới, ủy thác của khách hàng > Tiền gửi ngân hàng đầu kỳ:",Tiền gửi ngân hàng đầu kỳ:,31,,,,31.0,,,
+- Tiền gửi của Nhà đầu tư về giao dịch chứng khoán theo phương thức CTCK quản lý,"I. Lưu chuyển tiền hoạt động môi giới, ủy thác của khách hàng > - Tiền gửi của Nhà đầu tư về giao dịch chứng khoán theo phương thức CTCK quản lý",- Tiền gửi của Nhà đầu tư về giao dịch chứng khoán theo phương thức CTCK quản lý,32,,826.920.717.575,970.104.910.039,32.0,,826920717575.0,970104910039.0
+Trong đó có kỳ hạn,Trong đó có kỳ hạn,Trong đó có kỳ hạn,,,,,,,,
+- Tiền gửi của Tổ chức phát hành,Trong đó có kỳ hạn > - Tiền gửi của Tổ chức phát hành,- Tiền gửi của Tổ chức phát hành,35,,2.072.504.600,2.092.693.525,35.0,,2072504600.0,2092693525.0
+Trong đó có kỳ hạn,Trong đó có kỳ hạn,Trong đó có kỳ hạn,,,,,,,,
+Các khoản tương đương tiền,Trong đó có kỳ hạn > Các khoản tương đương tiền,Các khoản tương đương tiền,36,,,,36.0,,,
+Ảnh hưởng của thay đổi tỷ giá hối đoái quy đổi ngoại tệ,Trong đó có kỳ hạn > Ảnh hưởng của thay đổi tỷ giá hối đoái quy đổi ngoại tệ,Ảnh hưởng của thay đổi tỷ giá hối đoái quy đổi ngoại tệ,37,,,,37.0,,,
+III. Tiền và các khoản tương đương tiền cuối kỳ của khách hàng (40 = 20 + 30),Trong đó có kỳ hạn > III. Tiền và các khoản tương đương tiền cuối kỳ của khách hàng (40 = 20 + 30),III. Tiền và các khoản tương đương tiền cuối kỳ của khách hàng (40 = 20 + 30),40,,3.069.056.828.963,828.993.222.175,40.0,,3069056828963.0,828993222175.0
+Tiền gửi ngân hàng cuối kỳ:,Trong đó có kỳ hạn > Tiền gửi ngân hàng cuối kỳ:,Tiền gửi ngân hàng cuối kỳ:,41,,,,41.0,,,
+- Tiền gửi của Nhà đầu tư về giao dịch chứng khoán theo phương thức CTCK quản lý,Trong đó có kỳ hạn > - Tiền gửi của Nhà đầu tư về giao dịch chứng khoán theo phương thức CTCK quản lý,- Tiền gửi của Nhà đầu tư về giao dịch chứng khoán theo phương thức CTCK quản lý,42,C7.41,3.057.660.225.224,826.920.717.575,42.0,,3057660225224.0,826920717575.0
+Trong đó có kỳ hạn,Trong đó có kỳ hạn,Trong đó có kỳ hạn,,,,,,,,
+- Tiền gửi của Tổ chức phát hành,Trong đó có kỳ hạn > - Tiền gửi của Tổ chức phát hành,- Tiền gửi của Tổ chức phát hành,45,C7.41,11.396.603.739,2.072.504.600,45.0,,11396603739.0,2072504600.0
+Trong đó có kỳ hạn,Trong đó có kỳ hạn,Trong đó có kỳ hạn,,,,,,,,
+Các khoản tương đương tiền,Trong đó có kỳ hạn > Các khoản tương đương tiền,Các khoản tương đương tiền,46,,,,46.0,,,
+Ảnh hưởng của thay đổi tỷ giá hối đoái quy đổi ngoại tệ,Trong đó có kỳ hạn > Ảnh hưởng của thay đổi tỷ giá hối đoái quy đổi ngoại tệ,Ảnh hưởng của thay đổi tỷ giá hối đoái quy đổi ngoại tệ,47,,,,47.0,,,

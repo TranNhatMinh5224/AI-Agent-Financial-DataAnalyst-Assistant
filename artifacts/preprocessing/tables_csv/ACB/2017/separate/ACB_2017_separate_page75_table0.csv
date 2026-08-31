@@ -1,0 +1,10 @@
+﻿row_label_raw,row_label_full,col_0,Tiền gửi tại NHNNVN Triệu VND,Tiền gửi và cho vay các TCTD khác Triệu VND,Các công cụ tài chính phái sinh Triệu VND,Chứng khoán kinh doanh Triệu VND,Cho vay khách hàng Triệu VND,Chứng khoán đầu tư Triệu VND,Các tài sản tài chính khác Triệu VND,Tổng cộng Triệu VND,numeric__Tiền gửi tại NHNNVN Triệu VND,numeric__Tiền gửi và cho vay các TCTD khác Triệu VND,numeric__Các công cụ tài chính phái sinh Triệu VND,numeric__Chứng khoán kinh doanh Triệu VND,numeric__Cho vay khách hàng Triệu VND,numeric__Chứng khoán đầu tư Triệu VND,numeric__Các tài sản tài chính khác Triệu VND,numeric__Tổng cộng Triệu VND
+Chưa quá hạn và chưa bị suy giảm giá trị,Chưa quá hạn và chưa bị suy giảm giá trị,Chưa quá hạn và chưa bị suy giảm giá trị,5.119.306,8.240.861,16.065,720.577,157.462.420,41.198.851,6.323.335,219.081.415,5119306.0,8240861.0,16065.0,720577.0,157462420.0,41198851.0,6323335.0,219081415.0
+Đã quá hạn nhưng chưa bị suy giảm giá trị,Đã quá hạn nhưng chưa bị suy giảm giá trị,Đã quá hạn nhưng chưa bị suy giảm giá trị,-,-,-,-,145.545,-,47.990,193.535,,,,,145545.0,,47990.0,193535.0
+Bị suy giảm giá trị,Bị suy giảm giá trị,Bị suy giảm giá trị,-,525.000,-,-,3.421.273,3.664.477,1.042.353,8.653.103,,525000.0,,,3421273.0,3664477.0,1042353.0,8653103.0
+Trừ: Dự phòng rủi ro,Trừ: Dự phòng rủi ro,Trừ: Dự phòng rủi ro,-,(171.880),-,-,(1.770.453),(2.463.395),(516.907),(4.922.635),,-171880.0,,,-1770453.0,-2463395.0,-516907.0,-4922635.0
+Giá trị ròng,Giá trị ròng,Giá trị ròng,5.119.306,8.593.981,16.065,720.577,159.258.785,42.399.933,6.896.771,223.005.418,5119306.0,8593981.0,16065.0,720577.0,159258785.0,42399933.0,6896771.0,223005418.0
+Dự phòng rủi ro,Dự phòng rủi ro,Dự phòng rủi ro,,,,,,,,,,,,,,,,
+Dự phòng cụ thể,Dự phòng rủi ro > Dự phòng cụ thể,Dự phòng cụ thể,-,(171.880),-,-,(562.544),(2.434.705),-,(3.169.129),,-171880.0,,,-562544.0,-2434705.0,,-3169129.0
+Dự phòng chung,Dự phòng rủi ro > Dự phòng chung,Dự phòng chung,-,-,-,-,(1.207.909),(28.690),-,(1.236.599),,,,,-1207909.0,-28690.0,,-1236599.0
+Dự phòng rủi ro khác,Dự phòng rủi ro > Dự phòng rủi ro khác,Dự phòng rủi ro khác,-,-,-,-,-,-,(516.907),(516.907),,,,,,,-516907.0,-516907.0

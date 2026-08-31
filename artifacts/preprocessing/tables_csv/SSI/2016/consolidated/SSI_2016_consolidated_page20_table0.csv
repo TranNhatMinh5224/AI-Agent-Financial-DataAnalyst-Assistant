@@ -1,0 +1,14 @@
+﻿row_label_raw,row_label_full,Mã số,CHỈ TIÊU,Thuyết minh,Năm nay VND,Năm trước VND,numeric__CHỈ TIÊU,numeric__Thuyết minh,numeric__Năm nay VND,numeric__Năm trước VND
+,,,"I. Lưu chuyển tiền hoạt động môi giới, ủy thác của khách hàng",,,,,,,
+01,01,01,1. Tiền thu bán chứng khoán môi giới cho khách hàng,,76.974.085.890.096,54.774.857.771.475,,,76974085890096.0,54774857771475.0
+02,02,02,2. Tiền chi mua chứng khoán môi giới cho khách hàng,,(82.179.697.180.977),(58.413.755.103.364),,,-82179697180977.0,-58413755103364.0
+07,07,07,3. Nhận tiền gửi để thanh toán giao dịch chứng khoán của khách hàng,,7.335.183.804.235,4.828.197.619.154,,,7335183804235.0,4828197619154.0
+09,09,09,4. Chi trả phí lưu ký chứng khoán của khách hàng,,(9.562.903.693),(17.999.254.643),,,-9562903693.0,-17999254643.0
+12,12,12,5. Tiền thu của Tổ chức phát hành chứng khoán,,177.843.005.200,789.476.803.616,,,177843005200.0,789476803616.0
+13,13,13,6. Tiền chi trả Tổ chức phát hành chứng khoán,,(1.910.914.649.800),(1.661.731.345.344),,,-1910914649800.0,-1661731345344.0
+20,20,20,Tăng tiền thuần trong năm,,386.937.965.061,299.046.490.894,,,386937965061.0,299046490894.0
+30,30,30,II. Tiền và các khoản tương đương tiền đầu năm của khách hàng,,1.244.049.806.891,945.003.315.997,,,1244049806891.0,945003315997.0
+31,31,31,Tiền gửi ngân hàng đầu năm:,,1.244.049.806.891,945.003.315.997,,,1244049806891.0,945003315997.0
+32,32,32,- Tiền gửi của Nhà đầu tư về giao dịch chứng khoán theo phương thức CTCK quản lý,,1.239.463.316.338,943.333.972.189,,,1239463316338.0,943333972189.0
+33,33,33,- Tiền gửi tổng hợp giao dịch chứng khoán cho khách hàng,,2.192.903.193,810.026.688,,,2192903193.0,810026688.0
+35,35,35,- Tiền gửi của Tổ chức phát hành,,2.393.587.360,859.317.120,,,2393587360.0,859317120.0

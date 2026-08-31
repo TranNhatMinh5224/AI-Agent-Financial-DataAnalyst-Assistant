@@ -1,0 +1,26 @@
+﻿row_label_raw,row_label_full,Mã số,CHỈ TIÊU,Thuyết minh,Năm 2017 > VND,Năm 2016 > VND,numeric__CHỈ TIÊU,numeric__Thuyết minh,numeric__Năm 2017 > VND,numeric__Năm 2016 > VND
+,,,I. LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG KINH DOANH,I. LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG KINH DOANH,I. LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG KINH DOANH,I. LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG KINH DOANH,,,,
+01,01,01,"1. Tiền thu từ bán hàng, cung cấp dịch vụ và doanh thu khác",,11.098.910.374.628,11.600.672.838.228,,,11098910374628.0,11600672838228.0
+02,02,02,2. Tiền chi trả cho người cung cấp hàng hóa và dịch vụ,,(9.659.512.975.462),(11.600.124.584.378),,,-9659512975462.0,-11600124584378.0
+03,03,03,3. Tiền chi trả cho người lao động,,(161.079.184.962),(200.144.770.282),,,-161079184962.0,-200144770282.0
+04,04,04,4. Tiền lãi vay đã trả,,(111.471.145.271),(136.764.347.199),,,-111471145271.0,-136764347199.0
+05,05,05,5. Thuế thu nhập doanh nghiệp đã nộp,,-,(23.016.148.171),,,,-23016148171.0
+06,06,06,6. Tiền thu khác từ hoạt động kinh doanh,,782.110.847.871,390.493.178.783,,,782110847871.0,390493178783.0
+07,07,07,7. Tiền chi khác cho hoạt động kinh doanh,,(1.050.935.045.609),(293.198.014.616),,,-1050935045609.0,-293198014616.0
+20,20,20,Lưu chuyển tiền thuần từ hoạt động kinh doanh,,898.022.871.195,(262.081.847.635),,,898022871195.0,-262081847635.0
+,,,II. LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG ĐẦU TƯ,II. LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG ĐẦU TƯ,II. LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG ĐẦU TƯ,II. LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG ĐẦU TƯ,,,,
+21,21,21,"1. Tiền chi để mua sắm, xây dựng tài sản cố định và các tài sản dài hạn khác",,(56.068.117.164),(108.722.669.084),,,-56068117164.0,-108722669084.0
+22,22,22,"2. Tiền thu từ thanh lý, nhượng bán tài sản cố định và các tài sản dài hạn khác",,2.228.040.909,480.288.182,,,2228040909.0,480288182.0
+23,23,23,"3. Tiền chi cho vay, mua các công cụ nợ của đơn vị khác",,(2.000.000.000),-,,,-2000000000.0,
+24,24,24,"4. Tiền thu hồi cho vay, bán lại các công cụ nợ của đơn vị khác",,-,1.600.000.000,,,,1600000000.0
+26,26,26,5. Tiền thu hồi đầu tư góp vốn vào đơn vị khác,,-,125.567.626.969,,,,125567626969.0
+27,27,27,"6. Tiền thu lãi cho vay, cổ tức và lợi nhuận được chia",,29.364.902.958,26.491.213.429,,,29364902958.0,26491213429.0
+30,30,30,Lưu chuyển tiền thuần từ hoạt động đầu tư,,(26.475.173.297),45.416.459.496,,,-26475173297.0,45416459496.0
+,,,III. LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH,III. LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH,III. LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH,III. LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH,,,,
+33,33,33,1. Tiền thu từ di vay,,8.991.291.534.023,11.707.810.771.793,,,8991291534023.0,11707810771793.0
+34,34,34,2. Tiền trả nợ gốc vay,,(9.593.792.283.498),(13.099.123.406.079),,,-9593792283498.0,-13099123406079.0
+40,40,40,Lưu chuyển tiền thuần từ hoạt động tài chính,,(602.500.749.475),(1.391.312.634.286),,,-602500749475.0,-1391312634286.0
+50,50,50,Lưu chuyển tiền thuần trong năm,,269.046.948.423,(1.607.978.022.425),,,269046948423.0,-1607978022425.0
+60,60,60,Tiền và tương đương tiền đầu năm,,396.213.712.885,2.004.349.435.419,,,396213712885.0,2004349435419.0
+61,61,61,Ảnh hưởng của thay đổi tỷ giá hối doái quy đổi ngoại tệ,,(156.966.246),(157.700.109),,,-156966246.0,-157700109.0
+70,70,70,Tiền và tương đương tiền cuối năm,3,665.103.695.062,396.213.712.885,,3.0,665103695062.0,396213712885.0

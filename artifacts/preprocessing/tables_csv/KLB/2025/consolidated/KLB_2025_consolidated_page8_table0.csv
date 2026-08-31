@@ -1,0 +1,49 @@
+﻿row_label_raw,row_label_full,Đơn vị tính: Triệu VND,Đơn vị tính: Triệu VND_1,Đơn vị tính: Triệu VND > Thuyết minh,Đơn vị tính: Triệu VND > Số cuối năm,Đơn vị tính: Triệu VND > Số đầu năm,numeric__Đơn vị tính: Triệu VND_1,numeric__Đơn vị tính: Triệu VND > Thuyết minh,numeric__Đơn vị tính: Triệu VND > Số cuối năm,numeric__Đơn vị tính: Triệu VND > Số đầu năm
+A -,A -,A -,TÀI SẢN,,,,,,,
+I.,A - > I.,I.,"Tiền mặt, vàng bạc, đá quý",V.1,602.139,538.410,,,602139.0,538410.0
+II.,A - > II.,II.,Tiền gửi tại NHNN,V.2,5.803.001,4.207.486,,,5803001.0,4207486.0
+III.,A - > III.,III.,Tiền gửi và cho vay các TCTD khác,,16.164.800,15.504.604,,,16164800.0,15504604.0
+1.,A - > 1.,1.,Tiền gửi tại các TCTD khác,V.3,16.164.800,15.504.604,,,16164800.0,15504604.0
+2.,2.,2.,Cho vay các TCTD khác,,-,-,,,,
+3.,3.,3.,Dự phòng rủi ro,,-,-,,,,
+IV.,IV.,IV.,Chứng khoán kinh doanh,,-,-,,,,
+1.,1.,1.,Chứng khoán kinh doanh,,-,-,,,,
+2.,2.,2.,Dự phòng rủi ro chứng khoán kinh doanh,,-,-,,,,
+V.,2. > V.,V.,Các công cụ tài chính phải sinh và các tài sản tài chính khác,V.15,224.532,-,,,224532.0,
+VI.,2. > VI.,VI.,Cho vay khách hàng,,70.413.492,60.451.562,,,70413492.0,60451562.0
+1.,2. > 1.,1.,Cho vay khách hàng,V.4,71.587.702,61.431.909,,,71587702.0,61431909.0
+2.,2. > 2.,2.,Dự phòng rủi ro cho vay khách hàng,V.5,(1.174.210),(980.347),,,-1174210.0,-980347.0
+VII.,VII.,VII.,Hoạt động mua nợ,,-,-,,,,
+1.,1.,1.,Mua nợ,,-,-,,,,
+2.,2.,2.,Dự phòng rủi ro hoạt động mua nợ,,-,-,,,,
+VIII.,2. > VIII.,VIII.,Chứng khoán đầu tư,V.6,3.013.321,2.973.962,,,3013321.0,2973962.0
+1.,2. > 1.,1.,Chứng khoán đầu tư sẵn sàng để bán,V.6,1.343.760,1.298.447,,,1343760.0,1298447.0
+2.,2. > 2.,2.,Chứng khoán đầu tư giữ đến ngày đáo hạn,V.6,1.669.561,1.675.515,,,1669561.0,1675515.0
+3.,3.,3.,Dự phòng rủi ro chứng khoán đầu tư,,-,-,,,,
+IX.,IX.,IX.,"Góp vốn, đầu tư dài hạn",,-,-,,,,
+1.,1.,1.,Đầu tư vào công ty con,,-,-,,,,
+2.,2.,2.,Vốn góp liên doanh,,-,-,,,,
+3.,3.,3.,Đầu tư vào công ty liên kết,,-,-,,,,
+4.,4.,4.,Đầu tư dài hạn khác,,-,-,,,,
+5.,5.,5.,Dự phòng giảm giá đầu tư dài hạn,,-,-,,,,
+X.,5. > X.,X.,Tài sản cố định,,1.382.212,1.414.961,,,1382212.0,1414961.0
+1.,5. > 1.,1.,Tài sản cố định hữu hình,V.7,611.839,623.092,,,611839.0,623092.0
+a.,5. > a.,a.,Nguyên giá TSCĐ,V.7,1.208.441,1.171.451,,,1208441.0,1171451.0
+b.,5. > b.,b.,Hao mòn TSCĐ,V.7,(596.602),(548.359),,,-596602.0,-548359.0
+2.,2.,2.,Tài sản cố định thuê tài chính,,-,-,,,,
+a.,a.,a.,Nguyên giá TSCĐ,,-,-,,,,
+b.,b.,b.,Hao mòn TSCĐ,,-,-,,,,
+3.,b. > 3.,3.,Tài sản cố định vô hình,V.8,770.373,791.869,,,770373.0,791869.0
+a.,b. > a.,a.,Nguyên giá TSCĐ,V.8,936.126,934.126,,,936126.0,934126.0
+b.,b. > b.,b.,Hao mòn TSCĐ,V.8,(165.753),(142.257),,,-165753.0,-142257.0
+XI.,XI.,XI.,Bất động sản đầu tư,,-,-,,,,
+a.,a.,a.,Nguyên giá BĐSDĐT,,-,-,,,,
+b.,b.,b.,Hao mòn BĐSDĐT,,-,-,,,,
+XII.,b. > XII.,XII.,Tài sản Có khác,,5.699.192,7.085.283,,,5699192.0,7085283.0
+1.,b. > 1.,1.,Các khoản phải thu,V.9,3.364.338,5.290.868,,,3364338.0,5290868.0
+2.,b. > 2.,2.,"Các khoản lãi, phí phải thu",V.10,1.806.299,1.393.393,,,1806299.0,1393393.0
+3.,3.,3.,Tài sản thuế TNDN hoãn lại,,-,-,,,,
+4.,3. > 4.,4.,Tài sản Có khác,V.11,658.472,500.378,,,658472.0,500378.0
+,,,Trong đó: lợi thế thương mại,,-,-,,,,
+5.,3. > 5.,5.,Các khoản dự phòng rủi ro cho các tài sản Có nội bảng khác,V.12,(129.917),(99.356),,,-129917.0,-99356.0
+,,,TỔNG TÀI SẢN CÓ,,103.302.689,92.176.268,,,103302689.0,92176268.0

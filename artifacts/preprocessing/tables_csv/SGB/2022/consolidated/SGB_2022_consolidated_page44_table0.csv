@@ -1,0 +1,10 @@
+﻿row_label_raw,row_label_full,Chỉ tiêu,Số dư đầu năm,Phát sinh trong kỳ > Số phải nộp,Phát sinh trong kỳ > Số đã nộp,Số dư cuối kỳ,numeric__Số dư đầu năm,numeric__Phát sinh trong kỳ > Số phải nộp,numeric__Phát sinh trong kỳ > Số đã nộp,numeric__Số dư cuối kỳ
+1. Thuế GTGT,1. Thuế GTGT,1. Thuế GTGT,721,6.137,6.112,746,721.0,6137.0,6112.0,746.0
+2. Thuế tiêu thụ đặc biệt,2. Thuế tiêu thụ đặc biệt,2. Thuế tiêu thụ đặc biệt,-,-,-,-,,,,
+3. Thuế TNDN,2. Thuế tiêu thụ đặc biệt > 3. Thuế TNDN,3. Thuế TNDN,7.878,47.737,41.154,14.461,7878.0,47737.0,41154.0,14461.0
+a. Thuế TNDN,2. Thuế tiêu thụ đặc biệt > a. Thuế TNDN,a. Thuế TNDN,7.878,47.017,40.434,14.461,7878.0,47017.0,40434.0,14461.0
+Thuế TNDN của ngân hàng,2. Thuế tiêu thụ đặc biệt > Thuế TNDN của ngân hàng,Thuế TNDN của ngân hàng,8.184,46.242,40.184,14.242,8184.0,46242.0,40184.0,14242.0
+Thuế TNDN của Công ty con,2. Thuế tiêu thụ đặc biệt > Thuế TNDN của Công ty con,Thuế TNDN của Công ty con,(306),775,250,219,-306.0,775.0,250.0,219.0
+b. Thuế TNDN nhà thầu nước ngoài,2. Thuế tiêu thụ đặc biệt > b. Thuế TNDN nhà thầu nước ngoài,b. Thuế TNDN nhà thầu nước ngoài,-,720,720,-,,720.0,720.0,
+4. Các loại thuế khác,2. Thuế tiêu thụ đặc biệt > 4. Các loại thuế khác,4. Các loại thuế khác,247,5.399,4.976,670,247.0,5399.0,4976.0,670.0
+Tổng cộng,2. Thuế tiêu thụ đặc biệt > Tổng cộng,Tổng cộng,8.846,59.273,52.242,15.877,8846.0,59273.0,52242.0,15877.0

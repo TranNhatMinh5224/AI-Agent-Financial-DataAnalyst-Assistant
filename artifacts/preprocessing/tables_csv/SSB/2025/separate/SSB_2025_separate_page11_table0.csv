@@ -1,0 +1,22 @@
+﻿row_label_raw,row_label_full,col_0,col_1,Thuyết minh,Năm tài chính kết thúc ngày > 31.12.2025Triệu đồng,Năm tài chính kết thúc ngày > 31.12.2024Triệu đồng,numeric__col_1,numeric__Thuyết minh,numeric__Năm tài chính kết thúc ngày > 31.12.2025Triệu đồng,numeric__Năm tài chính kết thúc ngày > 31.12.2024Triệu đồng
+1,1,1,Thu nhập lãi và các khoản thu nhập tương tự,19,24.532.799,19.629.730,,19.0,24532799.0,19629730.0
+2,2,2,Chi phí lãi và các chi phí tương tự,20,(14.881.877),(10.771.932),,20.0,-14881877.0,-10771932.0
+I,I,I,Thu nhập lãi thuần,,9.650.922,8.857.798,,,9650922.0,8857798.0
+3,3,3,Thu nhập từ hoạt động dịch vụ,21,967.700,1.297.718,,21.0,967700.0,1297718.0
+4,4,4,Chi phí hoạt động dịch vụ,22,(261.100),(221.072),,22.0,-261100.0,-221072.0
+II,II,II,Lãi thuần từ hoạt động dịch vụ,,706.600,1.076.646,,,706600.0,1076646.0
+III,III,III,Lãi thuần từ hoạt động kinh doanh ngoại hối,23,427.634,570.581,,23.0,427634.0,570581.0
+IV,IV,IV,Lãi/(lỗ) thuần từ mua bán chứng khoán kinh doanh,24,217.406,(172.141),,24.0,217406.0,-172141.0
+V,V,V,Lãi thuần từ mua bán chứng khoán đầu tư,25,268.721,321.407,,25.0,268721.0,321407.0
+5,5,5,Thu nhập từ hoạt động khác,,352.470,785.895,,,352470.0,785895.0
+6,6,6,Chi phí hoạt động khác,,(209.778),(189.568),,,-209778.0,-189568.0
+VI,VI,VI,Lãi thuần từ hoạt động khác,26,142.692,596.327,,26.0,142692.0,596327.0
+VII,VII,VII,"Thu nhập từ góp vốn, mua cổ phần",27,2.553.710,1.396,,27.0,2553710.0,1396.0
+VIII,VIII,VIII,Chi phí hoạt động,28,(4.640.378),(3.827.587),,28.0,-4640378.0,-3827587.0
+IX,IX,IX,Lợi nhuận thuần từ hoạt động kinh doanh trướcchi phí dự phòng rủi ro tín dụng,,9.327.307,7.424.427,,,9327307.0,7424427.0
+X,X,X,Chi phí dự phòng rủi ro tín dụng,29,(2.585.122),(1.514.956),,29.0,-2585122.0,-1514956.0
+XI,XI,XI,Tổng lợi nhuận trước thuế,,6.742.185,5.909.471,,,6742185.0,5909471.0
+7,7,7,"Chi phí thuế thu nhập doanh nghiệp (""TNDN"") - hiện hành",,(1.345.829),(1.181.961),,,-1345829.0,-1181961.0
+8,8,8,Chi phí thuế TNDN - hoãn lại,,-,-,,,,
+XII,8 > XII,XII,Chi phí thuế TNDN,30,(1.345.829),(1.181.961),,30.0,-1345829.0,-1181961.0
+XIII,8 > XIII,XIII,Lợi nhuận sau thuế,,5.396.356,4.727.510,,,5396356.0,4727510.0

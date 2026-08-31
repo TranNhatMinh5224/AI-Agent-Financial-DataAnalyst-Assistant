@@ -1,0 +1,17 @@
+﻿row_label_raw,row_label_full,col_0,Số đầu năm,Tăng do hợp nhất kinh doanh,Số phải thu/nộp trong năm,Số đã thực thu/nộp trong năm,Số cuối năm,numeric__Số đầu năm,numeric__Tăng do hợp nhất kinh doanh,numeric__Số phải thu/nộp trong năm,numeric__Số đã thực thu/nộp trong năm,numeric__Số cuối năm
+,,,VND,VND,VND,VND,VND,,,,,
+a. Các khoản phải thu,a. Các khoản phải thu,a. Các khoản phải thu,a. Các khoản phải thu,a. Các khoản phải thu,a. Các khoản phải thu,a. Các khoản phải thu,a. Các khoản phải thu,,,,,
+Thuế giá trị gia tăng,a. Các khoản phải thu > Thuế giá trị gia tăng,Thuế giá trị gia tăng,104.855.724,-,-,-,104.855.724,104855724.0,,,,104855724.0
+Tiền thuê đất,a. Các khoản phải thu > Tiền thuê đất,Tiền thuê đất,397.346.605,-,1.026.925.907,1.026.925.907,397.346.605,397346605.0,,1026925907.0,1026925907.0,397346605.0
+,,,502.202.329,-,1.026.925.907,1.026.925.907,502.202.329,502202329.0,,1026925907.0,1026925907.0,502202329.0
+b. Các khoản phải nộp,b. Các khoản phải nộp,b. Các khoản phải nộp,b. Các khoản phải nộp,b. Các khoản phải nộp,b. Các khoản phải nộp,b. Các khoản phải nộp,b. Các khoản phải nộp,,,,,
+Thuế giá trị gia tăng đầu ra,b. Các khoản phải nộp > Thuế giá trị gia tăng đầu ra,Thuế giá trị gia tăng đầu ra,-,-,1.385.303.268,1.385.303.268,-,,,1385303268.0,1385303268.0,
+Thuế giá trị gia tăng hàng nhập khẩu,b. Các khoản phải nộp > Thuế giá trị gia tăng hàng nhập khẩu,Thuế giá trị gia tăng hàng nhập khẩu,-,-,5.494.071.195,5.494.071.195,-,,,5494071195.0,5494071195.0,
+Thuế xuất khẩu,b. Các khoản phải nộp > Thuế xuất khẩu,Thuế xuất khẩu,-,-,126.785.608.984,126.785.608.984,-,,,126785608984.0,126785608984.0,
+Thuế nhập khẩu,b. Các khoản phải nộp > Thuế nhập khẩu,Thuế nhập khẩu,9.517.173.543,-,29.745.159.045,39.262.332.588,-,9517173543.0,,29745159045.0,39262332588.0,
+Thuế thu nhập doanh nghiệp,b. Các khoản phải nộp > Thuế thu nhập doanh nghiệp,Thuế thu nhập doanh nghiệp,54.161.526.803,-,99.848.202.450,118.199.727.784,35.810.001.469,54161526803.0,,99848202450.0,118199727784.0,35810001469.0
+Thuế thu nhập cá nhân,b. Các khoản phải nộp > Thuế thu nhập cá nhân,Thuế thu nhập cá nhân,10.181.148.818,(192.472.132),98.366.008.536,93.885.105.714,14.469.579.508,10181148818.0,-192472132.0,98366008536.0,93885105714.0,14469579508.0
+Thuế tài nguyên,b. Các khoản phải nộp > Thuế tài nguyên,Thuế tài nguyên,228.356.850,-,2.570.693.250,2.570.046.900,229.003.200,228356850.0,,2570693250.0,2570046900.0,229003200.0
+Thuế môn bài,b. Các khoản phải nộp > Thuế môn bài,Thuế môn bài,-,-,9.000.000,9.000.000,-,,,9000000.0,9000000.0,
+"Thuế, phí và các khoản lệ phí khác","b. Các khoản phải nộp > Thuế, phí và các khoản lệ phí khác","Thuế, phí và các khoản lệ phí khác",37.037,-,6.764.387.695,6.741.224.383,23.200.349,37037.0,,6764387695.0,6741224383.0,23200349.0
+,,,74.088.243.051,(192.472.132),370.968.434.423,394.332.420.816,50.531.784.526,74088243051.0,-192472132.0,370968434423.0,394332420816.0,50531784526.0

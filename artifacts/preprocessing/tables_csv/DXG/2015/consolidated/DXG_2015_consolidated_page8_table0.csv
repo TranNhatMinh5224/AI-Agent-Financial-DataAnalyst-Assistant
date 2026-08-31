@@ -1,0 +1,25 @@
+﻿row_label_raw,row_label_full,CHỈ TIÊU,Mã số,Thuyết minh,2015,2014,numeric__Mã số,numeric__Thuyết minh,numeric__2015,numeric__2014
+1. Doanh thu bán hàng,1. Doanh thu bán hàng,1. Doanh thu bán hàng,01,,1.396.963.102.468,522.678.876.644,1.0,,1396963102468.0,522678876644.0
+2. Các khoản giảm trừ doanh thu,2. Các khoản giảm trừ doanh thu,2. Các khoản giảm trừ doanh thu,02,,2.458.324.800,16.498.219.182,2.0,,2458324800.0,16498219182.0
+3. Doanh thu thuần bán hàng,3. Doanh thu thuần bán hàng,3. Doanh thu thuần bán hàng,10,22,1.394.504.777.668,506.180.657.462,10.0,22.0,1394504777668.0,506180657462.0
+4. Giá vốn hàng bán,4. Giá vốn hàng bán,4. Giá vốn hàng bán,11,23,735.259.955.275,204.365.448.866,11.0,23.0,735259955275.0,204365448866.0
+5. Lợi nhuận gộp,5. Lợi nhuận gộp,5. Lợi nhuận gộp,20,,659.244.822.393,301.815.208.596,20.0,,659244822393.0,301815208596.0
+6. Doanh thu hoạt động tài chính,6. Doanh thu hoạt động tài chính,6. Doanh thu hoạt động tài chính,21,24,36.843.777.959,83.903.183.685,21.0,24.0,36843777959.0,83903183685.0
+7. Chi phí hoạt động tài chính,7. Chi phí hoạt động tài chính,7. Chi phí hoạt động tài chính,22,25,8.494.992.425,79.290.701,22.0,25.0,8494992425.0,79290701.0
+Trong đó: chi phí lãi vay,Trong đó: chi phí lãi vay,Trong đó: chi phí lãi vay,23,,4.909.963.431,79.290.701,23.0,,4909963431.0,79290701.0
+"8. Lợi nhuận công ty liên doanh, liên kết","8. Lợi nhuận công ty liên doanh, liên kết","8. Lợi nhuận công ty liên doanh, liên kết",24,,66.590.908.678,15.644.927.383,24.0,,66590908678.0,15644927383.0
+9. Chi phí bán hàng,9. Chi phí bán hàng,9. Chi phí bán hàng,24,26,144.354.646.805,54.302.469.731,24.0,26.0,144354646805.0,54302469731.0
+10. Chi phí quản lý doanh nghiệp,10. Chi phí quản lý doanh nghiệp,10. Chi phí quản lý doanh nghiệp,25,27,125.097.567.013,82.327.576.803,25.0,27.0,125097567013.0,82327576803.0
+11. Lãi từ hoạt động kinh doanh,11. Lãi từ hoạt động kinh doanh,11. Lãi từ hoạt động kinh doanh,30,,484.732.302.787,264.653.982.429,30.0,,484732302787.0,264653982429.0
+12. Thu nhập khác,12. Thu nhập khác,12. Thu nhập khác,31,,65.594.444.012,2.995.435.081,31.0,,65594444012.0,2995435081.0
+13. Chi phí khác,13. Chi phí khác,13. Chi phí khác,32,,9.937.008.425,1.280.391.822,32.0,,9937008425.0,1280391822.0
+14. Lợi nhuận khác,14. Lợi nhuận khác,14. Lợi nhuận khác,40,,55.657.435.587,1.715.043.259,40.0,,55657435587.0,1715043259.0
+15. Lãi kế toán trước thuế,15. Lãi kế toán trước thuế,15. Lãi kế toán trước thuế,50,,540.389.738.374,266.369.025.688,50.0,,540389738374.0,266369025688.0
+16. Chi phí thuế TNDN hiện hành,16. Chi phí thuế TNDN hiện hành,16. Chi phí thuế TNDN hiện hành,51,,97.933.278.406,55.480.718.716,51.0,,97933278406.0,55480718716.0
+17. Chi phí thuế TNDN hoãn lại,17. Chi phí thuế TNDN hoãn lại,17. Chi phí thuế TNDN hoãn lại,53,,(3.160.356.170),(2.159.713.532),53.0,,-3160356170.0,-2159713532.0
+18. Lãi sau thuế thu nhập doanh nghiệp,18. Lãi sau thuế thu nhập doanh nghiệp,18. Lãi sau thuế thu nhập doanh nghiệp,60,,445.616.816.138,213.048.020.504,60.0,,445616816138.0,213048020504.0
+Phân bổ cho:,Phân bổ cho:,Phân bổ cho:,,,,,,,,
+18.1 Cổ đông của Công ty,Phân bổ cho: > 18.1 Cổ đông của Công ty,18.1 Cổ đông của Công ty,61,,336.628.536.350,167.834.489.624,61.0,,336628536350.0,167834489624.0
+18.2 Lợi ích của cổ đông thiếu số,Phân bổ cho: > 18.2 Lợi ích của cổ đông thiếu số,18.2 Lợi ích của cổ đông thiếu số,62,,108.988.279.788,45.213.530.880,62.0,,108988279788.0,45213530880.0
+19. Lãi cơ bản trên cổ phiếu,Phân bổ cho: > 19. Lãi cơ bản trên cổ phiếu,19. Lãi cơ bản trên cổ phiếu,70,29,3.125,2.346,70.0,29.0,3125.0,2346.0
+20. Lãi suy giảm trên cổ phiếu,Phân bổ cho: > 20. Lãi suy giảm trên cổ phiếu,20. Lãi suy giảm trên cổ phiếu,71,,3.125,2.346,71.0,,3125.0,2346.0

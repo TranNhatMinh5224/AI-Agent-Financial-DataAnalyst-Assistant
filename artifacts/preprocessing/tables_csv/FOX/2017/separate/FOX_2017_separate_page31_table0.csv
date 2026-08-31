@@ -1,0 +1,19 @@
+﻿row_label_raw,row_label_full,CHỈ TIÊU,Mã số,Số năm nay,Số năm trước,numeric__Mã số,numeric__Số năm nay,numeric__Số năm trước
+1. Doanh thu bán hàng và cung cấp dịch vụ,1. Doanh thu bán hàng và cung cấp dịch vụ,1. Doanh thu bán hàng và cung cấp dịch vụ,01,8.448.884.408.597,7.521.222.606.271,1.0,8448884408597.0,7521222606271.0
+2. Các khoản giảm trừ doanh thu,2. Các khoản giảm trừ doanh thu,2. Các khoản giảm trừ doanh thu,02,11.374.359.218,22.365.198.383,2.0,11374359218.0,22365198383.0
+3. Doanh thu thuần về bán hàng và cung cấp dịch vụ (10=01-02),3. Doanh thu thuần về bán hàng và cung cấp dịch vụ (10=01-02),3. Doanh thu thuần về bán hàng và cung cấp dịch vụ (10=01-02),10,8.437.510.049.379,7.498.857.407.888,10.0,8437510049379.0,7498857407888.0
+4. Giá vốn hàng bán và dịch vụ cung cấp,4. Giá vốn hàng bán và dịch vụ cung cấp,4. Giá vốn hàng bán và dịch vụ cung cấp,11,6.084.052.285.194,5.830.143.080.933,11.0,6084052285194.0,5830143080933.0
+5. Lợi nhuận gộp về bán hàng và cung cấp dịch vụ (20=10-11),5. Lợi nhuận gộp về bán hàng và cung cấp dịch vụ (20=10-11),5. Lợi nhuận gộp về bán hàng và cung cấp dịch vụ (20=10-11),20,2.353.457.764.185,1.668.714.326.955,20.0,2353457764185.0,1668714326955.0
+6. Doanh thu hoạt động tài chính,6. Doanh thu hoạt động tài chính,6. Doanh thu hoạt động tài chính,21,55.819.621.794,67.648.290.043,21.0,55819621794.0,67648290043.0
+7. Chi phí tài chính,7. Chi phí tài chính,7. Chi phí tài chính,22,120.533.047.476,153.296.163.264,22.0,120533047476.0,153296163264.0
+- Trong đó: Chi phí lãi vay,- Trong đó: Chi phí lãi vay,- Trong đó: Chi phí lãi vay,23,118.843.999.299,150.786.913.155,23.0,118843999299.0,150786913155.0
+8. Chi phí bán hàng,8. Chi phí bán hàng,8. Chi phí bán hàng,25,553.982.509.724,475.241.711.365,25.0,553982509724.0,475241711365.0
+9. Chi phí quản lý doanh nghiệp,9. Chi phí quản lý doanh nghiệp,9. Chi phí quản lý doanh nghiệp,26,1.532.155.261.260,1.030.375.756.081,26.0,1532155261260.0,1030375756081.0
+10. Lợi nhuận thuần từ hoạt động kinh doanh (30=20+(21-22)-(25+26)),10. Lợi nhuận thuần từ hoạt động kinh doanh (30=20+(21-22)-(25+26)),10. Lợi nhuận thuần từ hoạt động kinh doanh (30=20+(21-22)-(25+26)),30,202.606.567.519,77.448.986.288,30.0,202606567519.0,77448986288.0
+11. Thu nhập khác,11. Thu nhập khác,11. Thu nhập khác,31,3.443.960.161,4.090.691.773,31.0,3443960161.0,4090691773.0
+12. Chi phí khác,12. Chi phí khác,12. Chi phí khác,32,29.000.858.968,5.496.104.241,32.0,29000858968.0,5496104241.0
+13. Lợi nhuận khác (40=31-32),13. Lợi nhuận khác (40=31-32),13. Lợi nhuận khác (40=31-32),40,(25.556.898.807),(1.405.412.468),40.0,-25556898807.0,-1405412468.0
+14. Tổng lợi nhuận kế toán trước thuế (50=30+40),14. Tổng lợi nhuận kế toán trước thuế (50=30+40),14. Tổng lợi nhuận kế toán trước thuế (50=30+40),50,177.049.668.712,76.043.573.820,50.0,177049668712.0,76043573820.0
+15. Chi phí thuế thu nhập doanh nghiệp hiện hành,15. Chi phí thuế thu nhập doanh nghiệp hiện hành,15. Chi phí thuế thu nhập doanh nghiệp hiện hành,51,-,-,51.0,,
+16.Chi phí thuế thu nhập doanh nghiệp hoãn lại,16.Chi phí thuế thu nhập doanh nghiệp hoãn lại,16.Chi phí thuế thu nhập doanh nghiệp hoãn lại,52,24.138.169.329,7.042.276.794,52.0,24138169329.0,7042276794.0
+17. Lợi nhuận sau thuế thu nhập doanh nghiệp (60=50-51-52),17. Lợi nhuận sau thuế thu nhập doanh nghiệp (60=50-51-52),17. Lợi nhuận sau thuế thu nhập doanh nghiệp (60=50-51-52),60,152.911.499.383,69.001.297.026,60.0,152911499383.0,69001297026.0

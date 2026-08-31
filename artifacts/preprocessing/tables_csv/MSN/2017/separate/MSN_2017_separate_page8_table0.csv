@@ -1,0 +1,13 @@
+﻿row_label_raw,row_label_full,col_0,Mã số,Thuyết minh,2017 VND,2016 VND,numeric__Mã số,numeric__Thuyết minh,numeric__2017 VND,numeric__2016 VND
+Doanh thu hoạt động tài chính,Doanh thu hoạt động tài chính,Doanh thu hoạt động tài chính,21,18,2.580.476.835.997,1.861.035.493.591,21.0,18.0,2580476835997.0,1861035493591.0
+Chi phí tài chính,Chi phí tài chính,Chi phí tài chính,22,19,1.085.515.700.125,670.689.135.928,22.0,19.0,1085515700125.0,670689135928.0
+Trong đó: Chi phí lãi vay,Trong đó: Chi phí lãi vay,Trong đó: Chi phí lãi vay,23,,970.447.273.271,613.355.184.493,23.0,,970447273271.0,613355184493.0
+Chi phí quản lý doanh nghiệp,Chi phí quản lý doanh nghiệp,Chi phí quản lý doanh nghiệp,26,20,141.480.575.629,388.854.380.252,26.0,20.0,141480575629.0,388854380252.0
+Lợi nhuận thuần từ hoạt động kinh doanh (30 = 21 - 22 - 26),Lợi nhuận thuần từ hoạt động kinh doanh (30 = 21 - 22 - 26),Lợi nhuận thuần từ hoạt động kinh doanh (30 = 21 - 22 - 26),30,,1.353.480.560.243,801.491.977.411,30.0,,1353480560243.0,801491977411.0
+Thu nhập khác,Thu nhập khác,Thu nhập khác,31,,-,122.230,31.0,,,122230.0
+Chi phí khác,Chi phí khác,Chi phí khác,32,,86.017.227,3.434.314.707,32.0,,86017227.0,3434314707.0
+Kết quả từ các hoạt động khác (40 = 31 - 32),Kết quả từ các hoạt động khác (40 = 31 - 32),Kết quả từ các hoạt động khác (40 = 31 - 32),40,,(86.017.227),(3.434.192.477),40.0,,-86017227.0,-3434192477.0
+Lợi nhuận kế toán trước thuế (50 = 30 + 40),Lợi nhuận kế toán trước thuế (50 = 30 + 40),Lợi nhuận kế toán trước thuế (50 = 30 + 40),50,,1.353.394.543.016,798.057.784.934,50.0,,1353394543016.0,798057784934.0
+Chi phí thuế TNDN hiện hành,Chi phí thuế TNDN hiện hành,Chi phí thuế TNDN hiện hành,51,21,-,-,51.0,21.0,,
+Chi phí thuế TNDN hoãn lại,Chi phí thuế TNDN hoãn lại,Chi phí thuế TNDN hoãn lại,52,21,-,-,52.0,21.0,,
+Lợi nhuận sau thuế TNDN (60 = 50 - 51 - 52),Lợi nhuận sau thuế TNDN (60 = 50 - 51 - 52),Lợi nhuận sau thuế TNDN (60 = 50 - 51 - 52),60,,1.353.394.543.016,798.057.784.934,60.0,,1353394543016.0,798057784934.0

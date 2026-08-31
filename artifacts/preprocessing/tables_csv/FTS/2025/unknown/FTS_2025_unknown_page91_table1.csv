@@ -1,0 +1,17 @@
+﻿row_label_raw,row_label_full,No.,List of financial assets,Purchase value according to accounting books,Market value (*),Difference re-evaluated in this period,Difference re-evaluated in previous period,Difference for adjusting the accounting books in this period,numeric__List of financial assets,numeric__Purchase value according to accounting books,numeric__Market value (*),numeric__Difference re-evaluated in this period,numeric__Difference re-evaluated in previous period,numeric__Difference for adjusting the accounting books in this period
+A,A,A,B,C,D,E=D-C,F,G=E-F,,,,,,
+I,A > I,I,Type of FVTPL,2.129.899.423.131,2.508.787.157.290,378.887.734.159,485.498.733.814,(106.610.999.655),,2129899423131.0,2508787157290.0,378887734159.0,485498733814.0,-106610999655.0
+1,A > 1,1,"Listed shares, registered for trading",12.039.250.985,390.926.985.144,378.887.734.159,485.498.733.814,(106.610.999.655),,12039250985.0,390926985144.0,378887734159.0,485498733814.0,-106610999655.0
+2,A > 2,2,Unlisted shares,2.025.968.404,2.025.968.404,,,,,2025968404.0,2025968404.0,,,
+3,A > 3,3,Bonds,1.989.652.500.000,1.989.652.500.000,,,,,1989652500000.0,1989652500000.0,,,
+4,A > 4,4,Monetary instruments,126.181.703.742,126.181.703.742,,,,,126181703742.0,126181703742.0,,,
+5,5,5,Warrants,,,,,,,,,,,
+6,6,6,Listed derivative investments,,,,,,,,,,,
+7,7,7,Unlisted derivative investments,,,,,,,,,,,
+8,8,8,Loaned investments,,,,,,,,,,,
+9,9,9,Mortgaged investments,,,,,,,,,,,
+10,10,10,Bought investments have not been transferred ownership yet,,,,,,,,,,,
+II,II,II,Type of HTM,,,,,,,,,,,
+III,III,III,Type of loans and receivables,,,,,,,,,,,
+IV,IV,IV,Type of AFS,,,,,,,,,,,
+,,,Total,2.129.899.423.131,2.508.787.157.290,378.887.734.159,485.498.733.814,(106.610.999.655),,2129899423131.0,2508787157290.0,378887734159.0,485498733814.0,-106610999655.0

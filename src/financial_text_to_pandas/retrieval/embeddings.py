@@ -1,13 +1,8 @@
-"""
-embeddings.py — Dense retrieval and mock embeddings.
-
-Phase 2, Step 5.
-"""
-
-from __future__ import annotations
-
+import json
+import urllib.request
 import datetime
 import hashlib
+import time
 from pathlib import Path
 from typing import List, Optional
 
@@ -16,8 +11,46 @@ import pandas as pd
 from tqdm import tqdm
 
 from financial_text_to_pandas.types import Candidate
+from financial_text_to_pandas.config import settings
 
-_EMBEDDING_MODEL = None  # Biến toàn cục (Singleton) để load model 1 lần duy nhất
+_EMBEDDING_MODEL = None  # Singleton for local SentenceTransformer
+
+
+def _call_api_embeddings(
+    texts: list[str], 
+    model_name: str, 
+    base_url: Optional[str] = None, 
+    api_key: Optional[str] = None
+) -> Optional[list[list[float]]]:
+    """Call OpenRouter or OpenAI-compatible embeddings endpoint using central settings."""
+    api_key = api_key or settings.OPENROUTER_API_KEY
+    base_url = (base_url or settings.OPENROUTER_BASE_URL).rstrip("/")
+    if not api_key:
+        return None
+    url = f"{base_url}/embeddings"
+    headers = {
+        "Authorization": f"Bearer {api_key}",
+        "Content-Type": "application/json"
+    }
+    model = model_name.lower() if "bge-m3" in model_name.lower() else model_name
+    # Handle empty or whitespace strings
+    clean_texts = [t if t.strip() else "table" for t in texts]
+    data = json.dumps({"model": model, "input": clean_texts}).encode("utf-8")
+    
+    max_attempts = 3
+    for attempt in range(1, max_attempts + 1):
+        try:
+            req = urllib.request.Request(url, data=data, headers=headers)
+            with urllib.request.urlopen(req, timeout=45) as resp:
+                res = json.loads(resp.read().decode("utf-8"))
+                return [item["embedding"] for item in res["data"]]
+        except Exception as e:
+            if attempt < max_attempts:
+                time.sleep(2 * attempt)
+            else:
+                print(f"[WARN] Embedding API call failed after {max_attempts} attempts: {e}. Falling back to local SentenceTransformer.")
+                return None
+
 
 class EmbeddingStore:
     def __init__(self, df: pd.DataFrame, model_name: str, model_version: str):
@@ -39,10 +72,12 @@ def _hash_text(text: str) -> str:
 def embed_tables(
     corpus: pd.DataFrame, 
     output_path: Path, 
-    model_name: str = "Alibaba-NLP/gte-Qwen2-7B-instruct", 
+    model_name: str = "baai/bge-m3", 
     model_version: str = "1.0",
     mock: bool = False,
-    batch_size: int = 16
+    batch_size: int = 32,
+    base_url: Optional[str] = None,
+    api_key: Optional[str] = None
 ) -> EmbeddingStore:
     """Embed corpus tables or load from cache if valid.
     
@@ -53,19 +88,19 @@ def embed_tables(
         model_version: The embedding model version.
         mock: If True, generate random embeddings for testing.
         batch_size: Batch size for model inference.
+        base_url: Base URL for Embeddings API (optional).
+        api_key: API Key for Embeddings API (optional).
         
     Returns:
         EmbeddingStore.
     """
     corpus = corpus.copy()
-    # Calculate current hashes
     corpus["current_hash"] = corpus["search_text"].apply(_hash_text)
     
     existing_df = pd.DataFrame()
     if output_path.exists():
         try:
             existing_df = pd.read_parquet(output_path)
-            # Check model/version mismatch
             if not existing_df.empty:
                 if (existing_df["model_name"].iloc[0] != model_name or 
                     existing_df["model_version"].iloc[0] != model_version):
@@ -74,11 +109,11 @@ def embed_tables(
         except Exception:
             existing_df = pd.DataFrame()
             
-    # Figure out which ones need embedding
     to_embed = []
     cached_rows = []
     
     if not existing_df.empty:
+        existing_df = existing_df.drop_duplicates(subset=["table_id"], keep="last")
         existing_dict = existing_df.set_index("table_id").to_dict("index")
         for _, row in corpus.iterrows():
             tid = row["table_id"]
@@ -91,33 +126,11 @@ def embed_tables(
         to_embed = corpus.to_dict("records")
         
     if to_embed:
-        print(f"[INFO] Generating embeddings for {len(to_embed)} new/changed tables (mock={mock})...")
+        print(f"[INFO] Generating embeddings for {len(to_embed)} tables via API/Model (mock={mock})...")
         new_rows = []
         now = datetime.datetime.now().isoformat()
         
-        dim = 768
-        if "Qwen" in model_name or "gte" in model_name.lower():
-            dim = 3584 # gte-Qwen2-7B uses 3584 dim, Qwen3 varies
-        elif "bge-m3" in model_name.lower():
-            dim = 1024
-            
-        if not mock:
-            print(f"[INFO] Loading SentenceTransformer model: {model_name}...")
-            try:
-                from sentence_transformers import SentenceTransformer
-                import torch
-                
-                device = "cuda" if torch.cuda.is_available() else "cpu"
-                print(f"[INFO] Using device: {device}")
-                
-                global _EMBEDDING_MODEL
-                if _EMBEDDING_MODEL is None:
-                    _EMBEDDING_MODEL = SentenceTransformer(model_name, trust_remote_code=True)
-                    _EMBEDDING_MODEL.to(device)
-                model = _EMBEDDING_MODEL
-            except ImportError:
-                print("[ERROR] sentence-transformers not installed. Run: pip install sentence-transformers")
-                raise
+        dim = 1024 if "bge-m3" in model_name.lower() else 768
         
         # Batch processing
         for i in tqdm(range(0, len(to_embed), batch_size), desc="Embedding tables"):
@@ -131,11 +144,29 @@ def embed_tables(
                     vec = vec / np.linalg.norm(vec)
                     vecs.append(vec)
             else:
-                with torch.no_grad():
-                    # Generate embeddings and normalize
-                    embeddings = model.encode(texts, batch_size=batch_size, normalize_embeddings=True)
-                    vecs = [vec for vec in embeddings]
-                    dim = len(vecs[0]) # Update dim based on actual model output
+                # 1. Try OpenRouter / Cloud API first
+                api_vecs = _call_api_embeddings(texts, model_name=model_name, base_url=base_url, api_key=api_key)
+                if api_vecs is not None:
+                    vecs = [np.array(v) for v in api_vecs]
+                    dim = len(vecs[0])
+                else:
+                    # 2. Local fallback
+                    try:
+                        from sentence_transformers import SentenceTransformer
+                        import torch
+                        device = "cuda" if torch.cuda.is_available() else "cpu"
+                        global _EMBEDDING_MODEL
+                        if _EMBEDDING_MODEL is None:
+                            _EMBEDDING_MODEL = SentenceTransformer(model_name, trust_remote_code=True)
+                            _EMBEDDING_MODEL.to(device)
+                        model = _EMBEDDING_MODEL
+                        with torch.no_grad():
+                            embeddings = model.encode(texts, batch_size=batch_size, normalize_embeddings=True)
+                            vecs = [vec for vec in embeddings]
+                            dim = len(vecs[0])
+                    except Exception as e:
+                        print(f"[ERROR] Could not generate embeddings: {e}")
+                        vecs = [np.zeros(dim) for _ in batch]
                 
             for row, vec in zip(batch, vecs):
                 new_rows.append({
@@ -145,64 +176,58 @@ def embed_tables(
                     "embedding_dim": dim,
                     "source_text_checksum": row["current_hash"],
                     "created_at": now,
-                    "embedding": vec.tolist() # Parquet saves lists well
+                    "embedding": vec.tolist() if hasattr(vec, "tolist") else list(vec)
                 })
             
-            # Auto-save every 1000 records to prevent data loss
             if (i + batch_size) % 1000 < batch_size and i > 0:
                 temp_df = pd.DataFrame(cached_rows + new_rows)
                 output_path.parent.mkdir(parents=True, exist_ok=True)
                 temp_df.to_parquet(output_path, index=False)
                 
         cached_rows.extend(new_rows)
-        
-        # Save updated cache
         final_df = pd.DataFrame(cached_rows)
+        final_df = final_df.drop_duplicates(subset=["table_id"], keep="last")
         output_path.parent.mkdir(parents=True, exist_ok=True)
         final_df.to_parquet(output_path, index=False)
         return EmbeddingStore(final_df, model_name, model_version)
     
-    # All cached
     final_df = existing_df[existing_df["table_id"].isin(corpus["table_id"])].copy()
     return EmbeddingStore(final_df, model_name, model_version)
 
 
 def embed_query(
     question: str, 
-    model_name: str = "Alibaba-NLP/gte-Qwen2-7B-instruct", 
-    mock: bool = False
+    model_name: str = "baai/bge-m3", 
+    mock: bool = False,
+    base_url: Optional[str] = None,
+    api_key: Optional[str] = None
 ) -> np.ndarray:
-    """Embed a query.
-    
-    Args:
-        question: The user's query.
-        model_name: Must match table embedding model.
-        mock: If True, generate random embedding.
-    """
-    dim = 3584 if "gte-Qwen" in model_name else 768
+    """Embed a query using API or local SentenceTransformer."""
+    dim = 1024 if "bge-m3" in model_name.lower() else 768
     if mock:
         vec = np.random.rand(dim)
-        vec = vec / np.linalg.norm(vec)
-        return vec
-    else:
-        try:
-            from sentence_transformers import SentenceTransformer
-            import torch
-            
-            device = "cuda" if torch.cuda.is_available() else "cpu"
-            
-            global _EMBEDDING_MODEL
-            if _EMBEDDING_MODEL is None:
-                _EMBEDDING_MODEL = SentenceTransformer(model_name, trust_remote_code=True)
-                _EMBEDDING_MODEL.to(device)
-            model = _EMBEDDING_MODEL
-            
-            with torch.no_grad():
-                vec = model.encode(question, normalize_embeddings=True)
-                return vec
-        except ImportError:
-            print("[ERROR] sentence-transformers not installed. Returning zeros.")
-            return np.zeros(dim)
+        return vec / np.linalg.norm(vec)
+        
+    # 1. Try API first
+    api_res = _call_api_embeddings([question], model_name=model_name, base_url=base_url, api_key=api_key)
+    if api_res is not None and len(api_res) > 0:
+        return np.array(api_res[0])
+        
+    # 2. Local fallback
+    try:
+        from sentence_transformers import SentenceTransformer
+        import torch
+        device = "cuda" if torch.cuda.is_available() else "cpu"
+        global _EMBEDDING_MODEL
+        if _EMBEDDING_MODEL is None:
+            _EMBEDDING_MODEL = SentenceTransformer(model_name, trust_remote_code=True)
+            _EMBEDDING_MODEL.to(device)
+        model = _EMBEDDING_MODEL
+        with torch.no_grad():
+            return model.encode(question, normalize_embeddings=True)
+    except Exception as e:
+        print(f"[WARN] Local embedding failed: {e}. Returning zeros.")
+        return np.zeros(dim)
 
 def search_dense(
     store: EmbeddingStore, 

@@ -1,0 +1,22 @@
+﻿row_label_raw,row_label_full,CHỈ TIÊU,Thuyết minh,Năm 2021,Năm 2020,numeric__Thuyết minh,numeric__Năm 2021,numeric__Năm 2020
+1. Thu nhập lãi và các khoản thu nhập tương tự,1. Thu nhập lãi và các khoản thu nhập tương tự,1. Thu nhập lãi và các khoản thu nhập tương tự,VI.23,1.534.169,1.573.131,,1534169.0,1573131.0
+2. Chi phí lãi và các chi phí tương tự,2. Chi phí lãi và các chi phí tương tự,2. Chi phí lãi và các chi phí tương tự,VI.24,946.363,986.788,,946363.0,986788.0
+I. Thu nhập lãi thuần,I. Thu nhập lãi thuần,I. Thu nhập lãi thuần,,587.806,586.343,,587806.0,586343.0
+3. Thu nhập từ hoạt động dịch vụ,3. Thu nhập từ hoạt động dịch vụ,3. Thu nhập từ hoạt động dịch vụ,,57.054,60.256,,57054.0,60256.0
+4. Chi phí hoạt động dịch vụ,4. Chi phí hoạt động dịch vụ,4. Chi phí hoạt động dịch vụ,,26.020,22.158,,26020.0,22158.0
+II. Lãi/lỗ thuần từ hoạt động dịch vụ,II. Lãi/lỗ thuần từ hoạt động dịch vụ,II. Lãi/lỗ thuần từ hoạt động dịch vụ,VI.25,31.034,38.098,,31034.0,38098.0
+III. Lãi/lỗ thuần từ hoạt động kinh doanh ngoại hối,III. Lãi/lỗ thuần từ hoạt động kinh doanh ngoại hối,III. Lãi/lỗ thuần từ hoạt động kinh doanh ngoại hối,VI.26,39.981,31.571,,39981.0,31571.0
+IV. Lãi/lỗ thuần từ mua bán chứng khoán kinh doanh,IV. Lãi/lỗ thuần từ mua bán chứng khoán kinh doanh,IV. Lãi/lỗ thuần từ mua bán chứng khoán kinh doanh,VI.27,-,(40),,,-40.0
+V. Lãi/lỗ thuần từ mua bán chứng khoán đầu tư,V. Lãi/lỗ thuần từ mua bán chứng khoán đầu tư,V. Lãi/lỗ thuần từ mua bán chứng khoán đầu tư,VI.28,-,-,,,
+5. Thu nhập từ hoạt động khác,V. Lãi/lỗ thuần từ mua bán chứng khoán đầu tư > 5. Thu nhập từ hoạt động khác,5. Thu nhập từ hoạt động khác,,104.530,85.884,,104530.0,85884.0
+6. Chi phí hoạt động khác,V. Lãi/lỗ thuần từ mua bán chứng khoán đầu tư > 6. Chi phí hoạt động khác,6. Chi phí hoạt động khác,,3.069,2.150,,3069.0,2150.0
+VI. Lãi/lỗ thuần từ hoạt động khác,V. Lãi/lỗ thuần từ mua bán chứng khoán đầu tư > VI. Lãi/lỗ thuần từ hoạt động khác,VI. Lãi/lỗ thuần từ hoạt động khác,VI.30,101.461,83.734,,101461.0,83734.0
+"VII. Thu nhập từ góp vốn, mua cổ phần","V. Lãi/lỗ thuần từ mua bán chứng khoán đầu tư > VII. Thu nhập từ góp vốn, mua cổ phần","VII. Thu nhập từ góp vốn, mua cổ phần",VI.29,113.527,3.052,,113527.0,3052.0
+VIII. Chi phí hoạt động,V. Lãi/lỗ thuần từ mua bán chứng khoán đầu tư > VIII. Chi phí hoạt động,VIII. Chi phí hoạt động,VI.31,565.890,462.934,,565890.0,462934.0
+IX. Lợi nhuận thuần từ hoạt động kinh doanh trước chi phí dự phòng rủi ro tín dụng,V. Lãi/lỗ thuần từ mua bán chứng khoán đầu tư > IX. Lợi nhuận thuần từ hoạt động kinh doanh trước chi phí dự phòng rủi ro tín dụng,IX. Lợi nhuận thuần từ hoạt động kinh doanh trước chi phí dự phòng rủi ro tín dụng,,307.919,279.824,,307919.0,279824.0
+X. Chi phí dự phòng rủi ro tín dụng,V. Lãi/lỗ thuần từ mua bán chứng khoán đầu tư > X. Chi phí dự phòng rủi ro tín dụng,X. Chi phí dự phòng rủi ro tín dụng,,155.472,158.968,,155472.0,158968.0
+XI. Tổng lợi nhuận trước thuế,V. Lãi/lỗ thuần từ mua bán chứng khoán đầu tư > XI. Tổng lợi nhuận trước thuế,XI. Tổng lợi nhuận trước thuế,,152.447,120.856,,152447.0,120856.0
+7. Chi phí thuế TNDN hiện hành,V. Lãi/lỗ thuần từ mua bán chứng khoán đầu tư > 7. Chi phí thuế TNDN hiện hành,7. Chi phí thuế TNDN hiện hành,,29.761,23.810,,29761.0,23810.0
+8. Chi phí thuế TNDN hoãn lại,8. Chi phí thuế TNDN hoãn lại,8. Chi phí thuế TNDN hoãn lại,,-,-,,,
+XII. Chi phí thuế thu nhập doanh nghiệp,8. Chi phí thuế TNDN hoãn lại > XII. Chi phí thuế thu nhập doanh nghiệp,XII. Chi phí thuế thu nhập doanh nghiệp,VI.32,29.761,23.810,,29761.0,23810.0
+XIII. Lợi nhuận sau thuế thu nhập doanh nghiệp,8. Chi phí thuế TNDN hoãn lại > XIII. Lợi nhuận sau thuế thu nhập doanh nghiệp,XIII. Lợi nhuận sau thuế thu nhập doanh nghiệp,,122.686,97.046,,122686.0,97046.0

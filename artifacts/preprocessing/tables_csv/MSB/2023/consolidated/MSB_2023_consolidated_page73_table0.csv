@@ -1,0 +1,21 @@
+﻿row_label_raw,row_label_full,col_0,Quá hạn,Quá hạn_1,Trong hạn,Trong hạn_1,Trong hạn_2,Trong hạn_3,Trong hạn_4,Tổng công,numeric__Quá hạn,numeric__Quá hạn_1,numeric__Trong hạn,numeric__Trong hạn_1,numeric__Trong hạn_2,numeric__Trong hạn_3,numeric__Trong hạn_4,numeric__Tổng công
+,,,Trên 3 tháng,Đến 3 tháng,Đến 1 tháng,Từ 1 đến 3 tháng,Từ 3 đến 12 tháng,Từ 1 đến 5 năm,Trên 5 năm,Tổng công,,,,,,,,
+Tài sản,Tài sản,Tài sản,Tài sản,Tài sản,Tài sản,Tài sản,Tài sản,Tài sản,Tài sản,Tài sản,,,,,,,,
+"Tiền mặt, vàng bạc, đá quý","Tài sản > Tiền mặt, vàng bạc, đá quý","Tiền mặt, vàng bạc, đá quý",-,-,939.629,-,-,-,-,939.629,,,939629.0,,,,,939629.0
+Tiền gửi tại NHNN,Tài sản > Tiền gửi tại NHNN,Tiền gửi tại NHNN,-,-,4.589.199,-,-,-,-,4.589.199,,,4589199.0,,,,,4589199.0
+Tiền gửi tại và cho vay các TCTD khác (*),Tài sản > Tiền gửi tại và cho vay các TCTD khác (*),Tiền gửi tại và cho vay các TCTD khác (*),-,-,51.095.444,5.382.986,4.463.091,208.173,-,61.149.694,,,51095444.0,5382986.0,4463091.0,208173.0,,61149694.0
+Cho vay khách hàng và mua nợ(*),Tài sản > Cho vay khách hàng và mua nợ(*),Cho vay khách hàng và mua nợ(*),4.280.640,2.630.902,16.099.298,18.078.781,41.275.807,44.302.419,22.477.539,149.145.386,4280640.0,2630902.0,16099298.0,18078781.0,41275807.0,44302419.0,22477539.0,149145386.0
+Chứng khoán đầu tư (*),Tài sản > Chứng khoán đầu tư (*),Chứng khoán đầu tư (*),28.385,376.000,1.030.000,8.067.789,3.425.000,9.598.000,15.372.316,37.897.490,28385.0,376000.0,1030000.0,8067789.0,3425000.0,9598000.0,15372316.0,37897490.0
+Góp vốn đầu tư dài hạn (*),Tài sản > Góp vốn đầu tư dài hạn (*),Góp vốn đầu tư dài hạn (*),-,-,-,-,-,-,10.036,10.036,,,,,,,10036.0,10036.0
+Tài sản cố định,Tài sản > Tài sản cố định,Tài sản cố định,-,-,-,-,-,-,402.736,402.736,,,,,,,402736.0,402736.0
+Tài sản Có khác (*),Tài sản > Tài sản Có khác (*),Tài sản Có khác (*),10.527,-,1.137.435,2.776.311,2.626.795,596.650,8.147.464,15.295.182,10527.0,,1137435.0,2776311.0,2626795.0,596650.0,8147464.0,15295182.0
+Tổng tài sản,Tài sản > Tổng tài sản,Tổng tài sản,4.319.552,3.006.902,74.891.005,34.305.867,51.790.693,54.705.242,46.410.091,269.429.352,4319552.0,3006902.0,74891005.0,34305867.0,51790693.0,54705242.0,46410091.0,269429352.0
+Nợ phải trả,Nợ phải trả,Nợ phải trả,Nợ phải trả,Nợ phải trả,Nợ phải trả,Nợ phải trả,Nợ phải trả,Nợ phải trả,Nợ phải trả,Nợ phải trả,,,,,,,,
+Các khoản nợ Chính phủ và NHNN,Nợ phải trả > Các khoản nợ Chính phủ và NHNN,Các khoản nợ Chính phủ và NHNN,-,-,2.665,-,1.001.666,8.202,-,1.012.533,,,2665.0,,1001666.0,8202.0,,1012533.0
+Tiền gửi của và vay các TCTD khác,Nợ phải trả > Tiền gửi của và vay các TCTD khác,Tiền gửi của và vay các TCTD khác,-,-,65.073.345,7.516.642,10.056.167,2.907.360,-,85.553.514,,,65073345.0,7516642.0,10056167.0,2907360.0,,85553514.0
+Công cụ tài chính phải sinh và các khoản nợ tài chính khác,Nợ phải trả > Công cụ tài chính phải sinh và các khoản nợ tài chính khác,Công cụ tài chính phải sinh và các khoản nợ tài chính khác,-,-,101.067,14.332,37.906,110.051,-,263.356,,,101067.0,14332.0,37906.0,110051.0,,263356.0
+Tiền gửi của khách hàng,Nợ phải trả > Tiền gửi của khách hàng,Tiền gửi của khách hàng,-,-,62.983.382,19.248.615,45.727.018,4.391.043,73,132.350.131,,,62983382.0,19248615.0,45727018.0,4391043.0,73.0,132350131.0
+Phát hành giấy tờ có giá,Nợ phải trả > Phát hành giấy tờ có giá,Phát hành giấy tờ có giá,-,-,85.215,2.006.200,400.000,6.500.000,-,8.991.415,,,85215.0,2006200.0,400000.0,6500000.0,,8991415.0
+Các khoản nợ khác (*),Nợ phải trả > Các khoản nợ khác (*),Các khoản nợ khác (*),-,-,3.744.559,1.158.265,1.399.473,1.233.261,1.119,7.536.677,,,3744559.0,1158265.0,1399473.0,1233261.0,1119.0,7536677.0
+Tổng nợ phải trả,Nợ phải trả > Tổng nợ phải trả,Tổng nợ phải trả,-,-,131.990.233,29.944.054,58.622.230,15.149.917,1.192,235.707.626,,,131990233.0,29944054.0,58622230.0,15149917.0,1192.0,235707626.0
+Mức chênh thanh khoản ròng,Nợ phải trả > Mức chênh thanh khoản ròng,Mức chênh thanh khoản ròng,4.319.552,3.006.902,(57.099.228),4.361.813,(6.831.537),39.555.325,46.408.899,33.721.726,4319552.0,3006902.0,-57099228.0,4361813.0,-6831537.0,39555325.0,46408899.0,33721726.0

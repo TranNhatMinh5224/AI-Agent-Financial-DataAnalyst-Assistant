@@ -1,0 +1,31 @@
+﻿row_label_raw,row_label_full,TÀI SẢN,Mã số,Thuyết minh,Số cuối năm,Số đầu năm,numeric__Mã số,numeric__Thuyết minh,numeric__Số cuối năm,numeric__Số đầu năm
+1,1,1,2,3,4,5,2.0,3.0,4.0,5.0
+II. Tài sản cố định,II. Tài sản cố định,II. Tài sản cố định,220,,13.486.687.145.087,12.925.553.006.993,220.0,,13486687145087.0,12925553006993.0
+1. Tài sản cố định hữu hình,1. Tài sản cố định hữu hình,1. Tài sản cố định hữu hình,221,V.07,13.351.610.817.758,12.721.236.712.971,221.0,,13351610817758.0,12721236712971.0
+- Nguyên giá,- Nguyên giá,- Nguyên giá,222,,22.098.915.310.827,21.057.821.790.361,222.0,,22098915310827.0,21057821790361.0
+- Giá trị hao mòn luỹ kế (*),- Giá trị hao mòn luỹ kế (*),- Giá trị hao mòn luỹ kế (*),223,,(8.747.304.493.069),(8.336.585.077.390),223.0,,-8747304493069.0,-8336585077390.0
+2. Tài sản cố định thuê tài chính,2. Tài sản cố định thuê tài chính,2. Tài sản cố định thuê tài chính,224,,0,0,224.0,,0.0,0.0
+- Nguyên giá,- Nguyên giá,- Nguyên giá,225,,0,0,225.0,,0.0,0.0
+- Giá trị hao mòn luỹ kế (*),- Giá trị hao mòn luỹ kế (*),- Giá trị hao mòn luỹ kế (*),226,,0,0,226.0,,0.0,0.0
+3. Tài sản cố định vô hình,3. Tài sản cố định vô hình,3. Tài sản cố định vô hình,227,V.08,135.076.327.329,204.316.294.022,227.0,,135076327329.0,204316294022.0
+- Nguyên giá,- Nguyên giá,- Nguyên giá,228,,169.615.356.528,239.097.377.919,228.0,,169615356528.0,239097377919.0
+- Giá trị hao mòn luỹ kế (*),- Giá trị hao mòn luỹ kế (*),- Giá trị hao mòn luỹ kế (*),229,,(34.539.029.199),(34.781.083.897),229.0,,-34539029199.0,-34781083897.0
+III. Bất động sản đầu tư,III. Bất động sản đầu tư,III. Bất động sản đầu tư,230,V.09,820.229.058.283,710.312.419.564,230.0,,820229058283.0,710312419564.0
+- Nguyên giá,- Nguyên giá,- Nguyên giá,231,,1.067.474.174.251,902.903.714.442,231.0,,1067474174251.0,902903714442.0
+- Giá trị hao mòn luỹ kế (*),- Giá trị hao mòn luỹ kế (*),- Giá trị hao mòn luỹ kế (*),232,,(247.245.115.968),(192.591.294.878),232.0,,-247245115968.0,-192591294878.0
+IV. Tài sản dở dang dài hạn,IV. Tài sản dở dang dài hạn,IV. Tài sản dở dang dài hạn,240,V.10,32.437.673.441.033,28.378.008.219.883,240.0,,32437673441033.0,28378008219883.0
+"1. Chi phí sản xuất, kinh doanh dở dang dài hạn","1. Chi phí sản xuất, kinh doanh dở dang dài hạn","1. Chi phí sản xuất, kinh doanh dở dang dài hạn",241,,244.432.296.541,0,241.0,,244432296541.0,0.0
+2. Chi phí xây dựng cơ bản dở dang,2. Chi phí xây dựng cơ bản dở dang,2. Chi phí xây dựng cơ bản dở dang,242,,32.193.241.144.492,28.378.008.219.883,242.0,,32193241144492.0,28378008219883.0
+V. Đầu tư tài chính dài hạn,V. Đầu tư tài chính dài hạn,V. Đầu tư tài chính dài hạn,250,V.11,2.833.945.997.679,2.913.775.919.356,250.0,,2833945997679.0,2913775919356.0
+1. Đầu tư vào công ty con,1. Đầu tư vào công ty con,1. Đầu tư vào công ty con,251,,0,0,251.0,,0.0,0.0
+"2. Đầu tư vào công ty liên doanh, liên kết","2. Đầu tư vào công ty liên doanh, liên kết","2. Đầu tư vào công ty liên doanh, liên kết",252,,1.905.691.455.724,1.788.277.808.159,252.0,,1905691455724.0,1788277808159.0
+3. Đầu tư góp vốn vào đơn vị khác,3. Đầu tư góp vốn vào đơn vị khác,3. Đầu tư góp vốn vào đơn vị khác,253,,572.914.759.722,715.219.423.059,253.0,,572914759722.0,715219423059.0
+4. Dự phòng đầu tư tài chính dài hạn (*),4. Dự phòng đầu tư tài chính dài hạn (*),4. Dự phòng đầu tư tài chính dài hạn (*),254,,(56.560.217.767),(44.704.066.628),254.0,,-56560217767.0,-44704066628.0
+5. Đầu tư nằm giữ đến ngày đáo hạn,5. Đầu tư nằm giữ đến ngày đáo hạn,5. Đầu tư nằm giữ đến ngày đáo hạn,255,,411.900.000.000,454.982.754.766,255.0,,411900000000.0,454982754766.0
+VI. Tài sản dài hạn khác,VI. Tài sản dài hạn khác,VI. Tài sản dài hạn khác,260,,1.104.228.928.504,626.636.632.998,260.0,,1104228928504.0,626636632998.0
+1. Chi phí trả trước dài hạn,1. Chi phí trả trước dài hạn,1. Chi phí trả trước dài hạn,261,V.05,1.020.452.095.873,531.522.401.927,261.0,,1020452095873.0,531522401927.0
+2. Tài sản thuế thu nhập hoãn lại,2. Tài sản thuế thu nhập hoãn lại,2. Tài sản thuế thu nhập hoãn lại,262,,19.972.807.141,20.835.422.726,262.0,,19972807141.0,20835422726.0
+"3. Thiết bị, vật tư, phụ tùng thay thế dài hạn","3. Thiết bị, vật tư, phụ tùng thay thế dài hạn","3. Thiết bị, vật tư, phụ tùng thay thế dài hạn",263,,0,0,263.0,,0.0,0.0
+4. Tài sản dài hạn khác,4. Tài sản dài hạn khác,4. Tài sản dài hạn khác,268,,0,0,268.0,,0.0,0.0
+5. Lợi thế thương mại,5. Lợi thế thương mại,5. Lợi thế thương mại,269,,63.804.025.490,74.278.808.345,269.0,,63804025490.0,74278808345.0
+TỔNG CỘNG TÀI SẢN (270 = 100 + 200),TỔNG CỘNG TÀI SẢN (270 = 100 + 200),TỔNG CỘNG TÀI SẢN (270 = 100 + 200),270,,66.667.654.097.203,63.469.442.681.831,270.0,,66667654097203.0,63469442681831.0

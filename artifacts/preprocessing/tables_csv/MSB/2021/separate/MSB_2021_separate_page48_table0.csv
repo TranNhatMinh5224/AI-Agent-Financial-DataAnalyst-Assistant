@@ -1,0 +1,10 @@
+﻿row_label_raw,row_label_full,col_0,Số dưđâu năm,Phát sinh trong năm > Số phải nộp,Phát sinh trong năm > Số đã nộp,Số ducuôi năm,numeric__Số dưđâu năm,numeric__Phát sinh trong năm > Số phải nộp,numeric__Phát sinh trong năm > Số đã nộp,numeric__Số ducuôi năm
+Phải thu NSNN,Phải thu NSNN,Phải thu NSNN,(6),6,-,-,-6.0,6.0,,
+Thuế GTGT,Thuế GTGT,Thuế GTGT,-,-,-,-,,,,
+Các loại thuế khác,Thuế GTGT > Các loại thuế khác,Các loại thuế khác,(6),6,-,-,-6.0,6.0,,
+Phải trả NSNN,Thuế GTGT > Phải trả NSNN,Phải trả NSNN,204.577,1.426.065,(1.359.212),271.430,204577.0,1426065.0,-1359212.0,271430.0
+Thuế GTGT,Thuế GTGT > Thuế GTGT,Thuế GTGT,9.566,179.735,(176.000),13.301,9566.0,179735.0,-176000.0,13301.0
+Thuế TNDN,Thuế GTGT > Thuế TNDN,Thuế TNDN,168.616,1.042.347,(986.001),224.962,168616.0,1042347.0,-986001.0,224962.0
+Các loại thuế khác,Thuế GTGT > Các loại thuế khác,Các loại thuế khác,26.395,203.673,(196.901),33.167,26395.0,203673.0,-196901.0,33167.0
+Các khoản phải nộp khác,Thuế GTGT > Các khoản phải nộp khác,Các khoản phải nộp khác,-,310,(310),-,,310.0,-310.0,
+,,,204.571,1.426.071,(1.359.212),271.430,204571.0,1426071.0,-1359212.0,271430.0

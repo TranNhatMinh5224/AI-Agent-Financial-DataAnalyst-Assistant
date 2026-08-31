@@ -1,0 +1,17 @@
+﻿row_label_raw,row_label_full,col_0,Mã số,Thuyết minh,2016 VND,2015 VND,numeric__Mã số,numeric__Thuyết minh,numeric__2016 VND,numeric__2015 VND
+Doanh thu bán hàng,Doanh thu bán hàng,Doanh thu bán hàng,01,0,9.157.246.107.882,9.110.955.661.453,1.0,0.0,9157246107882.0,9110955661453.0
+Giá vốn hàng bán,Giá vốn hàng bán,Giá vốn hàng bán,11,24,7.799.077.860.570,7.529.525.766.161,11.0,24.0,7799077860570.0,7529525766161.0
+Lợi nhuận gộp (20 = 01 - 11),Lợi nhuận gộp (20 = 01 - 11),Lợi nhuận gộp (20 = 01 - 11),20,,1.358.168.247.312,1.581.429.895.292,20.0,,1358168247312.0,1581429895292.0
+Doanh thu hoạt động tài chính,Doanh thu hoạt động tài chính,Doanh thu hoạt động tài chính,21,25,33.763.270.045,9.689.074.420,21.0,25.0,33763270045.0,9689074420.0
+Chi phí tài chính,Chi phí tài chính,Chi phí tài chính,22,26,981.023.744.401,1.101.756.799.810,22.0,26.0,981023744401.0,1101756799810.0
+Trong đó: Chi phí lãi vay,Trong đó: Chi phí lãi vay,Trong đó: Chi phí lãi vay,23,,735.848.613.307,831.266.411.198,23.0,,735848613307.0,831266411198.0
+Chi phí quản lý doanh nghiệp,Chi phí quản lý doanh nghiệp,Chi phí quản lý doanh nghiệp,26,27,107.392.229.866,96.844.138.379,26.0,27.0,107392229866.0,96844138379.0
+Lợi nhuận thuần từ hoạt động kinh doanh (30 = 20 + 21 - 22 - 26),Lợi nhuận thuần từ hoạt động kinh doanh (30 = 20 + 21 - 22 - 26),Lợi nhuận thuần từ hoạt động kinh doanh (30 = 20 + 21 - 22 - 26),30,,303.515.543.090,392.518.031.523,30.0,,303515543090.0,392518031523.0
+Thu nhập khác,Thu nhập khác,Thu nhập khác,31,,5.508.879.368,7.713.728.855,31.0,,5508879368.0,7713728855.0
+Chi phí khác,Chi phí khác,Chi phí khác,32,,6.160.283.730,8.661.970.799,32.0,,6160283730.0,8661970799.0
+Kết quả từ hoạt động khác (40 = 31 - 32),Kết quả từ hoạt động khác (40 = 31 - 32),Kết quả từ hoạt động khác (40 = 31 - 32),40,,(651.404.362),(948.241.944),40.0,,-651404362.0,-948241944.0
+Lợi nhuận kế toán trước thuế (50 = 30 + 40),Lợi nhuận kế toán trước thuế (50 = 30 + 40),Lợi nhuận kế toán trước thuế (50 = 30 + 40),50,,302.864.138.728,391.569.789.579,50.0,,302864138728.0,391569789579.0
+Chi phí thuế TNDN hiện hành,Chi phí thuế TNDN hiện hành,Chi phí thuế TNDN hiện hành,51,29,15.550.287.149,-,51.0,29.0,15550287149.0,
+Lợi nhuận thuần sau thuế TNDN (60 = 50 - 51),Lợi nhuận thuần sau thuế TNDN (60 = 50 - 51),Lợi nhuận thuần sau thuế TNDN (60 = 50 - 51),60,,287.313.851.579,391.569.789.579,60.0,,287313851579.0,391569789579.0
+Lãi trên cổ phiếu,Lãi trên cổ phiếu,Lãi trên cổ phiếu,Lãi trên cổ phiếu,Lãi trên cổ phiếu,Lãi trên cổ phiếu,Lãi trên cổ phiếu,,,,
+Lãi cơ bản trên cổ phiếu,Lãi trên cổ phiếu > Lãi cơ bản trên cổ phiếu,Lãi cơ bản trên cổ phiếu,70,30,575,783,70.0,30.0,575.0,783.0

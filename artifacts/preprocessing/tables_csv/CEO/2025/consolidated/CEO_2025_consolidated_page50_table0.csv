@@ -1,0 +1,11 @@
+﻿row_label_raw,row_label_full,Chỉ tiêu,Mã số,Số liệu trước điều chỉnh,Số liệu sau điều chỉnh,Đơn vị tính: VND Chênh lệch,numeric__Mã số,numeric__Số liệu trước điều chỉnh,numeric__Số liệu sau điều chỉnh,numeric__Đơn vị tính: VND Chênh lệch
+,,,,(1),(2),(3)=(2)-(1),,-1.0,-2.0,
+NỘ PHẢI TRẢ,NỘ PHẢI TRẢ,NỘ PHẢI TRẢ,300,2.645.282.107.542,2.688.938.273.503,43.656.165.961,300.0,2645282107542.0,2688938273503.0,43656165961.0
+Nợ ngắn hạn,Nợ ngắn hạn,Nợ ngắn hạn,310,1.966.055.155.685,2.009.711.321.646,43.656.165.961,310.0,1966055155685.0,2009711321646.0,43656165961.0
+Thuế và các khoản phải nộp Nhà nước,Thuế và các khoản phải nộp Nhà nước,Thuế và các khoản phải nộp Nhà nước,313,56.305.410.942,99.961.576.903,43.656.165.961,313.0,56305410942.0,99961576903.0,43656165961.0
+VỐN CHỦ SỞ HỮU,VỐN CHỦ SỞ HỮU,VỐN CHỦ SỞ HỮU,400,6.312.301.362.262,6.268.645.196.301,(43.656.165.961),400.0,6312301362262.0,6268645196301.0,-43656165961.0
+Vốn chủ sở hữu,Vốn chủ sở hữu,Vốn chủ sở hữu,410,6.312.301.362.262,6.268.645.196.301,(43.656.165.961),410.0,6312301362262.0,6268645196301.0,-43656165961.0
+Lợi nhuận sau thuế chưa phân phối,Lợi nhuận sau thuế chưa phân phối,Lợi nhuận sau thuế chưa phân phối,421,454.268.805.674,428.075.106.097,(26.193.699.577),421.0,454268805674.0,428075106097.0,-26193699577.0
+- LNST chưa phân phối lũy kế đến cuối năm trước,- LNST chưa phân phối lũy kế đến cuối năm trước,- LNST chưa phân phối lũy kế đến cuối năm trước,421a,264.115.077.373,237.921.377.796,(26.193.699.577),,264115077373.0,237921377796.0,-26193699577.0
+- LNST chưa phân phối năm nay,- LNST chưa phân phối năm nay,- LNST chưa phân phối năm nay,421b,190.153.728.301,190.153.728.301,-,,190153728301.0,190153728301.0,
+Lợi ích cổ đông không kiểm soát,Lợi ích cổ đông không kiểm soát,Lợi ích cổ đông không kiểm soát,429,223.501.160.202,206.038.693.818,(17.462.466.384),429.0,223501160202.0,206038693818.0,-17462466384.0

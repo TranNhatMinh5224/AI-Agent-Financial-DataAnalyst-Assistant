@@ -1,0 +1,11 @@
+﻿row_label_raw,row_label_full,CHỈ TIỀU,Thuyết minh,31/12/2015,01/01/2015,numeric__Thuyết minh,numeric__31/12/2015,numeric__01/01/2015
+1. Bảo lãnh vay vốn,1. Bảo lãnh vay vốn,1. Bảo lãnh vay vốn,,-,-,,,
+2. Cam kết giao dịch hối đoái,1. Bảo lãnh vay vốn > 2. Cam kết giao dịch hối đoái,2. Cam kết giao dịch hối đoái,,5.341.160.000.000,-,,5341160000000.0,
+2.1 Cam kết mua ngoại tệ,1. Bảo lãnh vay vốn > 2.1 Cam kết mua ngoại tệ,2.1 Cam kết mua ngoại tệ,,175.120.000.000,-,,175120000000.0,
+2.2 Cam kết bản ngoại tệ,1. Bảo lãnh vay vốn > 2.2 Cam kết bản ngoại tệ,2.2 Cam kết bản ngoại tệ,,109.450.000.000,21.246.000.000,,109450000000.0,21246000000.0
+2.3 Cam kết giao dịch hoán đối,1. Bảo lãnh vay vốn > 2.3 Cam kết giao dịch hoán đối,2.3 Cam kết giao dịch hoán đối,,5.056.590.000.000,148.722.000.000,,5056590000000.0,148722000000.0
+2.4 Cam kết giao dịch tương lai,2.4 Cam kết giao dịch tương lai,2.4 Cam kết giao dịch tương lai,,-,-,,,
+3. Cam kết cho vay không hủy ngang,3. Cam kết cho vay không hủy ngang,3. Cam kết cho vay không hủy ngang,,-,-,,,
+4. Cam kết trong nghiệp vụ L/C,3. Cam kết cho vay không hủy ngang > 4. Cam kết trong nghiệp vụ L/C,4. Cam kết trong nghiệp vụ L/C,,298.837.631.035,66.645.906.614,,298837631035.0,66645906614.0
+5. Bảo lãnh khác,3. Cam kết cho vay không hủy ngang > 5. Bảo lãnh khác,5. Bảo lãnh khác,,2.078.516.803.843,1.051.687.583.180,,2078516803843.0,1051687583180.0
+6. Các cam kết khác,3. Cam kết cho vay không hủy ngang > 6. Các cam kết khác,6. Các cam kết khác,,189.297.000.000,-,,189297000000.0,

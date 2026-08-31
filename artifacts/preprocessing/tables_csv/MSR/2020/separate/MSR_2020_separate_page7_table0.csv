@@ -1,0 +1,18 @@
+﻿row_label_raw,row_label_full,col_0,Mã số,Thuyết minh,31/12/2020 Nghìn VND,1/1/2020 Nghìn VND,numeric__Mã số,numeric__Thuyết minh,numeric__31/12/2020 Nghìn VND,numeric__1/1/2020 Nghìn VND
+TÀI SẢN,TÀI SẢN,TÀI SẢN,TÀI SẢN,TÀI SẢN,TÀI SẢN,TÀI SẢN,,,,
+Tài sản ngắn hạn (\( 100 = 110 + 130 \)),TÀI SẢN > Tài sản ngắn hạn (\( 100 = 110 + 130 \)),Tài sản ngắn hạn (\( 100 = 110 + 130 \)),100,,1.102.056.861,711.706.777,100.0,,1102056861.0,711706777.0
+Tiền và các khoản tương đương tiền,TÀI SẢN > Tiền và các khoản tương đương tiền,Tiền và các khoản tương đương tiền,110,4,51.739.750,4.273.418,110.0,4.0,51739750.0,4273418.0
+Tiền,TÀI SẢN > Tiền,Tiền,111,,739.750,273.418,111.0,,739750.0,273418.0
+Các khoản tương đương tiền,TÀI SẢN > Các khoản tương đương tiền,Các khoản tương đương tiền,112,,51.000.000,4.000.000,112.0,,51000000.0,4000000.0
+Các khoản phải thu ngắn hạn,TÀI SẢN > Các khoản phải thu ngắn hạn,Các khoản phải thu ngắn hạn,130,,1.050.317.111,707.433.359,130.0,,1050317111.0,707433359.0
+Phải thu ngắn hạn khác,TÀI SẢN > Phải thu ngắn hạn khác,Phải thu ngắn hạn khác,136,5,1.050.317.111,707.433.359,136.0,5.0,1050317111.0,707433359.0
+Tài sản dài hạn (\( 200 = 210 + 220 + 250 \)),TÀI SẢN > Tài sản dài hạn (\( 200 = 210 + 220 + 250 \)),Tài sản dài hạn (\( 200 = 210 + 220 + 250 \)),200,,14.156.476.389,12.454.770.460,200.0,,14156476389.0,12454770460.0
+Các khoản phải thu dài hạn,TÀI SẢN > Các khoản phải thu dài hạn,Các khoản phải thu dài hạn,210,,2.000.000.000,3.000.000.000,210.0,,2000000000.0,3000000000.0
+Phải thu dài hạn khác,TÀI SẢN > Phải thu dài hạn khác,Phải thu dài hạn khác,216,5,2.000.000.000,3.000.000.000,216.0,5.0,2000000000.0,3000000000.0
+Tài sản cố định,TÀI SẢN > Tài sản cố định,Tài sản cố định,220,,-,-,220.0,,,
+Tài sản cố định vô hình,TÀI SẢN > Tài sản cố định vô hình,Tài sản cố định vô hình,227,,-,-,227.0,,,
+Nguyên giá,TÀI SẢN > Nguyên giá,Nguyên giá,228,,137.950,137.950,228.0,,137950.0,137950.0
+Giá trị hao mòn lũy kế,TÀI SẢN > Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,229,,(137.950),(137.950),229.0,,-137950.0,-137950.0
+Đầu tư tài chính dài hạn,TÀI SẢN > Đầu tư tài chính dài hạn,Đầu tư tài chính dài hạn,250,,12.156.476.389,9.454.770.460,250.0,,12156476389.0,9454770460.0
+Đầu tư vào công ty con,TÀI SẢN > Đầu tư vào công ty con,Đầu tư vào công ty con,251,6,12.156.476.389,9.454.770.460,251.0,6.0,12156476389.0,9454770460.0
+TỔNG TÀI SẢN (\( 270 = 100 + 200 \)),TÀI SẢN > TỔNG TÀI SẢN (\( 270 = 100 + 200 \)),TỔNG TÀI SẢN (\( 270 = 100 + 200 \)),270,,15.258.533.250,13.166.477.237,270.0,,15258533250.0,13166477237.0

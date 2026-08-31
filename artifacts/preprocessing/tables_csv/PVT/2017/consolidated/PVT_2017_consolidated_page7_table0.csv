@@ -1,0 +1,20 @@
+﻿row_label_raw,row_label_full,TÀI SẢN,Mã số,Thuyết minh,Số cuối năm,Đơn vị tính: VND > Số đầu năm,numeric__Mã số,numeric__Thuyết minh,numeric__Số cuối năm,numeric__Đơn vị tính: VND > Số đầu năm
+B. TÀI SẢN DÀI HẠN,B. TÀI SẢN DÀI HẠN,B. TÀI SẢN DÀI HẠN,200,,5.308.418.371.695,5.347.289.277.735,200.0,,5308418371695.0,5347289277735.0
+I. Các khoản phải thu dài hạn,I. Các khoản phải thu dài hạn,I. Các khoản phải thu dài hạn,210,,8.775.317.837,7.635.948.737,210.0,,8775317837.0,7635948737.0
+1. Phải thu dài hạn khác,1. Phải thu dài hạn khác,1. Phải thu dài hạn khác,216,7,8.775.317.837,7.635.948.737,216.0,7.0,8775317837.0,7635948737.0
+II. Tài sản cố định,II. Tài sản cố định,II. Tài sản cố định,220,,4.966.523.206.049,5.062.367.642.438,220.0,,4966523206049.0,5062367642438.0
+1. Tài sản cố định hữu hình,1. Tài sản cố định hữu hình,1. Tài sản cố định hữu hình,221,10,4.960.979.913.379,5.057.352.696.079,221.0,10.0,4960979913379.0,5057352696079.0
+- Nguyên giá,- Nguyên giá,- Nguyên giá,222,,8.348.360.004.948,7.910.606.581.497,222.0,,8348360004948.0,7910606581497.0
+- Giá trị hao mòn lũy kế,- Giá trị hao mòn lũy kế,- Giá trị hao mòn lũy kế,223,,(3.387.380.091.569),(2.853.253.885.418),223.0,,-3387380091569.0,-2853253885418.0
+2. Tài sản cố định vô hình,2. Tài sản cố định vô hình,2. Tài sản cố định vô hình,227,11,5.543.292.670,5.014.946.359,227.0,11.0,5543292670.0,5014946359.0
+- Nguyên giá,- Nguyên giá,- Nguyên giá,228,,8.905.161.127,7.177.239.557,228.0,,8905161127.0,7177239557.0
+- Giá trị hao mòn lũy kế,- Giá trị hao mòn lũy kế,- Giá trị hao mòn lũy kế,229,,(3.361.868.457),(2.162.293.198),229.0,,-3361868457.0,-2162293198.0
+III. Tài sản dở dang dài hạn,III. Tài sản dở dang dài hạn,III. Tài sản dở dang dài hạn,240,,1.064.149.855,265.166.725,240.0,,1064149855.0,265166725.0
+1. Chi phí xây dựng cơ bản dở dang,1. Chi phí xây dựng cơ bản dở dang,1. Chi phí xây dựng cơ bản dở dang,242,,1.064.149.855,265.166.725,242.0,,1064149855.0,265166725.0
+IV. Đầu tư tài chính dài hạn,IV. Đầu tư tài chính dài hạn,IV. Đầu tư tài chính dài hạn,250,,239.624.291.753,234.885.893.050,250.0,,239624291753.0,234885893050.0
+"1. Đầu tư vào công ty liên doanh, liên kết","1. Đầu tư vào công ty liên doanh, liên kết","1. Đầu tư vào công ty liên doanh, liên kết",252,12,193.686.524.453,188.948.125.750,252.0,12.0,193686524453.0,188948125750.0
+2. Đầu tư góp vốn vào đơn vị khác,2. Đầu tư góp vốn vào đơn vị khác,2. Đầu tư góp vốn vào đơn vị khác,253,13,45.937.767.300,45.937.767.300,253.0,13.0,45937767300.0,45937767300.0
+V. Tài sản dài hạn khác,V. Tài sản dài hạn khác,V. Tài sản dài hạn khác,260,,92.431.406.201,42.134.626.785,260.0,,92431406201.0,42134626785.0
+1. Chi phí trả trước dài hạn,1. Chi phí trả trước dài hạn,1. Chi phí trả trước dài hạn,261,14,62.187.503.265,28.296.152.255,261.0,14.0,62187503265.0,28296152255.0
+2. Tài sản thuế thu nhập hoãn lại,2. Tài sản thuế thu nhập hoãn lại,2. Tài sản thuế thu nhập hoãn lại,262,15,30.243.902.936,13.838.474.530,262.0,15.0,30243902936.0,13838474530.0
+TỔNG CÔNG TÀI SẢN(270 = 100+200),TỔNG CÔNG TÀI SẢN(270 = 100+200),TỔNG CÔNG TÀI SẢN(270 = 100+200),270,,9.203.542.066.508,9.070.352.324.994,270.0,,9203542066508.0,9070352324994.0

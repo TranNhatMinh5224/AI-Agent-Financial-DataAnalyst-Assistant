@@ -1,0 +1,6 @@
+﻿row_label_raw,row_label_full,col_0,Mã số,Số liệu trước điều chỉnh,Các điều chỉnh,Số liệu sau điều chỉnh,numeric__Mã số,numeric__Số liệu trước điều chỉnh,numeric__Các điều chỉnh,numeric__Số liệu sau điều chỉnh
+Bảng cân đối kế toán,Bảng cân đối kế toán,Bảng cân đối kế toán,Bảng cân đối kế toán,Bảng cân đối kế toán,Bảng cân đối kế toán,Bảng cân đối kế toán,,,,
+Người mua trả tiền trước ngắn hạn,Bảng cân đối kế toán > Người mua trả tiền trước ngắn hạn,Người mua trả tiền trước ngắn hạn,312,7.598.940.478,8.117.899.759,15.716.840.237,312.0,7598940478.0,8117899759.0,15716840237.0
+Doanh thu chưa thực hiện dài hạn,Bảng cân đối kế toán > Doanh thu chưa thực hiện dài hạn,Doanh thu chưa thực hiện dài hạn,336,8.117.899.759,(8.117.899.759),,336.0,8117899759.0,-8117899759.0,
+Phải trả người bán ngắn hạn,Bảng cân đối kế toán > Phải trả người bán ngắn hạn,Phải trả người bán ngắn hạn,311,2.166.528.556.349,(301.174.848.000),1.865.353.708.349,311.0,2166528556349.0,-301174848000.0,1865353708349.0
+Phải trả người bán dài hạn,Bảng cân đối kế toán > Phải trả người bán dài hạn,Phải trả người bán dài hạn,331,1.270.092.505.000,301.174.848.000,1.571.267.353.000,331.0,1270092505000.0,301174848000.0,1571267353000.0

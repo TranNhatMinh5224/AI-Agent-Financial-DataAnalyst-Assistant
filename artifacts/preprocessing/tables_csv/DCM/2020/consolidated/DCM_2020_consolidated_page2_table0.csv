@@ -1,0 +1,12 @@
+﻿row_label_raw,row_label_full,Chỉ tiêu,Số liệu năm 2020,Số liệu năm 2019,Chênh lệch giữa năm 2020 so với năm 2019 > Số tiền,Chênh lệch giữa năm 2020 so với năm 2019 > %,Ghi chú,numeric__Số liệu năm 2020,numeric__Số liệu năm 2019,numeric__Chênh lệch giữa năm 2020 so với năm 2019 > Số tiền,numeric__Chênh lệch giữa năm 2020 so với năm 2019 > %,numeric__Ghi chú
+(1),(1),(1),(2),(3),(4)=(2)-(3),(5)=(4)/(3),(6),-2.0,-3.0,,,-6.0
+Báo cáo tài chính riêng,Báo cáo tài chính riêng,Báo cáo tài chính riêng,Báo cáo tài chính riêng,Báo cáo tài chính riêng,Báo cáo tài chính riêng,Báo cáo tài chính riêng,Báo cáo tài chính riêng,,,,,
+Tổng lợi nhuận kế toán trước thuế,Báo cáo tài chính riêng > Tổng lợi nhuận kế toán trước thuế,Tổng lợi nhuận kế toán trước thuế,"714,83","460,37","254,46","55,27%",,714.83,460.37,254.46,0.5527000000000001,
+Chi phí thuế TNDN,Báo cáo tài chính riêng > Chi phí thuế TNDN,Chi phí thuế TNDN,"51,25","39,83","11,42","28,68%",,51.25,39.83,11.42,0.2868,
+Chi phí thuế TNDNHL,Báo cáo tài chính riêng > Chi phí thuế TNDNHL,Chi phí thuế TNDNHL,"2,01","-5,28","7,29","-138,08%",,2.01,-5.28,7.29,-1.3808,
+Lợi nhuận sau thuế TNDN,Báo cáo tài chính riêng > Lợi nhuận sau thuế TNDN,Lợi nhuận sau thuế TNDN,"661,56","425,82","235,74","55,36%",,661.56,425.82,235.74,0.5536,
+Báo cáo tài chính hợp nhất,Báo cáo tài chính hợp nhất,Báo cáo tài chính hợp nhất,Báo cáo tài chính hợp nhất,Báo cáo tài chính hợp nhất,Báo cáo tài chính hợp nhất,Báo cáo tài chính hợp nhất,Báo cáo tài chính hợp nhất,,,,,
+Tổng lợi nhuận kế toán trước thuế,Báo cáo tài chính hợp nhất > Tổng lợi nhuận kế toán trước thuế,Tổng lợi nhuận kế toán trước thuế,"716,53","463,09","253,45","54,73%",,716.53,463.09,253.45,0.5473,
+Chi phí thuế TNDN,Báo cáo tài chính hợp nhất > Chi phí thuế TNDN,Chi phí thuế TNDN,"52,56","41,02","11,54","28,14%",,52.56,41.02,11.54,0.2814,
+Chi phí thuế TNDNHL,Báo cáo tài chính hợp nhất > Chi phí thuế TNDNHL,Chi phí thuế TNDNHL,"1,53","-5,65","7,18","-126,99%",,1.53,-5.65,7.18,-1.2699,
+Lợi nhuận sau thuế TNDN,Báo cáo tài chính hợp nhất > Lợi nhuận sau thuế TNDN,Lợi nhuận sau thuế TNDN,"662,45","427,72","234,72","54,88%",,662.45,427.72,234.72,0.5488000000000001,

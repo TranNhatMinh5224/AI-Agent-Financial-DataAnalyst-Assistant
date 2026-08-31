@@ -9,6 +9,7 @@ Requires-Dist: beautifulsoup4
 Requires-Dist: lxml
 Requires-Dist: PyYAML
 Requires-Dist: rapidfuzz
+Requires-Dist: openai
 Provides-Extra: dev
 Requires-Dist: pytest; extra == "dev"
 Requires-Dist: pytest-cov; extra == "dev"

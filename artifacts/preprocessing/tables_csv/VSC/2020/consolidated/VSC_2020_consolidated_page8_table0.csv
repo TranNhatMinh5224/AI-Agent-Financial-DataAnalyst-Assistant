@@ -1,0 +1,26 @@
+﻿row_label_raw,row_label_full,col_0,Mã số,Thuyết minh,31/12/2020 VND,1/1/2020 VND,numeric__Mã số,numeric__Thuyết minh,numeric__31/12/2020 VND,numeric__1/1/2020 VND
+NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,,,,
+NỘ PHẢI TRẢ (300 = 310 + 330),NGUỒN VỐN > NỘ PHẢI TRẢ (300 = 310 + 330),NỘ PHẢI TRẢ (300 = 310 + 330),300,,287.446.269.234,323.166.768.966,300.0,,287446269234.0,323166768966.0
+Nợ ngắn hạn,NGUỒN VỐN > Nợ ngắn hạn,Nợ ngắn hạn,310,,287.416.269.234,259.079.310.782,310.0,,287416269234.0,259079310782.0
+Phải trả người bán ngắn hạn,NGUỒN VỐN > Phải trả người bán ngắn hạn,Phải trả người bán ngắn hạn,311,14,104.828.010.651,86.908.933.261,311.0,14.0,104828010651.0,86908933261.0
+Người mua trả tiền trước ngắn hạn,NGUỒN VỐN > Người mua trả tiền trước ngắn hạn,Người mua trả tiền trước ngắn hạn,312,,1.940.835.088,1.663.733.749,312.0,,1940835088.0,1663733749.0
+Thuế và các khoản khác phải nộp Nhà nước,NGUỒN VỐN > Thuế và các khoản khác phải nộp Nhà nước,Thuế và các khoản khác phải nộp Nhà nước,313,15(b),22.629.784.838,10.311.831.530,313.0,,22629784838.0,10311831530.0
+Phải trả người lao động,NGUỒN VỐN > Phải trả người lao động,Phải trả người lao động,314,,83.751.760.550,72.198.177.819,314.0,,83751760550.0,72198177819.0
+Chi phí phải trả ngắn hạn,NGUỒN VỐN > Chi phí phải trả ngắn hạn,Chi phí phải trả ngắn hạn,315,16,9.554.614.989,5.063.285.052,315.0,16.0,9554614989.0,5063285052.0
+Phải trả ngắn hạn khác,NGUỒN VỐN > Phải trả ngắn hạn khác,Phải trả ngắn hạn khác,319,17,42.228.216.272,42.362.823.623,319.0,17.0,42228216272.0,42362823623.0
+Vay ngắn hạn,NGUỒN VỐN > Vay ngắn hạn,Vay ngắn hạn,320,,-,11.948.000.000,320.0,,,11948000000.0
+Quỹ khen thưởng và phúc lợi,NGUỒN VỐN > Quỹ khen thưởng và phúc lợi,Quỹ khen thưởng và phúc lợi,322,18,22.483.046.846,28.622.525.748,322.0,18.0,22483046846.0,28622525748.0
+Nợ dài hạn,NGUỒN VỐN > Nợ dài hạn,Nợ dài hạn,330,,30.000.000,64.087.458.184,330.0,,30000000.0,64087458184.0
+Phải trả dài hạn khác,NGUỒN VỐN > Phải trả dài hạn khác,Phải trả dài hạn khác,337,,30.000.000,30.000.000,337.0,,30000000.0,30000000.0
+Vay dài hạn,NGUỒN VỐN > Vay dài hạn,Vay dài hạn,338,,-,64.057.458.184,338.0,,,64057458184.0
+VỐN CHỦ SỞ HỮU (400 = 410),NGUỒN VỐN > VỐN CHỦ SỞ HỮU (400 = 410),VỐN CHỦ SỞ HỮU (400 = 410),400,,2.170.698.212.734,2.070.078.151.985,400.0,,2170698212734.0,2070078151985.0
+Vốn chủ sở hữu,NGUỒN VỐN > Vốn chủ sở hữu,Vốn chủ sở hữu,410,19,2.170.698.212.734,2.070.078.151.985,410.0,19.0,2170698212734.0,2070078151985.0
+Vốn cổ phần,NGUỒN VỐN > Vốn cổ phần,Vốn cổ phần,411,20,551.227.980.000,551.227.980.000,411.0,20.0,551227980000.0,551227980000.0
+- Cổ phiếu phổ thông có quyền biểu quyết,NGUỒN VỐN > - Cổ phiếu phổ thông có quyền biểu quyết,- Cổ phiếu phổ thông có quyền biểu quyết,411a,,551.227.980.000,551.227.980.000,,,551227980000.0,551227980000.0
+Thặng dư vốn cổ phần,NGUỒN VỐN > Thặng dư vốn cổ phần,Thặng dư vốn cổ phần,412,,36.047.891.246,36.047.891.246,412.0,,36047891246.0,36047891246.0
+Quỹ đầu tư phát triển,NGUỒN VỐN > Quỹ đầu tư phát triển,Quỹ đầu tư phát triển,418,22,796.621.563.156,765.535.152.633,418.0,22.0,796621563156.0,765535152633.0
+Lợi nhuận sau thuế chưa phân phối,NGUỒN VỐN > Lợi nhuận sau thuế chưa phân phối,Lợi nhuận sau thuế chưa phân phối,421,,412.834.441.015,378.345.954.664,421.0,,412834441015.0,378345954664.0
+- LNST chưa phân phối lũy kế đến cuối năm trước,NGUỒN VỐN > - LNST chưa phân phối lũy kế đến cuối năm trước,- LNST chưa phân phối lũy kế đến cuối năm trước,421a,,255.812.186.541,188.466.535.910,,,255812186541.0,188466535910.0
+- LNST chưa phân phối năm nay,NGUỒN VỐN > - LNST chưa phân phối năm nay,- LNST chưa phân phối năm nay,421b,,157.022.254.474,189.879.418.754,,,157022254474.0,189879418754.0
+Lợi ích cổ đông không kiểm soát,NGUỒN VỐN > Lợi ích cổ đông không kiểm soát,Lợi ích cổ đông không kiểm soát,429,,373.966.337.317,338.921.173.442,429.0,,373966337317.0,338921173442.0
+TỔNG NGUỒN VỐN(440 = 300 + 400),NGUỒN VỐN > TỔNG NGUỒN VỐN(440 = 300 + 400),TỔNG NGUỒN VỐN(440 = 300 + 400),440,,2.458.144.481.968,2.393.244.920.951,440.0,,2458144481968.0,2393244920951.0

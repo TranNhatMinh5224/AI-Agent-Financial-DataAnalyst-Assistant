@@ -1,0 +1,12 @@
+﻿row_label_raw,row_label_full,Chỉ tiêu,Số liệu sau kiểm toán,Số liệu trước kiểm toán,Chênh lệch giữa số trước và sau kiểm toán > Số tiền,Chênh lệch giữa số trước và sau kiểm toán > %,Ghi chú,numeric__Số liệu sau kiểm toán,numeric__Số liệu trước kiểm toán,numeric__Chênh lệch giữa số trước và sau kiểm toán > Số tiền,numeric__Chênh lệch giữa số trước và sau kiểm toán > %,numeric__Ghi chú
+(1),(1),(1),(2),(3),(4)=(2)-(3),(5)=(4)/(3),(6),-2.0,-3.0,,,-6.0
+Báo cáo tài chính riêng,Báo cáo tài chính riêng,Báo cáo tài chính riêng,Báo cáo tài chính riêng,Báo cáo tài chính riêng,Báo cáo tài chính riêng,Báo cáo tài chính riêng,Báo cáo tài chính riêng,,,,,
+Doanh thu bán hàng và cung cấp dịch vụ,Báo cáo tài chính riêng > Doanh thu bán hàng và cung cấp dịch vụ,Doanh thu bán hàng và cung cấp dịch vụ,"13.306,63","13.306,63","0,00","0,0%",,13306.63,13306.63,0.0,0.0,
+Giá vốn hàng bán,Báo cáo tài chính riêng > Giá vốn hàng bán,Giá vốn hàng bán,"10.447,69","10.575,69","-128,00","-1,2%",,10447.69,10575.69,-128.0,-0.012,
+Tổng lợi nhuận kế toán trước thuế,Báo cáo tài chính riêng > Tổng lợi nhuận kế toán trước thuế,Tổng lợi nhuận kế toán trước thuế,"1.321,70","1.246,96","74,74","6,0%",,1321.7,1246.96,74.74,0.06,
+Lợi nhuận sau thuế TNDN,Báo cáo tài chính riêng > Lợi nhuận sau thuế TNDN,Lợi nhuận sau thuế TNDN,"1.233,73","1.145,91","87,81","7,7%",,1233.73,1145.91,87.81,0.077,
+Báo cáo tài chính hợp nhất,Báo cáo tài chính hợp nhất,Báo cáo tài chính hợp nhất,Báo cáo tài chính hợp nhất,Báo cáo tài chính hợp nhất,Báo cáo tài chính hợp nhất,Báo cáo tài chính hợp nhất,Báo cáo tài chính hợp nhất,,,,,
+Doanh thu bán hàng và cung cấp dịch vụ,Báo cáo tài chính hợp nhất > Doanh thu bán hàng và cung cấp dịch vụ,Doanh thu bán hàng và cung cấp dịch vụ,"13.942,55","13.942,55","0,00","0,0%",,13942.55,13942.55,0.0,0.0,
+Giá vốn hàng bán,Báo cáo tài chính hợp nhất > Giá vốn hàng bán,Giá vốn hàng bán,"10.942,10","11.070,84","-128,73","-1,2%",,10942.1,11070.84,-128.73,-0.012,
+Tổng lợi nhuận kế toán trước thuế,Báo cáo tài chính hợp nhất > Tổng lợi nhuận kế toán trước thuế,Tổng lợi nhuận kế toán trước thuế,"1.522,06","1.448,59","73,48","5,1%",,1522.06,1448.59,73.48,0.051,
+Lợi nhuận sau thuế TNDN,Báo cáo tài chính hợp nhất > Lợi nhuận sau thuế TNDN,Lợi nhuận sau thuế TNDN,"1.428,01","1.341,45","86,55","6,5%",,1428.01,1341.45,86.55,0.065,

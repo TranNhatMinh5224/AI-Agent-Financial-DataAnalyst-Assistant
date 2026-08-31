@@ -1,0 +1,11 @@
+﻿row_label_raw,row_label_full,col_0,Tiền gửi và cho vay các TCTD khác,Chứng khoán kinh doanh,Cho vay khách hàng,Chứng khoán đầu tư,Các tài sản tài chính khác,Tổng cộng,numeric__Tiền gửi và cho vay các TCTD khác,numeric__Chứng khoán kinh doanh,numeric__Cho vay khách hàng,numeric__Chứng khoán đầu tư,numeric__Các tài sản tài chính khác,numeric__Tổng cộng
+Chưa quá hạn và chưa bị giảm giá,Chưa quá hạn và chưa bị giảm giá,Chưa quá hạn và chưa bị giảm giá,73.373.963,4.123.920,198.366.186,6.400.742,4.370.576,286.635.387,73373963.0,4123920.0,198366186.0,6400742.0,4370576.0,286635387.0
+Đã quá hạn nhưng chưa bị giảm giá,Đã quá hạn nhưng chưa bị giảm giá,Đã quá hạn nhưng chưa bị giảm giá,-,-,2.174.517,-,-,2.174.517,,,2174517.0,,,2174517.0
+Bi giảm giá,Bi giảm giá,Bi giảm giá,-,-,4.488.666,319.364,26.949,4.834.979,,,4488666.0,319364.0,26949.0,4834979.0
+,,,73.373.963,4.123.920,205.029.369,6.720.106,4.397.525,293.644.883,73373963.0,4123920.0,205029369.0,6720106.0,4397525.0,293644883.0
+Trừ dự phòng rủi ro:,Trừ dự phòng rủi ro:,Trừ dự phòng rủi ro:,,,,,,,,,,,,
+Dự phòng chung,Trừ dự phòng rủi ro: > Dự phòng chung,Dự phòng chung,-,(2.250),(1.518.550),-,-,(1.520.800),,-2250.0,-1518550.0,,,-1520800.0
+Dự phòng cụ thể,Trừ dự phòng rủi ro: > Dự phòng cụ thể,Dự phòng cụ thể,-,-,(1.258.821),(319.364),-,(1.578.185),,,-1258821.0,-319364.0,,-1578185.0
+Dự phòng rủi ro khác,Trừ dự phòng rủi ro: > Dự phòng rủi ro khác,Dự phòng rủi ro khác,-,-,-,-,(26.949),(26.949),,,,,-26949.0,-26949.0
+,,,-,(2.250),(2.777.371),(319.364),(26.949),(3.125.934),,-2250.0,-2777371.0,-319364.0,-26949.0,-3125934.0
+Giá trị thuần,Trừ dự phòng rủi ro: > Giá trị thuần,Giá trị thuần,73.373.963,4.121.670,202.251.998,6.400.742,4.370.576,290.518.949,73373963.0,4121670.0,202251998.0,6400742.0,4370576.0,290518949.0

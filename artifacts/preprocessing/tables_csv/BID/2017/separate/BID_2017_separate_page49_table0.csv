@@ -1,0 +1,15 @@
+﻿row_label_raw,row_label_full,Bên liên quan,Số dư,Phải thu,(Phải trả),numeric__Số dư,numeric__Phải thu,numeric__(Phải trả)
+,,,,Triệu VND,Triệu VND,,,
+Cơ quan quản lý Nhà nước,Cơ quan quản lý Nhà nước,Cơ quan quản lý Nhà nước,- Tiền gửi tại cơ quan quản lý,25.792.038,-,,25792038.0,
+Cơ quan quản lý Nhà nước,Cơ quan quản lý Nhà nước,Cơ quan quản lý Nhà nước,- Tiền gửi của cơ quan quản lý,-,(63.692.922),,,-63692922.0
+Cơ quan quản lý Nhà nước,Cơ quan quản lý Nhà nước,Cơ quan quản lý Nhà nước,- Các khoản vay từ cơ quan quản lý,-,(12.786.849),,,-12786849.0
+Các công ty con,Các công ty con,Các công ty con,- Tiền gửi tại BIDV của các công ty con,-,(3.652.949),,,-3652949.0
+Các công ty con,Các công ty con,Các công ty con,- Tiền vay từ BIDV của các công ty con,-,-,,,
+Các công ty con,Các công ty con > Các công ty con,Các công ty con,- Tiền gửi của BIDV tại các công ty con,10.618.145,,,10618145.0,
+Các công ty con,Các công ty con > Các công ty con,Các công ty con,- Tiền BIDV vay của các công ty con,-,(112.207),,,-112207.0
+Các công ty con,Các công ty con > Các công ty con,Các công ty con,- Phải thu các công ty con,272.000,-,,272000.0,
+Các công ty liên doanh,Các công ty con > Các công ty liên doanh,Các công ty liên doanh,- Tiền gửi của các công ty liên doanh,-,(775.152),,,-775152.0
+Các công ty liên doanh,Các công ty con > Các công ty liên doanh,Các công ty liên doanh,- Tiền gửi của BIDV tại các công ty liên doanh,1.960.660,-,,1960660.0,
+Các công ty liên doanh,Các công ty con > Các công ty liên doanh,Các công ty liên doanh,- Tiền vay từ BIDV của các công ty liên doanh,174.231,-,,174231.0,
+Các công ty liên kết,Các công ty con > Các công ty liên kết,Các công ty liên kết,- Tiền gửi tại BIDV của các công ty liên kết,-,(1.531.235),,,-1531235.0
+Các công ty liên kết,Các công ty con > Các công ty liên kết,Các công ty liên kết,- Tiền vay từ BIDV của các công ty liên kết,1.012.972,-,,1012972.0,

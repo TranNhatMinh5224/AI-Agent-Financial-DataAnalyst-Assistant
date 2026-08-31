@@ -1,0 +1,15 @@
+﻿row_label_raw,row_label_full,col_0,Quyên sử dụng đất triệu đồng,Phân mềm máy vi tính triệu đồng,Tổng cộng triệu đồng,numeric__Quyên sử dụng đất triệu đồng,numeric__Phân mềm máy vi tính triệu đồng,numeric__Tổng cộng triệu đồng
+Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,,,
+Số dư đầu năm,Nguyên giá > Số dư đầu năm,Số dư đầu năm,1.084.972,642.468,1.727.440,1084972.0,642468.0,1727440.0
+Mua mới trong năm,Nguyên giá > Mua mới trong năm,Mua mới trong năm,-,254.883,254.883,,254883.0,254883.0
+Thanh lý trong năm,Thanh lý trong năm,Thanh lý trong năm,-,-,-,,,
+Chênh lệch tỷ giá,Thanh lý trong năm > Chênh lệch tỷ giá,Chênh lệch tỷ giá,-,(5),(5),,-5.0,-5.0
+Số dư cuối năm,Thanh lý trong năm > Số dư cuối năm,Số dư cuối năm,1.084.972,897.346,1.982.318,1084972.0,897346.0,1982318.0
+Giá trị hao mòn luỹ kế,Giá trị hao mòn luỹ kế,Giá trị hao mòn luỹ kế,Giá trị hao mòn luỹ kế,Giá trị hao mòn luỹ kế,Giá trị hao mòn luỹ kế,,,
+Số dư đầu năm,Giá trị hao mòn luỹ kế > Số dư đầu năm,Số dư đầu năm,160.825,591.772,752.597,160825.0,591772.0,752597.0
+Tăng khấu hao trong năm,Giá trị hao mòn luỹ kế > Tăng khấu hao trong năm,Tăng khấu hao trong năm,21.032,168.701,189.733,21032.0,168701.0,189733.0
+Chênh lệch tỷ giá,Giá trị hao mòn luỹ kế > Chênh lệch tỷ giá,Chênh lệch tỷ giá,-,(2),(2),,-2.0,-2.0
+Số dư cuối năm,Giá trị hao mòn luỹ kế > Số dư cuối năm,Số dư cuối năm,181.857,760.471,942.328,181857.0,760471.0,942328.0
+Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,,,
+Tai ngày đầu năm,Giá trị còn lại > Tai ngày đầu năm,Tai ngày đầu năm,924.147,50.696,974.843,924147.0,50696.0,974843.0
+Tai ngày cuối năm,Giá trị còn lại > Tai ngày cuối năm,Tai ngày cuối năm,903.115,136.875,1.039.990,903115.0,136875.0,1039990.0

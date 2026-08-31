@@ -1,0 +1,11 @@
+﻿row_label_raw,row_label_full,col_0,Tiền gửi và cho vay các TCTD khác Triệu đồng,Chứng khoán kinh doanh Triệu đồng,Các công cụ tài chính phải sinh Triệu đồng,Cho vay khách hàng Triệu đồng,Chứng khoán đầu tư Triệu đồng,Các tài sản tài chính khác Triệu đồng,Tổng cộng Triệu đồng,numeric__Tiền gửi và cho vay các TCTD khác Triệu đồng,numeric__Chứng khoán kinh doanh Triệu đồng,numeric__Các công cụ tài chính phải sinh Triệu đồng,numeric__Cho vay khách hàng Triệu đồng,numeric__Chứng khoán đầu tư Triệu đồng,numeric__Các tài sản tài chính khác Triệu đồng,numeric__Tổng cộng Triệu đồng
+Chưa quá hạn và chưa bị giảm giá,Chưa quá hạn và chưa bị giảm giá,Chưa quá hạn và chưa bị giảm giá,58.397.027,8.351.715,6.469,183.021.437,35.214.366,21.612.670,306.603.684,58397027.0,8351715.0,6469.0,183021437.0,35214366.0,21612670.0,306603684.0
+Đã quả hạn nhưng chưa bị giảm giá,Đã quả hạn nhưng chưa bị giảm giá,Đã quả hạn nhưng chưa bị giảm giá,-,-,-,1.728.421,-,-,1.728.421,,,,1728421.0,,,1728421.0
+Bị giảm giá,Bị giảm giá,Bị giảm giá,-,-,-,5.084.798,-,44.907,5.129.705,,,,5084798.0,,44907.0,5129705.0
+,,,58.397.027,8.351.715,6.469,189.834.656,35.214.366,21.657.577,313.461.810,58397027.0,8351715.0,6469.0,189834656.0,35214366.0,21657577.0,313461810.0
+Trừ: dự phòng rủi ro,Trừ: dự phòng rủi ro,Trừ: dự phòng rủi ro,,,,,,,,,,,,,,
+Dự phòng cụ thể,Trừ: dự phòng rủi ro > Dự phòng cụ thể,Dự phòng cụ thể,-,-,-,(533.240),-,-,(533.240),,,,-533240.0,,,-533240.0
+Dự phòng chung,Trừ: dự phòng rủi ro > Dự phòng chung,Dự phòng chung,-,-,-,(1.417.209),(75.736),-,(1.492.945),,,,-1417209.0,-75736.0,,-1492945.0
+Dự phòng rủi ro khác,Trừ: dự phòng rủi ro > Dự phòng rủi ro khác,Dự phòng rủi ro khác,-,-,-,-,-,(43.260),(43.260),,,,,,-43260.0,-43260.0
+,,,-,-,-,(1.950.449),(75.736),(43.260),(2.069.445),,,,-1950449.0,-75736.0,-43260.0,-2069445.0
+Giá trị thuần,Trừ: dự phòng rủi ro > Giá trị thuần,Giá trị thuần,58.397.027,8.351.715,6.469,187.884.207,35.138.630,21.614.317,311.392.365,58397027.0,8351715.0,6469.0,187884207.0,35138630.0,21614317.0,311392365.0

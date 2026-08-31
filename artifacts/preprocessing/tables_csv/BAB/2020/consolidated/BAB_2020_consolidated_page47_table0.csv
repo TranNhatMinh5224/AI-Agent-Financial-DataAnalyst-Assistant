@@ -1,0 +1,11 @@
+﻿row_label_raw,row_label_full,Chi tiêu,Chi tiêu_1,Quá hạn,Quá hạn_1,Trong hạn,Trong hạn_1,Trong hạn_2,Trong hạn_3,Trong hạn_4,Tổng,numeric__Chi tiêu_1,numeric__Quá hạn,numeric__Quá hạn_1,numeric__Trong hạn,numeric__Trong hạn_1,numeric__Trong hạn_2,numeric__Trong hạn_3,numeric__Trong hạn_4,numeric__Tổng
+Chi tiêu,Chi tiêu,Chi tiêu,Chi tiêu,Trên 03 tháng,Đến 03 tháng,Đến 01 tháng,Từ trên 01 đến 03 tháng,Từ trên 03 đến 12 tháng,Từ trên 01 đến 05 năm,Trên 05 năm,Tổng,,,,,,,,,
+Chi tiêu,Chi tiêu,Chi tiêu,Chi tiêu,Triệu VND,Triệu VND,Triệu VND,Triệu VND,Triệu VND,Triệu VND,Triệu VND,Triệu VND,,,,,,,,,
+NỘ PHẢI TRẢ,NỘ PHẢI TRẢ,NỘ PHẢI TRẢ,NỘ PHẢI TRẢ,NỘ PHẢI TRẢ,NỘ PHẢI TRẢ,NỘ PHẢI TRẢ,NỘ PHẢI TRẢ,NỘ PHẢI TRẢ,NỘ PHẢI TRẢ,NỘ PHẢI TRẢ,NỘ PHẢI TRẢ,,,,,,,,,
+I,NỘ PHẢI TRẢ > I,I,Tiền gửi và vay từ NHNN và các TCTD khác,-,-,10.731.963,2.500.000,561,111.182,35.794,13.379.500,,,,10731963.0,2500000.0,561.0,111182.0,35794.0,13379500.0
+II,NỘ PHẢI TRẢ > II,II,Tiền gửi của khách hàng,-,-,9.516.294,10.906.687,22.856.319,27.581.227,15.581.696,86.442.223,,,,9516294.0,10906687.0,22856319.0,27581227.0,15581696.0,86442223.0
+IV,NỘ PHẢI TRẢ > IV,IV,"Vốn tài trợ, ủy thác đầu tư, cho vay tổ chức tín dụng chịu rủi ro",-,-,-,-,-,3.120,-,3.120,,,,,,,3120.0,,3120.0
+V,NỘ PHẢI TRẢ > V,V,Phát hành giấy tờ có giá,-,9.173,262.741,203.662,104.265,4.809.994,500.000,5.889.835,,,9173.0,262741.0,203662.0,104265.0,4809994.0,500000.0,5889835.0
+VI,NỘ PHẢI TRẢ > VI,VI,Các khoản nợ khác,-,-,515.217,245.202,258.645,1.777.575,314.494,3.111.133,,,,515217.0,245202.0,258645.0,1777575.0,314494.0,3111133.0
+Tổng nợ phải trả,NỘ PHẢI TRẢ > Tổng nợ phải trả,Tổng nợ phải trả,Tổng nợ phải trả,-,9.173,21.026.215,13.855.551,23.219.790,34.283.098,16.431.984,108.825.811,,,9173.0,21026215.0,13855551.0,23219790.0,34283098.0,16431984.0,108825811.0
+Mức chênh lệch thanh khoản ròng,NỘ PHẢI TRẢ > Mức chênh lệch thanh khoản ròng,Mức chênh lệch thanh khoản ròng,Mức chênh lệch thanh khoản ròng,268.964,394.273,474.523,3.011.824,336.212,3.973.804,741.640,9.201.240,,268964.0,394273.0,474523.0,3011824.0,336212.0,3973804.0,741640.0,9201240.0

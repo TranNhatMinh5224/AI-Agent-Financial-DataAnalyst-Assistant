@@ -1,0 +1,10 @@
+﻿row_label_raw,row_label_full,Mã số,CHỈ TIÊU,Thuyết minh,Năm 2025 > VND,Năm 2024 > VND,numeric__CHỈ TIÊU,numeric__Thuyết minh,numeric__Năm 2025 > VND,numeric__Năm 2024 > VND
+,,,III. LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH,III. LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH,III. LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH,III. LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH,,,,
+33,33,33,1. Tiền thu từ đi vay,,-,38.500.000.000,,,,38500000000.0
+34,34,34,2. Tiền trả nợ gốc vay,,-,(260.000.000.000),,,,-260000000000.0
+36,36,36,"3. Cổ tức, lợi nhuận đã trả cho chủ sở hữu",,(90.007.539.500),(89.996.580.000),,,-90007539500.0,-89996580000.0
+40,40,40,Lưu chuyển tiền thuần từ hoạt động tài chính,,(90.007.539.500),(311.496.580.000),,,-90007539500.0,-311496580000.0
+50,50,50,Lưu chuyển tiền thuần trong năm,,(15.835.533.702),(155.301.915.640),,,-15835533702.0,-155301915640.0
+60,60,60,Tiền và tương đương tiền đầu năm,,49.029.816.511,204.308.502.152,,,49029816511.0,204308502152.0
+61,61,61,Ảnh hưởng của thay đổi tỷ giá hối đoái quy đổi ngoại tệ,,(856.793),23.229.999,,,-856793.0,23229999.0
+70,70,70,Tiền và tương đương tiền cuối năm,03,33.193.426.016,49.029.816.511,,3.0,33193426016.0,49029816511.0

@@ -1,0 +1,23 @@
+﻿row_label_raw,row_label_full,col_0,Quá hạn,Quá hạn_1,Trong hạn,Trong hạn_1,Trong hạn_2,Trong hạn_3,Trong hạn_4,Trong hạn_5,numeric__Quá hạn,numeric__Quá hạn_1,numeric__Trong hạn,numeric__Trong hạn_1,numeric__Trong hạn_2,numeric__Trong hạn_3,numeric__Trong hạn_4,numeric__Trong hạn_5
+,,,Trên 3 tháng triệu đồng,Đến 3 tháng triệu đồng,Đến 1 tháng triệu đồng,Từ 1 đến 3 tháng triệu đồng,Từ 3 đến 12 tháng triệu đồng,Từ 1 đến 5 năm triệu đồng,Trên 5 năm triệu đồng,Tổng cộng triệu đồng,,,,,,,,
+Tài sản,Tài sản,Tài sản,Tài sản,Tài sản,Tài sản,Tài sản,Tài sản,Tài sản,Tài sản,Tài sản,,,,,,,,
+"Tiền mặt, vàng bạc, đá quý","Tài sản > Tiền mặt, vàng bạc, đá quý","Tiền mặt, vàng bạc, đá quý",,-,8.282.726,-,-,-,-,8.282.726,,,8282726.0,,,,,8282726.0
+Tiền gửi tại NHNN,Tài sản > Tiền gửi tại NHNN,Tiền gửi tại NHNN,,-,24.873.714,-,-,-,-,24.873.714,,,24873714.0,,,,,24873714.0
+Tiền gửi tại và cho vay các TCTD khác (*),Tài sản > Tiền gửi tại và cho vay các TCTD khác (*),Tiền gửi tại và cho vay các TCTD khác (*),,-,102.862.661,24.745.857,1.780.000,-,-,129.388.518,,,102862661.0,24745857.0,1780000.0,,,129388518.0
+Chứng khoán kinh doanh (*),Tài sản > Chứng khoán kinh doanh (*),Chứng khoán kinh doanh (*),,-,4.051.245,-,-,-,-,4.051.245,,,4051245.0,,,,,4051245.0
+Các công cụ tài chính phải sinh và các tải sản tài chính khác,Tài sản > Các công cụ tài chính phải sinh và các tải sản tài chính khác,Các công cụ tài chính phải sinh và các tải sản tài chính khác,,-,469.712,-,-,-,-,469.712,,,469712.0,,,,,469712.0
+Cho vay khách hàng (*),Tài sản > Cho vay khách hàng (*),Cho vay khách hàng (*),10.813.411,5.677.439,50.599.128,192.747.559,323.425.506,138.460.127,213.547.775,935.270.945,10813411.0,5677439.0,50599128.0,192747559.0,323425506.0,138460127.0,213547775.0,935270945.0
+Chứng khoán đầu tư (*),Tài sản > Chứng khoán đầu tư (*),Chứng khoán đầu tư (*),590.000,,2.538.509,2.393.281,15.219.203,66.523.686,25.234.943,112.499.622,590000.0,,2538509.0,2393281.0,15219203.0,66523686.0,25234943.0,112499622.0
+"Góp vốn, đầu tư dài hạn (*)","Tài sản > Góp vốn, đầu tư dài hạn (*)","Góp vốn, đầu tư dài hạn (*)",,-,-,-,-,-,3.282.709,3.282.709,,,,,,,3282709.0,3282709.0
+Tài sản cố định,Tài sản > Tài sản cố định,Tài sản cố định,,-,-,-,-,-,10.996.975,10.996.975,,,,,,,10996975.0,10996975.0
+Tài sản Có khác (*),Tài sản > Tài sản Có khác (*),Tài sản Có khác (*),,-,-,-,-,-,32.662.294,32.662.294,,,,,,,32662294.0,32662294.0
+Tổng tài sản,Tài sản > Tổng tài sản,Tổng tài sản,11.403.411,5.677.439,193.677.695,219.886.697,340.424.709,204.983.813,285.724.696,1.261.778.460,11403411.0,5677439.0,193677695.0,219886697.0,340424709.0,204983813.0,285724696.0,1261778460.0
+Nợ phải trả,Nợ phải trả,Nợ phải trả,Nợ phải trả,Nợ phải trả,Nợ phải trả,Nợ phải trả,Nợ phải trả,Nợ phải trả,Nợ phải trả,Nợ phải trả,,,,,,,,
+Các khoản nợ NHNN,Nợ phải trả > Các khoản nợ NHNN,Các khoản nợ NHNN,-,-,41.858.341,27.015.097,1.729.455,-,-,70.602.893,,,41858341.0,27015097.0,1729455.0,,,70602893.0
+Tiền gửi của và vay từ các TCTD khác,Nợ phải trả > Tiền gửi của và vay từ các TCTD khác,Tiền gửi của và vay từ các TCTD khác,-,-,80.531.043,20.864.392,6.264.527,1.689.630,133.467,109.483.059,,,80531043.0,20864392.0,6264527.0,1689630.0,133467.0,109483059.0
+Tiền gửi của khách hàng,Nợ phải trả > Tiền gửi của khách hàng,Tiền gửi của khách hàng,-,-,187.237.145,209.444.488,400.801.956,94.549.559,752.080,892.785.228,,,187237145.0,209444488.0,400801956.0,94549559.0,752080.0,892785228.0
+"Vốn tài trợ, ủy thác đầu tư, cho vay tổ chức tín dụng chịu rủi ro","Nợ phải trả > Vốn tài trợ, ủy thác đầu tư, cho vay tổ chức tín dụng chịu rủi ro","Vốn tài trợ, ủy thác đầu tư, cho vay tổ chức tín dụng chịu rủi ro",-,-,-,-,-,2.895.875,2.880.024,5.775.899,,,,,,2895875.0,2880024.0,5775899.0
+Phát hành giấy tờ có giá,Nợ phải trả > Phát hành giấy tờ có giá,Phát hành giấy tờ có giá,-,-,-,-,24.900.000,2.101.253,30.065.100,57.066.353,,,,,24900000.0,2101253.0,30065100.0,57066353.0
+Các khoản nợ khác (*),Nợ phải trả > Các khoản nợ khác (*),Các khoản nợ khác (*),-,-,9.860.138,3.960.131,6.768.532,5.975.757,592.979,27.157.537,,,9860138.0,3960131.0,6768532.0,5975757.0,592979.0,27157537.0
+Tổng nợ phải trả,Nợ phải trả > Tổng nợ phải trả,Tổng nợ phải trả,-,-,319.486.667,261.284.108,440.464.470,107.212.074,34.423.650,1.162.870.969,,,319486667.0,261284108.0,440464470.0,107212074.0,34423650.0,1162870969.0
+Mức chênh thanh khoản ròng,Nợ phải trả > Mức chênh thanh khoản ròng,Mức chênh thanh khoản ròng,11.403.411,5.677.439,(125.808.972),(41.397.411),(100.039.761),97.771.739,251.301.046,98.907.491,11403411.0,5677439.0,-125808972.0,-41397411.0,-100039761.0,97771739.0,251301046.0,98907491.0

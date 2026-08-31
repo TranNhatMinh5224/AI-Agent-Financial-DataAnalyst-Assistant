@@ -1,0 +1,10 @@
+﻿row_label_raw,row_label_full,col_0,Tiền gửi tại Ngân hàng Nhà nước Triệu VND,Tiền gửi và cho vay các TCTD khác Triệu VND,Chứng khoán nợ kinh doanh Triệu VND,Các công cụ tài chính phải sinh Triệu VND,Cho vay khách hàng Triệu VND,Chứng khoán nợ đầu tư Triệu VND,Các tài sản tài chính khác Triệu VND,Tổng cộng Triệu VND,numeric__Tiền gửi tại Ngân hàng Nhà nước Triệu VND,numeric__Tiền gửi và cho vay các TCTD khác Triệu VND,numeric__Chứng khoán nợ kinh doanh Triệu VND,numeric__Các công cụ tài chính phải sinh Triệu VND,numeric__Cho vay khách hàng Triệu VND,numeric__Chứng khoán nợ đầu tư Triệu VND,numeric__Các tài sản tài chính khác Triệu VND,numeric__Tổng cộng Triệu VND
+Chưa quá hạn và chưa bị suy giảm giá trị,Chưa quá hạn và chưa bị suy giảm giá trị,Chưa quá hạn và chưa bị suy giảm giá trị,13.657.531,85.971.313,644.059,100.072,407.060.774,75.522.133,7.217.409,590.173.291,13657531.0,85971313.0,644059.0,100072.0,407060774.0,75522133.0,7217409.0,590173291.0
+Đã quá hạn nhưng chưa bị suy giảm giá trị,Đã quá hạn nhưng chưa bị suy giảm giá trị,Đã quá hạn nhưng chưa bị suy giảm giá trị,-,-,-,-,801.518,-,243,801.761,,,,,801518.0,,243.0,801761.0
+Bị suy giảm giá trị,Bị suy giảm giá trị,Bị suy giảm giá trị,-,50.000,-,-,5.843.952,-,182.167,6.076.119,,50000.0,,,5843952.0,,182167.0,6076119.0
+Trừ: Dự phòng rủi ro,Trừ: Dự phòng rủi ro,Trừ: Dự phòng rủi ro,-,(50.000),-,-,(4.849.736),-,(178.456),(5.078.192),,-50000.0,,,-4849736.0,,-178456.0,-5078192.0
+Giá trị ròng,Giá trị ròng,Giá trị ròng,13.657.531,85.971.313,644.059,100.072,408.856.508,75.522.133,7.221.363,591.972.979,13657531.0,85971313.0,644059.0,100072.0,408856508.0,75522133.0,7221363.0,591972979.0
+Dự phòng rủi ro,Dự phòng rủi ro,Dự phòng rủi ro,,,,,,,,,,,,,,,,
+Dự phòng cụ thể,Dự phòng rủi ro > Dự phòng cụ thể,Dự phòng cụ thể,-,(50.000),-,-,(1.662.513),-,-,(1.712.513),,-50000.0,,,-1662513.0,,,-1712513.0
+Dự phòng chung,Dự phòng rủi ro > Dự phòng chung,Dự phòng chung,-,-,-,-,(3.071.021),-,-,(3.071.021),,,,,-3071021.0,,,-3071021.0
+Dự phòng rủi ro khác,Dự phòng rủi ro > Dự phòng rủi ro khác,Dự phòng rủi ro khác,-,-,-,-,(116.202),-,(178.456),(294.658),,,,,-116202.0,,-178456.0,-294658.0

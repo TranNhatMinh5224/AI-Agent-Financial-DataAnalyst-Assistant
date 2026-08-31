@@ -1,0 +1,16 @@
+﻿row_label_raw,row_label_full,col_0,Quyền sử dụng đất,Phần mềm máy tính,Khác,VND Tổng cộng,numeric__Quyền sử dụng đất,numeric__Phần mềm máy tính,numeric__Khác,numeric__VND Tổng cộng
+Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,,,,
+Số đầu năm,Nguyên giá > Số đầu năm,Số đầu năm,42.297.185.783,22.945.751.728,1.216.005.358,66.458.942.869,42297185783.0,22945751728.0,1216005358.0,66458942869.0
+Mua mới,Nguyên giá > Mua mới,Mua mới,-,6.630.500.000,-,6.630.500.000,,6630500000.0,,6630500000.0
+Giảm do thanh lý công ty con,Nguyên giá > Giảm do thanh lý công ty con,Giảm do thanh lý công ty con,-,(274.300.000),-,(274.300.000),,-274300000.0,,-274300000.0
+Số cuối năm,Nguyên giá > Số cuối năm,Số cuối năm,42.297.185.783,29.301.951.728,1.216.005.358,72.815.142.869,42297185783.0,29301951728.0,1216005358.0,72815142869.0
+Trong đó: Đã hao mòn hết,Nguyên giá > Trong đó: Đã hao mòn hết,Trong đó: Đã hao mòn hết,-,6.701.579.968,1.216.005.358,7.917.585.326,,6701579968.0,1216005358.0,7917585326.0
+Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,,,,
+Số đầu năm,Giá trị hao mòn lũy kế > Số đầu năm,Số đầu năm,-,(13.684.589.261),(1.216.005.358),(14.900.594.619),,-13684589261.0,-1216005358.0,-14900594619.0
+Hao mòn trong năm,Giá trị hao mòn lũy kế > Hao mòn trong năm,Hao mòn trong năm,-,(4.846.193.846),-,(4.846.193.846),,-4846193846.0,,-4846193846.0
+Giảm do thanh lý công ty con,Giá trị hao mòn lũy kế > Giảm do thanh lý công ty con,Giảm do thanh lý công ty con,-,142.827.719,-,142.827.719,,142827719.0,,142827719.0
+Số cuối năm,Giá trị hao mòn lũy kế > Số cuối năm,Số cuối năm,-,(18.387.955.388),(1.216.005.358),(19.603.960.746),,-18387955388.0,-1216005358.0,-19603960746.0
+Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,,,,
+Số đầu năm,Giá trị còn lại > Số đầu năm,Số đầu năm,42.297.185.783,9.261.162.467,-,51.558.348.250,42297185783.0,9261162467.0,,51558348250.0
+Số cuối năm,Giá trị còn lại > Số cuối năm,Số cuối năm,42.297.185.783,10.913.996.340,-,53.211.182.123,42297185783.0,10913996340.0,,53211182123.0
+Tài sản sử dụng để thế chấp (Thuyết minh số 23.1),Giá trị còn lại > Tài sản sử dụng để thế chấp (Thuyết minh số 23.1),Tài sản sử dụng để thế chấp (Thuyết minh số 23.1),7.007.857.543,-,-,7.007.857.543,7007857543.0,,,7007857543.0

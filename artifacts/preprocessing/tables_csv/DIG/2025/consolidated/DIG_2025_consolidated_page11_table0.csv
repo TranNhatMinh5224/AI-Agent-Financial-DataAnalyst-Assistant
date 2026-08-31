@@ -1,0 +1,23 @@
+﻿row_label_raw,row_label_full,Chỉ tiêu,Mã số,Thuyết minh,Năm nay,Năm trước,numeric__Mã số,numeric__Thuyết minh,numeric__Năm nay,numeric__Năm trước
+1. Doanh thu bán hàng và cung cấp dịch vụ,1. Doanh thu bán hàng và cung cấp dịch vụ,1. Doanh thu bán hàng và cung cấp dịch vụ,01,VI.1,4.789.105.206.000,1.531.489.886.037,1.0,,4789105206000.0,1531489886037.0
+2. Các khoản giảm trừ doanh thu,2. Các khoản giảm trừ doanh thu,2. Các khoản giảm trừ doanh thu,02,VI.2,71.437.967.173,230.490.942.709,2.0,,71437967173.0,230490942709.0
+3. Doanh thu thuần bán hàng và cung cấp dịch vụ,3. Doanh thu thuần bán hàng và cung cấp dịch vụ,3. Doanh thu thuần bán hàng và cung cấp dịch vụ,10,VI.3,4.717.667.238.827,1.300.998.943.328,10.0,,4717667238827.0,1300998943328.0
+4. Giá vốn hàng bán,4. Giá vốn hàng bán,4. Giá vốn hàng bán,11,VI.4,3.601.415.457.075,1.002.803.572.463,11.0,,3601415457075.0,1002803572463.0
+5. Lợi nhuận gộp về bán hàng và cung cấp dịch vụ,5. Lợi nhuận gộp về bán hàng và cung cấp dịch vụ,5. Lợi nhuận gộp về bán hàng và cung cấp dịch vụ,20,,1.116.251.781.752,298.195.370.865,20.0,,1116251781752.0,298195370865.0
+6. Doanh thu hoạt động tài chính,6. Doanh thu hoạt động tài chính,6. Doanh thu hoạt động tài chính,21,VI.5,65.972.872.839,117.144.956.019,21.0,,65972872839.0,117144956019.0
+7. Chi phí tài chính,7. Chi phí tài chính,7. Chi phí tài chính,22,VI.6,100.718.815.894,28.480.620.434,22.0,,100718815894.0,28480620434.0
+Trong đó: Chi phí lãi vay,Trong đó: Chi phí lãi vay,Trong đó: Chi phí lãi vay,23,,97.242.285.512,47.361.629.699,23.0,,97242285512.0,47361629699.0
+"8. Phần lãi hoặc lỗ trong công ty liên doanh, liên kết","8. Phần lãi hoặc lỗ trong công ty liên doanh, liên kết","8. Phần lãi hoặc lỗ trong công ty liên doanh, liên kết",24,V.2,11.447.968.971,(436.068.748),24.0,,11447968971.0,-436068748.0
+9. Chi phí bán hàng,9. Chi phí bán hàng,9. Chi phí bán hàng,25,VI.7,65.503.843.189,43.616.009.912,25.0,,65503843189.0,43616009912.0
+10. Chi phí quản lý doanh nghiệp,10. Chi phí quản lý doanh nghiệp,10. Chi phí quản lý doanh nghiệp,26,VI.8,206.032.413.963,180.302.907.673,26.0,,206032413963.0,180302907673.0
+11. Lợi nhuận thuần từ hoạt động kinh doanh,11. Lợi nhuận thuần từ hoạt động kinh doanh,11. Lợi nhuận thuần từ hoạt động kinh doanh,30,,821.417.550.516,162.504.720.117,30.0,,821417550516.0,162504720117.0
+12. Thu nhập khác,12. Thu nhập khác,12. Thu nhập khác,31,VI.9,38.602.868.802,20.871.285.186,31.0,,38602868802.0,20871285186.0
+13. Chi phí khác,13. Chi phí khác,13. Chi phí khác,32,VI.10,35.770.298.067,25.287.593.359,32.0,,35770298067.0,25287593359.0
+14. Lợi nhuận khác,14. Lợi nhuận khác,14. Lợi nhuận khác,40,,2.832.570.735,(4.416.308.173),40.0,,2832570735.0,-4416308173.0
+15. Tổng lợi nhuận kế toán trước thuế,15. Tổng lợi nhuận kế toán trước thuế,15. Tổng lợi nhuận kế toán trước thuế,50,,824.250.121.251,158.088.411.944,50.0,,824250121251.0,158088411944.0
+16. Chi phí thuế thu nhập doanh nghiệp hiện hành,16. Chi phí thuế thu nhập doanh nghiệp hiện hành,16. Chi phí thuế thu nhập doanh nghiệp hiện hành,51,VI.11,186.158.243.727,76.029.395.092,51.0,,186158243727.0,76029395092.0
+17. Chi phí thuế thu nhập doanh nghiệp hoãn lại,17. Chi phí thuế thu nhập doanh nghiệp hoãn lại,17. Chi phí thuế thu nhập doanh nghiệp hoãn lại,52,VI.11,31.685.069.936,(19.845.281.860),52.0,,31685069936.0,-19845281860.0
+18. Lợi nhuận sau thuế thu nhập doanh nghiệp,18. Lợi nhuận sau thuế thu nhập doanh nghiệp,18. Lợi nhuận sau thuế thu nhập doanh nghiệp,60,,606.406.807.588,101.904.298.712,60.0,,606406807588.0,101904298712.0
+19. Lợi nhuận sau thuế của cổ đông của công ty mẹ,19. Lợi nhuận sau thuế của cổ đông của công ty mẹ,19. Lợi nhuận sau thuế của cổ đông của công ty mẹ,61,,646.459.231.632,114.535.926.550,61.0,,646459231632.0,114535926550.0
+20. Lợi nhuận sau thuế của cổ đông không kiểm soát,20. Lợi nhuận sau thuế của cổ đông không kiểm soát,20. Lợi nhuận sau thuế của cổ đông không kiểm soát,62,,(40.052.424.044),(12.631.627.838),62.0,,-40052424044.0,-12631627838.0
+21. Lãi cơ bản trên cổ phiếu,21. Lãi cơ bản trên cổ phiếu,21. Lãi cơ bản trên cổ phiếu,70,VI.12,988,155,70.0,,988.0,155.0

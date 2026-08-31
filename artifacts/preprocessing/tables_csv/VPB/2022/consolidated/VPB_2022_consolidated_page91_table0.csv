@@ -1,0 +1,23 @@
+﻿row_label_raw,row_label_full,col_0,Hoạt động ngân hàng triệu đồng,Hoạt động công ty tài chính triệu đồng,Hoạt động quản lý nợ và khai thác tài sản triệu đồng,Hoạt động chứng khoán triệu đồng,Hoạt động kinh doanh bảo hiểm triệu đồng,Điều chỉnh nội bộ triệu đồng,Tổng cộng triệu đồng,numeric__Hoạt động ngân hàng triệu đồng,numeric__Hoạt động công ty tài chính triệu đồng,numeric__Hoạt động quản lý nợ và khai thác tài sản triệu đồng,numeric__Hoạt động chứng khoán triệu đồng,numeric__Hoạt động kinh doanh bảo hiểm triệu đồng,numeric__Điều chỉnh nội bộ triệu đồng,numeric__Tổng cộng triệu đồng
+I. Doanh thu,I. Doanh thu,I. Doanh thu,I. Doanh thu,I. Doanh thu,I. Doanh thu,I. Doanh thu,I. Doanh thu,I. Doanh thu,I. Doanh thu,,,,,,,
+Doanh thu lãi,I. Doanh thu > Doanh thu lãi,Doanh thu lãi,43.674.965,18.943.288,3.414,474.878,11.829,(908.124),62.200.250,43674965.0,18943288.0,3414.0,474878.0,11829.0,-908124.0,62200250.0
+Lãi thuần từ hoạt động dịch vụ,I. Doanh thu > Lãi thuần từ hoạt động dịch vụ,Lãi thuần từ hoạt động dịch vụ,5.981.755,334.242,-,55.809,6.674,59.272,6.437.752,5981755.0,334242.0,,55809.0,6674.0,59272.0,6437752.0
+Lãi thuần từ hoạt động kinh doanh khác,I. Doanh thu > Lãi thuần từ hoạt động kinh doanh khác,Lãi thuần từ hoạt động kinh doanh khác,9.003.533,1.322.848,332,193.184,(135),(181.483),10.338.279,9003533.0,1322848.0,332.0,193184.0,-135.0,-181483.0,10338279.0
+,,,58.660.253,20.600.378,3.746,723.871,18.368,(1.030.335),78.976.281,58660253.0,20600378.0,3746.0,723871.0,18368.0,-1030335.0,78976281.0
+II. Chi phí,II. Chi phí,II. Chi phí,II. Chi phí,II. Chi phí,II. Chi phí,II. Chi phí,II. Chi phí,II. Chi phí,II. Chi phí,,,,,,,
+Chi phí lãi,II. Chi phí > Chi phí lãi,Chi phí lãi,(18.068.868),(3.950.681),-,(13.642),-,853.999,(21.179.192),-18068868.0,-3950681.0,,-13642.0,,853999.0,-21179192.0
+Chi phí khấu hao tài sản cố định,II. Chi phí > Chi phí khấu hao tài sản cố định,Chi phí khấu hao tài sản cố định,(257.651),(105.998),-,(2.075),(653),-,(366.377),-257651.0,-105998.0,,-2075.0,-653.0,,-366377.0
+Chi phí liên quan trực tiếp đến hoạt động kinh doanh,II. Chi phí > Chi phí liên quan trực tiếp đến hoạt động kinh doanh,Chi phí liên quan trực tiếp đến hoạt động kinh doanh,(7.585.154),(5.983.132),(290),(166.493),(22.863),8.578,(13.749.354),-7585154.0,-5983132.0,-290.0,-166493.0,-22863.0,8578.0,-13749354.0
+,,,(25.911.673),(10.039.811),(290),(182.210),(23.516),862.577,(35.294.923),-25911673.0,-10039811.0,-290.0,-182210.0,-23516.0,862577.0,-35294923.0
+Kết quả kinh doanh trước chi phí dự phòng rủi ro,II. Chi phí > Kết quả kinh doanh trước chi phí dự phòng rủi ro,Kết quả kinh doanh trước chi phí dự phòng rủi ro,32.748.580,10.560.567,3.456,541.661,(5.148),(167.758),43.681.358,32748580.0,10560567.0,3456.0,541661.0,-5148.0,-167758.0,43681358.0
+Chi phí dự phòng rủi ro,II. Chi phí > Chi phí dự phòng rủi ro,Chi phí dự phòng rủi ro,(8.743.516),(13.681.557),-,-,-,(36.153),(22.461.226),-8743516.0,-13681557.0,,,,-36153.0,-22461226.0
+Kết quả kinh doanh bộ phận III. Tài sản,II. Chi phí > Kết quả kinh doanh bộ phận III. Tài sản,Kết quả kinh doanh bộ phận III. Tài sản,24.005.064,(3.120.990),3.456,541.661,(5.148),(203.911),21.220.132,24005064.0,-3120990.0,3456.0,541661.0,-5148.0,-203911.0,21220132.0
+Tiền mặt,II. Chi phí > Tiền mặt,Tiền mặt,2.658.493,-,-,-,-,-,2.658.493,2658493.0,,,,,,2658493.0
+Tài sản cố định,II. Chi phí > Tài sản cố định,Tài sản cố định,1.465.260,374.325,-,11.762,6.640,139,1.858.126,1465260.0,374325.0,,11762.0,6640.0,139.0,1858126.0
+Tài sản khác,II. Chi phí > Tài sản khác,Tài sản khác,584.087.824,76.097.923,163.403,16.104.975,1.294.668,(51.252.526),626.496.267,584087824.0,76097923.0,163403.0,16104975.0,1294668.0,-51252526.0,626496267.0
+,,,588.211.577,76.472.248,163.403,16.116.737,1.301.308,(51.252.387),631.012.886,588211577.0,76472248.0,163403.0,16116737.0,1301308.0,-51252387.0,631012886.0
+IV. Nợ phải trả,IV. Nợ phải trả,IV. Nợ phải trả,IV. Nợ phải trả,IV. Nợ phải trả,IV. Nợ phải trả,IV. Nợ phải trả,IV. Nợ phải trả,IV. Nợ phải trả,IV. Nợ phải trả,,,,,,,
+Nợ phải trả khách hàng bên ngoài,IV. Nợ phải trả > Nợ phải trả khách hàng bên ngoài,Nợ phải trả khách hàng bên ngoài,485.416.300,61.525.309,88,433.380,(150),(29.677.343),517.697.584,485416300.0,61525309.0,88.0,433380.0,-150.0,-29677343.0,517697584.0
+Nợ phải trả nội bộ,IV. Nợ phải trả > Nợ phải trả nội bộ,Nợ phải trả nội bộ,164.738,78.475,500,17.306,-,-,261.019,164738.0,78475.0,500.0,17306.0,,,261019.0
+Nợ phải trả khác,IV. Nợ phải trả > Nợ phải trả khác,Nợ phải trả khác,7.082.934,1.587.531,27.983,228.446,796.133,(170.664),9.552.363,7082934.0,1587531.0,27983.0,228446.0,796133.0,-170664.0,9552363.0
+,,,492.663.972,63.191.315,28.571,679.132,795.983,(29.848.007),527.510.966,492663972.0,63191315.0,28571.0,679132.0,795983.0,-29848007.0,527510966.0

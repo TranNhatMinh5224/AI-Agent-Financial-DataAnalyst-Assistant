@@ -1,0 +1,13 @@
+﻿row_label_raw,row_label_full,col_0,Số đầu năm(Trình bày lại),Số phải thu/nộptrong năm,Số đã thực thu/nộptrong năm,Số cuối năm,numeric__Số đầu năm(Trình bày lại),numeric__Số phải thu/nộptrong năm,numeric__Số đã thực thu/nộptrong năm,numeric__Số cuối năm
+,,,VND,VND,VND,VND,,,,
+Phải thu,Phải thu,Phải thu,Phải thu,Phải thu,Phải thu,Phải thu,,,,
+Thuế GTGT,Phải thu > Thuế GTGT,Thuế GTGT,233.856.158,-,-,233.856.158,233856158.0,,,233856158.0
+Thuế TNDN,Phải thu > Thuế TNDN,Thuế TNDN,-,34.390.170,-,34.390.170,,34390170.0,,34390170.0
+Cộng,Phải thu > Cộng,Cộng,233.856.158,34.390.170,-,268.246.328,233856158.0,34390170.0,,268246328.0
+Phải nộp,Phải nộp,Phải nộp,Phải nộp,Phải nộp,Phải nộp,Phải nộp,,,,
+Thuế GTGT,Phải nộp > Thuế GTGT,Thuế GTGT,38.345.457,50.629.139.526,50.590.794.069,-,38345457.0,50629139526.0,50590794069.0,
+Thuế NK,Phải nộp > Thuế NK,Thuế NK,-,87.456.605.148,87.456.605.148,-,,87456605148.0,87456605148.0,
+Thuế TNDN,Phải nộp > Thuế TNDN,Thuế TNDN,2.022.657.536,11.502.299.789,12.391.451.791,1.133.505.534,2022657536.0,11502299789.0,12391451791.0,1133505534.0
+Thuế TNCN,Phải nộp > Thuế TNCN,Thuế TNCN,78.333.950,312.147.650,339.766.650,50.714.950,78333950.0,312147650.0,339766650.0,50714950.0
+Các loại thuế khác,Phải nộp > Các loại thuế khác,Các loại thuế khác,-,1.321.300.252,1.321.300.252,-,,1321300252.0,1321300252.0,
+Cộng,Phải nộp > Cộng,Cộng,2.139.336.943,151.221.492.365,152.099.917.910,1.184.220.484,2139336943.0,151221492365.0,152099917910.0,1184220484.0

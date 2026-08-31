@@ -1,0 +1,4 @@
+﻿row_label_raw,row_label_full,Debt,Debt_1,Status,Provision rate,numeric__Debt_1,numeric__Status,numeric__Provision rate
+1,1,1,Standard Debt,Loans within term or overdue less than 10 days,0%,,,0.0
+2,2,2,Debt needing attention,- Overdue from 10 to 90 days; or- Rescheduled loan repayment for the first time (if the customer is deemed capable of repaying both principal and interest based on the first rescheduled term for businesses and organizations).,5%,,,0.05
+3,3,3,Substandard Debt,"- Overdue from 91 to 180 days; or- Rescheduled loan repayment for the first time, excluding loans with rescheduled repayment terms already classified under Group 2 above; or- Loans where interest payments are waived or reduced due to the customer's inability to pay according to the contract.",20%,,,0.2

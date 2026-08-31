@@ -1,0 +1,13 @@
+﻿row_label_raw,row_label_full,Chỉ tiêu,Chỉ tiêu_1,Mã số TT200/QĐ15,Theo Thông tư 200/2014/TT-BTC,Theo Quyết định 15/2006/QĐ-BTC,Chênh lệch,numeric__Chỉ tiêu_1,numeric__Mã số TT200/QĐ15,numeric__Theo Thông tư 200/2014/TT-BTC,numeric__Theo Quyết định 15/2006/QĐ-BTC,numeric__Chênh lệch
+BẢNG CẦN ĐỐI KẾ TOÁN RIÊNG,BẢNG CẦN ĐỐI KẾ TOÁN RIÊNG,BẢNG CẦN ĐỐI KẾ TOÁN RIÊNG,BẢNG CẦN ĐỐI KẾ TOÁN RIÊNG,BẢNG CẦN ĐỐI KẾ TOÁN RIÊNG,BẢNG CẦN ĐỐI KẾ TOÁN RIÊNG,BẢNG CẦN ĐỐI KẾ TOÁN RIÊNG,BẢNG CẦN ĐỐI KẾ TOÁN RIÊNG,,,,,
+A. TÀI SẢN NGẮN HẠN,A. TÀI SẢN NGẮN HẠN,A. TÀI SẢN NGẮN HẠN,A. TÀI SẢN NGẮN HẠN,A. TÀI SẢN NGẮN HẠN,A. TÀI SẢN NGẮN HẠN,A. TÀI SẢN NGẮN HẠN,A. TÀI SẢN NGẮN HẠN,,,,,
+1.,A. TÀI SẢN NGẮN HẠN > 1.,1.,Phải thu ngắn hạn khác,136/135,90.903.144.107,31.034.631.177,59.868.512.930,,,90903144107.0,31034631177.0,59868512930.0
+2.,A. TÀI SẢN NGẮN HẠN > 2.,2.,Tài sản ngắn hạn khác,155/158,,59.868.512.930,(59.868.512.930),,,,59868512930.0,-59868512930.0
+3.,A. TÀI SẢN NGẮN HẠN > 3.,3.,Phải thu dài hạn khác,216/218,582.491.513,,582.491.513,,,582491513.0,,582491513.0
+4.,A. TÀI SẢN NGẮN HẠN > 4.,4.,Tài sản dài hạn khác,261/268,,582.491.513,(582.491.513),,,,582491513.0,-582491513.0
+5.,A. TÀI SẢN NGẮN HẠN > 5.,5.,Chi phí xây dựng cơ bản dở dang,242/230,39.193.850,,39.193.850,,,39193850.0,,39193850.0
+6.,A. TÀI SẢN NGẮN HẠN > 6.,6.,Vốn kinh doanh ở đơn vị trực thuộc,213/212,,39.193.850,(39.193.850),,,,39193850.0,-39193850.0
+D . VỐN CHỦ SỞ HỮU,D . VỐN CHỦ SỞ HỮU,D . VỐN CHỦ SỞ HỮU,D . VỐN CHỦ SỞ HỮU,,,,,,,,,
+1.,D . VỐN CHỦ SỞ HỮU > 1.,1.,Quỹ đầu tư phát triển,418 / 417,23.304.431.230,11.652.215.615,11.652.215.615,,,23304431230.0,11652215615.0,11652215615.0
+2.,D . VỐN CHỦ SỞ HỮU > 2.,2.,Quỹ dự phòng tài chính,không có / 418,,11.652.215.615,(11.652.215.615),,,,11652215615.0,-11652215615.0
+3.,D . VỐN CHỦ SỞ HỮU > 3.,3.,Lãi cơ bản trên cổ phiếu,71 / 70,1.672,1.698,(26),,,1672.0,1698.0,-26.0

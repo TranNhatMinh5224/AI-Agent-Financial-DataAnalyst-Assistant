@@ -1,0 +1,29 @@
+﻿row_label_raw,row_label_full,STT,Chỉ tiêu,Thuyết minh,31/12/2020Triệu VND,31/12/2019Triệu VND(trình bày lại),numeric__Chỉ tiêu,numeric__Thuyết minh,numeric__31/12/2020Triệu VND,numeric__31/12/2019Triệu VND(trình bày lại)
+B,B,B,NỘ PHẢI TRẢ VÀ VỐN CHỦ SỞ HỮU,,,,,,,
+I,B > I,I,Các khoản nợ Chính phủ và NHNN,16,41.176.995,92.365.806,,16.0,41176995.0,92365806.0
+II,B > II,II,Tiền gửi và vay các tổ chức tín dụng khác,17,103.583.833,73.617.085,,17.0,103583833.0,73617085.0
+1,B > 1,1,Tiền gửi của các tổ chức tín dụng khác,,100.916.433,71.046.512,,,100916433.0,71046512.0
+2,B > 2,2,Vay các tổ chức tín dụng khác,,2.667.400,2.570.573,,,2667400.0,2570573.0
+III,B > III,III,Tiền gửi của khách hàng,18,1.032.113.567,928.450.869,,18.0,1032113567.0,928450869.0
+IV,B > IV,IV,Các công cụ tài chính phải sinh và các khoản nợ tài chính khác,8,52.031,-,,8.0,52031.0,
+V,B > V,V,"Vốn tài trợ, ủy thác đầu tư, cho vay tổ chức tín dụng chịu rủi ro",19,14.679,20.431,,19.0,14679.0,20431.0
+VI,B > VI,VI,Phát hành giấy tờ có giá,20,21.240.197,21.383.932,,20.0,21240197.0,21383932.0
+VII,B > VII,VII,Các khoản nợ khác,,33.953.811,26.021.232,,,33953811.0,26021232.0
+1,B > 1,1,"Các khoản lãi, phí phải trả",21(a),9.797.834,10.363.285,,,9797834.0,10363285.0
+2,B > 2,2,Thuế thu nhập doanh nghiệp hoãn lại phải trả,,-,22.023,,,,22023.0
+3,B > 3,3,Các khoản phải trả và công nợ khác,21(b),24.155.977,15.635.924,,,24155977.0,15635924.0
+,,,TỔNG NỘ PHẢI TRẢ,,1.232.135.113,1.141.859.355,,,1232135113.0,1141859355.0
+VIII,VIII,VIII,Vốn chủ sở hữu,,,,,,,
+1,VIII > 1,1,Vốn của tổ chức tín dụng,,42.428.821,42.428.821,,,42428821.0,42428821.0
+a,VIII > a,a,Vốn điều lệ,,37.088.774,37.088.774,,,37088774.0,37088774.0
+c,VIII > c,c,Thặng dư vốn cổ phần,,4.995.389,4.995.389,,,4995389.0,4995389.0
+g,VIII > g,g,Vốn khác,,344.658,344.658,,,344658.0,344658.0
+2,VIII > 2,2,Quỹ của tổ chức tín dụng,,14.925.803,12.186.141,,,14925803.0,12186141.0
+3,VIII > 3,3,Chênh lệch tỷ giá hối đoái,,5.103,16.361,,,5103.0,16361.0
+4,VIII > 4,4,Chênh lệch đánh giá lại tài sản,,-,113.011,,,,113011.0
+5,VIII > 5,5,Lợi nhuận chưa phân phối,,36.650.228,26.126.544,,,36650228.0,26126544.0
+a,VIII > a,a,Lợi nhuận để lại năm trước,,22.803.530,12.188.552,,,22803530.0,12188552.0
+b,VIII > b,b,Lợi nhuận để lại năm nay,,13.846.698,13.937.992,,,13846698.0,13937992.0
+6,VIII > 6,6,Lợi ích của cổ đông không kiểm soát,,85.024,83.459,,,85024.0,83459.0
+,,,TỔNG VỐN CHỦ SỞ HỮU,22(a),94.094.979,80.954.337,,,94094979.0,80954337.0
+,,,TỔNG NỘ PHẢI TRẢ VÀ VỐN CHỦ SỞ HỮU,,1.326.230.092,1.222.813.692,,,1326230092.0,1222813692.0

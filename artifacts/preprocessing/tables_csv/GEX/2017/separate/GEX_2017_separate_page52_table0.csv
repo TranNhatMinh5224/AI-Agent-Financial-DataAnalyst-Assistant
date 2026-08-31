@@ -1,0 +1,14 @@
+﻿row_label_raw,row_label_full,Mã số,Mã số_1,Mã số_2,Đã được trình bày trước đây,Điều chỉnh,Đơn vị tính: VND > Đã được trình bày lại,numeric__Mã số_1,numeric__Mã số_2,numeric__Đã được trình bày trước đây,numeric__Điều chỉnh,numeric__Đơn vị tính: VND > Đã được trình bày lại
+BẢNG CẦN ĐỒI KẾ TOÁN RIÊNG,BẢNG CẦN ĐỒI KẾ TOÁN RIÊNG,BẢNG CẦN ĐỒI KẾ TOÁN RIÊNG,BẢNG CẦN ĐỒI KẾ TOÁN RIÊNG,BẢNG CẦN ĐỒI KẾ TOÁN RIÊNG,BẢNG CẦN ĐỒI KẾ TOÁN RIÊNG,BẢNG CẦN ĐỒI KẾ TOÁN RIÊNG,BẢNG CẦN ĐỒI KẾ TOÁN RIÊNG,,,,,
+121,BẢNG CẦN ĐỒI KẾ TOÁN RIÊNG > 121,121,Chứng khoán kinh doanh,(i),-,197.046.708.523,197.046.708.523,,,,197046708523.0,197046708523.0
+123,BẢNG CẦN ĐỒI KẾ TOÁN RIÊNG > 123,123,Đầu tư nằm giữ đến ngàyđáo hạn,(i),242.046.708.523,(197.046.708.523),45.000.000.000,,,242046708523.0,-197046708523.0,45000000000.0
+222,BẢNG CẦN ĐỒI KẾ TOÁN RIÊNG > 222,222,Nguyễn giả tài sản cốđịnh hữu hình,(ii),467.908.092.528,(148.649.765.571),319.258.326.957,,,467908092528.0,-148649765571.0,319258326957.0
+223,BẢNG CẦN ĐỒI KẾ TOÁN RIÊNG > 223,223,Giá trị khấu hao lũy kểtài sản cố định hữu hình,(ii),(114.581.956.927),9.944.223.521,(104.637.733.406),,,-114581956927.0,9944223521.0,-104637733406.0
+231,BẢNG CẦN ĐỒI KẾ TOÁN RIÊNG > 231,231,Nguyễn giả bất động sảnđầu tư,(ii),-,148.649.765.571,148.649.765.571,,,,148649765571.0,148649765571.0
+232,BẢNG CẦN ĐỒI KẾ TOÁN RIÊNG > 232,232,Giá trị khấu hao lũy kểbắt động sản đầu tư,(ii),-,(9.944.223.521),(9.944.223.521),,,,-9944223521.0,-9944223521.0
+320,BẢNG CẦN ĐỒI KẾ TOÁN RIÊNG > 320,320,Vay và nợ thuê tài chínhngắn hạn,(iii),1.152.533.365.523,360.000.000.000,1.512.533.365.523,,,1152533365523.0,360000000000.0,1512533365523.0
+338,BẢNG CẦN ĐỒI KẾ TOÁN RIÊNG > 338,338,Vay và nợ thuê tài chínhdải hạn,(iii),1.793.713.636.364,(360.000.000.000),1.433.713.636.364,,,1793713636364.0,-360000000000.0,1433713636364.0
+BẢO CẢO LUU CHUYÊN TIÊN TỆ RIÊNG,BẢO CẢO LUU CHUYÊN TIÊN TỆ RIÊNG,BẢO CẢO LUU CHUYÊN TIÊN TỆ RIÊNG,BẢO CẢO LUU CHUYÊN TIÊN TỆ RIÊNG,BẢO CẢO LUU CHUYÊN TIÊN TỆ RIÊNG,BẢO CẢO LUU CHUYÊN TIÊN TỆ RIÊNG,BẢO CẢO LUU CHUYÊN TIÊN TỆ RIÊNG,BẢO CẢO LUU CHUYÊN TIÊN TỆ RIÊNG,,,,,
+13,BẢO CẢO LUU CHUYÊN TIÊN TỆ RIÊNG > 13,13,Tăng chứng khoán kinhdoanh,(i),-,(197.046.708.523),(197.046.708.523),,,,-197046708523.0,-197046708523.0
+23,BẢO CẢO LUU CHUYÊN TIÊN TỆ RIÊNG > 23,23,"Tiền chỉ cho vay, mua các công cụ nợ của đơnvị khác",(i),(563.274.115.123),508.274.115.123,(55.000.000.000),,,-563274115123.0,508274115123.0,-55000000000.0
+24,BẢO CẢO LUU CHUYÊN TIÊN TỆ RIÊNG > 24,24,"Thu thu hồi cho vay, bánlại các công cụ nợ củacác đơn vị khác",(i),798.112.526.600,(311.227.406.600),486.885.120.000,,,798112526600.0,-311227406600.0,486885120000.0

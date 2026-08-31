@@ -1,0 +1,13 @@
+﻿row_label_raw,row_label_full,Khoản mục,Quyền sử dụng đất VND,Phần mềm quản lý VND,TSCĐ vô hình khác VND,Tổng cộng VND,numeric__Quyền sử dụng đất VND,numeric__Phần mềm quản lý VND,numeric__TSCĐ vô hình khác VND,numeric__Tổng cộng VND
+Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,,,,
+Số dư đầu năm,Nguyên giá > Số dư đầu năm,Số dư đầu năm,42.297.185.783,37.296.640.728,1.216.005.358,80.809.831.869,42297185783.0,37296640728.0,1216005358.0,80809831869.0
+Giảm khác,Nguyên giá > Giảm khác,Giảm khác,-,(701.100.000),-,(701.100.000),,-701100000.0,,-701100000.0
+Số dư cuối năm,Nguyên giá > Số dư cuối năm,Số dư cuối năm,42.297.185.783,36.595.540.728,1.216.005.358,80.108.731.869,42297185783.0,36595540728.0,1216005358.0,80108731869.0
+Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,,,,
+Số dư đầu năm,Giá trị hao mòn lũy kế > Số dư đầu năm,Số dư đầu năm,-,25.559.102.898,1.216.005.358,26.775.108.256,,25559102898.0,1216005358.0,26775108256.0
+Khấu hao trong năm,Giá trị hao mòn lũy kế > Khấu hao trong năm,Khấu hao trong năm,-,3.096.633.615,-,3.096.633.615,,3096633615.0,,3096633615.0
+Giảm khác,Giá trị hao mòn lũy kế > Giảm khác,Giảm khác,-,(198.110.116),-,(198.110.116),,-198110116.0,,-198110116.0
+Số dư cuối năm,Giá trị hao mòn lũy kế > Số dư cuối năm,Số dư cuối năm,-,28.457.626.397,1.216.005.358,29.673.631.755,,28457626397.0,1216005358.0,29673631755.0
+Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,,,,
+Số dư đầu năm,Giá trị còn lại > Số dư đầu năm,Số dư đầu năm,42.297.185.783,11.737.537.830,-,54.034.723.613,42297185783.0,11737537830.0,,54034723613.0
+Số dư cuối năm,Giá trị còn lại > Số dư cuối năm,Số dư cuối năm,42.297.185.783,8.137.914.331,-,50.435.100.114,42297185783.0,8137914331.0,,50435100114.0

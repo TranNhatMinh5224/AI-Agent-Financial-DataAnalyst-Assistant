@@ -1,0 +1,22 @@
+﻿row_label_raw,row_label_full,col_0,Quá hạnTriệu đồng,Khôngchiụ lãiTriệu đồng,Thời hạn định lại lãi suất,Thời hạn định lại lãi suất_1,Thời hạn định lại lãi suất_2,Thời hạn định lại lãi suất_3,Thời hạn định lại lãi suất_4,Thời hạn định lại lãi suất_5,Tổng cộngTriệu đồng,numeric__Quá hạnTriệu đồng,numeric__Khôngchiụ lãiTriệu đồng,numeric__Thời hạn định lại lãi suất,numeric__Thời hạn định lại lãi suất_1,numeric__Thời hạn định lại lãi suất_2,numeric__Thời hạn định lại lãi suất_3,numeric__Thời hạn định lại lãi suất_4,numeric__Thời hạn định lại lãi suất_5,numeric__Tổng cộngTriệu đồng
+,,,Quá hạnTriệu đồng,Khôngchiụ lãiTriệu đồng,Đến1 thángTriệu đồng,Từ 1 đến3 thángTriệu đồng,Từ 3 đến6 thángTriệu đồng,Từ 6 đến12 thángTriệu đồng,Từ 1 đến5 nămTriệu đồng,Trên5 nămTriệu đồng,Tổng cộngTriệu đồng,,,,,,,,,
+Tài sản,Tài sản,Tài sản,,,,,,,,,,,,,,,,,,
+Tiền mặt và vàng,Tài sản > Tiền mặt và vàng,Tiền mặt và vàng,-,6.402.244,-,-,-,-,-,-,6.402.244,,6402244.0,,,,,,,6402244.0
+Tiền gửi tại NHNN Việt Nam,Tài sản > Tiền gửi tại NHNN Việt Nam,Tiền gửi tại NHNN Việt Nam,-,-,6.794.170,-,-,-,-,-,6.794.170,,,6794170.0,,,,,,6794170.0
+Tiền gửi tại và cho vay các TCTD khác - gộp,Tài sản > Tiền gửi tại và cho vay các TCTD khác - gộp,Tiền gửi tại và cho vay các TCTD khác - gộp,552,-,4.482.103,140.969,-,-,-,-,4.623.624,552.0,,4482103.0,140969.0,,,,,4623624.0
+Chứng khoán kinh doanh - gộp,Tài sản > Chứng khoán kinh doanh - gộp,Chứng khoán kinh doanh - gộp,-,124.841,-,-,-,-,-,-,124.841,,124841.0,,,,,,,124841.0
+Cho vay khách hàng - gộp,Tài sản > Cho vay khách hàng - gộp,Cho vay khách hàng - gộp,2.199.950,43.321.983,45.166.769,83.347.973,730.731,1.340.266,3.792.241,692.957,180.592.870,2199950.0,43321983.0,45166769.0,83347973.0,730731.0,1340266.0,3792241.0,692957.0,180592870.0
+Chứng khoán đầu tư - gộp,Tài sản > Chứng khoán đầu tư - gộp,Chứng khoán đầu tư - gộp,-,14.554.763,650.526,2.524.558,5.441.171,2.233.921,15.801.059,50.911,41.256.909,,14554763.0,650526.0,2524558.0,5441171.0,2233921.0,15801059.0,50911.0,41256909.0
+"Gộp vốn, đầu tư dài hạn - gộp","Tài sản > Gộp vốn, đầu tư dài hạn - gộp","Gộp vốn, đầu tư dài hạn - gộp",-,3.823.930,-,-,-,-,-,-,3.823.930,,3823930.0,,,,,,,3823930.0
+Tài sản cố định,Tài sản > Tài sản cố định,Tài sản cố định,-,7.316.111,-,-,-,-,-,-,7.316.111,,7316111.0,,,,,,,7316111.0
+Tài sản có khác - gộp,Tài sản > Tài sản có khác - gộp,Tài sản có khác - gộp,1.079.177,43.114.916,-,-,-,-,-,-,44.194.093,1079177.0,43114916.0,,,,,,,44194093.0
+Tổng tài sản,Tài sản > Tổng tài sản,Tổng tài sản,3.279.679,118.658.788,57.093.568,86.013.500,6.171.902,3.574.187,19.593.300,743.868,295.128.792,3279679.0,118658788.0,57093568.0,86013500.0,6171902.0,3574187.0,19593300.0,743868.0,295128792.0
+Nợ phải trả,Nợ phải trả,Nợ phải trả,,,,,,,,,,,,,,,,,,
+Tiền gửi và vay các TCTD khác,Nợ phải trả > Tiền gửi và vay các TCTD khác,Tiền gửi và vay các TCTD khác,-,-,3.230.005,328.350,109.450,50,1.292,3.901,3.673.048,,,3230005.0,328350.0,109450.0,50.0,1292.0,3901.0,3673048.0
+Tiền gửi của khách hàng,Nợ phải trả > Tiền gửi của khách hàng,Tiền gửi của khách hàng,-,532.951,119.651.032,53.107.311,40.006.270,39.923.197,6.169.265,37.711,259.427.737,,532951.0,119651032.0,53107311.0,40006270.0,39923197.0,6169265.0,37711.0,259427737.0
+Các công cụ tài chính phải sinh vàcác nợ tài chính khác,Nợ phải trả > Các công cụ tài chính phải sinh vàcác nợ tài chính khác,Các công cụ tài chính phải sinh vàcác nợ tài chính khác,-,22.853,-,-,-,-,-,-,22.853,,22853.0,,,,,,,22853.0
+"Vốn tài trợ, uỷ thác đầu tư,cho vay chịu rủi ro","Nợ phải trả > Vốn tài trợ, uỷ thác đầu tư,cho vay chịu rủi ro","Vốn tài trợ, uỷ thác đầu tư,cho vay chịu rủi ro",-,-,332.763,1.094.500,231.800,354,2.477,-,1.661.894,,,332763.0,1094500.0,231800.0,354.0,2477.0,,1661894.0
+Phát hành giấy tờ có giá,Nợ phải trả > Phát hành giấy tờ có giá,Phát hành giấy tờ có giá,-,-,600,-,-,-,-,-,600,,,600.0,,,,,,600.0
+Các khoản nợ khác,Nợ phải trả > Các khoản nợ khác,Các khoản nợ khác,-,3.914.684,-,-,-,-,-,-,3.914.684,,3914684.0,,,,,,,3914684.0
+Tổng nợ phải trả,Nợ phải trả > Tổng nợ phải trả,Tổng nợ phải trả,-,4.470.488,123.214.400,54.530.161,40.347.520,39.923.601,6.173.034,41.612,268.700.816,,4470488.0,123214400.0,54530161.0,40347520.0,39923601.0,6173034.0,41612.0,268700816.0
+Mức chênh nhạy cảm với lãi suấtnội bằng,Nợ phải trả > Mức chênh nhạy cảm với lãi suấtnội bằng,Mức chênh nhạy cảm với lãi suấtnội bằng,3.279.679,114.188.300,(66.120.832),31.483.339,(34.175.618),(36.349.414),13.420.266,702.256,26.427.976,3279679.0,114188300.0,-66120832.0,31483339.0,-34175618.0,-36349414.0,13420266.0,702256.0,26427976.0

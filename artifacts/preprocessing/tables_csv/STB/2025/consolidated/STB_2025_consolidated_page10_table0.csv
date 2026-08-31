@@ -1,0 +1,17 @@
+﻿row_label_raw,row_label_full,col_0,col_1,Thuyết minh,2025Triệu VND,2024Triệu VND,numeric__col_1,numeric__Thuyết minh,numeric__2025Triệu VND,numeric__2024Triệu VND
+1,1,1,Thu nhập lãi và các khoản thu nhập tương tự,23,57.480.853(30.800.235),49.988.721(25.457.023),,23.0,,
+2,2,2,Chi phí lãi và các chi phí tương tự,24,57.480.853(30.800.235),49.988.721(25.457.023),,24.0,,
+I,I,I,Thu nhập lãi thuần,,26.680.618,24.531.698,,,26680618.0,24531698.0
+3,3,3,Thu nhập từ hoạt động dịch vụ,25,6.331.495(3.252.965),6.121.237(3.142.812),,25.0,,
+4,4,4,Chi phí hoạt động dịch vụ,25,6.331.495(3.252.965),6.121.237(3.142.812),,25.0,,
+II,II,II,Lãi thuần từ hoạt động dịch vụ,25,3.078.530,2.978.425,,25.0,3078530.0,2978425.0
+III,III,III,Lãi thuần từ hoạt động kinh doanh ngoại hối,26,1.022.449,1.105.728,,26.0,1022449.0,1105728.0
+V,V,V,(Lỗ)/lãi thuần từ mua bán chứng khoán đầu tư,27,(8.692),55.547,,27.0,-8692.0,55547.0
+5,5,5,Thu nhập từ hoạt động khác,28,1.744.604(481.044),369.016(367.937),,28.0,,
+6,6,6,Chi phí hoạt động khác,28,1.744.604(481.044),369.016(367.937),,28.0,,
+VI,VI,VI,Lãi thuần từ hoạt động khác,28,1.263.560,1.079,,28.0,1263560.0,1079.0
+VII,VII,VII,"Thu nhập từ góp vốn, mua cổ phần",29,20.214,4.641,,29.0,20214.0,4641.0
+VIII,VIII,VIII,Chi phí hoạt động,30,(13.044.879),(13.982.389),,30.0,-13044879.0,-13982389.0
+IX,IX,IX,Lợi nhuận thuần từ hoạt động kinh doanh trước chi phí dự phòng rủi ro tín dụng,,19.011.800,14.694.729,,,19011800.0,14694729.0
+X,X,X,Chi phí dự phòng rủi ro tín dụng,31,(11.383.775),(1.974.364),,31.0,-11383775.0,-1974364.0
+XI,XI,XI,Tổng lợi nhuận trước thuế(mang sang trang sau),,7.628.025,12.720.365,,,7628025.0,12720365.0

@@ -1,0 +1,28 @@
+﻿row_label_raw,row_label_full,col_0,Mã số,Thuyết minh,31/12/2025 VND,01/01/2025 VND,numeric__Mã số,numeric__Thuyết minh,numeric__31/12/2025 VND,numeric__01/01/2025 VND
+TÀI SẢN,TÀI SẢN,TÀI SẢN,TÀI SẢN,TÀI SẢN,TÀI SẢN,TÀI SẢN,,,,
+TÀI SẢN NGẮN HẠN,TÀI SẢN > TÀI SẢN NGẮN HẠN,TÀI SẢN NGẮN HẠN,100,,13.728.540.377.948,13.473.238.461.855,100.0,,13728540377948.0,13473238461855.0
+Tiền và các khoản tương đương tiền,TÀI SẢN > Tiền và các khoản tương đương tiền,Tiền và các khoản tương đương tiền,110,5.1,298.279.656.883,234.635.692.583,110.0,51.0,298279656883.0,234635692583.0
+Tiền,TÀI SẢN > Tiền,Tiền,111,,298.279.656.883,234.635.692.583,111.0,,298279656883.0,234635692583.0
+Các khoản tương đương tiền,TÀI SẢN > Các khoản tương đương tiền,Các khoản tương đương tiền,112,,-,-,112.0,,,
+Các khoản đầu tư tài chính ngắn hạn,TÀI SẢN > Các khoản đầu tư tài chính ngắn hạn,Các khoản đầu tư tài chính ngắn hạn,120,,6.320.000.000,11.443.641.863,120.0,,6320000000.0,11443641863.0
+Chứng khoán kinh doanh,TÀI SẢN > Chứng khoán kinh doanh,Chứng khoán kinh doanh,121,,-,-,121.0,,,
+Dự phòng giảm giá chứng khoán kinh doanh,TÀI SẢN > Dự phòng giảm giá chứng khoán kinh doanh,Dự phòng giảm giá chứng khoán kinh doanh,122,,-,-,122.0,,,
+Đầu tư nắm giữ đến ngày đáo hạn,TÀI SẢN > Đầu tư nắm giữ đến ngày đáo hạn,Đầu tư nắm giữ đến ngày đáo hạn,123,5.13.1,6.320.000.000,11.443.641.863,123.0,5131.0,6320000000.0,11443641863.0
+Các khoản phải thu ngắn hạn,TÀI SẢN > Các khoản phải thu ngắn hạn,Các khoản phải thu ngắn hạn,130,,11.340.879.398.106,11.716.653.840.822,130.0,,11340879398106.0,11716653840822.0
+Phải thu ngắn hạn của khách hàng,TÀI SẢN > Phải thu ngắn hạn của khách hàng,Phải thu ngắn hạn của khách hàng,131,5.2,6.177.182.559.801,6.265.554.068.633,131.0,52.0,6177182559801.0,6265554068633.0
+Trả trước cho người bán ngắn hạn,TÀI SẢN > Trả trước cho người bán ngắn hạn,Trả trước cho người bán ngắn hạn,132,5.3,1.279.275.625.906,1.315.103.857.894,132.0,53.0,1279275625906.0,1315103857894.0
+Phải thu nội bộ ngắn hạn,TÀI SẢN > Phải thu nội bộ ngắn hạn,Phải thu nội bộ ngắn hạn,133,,-,-,133.0,,,
+Phải thu theo tiến độ kế hoạch hợp đồng xây dựng,TÀI SẢN > Phải thu theo tiến độ kế hoạch hợp đồng xây dựng,Phải thu theo tiến độ kế hoạch hợp đồng xây dựng,134,5.4,2.399.055.516.765,2.243.891.683.563,134.0,54.0,2399055516765.0,2243891683563.0
+Phải thu về cho vay ngắn hạn,TÀI SẢN > Phải thu về cho vay ngắn hạn,Phải thu về cho vay ngắn hạn,135,5.5,1.983.520.644.420,1.771.347.798.407,135.0,55.0,1983520644420.0,1771347798407.0
+Phải thu ngắn hạn khác,TÀI SẢN > Phải thu ngắn hạn khác,Phải thu ngắn hạn khác,136,5.6.1,1.087.229.592.378,1.890.367.973.672,136.0,561.0,1087229592378.0,1890367973672.0
+Dự phòng phải thu ngắn hạn khó đòi,TÀI SẢN > Dự phòng phải thu ngắn hạn khó đòi,Dự phòng phải thu ngắn hạn khó đòi,137,5.7,(1.585.384.541.164),(1.769.611.541.347),137.0,57.0,-1585384541164.0,-1769611541347.0
+Tài sản thiếu chờ xử lý,TÀI SẢN > Tài sản thiếu chờ xử lý,Tài sản thiếu chờ xử lý,139,,-,-,139.0,,,
+Hàng tồn kho,TÀI SẢN > Hàng tồn kho,Hàng tồn kho,140,5.8,2.055.216.804.119,1.497.094.931.759,140.0,58.0,2055216804119.0,1497094931759.0
+Hàng tồn kho,TÀI SẢN > Hàng tồn kho,Hàng tồn kho,141,,2.071.187.520.396,1.513.065.648.036,141.0,,2071187520396.0,1513065648036.0
+Dự phòng giảm giá hàng tồn kho,TÀI SẢN > Dự phòng giảm giá hàng tồn kho,Dự phòng giảm giá hàng tồn kho,149,,(15.970.716.277),(15.970.716.277),149.0,,-15970716277.0,-15970716277.0
+Tài sản ngắn hạn khác,TÀI SẢN > Tài sản ngắn hạn khác,Tài sản ngắn hạn khác,150,,27.844.518.840,13.410.354.828,150.0,,27844518840.0,13410354828.0
+Chi phí trả trước ngắn hạn,TÀI SẢN > Chi phí trả trước ngắn hạn,Chi phí trả trước ngắn hạn,151,5.9.1,27.844.518.840,13.410.354.828,151.0,591.0,27844518840.0,13410354828.0
+Thuế GTGT được khấu trừ,TÀI SẢN > Thuế GTGT được khấu trừ,Thuế GTGT được khấu trừ,152,,-,-,152.0,,,
+Thuế và các khoản khác phải thu Nhà nước,TÀI SẢN > Thuế và các khoản khác phải thu Nhà nước,Thuế và các khoản khác phải thu Nhà nước,153,,-,-,153.0,,,
+Giao dịch mua bán lại trái phiếu Chính phủ,TÀI SẢN > Giao dịch mua bán lại trái phiếu Chính phủ,Giao dịch mua bán lại trái phiếu Chính phủ,154,,-,-,154.0,,,
+Tài sản ngắn hạn khác,TÀI SẢN > Tài sản ngắn hạn khác,Tài sản ngắn hạn khác,155,,-,-,155.0,,,

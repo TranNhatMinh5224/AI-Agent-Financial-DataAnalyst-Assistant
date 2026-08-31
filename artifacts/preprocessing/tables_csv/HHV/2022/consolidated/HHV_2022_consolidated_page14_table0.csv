@@ -1,0 +1,9 @@
+﻿row_label_raw,row_label_full,Mã số,Chỉ tiêu,Thuyết minh,Năm tài chính kết thúc ngày 31 tháng 12 năm > 2022 VND,Năm tài chính kết thúc ngày 31 tháng 12 năm > 2021 VND,numeric__Chỉ tiêu,numeric__Thuyết minh,numeric__Năm tài chính kết thúc ngày 31 tháng 12 năm > 2022 VND,numeric__Năm tài chính kết thúc ngày 31 tháng 12 năm > 2021 VND
+51,51,51,Chi phí thuế thu nhập doanh nghiệp (“TNDN”) hiện hành,VI.9,58.772.545.135(2.250.873.784),50.178.806.699(7.638.038.868),,,,
+52,52,52,Chi phí thuế TNDN hoãn lại,VI.9,58.772.545.135(2.250.873.784),50.178.806.699(7.638.038.868),,,,
+60,52 > 60,60,Lợi nhuận sau thuế TNDN,,297.409.288.870,290.647.185.327,,,297409288870.0,290647185327.0
+,,,Phân bổ cho:,,,,,,,
+61,52 > 61,61,Cổ đông của Công ty,,264.050.336.161,268.873.236.620,,,264050336161.0,268873236620.0
+62,52 > 62,62,Cổ đông không kiểm soát,,33.358.952.709,21.773.948.707,,,33358952709.0,21773948707.0
+70,52 > 70,70,Lãi cơ bản trên cổ phiếu,VI.10,982,1.006,,,982.0,1006.0
+71,52 > 71,71,Lãi suy giảm trên cổ phiếu,VI.11,929,503,,,929.0,503.0

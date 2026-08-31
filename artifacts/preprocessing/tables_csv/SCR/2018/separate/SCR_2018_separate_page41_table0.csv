@@ -1,0 +1,14 @@
+﻿row_label_raw,row_label_full,col_0,Nhà cửa VND,Máy móc và thiết bị VND,Phương tiện vận chuyển VND,Thiết bị văn phòng VND,Tổng VND,numeric__Nhà cửa VND,numeric__Máy móc và thiết bị VND,numeric__Phương tiện vận chuyển VND,numeric__Thiết bị văn phòng VND,numeric__Tổng VND
+Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,,,,,
+Số dư đầu năm,Nguyên giá > Số dư đầu năm,Số dư đầu năm,249.090.909,1.023.943.943,9.955.446.639,11.287.636.583,22.516.118.074,249090909.0,1023943943.0,9955446639.0,11287636583.0,22516118074.0
+Tăng trong năm,Nguyên giá > Tăng trong năm,Tăng trong năm,-,-,-,770.407.455,770.407.455,,,,770407455.0,770407455.0
+Thanh lý,Nguyên giá > Thanh lý,Thanh lý,-,-,(999.263.732),-,(999.263.732),,,-999263732.0,,-999263732.0
+Số dư cuối năm,Nguyên giá > Số dư cuối năm,Số dư cuối năm,249.090.909,1.023.943.943,8.956.182.907,12.058.044.038,22.287.261.797,249090909.0,1023943943.0,8956182907.0,12058044038.0,22287261797.0
+Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,,,,,
+Số dư đầu năm,Giá trị hao mòn lũy kế > Số dư đầu năm,Số dư đầu năm,103.787.880,1.023.943.943,1.902.847.526,6.654.040.558,9.684.619.907,103787880.0,1023943943.0,1902847526.0,6654040558.0,9684619907.0
+Khấu hao trong năm,Giá trị hao mòn lũy kế > Khấu hao trong năm,Khấu hao trong năm,41.515.152,-,1.119.522.864,1.219.218.155,2.380.256.171,41515152.0,,1119522864.0,1219218155.0,2380256171.0
+Thanh lý,Giá trị hao mòn lũy kế > Thanh lý,Thanh lý,-,-,(999.263.732),-,(999.263.732),,,-999263732.0,,-999263732.0
+Số dư cuối năm,Giá trị hao mòn lũy kế > Số dư cuối năm,Số dư cuối năm,145.303.032,1.023.943.943,2.023.106.658,7.873.258.713,11.065.612.346,145303032.0,1023943943.0,2023106658.0,7873258713.0,11065612346.0
+Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,,,,,
+Số dư đầu năm,Giá trị còn lại > Số dư đầu năm,Số dư đầu năm,145.303.029,-,8.052.599.113,4.633.596.025,12.831.498.167,145303029.0,,8052599113.0,4633596025.0,12831498167.0
+Số dư cuối năm,Giá trị còn lại > Số dư cuối năm,Số dư cuối năm,103.787.877,-,6.933.076.249,4.184.785.325,11.221.649.451,103787877.0,,6933076249.0,4184785325.0,11221649451.0

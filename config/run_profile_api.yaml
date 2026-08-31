@@ -1,0 +1,67 @@
+# ================================================================================
+# CẤU HÌNH INFERENCE HYBRID (API + LOCAL OLLAMA) - TUÂN THỦ < 15B
+# Planner & Programmer: Gọi OpenRouter API (Qwen 14B) siêu nhanh ~1s
+# Retriever & Critic: Chạy Local Ollama (Qwen 3B) siêu nhẹ ~2GB VRAM
+# ================================================================================
+
+run_mode: full
+input_root: ViFinQA/financial_statements
+output_root: artifacts/preprocessing
+full_run_confirmed: true
+resume: true
+inference_limit_questions: null  # null = chạy toàn bộ câu hỏi (1012 câu), hoặc đặt số cụ thể (ví dụ 20)
+
+# ════════════════════════════════════════════════════════════════
+# 1. PLANNER: GỌI OPENROUTER API (Tốc độ ~1.3s)
+# ════════════════════════════════════════════════════════════════
+llm_planner:
+  engine: "openai"
+  base_url: "${LLM_BASE_URL:-https://openrouter.ai/api/v1}"
+  api_key: "${LLM_API_KEY}"
+  model_name: "${LLM_MODEL_PLANNER:-qwen/qwen3-14b}"
+  temperature: 0.0
+
+# ════════════════════════════════════════════════════════════════
+# 2. RETRIEVER: GỌI OPENROUTER API
+# ════════════════════════════════════════════════════════════════
+llm_retriever:
+  engine: "openai"
+  base_url: "${LLM_BASE_URL:-https://openrouter.ai/api/v1}"
+  api_key: "${LLM_API_KEY}"
+  model_name: "${LLM_MODEL_RETRIEVER:-qwen/qwen-2.5-7b-instruct}"
+  temperature: 0.0
+
+# ════════════════════════════════════════════════════════════════
+# 3. PROGRAMMER: GỌI OPENROUTER API (Tốc độ ~1.3s)
+# ════════════════════════════════════════════════════════════════
+llm_programmer:
+  engine: "openai"
+  base_url: "${LLM_BASE_URL:-https://openrouter.ai/api/v1}"
+  api_key: "${LLM_API_KEY}"
+  model_name: "${LLM_MODEL_PROGRAMMER:-qwen/qwen3-14b}"
+  temperature: 0.0
+
+# ════════════════════════════════════════════════════════════════
+# 4. CRITIC: GỌI OPENROUTER API
+# ════════════════════════════════════════════════════════════════
+llm_critic:
+  engine: "openai"
+  base_url: "${LLM_BASE_URL:-https://openrouter.ai/api/v1}"
+  api_key: "${LLM_API_KEY}"
+  model_name: "${LLM_MODEL_CRITIC:-qwen/qwen-2.5-7b-instruct}"
+  temperature: 0.0
+
+# ════════════════════════════════════════════════════════════════
+# 5. EMBEDDING & RERANKER (Dùng chung cho cả Data & Câu hỏi)
+# ════════════════════════════════════════════════════════════════
+embedding:
+  model_name: "${EMBEDDING_MODEL:-baai/bge-m3}"
+  base_url: "${LLM_BASE_URL:-https://openrouter.ai/api/v1}"
+  api_key: "${LLM_API_KEY}"
+  batch_size: 32
+
+reranker:
+  model_name: "${RERANKER_MODEL:-Qwen/Qwen3-Reranker-8B}"
+  base_url: "${RERANKER_BASE_URL:-https://api.siliconflow.com/v1}"
+  api_key: "${RERANKER_API_KEY}"
+

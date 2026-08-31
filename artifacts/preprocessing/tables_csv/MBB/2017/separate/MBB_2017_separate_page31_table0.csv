@@ -1,0 +1,12 @@
+﻿row_label_raw,row_label_full,Loại tiền gửi,Tỷ lệ dự trữ bắt buộc,Tỷ lệ dự trữ bắt buộc_1,numeric__Tỷ lệ dự trữ bắt buộc,numeric__Tỷ lệ dự trữ bắt buộc_1
+Loại tiền gửi,Loại tiền gửi,Loại tiền gửi,31/12/2017,31/12/2016,,
+Số dư tiền gửi bình quân tháng trước của:Khách hàng,Số dư tiền gửi bình quân tháng trước của:Khách hàng,Số dư tiền gửi bình quân tháng trước của:Khách hàng,,,,
+▪ Tiền gửi bằng ngoại tệ khác VND có thời hạn dưới 12 tháng,Số dư tiền gửi bình quân tháng trước của:Khách hàng > ▪ Tiền gửi bằng ngoại tệ khác VND có thời hạn dưới 12 tháng,▪ Tiền gửi bằng ngoại tệ khác VND có thời hạn dưới 12 tháng,"8,00%","8,00%",0.08,0.08
+▪ Tiền gửi bằng ngoại tệ khác VND có thời hạn từ 12 tháng trở lên,Số dư tiền gửi bình quân tháng trước của:Khách hàng > ▪ Tiền gửi bằng ngoại tệ khác VND có thời hạn từ 12 tháng trở lên,▪ Tiền gửi bằng ngoại tệ khác VND có thời hạn từ 12 tháng trở lên,"6,00%","6,00%",0.06,0.06
+▪ Tiền gửi bằng VND có thời hạn dưới 12 tháng,Số dư tiền gửi bình quân tháng trước của:Khách hàng > ▪ Tiền gửi bằng VND có thời hạn dưới 12 tháng,▪ Tiền gửi bằng VND có thời hạn dưới 12 tháng,"3,00%","3,00%",0.03,0.03
+▪ Tiền gửi bằng VND có thời hạn từ 12 tháng trở lên,Số dư tiền gửi bình quân tháng trước của:Khách hàng > ▪ Tiền gửi bằng VND có thời hạn từ 12 tháng trở lên,▪ Tiền gửi bằng VND có thời hạn từ 12 tháng trở lên,"1,00%","1,00%",0.01,0.01
+Tổ chức tín dụng nước ngoài,Tổ chức tín dụng nước ngoài,Tổ chức tín dụng nước ngoài,,,,
+▪ Tiền gửi bằng ngoại tệ,Tổ chức tín dụng nước ngoài > ▪ Tiền gửi bằng ngoại tệ,▪ Tiền gửi bằng ngoại tệ,"1,00%","1,00%",0.01,0.01
+Lãi suất năm tại thời điểm cuối năm như sau:,Lãi suất năm tại thời điểm cuối năm như sau:,Lãi suất năm tại thời điểm cuối năm như sau:,31/12/2017,31/12/2016,,
+Dự trữ bắt buộc bằng VND,Lãi suất năm tại thời điểm cuối năm như sau: > Dự trữ bắt buộc bằng VND,Dự trữ bắt buộc bằng VND,"1,20%","1,20%",0.012,0.012
+Dự trữ bắt buộc bằng USD,Lãi suất năm tại thời điểm cuối năm như sau: > Dự trữ bắt buộc bằng USD,Dự trữ bắt buộc bằng USD,"0,05%","0,05%",0.0005,0.0005

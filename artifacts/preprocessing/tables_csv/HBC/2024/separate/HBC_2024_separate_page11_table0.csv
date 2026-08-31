@@ -1,0 +1,32 @@
+﻿row_label_raw,row_label_full,CHỈ TIÊU,Mã số,Thuyếtmlnh,31/12/2024VND,01/01/2024VND,numeric__Mã số,numeric__Thuyếtmlnh,numeric__31/12/2024VND,numeric__01/01/2024VND
+NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,,,,
+C - NỘ PHẢI TRẢ,NGUỒN VỐN > C - NỘ PHẢI TRẢ,C - NỘ PHẢI TRẢ,300,,11.948.729.205.708,13.716.294.667.839,300.0,,11948729205708.0,13716294667839.0
+I. Nợ ngắn hạn,NGUỒN VỐN > I. Nợ ngắn hạn,I. Nợ ngắn hạn,310,,11.411.339.875.134,12.836.934.677.660,310.0,,11411339875134.0,12836934677660.0
+1. Phải trả cho người bán ngắn hạn,NGUỒN VỐN > 1. Phải trả cho người bán ngắn hạn,1. Phải trả cho người bán ngắn hạn,311,5.15,3.964.256.936.464,4.874.882.372.833,311.0,515.0,3964256936464.0,4874882372833.0
+2. Người mua trả tiền trước ngắn hạn,NGUỒN VỐN > 2. Người mua trả tiền trước ngắn hạn,2. Người mua trả tiền trước ngắn hạn,312,5.16,2.043.052.501.708,2.391.068.436.163,312.0,516.0,2043052501708.0,2391068436163.0
+3. Thuế và các khoản phải nộp Nhà nước,NGUỒN VỐN > 3. Thuế và các khoản phải nộp Nhà nước,3. Thuế và các khoản phải nộp Nhà nước,313,5.17,202.964.690.897,203.426.946.772,313.0,517.0,202964690897.0,203426946772.0
+4. Phải trả người lao động,NGUỒN VỐN > 4. Phải trả người lao động,4. Phải trả người lao động,314,,412.408.903.144,430.025.440.745,314.0,,412408903144.0,430025440745.0
+5. Chỉ phí phải trả ngắn hạn,NGUỒN VỐN > 5. Chỉ phí phải trả ngắn hạn,5. Chỉ phí phải trả ngắn hạn,315,5.18,785.128.757.084,811.439.986.940,315.0,518.0,785128757084.0,811439986940.0
+6. Phải trả nội bộ ngắn hạn,NGUỒN VỐN > 6. Phải trả nội bộ ngắn hạn,6. Phải trả nội bộ ngắn hạn,316,,-,-,316.0,,,
+7. Phải trả theo tiến độ kế hoạch hợp đồng xây dựng,NGUỒN VỐN > 7. Phải trả theo tiến độ kế hoạch hợp đồng xây dựng,7. Phải trả theo tiến độ kế hoạch hợp đồng xây dựng,317,,-,-,317.0,,,
+8. Doanh thu chưa thực hiện ngắn hạn,NGUỒN VỐN > 8. Doanh thu chưa thực hiện ngắn hạn,8. Doanh thu chưa thực hiện ngắn hạn,318,,-,-,318.0,,,
+9. Phải trả ngắn hạn khác,NGUỒN VỐN > 9. Phải trả ngắn hạn khác,9. Phải trả ngắn hạn khác,319,5.19,212.919.867.460,216.154.622.362,319.0,519.0,212919867460.0,216154622362.0
+10. Vay và nợ thuê tài chính ngắn hạn,NGUỒN VỐN > 10. Vay và nợ thuê tài chính ngắn hạn,10. Vay và nợ thuê tài chính ngắn hạn,320,5.20,3.718.294.474.469,3.861.405.206.030,320.0,520.0,3718294474469.0,3861405206030.0
+11. Dự phòng phải trả ngắn hạn,NGUỒN VỐN > 11. Dự phòng phải trả ngắn hạn,11. Dự phòng phải trả ngắn hạn,321,5.21,72.313.743.908,48.531.665.815,321.0,521.0,72313743908.0,48531665815.0
+"12. Quỹ khen thưởng, phúc lợi","NGUỒN VỐN > 12. Quỹ khen thưởng, phúc lợi","12. Quỹ khen thưởng, phúc lợi",322,,-,-,322.0,,,
+13. Quỹ bình ổn giá,NGUỒN VỐN > 13. Quỹ bình ổn giá,13. Quỹ bình ổn giá,323,,-,-,323.0,,,
+14. Giao dịch mua bán lại trái phiếu Chính phủ,NGUỒN VỐN > 14. Giao dịch mua bán lại trái phiếu Chính phủ,14. Giao dịch mua bán lại trái phiếu Chính phủ,324,,-,-,324.0,,,
+II. Nợ dài hạn,NGUỒN VỐN > II. Nợ dài hạn,II. Nợ dài hạn,330,,537.389.330.574,879.359.990.179,330.0,,537389330574.0,879359990179.0
+1. Phải trả người bán dài hạn,NGUỒN VỐN > 1. Phải trả người bán dài hạn,1. Phải trả người bán dài hạn,331,,-,-,331.0,,,
+2. Người mua trả tiền trước dài hạn,NGUỒN VỐN > 2. Người mua trả tiền trước dài hạn,2. Người mua trả tiền trước dài hạn,332,,-,-,332.0,,,
+3. Chỉ phí phải trả dài hạn,NGUỒN VỐN > 3. Chỉ phí phải trả dài hạn,3. Chỉ phí phải trả dài hạn,333,,-,-,333.0,,,
+4. Phải trả nội bộ về vốn kinh doanh,NGUỒN VỐN > 4. Phải trả nội bộ về vốn kinh doanh,4. Phải trả nội bộ về vốn kinh doanh,334,,-,-,334.0,,,
+5. Phải trả nội bộ dài hạn,NGUỒN VỐN > 5. Phải trả nội bộ dài hạn,5. Phải trả nội bộ dài hạn,335,,-,-,335.0,,,
+6. Doanh thu chưa thực hiện dài hạn,NGUỒN VỐN > 6. Doanh thu chưa thực hiện dài hạn,6. Doanh thu chưa thực hiện dài hạn,336,,-,-,336.0,,,
+7. Phải trả dài hạn khác,NGUỒN VỐN > 7. Phải trả dài hạn khác,7. Phải trả dài hạn khác,337,,-,-,337.0,,,
+8. Vay và nợ thuê tài chính dài hạn,NGUỒN VỐN > 8. Vay và nợ thuê tài chính dài hạn,8. Vay và nợ thuê tài chính dài hạn,338,5.20,376.000.000.000,683.994.666.668,338.0,520.0,376000000000.0,683994666668.0
+9. Trái phiếu chuyển đổi,NGUỒN VỐN > 9. Trái phiếu chuyển đổi,9. Trái phiếu chuyển đổi,339,,-,-,339.0,,,
+10. Cổ phiếu ưu đãi,NGUỒN VỐN > 10. Cổ phiếu ưu đãi,10. Cổ phiếu ưu đãi,340,,-,-,340.0,,,
+11. Thuế thu nhập hoãn lại phải trả,NGUỒN VỐN > 11. Thuế thu nhập hoãn lại phải trả,11. Thuế thu nhập hoãn lại phải trả,341,,-,-,341.0,,,
+12. Dự phòng phải trả dài hạn,NGUỒN VỐN > 12. Dự phòng phải trả dài hạn,12. Dự phòng phải trả dài hạn,342,,161.389.330.574,195.365.323.511,342.0,,161389330574.0,195365323511.0
+13. Quỹ phát triển khoa học và công nghệ,NGUỒN VỐN > 13. Quỹ phát triển khoa học và công nghệ,13. Quỹ phát triển khoa học và công nghệ,343,,-,-,343.0,,,

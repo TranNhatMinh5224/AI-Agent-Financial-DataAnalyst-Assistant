@@ -1,0 +1,24 @@
+﻿row_label_raw,row_label_full,Chỉ tiêu,"Nhà cửa, vật kiến trúc","Máy móc, thiết bị","Phương tiện vận tải, truyền dẫn",Thiết bị quản lý,TSCĐ khác,TSCĐ vô hình,Cộng,"numeric__Nhà cửa, vật kiến trúc","numeric__Máy móc, thiết bị","numeric__Phương tiện vận tải, truyền dẫn",numeric__Thiết bị quản lý,numeric__TSCĐ khác,numeric__TSCĐ vô hình,numeric__Cộng
+I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,,,,,,,
+1. Số dư đầu kỳ,I. Nguyên giá > 1. Số dư đầu kỳ,1. Số dư đầu kỳ,,12.232.211.000,,,,,12.232.211.000,,12232211000.0,,,,,12232211000.0
+2. Số tăng trong kỳ,I. Nguyên giá > 2. Số tăng trong kỳ,2. Số tăng trong kỳ,,318.155.734.981,5.986.302.998,,,,324.142.037.979,,318155734981.0,5986302998.0,,,,324142037979.0
+- Thuê tài chính trong kỳ,- Thuê tài chính trong kỳ,- Thuê tài chính trong kỳ,,,,,,,,,,,,,,
+- Mua lại TSCĐ thuê tài chính,- Mua lại TSCĐ thuê tài chính,- Mua lại TSCĐ thuê tài chính,,,,,,,,,,,,,,
+- Tăng khác,- Mua lại TSCĐ thuê tài chính > - Tăng khác,- Tăng khác,,318.155.734.981,5.986.302.998,,,,324.142.037.979,,318155734981.0,5986302998.0,,,,324142037979.0
+3. Số giảm trong kỳ,3. Số giảm trong kỳ,3. Số giảm trong kỳ,,,,,,,,,,,,,,
+- Trà lại TSCĐ thuê tài chính,- Trà lại TSCĐ thuê tài chính,- Trà lại TSCĐ thuê tài chính,,,,,,,,,,,,,,
+- Giảm khác,- Giảm khác,- Giảm khác,,,,,,,,,,,,,,
+4. Số dư cuối kỳ,- Giảm khác > 4. Số dư cuối kỳ,4. Số dư cuối kỳ,,330.387.945.981,5.986.302.998,,,,336.374.248.979,,330387945981.0,5986302998.0,,,,336374248979.0
+II. Giá trị hao mòn luỹ kế,II. Giá trị hao mòn luỹ kế,II. Giá trị hao mòn luỹ kế,II. Giá trị hao mòn luỹ kế,II. Giá trị hao mòn luỹ kế,II. Giá trị hao mòn luỹ kế,II. Giá trị hao mòn luỹ kế,II. Giá trị hao mòn luỹ kế,II. Giá trị hao mòn luỹ kế,II. Giá trị hao mòn luỹ kế,,,,,,,
+1. Số dư đầu kỳ,1. Số dư đầu kỳ,1. Số dư đầu kỳ,,,,,,,,,,,,,,
+2. Khấu hao trong kỳ,1. Số dư đầu kỳ > 2. Khấu hao trong kỳ,2. Khấu hao trong kỳ,,30.779.193.700,3.094.685.918,,,,33.873.879.618,,30779193700.0,3094685918.0,,,,33873879618.0
+- Khấu hao trong kỳ,1. Số dư đầu kỳ > - Khấu hao trong kỳ,- Khấu hao trong kỳ,,1.600.600.193,,,,,1.600.600.193,,1600600193.0,,,,,1600600193.0
+- Mua lại TSCĐ thuê tài chính,- Mua lại TSCĐ thuê tài chính,- Mua lại TSCĐ thuê tài chính,,,,,,,,,,,,,,
+- Tăng khác,- Mua lại TSCĐ thuê tài chính > - Tăng khác,- Tăng khác,,29.178.593.507,3.094.685.918,,,,32.273.279.425,,29178593507.0,3094685918.0,,,,32273279425.0
+3. Giảm trong kỳ,3. Giảm trong kỳ,3. Giảm trong kỳ,,,,,,,,,,,,,,
+- Trà lại TSCĐ thuê tài chính,- Trà lại TSCĐ thuê tài chính,- Trà lại TSCĐ thuê tài chính,,,,,,,,,,,,,,
+- Giảm khác,- Giảm khác,- Giảm khác,,,,,,,,,,,,,,
+4. Số dư cuối kỳ,- Giảm khác > 4. Số dư cuối kỳ,4. Số dư cuối kỳ,,30.779.193.700,3.094.685.918,,,,33.873.879.618,,30779193700.0,3094685918.0,,,,33873879618.0
+III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,,,,,,,
+1. Tại ngày đầu kỳ,III. Giá trị còn lại > 1. Tại ngày đầu kỳ,1. Tại ngày đầu kỳ,,12.232.211.000,,,,,12.232.211.000,,12232211000.0,,,,,12232211000.0
+2. Tại ngày cuối kỳ,III. Giá trị còn lại > 2. Tại ngày cuối kỳ,2. Tại ngày cuối kỳ,,299.608.752.281,2.891.617.080,,,,302.500.369.361,,299608752281.0,2891617080.0,,,,302500369361.0

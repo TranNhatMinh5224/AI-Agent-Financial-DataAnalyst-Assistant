@@ -1,0 +1,18 @@
+﻿row_label_raw,row_label_full,STT,CHỈ TIÊU,Thuyết minh,Năm nay,Năm trước,numeric__CHỈ TIÊU,numeric__Thuyết minh,numeric__Năm nay,numeric__Năm trước
+1.,1.,1.,Thu nhập lãi và các khoản thu nhập tương tự,27,52.990.698,42.471.731,,27.0,52990698.0,42471731.0
+2.,2.,2.,Chi phí lãi và các chi phí tương tự,28,(30.585.706),(23.632.746),,28.0,-30585706.0,-23632746.0
+I.,I.,I.,Thu nhập lãi thuần,,22.404.992,18.838.985,,,22404992.0,18838985.0
+3.,3.,3.,Thu nhập từ hoạt động dịch vụ,,3.334.497,2.650.863,,,3334497.0,2650863.0
+4.,4.,4.,Chi phí hoạt động dịch vụ,,(1.636.472),(1.190.961),,,-1636472.0,-1190961.0
+II.,II.,II.,Lãi thuần từ hoạt động dịch vụ,29,1.698.025,1.459.902,,29.0,1698025.0,1459902.0
+III.,III.,III.,Lãi thuần từ hoạt động kinh doanh ngoại hối,30,685.139,19.767,,30.0,685139.0,19767.0
+IV.,IV.,IV.,Lãi thuần từ mua bán chứng khoán kinh doanh,31,183.919,129.177,,31.0,183919.0,129177.0
+V.,V.,V.,Lãi thuần từ mua bán chứng khoán đầu tư,32,40.955,52.807,,32.0,40955.0,52807.0
+5.,5.,5.,Thu nhập từ hoạt động khác,,2.546.328,4.108.124,,,2546328.0,4108124.0
+6.,6.,6.,Chi phí hoạt động khác,,(1.247.565),(1.905.838),,,-1247565.0,-1905838.0
+VI.,VI.,VI.,Lãi thuần từ hoạt động khác,33,1.298.763,2.202.286,,33.0,1298763.0,2202286.0
+VII.,VII.,VII.,"Thu nhập từ góp vốn, mua cổ phần",34,150.475,40.960,,34.0,150475.0,40960.0
+VIII.,VIII.,VIII.,Chi phí hoạt động,35,(12.870.682),(10.719.457),,35.0,-12870682.0,-10719457.0
+IX.,IX.,IX.,Lợi nhuận thuần từ hoạt động kinh doanh trước chi phí dự phòng rủi ro tín dụng,,13.591.586,12.024.427,,,13591586.0,12024427.0
+X.,X.,X.,Chi phí dự phòng rủi ro tín dụng,,(5.022.104),(4.678.986),,,-5022104.0,-4678986.0
+XI.,XI.,XI.,Tổng lợi nhuận trước thuế,,8.569.482,7.345.441,,,8569482.0,7345441.0

@@ -1,0 +1,10 @@
+﻿row_label_raw,row_label_full,Chỉ tiêu,Mã số,Số đã báo cáo,Điều chỉnh,Số sau điều chỉnh,numeric__Mã số,numeric__Số đã báo cáo,numeric__Điều chỉnh,numeric__Số sau điều chỉnh
+NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,,,,
+NỘ PHẢI TRẢ,NGUỒN VỐN > NỘ PHẢI TRẢ,NỘ PHẢI TRẢ,300,8.083.707.530.162,1.075.358.484,8.084.782.888.646,300.0,8083707530162.0,1075358484.0,8084782888646.0
+Nợ ngắn hạn,NGUỒN VỐN > Nợ ngắn hạn,Nợ ngắn hạn,310,6.089.105.072.749,1.075.358.484,6.090.180.431.233,310.0,6089105072749.0,1075358484.0,6090180431233.0
+Thuế và các khoản phải nộp Nhà nước,NGUỒN VỐN > Thuế và các khoản phải nộp Nhà nước,Thuế và các khoản phải nộp Nhà nước,313,52.435.218.352,1.075.358.484,53.510.576.836,313.0,52435218352.0,1075358484.0,53510576836.0
+NGUỒN VỐN CHỦ SỞ HỮU,NGUỒN VỐN > NGUỒN VỐN CHỦ SỞ HỮU,NGUỒN VỐN CHỦ SỞ HỮU,400,8.126.516.568.869,2.879.306.766,8.129.395.875.635,400.0,8126516568869.0,2879306766.0,8129395875635.0
+Vốn chủ sở hữu,NGUỒN VỐN > Vốn chủ sở hữu,Vốn chủ sở hữu,410,8.126.516.568.869,2.879.306.766,8.129.395.875.635,410.0,8126516568869.0,2879306766.0,8129395875635.0
+Lợi nhuận sau thuế chưa phân phối,NGUỒN VỐN > Lợi nhuận sau thuế chưa phân phối,Lợi nhuận sau thuế chưa phân phối,421,994.598.094.226,2.879.306.766,997.477.400.992,421.0,994598094226.0,2879306766.0,997477400992.0
+LNST chưa phân phối kỳ này,NGUỒN VỐN > LNST chưa phân phối kỳ này,LNST chưa phân phối kỳ này,421b,547.949.613.729,2.879.306.766,550.828.920.495,,547949613729.0,2879306766.0,550828920495.0
+TỔNG CỘNG NGUỒN VỐN,NGUỒN VỐN > TỔNG CỘNG NGUỒN VỐN,TỔNG CỘNG NGUỒN VỐN,440,16.210.224.099.031,3.954.665.250,16.214.178.764.281,440.0,16210224099031.0,3954665250.0,16214178764281.0

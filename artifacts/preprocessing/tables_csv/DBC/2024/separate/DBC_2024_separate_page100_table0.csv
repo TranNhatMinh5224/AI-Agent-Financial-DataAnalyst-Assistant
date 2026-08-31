@@ -1,0 +1,9 @@
+﻿row_label_raw,row_label_full,col_0,Note,Beginning balance,Movement during the year,Movement during the year_1,Currency: VNDEnding balance,numeric__Note,numeric__Beginning balance,numeric__Movement during the year,numeric__Movement during the year_1,numeric__Currency: VNDEnding balance
+,,,Note,Balance (Also payable amount),Increase,Decrease,Balance (Also payable amount),,,,,
+Short-term Loans from banks,Short-term Loans from banks,Short-term Loans from banks,22.1,"3,441,522,685,259","8,846,930,122,612","(9,617,095,824,279)","2,671,356,983,592",221.0,,,,
+Current portion of long-term loans,Current portion of long-term loans,Current portion of long-term loans,22.2,"105,716,979,922","174,304,041,646","(105,716,979,922)","174,304,041,646",222.0,,,,
+Current portion of long-term financial lease obligations,Current portion of long-term financial lease obligations,Current portion of long-term financial lease obligations,22.3,"101,385,100,497","84,796,763,769","(102,071,734,204)","84,110,130,062",223.0,,,,
+TOTAL,TOTAL,TOTAL,,"3,648,624,765,678","9,106,030,928,027","(9,824,884,538,405)","2,929,771,155,300",,,,,
+Long-term Loans from banks,TOTAL > Long-term Loans from banks,Long-term Loans from banks,22.2,"439,958,041,646",-,"(174,304,041,646)","265,654,000,000",222.0,,,,
+Financial lease obligations,TOTAL > Financial lease obligations,Financial lease obligations,22.3,"179,900,558,274","12,571,507,589","(84,796,763,769)","107,675,302,094",223.0,,,,
+TOTAL,TOTAL,TOTAL,,"619,858,599,920","12,571,507,589","(259,100,805,415)","373,329,302,094",,,,,

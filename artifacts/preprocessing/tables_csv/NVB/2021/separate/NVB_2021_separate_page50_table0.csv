@@ -1,0 +1,22 @@
+﻿row_label_raw,row_label_full,Chi tiêu,Quá hạn,Quá hạn_1,Trong hạn,Trong hạn_1,Trong hạn_2,Trong hạn_3,Tổng,numeric__Quá hạn,numeric__Quá hạn_1,numeric__Trong hạn,numeric__Trong hạn_1,numeric__Trong hạn_2,numeric__Trong hạn_3,numeric__Tổng
+Chi tiêu,Chi tiêu,Chi tiêu,Trên 3 tháng,Đến 3 tháng,Dế n 1 tháng,Từ 1 - 3 tháng,Từ 3 - 12 tháng,Trên 1 năm,Tổng,,,,,,,
+"Tiền mặt, vàng bạc, đá quỹ","Chi tiêu > Tiền mặt, vàng bạc, đá quỹ","Tiền mặt, vàng bạc, đá quỹ",-,-,297.561,-,-,-,297.561,,,297561.0,,,,297561.0
+Tiền gửi tại ngân hàng Nhà nước,Chi tiêu > Tiền gửi tại ngân hàng Nhà nước,Tiền gửi tại ngân hàng Nhà nước,-,-,1.550.785,-,-,-,1.550.785,,,1550785.0,,,,1550785.0
+"Tiền, vàng gửi tại và cho vay các TCTD khác (*)","Chi tiêu > Tiền, vàng gửi tại và cho vay các TCTD khác (*)","Tiền, vàng gửi tại và cho vay các TCTD khác (*)",-,-,12.114.276,-,-,-,12.114.276,,,12114276.0,,,,12114276.0
+Các công cụ tài chính phải sinh và các tài sản tài chính khác (*),Chi tiêu > Các công cụ tài chính phải sinh và các tài sản tài chính khác (*),Các công cụ tài chính phải sinh và các tài sản tài chính khác (*),-,-,23.615,2.396,12.562,-,38.573,,,23615.0,2396.0,12562.0,,38573.0
+Cho vay khách hàng (*),Chi tiêu > Cho vay khách hàng (*),Cho vay khách hàng (*),380.495,612.217,1.440.729,2.940.024,9.558.587,25.381.220,40.313.272,380495.0,612217.0,1440729.0,2940024.0,9558587.0,25381220.0,40313272.0
+Hoạt động mua nợ (*),Hoạt động mua nợ (*),Hoạt động mua nợ (*),-,-,-,-,-,-,-,,,,,,,
+Chứng khoán đầu tư (*),Hoạt động mua nợ (*) > Chứng khoán đầu tư (*),Chứng khoán đầu tư (*),-,-,3.692.068,249.988,2.035.058,7.545.924,13.523.038,,,3692068.0,249988.0,2035058.0,7545924.0,13523038.0
+"Góp vốn, đầu tư dài hạn (*)","Hoạt động mua nợ (*) > Góp vốn, đầu tư dài hạn (*)","Góp vốn, đầu tư dài hạn (*)",-,-,-,-,-,919.600,919.600,,,,,,919600.0,919600.0
+Tài sản cố định và Bất động sản đầu tư,Hoạt động mua nợ (*) > Tài sản cố định và Bất động sản đầu tư,Tài sản cố định và Bất động sản đầu tư,-,-,-,-,-,563.108,563.108,,,,,,563108.0,563108.0
+Tài sản Có khác (*),Hoạt động mua nợ (*) > Tài sản Có khác (*),Tài sản Có khác (*),-,-,168.675,157.372,294.393,20.722.048,21.342.488,,,168675.0,157372.0,294393.0,20722048.0,21342488.0
+Tổng Tài sản,Hoạt động mua nợ (*) > Tổng Tài sản,Tổng Tài sản,380.495,612.217,19.287.709,3.349.780,11.900.600,55.131.900,90.662.701,380495.0,612217.0,19287709.0,3349780.0,11900600.0,55131900.0,90662701.0
+Nợ phải trả,Nợ phải trả,Nợ phải trả,,,,,,,,,,,,,,
+Tiền gửi của và vay từ NHNN và các TCTD khác,Nợ phải trả > Tiền gửi của và vay từ NHNN và các TCTD khác,Tiền gửi của và vay từ NHNN và các TCTD khác,-,-,9.027.173,-,-,-,9.027.173,,,9027173.0,,,,9027173.0
+Tiền vay từ Chính phủ và NHNN,Tiền vay từ Chính phủ và NHNN,Tiền vay từ Chính phủ và NHNN,-,-,-,-,-,-,-,,,,,,,
+Tiền gửi của khách hàng,Tiền vay từ Chính phủ và NHNN > Tiền gửi của khách hàng,Tiền gửi của khách hàng,-,-,17.063.536,15.607.008,35.261.774,4.261.642,72.193.960,,,17063536.0,15607008.0,35261774.0,4261642.0,72193960.0
+"Vốn tài trợ, ủy thác đầu tư, cho vay TCTD chịu rui ro","Tiền vay từ Chính phủ và NHNN > Vốn tài trợ, ủy thác đầu tư, cho vay TCTD chịu rui ro","Vốn tài trợ, ủy thác đầu tư, cho vay TCTD chịu rui ro",-,-,-,-,-,71.066,71.066,,,,,,71066.0,71066.0
+Phát hành giấy tờ có giá,Tiền vay từ Chính phủ và NHNN > Phát hành giấy tờ có giá,Phát hành giấy tờ có giá,-,-,19.701,60.031,41.054,2.006.434,2.127.220,,,19701.0,60031.0,41054.0,2006434.0,2127220.0
+Các khoản nợ khác,Tiền vay từ Chính phủ và NHNN > Các khoản nợ khác,Các khoản nợ khác,-,-,571.266,506.790,877.334,75.717,2.031.107,,,571266.0,506790.0,877334.0,75717.0,2031107.0
+Tổng Nợ phải trả,Tiền vay từ Chính phủ và NHNN > Tổng Nợ phải trả,Tổng Nợ phải trả,-,-,26.681.676,16.173.829,36.180.162,6.414.859,85.450.526,,,26681676.0,16173829.0,36180162.0,6414859.0,85450526.0
+Mức chênh thanh khoản ròng,Tiền vay từ Chính phủ và NHNN > Mức chênh thanh khoản ròng,Mức chênh thanh khoản ròng,380.495,612.217,(7.393.967),(12.824.049),(24.279.562),48.717.041,5.212.175,380495.0,612217.0,-7393967.0,-12824049.0,-24279562.0,48717041.0,5212175.0

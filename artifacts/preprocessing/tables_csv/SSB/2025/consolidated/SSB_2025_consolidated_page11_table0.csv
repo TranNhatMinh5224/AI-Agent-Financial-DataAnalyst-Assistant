@@ -1,0 +1,25 @@
+﻿row_label_raw,row_label_full,col_0,col_1,Thuyết minh,Năm tài chính kết thúc ngày > 31.12.2025Triệu đồng,Năm tài chính kết thúc ngày > 31.12.2024Triệu đồng,numeric__col_1,numeric__Thuyết minh,numeric__Năm tài chính kết thúc ngày > 31.12.2025Triệu đồng,numeric__Năm tài chính kết thúc ngày > 31.12.2024Triệu đồng
+1,1,1,Thu nhập lãi và các khoản thu nhập tương tự,19,24.569.893,20.716.605,,19.0,24569893.0,20716605.0
+2,2,2,Chi phí lãi và các chi phí tương tự,20,(14.866.059),(10.750.195),,20.0,-14866059.0,-10750195.0
+I,I,I,Thu nhập lãi thuần,,9.703.834,9.966.410,,,9703834.0,9966410.0
+3,3,3,Thu nhập từ hoạt động dịch vụ,21,1.060.108,1.349.283,,21.0,1060108.0,1349283.0
+4,4,4,Chi phí hoạt động dịch vụ,22,(334.824),(237.588),,22.0,-334824.0,-237588.0
+II,II,II,Lãi thuần từ hoạt động dịch vụ,,725.284,1.111.695,,,725284.0,1111695.0
+III,III,III,Lãi thuần từ hoạt động kinh doanh ngoại hồi,23,427.634,570.581,,23.0,427634.0,570581.0
+IV,IV,IV,Lãi/(lỗ) thuần từ mua bán chứng khoán kinh doanh,24,217.406,(172.141),,24.0,217406.0,-172141.0
+V,V,V,Lãi thuần từ mua bán chứng khoán đầu tư,25,268.721,321.407,,25.0,268721.0,321407.0
+5,5,5,Thu nhập từ hoạt động khác,,359.856,802.566,,,359856.0,802566.0
+6,6,6,Chi phí hoạt động khác,,(210.073),(192.964),,,-210073.0,-192964.0
+VI,VI,VI,Lãi thuần từ hoạt động khác,26,149.783,609.602,,26.0,149783.0,609602.0
+VII,VII,VII,"Thu nhập từ góp vốn, mua cổ phần",27,2.621.028,1.445,,27.0,2621028.0,1445.0
+VIII,VIII,VIII,Chi phí hoạt động,28,(4.659.453),(4.130.218),,28.0,-4659453.0,-4130218.0
+IX,IX,IX,Lợi nhuận thuần từ hoạt động kinh doanh trướcchi phí dự phòng rủi ro tín dụng,,9.454.237,8.278.781,,,9454237.0,8278781.0
+X,X,X,Chi phí dự phòng rủi ro tín dụng,29,(2.585.848),(2.239.382),,29.0,-2585848.0,-2239382.0
+XI,XI,XI,Tổng lợi nhuận trước thuế,,6.868.389,6.039.399,,,6868389.0,6039399.0
+7,7,7,"Chi phí thuế thu nhập doanh nghiệp (""TNDN"")- hiện hành",,(1.358.850),(1.223.373),,,-1358850.0,-1223373.0
+8,8,8,Chi phí thuế TNDN - hoãn lại,,-,-,,,,
+XII,8 > XII,XII,Chi phí thuế TNDN,30,(1.358.850),(1.223.373),,30.0,-1358850.0,-1223373.0
+XIII,8 > XIII,XIII,Lợi nhuận sau thuế,,5.509.539,4.816.026,,,5509539.0,4816026.0
+,,,Phân bổ cho:Cổ đông của Ngân hàng mẹ,,5.509.539,4.816.026,,,5509539.0,4816026.0
+,,,Lợi ích của cổ đông không kiểm soát,,-,-,,,,
+XV,8 > XV,XV,Lãi cơ bản trên cổ phiếu (VND/cổ phiếu)Lãi suy giảm trên cổ phiếu (VND/cổ phiếu),18(c)18(d),1.8804.880,1.6161.616,,,18804880.0,16161616.0

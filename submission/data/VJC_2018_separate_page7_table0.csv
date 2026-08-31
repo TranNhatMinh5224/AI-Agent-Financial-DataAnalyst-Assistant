@@ -1,0 +1,38 @@
+﻿row_label_raw,row_label_full,col_0,Mã số,Thuyết minh,31/12/2018 VND,1/1/2018 VND,numeric__Mã số,numeric__Thuyết minh,numeric__31/12/2018 VND,numeric__1/1/2018 VND
+TÀI SẢN,TÀI SẢN,TÀI SẢN,TÀI SẢN,TÀI SẢN,TÀI SẢN,TÀI SẢN,,,,
+Tài sản ngắn hạn(100 = 110 + 120 + 130 + 140 + 150),TÀI SẢN > Tài sản ngắn hạn(100 = 110 + 120 + 130 + 140 + 150),Tài sản ngắn hạn(100 = 110 + 120 + 130 + 140 + 150),100,,16.727.030.230.311,15.198.000.906.647,100.0,,16727030230311.0,15198000906647.0
+Tiền và các khoản tương đương tiền,TÀI SẢN > Tiền và các khoản tương đương tiền,Tiền và các khoản tương đương tiền,110,5,7.156.359.241.738,6.436.910.324.903,110.0,5.0,7156359241738.0,6436910324903.0
+Tiền,TÀI SẢN > Tiền,Tiền,111,,3.640.399.241.738,2.399.700.324.903,111.0,,3640399241738.0,2399700324903.0
+Các khoản tương đương tiền,TÀI SẢN > Các khoản tương đương tiền,Các khoản tương đương tiền,112,,3.515.960.000.000,4.037.210.000.000,112.0,,3515960000000.0,4037210000000.0
+Đầu tư tài chính ngắn hạn,TÀI SẢN > Đầu tư tài chính ngắn hạn,Đầu tư tài chính ngắn hạn,120,6(a),815.500.000.000,-,120.0,,815500000000.0,
+Chứng khoán kinh doanh,TÀI SẢN > Chứng khoán kinh doanh,Chứng khoán kinh doanh,121,,990.000.000.000,-,121.0,,990000000000.0,
+Dự phòng giảm giá chứng khoán kinh doanh,TÀI SẢN > Dự phòng giảm giá chứng khoán kinh doanh,Dự phòng giảm giá chứng khoán kinh doanh,122,,(174.500.000.000),-,122.0,,-174500000000.0,
+Các khoản phải thu ngắn hạn,TÀI SẢN > Các khoản phải thu ngắn hạn,Các khoản phải thu ngắn hạn,130,,7.931.509.214.723,8.180.340.974.636,130.0,,7931509214723.0,8180340974636.0
+Phải thu ngắn hạn của khách hàng,TÀI SẢN > Phải thu ngắn hạn của khách hàng,Phải thu ngắn hạn của khách hàng,131,7,1.220.013.565.836,420.236.270.174,131.0,7.0,1220013565836.0,420236270174.0
+Trả trước cho người bán ngắn hạn,TÀI SẢN > Trả trước cho người bán ngắn hạn,Trả trước cho người bán ngắn hạn,132,8(a),129.927.091.931,90.275.878.162,132.0,,129927091931.0,90275878162.0
+Phải thu ngắn hạn khác,TÀI SẢN > Phải thu ngắn hạn khác,Phải thu ngắn hạn khác,136,9(a),6.581.568.556.956,7.669.828.826.300,136.0,,6581568556956.0,7669828826300.0
+Hàng tồn kho,TÀI SẢN > Hàng tồn kho,Hàng tồn kho,140,10,468.729.305.585,267.181.519.500,140.0,10.0,468729305585.0,267181519500.0
+Tài sản ngắn hạn khác,TÀI SẢN > Tài sản ngắn hạn khác,Tài sản ngắn hạn khác,150,,354.932.468.265,313.568.087.608,150.0,,354932468265.0,313568087608.0
+Chi phí trả trước ngắn hạn,TÀI SẢN > Chi phí trả trước ngắn hạn,Chi phí trả trước ngắn hạn,151,14(a),299.977.931.225,218.461.780.633,151.0,,299977931225.0,218461780633.0
+Thuế phải thu Nhà Nước,TÀI SẢN > Thuế phải thu Nhà Nước,Thuế phải thu Nhà Nước,153,16(b),54.954.537.040,95.106.306.975,153.0,,54954537040.0,95106306975.0
+Tài sản dài hạn(200 = 210 + 220 + 240 + 250 + 260),TÀI SẢN > Tài sản dài hạn(200 = 210 + 220 + 240 + 250 + 260),Tài sản dài hạn(200 = 210 + 220 + 240 + 250 + 260),200,,19.955.201.908.719,13.967.791.166.361,200.0,,19955201908719.0,13967791166361.0
+Các khoản phải thu dài hạn,TÀI SẢN > Các khoản phải thu dài hạn,Các khoản phải thu dài hạn,210,,10.575.666.223.835,7.151.147.568.526,210.0,,10575666223835.0,7151147568526.0
+Trả trước cho người bán dài hạn,TÀI SẢN > Trả trước cho người bán dài hạn,Trả trước cho người bán dài hạn,212,8(b),701.500.000.000,701.500.000.000,212.0,,701500000000.0,701500000000.0
+Phải thu dài hạn khác,TÀI SẢN > Phải thu dài hạn khác,Phải thu dài hạn khác,216,9(b),9.874.166.223.835,6.449.647.568.526,216.0,,9874166223835.0,6449647568526.0
+Tài sản cố định,TÀI SẢN > Tài sản cố định,Tài sản cố định,220,,1.645.095.006.520,1.528.472.334.559,220.0,,1645095006520.0,1528472334559.0
+Tài sản cố định hữu hình,TÀI SẢN > Tài sản cố định hữu hình,Tài sản cố định hữu hình,221,11,1.642.189.535.533,1.523.538.521.104,221.0,11.0,1642189535533.0,1523538521104.0
+Nguyên giá,TÀI SẢN > Nguyên giá,Nguyên giá,222,,1.934.434.945.327,1.676.846.302.493,222.0,,1934434945327.0,1676846302493.0
+Giá trị hao mòn lũy kế,TÀI SẢN > Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,223,,(292.245.409.794),(153.307.781.389),223.0,,-292245409794.0,-153307781389.0
+Tài sản cố định vô hình,TÀI SẢN > Tài sản cố định vô hình,Tài sản cố định vô hình,227,12,2.905.470.987,4.933.813.455,227.0,12.0,2905470987.0,4933813455.0
+Nguyên giá,TÀI SẢN > Nguyên giá,Nguyên giá,228,,29.077.618.155,29.077.618.155,228.0,,29077618155.0,29077618155.0
+Giá trị hao mòn lũy kế,TÀI SẢN > Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,229,,(26.172.147.168),(24.143.804.700),229.0,,-26172147168.0,-24143804700.0
+Tài sản dở dang dài hạn,TÀI SẢN > Tài sản dở dang dài hạn,Tài sản dở dang dài hạn,240,,1.175.977.845.586,193.431.223.060,240.0,,1175977845586.0,193431223060.0
+Xây dựng cơ bản dở dang,TÀI SẢN > Xây dựng cơ bản dở dang,Xây dựng cơ bản dở dang,242,13,1.175.977.845.586,193.431.223.060,242.0,13.0,1175977845586.0,193431223060.0
+Đầu tư tài chính dài hạn,TÀI SẢN > Đầu tư tài chính dài hạn,Đầu tư tài chính dài hạn,250,,77.424.629.818,77.424.629.818,250.0,,77424629818.0,77424629818.0
+Đầu tư vào các công ty con,TÀI SẢN > Đầu tư vào các công ty con,Đầu tư vào các công ty con,251,6(b),9.000.000.000,9.000.000.000,251.0,,9000000000.0,9000000000.0
+Đầu tư vào các công ty liên kết,TÀI SẢN > Đầu tư vào các công ty liên kết,Đầu tư vào các công ty liên kết,252,6(b),60.000.000.000,60.000.000.000,252.0,,60000000000.0,60000000000.0
+Đầu tư góp vốn vào các đơn vị khác,TÀI SẢN > Đầu tư góp vốn vào các đơn vị khác,Đầu tư góp vốn vào các đơn vị khác,253,6(b),7.868.448.000,7.868.448.000,253.0,,7868448000.0,7868448000.0
+Đầu tư nằm giữ đến ngày đáo hạn,TÀI SẢN > Đầu tư nằm giữ đến ngày đáo hạn,Đầu tư nằm giữ đến ngày đáo hạn,255,6(c),556.181.818,556.181.818,255.0,,556181818.0,556181818.0
+Tài sản dài hạn khác,TÀI SẢN > Tài sản dài hạn khác,Tài sản dài hạn khác,260,,6.481.038.202.960,5.017.315.410.398,260.0,,6481038202960.0,5017315410398.0
+Chi phí trả trước dài hạn,TÀI SẢN > Chi phí trả trước dài hạn,Chi phí trả trước dài hạn,261,14(b),6.481.038.202.960,5.017.315.410.398,261.0,,6481038202960.0,5017315410398.0
+TỔNG TÀI SẢN (270 = 100 + 200),TÀI SẢN > TỔNG TÀI SẢN (270 = 100 + 200),TỔNG TÀI SẢN (270 = 100 + 200),270,,36.682.232.139.030,29.165.792.073.008,270.0,,36682232139030.0,29165792073008.0

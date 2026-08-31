@@ -1,0 +1,37 @@
+﻿row_label_raw,row_label_full,STT,CHỈ TIÊU,Thuyết minh,Năm nay,Năm trước,numeric__CHỈ TIÊU,numeric__Thuyết minh,numeric__Năm nay,numeric__Năm trước
+1.,1.,1.,Thu nhập lãi và các khoản thu nhập tương tự,26,62.600.277,49.005.228,,26.0,62600277.0,49005228.0
+2.,2.,2.,Chi phí lãi và các chi phí tương tự,27,(39.165.682),(29.690.259),,27.0,-39165682.0,-29690259.0
+I,I,I,Thu nhập lãi thuần,,23.434.595,19.314.969,,,23434595.0,19314969.0
+3.,3.,3.,Thu nhập từ hoạt động dịch vụ,,4.490.151,3.962.354,,,4490151.0,3962354.0
+4.,4.,4.,Chi phí hoạt động dịch vụ,,(1.981.011),(1.625.823),,,-1981011.0,-1625823.0
+II,II,II,Lãi thuần từ hoạt động dịch vụ,28,2.509.140,2.336.531,,28.0,2509140.0,2336531.0
+III,III,III,Lãi thuần từ hoạt động kinh doanh vàng và ngoại hối,29,534.468,293.971,,29.0,534468.0,293971.0
+IV,IV,IV,Lãi/(Lỗ) thuần từ mua bán chứng khoán kinh doanh,30.1,455.425,(62.986),,301.0,455425.0,-62986.0
+V,V,V,Lãi thuần từ mua bán chứng khoán đầu tư,30.2,402.957,11.294,,302.0,402957.0,11294.0
+V,V,V,Lãi/(Lỗ) thuần từ mua bán chứng khoán,,858.382,(51.692),,,858382.0,-51692.0
+5.,5.,5.,Thu nhập từ hoạt động khác,,3.785.164,3.537.553,,,3785164.0,3537553.0
+6.,6.,6.,Chi phí từ hoạt động khác,,(1.902.181),(1.168.160),,,-1902181.0,-1168160.0
+VI,VI,VI,Lãi thuần từ hoạt động khác,31,1.882.983,2.369.393,,31.0,1882983.0,2369393.0
+VII,VII,VII,"Thu nhập từ góp vốn, mua cổ phần",32,1.214.488,448.992,,32.0,1214488.0,448992.0
+VII,VII,VII,Tổng thu nhập hoạt động,,30.434.056,24.712.164,,,30434056.0,24712164.0
+7.,7.,7.,Chi phí nhân viên,,(7.428.666),(6.255.652),,,-7428666.0,-6255652.0
+8.,8.,8.,Chi phí khấu hao và khấu trừ,,(852.536),(611.532),,,-852536.0,-611532.0
+9.,9.,9.,Chi phí hoạt động khác,,(5.245.419),(4.219.992),,,-5245419.0,-4219992.0
+VIII,VIII,VIII,Tổng chi phí hoạt động,33,(13.526.621),(11.087.176),,33.0,-13526621.0,-11087176.0
+IX,IX,IX,Lợi nhuận thuần từ hoạt động kinh doanh trước chi phí dự phòng rủi ro tín dụng,,16.907.435,13.624.988,,,16907435.0,13624988.0
+X,X,X,Chi phí dự phòng rủi ro tín dụng,"9, 13, 14.6",(9.198.824),(5.676.332),,,-9198824.0,-5676332.0
+XI,XI,XI,Tổng lợi nhuận trước thuế,,7.708.611,7.948.656,,,7708611.0,7948656.0
+10.,10.,10.,Chi phí thuế TNDN hiện hành,34.1,(1.496.525),(1.566.497),,341.0,-1496525.0,-1566497.0
+11.,11.,11.,Thu nhập/(Chi phí) thuế TNDN hoãn lại,34.2,16.770,(5.403),,342.0,16770.0,-5403.0
+XII,XII,XII,Chi phí thuế TNDN,,(1.479.755),(1.571.900),,,-1479755.0,-1571900.0
+XIII,XIII,XIII,Lợi nhuận sau thuế,,6.228.856,6.376.756,,,6228856.0,6376756.0
+XIII,XIII,XIII,Phân bổ (lãi) cho cổ đông không kiểm soát,,(91.305),(78.675),,,-91305.0,-78675.0
+XIII,XIII,XIII,Lợi nhuận thuần của cổ đông của Ngân hàng,,6.137.551,6.298.081,,,6137551.0,6298081.0
+XIV,XIV,XIV,Lỗ lũy kế nhận từ MHB khi sáp nhập,,,(475.818),,,,-475818.0
+XIV,XIV,XIV,LỢI NHUẬN THUÀN CỦA CỔ ĐỒNG,,6.137.551,5.822.263,,,6137551.0,5822263.0
+XIV,XIV,XIV,Lãi cơ bản trên mỗi cổ phiếu (đồng/cổ phiếu),35,1.354,1.427,,35.0,1354.0,1427.0
+Người lập,Người lập,Người lập,Người lập,Người phê duyệt,Người phê duyệt,Người phê duyệt,,,,
+Vương Thị Thanh Hoa,Vương Thị Thanh Hoa,Vương Thị Thanh Hoa,Vương Thị Thanh Hoa,Tạ Thị Hạnh,Trần Xuân Hoàng,Trần Xuân Hoàng,,,,
+Phó Trường phòng,Phó Trường phòng,Phó Trường phòng,Phó Trường phòng,Kế toán Trường,Phó Tổng Giám đốc,Phó Tổng Giám đốc,,,,
+Ban Kế toán,Ban Kế toán,Ban Kế toán,Ban Kế toán,,(Theo Thư Ủy quyền số,(Theo Thư Ủy quyền số,,,,
+Ngày 24 tháng 3 năm 2017,Ngày 24 tháng 3 năm 2017,Ngày 24 tháng 3 năm 2017,Ngày 24 tháng 3 năm 2017,,8629/QĐ-BIDV ngày 26 tháng 10 năm 2016 của Tổng Giám đốc),8629/QĐ-BIDV ngày 26 tháng 10 năm 2016 của Tổng Giám đốc),,,,

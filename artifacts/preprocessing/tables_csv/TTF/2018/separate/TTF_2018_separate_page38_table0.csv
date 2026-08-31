@@ -1,0 +1,15 @@
+﻿row_label_raw,row_label_full,col_0,Số cuối năm,VND > Số đầu năm,VND > Số đầu năm_1,numeric__Số cuối năm,numeric__VND > Số đầu năm,numeric__VND > Số đầu năm_1
+Ngắn hạn,Ngắn hạn,Ngắn hạn,Ngắn hạn,Ngắn hạn,Ngắn hạn,,,
+Vay ngân hàng (Thuyết minh số 22.1),Ngắn hạn > Vay ngân hàng (Thuyết minh số 22.1),Vay ngân hàng (Thuyết minh số 22.1),123.292.700.000,273.602.779.209,273.602.779.209,123292700000.0,273602779209.0,273602779209.0
+Vay bên liên quan (Thuyết minh số 32),Ngắn hạn > Vay bên liên quan (Thuyết minh số 32),Vay bên liên quan (Thuyết minh số 32),-,2.000.000.000,2.000.000.000,,2000000000.0,2000000000.0
+,,,123.292.700.000,275.602.779.209,275.602.779.209,123292700000.0,275602779209.0,275602779209.0
+Dải hạn,Dải hạn,Dải hạn,Dải hạn,Dải hạn,Dải hạn,,,
+Vay cá nhân (Thuyết minh số 22.2),Dải hạn > Vay cá nhân (Thuyết minh số 22.2),Vay cá nhân (Thuyết minh số 22.2),362.853.767.131,500.000.000.000,500.000.000.000,362853767131.0,500000000000.0,500000000000.0
+TỔNG CỘNG,Dải hạn > TỔNG CỘNG,TỔNG CỘNG,486.146.467.131,775.602.779.209,775.602.779.209,486146467131.0,775602779209.0,775602779209.0
+Tình hình tăng giảm các khoản vay như sau:,Tình hình tăng giảm các khoản vay như sau:,Tình hình tăng giảm các khoản vay như sau:,Tình hình tăng giảm các khoản vay như sau:,Tình hình tăng giảm các khoản vay như sau:,Tình hình tăng giảm các khoản vay như sau:,,,
+,,,Vay ngắn hạn,Vay dài hạn,VND Tổng cộng,,,
+Số đầu năm,Tình hình tăng giảm các khoản vay như sau: > Số đầu năm,Số đầu năm,275.602.779.209,500.000.000.000,775.602.779.209,275602779209.0,500000000000.0,775602779209.0
+Cấn trừ nợ vay,Tình hình tăng giảm các khoản vay như sau: > Cấn trừ nợ vay,Cấn trừ nợ vay,(149.310.079.209),-,(149.310.079.209),-149310079209.0,,-149310079209.0
+Giảm một phần nợ vay,Tình hình tăng giảm các khoản vay như sau: > Giảm một phần nợ vay,Giảm một phần nợ vay,(2.000.000.000),(137.146.232.869),(139.146.232.869),-2000000000.0,-137146232869.0,-139146232869.0
+Trả gốc vay,Tình hình tăng giảm các khoản vay như sau: > Trả gốc vay,Trả gốc vay,(1.000.000.000),-,(1.000.000.000),-1000000000.0,,-1000000000.0
+Số cuối năm,Tình hình tăng giảm các khoản vay như sau: > Số cuối năm,Số cuối năm,123.292.700.000,362.853.767.131,486.146.467.131,123292700000.0,362853767131.0,486146467131.0

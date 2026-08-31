@@ -1,0 +1,24 @@
+﻿row_label_raw,row_label_full,Chỉ tiêu,"Nhà cửa, vật kiến trúc","Máy móc, thiết bị","Phương tiện vận tải, truyền dẫn",Thiết bị quản lý,TSCĐ khác,TSCĐ vô hình,Cộng,"numeric__Nhà cửa, vật kiến trúc","numeric__Máy móc, thiết bị","numeric__Phương tiện vận tải, truyền dẫn",numeric__Thiết bị quản lý,numeric__TSCĐ khác,numeric__TSCĐ vô hình,numeric__Cộng
+I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,,,,,,,
+1. Số dư đầu kỳ,I. Nguyên giá > 1. Số dư đầu kỳ,1. Số dư đầu kỳ,20.471.523.035,330.953.501.798,5.517.390.000,,,,356.942.414.833,20471523035.0,330953501798.0,5517390000.0,,,,356942414833.0
+2. Số tăng trong kỳ,I. Nguyên giá > 2. Số tăng trong kỳ,2. Số tăng trong kỳ,,33.700.013.456,14.554.817.444,,,,48.254.830.900,,33700013456.0,14554817444.0,,,,48254830900.0
+- Thuê tài chính trong kỳ,I. Nguyên giá > - Thuê tài chính trong kỳ,- Thuê tài chính trong kỳ,,33.700.013.456,7.520.897.012,,,,41.220.910.468,,33700013456.0,7520897012.0,,,,41220910468.0
+- Mua lại TSCĐ thuê tài chính,- Mua lại TSCĐ thuê tài chính,- Mua lại TSCĐ thuê tài chính,,,,,,,,,,,,,,
+- Tăng khác,- Mua lại TSCĐ thuê tài chính > - Tăng khác,- Tăng khác,,,7.033.920.432,,,,7.033.920.432,,,7033920432.0,,,,7033920432.0
+3. Số giảm trong kỳ,- Mua lại TSCĐ thuê tài chính > 3. Số giảm trong kỳ,3. Số giảm trong kỳ,1.545.555.588,18.811.843.849,,,,,20.357.399.437,1545555588.0,18811843849.0,,,,,20357399437.0
+- Trả lại TSCĐ thuê tài chính,- Trả lại TSCĐ thuê tài chính,- Trả lại TSCĐ thuê tài chính,,,,,,,,,,,,,,
+- Giảm khác,- Trả lại TSCĐ thuê tài chính > - Giảm khác,- Giảm khác,1.545.555.588,18.811.843.849,,,,,20.357.399.437,1545555588.0,18811843849.0,,,,,20357399437.0
+4. Số dư cuối kỳ,- Trả lại TSCĐ thuê tài chính > 4. Số dư cuối kỳ,4. Số dư cuối kỳ,18.925.967.447,345.841.671.405,20.072.207.444,,,,384.839.846.296,18925967447.0,345841671405.0,20072207444.0,,,,384839846296.0
+II. Giá trị hao mòn luỹ kế,II. Giá trị hao mòn luỹ kế,II. Giá trị hao mòn luỹ kế,II. Giá trị hao mòn luỹ kế,II. Giá trị hao mòn luỹ kế,II. Giá trị hao mòn luỹ kế,II. Giá trị hao mòn luỹ kế,II. Giá trị hao mòn luỹ kế,II. Giá trị hao mòn luỹ kế,II. Giá trị hao mòn luỹ kế,,,,,,,
+1. Số dư đầu kỳ,II. Giá trị hao mòn luỹ kế > 1. Số dư đầu kỳ,1. Số dư đầu kỳ,3.294.667.105,52.750.803.093,5.180.415.825,,,,61.225.886.023,3294667105.0,52750803093.0,5180415825.0,,,,61225886023.0
+2. Khấu hao trong kỳ,II. Giá trị hao mòn luỹ kế > 2. Khấu hao trong kỳ,2. Khấu hao trong kỳ,2.580.183.076,32.282.542.616,2.050.033.562,,,,36.912.759.254,2580183076.0,32282542616.0,2050033562.0,,,,36912759254.0
+- Khấu hao trong kỳ,II. Giá trị hao mòn luỹ kế > - Khấu hao trong kỳ,- Khấu hao trong kỳ,2.580.183.076,32.282.542.616,2.050.033.562,,,,36.912.759.254,2580183076.0,32282542616.0,2050033562.0,,,,36912759254.0
+- Mua lại TSCĐ thuê tài chính,- Mua lại TSCĐ thuê tài chính,- Mua lại TSCĐ thuê tài chính,,,,,,,,,,,,,,
+- Tăng khác,- Tăng khác,- Tăng khác,,,,,,,,,,,,,,
+3. Giảm trong kỳ,- Tăng khác > 3. Giảm trong kỳ,3. Giảm trong kỳ,618.620.713,8.434.840.934,,,,,9.053.461.647,618620713.0,8434840934.0,,,,,9053461647.0
+- Trả lại TSCĐ thuê tài chính,- Trả lại TSCĐ thuê tài chính,- Trả lại TSCĐ thuê tài chính,,,,,,,,,,,,,,
+- Giảm khác,- Trả lại TSCĐ thuê tài chính > - Giảm khác,- Giảm khác,618.620.713,8.434.840.934,,,,,9.053.461.647,618620713.0,8434840934.0,,,,,9053461647.0
+4. Số dư cuối kỳ,- Trả lại TSCĐ thuê tài chính > 4. Số dư cuối kỳ,4. Số dư cuối kỳ,5.256.229.468,76.598.504.775,7.230.449.387,,,,89.085.183.630,5256229468.0,76598504775.0,7230449387.0,,,,89085183630.0
+III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,,,,,,,
+1. Tại ngày đầu kỳ,III. Giá trị còn lại > 1. Tại ngày đầu kỳ,1. Tại ngày đầu kỳ,17.176.855.930,278.202.698.705,336.974.175,,,,295.716.528.810,17176855930.0,278202698705.0,336974175.0,,,,295716528810.0
+2. Tại ngày cuối kỳ,III. Giá trị còn lại > 2. Tại ngày cuối kỳ,2. Tại ngày cuối kỳ,13.669.737.979,269.243.166.630,12.841.758.057,,,,295.754.662.666,13669737979.0,269243166630.0,12841758057.0,,,,295754662666.0

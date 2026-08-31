@@ -1,0 +1,20 @@
+﻿row_label_raw,row_label_full,col_0,Quyền sử dụng đất,Chương trình phần mềm máy tính,Tài sản cố định khác,Cộng,numeric__Quyền sử dụng đất,numeric__Chương trình phần mềm máy tính,numeric__Tài sản cố định khác,numeric__Cộng
+Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,,,,
+Số đầu năm,Nguyên giá > Số đầu năm,Số đầu năm,683.232,68.257,7.834,759.323,683232.0,68257.0,7834.0,759323.0
+Mua trong năm,Nguyên giá > Mua trong năm,Mua trong năm,23.666,-,2.279,25.945,23666.0,,2279.0,25945.0
+Chuyển từ chi phí xây dựng cơ bản dở dang,Nguyên giá > Chuyển từ chi phí xây dựng cơ bản dở dang,Chuyển từ chi phí xây dựng cơ bản dở dang,1.086,21.866,215,23.167,1086.0,21866.0,215.0,23167.0
+Phân loại lại,Nguyên giá > Phân loại lại,Phân loại lại,669,-,(669),-,669.0,,-669.0,
+Số cuối năm,Nguyên giá > Số cuối năm,Số cuối năm,708.653,90.123,9.659,808.435,708653.0,90123.0,9659.0,808435.0
+Trong đó:,Trong đó:,Trong đó:,Trong đó:,Trong đó:,Trong đó:,Trong đó:,,,,
+Đã khấu hao hết nhưng vẫn còn sử dụng,Trong đó: > Đã khấu hao hết nhưng vẫn còn sử dụng,Đã khấu hao hết nhưng vẫn còn sử dụng,-,42.465,3.481,45.946,,42465.0,3481.0,45946.0
+Giá trị hao mòn,Giá trị hao mòn,Giá trị hao mòn,Giá trị hao mòn,Giá trị hao mòn,Giá trị hao mòn,Giá trị hao mòn,,,,
+Số đầu năm,Giá trị hao mòn > Số đầu năm,Số đầu năm,2.680,45.323,5.249,53.252,2680.0,45323.0,5249.0,53252.0
+Khấu hao trong năm,Giá trị hao mòn > Khấu hao trong năm,Khấu hao trong năm,1.831,9.923,989,12.743,1831.0,9923.0,989.0,12743.0
+Phân loại lại,Giá trị hao mòn > Phân loại lại,Phân loại lại,669,(99),(570),-,669.0,-99.0,-570.0,
+Số cuối năm,Giá trị hao mòn > Số cuối năm,Số cuối năm,5.180,55.147,5.668,65.995,5180.0,55147.0,5668.0,65995.0
+Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,,,,
+Số đầu năm,Giá trị còn lại > Số đầu năm,Số đầu năm,680.552,22.934,2.585,706.071,680552.0,22934.0,2585.0,706071.0
+Số cuối năm,Giá trị còn lại > Số cuối năm,Số cuối năm,703.473,34.976,3.991,742.440,703473.0,34976.0,3991.0,742440.0
+Trong đó:,Trong đó:,Trong đó:,Trong đó:,Trong đó:,Trong đó:,Trong đó:,,,,
+Tạm thời không sử dụng,Tạm thời không sử dụng,Tạm thời không sử dụng,-,-,-,-,,,,
+Đang chờ thanh lý,Đang chờ thanh lý,Đang chờ thanh lý,-,-,-,-,,,,

@@ -1,0 +1,10 @@
+﻿row_label_raw,row_label_full,col_0,Tiền gửi tại NHNN Triệu VND,Tiền gửi và cho vay các TCTD khác Triệu VND,Chứng khoán kinh doanh Triệu VND,Cho vay khách hàng Triệu VND,Chứng khoán nợ đầu tư Triệu VND,Các tài sản tài chính khác Triệu VND,Tổng cộng Triệu VND,numeric__Tiền gửi tại NHNN Triệu VND,numeric__Tiền gửi và cho vay các TCTD khác Triệu VND,numeric__Chứng khoán kinh doanh Triệu VND,numeric__Cho vay khách hàng Triệu VND,numeric__Chứng khoán nợ đầu tư Triệu VND,numeric__Các tài sản tài chính khác Triệu VND,numeric__Tổng cộng Triệu VND
+Chưa quá hạn và chưa bị suy giảm giá trị,Chưa quá hạn và chưa bị suy giảm giá trị,Chưa quá hạn và chưa bị suy giảm giá trị,10.683.536,18.510.168,899.577,228.074.889,53.088.125,5.674.107,316.930.402,10683536.0,18510168.0,899577.0,228074889.0,53088125.0,5674107.0,316930402.0
+Đã quá hạn nhưng chưa bị suy giảm giá trị,Đã quá hạn nhưng chưa bị suy giảm giá trị,Đã quá hạn nhưng chưa bị suy giảm giá trị,-,-,-,257.090,-,-,257.090,,,,257090.0,,,257090.0
+Bị suy giảm giá trị,Bị suy giảm giá trị,Bị suy giảm giá trị,-,400.000,-,2.195.241,40.373,1.669.636,4.305.250,,400000.0,,2195241.0,40373.0,1669636.0,4305250.0
+Trừ: Dự phòng rủi ro,Trừ: Dự phòng rủi ro,Trừ: Dự phòng rủi ro,-,(140.392),-,(2.544.172),(20.485),(1.324.962),(4.030.011),,-140392.0,,-2544172.0,-20485.0,-1324962.0,-4030011.0
+Giá trị ròng,Giá trị ròng,Giá trị ròng,10.683.536,18.769.776,899.577,227.983.048,53.108.013,6.018.781,317.462.731,10683536.0,18769776.0,899577.0,227983048.0,53108013.0,6018781.0,317462731.0
+Dự phòng rủi ro,Dự phòng rủi ro,Dự phòng rủi ro,,,,,,,,,,,,,,
+Dự phòng cụ thể,Dự phòng rủi ro > Dự phòng cụ thể,Dự phòng cụ thể,-,(140.392),-,(746.253),-,-,(886.645),,-140392.0,,-746253.0,,,-886645.0
+Dự phòng chung,Dự phòng rủi ro > Dự phòng chung,Dự phòng chung,-,-,-,(1.692.033),-,-,(1.692.033),,,,-1692033.0,,,-1692033.0
+Dự phòng rủi ro khác,Dự phòng rủi ro > Dự phòng rủi ro khác,Dự phòng rủi ro khác,-,-,-,(105.886),(20.485),(1.324.962),(1.451.333),,,,-105886.0,-20485.0,-1324962.0,-1451333.0

@@ -1,0 +1,13 @@
+﻿row_label_raw,row_label_full,Mã số,CHỈ TIÊU,Thuyết minh,Năm 2016 > VND,Năm 2015 > VND,numeric__CHỈ TIÊU,numeric__Thuyết minh,numeric__Năm 2016 > VND,numeric__Năm 2015 > VND
+,,,III LUÙ CHUYỀN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH,III LUÙ CHUYỀN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH,III LUÙ CHUYỀN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH,III LUÙ CHUYỀN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH,,,,
+31,31,31,"1. Tiền thu từ phát hành cổ phiếu, nhận vốn góp của chủ sở hữu",,2.211.060.000,224.306.340.000,,,2211060000.0,224306340000.0
+32,32,32,"1. Tiền trả lại vốn góp cho các chủ sở hữu, mua lại cổ phiếu của doanh nghiệp đã phát hành",,-,-,,,,
+33,32 > 33,33,2. Tiền thu từ đi vay,,5.455.770.445.434,1.473.067.321.335,,,5455770445434.0,1473067321335.0
+34,32 > 34,34,3. Tiền trả nợ gốc vay,,(2.361.061.793.228),(1.377.507.233.285),,,-2361061793228.0,-1377507233285.0
+35,35,35,3. Tiền trả nợ gốc thuê tài chính,,-,-,,,,
+36,35 > 36,36,"4. Cổ tức, lợi nhuận đã trả cho chủ sở hữu",,(153.614.446.335),(225.079.517.819),,,-153614446335.0,-225079517819.0
+40,35 > 40,40,Lưu chuyển tiền thuần từ hoạt động tài chính,,2.943.305.265.871,94.786.910.231,,,2943305265871.0,94786910231.0
+50,35 > 50,50,Lưu chuyển tiền thuần trong năm,,2.393.236.078.107,(252.419.363.351),,,2393236078107.0,-252419363351.0
+60,35 > 60,60,Tiền và tương đương tiền đầu năm,,518.493.494.834,770.927.664.834,,,518493494834.0,770927664834.0
+61,35 > 61,61,Ảnh hưởng của thay đổi tỷ giá hối đoái quy đổi ngoại tệ,,494.558.967,(14.806.649),,,494558967.0,-14806649.0
+70,35 > 70,70,Tiền và tương đương tiền cuối năm,3,2.912.224.131.908,518.493.494.834,,3.0,2912224131908.0,518493494834.0

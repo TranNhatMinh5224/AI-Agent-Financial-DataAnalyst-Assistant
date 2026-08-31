@@ -1,0 +1,12 @@
+﻿row_label_raw,row_label_full,col_0,col_1,As at beginning of year VND,Payable/receivable during the year VND,Payment during the year VND,Net-off/ reclassification during the year VND,As at end of year VND,numeric__col_1,numeric__As at beginning of year VND,numeric__Payable/receivable during the year VND,numeric__Payment during the year VND,numeric__Net-off/ reclassification during the year VND,numeric__As at end of year VND
+(a),(a),(a),Tax receivables,Tax receivables,Tax receivables,Tax receivables,Tax receivables,Tax receivables,,,,,,
+(a),(a),(a),VAT to be reclaimed,-,"9,207,903,388",-,"(9,207,903,388)",-,,,,,,
+(a),(a),(a),Other taxes and fees,"126,889,936",-,-,"(126,889,936)",-,,,,,,
+(a),(a),(a),,"126,889,936","9,207,903,388",-,"(9,334,793,324)",-,,,,,,
+(b),(b),(b),Tax payables,Tax payables,Tax payables,Tax payables,Tax payables,Tax payables,,,,,,
+(b),(b),(b),VAT,"6,032,879,215","50,650,793,496","(45,017,242,509)","(9,207,903,388)","2,458,526,814",,,,,,
+(b),(b),(b),Natural resource tax,"4,118,668,391","18,615,029,576","(20,700,501,712)",-,"2,033,196,255",,,,,,
+(b),(b),(b),Personal income tax,"1,222,219,256","6,491,931,965","(6,134,372,699)",-,"1,579,778,522",,,,,,
+(b),(b),(b),CIT,"2,371,527,859","713,356,776","(3,084,884,635)",-,-,,,,,,
+(b),(b),(b),Other taxes and fees,"376,180,839","4,708,612,764","(4,957,903,667)","(126,889,936)",-,,,,,,
+(b),(b),(b),,"14,121,475,560","81,179,724,577","(79,894,905,222)","(9,334,793,324)","6,071,501,591",,,,,,

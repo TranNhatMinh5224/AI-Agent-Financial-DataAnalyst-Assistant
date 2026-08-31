@@ -1,0 +1,24 @@
+﻿row_label_raw,row_label_full,"TĂNG, GIĂM TÀI SẢN CÓ ĐỊNH VÔ HÌNH","TĂNG, GIĂM TÀI SẢN CÓ ĐỊNH VÔ HÌNH_1","TĂNG, GIĂM TÀI SẢN CÓ ĐỊNH VÔ HÌNH_2","TĂNG, GIĂM TÀI SẢN CÓ ĐỊNH VÔ HÌNH_3","TĂNG, GIĂM TÀI SẢN CÓ ĐỊNH VÔ HÌNH_4","TĂNG, GIĂM TÀI SẢN CÓ ĐỊNH VÔ HÌNH_5","TĂNG, GIĂM TÀI SẢN CÓ ĐỊNH VÔ HÌNH_6","numeric__TĂNG, GIĂM TÀI SẢN CÓ ĐỊNH VÔ HÌNH_1","numeric__TĂNG, GIĂM TÀI SẢN CÓ ĐỊNH VÔ HÌNH_2","numeric__TĂNG, GIĂM TÀI SẢN CÓ ĐỊNH VÔ HÌNH_3","numeric__TĂNG, GIĂM TÀI SẢN CÓ ĐỊNH VÔ HÌNH_4","numeric__TĂNG, GIĂM TÀI SẢN CÓ ĐỊNH VÔ HÌNH_5","numeric__TĂNG, GIĂM TÀI SẢN CÓ ĐỊNH VÔ HÌNH_6"
+Chỉ tiêu,Chỉ tiêu,Chỉ tiêu,Quyền sử dụng đất,Quyền phát hành,"Bản quyền, bằng sáng chế",Phần mềm vi tính,TSCĐ vô hình khác,Cộng,,,,,,
+I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,,,,,,
+1. Số dư đầu kỳ,I. Nguyên giá > 1. Số dư đầu kỳ,1. Số dư đầu kỳ,618.292.634,,,45.000.000,,663.292.634,618292634.0,,,45000000.0,,663292634.0
+2. Số tăng trong kỳ,I. Nguyên giá > 2. Số tăng trong kỳ,2. Số tăng trong kỳ,,,,539.500.850,183.403.472,722.904.322,,,,539500850.0,183403472.0,722904322.0
+- Mua trong kỳ,I. Nguyên giá > - Mua trong kỳ,- Mua trong kỳ,,,,225.000.000,,225.000.000,,,,225000000.0,,225000000.0
+- Tạo ra từ nội bộ DN,- Tạo ra từ nội bộ DN,- Tạo ra từ nội bộ DN,,,,,,,,,,,,
+- Tăng khác,- Tạo ra từ nội bộ DN > - Tăng khác,- Tăng khác,,,,314.500.850,183.403.472,497.904.322,,,,314500850.0,183403472.0,497904322.0
+3. Số giảm trong kỳ,3. Số giảm trong kỳ,3. Số giảm trong kỳ,,,,,,,,,,,,
+"- Thanh lý, nhượng bán","- Thanh lý, nhượng bán","- Thanh lý, nhượng bán",,,,,,,,,,,,
+- Giảm khác,- Giảm khác,- Giảm khác,,,,,,,,,,,,
+4. Số dư cuối kỳ,- Giảm khác > 4. Số dư cuối kỳ,4. Số dư cuối kỳ,618.292.634,,,584.500.850,183.403.472,1.386.196.956,618292634.0,,,584500850.0,183403472.0,1386196956.0
+II. Giá trị hao mòn luỹ kế,II. Giá trị hao mòn luỹ kế,II. Giá trị hao mòn luỹ kế,II. Giá trị hao mòn luỹ kế,II. Giá trị hao mòn luỹ kế,II. Giá trị hao mòn luỹ kế,II. Giá trị hao mòn luỹ kế,II. Giá trị hao mòn luỹ kế,II. Giá trị hao mòn luỹ kế,,,,,,
+1. Số dư đầu kỳ,II. Giá trị hao mòn luỹ kế > 1. Số dư đầu kỳ,1. Số dư đầu kỳ,25.797.961,,,45.000.000,,70.797.961,25797961.0,,,45000000.0,,70797961.0
+2. Khấu hao trong kỳ,II. Giá trị hao mòn luỹ kế > 2. Khấu hao trong kỳ,2. Khấu hao trong kỳ,12.881.088,,,274.862.916,,287.744.004,12881088.0,,,274862916.0,,287744004.0
+- Khấu hao trong kỳ,II. Giá trị hao mòn luỹ kế > - Khấu hao trong kỳ,- Khấu hao trong kỳ,12.881.088,,,102.215.360,,115.096.448,12881088.0,,,102215360.0,,115096448.0
+- Tăng khác,II. Giá trị hao mòn luỹ kế > - Tăng khác,- Tăng khác,,,,172.647.556,,172.647.556,,,,172647556.0,,172647556.0
+3. Giảm trong kỳ,3. Giảm trong kỳ,3. Giảm trong kỳ,,,,,,,,,,,,
+"- Thanh lý, nhượng bán","- Thanh lý, nhượng bán","- Thanh lý, nhượng bán",,,,,,,,,,,,
+- Giảm khác,- Giảm khác,- Giảm khác,,,,,,,,,,,,
+4. Số dư cuối kỳ,- Giảm khác > 4. Số dư cuối kỳ,4. Số dư cuối kỳ,38.679.049,,,319.862.916,,358.541.965,38679049.0,,,319862916.0,,358541965.0
+III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,,,,,,
+1. Tại ngày đầu kỳ,III. Giá trị còn lại > 1. Tại ngày đầu kỳ,1. Tại ngày đầu kỳ,592.494.673,,,,,592.494.673,592494673.0,,,,,592494673.0
+2. Tại ngày cuối kỳ,III. Giá trị còn lại > 2. Tại ngày cuối kỳ,2. Tại ngày cuối kỳ,579.613.585,,,264.637.934,183.403.472,1.027.654.991,579613585.0,,,264637934.0,183403472.0,1027654991.0

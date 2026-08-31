@@ -1,0 +1,21 @@
+﻿row_label_raw,row_label_full,col_0,col_1,Thuyết minh,2019 Triệu VND,2018 Triệu VND,numeric__col_1,numeric__Thuyết minh,numeric__2019 Triệu VND,numeric__2018 Triệu VND
+1,1,1,Thu nhập lãi và các khoản thu nhập tương tự,23,8.526.145,7.509.842,,23.0,8526145.0,7509842.0
+2,2,2,Chi phí lãi và các khoản chi phí tương tự,24,(5.534.547),(4.686.438),,24.0,-5534547.0,-4686438.0
+I,I,I,Thu nhập lãi thuần,,2.991.598,2.823.404,,,2991598.0,2823404.0
+3,3,3,Thu nhập từ hoạt động dịch vụ,,797.150,463.083,,,797150.0,463083.0
+4,4,4,Chi phí hoạt động dịch vụ,,(279.068),(194.299),,,-279068.0,-194299.0
+II,II,II,Lãi thuần từ hoạt động dịch vụ,25,518.082,268.784,,25.0,518082.0,268784.0
+III,III,III,Lãi thuần từ hoạt động kinh doanh ngoại hối,26,155.449,209.414,,26.0,155449.0,209414.0
+IV,IV,IV,Lãi/(lỗ) thuần từ mua bán chứng khoán kinh doanh,27,3.447,(14.405),,27.0,3447.0,-14405.0
+V,V,V,Lãi thuần từ mua bán chứng khoán đầu tư,28,150.457,720.911,,28.0,150457.0,720911.0
+5,5,5,Thu nhập từ hoạt động khác,,845.828,668.890,,,845828.0,668890.0
+6,6,6,Chi phí hoạt động khác,,(88.725),(13.13),,,-88725.0,-1313.0
+VI,VI,VI,Lãi thuần từ hoạt động khác,29,757.103,655.723,,29.0,757103.0,655723.0
+VII,VII,VII,"Thu nhập từ góp vốn, mua cổ phần",,42.166,35.449,,,42166.0,35449.0
+VIII,VIII,VIII,Chi phí hoạt động,30,(2.422.435),(2.914.745),,30.0,-2422435.0,-2914745.0
+IX,IX,IX,Lợi nhuận thuần từ hoạt động kinh doanh trước chi phí dự phòng rủi ro tín dụng,,2.195.867,1.784.536,,,2195867.0,1784536.0
+X,X,X,Chi phí dự phòng rủi ro tín dụng,31,(919.640),(739.421),,31.0,-919640.0,-739421.0
+XI,XI,XI,Tổng lợi nhuận trước thuế,,1.276.227,1.045.115,,,1276227.0,1045115.0
+7,7,7,Chi phí thuế thu nhập doanh nghiệp hiện hành,,(239.949),(180.995),,,-239949.0,-180995.0
+XII,XII,XII,Chi phí thuế thu nhập doanh nghiệp (“TNDN”),32,(239.949),(180.995),,32.0,-239949.0,-180995.0
+XIII,XIII,XIII,Lợi nhuận sau thuế,,1.036.278,864.120,,,1036278.0,864120.0

@@ -1,0 +1,14 @@
+﻿row_label_raw,row_label_full,col_0,Số đầu năm,Số phải nộp trong năm,Số đã nộp trong năm,VND Số cuối năm,numeric__Số đầu năm,numeric__Số phải nộp trong năm,numeric__Số đã nộp trong năm,numeric__VND Số cuối năm
+Phải trả,Phải trả,Phải trả,Phải trả,Phải trả,Phải trả,Phải trả,,,,
+Thuế GTGT,Phải trả > Thuế GTGT,Thuế GTGT,104.569.749.540,1.736.447.276.733,(1.793.612.317.259),47.404.709.014,104569749540.0,1736447276733.0,-1793612317259.0,47404709014.0
+Thuế thu nhập cá nhân,Phải trả > Thuế thu nhập cá nhân,Thuế thu nhập cá nhân,1.614.292.843,37.087.632.102,(37.097.955.659),1.603.969.286,1614292843.0,37087632102.0,-37097955659.0,1603969286.0
+Thuế thu nhập doanh nghiệp,Phải trả > Thuế thu nhập doanh nghiệp,Thuế thu nhập doanh nghiệp,39.767.280.907,57.537.903.508,(97.305.184.415),-,39767280907.0,57537903508.0,-97305184415.0,
+Thuế xuất khẩu,Phải trả > Thuế xuất khẩu,Thuế xuất khẩu,941.888.393,31.185.621.787,(31.699.370.882),428.139.298,941888393.0,31185621787.0,-31699370882.0,428139298.0
+Các loại thuế khác,Phải trả > Các loại thuế khác,Các loại thuế khác,61.407.708,1.612.067.307,(1.672.900.887),574.128,61407708.0,1612067307.0,-1672900887.0,574128.0
+TỔNG CỘNG,Phải trả > TỔNG CỘNG,TỔNG CỘNG,146.954.619.391,1.863.870.501.437,(1.961.387.729.102),49.437.391.726,146954619391.0,1863870501437.0,-1961387729102.0,49437391726.0
+,,,Số đầu năm,Số tăng trong năm,Số giảm trong năm,VND Số cuối năm,,,,
+Phải thu,Phải thu,Phải thu,Phải thu,Phải thu,Phải thu,Phải thu,,,,
+Thuế GTGT được khấu trừ,Phải thu > Thuế GTGT được khấu trừ,Thuế GTGT được khấu trừ,1.308.779.396.886,922.947.013.065,(1.167.906.511.827),1.063.819.898.124,1308779396886.0,922947013065.0,-1167906511827.0,1063819898124.0
+Thuế thu nhập doanh nghiệp,Phải thu > Thuế thu nhập doanh nghiệp,Thuế thu nhập doanh nghiệp,-,25.792.564.658,-,25.792.564.658,,25792564658.0,,25792564658.0
+Khác,Phải thu > Khác,Khác,13.676.143,16.265.559,-,29.941.702,13676143.0,16265559.0,,29941702.0
+TỔNG CỘNG,Phải thu > TỔNG CỘNG,TỔNG CỘNG,1.308.793.073.029,948.755.843.282,(1.167.906.511.827),1.089.642.404.484,1308793073029.0,948755843282.0,-1167906511827.0,1089642404484.0

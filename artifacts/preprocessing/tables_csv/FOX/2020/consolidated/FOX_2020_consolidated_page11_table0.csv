@@ -1,0 +1,11 @@
+﻿row_label_raw,row_label_full,col_0,CHÌ TIÊU,Mã số,Năm nay,Năm trước,numeric__CHÌ TIÊU,numeric__Mã số,numeric__Năm nay,numeric__Năm trước
+III.,III.,III.,LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG TÀI CHÍNH,LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG TÀI CHÍNH,LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG TÀI CHÍNH,LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG TÀI CHÍNH,,,,
+1.,III. > 1.,1.,"Tiền trả lại vốn góp cho các chủ sở hữu, mua lại cổ phiếu của doanh nghiệp đã phát hành",32,-,(269.625.000),,32.0,,-269625000.0
+2.,III. > 2.,2.,Tiền thu từ đi vay,33,7.470.167.158.464,5.470.952.854.357,,33.0,7470167158464.0,5470952854357.0
+3.,III. > 3.,3.,Tiền trả nợ gốc vay,34,(6.075.033.768.164),(4.626.339.709.368),,34.0,-6075033768164.0,-4626339709368.0
+4.,III. > 4.,4.,"Cổ tức, lợi nhuận đã trả cho chủ sở hữu",36,(802.773.659.150),(373.522.000.400),,36.0,-802773659150.0,-373522000400.0
+,,,Lưu chuyển tiền thuần từ hoạt động tài chính,40,592.359.731.150,470.821.519.589,,40.0,592359731150.0,470821519589.0
+,,,Lưu chuyển tiền thuần trong năm (50=20+30+40),50,78.679.550.270,6.473.190.201,,50.0,78679550270.0,6473190201.0
+,,,Tiền và tương đương tiền đầu năm,60,552.339.512.408,544.515.759.978,,60.0,552339512408.0,544515759978.0
+,,,Ảnh hưởng của thay đối tỷ giá hối đoái quy đổi ngoại tệ,61,(408.050.677),1.350.562.229,,61.0,-408050677.0,1350562229.0
+,,,Tiền và tương đương tiền cuối năm (70=50+60+61),70,630.611.012.001,552.339.512.408,,70.0,630611012001.0,552339512408.0

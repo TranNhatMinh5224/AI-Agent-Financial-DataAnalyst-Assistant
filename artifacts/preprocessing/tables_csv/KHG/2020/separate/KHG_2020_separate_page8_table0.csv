@@ -1,0 +1,26 @@
+﻿row_label_raw,row_label_full,col_0,CHỈ TIỀU,Mã,Năm 2020,Năm 2019,numeric__CHỈ TIỀU,numeric__Mã,numeric__Năm 2020,numeric__Năm 2019
+I.,I.,I.,LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG KINH DOANH,LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG KINH DOANH,LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG KINH DOANH,LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG KINH DOANH,,,,
+1.,I. > 1.,1.,Lợi nhuận trước thuế,01,121.209.798.424,13.386.550.055,,1.0,121209798424.0,13386550055.0
+2.,2.,2.,Điều chỉnh cho các khoản,,,,,,,
+,,,- Khấu hao TSCĐ và BĐSDĐT,02,72.730.052,545.689.278,,2.0,72730052.0,545689278.0
+,,,"- Lãi, lỗ từ hoạt động đầu tư",05,(45.594.890.457),(25.272.974.494),,5.0,-45594890457.0,-25272974494.0
+,,,- Chỉ phí lãi vay,06,23.292.895.481,546.202.719,,6.0,23292895481.0,546202719.0
+3.,2. > 3.,3.,Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động,08,98.980.533.500,(10.794.532.442),,8.0,98980533500.0,-10794532442.0
+,,,"- Tăng, giảm các khoản phải thu",09,19.702.859.525,31.515.478.056,,9.0,19702859525.0,31515478056.0
+,,,"- Tăng, giảm các khoản phải trả (Không kể lãi vay phải trả, thuế thu nhập doanh nghiệp phải nộp)",11,116.973.777.930,(39.564.624.745),,11.0,116973777930.0,-39564624745.0
+,,,"- Tăng, giảm chỉ phí trả trước",12,(10.469.721.923),407.408.316,,12.0,-10469721923.0,407408316.0
+,,,- Tiền lãi vay đã trả,14,(29.169.395.304),(546.202.719),,14.0,-29169395304.0,-546202719.0
+,,,- Thuế thu nhập doanh nghiệp đã nộp,15,(4.208.568.067),(6.083.261.525),,15.0,-4208568067.0,-6083261525.0
+,,,Lưu chuyển tiền thuần từ hoạt động kinh doanh,20,191.809.485.661,(25.065.735.059),,20.0,191809485661.0,-25065735059.0
+II.,II.,II.,LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG ĐẦU TƯ,LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG ĐẦU TƯ,LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG ĐẦU TƯ,LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG ĐẦU TƯ,,,,
+1.,II. > 1.,1.,"Tiền chỉ để mua sắm, xây dựng TSCĐ và các TSDH khác",21,-,(86.816.200),,21.0,,-86816200.0
+2.,II. > 2.,2.,"Tiền chỉ cho vay, mua các công cụ nợ của đơn vị khác",23,(800.000.000.000),-,,23.0,-800000000000.0,
+3.,II. > 3.,3.,"Tiền thu lãi cho vay, cổ tức và lợi nhuận được chia",27,28.884.978,1.385.474.494,,27.0,28884978.0,1385474494.0
+,,,Lưu chuyển tiền thuần từ hoạt động đầu tư,30,(799.971.115.022),1.298.658.294,,30.0,-799971115022.0,1298658294.0
+III.,III.,III.,LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH,LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH,LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH,LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH,,,,
+1.,III. > 1.,1.,"Tiền thu từ phát hành cổ phiếu, nhận vốn góp của chủ sở hữu",31,400.000.000.000,-,,31.0,400000000000.0,
+1.,III. > 1.,1.,Tiền thu từ đi vay,33,350.760.000.000,18.200.000.000,,33.0,350760000000.0,18200000000.0
+,,,Lưu chuyển tiền thuần từ hoạt động tài chính,40,750.760.000.000,18.200.000.000,,40.0,750760000000.0,18200000000.0
+,,,Lưu chuyển tiền thuần trong năm,50,142.598.370.639,(5.567.076.765),,50.0,142598370639.0,-5567076765.0
+,,,Tiền và tương đương tiền đầu năm,60,19.291.115.973,24.858.192.738,,60.0,19291115973.0,24858192738.0
+,,,Tiền và tương đương tiền cuối năm,70,161.889.486.612,19.291.115.973,,70.0,161889486612.0,19291115973.0

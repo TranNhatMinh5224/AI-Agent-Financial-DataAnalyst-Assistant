@@ -1,0 +1,16 @@
+﻿row_label_raw,row_label_full,col_0,Quyền sử dụng đất không xác định thời hạn,Phần mềm máy tính,TSCĐ vô hình khác,Cộng,numeric__Quyền sử dụng đất không xác định thời hạn,numeric__Phần mềm máy tính,numeric__TSCĐ vô hình khác,numeric__Cộng
+Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,,,,
+Số tại 01/01/2025,Nguyên giá > Số tại 01/01/2025,Số tại 01/01/2025,18.244,72.018,8.812,99.074,18244.0,72018.0,8812.0,99074.0
+Mua sắm trong năm,Nguyên giá > Mua sắm trong năm,Mua sắm trong năm,176.500,300,1.365,178.165,176500.0,300.0,1365.0,178165.0
+"Thanh lý, nhượng bán","Nguyên giá > Thanh lý, nhượng bán","Thanh lý, nhượng bán",-,-,(30),(30),,,-30.0,-30.0
+Số tại 31/12/2025,Nguyên giá > Số tại 31/12/2025,Số tại 31/12/2025,194.744,72.318,10.147,277.209,194744.0,72318.0,10147.0,277209.0
+Trong đó:,Trong đó:,Trong đó:,Trong đó:,Trong đó:,Trong đó:,Trong đó:,,,,
+Đã khấu hao hết nhưng vẫn còn sử dụng,Trong đó: > Đã khấu hao hết nhưng vẫn còn sử dụng,Đã khấu hao hết nhưng vẫn còn sử dụng,-,21.266,1.150,22.416,,21266.0,1150.0,22416.0
+Giá trị hao mòn,Giá trị hao mòn,Giá trị hao mòn,Giá trị hao mòn,Giá trị hao mòn,Giá trị hao mòn,Giá trị hao mòn,,,,
+Số tại 01/01/2025,Giá trị hao mòn > Số tại 01/01/2025,Số tại 01/01/2025,-,(54.250),(3.157),(57.407),,-54250.0,-3157.0,-57407.0
+Tăng do trích khấu hao trong năm,Giá trị hao mòn > Tăng do trích khấu hao trong năm,Tăng do trích khấu hao trong năm,-,(6.847),(1.918),(8.765),,-6847.0,-1918.0,-8765.0
+"Thanh lý, nhượng bán","Giá trị hao mòn > Thanh lý, nhượng bán","Thanh lý, nhượng bán",-,-,30,30,,,30.0,30.0
+Số tại 31/12/2025,Giá trị hao mòn > Số tại 31/12/2025,Số tại 31/12/2025,-,(61.097),(5.045),(66.142),,-61097.0,-5045.0,-66142.0
+Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,,,,
+Số tại 01/01/2025,Giá trị còn lại > Số tại 01/01/2025,Số tại 01/01/2025,18.244,17.768,5.655,41.667,18244.0,17768.0,5655.0,41667.0
+Số tại 31/12/2025,Giá trị còn lại > Số tại 31/12/2025,Số tại 31/12/2025,194.744,11.221,5.102,211.067,194744.0,11221.0,5102.0,211067.0

@@ -1,0 +1,10 @@
+﻿row_label_raw,row_label_full,Mã số,CHÌ TIÊU,Thuyết minh,Năm nay,Năm trước,numeric__CHÌ TIÊU,numeric__Thuyết minh,numeric__Năm nay,numeric__Năm trước
+,,,III. LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH,,,,,,,
+31,31,31,Tiền thu từ phát hành cổ phiếu,,-,1.652.000.000,,,,1652000000.0
+33,33,33,"Tiền thu từ đi vay, mượn",17,1.389.030.087,4.479.120.930,,17.0,1389030087.0,4479120930.0
+34,34,34,"Tiền trả nợ gốc vay, mượn",17,(3.153.939.102),(420.026.000),,17.0,-3153939102.0,-420026000.0
+40,40,40,Lưu chuyển tiền thuần (sử dụng vào) từ hoạt động tài chính,,(1.764.909.015),5.711.094.930,,,-1764909015.0,5711094930.0
+50,50,50,Lưu chuyển tiền thuần trong năm,,(119.675.808),143.519.752,,,-119675808.0,143519752.0
+60,60,60,Tiền đầu năm,,144.092.732,572.980,,,144092732.0,572980.0
+61,61,61,Ảnh hưởng của thay đổi tỷ giá hối đoái quy đổi ngoại tệ,,(3.391),-,,,-3391.0,
+70,70,70,Tiền cuối năm,4,24.413.533,144.092.732,,4.0,24413533.0,144092732.0

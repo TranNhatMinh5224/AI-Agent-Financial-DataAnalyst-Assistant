@@ -1,0 +1,5 @@
+﻿row_label_raw,row_label_full,STT,Bên nhận đầu tư,Vốn điều lệ của bên nhận đầu tư,Cam kết góp vốn của Công ty,Cam kết góp vốn của Công ty_1,Số vốn thực góp,Số vốn chưa góp,numeric__Bên nhận đầu tư,numeric__Vốn điều lệ của bên nhận đầu tư,numeric__Cam kết góp vốn của Công ty,numeric__Cam kết góp vốn của Công ty_1,numeric__Số vốn thực góp,numeric__Số vốn chưa góp
+STT,STT,STT,Bên nhận đầu tư,Vốn điều lệ của bên nhận đầu tư,Số tiền,%,Số tiền,Số tiền,,,,,,
+,,,,Triệu VND,Triệu VND,,Triệu VND,Triệu VND,,,,,,
+1,STT > 1,1,Công ty VinMedtech,300.000,297.000,"99,00",-,297.000,,300000.0,297000.0,99.0,,297000.0
+,,,TỔNG CỘNG,300.000,297.000,,-,297.000,,300000.0,297000.0,,,297000.0

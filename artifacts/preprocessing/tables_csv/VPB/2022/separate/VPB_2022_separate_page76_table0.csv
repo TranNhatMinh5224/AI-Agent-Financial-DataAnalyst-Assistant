@@ -1,0 +1,17 @@
+﻿row_label_raw,row_label_full,col_0,EUR được quy đổi triệu đồng,USD được quy đổi triệu đồng,Vàng được quy đổi triệu đồng,Các loại ngoại tệ khác quy đổi triệu đồng,Tổng cộng triệu đồng,numeric__EUR được quy đổi triệu đồng,numeric__USD được quy đổi triệu đồng,numeric__Vàng được quy đổi triệu đồng,numeric__Các loại ngoại tệ khác quy đổi triệu đồng,numeric__Tổng cộng triệu đồng
+Tài sản,Tài sản,Tài sản,Tài sản,Tài sản,Tài sản,Tài sản,Tài sản,,,,,
+"Tiền mặt, vàng bạc, đá quý","Tài sản > Tiền mặt, vàng bạc, đá quý","Tiền mặt, vàng bạc, đá quý",35.939,198.038,418,108.586,342.981,35939.0,198038.0,418.0,108586.0,342981.0
+Tiền gửi tại Ngân hàng Nhà nước Việt Nam,Tài sản > Tiền gửi tại Ngân hàng Nhà nước Việt Nam,Tiền gửi tại Ngân hàng Nhà nước Việt Nam,4.257,972.028,-,-,976.285,4257.0,972028.0,,,976285.0
+Tiền gửi và cấp tín dụng cho các TCTD khác – gộp,Tài sản > Tiền gửi và cấp tín dụng cho các TCTD khác – gộp,Tiền gửi và cấp tín dụng cho các TCTD khác – gộp,145.679,2.783.331,-,5.262.100,8.191.110,145679.0,2783331.0,,5262100.0,8191110.0
+Các công cụ tài chính phải sinh và các tài sản tài chính khác,Tài sản > Các công cụ tài chính phải sinh và các tài sản tài chính khác,Các công cụ tài chính phải sinh và các tài sản tài chính khác,350,38.298.409,-,4.869.018,43.167.777,350.0,38298409.0,,4869018.0,43167777.0
+Cho vay khách hàng và mua nợ – gộp,Tài sản > Cho vay khách hàng và mua nợ – gộp,Cho vay khách hàng và mua nợ – gộp,20.819,7.114.416,-,-,7.135.235,20819.0,7114416.0,,,7135235.0
+Tài sản Có khác – gộp,Tài sản > Tài sản Có khác – gộp,Tài sản Có khác – gộp,38.346,8.794.941,-,26.422,8.859.709,38346.0,8794941.0,,26422.0,8859709.0
+Tổng tài sản,Tài sản > Tổng tài sản,Tổng tài sản,245.390,58.161.163,418,10.266.126,68.673.097,245390.0,58161163.0,418.0,10266126.0,68673097.0
+Nợ phải trả,Nợ phải trả,Nợ phải trả,Nợ phải trả,Nợ phải trả,Nợ phải trả,Nợ phải trả,Nợ phải trả,,,,,
+"Tiền gửi và vay từ Chính phủ và Ngân hàng Nhà nước Việt Nam, các TCTC, TCTD khác","Nợ phải trả > Tiền gửi và vay từ Chính phủ và Ngân hàng Nhà nước Việt Nam, các TCTC, TCTD khác","Tiền gửi và vay từ Chính phủ và Ngân hàng Nhà nước Việt Nam, các TCTC, TCTD khác",82.382,51.861.127,-,10.041.329,61.984.838,82382.0,51861127.0,,10041329.0,61984838.0
+Tiền gửi của khách hàng,Nợ phải trả > Tiền gửi của khách hàng,Tiền gửi của khách hàng,172.110,5.643.717,-,213.243,6.029.070,172110.0,5643717.0,,213243.0,6029070.0
+Các khoản nợ khác,Nợ phải trả > Các khoản nợ khác,Các khoản nợ khác,1.939,1.107.627,-,5.219,1.114.785,1939.0,1107627.0,,5219.0,1114785.0
+Tổng nợ phải trả,Nợ phải trả > Tổng nợ phải trả,Tổng nợ phải trả,256.431,58.612.471,-,10.259.791,69.128.693,256431.0,58612471.0,,10259791.0,69128693.0
+Trạng thái tiền tệ nội bảng,Nợ phải trả > Trạng thái tiền tệ nội bảng,Trạng thái tiền tệ nội bảng,(11.041),(451.308),418,6.335,(455.596),-11041.0,-451308.0,418.0,6335.0,-455596.0
+Trạng thái tiền tệ ngoại bảng,Nợ phải trả > Trạng thái tiền tệ ngoại bảng,Trạng thái tiền tệ ngoại bảng,2.537,389.442,-,(20.297),371.682,2537.0,389442.0,,-20297.0,371682.0
+"Trạng thái tiền tệ nội, ngoại bảng","Nợ phải trả > Trạng thái tiền tệ nội, ngoại bảng","Trạng thái tiền tệ nội, ngoại bảng",(8.504),(61.866),418,(13.962),(83.914),-8504.0,-61866.0,418.0,-13962.0,-83914.0

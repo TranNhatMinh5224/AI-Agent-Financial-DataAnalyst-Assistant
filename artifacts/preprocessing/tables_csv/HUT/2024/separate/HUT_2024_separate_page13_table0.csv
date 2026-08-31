@@ -1,0 +1,13 @@
+﻿row_label_raw,row_label_full,CHỈ TIÊU,CHỈ TIÊU_1,Mã số,Thuyết minh,Năm nay,Năm trước,numeric__CHỈ TIÊU_1,numeric__Mã số,numeric__Thuyết minh,numeric__Năm nay,numeric__Năm trước
+III. Lưu chuyển tiền từ hoạt động tài chính,III. Lưu chuyển tiền từ hoạt động tài chính,III. Lưu chuyển tiền từ hoạt động tài chính,III. Lưu chuyển tiền từ hoạt động tài chính,III. Lưu chuyển tiền từ hoạt động tài chính,III. Lưu chuyển tiền từ hoạt động tài chính,III. Lưu chuyển tiền từ hoạt động tài chính,III. Lưu chuyển tiền từ hoạt động tài chính,,,,,
+1.,III. Lưu chuyển tiền từ hoạt động tài chính > 1.,1.,"Tiền thu từ phát hành cổ phiếu, nhận vốn góp của chủ sở hữu",31,,330.200.500.000,-,,31.0,,330200500000.0,
+2.,III. Lưu chuyển tiền từ hoạt động tài chính > 2.,2.,"Tiền trả lại vốn góp cho các chủ sở hữu, mua lại cổ phiếu của doanh nghiệp đã phát hành",32,,(970.200.000.000),-,,32.0,,-970200000000.0,
+3.,III. Lưu chuyển tiền từ hoạt động tài chính > 3.,3.,Tiền thu từ đi vay,33,VII.1,21.169.562.271.025,5.872.525.251.834,,33.0,,21169562271025.0,5872525251834.0
+4.,III. Lưu chuyển tiền từ hoạt động tài chính > 4.,4.,Tiền trả nợ gốc vay,34,VII.2,(20.090.767.668.493),(6.804.387.942.458),,34.0,,-20090767668493.0,-6804387942458.0
+5.,III. Lưu chuyển tiền từ hoạt động tài chính > 5.,5.,Tiền trả nợ gốc thuê tài chính,35,,(20.163.817.610),-,,35.0,,-20163817610.0,
+6.,III. Lưu chuyển tiền từ hoạt động tài chính > 6.,6.,"Cổ tức, lợi nhuận đã trả cho chủ sở hữu",36,,(131.098.429.530),-,,36.0,,-131098429530.0,
+,,,Lưu chuyển tiền thuần từ hoạt động tài chính,40,,287.532.855.392,(931.862.690.624),,40.0,,287532855392.0,-931862690624.0
+,,,Lưu chuyển tiền thuần trong năm,50,,1.174.524.326.293,748.294.632.988,,50.0,,1174524326293.0,748294632988.0
+,,,Tiền và tương đương tiền đầu năm,60,V.1,1.701.723.734.047,953.430.125.623,,60.0,,1701723734047.0,953430125623.0
+,,,Ảnh hưởng của thay đổi tỷ giá hối đoái quy đổi ngoại tệ,61,,(89.343.566),(1.024.564),,61.0,,-89343566.0,-1024564.0
+,,,Tiền và tương đương tiền cuối năm,70,V.1,2.876.158.716.774,1.701.723.734.047,,70.0,,2876158716774.0,1701723734047.0

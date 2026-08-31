@@ -1,0 +1,29 @@
+﻿row_label_raw,row_label_full,B - NỘ PHẢI TRẢ VÀ NGUỒN VỐN CHỦ SỞ HỮU,Thuyết minh,Số cuối năm,Số đầu năm,numeric__Thuyết minh,numeric__Số cuối năm,numeric__Số đầu năm
+I. Các khoản nợ Chính phủ và Ngân hàng Nhà nước,I. Các khoản nợ Chính phủ và Ngân hàng Nhà nước,I. Các khoản nợ Chính phủ và Ngân hàng Nhà nước,,-,255.545,,,255545.0
+II. Tiền gửi và vay các TCTD khác,II. Tiền gửi và vay các TCTD khác,II. Tiền gửi và vay các TCTD khác,V.15,12.280.937,7.992.502,,12280937.0,7992502.0
+1. Tiền gửi của các TCTD khác,1. Tiền gửi của các TCTD khác,1. Tiền gửi của các TCTD khác,V.15,11.392.828,7.829.594,,11392828.0,7829594.0
+2. Vay các TCTD khác,2. Vay các TCTD khác,2. Vay các TCTD khác,V.15,888.109,162.908,,888109.0,162908.0
+III. Tiền gửi của khách hàng,III. Tiền gửi của khách hàng,III. Tiền gửi của khách hàng,V.16,32.920.772,29.206.157,,32920772.0,29206157.0
+IV. Công cụ tài chính phải sinh và các khoản nợ tài chính khác,IV. Công cụ tài chính phải sinh và các khoản nợ tài chính khác,IV. Công cụ tài chính phải sinh và các khoản nợ tài chính khác,,-,-,,,
+"V. Vốn tài trợ, ủy thác đầu tư, cho vay TCTD chịu rủi ro","V. Vốn tài trợ, ủy thác đầu tư, cho vay TCTD chịu rủi ro","V. Vốn tài trợ, ủy thác đầu tư, cho vay TCTD chịu rủi ro",,-,-,,,
+VI. Phát hành giấy tờ có giá,"V. Vốn tài trợ, ủy thác đầu tư, cho vay TCTD chịu rủi ro > VI. Phát hành giấy tờ có giá",VI. Phát hành giấy tờ có giá,,1.200.000,300.000,,1200000.0,300000.0
+VII. Các khoản nợ khác,"V. Vốn tài trợ, ủy thác đầu tư, cho vay TCTD chịu rủi ro > VII. Các khoản nợ khác",VII. Các khoản nợ khác,,908.558,805.452,,908558.0,805452.0
+"1. Các khoản lãi, phí phải trả","V. Vốn tài trợ, ủy thác đầu tư, cho vay TCTD chịu rủi ro > 1. Các khoản lãi, phí phải trả","1. Các khoản lãi, phí phải trả",V.17,687.964,548.930,,687964.0,548930.0
+2. Thuế TNDN hoãn lại phải trả,2. Thuế TNDN hoãn lại phải trả,2. Thuế TNDN hoãn lại phải trả,,-,-,,,
+3. Các khoản phải trả và công nợ khác,2. Thuế TNDN hoãn lại phải trả > 3. Các khoản phải trả và công nợ khác,3. Các khoản phải trả và công nợ khác,V.18,220.594,256.522,,220594.0,256522.0
+4. Dự phòng rủi ro khác (dự phòng cho công nợ tiềm ẩn),4. Dự phòng rủi ro khác (dự phòng cho công nợ tiềm ẩn),4. Dự phòng rủi ro khác (dự phòng cho công nợ tiềm ẩn),,-,-,,,
+Tổng nợ phải trả,4. Dự phòng rủi ro khác (dự phòng cho công nợ tiềm ẩn) > Tổng nợ phải trả,Tổng nợ phải trả,,47.310.267,38.559.656,,47310267.0,38559656.0
+III. Vốn và các quỹ,4. Dự phòng rủi ro khác (dự phòng cho công nợ tiềm ẩn) > III. Vốn và các quỹ,III. Vốn và các quỹ,V.19,3.791.854,3.750.147,,3791854.0,3750147.0
+1. Vốn của TCTD,4. Dự phòng rủi ro khác (dự phòng cho công nợ tiềm ẩn) > 1. Vốn của TCTD,1. Vốn của TCTD,,3.202.758,3.202.758,,3202758.0,3202758.0
+a. Vốn điều lệ,4. Dự phòng rủi ro khác (dự phòng cho công nợ tiềm ẩn) > a. Vốn điều lệ,a. Vốn điều lệ,V.19,3.236.958,3.236.958,,3236958.0,3236958.0
+b. Vốn đầu tư XDCB,b. Vốn đầu tư XDCB,b. Vốn đầu tư XDCB,,-,-,,,
+c. Thăng dư vốn cổ phần,c. Thăng dư vốn cổ phần,c. Thăng dư vốn cổ phần,,-,-,,,
+d. Cổ phiếu quỹ,c. Thăng dư vốn cổ phần > d. Cổ phiếu quỹ,d. Cổ phiếu quỹ,V.19,(34.200),(34.200),,-34200.0,-34200.0
+e. Cổ phiếu quỹ,e. Cổ phiếu quỹ,e. Cổ phiếu quỹ,,-,-,,,
+f. Vốn khác,f. Vốn khác,f. Vốn khác,,-,-,,,
+2. Quỹ của TCTD,f. Vốn khác > 2. Quỹ của TCTD,2. Quỹ của TCTD,"V.19, 20",261.423,226.639,,261423.0,226639.0
+3. Chênh lệch tỷ giá hối đoái,3. Chênh lệch tỷ giá hối đoái,3. Chênh lệch tỷ giá hối đoái,,-,-,,,
+4. Chênh lệch đánh giá lại tài sản,4. Chênh lệch đánh giá lại tài sản,4. Chênh lệch đánh giá lại tài sản,,-,-,,,
+5. Lợi nhuận chưa phân phối/Lỗ lũy kế,4. Chênh lệch đánh giá lại tài sản > 5. Lợi nhuận chưa phân phối/Lỗ lũy kế,5. Lợi nhuận chưa phân phối/Lỗ lũy kế,V.19,327.673,320.750,,327673.0,320750.0
+6. Lợi ích của cổ đông thiểu số,6. Lợi ích của cổ đông thiểu số,6. Lợi ích của cổ đông thiểu số,,-,-,,,
+TỔNG NỘ PHẢI TRẢ VÀ VỐN CHỦ SỞ HỮU,6. Lợi ích của cổ đông thiểu số > TỔNG NỘ PHẢI TRẢ VÀ VỐN CHỦ SỞ HỮU,TỔNG NỘ PHẢI TRẢ VÀ VỐN CHỦ SỞ HỮU,,51.102.121,42.309.803,,51102121.0,42309803.0

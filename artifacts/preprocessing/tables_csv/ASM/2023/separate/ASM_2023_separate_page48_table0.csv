@@ -1,0 +1,13 @@
+﻿row_label_raw,row_label_full,a) Phải nộp,Cuối năm,Số phải nộp trong năm,Số đã thực nộp trong năm,Đầu năm,numeric__Cuối năm,numeric__Số phải nộp trong năm,numeric__Số đã thực nộp trong năm,numeric__Đầu năm
+Thuế GTGT,Thuế GTGT,Thuế GTGT,39.841.265.072,40.284.207.183,35.992.435.978,35.549.493.867,39841265072.0,40284207183.0,35992435978.0,35549493867.0
+Thuế GTGT hàng nhập khẩu,Thuế GTGT hàng nhập khẩu,Thuế GTGT hàng nhập khẩu,,,,,,,,
+Thuế thu nhập doanh nghiệp,Thuế GTGT hàng nhập khẩu > Thuế thu nhập doanh nghiệp,Thuế thu nhập doanh nghiệp,10.424.211.848,11.639.704.161,48.713.410.923,47.497.918.610,10424211848.0,11639704161.0,48713410923.0,47497918610.0
+Thuế thu nhập cá nhân,Thuế GTGT hàng nhập khẩu > Thuế thu nhập cá nhân,Thuế thu nhập cá nhân,2.212.664.660,8.293.274.324,39.808.859.129,33.728.249.465,2212664660.0,8293274324.0,39808859129.0,33728249465.0
+Thuế nhập khẩu,Thuế nhập khẩu,Thuế nhập khẩu,,,,,,,,
+"Thuế nhà đất, thuê đất...","Thuế nhập khẩu > Thuế nhà đất, thuê đất...","Thuế nhà đất, thuê đất...",417.581.509.428,769.131.417.445,351.549.908.017,,417581509428.0,769131417445.0,351549908017.0,
+"Các khoản phí, lệ phí, thuế khác","Thuế nhập khẩu > Các khoản phí, lệ phí, thuế khác","Các khoản phí, lệ phí, thuế khác",,677.660.489,677.660.489,,,677660489.0,677660489.0,
+Cộng,Thuế nhập khẩu > Cộng,Cộng,470.059.651.008,830.026.263.602,476.742.274.536,116.775.661.942,470059651008.0,830026263602.0,476742274536.0,116775661942.0
+b) Phải thu,b) Phải thu,b) Phải thu,Cuối năm,Số phải thu trong năm,Số đã thực thu trong năm,Đầu năm,,,,
+Thuế thu nhập cá nhân,b) Phải thu > Thuế thu nhập cá nhân,Thuế thu nhập cá nhân,2.156.921.165,2.156.921.165,,,2156921165.0,2156921165.0,,
+"Các khoản phí, lệ phí, thuế khác","Các khoản phí, lệ phí, thuế khác","Các khoản phí, lệ phí, thuế khác",,,,,,,,
+Cộng,"Các khoản phí, lệ phí, thuế khác > Cộng",Cộng,2.156.921.165,2.156.921.165,,,2156921165.0,2156921165.0,,

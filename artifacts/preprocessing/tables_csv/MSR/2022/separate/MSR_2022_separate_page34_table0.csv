@@ -1,0 +1,8 @@
+﻿row_label_raw,row_label_full,col_0,Code,Note,2022 VND’000,2021 VND’000,numeric__Code,numeric__Note,numeric__2022 VND’000,numeric__2021 VND’000
+Financial income,Financial income,Financial income,21,13,"281,533,488","280,995,953",21.0,13.0,,
+Financial expenses,Financial expenses,Financial expenses,22,14,"272,732,572","272,008,141",22.0,14.0,,
+General and administration expenses,General and administration expenses,General and administration expenses,26,,"7,911,481","8,148,738",26.0,,,
+Net operating profit (30 = 21 - 22 - 26),Net operating profit (30 = 21 - 22 - 26),Net operating profit (30 = 21 - 22 - 26),30,,"889,435","839,074",30.0,,889.435,839.074
+Accounting profit before tax (50 = 30),Accounting profit before tax (50 = 30),Accounting profit before tax (50 = 30),50,,"889,435","839,074",50.0,,889.435,839.074
+Income tax expense - current,Income tax expense - current,Income tax expense - current,51,15,"178,259","328,916",51.0,15.0,178.259,328.916
+Net profit after tax (60 = 50 - 51),Net profit after tax (60 = 50 - 51),Net profit after tax (60 = 50 - 51),60,,"711,176","510,158",60.0,,711.176,510.158

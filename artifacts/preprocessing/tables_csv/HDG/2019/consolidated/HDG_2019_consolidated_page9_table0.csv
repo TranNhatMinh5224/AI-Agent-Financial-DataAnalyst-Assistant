@@ -1,0 +1,21 @@
+﻿row_label_raw,row_label_full,col_0,Mã số,Thuyết minh,31/12/2019 VND,1/1/2019 VND,numeric__Mã số,numeric__Thuyết minh,numeric__31/12/2019 VND,numeric__1/1/2019 VND
+NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,,,,
+NỘ PHẢI TRẢ (300 = 310 + 330),NGUỒN VỐN > NỘ PHẢI TRẢ (300 = 310 + 330),NỘ PHẢI TRẢ (300 = 310 + 330),300,,10.585.949.554.959,8.395.894.700.109,300.0,,10585949554959.0,8395894700109.0
+Nợ ngắn hạn,NGUỒN VỐN > Nợ ngắn hạn,Nợ ngắn hạn,310,,5.876.128.770.388,3.821.462.131.357,310.0,,5876128770388.0,3821462131357.0
+Phải trả người bán ngắn hạn,NGUỒN VỐN > Phải trả người bán ngắn hạn,Phải trả người bán ngắn hạn,311,21,710.318.520.808,485.241.927.985,311.0,21.0,710318520808.0,485241927985.0
+Người mua trả tiền trước ngắn hạn,NGUỒN VỐN > Người mua trả tiền trước ngắn hạn,Người mua trả tiền trước ngắn hạn,312,22(a),3.014.341.529.152,1.934.536.590.866,312.0,,3014341529152.0,1934536590866.0
+Thuế và các khoản khác phải nộp,Thuế và các khoản khác phải nộp,Thuế và các khoản khác phải nộp,,,,,,,,
+Nhà nước,Thuế và các khoản khác phải nộp > Nhà nước,Nhà nước,313,23,148.588.976.032,218.933.261.422,313.0,23.0,148588976032.0,218933261422.0
+Phải trả người lao động,Thuế và các khoản khác phải nộp > Phải trả người lao động,Phải trả người lao động,314,,53.047.582.581,40.944.127.077,314.0,,53047582581.0,40944127077.0
+Chi phí phải trả ngắn hạn,Thuế và các khoản khác phải nộp > Chi phí phải trả ngắn hạn,Chi phí phải trả ngắn hạn,315,24,441.416.598.027,374.734.674.086,315.0,24.0,441416598027.0,374734674086.0
+Doanh thu chưa thực hiện ngắn hạn,Thuế và các khoản khác phải nộp > Doanh thu chưa thực hiện ngắn hạn,Doanh thu chưa thực hiện ngắn hạn,318,,775.622.965,2.284.678.171,318.0,,775622965.0,2284678171.0
+Phải trả ngắn hạn khác,Thuế và các khoản khác phải nộp > Phải trả ngắn hạn khác,Phải trả ngắn hạn khác,319,25,283.900.974.186,171.761.905.216,319.0,25.0,283900974186.0,171761905216.0
+Vay ngắn hạn,Thuế và các khoản khác phải nộp > Vay ngắn hạn,Vay ngắn hạn,320,26(a),1.183.432.771.633,583.034.929.002,320.0,,1183432771633.0,583034929002.0
+Dự phòng phải trả ngắn hạn,Thuế và các khoản khác phải nộp > Dự phòng phải trả ngắn hạn,Dự phòng phải trả ngắn hạn,321,,10.902.945.445,651.856.494,321.0,,10902945445.0,651856494.0
+"Quỹ khen thưởng, phúc lợi","Thuế và các khoản khác phải nộp > Quỹ khen thưởng, phúc lợi","Quỹ khen thưởng, phúc lợi",322,,29.403.249.559,9.338.181.038,322.0,,29403249559.0,9338181038.0
+Nợ dài hạn,Thuế và các khoản khác phải nộp > Nợ dài hạn,Nợ dài hạn,330,,4.709.820.784.571,4.574.432.568.752,330.0,,4709820784571.0,4574432568752.0
+Người mua trả tiền trước dài hạn,Thuế và các khoản khác phải nộp > Người mua trả tiền trước dài hạn,Người mua trả tiền trước dài hạn,332,22(b),-,2.475.869.890.642,332.0,,,2475869890642.0
+Phải trả dài hạn khác,Thuế và các khoản khác phải nộp > Phải trả dài hạn khác,Phải trả dài hạn khác,337,,21.820.338.125,29.233.867.076,337.0,,21820338125.0,29233867076.0
+Vay dài hạn,Thuế và các khoản khác phải nộp > Vay dài hạn,Vay dài hạn,338,26(b),4.637.146.924.164,2.058.921.781.656,338.0,,4637146924164.0,2058921781656.0
+Thuế thu nhập hoãn lại phải trả,Thuế và các khoản khác phải nộp > Thuế thu nhập hoãn lại phải trả,Thuế thu nhập hoãn lại phải trả,341,19(a),50.138.911.800,6.138.911.800,341.0,,50138911800.0,6138911800.0
+Dự phòng phải trả dài hạn,Thuế và các khoản khác phải nộp > Dự phòng phải trả dài hạn,Dự phòng phải trả dài hạn,342,,714.610.482,4.268.117.578,342.0,,714610482.0,4268117578.0

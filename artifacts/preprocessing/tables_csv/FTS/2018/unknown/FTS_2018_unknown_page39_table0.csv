@@ -1,0 +1,4 @@
+﻿row_label_raw,row_label_full,STT,Danh mục các khoản đầu tư,Số lượng bán,Giá bán,Tổng giá trị bán,Giá vốn bình quân gia quyền tính đến cuối ngày giao dịch,"Lãi, lỗ bán chứng khoán kỳ này","Lãi, lỗ bán chứng khoán lũy kế đến kỳ này","Lãi, lỗ bán chứng khoán lũy kế đến kỳ trước",numeric__Danh mục các khoản đầu tư,numeric__Số lượng bán,numeric__Giá bán,numeric__Tổng giá trị bán,numeric__Giá vốn bình quân gia quyền tính đến cuối ngày giao dịch,"numeric__Lãi, lỗ bán chứng khoán kỳ này","numeric__Lãi, lỗ bán chứng khoán lũy kế đến kỳ này","numeric__Lãi, lỗ bán chứng khoán lũy kế đến kỳ trước"
+A,A,A,B,1,2,3=1*2,4,5=3-4,6,7,,1.0,2.0,,4.0,,6.0,7.0
+,,,Cổ phiếu lẻ,6.606.084,,15.296.116.648,15.298.710.318,(2.593.670),(2.593.670),395.074.142,,6606084.0,,15296116648.0,15298710318.0,-2593670.0,-2593670.0,395074142.0
+,,,Tổng cộng,6.606.084,,15.296.116.648,15.298.710.318,(2.593.670),(2.593.670),395.074.142,,6606084.0,,15296116648.0,15298710318.0,-2593670.0,-2593670.0,395074142.0

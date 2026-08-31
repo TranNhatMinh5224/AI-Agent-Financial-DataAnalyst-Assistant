@@ -1,0 +1,14 @@
+﻿row_label_raw,row_label_full,col_0,Số đầu năm,Tăng trong năm,Giảm trong năm,VND Số cuối năm,numeric__Số đầu năm,numeric__Tăng trong năm,numeric__Giảm trong năm,numeric__VND Số cuối năm
+Phải thu,Phải thu,Phải thu,Phải thu,Phải thu,Phải thu,Phải thu,,,,
+Thuế giá trị gia tăng được khấu trừ,Phải thu > Thuế giá trị gia tăng được khấu trừ,Thuế giá trị gia tăng được khấu trừ,13.170.833.545,14.648.869.570,(15.648.280.899),12.171.422.216,13170833545.0,14648869570.0,-15648280899.0,12171422216.0
+Thuế thu nhập doanh nghiệp,Phải thu > Thuế thu nhập doanh nghiệp,Thuế thu nhập doanh nghiệp,3.358.898.089,-,(97.929.542),3.260.968.547,3358898089.0,,-97929542.0,3260968547.0
+Thuế giá trị gia tăng,Phải thu > Thuế giá trị gia tăng,Thuế giá trị gia tăng,-,8.579.204.407,(5.892.705.886),2.686.498.521,,8579204407.0,-5892705886.0,2686498521.0
+Thuế thu nhập cá nhân,Phải thu > Thuế thu nhập cá nhân,Thuế thu nhập cá nhân,1.907.413,-,-,1.907.413,1907413.0,,,1907413.0
+Khác,Phải thu > Khác,Khác,-,271.886.073,(133.341.962),138.544.111,,271886073.0,-133341962.0,138544111.0
+TỔNG CỘNG,Phải thu > TỔNG CỘNG,TỔNG CỘNG,16.531.639.047,23.499.960.050,(21.772.258.289),18.259.340.808,16531639047.0,23499960050.0,-21772258289.0,18259340808.0
+Phải trả,Phải trả,Phải trả,Phải trả,Phải trả,Phải trả,Phải trả,,,,
+Thuế thu nhập doanh nghiệp,Phải trả > Thuế thu nhập doanh nghiệp,Thuế thu nhập doanh nghiệp,55.627.060.071,17.376.561.854,(55.293.235.402),17.710.386.523,55627060071.0,17376561854.0,-55293235402.0,17710386523.0
+Thuế giá trị gia tăng,Phải trả > Thuế giá trị gia tăng,Thuế giá trị gia tăng,4.133.473.414,21.473.747.603,(22.020.475.789),3.586.745.228,4133473414.0,21473747603.0,-22020475789.0,3586745228.0
+Thuế thu nhập cá nhân,Phải trả > Thuế thu nhập cá nhân,Thuế thu nhập cá nhân,2.556.232.476,66.961.129.480,(67.676.844.938),1.840.517.018,2556232476.0,66961129480.0,-67676844938.0,1840517018.0
+Thuế khác,Phải trả > Thuế khác,Thuế khác,7.023.219,9.184.414.036,(8.714.634.853),476.802.402,7023219.0,9184414036.0,-8714634853.0,476802402.0
+TỔNG CỘNG,Phải trả > TỔNG CỘNG,TỔNG CỘNG,62.323.789.180,114.995.852.973,(153.705.190.982),23.614.451.171,62323789180.0,114995852973.0,-153705190982.0,23614451171.0

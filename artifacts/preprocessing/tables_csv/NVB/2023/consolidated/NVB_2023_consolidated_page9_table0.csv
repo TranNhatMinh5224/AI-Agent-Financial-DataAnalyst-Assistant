@@ -1,0 +1,25 @@
+﻿row_label_raw,row_label_full,CHỈ TIÊU,Thuyết minh,31/12/2023,01/01/2023,numeric__Thuyết minh,numeric__31/12/2023,numeric__01/01/2023
+A. TÀI SẢN,A. TÀI SẢN,A. TÀI SẢN,A. TÀI SẢN,A. TÀI SẢN,A. TÀI SẢN,,,
+"I. Tiền mặt, vàng bạc, đá quý","A. TÀI SẢN > I. Tiền mặt, vàng bạc, đá quý","I. Tiền mặt, vàng bạc, đá quý",V.01,248.513,384.031,,248513.0,384031.0
+II. Tiền gửi tại Ngân hàng nhà nước,A. TÀI SẢN > II. Tiền gửi tại Ngân hàng nhà nước,II. Tiền gửi tại Ngân hàng nhà nước,V.02,2.287.057,3.749.729,,2287057.0,3749729.0
+III. Tiền gửi và cho vay các TCTD khác,A. TÀI SẢN > III. Tiền gửi và cho vay các TCTD khác,III. Tiền gửi và cho vay các TCTD khác,V.03,8.460.903,11.658.654,,8460903.0,11658654.0
+1. Tiền gửi tại các TCTD khác,A. TÀI SẢN > 1. Tiền gửi tại các TCTD khác,1. Tiền gửi tại các TCTD khác,,8.460.903,11.658 654,,8460903.0,
+2 Cho vay các TCTD khác,2 Cho vay các TCTD khác,2 Cho vay các TCTD khác,,-,-,,,
+3 Dự phòng rút 10,3 Dự phòng rút 10,3 Dự phòng rút 10,,-,-,,,
+IV. Chủng khoán kinh doanh,IV. Chủng khoán kinh doanh,IV. Chủng khoán kinh doanh,,-,-,,,
+,,,,-,-,,,
+V. Các công cụ tài chính phải sinh và các tài sản tài chính khác,IV. Chủng khoán kinh doanh > V. Các công cụ tài chính phải sinh và các tài sản tài chính khác,V. Các công cụ tài chính phải sinh và các tài sản tài chính khác,,-,223.373,,,223373.0
+VI. Cho vay khách hàng,IV. Chủng khoán kinh doanh > VI. Cho vay khách hàng,VI. Cho vay khách hàng,,54.266.164,46.762.611,,54266164.0,46762611.0
+1 Cho vay khách hàng,1 Cho vay khách hàng,1 Cho vay khách hàng,V.04.1,55 344 259,47 722 273,,,
+2 Dư phòng rút 10 cho vay khách hàng,1 Cho vay khách hàng > 2 Dư phòng rút 10 cho vay khách hàng,2 Dư phòng rút 10 cho vay khách hàng,V.04.2,(1.078.095),(959 662),,-1078095.0,
+VII. Hoạt động mua nợ,VII. Hoạt động mua nợ,VII. Hoạt động mua nợ,,-,-,,,
+VIII. Chủng khoán đầu tư,VII. Hoạt động mua nợ > VIII. Chủng khoán đầu tư,VIII. Chủng khoán đầu tư,V.05,13.111.761,11.452.483,,13111761.0,11452483.0
+1 Chung khoán đầu tư sẵn sàng dẻ bán,VII. Hoạt động mua nợ > 1 Chung khoán đầu tư sẵn sàng dẻ bán,1 Chung khoán đầu tư sẵn sàng dẻ bán,,7.736.856,5 934 530,,7736856.0,
+2 Chung khoán đầu tư giữ đến ngày đáo han,2 Chung khoán đầu tư giữ đến ngày đáo han,2 Chung khoán đầu tư giữ đến ngày đáo han,,5 652 828,5.949 596,,,
+3 Dư phòng rút 10 chứng khoán đầu tư,3 Dư phòng rút 10 chứng khoán đầu tư,3 Dư phòng rút 10 chứng khoán đầu tư,,(277 923),(431 643),,,
+"IX. Góp vốn, đầu tu dài hạn","3 Dư phòng rút 10 chứng khoán đầu tư > IX. Góp vốn, đầu tu dài hạn","IX. Góp vốn, đầu tu dài hạn",V.06,654.682,654.682,,654682.0,654682.0
+1 Đầu tư vào công ty con,1 Đầu tư vào công ty con,1 Đầu tư vào công ty con,,-,-,,,
+2 Vốn góp liên doanh,2 Vốn góp liên doanh,2 Vốn góp liên doanh,,-,-,,,
+3 Đầu tư vào công ty liên kết,3 Đầu tư vào công ty liên kết,3 Đầu tư vào công ty liên kết,,-,-,,,
+4 Đầu tư dài hạn khác,4 Đầu tư dài hạn khác,4 Đầu tư dài hạn khác,,719 600,719 600,,,
+5 Dư phòng giảm giá đầu tư dài hạn,4 Đầu tư dài hạn khác > 5 Dư phòng giảm giá đầu tư dài hạn,5 Dư phòng giảm giá đầu tư dài hạn,,(64.918),(64 918),,-64918.0,

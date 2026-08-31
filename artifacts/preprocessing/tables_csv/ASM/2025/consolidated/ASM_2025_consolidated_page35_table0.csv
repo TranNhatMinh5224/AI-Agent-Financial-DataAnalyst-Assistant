@@ -1,0 +1,20 @@
+﻿row_label_raw,row_label_full,CÁC KHOĂN ĐẦU TƯ TÀI CHÍNH,CÁC KHOĂN ĐẦU TƯ TÀI CHÍNH_1,CÁC KHOĂN ĐẦU TƯ TÀI CHÍNH_2,CÁC KHOĂN ĐẦU TƯ TÀI CHÍNH_3,CÁC KHOĂN ĐẦU TƯ TÀI CHÍNH_4,CÁC KHOĂN ĐẦU TƯ TÀI CHÍNH_5,CÁC KHOĂN ĐẦU TƯ TÀI CHÍNH_6,numeric__CÁC KHOĂN ĐẦU TƯ TÀI CHÍNH_1,numeric__CÁC KHOĂN ĐẦU TƯ TÀI CHÍNH_2,numeric__CÁC KHOĂN ĐẦU TƯ TÀI CHÍNH_3,numeric__CÁC KHOĂN ĐẦU TƯ TÀI CHÍNH_4,numeric__CÁC KHOĂN ĐẦU TƯ TÀI CHÍNH_5,numeric__CÁC KHOĂN ĐẦU TƯ TÀI CHÍNH_6
+,,,Số cuối năm,Số cuối năm,Số cuối năm,Số đầu năm,Số đầu năm,Số đầu năm,,,,,,
+,,,Giá gốc,Giá hợp lý,Dự phòng,Giá gốc,Giá hợp lý,Dự phòng,,,,,,
+a) Chứng khoán kinh doanh,a) Chứng khoán kinh doanh,a) Chứng khoán kinh doanh,4.130.442.633,4.439.249.600,(585.663.043),6.230.107.978,6.129.668.300,(754.621.703),4130442633.0,4439249600.0,-585663043.0,6230107978.0,6129668300.0,-754621703.0
+Tổng giá trị cổ phiếu,Tổng giá trị cổ phiếu,Tổng giá trị cổ phiếu,4.130.442.633,4.439.249.600,(585.663.043),6.230.107.978,6.129.668.300,(754.621.703),4130442633.0,4439249600.0,-585663043.0,6230107978.0,6129668300.0,-754621703.0
+Cộng,Cộng,Cộng,4.130.442.633,4.439.249.600,(585.663.043),6.230.107.978,6.129.668.300,(754.621.703),4130442633.0,4439249600.0,-585663043.0,6230107978.0,6129668300.0,-754621703.0
+b) Đầu tư nằm giữ đến ngày đáo hạn,b) Đầu tư nằm giữ đến ngày đáo hạn,b) Đầu tư nằm giữ đến ngày đáo hạn,Số cuối năm,Số cuối năm,,Số đầu năm,Số đầu năm,,,,,,,
+b) Đầu tư nằm giữ đến ngày đáo hạn,b) Đầu tư nằm giữ đến ngày đáo hạn,b) Đầu tư nằm giữ đến ngày đáo hạn,Giá gốc,Giá trị ghi số,,Giá gốc,Giá trị ghi số,,,,,,,
+b1) Ngân hạn,b) Đầu tư nằm giữ đến ngày đáo hạn > b1) Ngân hạn,b1) Ngân hạn,2.441.731.331.268,2.441.731.331.268,,2.059.404.951.031,2.059.404.951.031,,2441731331268.0,2441731331268.0,,2059404951031.0,2059404951031.0,
+- Tiền gửi có kỳ hạn,b) Đầu tư nằm giữ đến ngày đáo hạn > - Tiền gửi có kỳ hạn,- Tiền gửi có kỳ hạn,2.441.731.331.268,2.441.731.331.268,,2.059.404.951.031,2.059.404.951.031,,2441731331268.0,2441731331268.0,,2059404951031.0,2059404951031.0,
+b2) Dải hạn,b) Đầu tư nằm giữ đến ngày đáo hạn > b2) Dải hạn,b2) Dải hạn,30.000.000.000,30.000.000.000,,33.310.000.000,33.310.000.000,,30000000000.0,30000000000.0,,33310000000.0,33310000000.0,
+- Trái phiếu (*),b) Đầu tư nằm giữ đến ngày đáo hạn > - Trái phiếu (*),- Trái phiếu (*),30.000.000.000,30.000.000.000,,33.310.000.000,33.310.000.000,,30000000000.0,30000000000.0,,33310000000.0,33310000000.0,
+Cộng,b) Đầu tư nằm giữ đến ngày đáo hạn > Cộng,Cộng,2.471.731.331.268,2.471.731.331.268,,2.092.714.951.031,2.092.714.951.031,,2471731331268.0,2471731331268.0,,2092714951031.0,2092714951031.0,
+(*) Tên tổ chức phát hành trái phiếu,(*) Tên tổ chức phát hành trái phiếu,(*) Tên tổ chức phát hành trái phiếu,Số lượng,Mệnh giá,Tổng trị giá,Lãi suất trả sau,Ngày phát hành,Ngày đáo hạn,,,,,,
+Ngân Hàng TMCP Công Thương Việt Nam,(*) Tên tổ chức phát hành trái phiếu > Ngân Hàng TMCP Công Thương Việt Nam,Ngân Hàng TMCP Công Thương Việt Nam,300.000,100.000,30.000.000.000,"Lãi suất tham chiếu + 1,3%/năm",20/07/2023,20/07/2033,300000.0,100000.0,30000000000.0,,,
+c) Đầu tư vào đơn vị khác,c) Đầu tư vào đơn vị khác,c) Đầu tư vào đơn vị khác,,Số cuối năm,,,Số đầu năm,,,,,,,
+c) Đầu tư vào đơn vị khác,c) Đầu tư vào đơn vị khác,c) Đầu tư vào đơn vị khác,Giá gốc,Giá hợp lý,Dự phòng,Giá gốc,Giá hợp lý,Dự phòng,,,,,,
+c) Đầu tư vào đơn vị khác,c) Đầu tư vào đơn vị khác > c) Đầu tư vào đơn vị khác,c) Đầu tư vào đơn vị khác,2.000.000.000,,(2.000.000.000),2.000.000.000,,(2.000.000.000),2000000000.0,,-2000000000.0,2000000000.0,,-2000000000.0
++ Công ty CP Bóng Đá Đồng Tháp (**),c) Đầu tư vào đơn vị khác > + Công ty CP Bóng Đá Đồng Tháp (**),+ Công ty CP Bóng Đá Đồng Tháp (**),2.000.000.000,,(2.000.000.000),2.000.000.000,,(2.000.000.000),2000000000.0,,-2000000000.0,2000000000.0,,-2000000000.0
+Cộng,c) Đầu tư vào đơn vị khác > Cộng,Cộng,2.000.000.000,,(2.000.000.000),2.000.000.000,,(2.000.000.000),2000000000.0,,-2000000000.0,2000000000.0,,-2000000000.0

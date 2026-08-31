@@ -1,0 +1,26 @@
+﻿row_label_raw,row_label_full,col_0,Mã số,Thuyết minh,31/12/2019 VND,1/1/2019 VND,numeric__Mã số,numeric__Thuyết minh,numeric__31/12/2019 VND,numeric__1/1/2019 VND
+NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,,,,
+NỘ PHẢI TRẢ (300 = 310 + 330),NGUỒN VỐN > NỘ PHẢI TRẢ (300 = 310 + 330),NỘ PHẢI TRẢ (300 = 310 + 330),300,,2.267.667.171.981,3.514.294.337.238,300.0,,2267667171981.0,3514294337238.0
+Nợ ngắn hạn,NGUỒN VỐN > Nợ ngắn hạn,Nợ ngắn hạn,310,,1.662.616.698.865,2.888.597.892.081,310.0,,1662616698865.0,2888597892081.0
+Phải trả người bán,NGUỒN VỐN > Phải trả người bán,Phải trả người bán,311,19,142.589.042.610,312.076.302.332,311.0,19.0,142589042610.0,312076302332.0
+Người mua trả tiền trước,NGUỒN VỐN > Người mua trả tiền trước,Người mua trả tiền trước,312,20,54.552.901.436,47.604.175.241,312.0,20.0,54552901436.0,47604175241.0
+Thuế và các khoản phải nộp Nhà nước,NGUỒN VỐN > Thuế và các khoản phải nộp Nhà nước,Thuế và các khoản phải nộp Nhà nước,313,13(b),4.041.898.089,19.944.899.647,313.0,,4041898089.0,19944899647.0
+Phải trả người lao động,NGUỒN VỐN > Phải trả người lao động,Phải trả người lao động,314,,4.659.411.253,11.199.082.790,314.0,,4659411253.0,11199082790.0
+Chi phí phải trả,NGUỒN VỐN > Chi phí phải trả,Chi phí phải trả,315,21,16.529.302.277,13.960.096.111,315.0,21.0,16529302277.0,13960096111.0
+Doanh thu chưa thực hiện ngắn hạn,NGUỒN VỐN > Doanh thu chưa thực hiện ngắn hạn,Doanh thu chưa thực hiện ngắn hạn,318,22(a),12.663.312.891,12.081.158.350,318.0,,12663312891.0,12081158350.0
+Phải trả ngắn hạn khác,NGUỒN VỐN > Phải trả ngắn hạn khác,Phải trả ngắn hạn khác,319,23(a),111.096.111.928,108.533.458.729,319.0,,111096111928.0,108533458729.0
+Vay ngắn hạn,NGUỒN VỐN > Vay ngắn hạn,Vay ngắn hạn,320,24(a),1.316.312.408.702,2.363.011.533.112,320.0,,1316312408702.0,2363011533112.0
+"Quỹ khen thưởng, phúc lợi","NGUỒN VỐN > Quỹ khen thưởng, phúc lợi","Quỹ khen thưởng, phúc lợi",322,,172.309.679,187.185.769,322.0,,172309679.0,187185769.0
+Nợ dài hạn,NGUỒN VỐN > Nợ dài hạn,Nợ dài hạn,330,,605.050.473.116,625.696.445.157,330.0,,605050473116.0,625696445157.0
+Doanh thu chưa thực hiện dài hạn,NGUỒN VỐN > Doanh thu chưa thực hiện dài hạn,Doanh thu chưa thực hiện dài hạn,336,22(b),929.760.000,1.500.000.000,336.0,,929760000.0,1500000000.0
+Phải trả dài hạn khác,NGUỒN VỐN > Phải trả dài hạn khác,Phải trả dài hạn khác,337,23(b),595.997.366.573,596.584.581.816,337.0,,595997366573.0,596584581816.0
+Vay dài hạn,NGUỒN VỐN > Vay dài hạn,Vay dài hạn,338,24(b),8.123.346.543,27.611.863.341,338.0,,8123346543.0,27611863341.0
+VỐN CHỦ SỞ HỮU (400 = 410),NGUỒN VỐN > VỐN CHỦ SỞ HỮU (400 = 410),VỐN CHỦ SỞ HỮU (400 = 410),400,,3.203.976.138.627,3.396.586.111.293,400.0,,3203976138627.0,3396586111293.0
+Vốn chủ sở hữu,NGUỒN VỐN > Vốn chủ sở hữu,Vốn chủ sở hữu,410,25,3.203.976.138.627,3.396.586.111.293,410.0,25.0,3203976138627.0,3396586111293.0
+Vốn cổ phần,NGUỒN VỐN > Vốn cổ phần,Vốn cổ phần,411,26,5.000.000.000.000,5.000.000.000.000,411.0,26.0,5000000000000.0,5000000000000.0
+- Cổ phiếu phổ thông có quyền biểu quyết,NGUỒN VỐN > - Cổ phiếu phổ thông có quyền biểu quyết,- Cổ phiếu phổ thông có quyền biểu quyết,411a,,5.000.000.000.000,5.000.000.000.000,,,5000000000000.0,5000000000000.0
+Quỹ khác thuộc vốn chủ sở hữu,NGUỒN VỐN > Quỹ khác thuộc vốn chủ sở hữu,Quỹ khác thuộc vốn chủ sở hữu,420,,231.825.797.290,231.825.797.290,420.0,,231825797290.0,231825797290.0
+Lỗ lũy kế,NGUỒN VỐN > Lỗ lũy kế,Lỗ lũy kế,421,,(2.027.849.658.663),(1.835.239.685.997),421.0,,-2027849658663.0,-1835239685997.0
+- Lỗ lũy kế đến cuối năm trước/kỳ trước,NGUỒN VỐN > - Lỗ lũy kế đến cuối năm trước/kỳ trước,- Lỗ lũy kế đến cuối năm trước/kỳ trước,421a,,(1.835.239.685.997),-,,,-1835239685997.0,
+- Lỗ năm nay/kỳ này,NGUỒN VỐN > - Lỗ năm nay/kỳ này,- Lỗ năm nay/kỳ này,421b,,(192.609.972.666),(1.835.239.685.997),,,-192609972666.0,-1835239685997.0
+TỔNG NGUỒN VỐN(440 = 300 + 400),NGUỒN VỐN > TỔNG NGUỒN VỐN(440 = 300 + 400),TỔNG NGUỒN VỐN(440 = 300 + 400),440,,5.471.643.310.608,6.910.880.448.531,440.0,,5471643310608.0,6910880448531.0

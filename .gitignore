@@ -1,9 +1,12 @@
 .venv/
 __pycache__/
 .pytest_cache/
-data/duckdb/*.duckdb
-data/duckdb/*.duckdb.wal
-data/processed/
- 
-artifacts/
-ViFinQA/
+
+# Environment variables & Secrets (TUYỆT ĐỐI KHÔNG PUSH)
+.env
+*.env
+!.env.example
+
+# Temporary logs
+inference_log.txt
+*.log

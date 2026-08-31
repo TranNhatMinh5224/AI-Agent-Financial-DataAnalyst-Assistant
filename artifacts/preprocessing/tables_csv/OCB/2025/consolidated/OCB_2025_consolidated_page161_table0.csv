@@ -1,0 +1,9 @@
+﻿row_label_raw,row_label_full,col_0,31/12/2025% per annum,31/12/2024% per annum,numeric__31/12/2025% per annum,numeric__31/12/2024% per annum
+Demand deposits in VND,Demand deposits in VND,Demand deposits in VND,0.00 - 0.50,0.10 - 0.50,,
+Demand deposits in foreign currencies,Demand deposits in VND > Demand deposits in foreign currencies,Demand deposits in foreign currencies,0.00,0.00,0.0,0.0
+Term deposits in VND,Term deposits in VND,Term deposits in VND,0.10 - 10.50,0.10 - 10.50,,
+Term deposits in foreign currencies,Term deposits in VND > Term deposits in foreign currencies,Term deposits in foreign currencies,0.00,0.00,0.0,0.0
+Demand saving deposits in VND,Term deposits in VND > Demand saving deposits in VND,Demand saving deposits in VND,0.00,0.10,0.0,10.0
+Demand saving deposits in foreign currencies,Term deposits in VND > Demand saving deposits in foreign currencies,Demand saving deposits in foreign currencies,0.00,0.00,0.0,0.0
+Term saving deposits in VND,Term saving deposits in VND,Term saving deposits in VND,0.50 - 10.50,0.00 - 10.50,,
+Term saving deposits in foreign currencies,Term saving deposits in VND > Term saving deposits in foreign currencies,Term saving deposits in foreign currencies,0.00,0.00,0.0,0.0

@@ -1,0 +1,14 @@
+﻿row_label_raw,row_label_full,col_0,"Nhà cửa, vật kiến trúc triệu đồng",Quyền sử dụng đất triệu đồng,Tổng cộng triệu đồng,"numeric__Nhà cửa, vật kiến trúc triệu đồng",numeric__Quyền sử dụng đất triệu đồng,numeric__Tổng cộng triệu đồng
+Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,,,
+Số dư đầu năm,Nguyên giá > Số dư đầu năm,Số dư đầu năm,1.220.909,32.691,1.253.600,1220909.0,32691.0,1253600.0
+Giảm do thanh lý công ty con,Nguyên giá > Giảm do thanh lý công ty con,Giảm do thanh lý công ty con,(1.220.909),(32.691),(1.253.600),-1220909.0,-32691.0,-1253600.0
+Số dư cuối năm,Số dư cuối năm,Số dư cuối năm,-,-,-,,,
+Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,,,
+Số dư đầu năm,Giá trị hao mòn lũy kế > Số dư đầu năm,Số dư đầu năm,220.487,603,221.090,220487.0,603.0,221090.0
+Hao mòn trong năm,Giá trị hao mòn lũy kế > Hao mòn trong năm,Hao mòn trong năm,25.419,208,25.627,25419.0,208.0,25627.0
+Điều chỉnh khác trong năm,Giá trị hao mòn lũy kế > Điều chỉnh khác trong năm,Điều chỉnh khác trong năm,(2.228),(48),(2.276),-2228.0,-48.0,-2276.0
+Giảm do thanh lý công ty con,Giá trị hao mòn lũy kế > Giảm do thanh lý công ty con,Giảm do thanh lý công ty con,(243.678),(763),(244.441),-243678.0,-763.0,-244441.0
+Số dư cuối năm,Số dư cuối năm,Số dư cuối năm,-,-,-,,,
+Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,,,
+Số dư đầu năm,Giá trị còn lại > Số dư đầu năm,Số dư đầu năm,1.000.422,32.088,1.032.510,1000422.0,32088.0,1032510.0
+Số dư cuối năm,Số dư cuối năm,Số dư cuối năm,-,-,-,,,

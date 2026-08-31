@@ -1,0 +1,17 @@
+﻿row_label_raw,row_label_full,col_0,Số đầu nămVND,Số phải nộptrong nămVND,Số đã thựcnộp trong nămVND,Số cuối nămVND,numeric__Số đầu nămVND,numeric__Số phải nộptrong nămVND,numeric__Số đã thựcnộp trong nămVND,numeric__Số cuối nămVND
+Thuế phải nộp,Thuế phải nộp,Thuế phải nộp,89.687.447.699,204.864.904.608,197.203.365.542,97.348.986.765,89687447699.0,204864904608.0,197203365542.0,97348986765.0
+Thuế giá trị gia tăng,Thuế giá trị gia tăng,Thuế giá trị gia tăng,6.399.096.274,62.436.295.390,49.860.253.449,18.975.138.215,6399096274.0,62436295390.0,49860253449.0,18975138215.0
+Thuế tiêu thụ đặc biệt,Thuế tiêu thụ đặc biệt,Thuế tiêu thụ đặc biệt,21.033.334,356.585.162,333.589.404,44.029.092,21033334.0,356585162.0,333589404.0,44029092.0
+"Thuế xuất, nhập khẩu","Thuế xuất, nhập khẩu","Thuế xuất, nhập khẩu",-,54.072.500,54.072.500,-,,54072500.0,54072500.0,
+Thuế thu nhập doanh nghiệp,Thuế thu nhập doanh nghiệp,Thuế thu nhập doanh nghiệp,23.610.827.931,76.029.395.092,56.375.408.937,43.264.814.086,23610827931.0,76029395092.0,56375408937.0,43264814086.0
+Thuế thu nhập cá nhân,Thuế thu nhập cá nhân,Thuế thu nhập cá nhân,476.089.891,8.157.938.467,8.146.369.570,487.658.788,476089891.0,8157938467.0,8146369570.0,487658788.0
+Thuế tài nguyên,Thuế tài nguyên,Thuế tài nguyên,9.413.674,129.208.378,128.465.451,10.156.601,9413674.0,129208378.0,128465451.0,10156601.0
+Thuế nhà đất và tiền thuê đất,Thuế nhà đất và tiền thuê đất,Thuế nhà đất và tiền thuê đất,49.163.883.132,16.688.009.290,34.768.322.122,31.083.570.300,49163883132.0,16688009290.0,34768322122.0,31083570300.0
+Các loại thuế khác,Các loại thuế khác,Các loại thuế khác,10.007.103.463,40.203.839.641,47.234.322.555,2.976.620.549,10007103463.0,40203839641.0,47234322555.0,2976620549.0
+Các khoản phải nộp khác,Các khoản phải nộp khác,Các khoản phải nộp khác,-,809.560.688,302.561.554,506.999.134,,809560688.0,302561554.0,506999134.0
+Thuế phải thu,Thuế phải thu,Thuế phải thu,17.455.113.708,-,7.607.560.006,25.062.673.714,17455113708.0,,7607560006.0,25062673714.0
+Thuế giá trị gia tăng,Thuế giá trị gia tăng,Thuế giá trị gia tăng,-,-,122.134.503,122.134.503,,,122134503.0,122134503.0
+Thuế thu nhập doanh nghiệp,Thuế thu nhập doanh nghiệp,Thuế thu nhập doanh nghiệp,17.415.050.462,-,7.416.871.436,24.831.921.898,17415050462.0,,7416871436.0,24831921898.0
+tạm nộp,tạm nộp,tạm nộp,,,,,,,,
+Thuế thu nhập cá nhân,tạm nộp > Thuế thu nhập cá nhân,Thuế thu nhập cá nhân,10.777,-,-,10.777,10777.0,,,10777.0
+Các loại thuế khác,tạm nộp > Các loại thuế khác,Các loại thuế khác,40.052.469,-,68.554.067,108.606.536,40052469.0,,68554067.0,108606536.0

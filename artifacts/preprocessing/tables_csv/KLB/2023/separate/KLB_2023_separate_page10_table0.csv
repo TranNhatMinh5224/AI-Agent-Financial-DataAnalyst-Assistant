@@ -1,0 +1,14 @@
+﻿row_label_raw,row_label_full,CHỈ TIÊU,CHỈ TIÊU_1,Thuyết minh,Số cuối năm,Số đầu năm,numeric__CHỈ TIÊU_1,numeric__Thuyết minh,numeric__Số cuối năm,numeric__Số đầu năm
+1.,1.,1.,Bảo lãnh vay vốn,,-,-,,,,
+2.,1. > 2.,2.,Cam kết giao dịch hồi đoái,,8.878.747,7.226.798,,,8878747.0,7226798.0
+2.,1. > 2.,2.,Cam kết mua ngoại tệ,,-,47.060,,,,47060.0
+2.,1. > 2.,2.,Cam kết bán ngoại tệ,,729.000,705.900,,,729000.0,705900.0
+2.,1. > 2.,2.,Cam kết giao dịch hoán đối,,8.149.747,6.473.838,,,8149747.0,6473838.0
+2.,2.,2.,Cam kết giao dịch tương lai,,-,-,,,,
+3.,3.,3.,Cam kết cho vay không hủy ngang,,-,-,,,,
+4.,3. > 4.,4.,Cam kết trong nghiệp vụ L/C,VIII.4,416,6.938,,,416.0,6938.0
+5.,3. > 5.,5.,Bảo lãnh khác,VIII.4,362.814,257.326,,,362814.0,257326.0
+6.,6.,6.,Các cam kết khác,,-,-,,,,
+7.,6. > 7.,7.,Lãi cho vay và phí phải thu chưa thu được,VIII.5,237.314,383.601,,,237314.0,383601.0
+8.,6. > 8.,8.,Nợ khó đòi đã xử lý,VIII.6,2.018.358,1.544.286,,,2018358.0,1544286.0
+9.,6. > 9.,9.,Tải sản và chúng từ khác,VIII.7,10.556.826,16.421.101,,,10556826.0,16421101.0

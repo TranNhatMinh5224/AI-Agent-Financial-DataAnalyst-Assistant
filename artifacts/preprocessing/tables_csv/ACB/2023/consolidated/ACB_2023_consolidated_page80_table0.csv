@@ -1,0 +1,10 @@
+﻿row_label_raw,row_label_full,col_0,Tiền gửi tại Ngân hàng Nhà nước Triệu VND,Tiền gửi và cho vay các TCTD khác Triệu VND,Chứng khoán nợ kinh doanh Triệu VND,Cho vay khách hàng Triệu VND,Chứng khoán nợ đầu tư Triệu VND,Các tài sản tài chính khác Triệu VND,Tổng cộng Triệu VND,numeric__Tiền gửi tại Ngân hàng Nhà nước Triệu VND,numeric__Tiền gửi và cho vay các TCTD khác Triệu VND,numeric__Chứng khoán nợ kinh doanh Triệu VND,numeric__Cho vay khách hàng Triệu VND,numeric__Chứng khoán nợ đầu tư Triệu VND,numeric__Các tài sản tài chính khác Triệu VND,numeric__Tổng cộng Triệu VND
+Chưa quá hạn và chưa bị suy giảm giá trị,Chưa quá hạn và chưa bị suy giảm giá trị,Chưa quá hạn và chưa bị suy giảm giá trị,18.504.814,114.873.931,5.879.766,474.993.066,73.450.686,7.130.750,694.833.013,18504814.0,114873931.0,5879766.0,474993066.0,73450686.0,7130750.0,694833013.0
+Đã quá hạn nhưng chưa bị suy giảm giá trị,Đã quá hạn nhưng chưa bị suy giảm giá trị,Đã quá hạn nhưng chưa bị suy giảm giá trị,-,-,-,2.585.814,-,249,2.586.063,,,,2585814.0,,249.0,2586063.0
+Bị suy giảm giá trị,Bị suy giảm giá trị,Bị suy giảm giá trị,-,50.000,-,10.022.972,-,182.750,10.255.722,,50000.0,,10022972.0,,182750.0,10255722.0
+Trừ: Dự phòng rủi ro,Trừ: Dự phòng rủi ro,Trừ: Dự phòng rủi ro,-,(50.000),-,(5.366.952),-,(178.994),(5.595.946),,-50000.0,,-5366952.0,,-178994.0,-5595946.0
+Giá trị ròng,Giá trị ròng,Giá trị ròng,18.504.814,114.873.931,5.879.766,482.234.900,73.450.686,7.134.755,702.078.852,18504814.0,114873931.0,5879766.0,482234900.0,73450686.0,7134755.0,702078852.0
+Dự phòng rủi ro,Dự phòng rủi ro,Dự phòng rủi ro,,,,,,,,,,,,,,
+Dự phòng cụ thể,Dự phòng rủi ro > Dự phòng cụ thể,Dự phòng cụ thể,-,(50.000),-,(1.657.154),-,-,(1.707.154),,-50000.0,,-1657154.0,,,-1707154.0
+Dự phòng chung,Dự phòng rủi ro > Dự phòng chung,Dự phòng chung,-,-,-,(3.592.322),-,-,(3.592.322),,,,-3592322.0,,,-3592322.0
+Dự phòng rủi ro khác,Dự phòng rủi ro > Dự phòng rủi ro khác,Dự phòng rủi ro khác,-,-,-,(117.476),-,(178.994),(296.470),,,,-117476.0,,-178994.0,-296470.0

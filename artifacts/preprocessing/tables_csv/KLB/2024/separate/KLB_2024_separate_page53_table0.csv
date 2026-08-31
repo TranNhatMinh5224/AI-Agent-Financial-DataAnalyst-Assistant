@@ -1,0 +1,15 @@
+﻿row_label_raw,row_label_full,Chỉ tiêu,EUR được quy đổi,USD được quy đổi,Các ngoại tệ khác được quy đổi,Tổng,numeric__EUR được quy đổi,numeric__USD được quy đổi,numeric__Các ngoại tệ khác được quy đổi,numeric__Tổng
+Tài sản,Tài sản,Tài sản,,,,,,,,
+"Tiền mặt, vàng bạc, đá quý","Tài sản > Tiền mặt, vàng bạc, đá quý","Tiền mặt, vàng bạc, đá quý",1.409,19.063,90,20.562,1409.0,19063.0,90.0,20562.0
+Tiền gối tại ngân hàng Nhà nước,Tài sản > Tiền gối tại ngân hàng Nhà nước,Tiền gối tại ngân hàng Nhà nước,-,5.142,-,5.142,,5142.0,,5142.0
+"Tiền, vàng gối tại và cho vay các TCTD khác (*)","Tài sản > Tiền, vàng gối tại và cho vay các TCTD khác (*)","Tiền, vàng gối tại và cho vay các TCTD khác (*)",2.188,3.049.861,7.485,3.059.534,2188.0,3049861.0,7485.0,3059534.0
+Cho vay khách hàng (*),Tài sản > Cho vay khách hàng (*),Cho vay khách hàng (*),-,164.405,-,164.405,,164405.0,,164405.0
+Tổng Tài sản,Tài sản > Tổng Tài sản,Tổng Tài sản,3.597,3.238.471,7.575,3.249.643,3597.0,3238471.0,7575.0,3249643.0
+Nợ phải trả và Vốn chủ sở hữu,Nợ phải trả và Vốn chủ sở hữu,Nợ phải trả và Vốn chủ sở hữu,,,,,,,,
+Tiền gửi của và vay từ NHNN và các TCTD khác,Nợ phải trả và Vốn chủ sở hữu > Tiền gửi của và vay từ NHNN và các TCTD khác,Tiền gửi của và vay từ NHNN và các TCTD khác,-,2.709.901,-,2.709.901,,2709901.0,,2709901.0
+Tiền gửi của khách hàng,Nợ phải trả và Vốn chủ sở hữu > Tiền gửi của khách hàng,Tiền gửi của khách hàng,536,52.332,111,52.979,536.0,52332.0,111.0,52979.0
+Các công cụ tài chính phải sinh và các tài sản tài chính khác (*),Nợ phải trả và Vốn chủ sở hữu > Các công cụ tài chính phải sinh và các tài sản tài chính khác (*),Các công cụ tài chính phải sinh và các tài sản tài chính khác (*),-,(2.304.120),-,(2.304.120),,-2304120.0,,-2304120.0
+Tổng Nợ phải trả và Vốn chủ sở hữu,Nợ phải trả và Vốn chủ sở hữu > Tổng Nợ phải trả và Vốn chủ sở hữu,Tổng Nợ phải trả và Vốn chủ sở hữu,536,458.113,111,458.760,536.0,458113.0,111.0,458760.0
+Trạng thái tiền tệ nội bằng,Nợ phải trả và Vốn chủ sở hữu > Trạng thái tiền tệ nội bằng,Trạng thái tiền tệ nội bằng,3.061,2.780.358,7.464,2.790.883,3061.0,2780358.0,7464.0,2790883.0
+Trạng thái tiền tệ ngoại bằng,Trạng thái tiền tệ ngoại bằng,Trạng thái tiền tệ ngoại bằng,-,-,-,-,,,,
+"Trạng thái tiền tệ nội, ngoại bằng","Trạng thái tiền tệ ngoại bằng > Trạng thái tiền tệ nội, ngoại bằng","Trạng thái tiền tệ nội, ngoại bằng",3.061,2.780.358,7.464,2.790.883,3061.0,2780358.0,7464.0,2790883.0

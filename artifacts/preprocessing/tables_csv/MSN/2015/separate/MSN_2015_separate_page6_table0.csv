@@ -1,0 +1,23 @@
+﻿row_label_raw,row_label_full,col_0,Tập đoàn,Tập đoàn_1,Tập đoàn_2,Tập đoàn_3,Công ty,Công ty_1,numeric__Tập đoàn,numeric__Tập đoàn_1,numeric__Tập đoàn_2,numeric__Tập đoàn_3,numeric__Công ty,numeric__Công ty_1
+,,,Mã số,Thuyết minh,31/12/2015 Triệu VND,1/1/2015 Triệu VND Phân loại lại,31/12/2015 Triệu VND,1/1/2015 Triệu VND Phân loại lại,,,,,,
+TÀI SẢN,TÀI SẢN,TÀI SẢN,TÀI SẢN,TÀI SẢN,TÀI SẢN,TÀI SẢN,TÀI SẢN,TÀI SẢN,,,,,,
+Tài sản ngắn hạn(\( 100 = 110 + 120 + 130 + 140 + 150 \)),TÀI SẢN > Tài sản ngắn hạn(\( 100 = 110 + 120 + 130 + 140 + 150 \)),Tài sản ngắn hạn(\( 100 = 110 + 120 + 130 + 140 + 150 \)),100,,16.709.473,16.428.327,1.779.993,7.247.661,100.0,,16709473.0,16428327.0,1779993.0,7247661.0
+Tiền và các khoản tương đương tiền,TÀI SẢN > Tiền và các khoản tương đương tiền,Tiền và các khoản tương đương tiền,110,7,8.324.476,5.166.415,1.103.659,517.251,110.0,7.0,8324476.0,5166415.0,1103659.0,517251.0
+Tiền,TÀI SẢN > Tiền,Tiền,111,,918.656,302.970,17.769,9.901,111.0,,918656.0,302970.0,17769.0,9901.0
+Các khoản tương đương tiền,TÀI SẢN > Các khoản tương đương tiền,Các khoản tương đương tiền,112,,7.405.820,4.863.445,1.085.890,507.350,112.0,,7405820.0,4863445.0,1085890.0,507350.0
+Đầu tư tài chính ngắn hạn,TÀI SẢN > Đầu tư tài chính ngắn hạn,Đầu tư tài chính ngắn hạn,120,8,293.990,4.042.212,287.890,239.614,120.0,8.0,293990.0,4042212.0,287890.0,239614.0
+Đầu tư nắm giữ đến ngày đáo hạn,TÀI SẢN > Đầu tư nắm giữ đến ngày đáo hạn,Đầu tư nắm giữ đến ngày đáo hạn,123,,293.990,4.042.212,287.890,239.614,123.0,,293990.0,4042212.0,287890.0,239614.0
+Các khoản phải thu ngắn hạn,TÀI SẢN > Các khoản phải thu ngắn hạn,Các khoản phải thu ngắn hạn,130,9,3.126.527,5.227.550,316.523,6.420.798,130.0,9.0,3126527.0,5227550.0,316523.0,6420798.0
+Phải thu khách hàng,TÀI SẢN > Phải thu khách hàng,Phải thu khách hàng,131,,878.130,4.346.998,19.421,3.072.190,131.0,,878130.0,4346998.0,19421.0,3072190.0
+Trả trước cho người bán,TÀI SẢN > Trả trước cho người bán,Trả trước cho người bán,132,,872.866,341.231,139.931,134.636,132.0,,872866.0,341231.0,139931.0,134636.0
+Phải thu từ cho vay ngắn hạn,TÀI SẢN > Phải thu từ cho vay ngắn hạn,Phải thu từ cho vay ngắn hạn,135,,762.400,-,-,2.172.320,135.0,,762400.0,,,2172320.0
+Phải thu khác,TÀI SẢN > Phải thu khác,Phải thu khác,136,,641.598,527.770,157.171,1.041.652,136.0,,641598.0,527770.0,157171.0,1041652.0
+Dự phòng phải thu khó đòi,TÀI SẢN > Dự phòng phải thu khó đòi,Dự phòng phải thu khó đòi,137,,(28.589),(2.064),-,-,137.0,,-28589.0,-2064.0,,
+Tài sản thiếu chờ xử lý,TÀI SẢN > Tài sản thiếu chờ xử lý,Tài sản thiếu chờ xử lý,139,,122,13.615,-,-,139.0,,122.0,13615.0,,
+Hàng tồn kho,TÀI SẢN > Hàng tồn kho,Hàng tồn kho,140,10,4.417.969,1.604.854,-,-,140.0,10.0,4417969.0,1604854.0,,
+Hàng tồn kho,TÀI SẢN > Hàng tồn kho,Hàng tồn kho,141,,4.434.592,1.627.172,-,-,141.0,,4434592.0,1627172.0,,
+Dự phòng giảm giá hàng tồn kho,TÀI SẢN > Dự phòng giảm giá hàng tồn kho,Dự phòng giảm giá hàng tồn kho,149,,(16.623),(22.318),-,-,149.0,,-16623.0,-22318.0,,
+Tài sản ngắn hạn khác,TÀI SẢN > Tài sản ngắn hạn khác,Tài sản ngắn hạn khác,150,,546.511,387.296,71.921,69.998,150.0,,546511.0,387296.0,71921.0,69998.0
+Chỉ phí trả trước ngắn hạn,TÀI SẢN > Chỉ phí trả trước ngắn hạn,Chỉ phí trả trước ngắn hạn,151,,79.536,70.227,974,396,151.0,,79536.0,70227.0,974.0,396.0
+Thuế giá trị gia tăng được khấu trừ,TÀI SẢN > Thuế giá trị gia tăng được khấu trừ,Thuế giá trị gia tăng được khấu trừ,152,,445.579,295.726,52.859,50.380,152.0,,445579.0,295726.0,52859.0,50380.0
+Thuế phải thu Nhà nước,TÀI SẢN > Thuế phải thu Nhà nước,Thuế phải thu Nhà nước,153,18,21.396,21.343,18.088,19.222,153.0,18.0,21396.0,21343.0,18088.0,19222.0

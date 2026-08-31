@@ -95,6 +95,14 @@ def build_bm25_index(corpus: pd.DataFrame, output_path: Path) -> None:
         pickle.dump(bm25, f)
 
 
+class _BM25Unpickler(pickle.Unpickler):
+    """Custom unpickler to safely load BasicBM25 regardless of __main__ or module namespace."""
+    def find_class(self, module: str, name: str) -> Any:
+        if name == "BasicBM25":
+            return BasicBM25
+        return super().find_class(module, name)
+
+
 def search_bm25(index_path: Path, query_id: str, query: str, top_k: int = 50, filter_ids: set[str] | None = None) -> List[Candidate]:
     """Search the BM25 index.
     
@@ -112,7 +120,7 @@ def search_bm25(index_path: Path, query_id: str, query: str, top_k: int = 50, fi
         return []
         
     with index_path.open("rb") as f:
-        bm25: BasicBM25 = pickle.load(f)
+        bm25: BasicBM25 = _BM25Unpickler(f).load()
         
     scores = bm25.get_scores(query)
     
@@ -157,3 +165,18 @@ def search_bm25(index_path: Path, query_id: str, query: str, top_k: int = 50, fi
         )
         
     return candidates
+
+
+if __name__ == "__main__":
+    import argparse
+    parser = argparse.ArgumentParser(description="Build BM25 Index from Corpus")
+    parser.add_argument("--corpus", required=True, help="Path to table_corpus.csv")
+    parser.add_argument("--output", required=True, help="Path to output bm25_index.pkl")
+    args = parser.parse_args()
+
+    corpus_path = Path(args.corpus)
+    output_path = Path(args.output)
+    print(f"Building BM25 Index from {corpus_path}...")
+    df = pd.read_csv(corpus_path, encoding="utf-8-sig")
+    build_bm25_index(df, output_path)
+    print(f"BM25 Index successfully saved to {output_path}")

@@ -1,0 +1,6 @@
+﻿row_label_raw,row_label_full,Chỉ tiêu,Số dư đầu kỳ,Phát sinh trong kỳ > Số phải nộp,Phát sinh trong kỳ > Số đã nộp,Số dư cuối kỳ,numeric__Số dư đầu kỳ,numeric__Phát sinh trong kỳ > Số phải nộp,numeric__Phát sinh trong kỳ > Số đã nộp,numeric__Số dư cuối kỳ
+1. Thuế GTGT,1. Thuế GTGT,1. Thuế GTGT,(42),3.714,3.722,(50),-42.0,3714.0,3722.0,-50.0
+2. Thuế TNDN,2. Thuế TNDN,2. Thuế TNDN,(29.319),694,2.000,(30.625),-29319.0,694.0,2000.0,-30625.0
+3. Các loại thuế khác,3. Các loại thuế khác,3. Các loại thuế khác,393,14.267,14.230,430,393.0,14267.0,14230.0,430.0
+"4. Các khoản phí, lệ phí và các khoản phải nộp khác","4. Các khoản phí, lệ phí và các khoản phải nộp khác","4. Các khoản phí, lệ phí và các khoản phải nộp khác",-,,,-,,,,
+Tổng cộng,"4. Các khoản phí, lệ phí và các khoản phải nộp khác > Tổng cộng",Tổng cộng,(28.968),18.675,19.952,(30.245),-28968.0,18675.0,19952.0,-30245.0

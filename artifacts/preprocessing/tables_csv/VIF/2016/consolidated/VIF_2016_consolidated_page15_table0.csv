@@ -1,0 +1,12 @@
+﻿row_label_raw,row_label_full,Mã số,CHỈ TIÊU,Thuyết minh,Cho giai đoạn tài chính từ ngày 1 tháng 9 năm 2016 đến ngày 31 tháng 12 năm 2016,Cho giai đoạn tài chính từ ngày 1 tháng 1 năm 2016 đến ngày 31 tháng 8 năm 2016,numeric__CHỈ TIÊU,numeric__Thuyết minh,numeric__Cho giai đoạn tài chính từ ngày 1 tháng 9 năm 2016 đến ngày 31 tháng 12 năm 2016,numeric__Cho giai đoạn tài chính từ ngày 1 tháng 1 năm 2016 đến ngày 31 tháng 8 năm 2016
+,,,III. LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG TẢI CHÍNH,,,,,,,
+31,31,31,"Tiền thu từ phát hành cổ phiếu, nhận vốn góp của chủ sở hữu",,-,1.726.344.842.000,,,,1726344842000.0
+32,32,32,Tiền trả lại vốn góp cho các chủ sở hữu,,(1.620.814.208.133),-,,,-1620814208133.0,
+33,33,33,Tiền thu từ đi vay,,184.816.181.657,228.322.580.010,,,184816181657.0,228322580010.0
+34,34,34,Tiền trả nợ gốc vay,,(162.105.725.532),(269.284.348.578),,,-162105725532.0,-269284348578.0
+36,36,36,Lợi nhuận chuyển về cho ngân sách Nhà nước,17,(143.721.848.597),(114.959.414.716),,17.0,-143721848597.0,-114959414716.0
+40,40,40,Lưu chuyển tiền thuần (sử dụng vào)/từ hoạt động tài chính,,(1.741.825.600.605),1.570.423.658.716,,,-1741825600605.0,1570423658716.0
+50,50,50,Lưu chuyển tiền thuần trong kỳ,,(1.779.871.459.446),1.608.746.950.330,,,-1779871459446.0,1608746950330.0
+60,60,60,Tiền và tương đương tiền đầu kỳ,,1.883.659.146.430,274.912.196.100,,,1883659146430.0,274912196100.0
+61,61,61,Ảnh hưởng của thay đổi tỷ giá hối đoái quy đổi ngoại tệ,,-,-,,,,
+70,61 > 70,70,Tiền và tương đương tiền cuối kỳ,4,103.787.686.984,1.883.659.146.430,,4.0,103787686984.0,1883659146430.0

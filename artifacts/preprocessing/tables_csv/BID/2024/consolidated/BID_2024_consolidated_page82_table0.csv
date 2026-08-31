@@ -1,0 +1,24 @@
+﻿row_label_raw,row_label_full,col_0,EUR quy đổi,USD quy đổi,Các ngoại tệ khác quy đổi,Tổng cộng,numeric__EUR quy đổi,numeric__USD quy đổi,numeric__Các ngoại tệ khác quy đổi,numeric__Tổng cộng
+,,,Triệu VND,Triệu VND,Triệu VND,Triệu VND,,,,
+Tài sản,Tài sản,Tài sản,Tài sản,Tài sản,Tài sản,Tài sản,,,,
+"Tiền mặt, vàng bạc, đá quý","Tài sản > Tiền mặt, vàng bạc, đá quý","Tiền mặt, vàng bạc, đá quý",175.329,1.635.772,488.893,2.299.994,175329.0,1635772.0,488893.0,2299994.0
+Tiền gửi tại Ngân hàng Trung ương,Tài sản > Tiền gửi tại Ngân hàng Trung ương,Tiền gửi tại Ngân hàng Trung ương,211.523,9.569.024,1.713.572,11.494.119,211523.0,9569024.0,1713572.0,11494119.0
+Tiền gửi và cho vay các TCTD khác (*),Tài sản > Tiền gửi và cho vay các TCTD khác (*),Tiền gửi và cho vay các TCTD khác (*),1.259.928,23.312.047,46.023.994,70.595.969,1259928.0,23312047.0,46023994.0,70595969.0
+Các công cụ tài chính phải sinh và các tài sản tài chính khác,Tài sản > Các công cụ tài chính phải sinh và các tài sản tài chính khác,Các công cụ tài chính phải sinh và các tài sản tài chính khác,721.143,18.012.357,(27.090.080),(8.356.580),721143.0,18012357.0,-27090080.0,-8356580.0
+Cho vay khách hàng (*),Tài sản > Cho vay khách hàng (*),Cho vay khách hàng (*),1.100.298,111.089.498,8.493.979,120.683.775,1100298.0,111089498.0,8493979.0,120683775.0
+Chứng khoán đầu tư (*),Tài sản > Chứng khoán đầu tư (*),Chứng khoán đầu tư (*),-,-,1.298.778,1.298.778,,,1298778.0,1298778.0
+Góp vốn đầu tư dài hạn (*),Tài sản > Góp vốn đầu tư dài hạn (*),Góp vốn đầu tư dài hạn (*),-,529.029,2.862,531.891,,529029.0,2862.0,531891.0
+Tài sản cố định,Tài sản > Tài sản cố định,Tài sản cố định,-,470.686,245.953,716.639,,470686.0,245953.0,716639.0
+Các tài sản Có khác (*),Tài sản > Các tài sản Có khác (*),Các tài sản Có khác (*),36.521,4.443.669,448.527,4.928.717,36521.0,4443669.0,448527.0,4928717.0
+Tổng tài sản (1),Tài sản > Tổng tài sản (1),Tổng tài sản (1),3.504.742,169.062.082,31.626.478,204.193.302,3504742.0,169062082.0,31626478.0,204193302.0
+Nợ phải trả,Nợ phải trả,Nợ phải trả,Nợ phải trả,Nợ phải trả,Nợ phải trả,Nợ phải trả,,,,
+Tiền gửi và vay từ Ngân hàng Trung ương và các TCTD khác,Nợ phải trả > Tiền gửi và vay từ Ngân hàng Trung ương và các TCTD khác,Tiền gửi và vay từ Ngân hàng Trung ương và các TCTD khác,258.662,31.902.892,19.927.146,52.088.700,258662.0,31902892.0,19927146.0,52088700.0
+Tiền gửi của khách hàng,Nợ phải trả > Tiền gửi của khách hàng,Tiền gửi của khách hàng,2.579.345,121.845.039,9.673.545,134.097.929,2579345.0,121845039.0,9673545.0,134097929.0
+"Vốn tài trợ, ủy thác, đầu tư cho vay mà TCTD chịu rủi ro","Nợ phải trả > Vốn tài trợ, ủy thác, đầu tư cho vay mà TCTD chịu rủi ro","Vốn tài trợ, ủy thác, đầu tư cho vay mà TCTD chịu rủi ro",610.347,2.915.110,-,3.525.457,610347.0,2915110.0,,3525457.0
+Phát hành giấy tờ có giá,Nợ phải trả > Phát hành giấy tờ có giá,Phát hành giấy tờ có giá,-,349,-,349,,349.0,,349.0
+Các khoản nợ khác,Nợ phải trả > Các khoản nợ khác,Các khoản nợ khác,25.115,1.937.221,396.393,2.358.729,25115.0,1937221.0,396393.0,2358729.0
+Vốn và các quỹ,Nợ phải trả > Vốn và các quỹ,Vốn và các quỹ,2.999,3.544.710,1.037.185,4.584.894,2999.0,3544710.0,1037185.0,4584894.0
+Tổng nợ phải trả và vốn chủ sở hữu (2),Nợ phải trả > Tổng nợ phải trả và vốn chủ sở hữu (2),Tổng nợ phải trả và vốn chủ sở hữu (2),3.476.468,162.145.321,31.034.269,196.656.058,3476468.0,162145321.0,31034269.0,196656058.0
+Trạng thái tiền tệ nội bằng (3) = (1) - (2),Nợ phải trả > Trạng thái tiền tệ nội bằng (3) = (1) - (2),Trạng thái tiền tệ nội bằng (3) = (1) - (2),28.274,6.916.761,592.209,7.537.244,28274.0,6916761.0,592209.0,7537244.0
+Trạng thái tiền tệ ngoại bằng (4),Nợ phải trả > Trạng thái tiền tệ ngoại bằng (4),Trạng thái tiền tệ ngoại bằng (4),(36.124),(9.297.198),(112.985),(9.446.307),-36124.0,-9297198.0,-112985.0,-9446307.0
+"Trạng thái tiền tệ nội, ngoại bằng (5) = (3) + (4)","Nợ phải trả > Trạng thái tiền tệ nội, ngoại bằng (5) = (3) + (4)","Trạng thái tiền tệ nội, ngoại bằng (5) = (3) + (4)",(7.850),(2.380.437),479.224,(1.909.063),-7850.0,-2380437.0,479224.0,-1909063.0

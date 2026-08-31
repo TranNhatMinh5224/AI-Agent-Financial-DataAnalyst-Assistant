@@ -1,0 +1,23 @@
+﻿row_label_raw,row_label_full,Chỉ tiêu,"Nhà cửa, vật kiến trúc","Máy móc, thiết bị","Phương tiện vận tải, truyền dẫn",Thiết bị quản lý,TSCĐ khác,Cộng,"numeric__Nhà cửa, vật kiến trúc","numeric__Máy móc, thiết bị","numeric__Phương tiện vận tải, truyền dẫn",numeric__Thiết bị quản lý,numeric__TSCĐ khác,numeric__Cộng
+I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,,,,,,
+1. Số dư đầu năm,I. Nguyên giá > 1. Số dư đầu năm,1. Số dư đầu năm,647.417.741.163,2.545.657.243.104,36.798.772.053,4.421.906.133,,3.234.295.662.453,647417741163.0,2545657243104.0,36798772053.0,4421906133.0,,3234295662453.0
+2. Số tăng trong năm,I. Nguyên giá > 2. Số tăng trong năm,2. Số tăng trong năm,226.522.319.653,4.599.451.000,4.263.041.273,1.064.586.264,,236.449.398.190,226522319653.0,4599451000.0,4263041273.0,1064586264.0,,236449398190.0
+- Mua trong năm,I. Nguyên giá > - Mua trong năm,- Mua trong năm,23.272.727.273,40.000.000,4.263.041.273,1.064.586.264,,28.640.354.810,23272727273.0,40000000.0,4263041273.0,1064586264.0,,28640354810.0
+- Đầu tư XDCB hoàn thành,I. Nguyên giá > - Đầu tư XDCB hoàn thành,- Đầu tư XDCB hoàn thành,203.249.592.380,,,,,203.249.592.380,203249592380.0,,,,,203249592380.0
+- Mua lại TSCĐ thuê tài chính,I. Nguyên giá > - Mua lại TSCĐ thuê tài chính,- Mua lại TSCĐ thuê tài chính,,4.559.451.000,,,,4.559.451.000,,4559451000.0,,,,4559451000.0
+- Tăng khác,- Tăng khác,- Tăng khác,,,,,,,,,,,,
+3. Số giảm trong năm,3. Số giảm trong năm,3. Số giảm trong năm,,,,,,,,,,,,
+"- Thanh lý, nhượng bán","- Thanh lý, nhượng bán","- Thanh lý, nhượng bán",,,,,,,,,,,,
+4. Số dư cuối năm,"- Thanh lý, nhượng bán > 4. Số dư cuối năm",4. Số dư cuối năm,873.940.060.816,2.550.256.694.104,41.061.813.326,5.486.492.397,,3.470.745.060.643,873940060816.0,2550256694104.0,41061813326.0,5486492397.0,,3470745060643.0
+II. Giá trị hao mòn luỹ kế,II. Giá trị hao mòn luỹ kế,II. Giá trị hao mòn luỹ kế,II. Giá trị hao mòn luỹ kế,II. Giá trị hao mòn luỹ kế,II. Giá trị hao mòn luỹ kế,II. Giá trị hao mòn luỹ kế,II. Giá trị hao mòn luỹ kế,II. Giá trị hao mòn luỹ kế,,,,,,
+1. Số dư đầu năm,II. Giá trị hao mòn luỹ kế > 1. Số dư đầu năm,1. Số dư đầu năm,52.972.832.882,202.199.517.248,24.731.745.414,3.267.790.414,,283.171.885.958,52972832882.0,202199517248.0,24731745414.0,3267790414.0,,283171885958.0
+2. Khấu hao trong năm,II. Giá trị hao mòn luỹ kế > 2. Khấu hao trong năm,2. Khấu hao trong năm,34.024.091.182,107.337.066.530,4.113.509.605,618.070.286,,146.092.737.603,34024091182.0,107337066530.0,4113509605.0,618070286.0,,146092737603.0
+- Khấu hao trong năm,II. Giá trị hao mòn luỹ kế > - Khấu hao trong năm,- Khấu hao trong năm,34.024.091.182,105.030.635.485,4.113.509.605,618.070.286,,143.786.306.558,34024091182.0,105030635485.0,4113509605.0,618070286.0,,143786306558.0
+- Mua lại TSCĐ thuê tài chính,II. Giá trị hao mòn luỹ kế > - Mua lại TSCĐ thuê tài chính,- Mua lại TSCĐ thuê tài chính,,2.306.431.045,,,,2.306.431.045,,2306431045.0,,,,2306431045.0
+- Tăng khác,- Tăng khác,- Tăng khác,,,,,,,,,,,,
+3. Giảm trong năm,3. Giảm trong năm,3. Giảm trong năm,,,,,,,,,,,,
+"- Thanh lý, nhượng bán","- Thanh lý, nhượng bán","- Thanh lý, nhượng bán",,,,,,,,,,,,
+4. Số dư cuối năm,"- Thanh lý, nhượng bán > 4. Số dư cuối năm",4. Số dư cuối năm,86.996.924.064,309.536.583.778,28.845.255.019,3.885.860.700,,429.264.623.561,86996924064.0,309536583778.0,28845255019.0,3885860700.0,,429264623561.0
+III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,,,,,,
+1. Tại ngày đầu năm,III. Giá trị còn lại > 1. Tại ngày đầu năm,1. Tại ngày đầu năm,594.444.908.281,2.343.457.725.856,12.067.026.639,1.154.115.719,,2.951.123.776.495,594444908281.0,2343457725856.0,12067026639.0,1154115719.0,,2951123776495.0
+2. Tại ngày cuối năm,III. Giá trị còn lại > 2. Tại ngày cuối năm,2. Tại ngày cuối năm,786.943.136.752,2.240.720.110.326,12.216.558.307,1.600.631.697,,3.041.480.437.082,786943136752.0,2240720110326.0,12216558307.0,1600631697.0,,3041480437082.0

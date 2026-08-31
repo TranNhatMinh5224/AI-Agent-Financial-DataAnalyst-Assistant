@@ -1,0 +1,13 @@
+﻿row_label_raw,row_label_full,Chỉ tiêu,Số đầu năm(Trước điều chỉnh),Điều chỉnhhồi tố,Số đầu năm(Sau điều chỉnh),numeric__Số đầu năm(Trước điều chỉnh),numeric__Điều chỉnhhồi tố,numeric__Số đầu năm(Sau điều chỉnh)
+,,,VND,VND,VND,,,
+TÀI SẢN,TÀI SẢN,TÀI SẢN,TÀI SẢN,TÀI SẢN,TÀI SẢN,,,
+1. Chỉ phí trả trước ngắn hạn,TÀI SẢN > 1. Chỉ phí trả trước ngắn hạn,1. Chỉ phí trả trước ngắn hạn,89.228.716.247,5.501.903.093,94.730.619.340,89228716247.0,5501903093.0,94730619340.0
+2. Tài sản cố định hữu hình,TÀI SẢN > 2. Tài sản cố định hữu hình,2. Tài sản cố định hữu hình,31.353.853.278.293,48.273.933.349,31.402.127.211.642,31353853278293.0,48273933349.0,31402127211642.0
+- Nguyên giá,TÀI SẢN > - Nguyên giá,- Nguyên giá,46.480.840.337.898,61.438.160.553,46.542.278.498.451,46480840337898.0,61438160553.0,46542278498451.0
+- Giá trị hao mòn lũy kế,TÀI SẢN > - Giá trị hao mòn lũy kế,- Giá trị hao mòn lũy kế,(15.126.987.059.605),(13.164.227.204),(15.140.151.286.809),-15126987059605.0,-13164227204.0,-15140151286809.0
+3. Chỉ phí trả trước dài hạn,TÀI SẢN > 3. Chỉ phí trả trước dài hạn,3. Chỉ phí trả trước dài hạn,3.241.620.784,437.157.942.879,440.399.563.663,3241620784.0,437157942879.0,440399563663.0
+NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,,,
+1. Thuế và các khoản phải nộpNhà nước,NGUỒN VỐN > 1. Thuế và các khoản phải nộpNhà nước,1. Thuế và các khoản phải nộpNhà nước,1.347.079.565.051,51.324.625.205,1.398.404.190.256,1347079565051.0,51324625205.0,1398404190256.0
+2. Phải trả ngắn hạn khác,NGUỒN VỐN > 2. Phải trả ngắn hạn khác,2. Phải trả ngắn hạn khác,3.562.966.226.487,768.966.940.391,4.331.933.166.878,3562966226487.0,768966940391.0,4331933166878.0
+3. Dự phòng phải trả dài hạn,NGUỒN VỐN > 3. Dự phòng phải trả dài hạn,3. Dự phòng phải trả dài hạn,1.337.013.266.449,(639.825.000.000),697.188.266.449,1337013266449.0,-639825000000.0,697188266449.0
+4. Quỹ đầu tư phát triển,NGUỒN VỐN > 4. Quỹ đầu tư phát triển,4. Quỹ đầu tư phát triển,3.054.602.970.980,310.467.213.725,3.365.070.184.705,3054602970980.0,310467213725.0,3365070184705.0

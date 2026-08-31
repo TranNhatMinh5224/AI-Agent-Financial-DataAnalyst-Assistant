@@ -1,0 +1,17 @@
+﻿row_label_raw,row_label_full,col_0,Mẫu B 02 – DN/HN(Ban hành theo Thông tư số 202/2014/TT-BTCngày 22 tháng 12 năm 2014 của Bộ Tài chính) > Mã số,Mẫu B 02 – DN/HN(Ban hành theo Thông tư số 202/2014/TT-BTCngày 22 tháng 12 năm 2014 của Bộ Tài chính) > Thuyết minh,Mẫu B 02 – DN/HN(Ban hành theo Thông tư số 202/2014/TT-BTCngày 22 tháng 12 năm 2014 của Bộ Tài chính) > 2016Triệu VND,Mẫu B 02 – DN/HN(Ban hành theo Thông tư số 202/2014/TT-BTCngày 22 tháng 12 năm 2014 của Bộ Tài chính) > 2015Triệu VND,numeric__Mẫu B 02 – DN/HN(Ban hành theo Thông tư số 202/2014/TT-BTCngày 22 tháng 12 năm 2014 của Bộ Tài chính) > Mã số,numeric__Mẫu B 02 – DN/HN(Ban hành theo Thông tư số 202/2014/TT-BTCngày 22 tháng 12 năm 2014 của Bộ Tài chính) > Thuyết minh,numeric__Mẫu B 02 – DN/HN(Ban hành theo Thông tư số 202/2014/TT-BTCngày 22 tháng 12 năm 2014 của Bộ Tài chính) > 2016Triệu VND,numeric__Mẫu B 02 – DN/HN(Ban hành theo Thông tư số 202/2014/TT-BTCngày 22 tháng 12 năm 2014 của Bộ Tài chính) > 2015Triệu VND
+Doanh thu bán hàng,Doanh thu bán hàng,Doanh thu bán hàng,01,27,45.100.176,31.324.871,1.0,27.0,45100176.0,31324871.0
+Các khoản giảm trừ doanh thu,Các khoản giảm trừ doanh thu,Các khoản giảm trừ doanh thu,02,27,1.803.112,696.461,2.0,27.0,1803112.0,696461.0
+Doanh thu thuần (10 = 01 - 02),Doanh thu thuần (10 = 01 - 02),Doanh thu thuần (10 = 01 - 02),10,27,43.297.064,30.628.410,10.0,27.0,43297064.0,30628410.0
+Giá vốn hàng bán,Giá vốn hàng bán,Giá vốn hàng bán,11,28,30.366.979,20.819.786,11.0,28.0,30366979.0,20819786.0
+Lợi nhuận gộp (20 = 10 - 11),Lợi nhuận gộp (20 = 10 - 11),Lợi nhuận gộp (20 = 10 - 11),20,,12.930.085,9.808.624,20.0,,12930085.0,9808624.0
+Doanh thu hoạt động tài chính,Doanh thu hoạt động tài chính,Doanh thu hoạt động tài chính,21,29,769.194,1.382.303,21.0,29.0,769194.0,1382303.0
+Chi phí tài chính,Chi phí tài chính,Chi phí tài chính,22,30,3.291.226,2.714.701,22.0,30.0,3291226.0,2714701.0
+Trong đó: Chi phí lãi vay,Trong đó: Chi phí lãi vay,Trong đó: Chi phí lãi vay,23,,3.112.480,2.425.305,23.0,,3112480.0,2425305.0
+Lãi từ các công ty liên kết,Lãi từ các công ty liên kết,Lãi từ các công ty liên kết,24,7,979.938,499.017,24.0,7.0,979938.0,499017.0
+Chi phí bán hàng,Chi phí bán hàng,Chi phí bán hàng,25,31,4.970.503,4.044.357,25.0,31.0,4970503.0,4044357.0
+Chi phí quản lý doanh nghiệp,Chi phí quản lý doanh nghiệp,Chi phí quản lý doanh nghiệp,26,32,1.936.381,1.664.517,26.0,32.0,1936381.0,1664517.0
+Lợi nhuận thuần từ hoạt động kinh doanh{30 = 20 + (21 - 22) + 24 - (25 + 26)},Lợi nhuận thuần từ hoạt động kinh doanh{30 = 20 + (21 - 22) + 24 - (25 + 26)},Lợi nhuận thuần từ hoạt động kinh doanh{30 = 20 + (21 - 22) + 24 - (25 + 26)},30,,4.481.107,3.266.369,30.0,,4481107.0,3266369.0
+Thu nhập khác,Thu nhập khác,Thu nhập khác,31,,14.672,34.513,31.0,,14672.0,34513.0
+Chi phí khác,Chi phí khác,Chi phí khác,32,,49.376,74.153,32.0,,49376.0,74153.0
+Kết quả từ các hoạt động khác (40 = 31 - 32),Kết quả từ các hoạt động khác (40 = 31 - 32),Kết quả từ các hoạt động khác (40 = 31 - 32),40,,(34.704),(39.640),40.0,,-34704.0,-39640.0
+Lợi nhuận kế toán trước thuế(50 = 30 + 40) (mang sang trang sau),Lợi nhuận kế toán trước thuế(50 = 30 + 40) (mang sang trang sau),Lợi nhuận kế toán trước thuế(50 = 30 + 40) (mang sang trang sau),50,,4.446.403,3.226.729,50.0,,4446403.0,3226729.0

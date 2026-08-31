@@ -96,10 +96,21 @@ def run_search(
             
     if method in ["dense", "hybrid"]:
         from financial_text_to_pandas.retrieval.embeddings import embed_tables
-        emb_model = cfg.embedding_config.get("model_name", "Alibaba-NLP/gte-Qwen2-7B-instruct")
-        emb_batch = cfg.embedding_config.get("batch_size", 16)
-        store = embed_tables(corpus_df, dense_path, model_name=emb_model, mock=mock_embeddings, batch_size=emb_batch)
-        q_vec = embed_query(query, model_name=emb_model, mock=mock_embeddings)
+        emb_model = cfg.embedding_config.get("model_name", "BAAI/bge-m3")
+        emb_batch = cfg.embedding_config.get("batch_size", 32)
+        emb_base_url = cfg.embedding_config.get("base_url")
+        emb_api_key = cfg.embedding_config.get("api_key")
+        # Giới hạn số bảng nhúng tối đa 150 bảng để mỗi câu chỉ nhúng trong 1-3 giây
+        if len(filtered_corpus) > 150:
+            if all_candidates and all_candidates[0]:
+                top_bm25_ids = {c.table_id for c in all_candidates[0][:100]}
+                dense_corpus = filtered_corpus[filtered_corpus["table_id"].isin(top_bm25_ids)]
+            else:
+                dense_corpus = filtered_corpus.head(100)
+        else:
+            dense_corpus = filtered_corpus if not filtered_corpus.empty else corpus_df.head(100)
+        store = embed_tables(dense_corpus, dense_path, model_name=emb_model, mock=mock_embeddings, batch_size=emb_batch, base_url=emb_base_url, api_key=emb_api_key)
+        q_vec = embed_query(query, model_name=emb_model, mock=mock_embeddings, base_url=emb_base_url, api_key=emb_api_key)
         dense_cands = search_dense(store, hints.query_id, query, q_vec, top_k=max(50, top_k * 2), filter_ids=filter_ids)
         all_candidates.append(dense_cands)
         
@@ -112,8 +123,19 @@ def run_search(
         c.csv_path = str(path_map.get(c.table_id, ""))
         
     # 5. Rerank
-    reranker_model = None if no_reranker else cfg.reranker_config.get("model_name", "BAAI/bge-reranker-v2-m3")
-    evidence = rerank_candidates(query, merged, top_k=top_k, mock=False, model_name=reranker_model)
+    reranker_model = None if no_reranker else cfg.reranker_config.get("model_name", "Qwen/Qwen3-Reranker-8B")
+    reranker_base_url = cfg.reranker_config.get("base_url")
+    reranker_api_key = cfg.reranker_config.get("api_key")
+    evidence = rerank_candidates(
+        query, 
+        merged, 
+        corpus_df=corpus_df, 
+        top_k=top_k, 
+        mock=False, 
+        model_name=reranker_model,
+        base_url=reranker_base_url,
+        api_key=reranker_api_key
+    )
     
     return evidence
 

@@ -1,0 +1,29 @@
+﻿row_label_raw,row_label_full,Tại ngày 31 tháng 12 năm 2024,Quá hạn,Không chịu lãi,Đến 1 tháng,Từ trên 1 tháng đến 3 tháng,Từ trên 3 tháng đến 6 tháng,Từ trên 6 tháng đến 12 tháng,Từ trên 1 năm đến 5 năm,Trên 5 năm,numeric__Quá hạn,numeric__Không chịu lãi,numeric__Đến 1 tháng,numeric__Từ trên 1 tháng đến 3 tháng,numeric__Từ trên 3 tháng đến 6 tháng,numeric__Từ trên 6 tháng đến 12 tháng,numeric__Từ trên 1 năm đến 5 năm,numeric__Trên 5 năm
+Tài sản,Tài sản,Tài sản,Tài sản,Tài sản,Tài sản,Tài sản,Tài sản,Tài sản,Tài sản,Tài sản,,,,,,,,
+Tiền gửi tại NHNNVN,Tiền gửi tại NHNNVN,Tiền gửi tại NHNNVN,,,,,,,,,,,,,,,,
+▪ VND,Tiền gửi tại NHNNVN > ▪ VND,▪ VND,(*),(*),"0,00%",(*),(*),(*),(*),(*),,,0.0,,,,,
+▪ Ngoại tệ,Tiền gửi tại NHNNVN > ▪ Ngoại tệ,▪ Ngoại tệ,(*),(*),"0,00%",(*),(*),(*),(*),(*),,,0.0,,,,,
+Tiền gửi và cho vay các TCTD khác,Tiền gửi và cho vay các TCTD khác,Tiền gửi và cho vay các TCTD khác,,,,,,,,,,,,,,,,
+▪ VND,▪ VND,▪ VND,(*),(*),"3,80%-5,30%","4,30%-5,55%",(*),(*),(*),(*),,,,,,,,
+▪ Ngoại tệ,▪ VND > ▪ Ngoại tệ,▪ Ngoại tệ,(*),(*),"4,50%","4,50%-5,10%",(*),(*),(*),(*),,,0.045,,,,,
+Cho vay khách hàng,Cho vay khách hàng,Cho vay khách hàng,,,,,,,,,,,,,,,,
+▪ VND,▪ VND,▪ VND,"0,00%-31,49%",(*),"0,00%-29,40%","0,00%-29,40%",(*),(*),(*),(*),,,,,,,,
+▪ Ngoại tệ,▪ Ngoại tệ,▪ Ngoại tệ,(*),(*),"4,50%-7,30%","4,50%-8,30%",(*),(*),(*),(*),,,,,,,,
+Hoạt động mua nợ,Hoạt động mua nợ,Hoạt động mua nợ,,,,,,,,,,,,,,,,
+▪ VND,Hoạt động mua nợ > ▪ VND,▪ VND,(*),(*),"6,8%","7,10%-9,00%",(*),(*),(*),(*),,,0.068,,,,,
+▪ Ngoại tệ,Hoạt động mua nợ > ▪ Ngoại tệ,▪ Ngoại tệ,(*),(*),(*),"5,40%",(*),(*),(*),(*),,,,0.054000000000000006,,,,
+Chứng khoán đầu tư,Chứng khoán đầu tư,Chứng khoán đầu tư,,,,,,,,,,,,,,,,
+▪ VND,Chứng khoán đầu tư > ▪ VND,▪ VND,"8,90%",(*),(*),(*),(*),"5,60%","1,50%-13,10%","2,00%-9,10%",0.08900000000000001,,,,,0.055999999999999994,,
+Nợ phải trả,Nợ phải trả,Nợ phải trả,Nợ phải trả,Nợ phải trả,Nợ phải trả,Nợ phải trả,Nợ phải trả,Nợ phải trả,Nợ phải trả,Nợ phải trả,,,,,,,,
+"Tiền gửi và vay Chính phủ, NHNNVN","Tiền gửi và vay Chính phủ, NHNNVN","Tiền gửi và vay Chính phủ, NHNNVN",,,,,,,,,,,,,,,,
+▪ VND,"Tiền gửi và vay Chính phủ, NHNNVN > ▪ VND",▪ VND,(*),(*),"4,00%",(*),(*),(*),(*),(*),,,0.04,,,,,
+Tiền gửi và vay các TCTD khác,Tiền gửi và vay các TCTD khác,Tiền gửi và vay các TCTD khác,,,,,,,,,,,,,,,,
+▪ VND,Tiền gửi và vay các TCTD khác > ▪ VND,▪ VND,(*),(*),"2,50%-5,35%","4,40%-5,55%","5,30%-5,69%","6,17%-6,22%","4,32%","4,32%",,,,,,,0.0432,0.0432
+▪ Ngoại tệ,Tiền gửi và vay các TCTD khác > ▪ Ngoại tệ,▪ Ngoại tệ,(*),(*),"4,50%","4,50%-5,05%","5,12%-5,71%","6,14%",(*),(*),,,0.045,,,0.061399999999999996,,
+Tiền gửi của khách hàng,Tiền gửi của khách hàng,Tiền gửi của khách hàng,,,,,,,,,,,,,,,,
+▪ VND,▪ VND,▪ VND,(*),(*),"0,20%-7,20%","0,50%-4,75%","2,30%-6,30%","3,00%-6,60%","3,00%-9,70%","0,20%-9,30%",,,,,,,,
+▪ Ngoại tệ,▪ VND > ▪ Ngoại tệ,▪ Ngoại tệ,(*),(*),"0,00%","0,00%","0,00%","0,00%","0,00%","0,00%",,,0.0,0.0,0.0,0.0,0.0,0.0
+Phát hành giấy tờ có giá,Phát hành giấy tờ có giá,Phát hành giấy tờ có giá,,,,,,,,,,,,,,,,
+▪ VND,Phát hành giấy tờ có giá > ▪ VND,▪ VND,(*),(*),(*),"5,15%","5,10%-5,80%","5,10%-6,00%","5,50%-8,00%","0,00%",,,,0.051500000000000004,,,,0.0
+"Vốn tài trợ, ủy thác đầu tư, cho vay TCTD chịu rủi ro","Vốn tài trợ, ủy thác đầu tư, cho vay TCTD chịu rủi ro","Vốn tài trợ, ủy thác đầu tư, cho vay TCTD chịu rủi ro",,,,,,,,,,,,,,,,
+▪ VND,"Vốn tài trợ, ủy thác đầu tư, cho vay TCTD chịu rủi ro > ▪ VND",▪ VND,(*),(*),"0,00%","3,48%","0,00%","3,48%","3,48%","0,00%",,,0.0,0.0348,0.0,0.0348,0.0348,0.0

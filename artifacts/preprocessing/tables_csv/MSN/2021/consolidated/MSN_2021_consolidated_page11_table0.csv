@@ -1,0 +1,20 @@
+﻿row_label_raw,row_label_full,col_0,Mã số,Thuyết minh,31/12/2021 Triệu VND,1/1/2021 Triệu VND,numeric__Mã số,numeric__Thuyết minh,numeric__31/12/2021 Triệu VND,numeric__1/1/2021 Triệu VND
+NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,,,,
+NỘ PHẢI TRẢ (300 = 310 + 330),NGUỒN VỐN > NỘ PHẢI TRẢ (300 = 310 + 330),NỘ PHẢI TRẢ (300 = 310 + 330),300,,83.756.819,90.706.283,300.0,,83756819.0,90706283.0
+Nợ ngắn hạn,NGUỒN VỐN > Nợ ngắn hạn,Nợ ngắn hạn,310,,34.547.836,38.874.663,310.0,,34547836.0,38874663.0
+Phải trả người bán ngắn hạn,NGUỒN VỐN > Phải trả người bán ngắn hạn,Phải trả người bán ngắn hạn,311,,7.970.287,6.832.649,311.0,,7970287.0,6832649.0
+Người mua trả tiền trước,NGUỒN VỐN > Người mua trả tiền trước,Người mua trả tiền trước,312,,168.183,1.074.932,312.0,,168183.0,1074932.0
+Thuế phải nộp Nhà nước,NGUỒN VỐN > Thuế phải nộp Nhà nước,Thuế phải nộp Nhà nước,313,18(b),801.899,941.302,313.0,,801899.0,941302.0
+Phải trả người lao động,NGUỒN VỐN > Phải trả người lao động,Phải trả người lao động,314,,222.205,239.074,314.0,,222205.0,239074.0
+Chi phí phải trả,NGUỒN VỐN > Chi phí phải trả,Chi phí phải trả,315,19,4.996.691,4.705.417,315.0,19.0,4996691.0,4705417.0
+Doanh thu chưa thực hiện,NGUỒN VỐN > Doanh thu chưa thực hiện,Doanh thu chưa thực hiện,318,,14.532,20.706,318.0,,14532.0,20706.0
+Phải trả ngắn hạn khác,NGUỒN VỐN > Phải trả ngắn hạn khác,Phải trả ngắn hạn khác,319,20,1.513.366,2.472.126,319.0,20.0,1513366.0,2472126.0
+"Vay, trái phiếu phát hành và nợ thuê tài chính ngắn hạn","NGUỒN VỐN > Vay, trái phiếu phát hành và nợ thuê tài chính ngắn hạn","Vay, trái phiếu phát hành và nợ thuê tài chính ngắn hạn",320,21(a),18.805.727,22.545.046,320.0,,18805727.0,22545046.0
+Dự phòng phải trả ngắn hạn,NGUỒN VỐN > Dự phòng phải trả ngắn hạn,Dự phòng phải trả ngắn hạn,321,,19.101,6.517,321.0,,19101.0,6517.0
+Quỹ khen thưởng và phúc lợi,NGUỒN VỐN > Quỹ khen thưởng và phúc lợi,Quỹ khen thưởng và phúc lợi,322,,35.845,36.894,322.0,,35845.0,36894.0
+Nợ dài hạn,NGUỒN VỐN > Nợ dài hạn,Nợ dài hạn,330,,49.208.983,51.831.620,330.0,,49208983.0,51831620.0
+Phải trả người bán dài hạn,NGUỒN VỐN > Phải trả người bán dài hạn,Phải trả người bán dài hạn,331,,25.014,27.668,331.0,,25014.0,27668.0
+Phải trả dài hạn khác,NGUỒN VỐN > Phải trả dài hạn khác,Phải trả dài hạn khác,337,20,227.575,180.397,337.0,20.0,227575.0,180397.0
+"Vay, trái phiếu phát hành và nợ thuê tài chính dài hạn","NGUỒN VỐN > Vay, trái phiếu phát hành và nợ thuê tài chính dài hạn","Vay, trái phiếu phát hành và nợ thuê tài chính dài hạn",338,21(b),39.371.918,39.466.043,338.0,,39371918.0,39466043.0
+Thuế thu nhập hoãn lại phải trả,NGUỒN VỐN > Thuế thu nhập hoãn lại phải trả,Thuế thu nhập hoãn lại phải trả,341,16,3.215.395,4.651.174,341.0,16.0,3215395.0,4651174.0
+Dự phòng phải trả dài hạn,NGUỒN VỐN > Dự phòng phải trả dài hạn,Dự phòng phải trả dài hạn,342,22,6.369.081,7.506.338,342.0,22.0,6369081.0,7506338.0

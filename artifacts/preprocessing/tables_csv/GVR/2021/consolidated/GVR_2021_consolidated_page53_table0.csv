@@ -1,0 +1,12 @@
+﻿row_label_raw,row_label_full,Khoản mục,"Máy móc, thiết bị",Tổng cộng,"numeric__Máy móc, thiết bị",numeric__Tổng cộng
+Nguyên giá,Nguyên giá,Nguyên giá,,,,
+Số dư đầu năm,Nguyên giá > Số dư đầu năm,Số dư đầu năm,1.251.200.000,1.251.200.000,1251200000.0,1251200000.0
+- Thuê tài chính trong năm,- Thuê tài chính trong năm,- Thuê tài chính trong năm,-,-,,
+Số dư cuối năm,- Thuê tài chính trong năm > Số dư cuối năm,Số dư cuối năm,1.251.200.000,1.251.200.000,1251200000.0,1251200000.0
+Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,,,,
+Số dư đầu năm,Giá trị hao mòn lũy kế > Số dư đầu năm,Số dư đầu năm,(26.066.667),(26.066.667),-26066667.0,-26066667.0
+- Khấu hao trong năm,Giá trị hao mòn lũy kế > - Khấu hao trong năm,- Khấu hao trong năm,(312.800.004),(312.800.004),-312800004.0,-312800004.0
+Số dư cuối năm,Giá trị hao mòn lũy kế > Số dư cuối năm,Số dư cuối năm,(338.866.671),(338.866.671),-338866671.0,-338866671.0
+Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,,,,
+- Tại ngày đầu năm,Giá trị còn lại > - Tại ngày đầu năm,- Tại ngày đầu năm,1.225.133.333,1.225.133.333,1225133333.0,1225133333.0
+- Tại ngày cuối năm,Giá trị còn lại > - Tại ngày cuối năm,- Tại ngày cuối năm,912.333.329,912.333.329,912333329.0,912333329.0

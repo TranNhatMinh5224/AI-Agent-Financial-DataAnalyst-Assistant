@@ -1,0 +1,16 @@
+﻿row_label_raw,row_label_full,col_0,Năm nay,Năm trước,numeric__Năm nay,numeric__Năm trước
+,,,Triệu VND,Triệu VND,,
+Lợi nhuận trước thuế TNDN,Lợi nhuận trước thuế TNDN,Lợi nhuận trước thuế TNDN,14.861.975,11.339.253,14861975.0,11339253.0
+Trừ:,Trừ:,Trừ:,,,,
+- Thu nhập tử cổ tức và lợi nhuận được chia không chịu thuế,Trừ: > - Thu nhập tử cổ tức và lợi nhuận được chia không chịu thuế,- Thu nhập tử cổ tức và lợi nhuận được chia không chịu thuế,(10.986),(13.772),-10986.0,-13772.0
+Cộng:,Cộng:,Cộng:,,,,
+- Chi phí khác không được khấu trừ thuế,Cộng: > - Chi phí khác không được khấu trừ thuế,- Chi phí khác không được khấu trừ thuế,210.921,38.323,210921.0,38323.0
+Thu nhập chịu thuế,Cộng: > Thu nhập chịu thuế,Thu nhập chịu thuế,15.061.910,11.363.804,15061910.0,11363804.0
+Thuế suất thuế TNDN,Cộng: > Thuế suất thuế TNDN,Thuế suất thuế TNDN,20%,20%,0.2,0.2
+Chi phí thuế TNDN theo thuế suất,Cộng: > Chi phí thuế TNDN theo thuế suất,Chi phí thuế TNDN theo thuế suất,3.012.382,2.272.761,3012382.0,2272761.0
+Chi phí thuế TNDN tính trên thu nhập chịu thuế năm hiện tại,Cộng: > Chi phí thuế TNDN tính trên thu nhập chịu thuế năm hiện tại,Chi phí thuế TNDN tính trên thu nhập chịu thuế năm hiện tại,3.012.382,2.272.761,3012382.0,2272761.0
+Điều chính chi phí thuế TNDN của năm trước vào chi phí thuế TNDN năm hiện hành,Cộng: > Điều chính chi phí thuế TNDN của năm trước vào chi phí thuế TNDN năm hiện hành,Điều chính chi phí thuế TNDN của năm trước vào chi phí thuế TNDN năm hiện hành,65,(65.546),65.0,-65546.0
+Tổng chi phí thuế TNDN trong năm,Cộng: > Tổng chi phí thuế TNDN trong năm,Tổng chi phí thuế TNDN trong năm,3.012.447,2.207.215,3012447.0,2207215.0
+Thuế TNDN phải trả đãu năm,Cộng: > Thuế TNDN phải trả đãu năm,Thuế TNDN phải trả đãu năm,1.506.394,1.136.111,1506394.0,1136111.0
+Thuế TNDN đã trả trong năm,Cộng: > Thuế TNDN đã trả trong năm,Thuế TNDN đã trả trong năm,(2.281.459),(1.836.932),-2281459.0,-1836932.0
+Thuế TNDN còn phải nộp cuối năm,Cộng: > Thuế TNDN còn phải nộp cuối năm,Thuế TNDN còn phải nộp cuối năm,2.237.382,1.506.394,2237382.0,1506394.0

@@ -1,0 +1,14 @@
+﻿row_label_raw,row_label_full,col_0,Quyền sử dụng đất có thời hạn Triệu đồng,Quyền sử dụng đất không thời hạn Triệu đồng,Phần mềm máy vi tính Triệu đồng,Tài sản khác Triệu đồng,Tổng cộng Triệu đồng,numeric__Quyền sử dụng đất có thời hạn Triệu đồng,numeric__Quyền sử dụng đất không thời hạn Triệu đồng,numeric__Phần mềm máy vi tính Triệu đồng,numeric__Tài sản khác Triệu đồng,numeric__Tổng cộng Triệu đồng
+Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,,,,,
+Số đầu năm,Nguyên giá > Số đầu năm,Số đầu năm,47.237,938.503,193.208,2.287,1.181.235,47237.0,938503.0,193208.0,2287.0,1181235.0
+Tăng trong năm,Nguyên giá > Tăng trong năm,Tăng trong năm,44.232,7.995,6.951,1.075,60.253,44232.0,7995.0,6951.0,1075.0,60253.0
+Giảm trong năm,Nguyên giá > Giảm trong năm,Giảm trong năm,(726),(319),-,-,(1.045),-726.0,-319.0,,,-1045.0
+Số cuối năm,Nguyên giá > Số cuối năm,Số cuối năm,90.743,946.179,200.159,3.362,1.240.443,90743.0,946179.0,200159.0,3362.0,1240443.0
+Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,,,,,
+Số đầu năm,Giá trị hao mòn lũy kế > Số đầu năm,Số đầu năm,3.195,-,176.021,1.850,181.066,3195.0,,176021.0,1850.0,181066.0
+Hao mòn trong năm,Giá trị hao mòn lũy kế > Hao mòn trong năm,Hao mòn trong năm,1.215,-,11.552,462,13.229,1215.0,,11552.0,462.0,13229.0
+"Thanh lý, nhượng bán","Giá trị hao mòn lũy kế > Thanh lý, nhượng bán","Thanh lý, nhượng bán",(81),-,-,-,(81),-81.0,,,,-81.0
+Số cuối năm,Giá trị hao mòn lũy kế > Số cuối năm,Số cuối năm,4.329,-,187.573,2.312,194.214,4329.0,,187573.0,2312.0,194214.0
+Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,,,,,
+Số đầu năm,Giá trị còn lại > Số đầu năm,Số đầu năm,44.042,938.503,17.187,437,1.000.169,44042.0,938503.0,17187.0,437.0,1000169.0
+Số cuối năm,Giá trị còn lại > Số cuối năm,Số cuối năm,86.414,946.179,12.586,1.050,1.046.229,86414.0,946179.0,12586.0,1050.0,1046229.0

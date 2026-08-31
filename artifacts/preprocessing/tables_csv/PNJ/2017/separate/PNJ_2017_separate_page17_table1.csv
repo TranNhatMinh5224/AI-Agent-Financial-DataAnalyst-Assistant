@@ -1,0 +1,12 @@
+﻿row_label_raw,row_label_full,col_0,Số đầu nămVND,Số phải thu/nộptrong nămVND,Số đã thu/nộptrong nămVND,Số cuối nămVND,numeric__Số đầu nămVND,numeric__Số phải thu/nộptrong nămVND,numeric__Số đã thu/nộptrong nămVND,numeric__Số cuối nămVND
+a. Các khoản phải thu,a. Các khoản phải thu,a. Các khoản phải thu,a. Các khoản phải thu,a. Các khoản phải thu,a. Các khoản phải thu,a. Các khoản phải thu,,,,
+Thuế giá trị gia tăng,a. Các khoản phải thu > Thuế giá trị gia tăng,Thuế giá trị gia tăng,627.332.217,(81.805.059.286),86.218.527.150,5.040.800.081,627332217.0,-81805059286.0,86218527150.0,5040800081.0
+Thuế xuất nhập khẩu,a. Các khoản phải thu > Thuế xuất nhập khẩu,Thuế xuất nhập khẩu,9.843.113,(2.389.843.465),2.426.573.740,46.573.388,9843113.0,-2389843465.0,2426573740.0,46573388.0
+Thuế khác,a. Các khoản phải thu > Thuế khác,Thuế khác,-,(153.221.052),155.721.052,2.500.000,,-153221052.0,155721052.0,2500000.0
+,,,637.175.330,(84.348.123.803),88.800.821.942,5.089.873.469,637175330.0,-84348123803.0,88800821942.0,5089873469.0
+b. Các khoản phải nộp,b. Các khoản phải nộp,b. Các khoản phải nộp,b. Các khoản phải nộp,b. Các khoản phải nộp,b. Các khoản phải nộp,b. Các khoản phải nộp,,,,
+Thuế giá trị gia tăng,b. Các khoản phải nộp > Thuế giá trị gia tăng,Thuế giá trị gia tăng,17.778.575.801,208.561.975.183,(202.076.218.041),24.264.332.943,17778575801.0,208561975183.0,-202076218041.0,24264332943.0
+Thuế thu nhập doanh nghiệp,b. Các khoản phải nộp > Thuế thu nhập doanh nghiệp,Thuế thu nhập doanh nghiệp,57.842.622.620,179.918.211.850,(151.155.667.909),86.605.166.561,57842622620.0,179918211850.0,-151155667909.0,86605166561.0
+Thuế thu nhập cá nhân,b. Các khoản phải nộp > Thuế thu nhập cá nhân,Thuế thu nhập cá nhân,2.894.061.159,13.612.234.498,(15.588.864.102),917.431.555,2894061159.0,13612234498.0,-15588864102.0,917431555.0
+Thuế khác,b. Các khoản phải nộp > Thuế khác,Thuế khác,7.807.118.018,1.335.341.608,(4.546.032.355),4.596.427.271,7807118018.0,1335341608.0,-4546032355.0,4596427271.0
+,,,86.322.377.598,403.427.763.139,(373.366.782.407),116.383.358.330,86322377598.0,403427763139.0,-373366782407.0,116383358330.0

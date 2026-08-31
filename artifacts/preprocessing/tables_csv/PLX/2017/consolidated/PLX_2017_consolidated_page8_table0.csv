@@ -1,0 +1,25 @@
+﻿row_label_raw,row_label_full,col_0,Mã số,Thuyết minh,31/12/2017 VND,1/1/2017 VND,numeric__Mã số,numeric__Thuyết minh,numeric__31/12/2017 VND,numeric__1/1/2017 VND
+NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,,,,
+NỘ PHẢI TRẢ (300 = 310 + 330),NGUỒN VỐN > NỘ PHẢI TRẢ (300 = 310 + 330),NỘ PHẢI TRẢ (300 = 310 + 330),300,,38.385.075.927.607,31.043.829.442.660,300.0,,38385075927607.0,31043829442660.0
+Nợ ngắn hạn,NGUỒN VỐN > Nợ ngắn hạn,Nợ ngắn hạn,310,,35.757.792.050.085,27.941.980.070.519,310.0,,35757792050085.0,27941980070519.0
+Phải trả người bán ngắn hạn,NGUỒN VỐN > Phải trả người bán ngắn hạn,Phải trả người bán ngắn hạn,311,16,15.270.928.443.422,11.522.669.163.818,311.0,16.0,15270928443422.0,11522669163818.0
+Người mua trả tiền trước ngắn hạn,NGUỒN VỐN > Người mua trả tiền trước ngắn hạn,Người mua trả tiền trước ngắn hạn,312,,200.891.527.721,526.600.619.415,312.0,,200891527721.0,526600619415.0
+Thuế và các khoản phải nộp,Thuế và các khoản phải nộp,Thuế và các khoản phải nộp,,,,,,,,
+Nhà nước,Thuế và các khoản phải nộp > Nhà nước,Nhà nước,313,17,1.730.337.723.799,2.096.667.226.664,313.0,17.0,1730337723799.0,2096667226664.0
+Phải trả người lao động,Thuế và các khoản phải nộp > Phải trả người lao động,Phải trả người lao động,314,,922.143.296.413,1.053.483.580.467,314.0,,922143296413.0,1053483580467.0
+Chi phí phải trả ngắn hạn,Thuế và các khoản phải nộp > Chi phí phải trả ngắn hạn,Chi phí phải trả ngắn hạn,315,,268.697.389.078,185.383.858.808,315.0,,268697389078.0,185383858808.0
+Doanh thu chưa thực hiện ngắn hạn,Thuế và các khoản phải nộp > Doanh thu chưa thực hiện ngắn hạn,Doanh thu chưa thực hiện ngắn hạn,318,,13.064.987.675,75.041.994.171,318.0,,13064987675.0,75041994171.0
+Phải trả ngắn hạn khác,Thuế và các khoản phải nộp > Phải trả ngắn hạn khác,Phải trả ngắn hạn khác,319,18,243.367.242.706,373.542.415.375,319.0,18.0,243367242706.0,373542415375.0
+Vay ngắn hạn,Thuế và các khoản phải nộp > Vay ngắn hạn,Vay ngắn hạn,320,19(a),13.745.080.780.307,7.038.009.632.280,320.0,,13745080780307.0,7038009632280.0
+Dự phòng phải trả ngắn hạn,Thuế và các khoản phải nộp > Dự phòng phải trả ngắn hạn,Dự phòng phải trả ngắn hạn,321,20,44.890.213.714,2.968.182.984.991,321.0,20.0,44890213714.0,2968182984991.0
+"Quỹ khen thưởng, phúc lợi","Thuế và các khoản phải nộp > Quỹ khen thưởng, phúc lợi","Quỹ khen thưởng, phúc lợi",322,,278.309.850.371,271.420.528.510,322.0,,278309850371.0,271420528510.0
+Quỹ bình ổn giá xăng dầu,Thuế và các khoản phải nộp > Quỹ bình ổn giá xăng dầu,Quỹ bình ổn giá xăng dầu,323,21,3.040.080.594.879,1.830.978.066.020,323.0,21.0,3040080594879.0,1830978066020.0
+Nợ dài hạn,Thuế và các khoản phải nộp > Nợ dài hạn,Nợ dài hạn,330,,2.627.283.877.522,3.101.849.372.141,330.0,,2627283877522.0,3101849372141.0
+Người mua trả tiền trước dài hạn,Thuế và các khoản phải nộp > Người mua trả tiền trước dài hạn,Người mua trả tiền trước dài hạn,332,,10.897.063.530,11.210.863.970,332.0,,10897063530.0,11210863970.0
+Chi phí phải trả dài hạn,Thuế và các khoản phải nộp > Chi phí phải trả dài hạn,Chi phí phải trả dài hạn,333,,908.435.872,290.467.540,333.0,,908435872.0,290467540.0
+Doanh thu chưa thực hiện dài hạn,Thuế và các khoản phải nộp > Doanh thu chưa thực hiện dài hạn,Doanh thu chưa thực hiện dài hạn,336,,14.478.816.904,9.144.815.444,336.0,,14478816904.0,9144815444.0
+Phải trả dài hạn khác,Thuế và các khoản phải nộp > Phải trả dài hạn khác,Phải trả dài hạn khác,337,,167.086.416.528,201.887.838.383,337.0,,167086416528.0,201887838383.0
+Vay dài hạn,Thuế và các khoản phải nộp > Vay dài hạn,Vay dài hạn,338,19(b),2.406.437.211.735,2.852.388.509.980,338.0,,2406437211735.0,2852388509980.0
+Thuế thu nhập hoãn lại phải trả,Thuế và các khoản phải nộp > Thuế thu nhập hoãn lại phải trả,Thuế thu nhập hoãn lại phải trả,341,,5.342.959.580,4.878.702.501,341.0,,5342959580.0,4878702501.0
+Dự phòng phải trả dài hạn,Thuế và các khoản phải nộp > Dự phòng phải trả dài hạn,Dự phòng phải trả dài hạn,342,,19.067.212.373,10.543.121.369,342.0,,19067212373.0,10543121369.0
+Quỹ phát triển khoa học và công nghệ,Thuế và các khoản phải nộp > Quỹ phát triển khoa học và công nghệ,Quỹ phát triển khoa học và công nghệ,343,,3.065.761.000,11.505.052.954,343.0,,3065761000.0,11505052954.0

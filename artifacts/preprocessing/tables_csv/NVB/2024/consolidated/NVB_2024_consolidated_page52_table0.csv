@@ -1,0 +1,18 @@
+﻿row_label_raw,row_label_full,Chỉ tiêu,USD được quy đổi,EUR được quy đổi,Các ngoại tệ khác được quy đổi,Tổng,numeric__USD được quy đổi,numeric__EUR được quy đổi,numeric__Các ngoại tệ khác được quy đổi,numeric__Tổng
+Tải sản,Tải sản,Tải sản,,,,,,,,
+"Tiền mặt, vàng bạc, đá quý","Tải sản > Tiền mặt, vàng bạc, đá quý","Tiền mặt, vàng bạc, đá quý",23.875,124,110,24.109,23875.0,124.0,110.0,24109.0
+Tiền gửi tại NHNN,Tải sản > Tiền gửi tại NHNN,Tiền gửi tại NHNN,35.568,-,-,35.568,35568.0,,,35568.0
+Tiền gửi và cho vay các TCTD khác (*),Tải sản > Tiền gửi và cho vay các TCTD khác (*),Tiền gửi và cho vay các TCTD khác (*),367.905,2.674,11.822,382.401,367905.0,2674.0,11822.0,382401.0
+Các công cụ tài chính phải sinh và các tài sản tài chính khác (*),Tải sản > Các công cụ tài chính phải sinh và các tài sản tài chính khác (*),Các công cụ tài chính phải sinh và các tài sản tài chính khác (*),-,265,-,265,,265.0,,265.0
+Cho vay khách hàng (*),Tải sản > Cho vay khách hàng (*),Cho vay khách hàng (*),210.582,-,-,210.582,210582.0,,,210582.0
+Tải sản Có khác (*),Tải sản > Tải sản Có khác (*),Tải sản Có khác (*),877,-,-,877,877.0,,,877.0
+Tổng Tài sản,Tải sản > Tổng Tài sản,Tổng Tài sản,638.807,3.063,11.932,653.802,638807.0,3063.0,11932.0,653802.0
+Nợ phải trả và Vốn chủ sở hữu,Nợ phải trả và Vốn chủ sở hữu,Nợ phải trả và Vốn chủ sở hữu,,,,,,,,
+Tiền gửi và vay từ NHNN và các TCTD khác,Nợ phải trả và Vốn chủ sở hữu > Tiền gửi và vay từ NHNN và các TCTD khác,Tiền gửi và vay từ NHNN và các TCTD khác,-,67,-,67,,67.0,,67.0
+Tiền gửi của khách hàng,Nợ phải trả và Vốn chủ sở hữu > Tiền gửi của khách hàng,Tiền gửi của khách hàng,357.182,3.103,82,360.367,357182.0,3103.0,82.0,360367.0
+Các công cụ tài chính phải sinh và các khoản nợ tài chính khác,Nợ phải trả và Vốn chủ sở hữu > Các công cụ tài chính phải sinh và các khoản nợ tài chính khác,Các công cụ tài chính phải sinh và các khoản nợ tài chính khác,886.253,-,-,886.253,886253.0,,,886253.0
+Các khoản nợ khác,Nợ phải trả và Vốn chủ sở hữu > Các khoản nợ khác,Các khoản nợ khác,28.852,-,-,28.852,28852.0,,,28852.0
+Tổng Nợ phải trả và Vốn chủ sở hữu,Nợ phải trả và Vốn chủ sở hữu > Tổng Nợ phải trả và Vốn chủ sở hữu,Tổng Nợ phải trả và Vốn chủ sở hữu,1.272.288,3.170,82,1.275.540,1272288.0,3170.0,82.0,1275540.0
+Trạng thái tiền tệ nội bảng,Nợ phải trả và Vốn chủ sở hữu > Trạng thái tiền tệ nội bảng,Trạng thái tiền tệ nội bảng,(633.481),(107),11.850,(621.738),-633481.0,-107.0,11850.0,-621738.0
+Trạng thái tiền tệ ngoại bảng,Nợ phải trả và Vốn chủ sở hữu > Trạng thái tiền tệ ngoại bảng,Trạng thái tiền tệ ngoại bảng,(72.765),-,-,(72.765),-72765.0,,,-72765.0
+"Trạng thái tiền tệ nội, ngoại bảng","Nợ phải trả và Vốn chủ sở hữu > Trạng thái tiền tệ nội, ngoại bảng","Trạng thái tiền tệ nội, ngoại bảng",(706.246),(107),11.850,(694.503),-706246.0,-107.0,11850.0,-694503.0

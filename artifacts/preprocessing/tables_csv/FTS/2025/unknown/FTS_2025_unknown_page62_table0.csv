@@ -1,0 +1,31 @@
+﻿row_label_raw,row_label_full,Items,Codes,Notes,This year,Previous year,numeric__Codes,numeric__Notes,numeric__This year,numeric__Previous year
+A,A,A,B,C,1,2,,,1.0,2.0
+III. FINANCE INCOME,III. FINANCE INCOME,III. FINANCE INCOME,,,,,,,,
+3.1. Realized and unrealized gain from changes in foreign exchange rate,III. FINANCE INCOME > 3.1. Realized and unrealized gain from changes in foreign exchange rate,3.1. Realized and unrealized gain from changes in foreign exchange rate,41,,,,41.0,,,
+"3.2. Revenue, accrual from non-fixed interest and Total of financial operations revenue","III. FINANCE INCOME > 3.2. Revenue, accrual from non-fixed interest and Total of financial operations revenue","3.2. Revenue, accrual from non-fixed interest and Total of financial operations revenue",42,B7.33,9.261.788.347,8.827.691.678,42.0,,9261788347.0,8827691678.0
+(50 = 41->44),III. FINANCE INCOME > (50 = 41->44),(50 = 41->44),50,,9.261.788.347,8.827.691.678,50.0,,9261788347.0,8827691678.0
+IV. FINANCIAL EXPENSE,IV. FINANCIAL EXPENSE,IV. FINANCIAL EXPENSE,,,,,,,,
+4.1. Realized and unrealized loss from changes in foreign exchange rate,IV. FINANCIAL EXPENSE > 4.1. Realized and unrealized loss from changes in foreign exchange rate,4.1. Realized and unrealized loss from changes in foreign exchange rate,51,,,,51.0,,,
+4.2. Interest expense,IV. FINANCIAL EXPENSE > 4.2. Interest expense,4.2. Interest expense,52,,,,52.0,,,
+4.4. Other financial expenses,IV. FINANCIAL EXPENSE > 4.4. Other financial expenses,4.4. Other financial expenses,55,,,,55.0,,,
+Total of financial expense (60 = 51->55),IV. FINANCIAL EXPENSE > Total of financial expense (60 = 51->55),Total of financial expense (60 = 51->55),60,,,,60.0,,,
+V. COST OF SALES,IV. FINANCIAL EXPENSE > V. COST OF SALES,V. COST OF SALES,61,,,,61.0,,,
+VI. ADMINISTRATIVE EXPENSES OF SECURITIES COMPANY,IV. FINANCIAL EXPENSE > VI. ADMINISTRATIVE EXPENSES OF SECURITIES COMPANY,VI. ADMINISTRATIVE EXPENSES OF SECURITIES COMPANY,62,B7.35,85.552.355.407,89.837.818.690,62.0,,85552355407.0,89837818690.0
+VII. OPERATING PROFIT (70= 20+50-40 -60-61-62),IV. FINANCIAL EXPENSE > VII. OPERATING PROFIT (70= 20+50-40 -60-61-62),VII. OPERATING PROFIT (70= 20+50-40 -60-61-62),70,,509.413.933.636,661.173.665.835,70.0,,509413933636.0,661173665835.0
+VIII. OTHER INCOME AND EXPENSE,VIII. OTHER INCOME AND EXPENSE,VIII. OTHER INCOME AND EXPENSE,,,,,,,,
+8.1. Other income,VIII. OTHER INCOME AND EXPENSE > 8.1. Other income,8.1. Other income,71,B7.36,69.911.509.456,58.101.747.592,71.0,,69911509456.0,58101747592.0
+8.2. Other expense,VIII. OTHER INCOME AND EXPENSE > 8.2. Other expense,8.2. Other expense,72,B7.37,68.631.862.267,56.102.146.282,72.0,,68631862267.0,56102146282.0
+Total of other profit (80= 71-72),VIII. OTHER INCOME AND EXPENSE > Total of other profit (80= 71-72),Total of other profit (80= 71-72),80,,1.279.647.189,1.999.601.310,80.0,,1279647189.0,1999601310.0
+IX. PROFIT BEFORE TAX (90=70 + 80),VIII. OTHER INCOME AND EXPENSE > IX. PROFIT BEFORE TAX (90=70 + 80),IX. PROFIT BEFORE TAX (90=70 + 80),90,,510.693.580.825,663.173.267.145,90.0,,510693580825.0,663173267145.0
+9.1. Realized profit,VIII. OTHER INCOME AND EXPENSE > 9.1. Realized profit,9.1. Realized profit,91,,617.304.580.480,512.667.977.198,91.0,,617304580480.0,512667977198.0
+9.2. Unrealized profit,VIII. OTHER INCOME AND EXPENSE > 9.2. Unrealized profit,9.2. Unrealized profit,92,,(106.610.999.655),150.505.289.947,92.0,,-106610999655.0,150505289947.0
+X. CORPORATE INCOME TAX,VIII. OTHER INCOME AND EXPENSE > X. CORPORATE INCOME TAX,X. CORPORATE INCOME TAX,100,,113.939.306.003,95.855.772.808,100.0,,113939306003.0,95855772808.0
+10.1. Current corporate income tax expense,VIII. OTHER INCOME AND EXPENSE > 10.1. Current corporate income tax expense,10.1. Current corporate income tax expense,100.1,B7.38,113.939.306.003,95.855.772.808,1001.0,,113939306003.0,95855772808.0
+10.2. Deferred corporate income tax expense,VIII. OTHER INCOME AND EXPENSE > 10.2. Deferred corporate income tax expense,10.2. Deferred corporate income tax expense,100.2,,,,1002.0,,,
+XI. PROFIT AFTER TAX (200 = 90 - 100),VIII. OTHER INCOME AND EXPENSE > XI. PROFIT AFTER TAX (200 = 90 - 100),XI. PROFIT AFTER TAX (200 = 90 - 100),200,,396.754.274.822,567.317.494.337,200.0,,396754274822.0,567317494337.0
+XII. OTHER COMPREHENSIVE PROFIT (LOSS) AFTER CORPORATE INCOME TAX,VIII. OTHER INCOME AND EXPENSE > XII. OTHER COMPREHENSIVE PROFIT (LOSS) AFTER CORPORATE INCOME TAX,XII. OTHER COMPREHENSIVE PROFIT (LOSS) AFTER CORPORATE INCOME TAX,300,,,,300.0,,,
+12.1. Profit/(Loss) from re-evaluating financial assets ready for sale,VIII. OTHER INCOME AND EXPENSE > 12.1. Profit/(Loss) from re-evaluating financial assets ready for sale,12.1. Profit/(Loss) from re-evaluating financial assets ready for sale,301,,,,301.0,,,
+12.2. Profit/(Loss) from exchange rate difference for foreign activities,VIII. OTHER INCOME AND EXPENSE > 12.2. Profit/(Loss) from exchange rate difference for foreign activities,12.2. Profit/(Loss) from exchange rate difference for foreign activities,302,,,,302.0,,,
+12.3. Profit/(Loss) from re-evaluating fixed assets according to a reasonable value model of the company,VIII. OTHER INCOME AND EXPENSE > 12.3. Profit/(Loss) from re-evaluating fixed assets according to a reasonable value model of the company,12.3. Profit/(Loss) from re-evaluating fixed assets according to a reasonable value model of the company,303,,,,303.0,,,
+12.4. Other comprehensive profit/(loss),VIII. OTHER INCOME AND EXPENSE > 12.4. Other comprehensive profit/(loss),12.4. Other comprehensive profit/(loss),304,,,,304.0,,,
+Total of comprehensive income,VIII. OTHER INCOME AND EXPENSE > Total of comprehensive income,Total of comprehensive income,400,,,,400.0,,,

@@ -1,0 +1,13 @@
+﻿row_label_raw,row_label_full,Document status,Number of dossiers,Outstanding balance,Outstanding balance_1,numeric__Number of dossiers,numeric__Outstanding balance,numeric__Outstanding balance_1
+Document status,Document status,Document status,Number of dossiers,Principal balance,Interest,,,
+,,,,VND,VND,,,
+Lawsuit documents,Document status > Lawsuit documents,Lawsuit documents,26,"382,054,156,261","935,827,176,418",26.0,,
+- Credit documents being processed by the Court has no verdict yet,Document status > - Credit documents being processed by the Court has no verdict yet,- Credit documents being processed by the Court has no verdict yet,20,"334,979,385,478","878,502,568,189",20.0,,
+- Credit documents are being processed containing the verdict,Document status > - Credit documents are being processed containing the verdict,- Credit documents are being processed containing the verdict,2,"12,142,850,582","51,793,345,199",2.0,,
+- Credit documents that the court has suspended the lawsuit due to the expiration of the right to sue for debt collection,Document status > - Credit documents that the court has suspended the lawsuit due to the expiration of the right to sue for debt collection,- Credit documents that the court has suspended the lawsuit due to the expiration of the right to sue for debt collection,4,"34,931,920,201","5,531,263,030",4.0,,
+Documents at the enforcement agency,Document status > Documents at the enforcement agency,Documents at the enforcement agency,147,"321,779,539,169","1,249,419,105,581",147.0,,
+- Judgment execution documents with mortgaged assets (judgment creditor and judgment debtor),Document status > - Judgment execution documents with mortgaged assets (judgment creditor and judgment debtor),- Judgment execution documents with mortgaged assets (judgment creditor and judgment debtor),8,"40,890,764,794","123,639,744,550",8.0,,
+- Judgment execution documents with mortgaged assets (judgment creditor),Document status > - Judgment execution documents with mortgaged assets (judgment creditor),- Judgment execution documents with mortgaged assets (judgment creditor),38,"269,840,104,055","745,269,265,704",38.0,,
+- Judgment execution documents without mortgaged assets,Document status > - Judgment execution documents without mortgaged assets,- Judgment execution documents without mortgaged assets,101,"11,048,670,320","380,510,095,327",101.0,,
+Unfiled Lawsuit documents,Document status > Unfiled Lawsuit documents,Unfiled Lawsuit documents,1,"140,000,000","73,413,387",1.0,,
+,,,174,"703,973,695,430","2,185,319,695,386",174.0,,

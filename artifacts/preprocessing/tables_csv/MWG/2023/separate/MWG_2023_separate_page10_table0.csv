@@ -1,0 +1,26 @@
+﻿row_label_raw,row_label_full,Mã số,CHÍ TIÊU,Thuyết minh,Năm nay,Năm trước,numeric__CHÍ TIÊU,numeric__Thuyết minh,numeric__Năm nay,numeric__Năm trước
+01,01,01,I. LƯU CHUYÊN TIÊN TỪHOẠT ĐỘNG KINH DOANH(Lỗ) lợi nhuận kế toán trước thuếĐiều chỉnh cho các khoản:,,(114.570.575.908),2.290.925.412.891,,,-114570575908.0,2290925412891.0
+03,03,03,Các khoản dự phòng,16,148.149.315.648,-,,16.0,148149315648.0,
+04,04,04,Lỗ chênh lệch tỷ giá hối đoái dođánh giá lại các khoản mục tiềntệ có gốc ngoại tệ,,84.000.000.000,6.944.564.819,,,84000000000.0,6944564819.0
+05,05,05,Lãi từ hoạt động đầu tư,,(627.908.674.980),(2.798.779.424.063),,,-627908674980.0,-2798779424063.0
+06,06,06,Chi phí lãi vay,16,465.580.674.706,467.344.121.378,,16.0,465580674706.0,467344121378.0
+08,08,08,Lỗ từ hoạt động kinh doanh trướcthay đổi vốn lưu động,,(44.749.260.534),(33.565.324.975),,,-44749260534.0,-33565324975.0
+09,09,09,(Tăng) giảm các khoản phải thu,,(312.540),697.234.302.405,,,-312540.0,697234302405.0
+11,11,11,Giảm các khoản phải trả,,(1.164.681.375),(1.674.322.345),,,-1164681375.0,-1674322345.0
+12,12,12,Giảm (tăng) chi phí trả trước,,21.045.339.543,(72.789.531.184),,,21045339543.0,-72789531184.0
+14,14,14,Tiền lãi vay đã trả,,(414.311.452.007),(458.830.792.613),,,-414311452007.0,-458830792613.0
+15,15,15,Thuế thu nhập doanh nghiệpđã nộp,10,-,(3.021.244.725),,10.0,,-3021244725.0
+20,20,20,Lưu chuyển tiền thuần (sử dụngvào) từ hoạt động kinh doanh,,(439.180.366.913),127.353.086.563,,,-439180366913.0,127353086563.0
+II. LƯU CHUYÊN TIÊN TỪHOẠT ĐỘNG ĐẦU TỪ,II. LƯU CHUYÊN TIÊN TỪHOẠT ĐỘNG ĐẦU TỪ,II. LƯU CHUYÊN TIÊN TỪHOẠT ĐỘNG ĐẦU TỪ,II. LƯU CHUYÊN TIÊN TỪHOẠT ĐỘNG ĐẦU TỪ,II. LƯU CHUYÊN TIÊN TỪHOẠT ĐỘNG ĐẦU TỪ,II. LƯU CHUYÊN TIÊN TỪHOẠT ĐỘNG ĐẦU TỪ,II. LƯU CHUYÊN TIÊN TỪHOẠT ĐỘNG ĐẦU TỪ,,,,
+23,II. LƯU CHUYÊN TIÊN TỪHOẠT ĐỘNG ĐẦU TỪ > 23,23,"Tiền chỉ cho vay, mua các côngcụ nợ của đơn vị khác",,(4.594.314.000.000),(6.415.260.257.252),,,-4594314000000.0,-6415260257252.0
+24,II. LƯU CHUYÊN TIÊN TỪHOẠT ĐỘNG ĐẦU TỪ > 24,24,"Tiền thu hồi cho vay, bán laicông cụ nợ của đơn vị khác",,4.366.679.692.433,6.995.280.000.000,,,4366679692433.0,6995280000000.0
+25,II. LƯU CHUYÊN TIÊN TỪHOẠT ĐỘNG ĐẦU TỪ > 25,25,Tiền chỉ đầu tư góp vốn vàodơn vị khác,,(12.000.000.000),(15.094.354.580.000),,,-12000000000.0,-15094354580000.0
+26,II. LƯU CHUYÊN TIÊN TỪHOẠT ĐỘNG ĐẦU TỪ > 26,26,Tiền thu hồi đầu tư góp vốn vàodơn vị khác,,-,12.825.295.910.000,,,,12825295910000.0
+27,II. LƯU CHUYÊN TIÊN TỪHOẠT ĐỘNG ĐẦU TỪ > 27,27,"Tiền thu lãi từ tiền gửi, cho vayvà cổ tức",,551.116.291.646,2.791.916.937.763,,,551116291646.0,2791916937763.0
+30,II. LƯU CHUYÊN TIÊN TỪHOẠT ĐỘNG ĐẦU TỪ > 30,30,Lưu chuyển tiền thuần từ hoạtđộng đầu tư,,311.481.984.079,1.102.878.010.511,,,311481984079.0,1102878010511.0
+III. LƯU CHUYÊN TIÊN TỪHOẠT ĐỘNG TÀI CHÍNH,III. LƯU CHUYÊN TIÊN TỪHOẠT ĐỘNG TÀI CHÍNH,III. LƯU CHUYÊN TIÊN TỪHOẠT ĐỘNG TÀI CHÍNH,III. LƯU CHUYÊN TIÊN TỪHOẠT ĐỘNG TÀI CHÍNH,III. LƯU CHUYÊN TIÊN TỪHOẠT ĐỘNG TÀI CHÍNH,III. LƯU CHUYÊN TIÊN TỪHOẠT ĐỘNG TÀI CHÍNH,III. LƯU CHUYÊN TIÊN TỪHOẠT ĐỘNG TÀI CHÍNH,,,,
+31,III. LƯU CHUYÊN TIÊN TỪHOẠT ĐỘNG TÀI CHÍNH > 31,31,Tiền thu từ phát hành cổ phiếu,,-,191.909.700.000,,,,191909700000.0
+32,III. LƯU CHUYÊN TIÊN TỪHOẠT ĐỘNG TÀI CHÍNH > 32,32,Mua lại cổ phiếu của doanhnghiệp đã phát hành,14.1,(9.783.280.000),(5.025.640.000),,141.0,-9783280000.0,-5025640000.0
+33,III. LƯU CHUYÊN TIÊN TỪHOẠT ĐỘNG TÀI CHÍNH > 33,33,Tiền thu từ đi vay,13.1,300.000.000.000,8.698.450.000.000,,131.0,300000000000.0,8698450000000.0
+34,III. LƯU CHUYÊN TIÊN TỪHOẠT ĐỘNG TÀI CHÍNH > 34,34,Tiền trả nợ gốc vay,,-,(8.530.154.613.415),,,,-8530154613415.0
+36,III. LƯU CHUYÊN TIÊN TỪHOẠT ĐỘNG TÀI CHÍNH > 36,36,Cổ tức đã trả cho chủ sở hữu,,(731.280.023.500),(731.854.815.000),,,-731280023500.0,-731854815000.0

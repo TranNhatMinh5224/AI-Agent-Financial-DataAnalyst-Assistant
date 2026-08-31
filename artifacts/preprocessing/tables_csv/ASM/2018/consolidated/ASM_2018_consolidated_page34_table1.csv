@@ -1,0 +1,24 @@
+﻿row_label_raw,row_label_full,"TANG, GIAM TAI SAN CO ĐỊNH VO HINH","TANG, GIAM TAI SAN CO ĐỊNH VO HINH_1","TANG, GIAM TAI SAN CO ĐỊNH VO HINH_2","TANG, GIAM TAI SAN CO ĐỊNH VO HINH_3","TANG, GIAM TAI SAN CO ĐỊNH VO HINH_4","TANG, GIAM TAI SAN CO ĐỊNH VO HINH_5","TANG, GIAM TAI SAN CO ĐỊNH VO HINH_6","numeric__TANG, GIAM TAI SAN CO ĐỊNH VO HINH_1","numeric__TANG, GIAM TAI SAN CO ĐỊNH VO HINH_2","numeric__TANG, GIAM TAI SAN CO ĐỊNH VO HINH_3","numeric__TANG, GIAM TAI SAN CO ĐỊNH VO HINH_4","numeric__TANG, GIAM TAI SAN CO ĐỊNH VO HINH_5","numeric__TANG, GIAM TAI SAN CO ĐỊNH VO HINH_6"
+Chi tiêu,Chi tiêu,Chi tiêu,Quyền sử dụng đất,Quyền phát hành,"Bản quyền,bằng sáng chế",Phần mềmvi tính,TSCĐvô hình khác,Cộng,,,,,,
+I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,,,,,,
+1. Số dư đầu kỳ,I. Nguyên giá > 1. Số dư đầu kỳ,1. Số dư đầu kỳ,43.782.344.360,,,,,43.782.344.360,43782344360.0,,,,,43782344360.0
+2. Số tăng trong kỳ,I. Nguyên giá > 2. Số tăng trong kỳ,2. Số tăng trong kỳ,1.256.680.975.431,,,939.000.000,61.240.000,1.257.681.215.431,1256680975431.0,,,939000000.0,61240000.0,1257681215431.0
+- Mua trong kỳ,I. Nguyên giá > - Mua trong kỳ,- Mua trong kỳ,1.670.502.500,,,274.000.000,61.240.000,2.005.742.500,1670502500.0,,,274000000.0,61240000.0,2005742500.0
+- Tạo ra từ nội bộ DN,- Tạo ra từ nội bộ DN,- Tạo ra từ nội bộ DN,,,,,,,,,,,,
+- Tăng khác,- Tạo ra từ nội bộ DN > - Tăng khác,- Tăng khác,1.255.010.472.931,,,665.000.000,,1.255.675.472.931,1255010472931.0,,,665000000.0,,1255675472931.0
+3. Số giảm trong kỳ,- Tạo ra từ nội bộ DN > 3. Số giảm trong kỳ,3. Số giảm trong kỳ,14.781.965.667,,,,,14.781.965.667,14781965667.0,,,,,14781965667.0
+"- Thanh lý, nhượng bán","- Tạo ra từ nội bộ DN > - Thanh lý, nhượng bán","- Thanh lý, nhượng bán",14.781.965.667,,,,,14.781.965.667,14781965667.0,,,,,14781965667.0
+- Chuyển sang Bất động sản đầu tư,- Chuyển sang Bất động sản đầu tư,- Chuyển sang Bất động sản đầu tư,,,,,,,,,,,,
+4. Số dư cuối kỳ,- Chuyển sang Bất động sản đầu tư > 4. Số dư cuối kỳ,4. Số dư cuối kỳ,1.285.681.354.124,,,939.000.000,61.240.000,1.286.681.594.124,1285681354124.0,,,939000000.0,61240000.0,1286681594124.0
+II. Giá trị hao mòn luỹ kế,II. Giá trị hao mòn luỹ kế,II. Giá trị hao mòn luỹ kế,II. Giá trị hao mòn luỹ kế,II. Giá trị hao mòn luỹ kế,II. Giá trị hao mòn luỹ kế,II. Giá trị hao mòn luỹ kế,II. Giá trị hao mòn luỹ kế,II. Giá trị hao mòn luỹ kế,,,,,,
+1. Số dư đầu kỳ,II. Giá trị hao mòn luỹ kế > 1. Số dư đầu kỳ,1. Số dư đầu kỳ,303.402.401,,,,,303.402.401,303402401.0,,,,,303402401.0
+2. Khấu hao trong kỳ,II. Giá trị hao mòn luỹ kế > 2. Khấu hao trong kỳ,2. Khấu hao trong kỳ,23.026.873.749,,,518.030.077,13.949.115,23.558.852.941,23026873749.0,,,518030077.0,13949115.0,23558852941.0
+- Khấu hao trong kỳ,II. Giá trị hao mòn luỹ kế > - Khấu hao trong kỳ,- Khấu hao trong kỳ,25.979.553,,,10.233.334,13.949.115,50.162.002,25979553.0,,,10233334.0,13949115.0,50162002.0
+- Tăng khác,II. Giá trị hao mòn luỹ kế > - Tăng khác,- Tăng khác,23.000.894.196,,,507.796.743,,23.508.690.939,23000894196.0,,,507796743.0,,23508690939.0
+3. Giảm trong kỳ,II. Giá trị hao mòn luỹ kế > 3. Giảm trong kỳ,3. Giảm trong kỳ,92.093.738,,,,,92.093.738,92093738.0,,,,,92093738.0
+"- Thanh lý, nhượng bán","II. Giá trị hao mòn luỹ kế > - Thanh lý, nhượng bán","- Thanh lý, nhượng bán",92.093.738,,,,,92.093.738,92093738.0,,,,,92093738.0
+- Chuyển sang Bất động sản đầu tư,- Chuyển sang Bất động sản đầu tư,- Chuyển sang Bất động sản đầu tư,,,,,,,,,,,,
+4. Số dư cuối kỳ,- Chuyển sang Bất động sản đầu tư > 4. Số dư cuối kỳ,4. Số dư cuối kỳ,23.238.182.412,,,518.030.077,13.949.115,23.770.161.604,23238182412.0,,,518030077.0,13949115.0,23770161604.0
+III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,,,,,,
+1. Tại ngày đầu kỳ,III. Giá trị còn lại > 1. Tại ngày đầu kỳ,1. Tại ngày đầu kỳ,43.478.941.959,,,,,43.478.941.959,43478941959.0,,,,,43478941959.0
+2. Tại ngày cuối kỳ,III. Giá trị còn lại > 2. Tại ngày cuối kỳ,2. Tại ngày cuối kỳ,1.262.443.171.712,,,420.969.923,47.290.885,1.262.911.432.520,1262443171712.0,,,420969923.0,47290885.0,1262911432520.0

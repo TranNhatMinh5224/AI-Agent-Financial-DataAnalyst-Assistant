@@ -1,0 +1,36 @@
+﻿row_label_raw,row_label_full,col_0,Mã số,Thuyết minh,31/12/2022 VND,1/1/2022 VND,numeric__Mã số,numeric__Thuyết minh,numeric__31/12/2022 VND,numeric__1/1/2022 VND
+TÀI SẢN,TÀI SẢN,TÀI SẢN,TÀI SẢN,TÀI SẢN,TÀI SẢN,TÀI SẢN,,,,
+Tài sản ngắn hạn(100 = 110 + 120 + 130 + 140 + 150),TÀI SẢN > Tài sản ngắn hạn(100 = 110 + 120 + 130 + 140 + 150),Tài sản ngắn hạn(100 = 110 + 120 + 130 + 140 + 150),100,,7.913.404.977.944,6.589.439.946.263,100.0,,7913404977944.0,6589439946263.0
+Tiền và các khoản tương đương tiền,TÀI SẢN > Tiền và các khoản tương đương tiền,Tiền và các khoản tương đương tiền,110,6,2.581.357.801.353,2.291.977.758.704,110.0,6.0,2581357801353.0,2291977758704.0
+Tiền,TÀI SẢN > Tiền,Tiền,111,,477.612.182.175,794.977.758.704,111.0,,477612182175.0,794977758704.0
+Các khoản tương đương tiền,TÀI SẢN > Các khoản tương đương tiền,Các khoản tương đương tiền,112,,2.103.745.619.178,1.497.000.000.000,112.0,,2103745619178.0,1497000000000.0
+Đầu tư tài chính ngắn hạn,TÀI SẢN > Đầu tư tài chính ngắn hạn,Đầu tư tài chính ngắn hạn,120,,1.006.095.364.843,144.291.658.746,120.0,,1006095364843.0,144291658746.0
+Đầu tư nắm giữ đến ngày đáo hạn,TÀI SẢN > Đầu tư nắm giữ đến ngày đáo hạn,Đầu tư nắm giữ đến ngày đáo hạn,123,7(a),1.006.095.364.843,144.291.658.746,123.0,,1006095364843.0,144291658746.0
+Các khoản phải thu ngắn hạn,TÀI SẢN > Các khoản phải thu ngắn hạn,Các khoản phải thu ngắn hạn,130,,3.174.355.680.627,3.123.796.576.209,130.0,,3174355680627.0,3123796576209.0
+Phải thu ngắn hạn của khách hàng,TÀI SẢN > Phải thu ngắn hạn của khách hàng,Phải thu ngắn hạn của khách hàng,131,8,2.255.159.840.624,2.288.896.283.193,131.0,8.0,2255159840624.0,2288896283193.0
+Trả trước cho người bán ngắn hạn,TÀI SẢN > Trả trước cho người bán ngắn hạn,Trả trước cho người bán ngắn hạn,132,9,226.419.010.740,362.986.950.991,132.0,9.0,226419010740.0,362986950991.0
+Phải thu theo tiến độ kế hoạch,Phải thu theo tiến độ kế hoạch,Phải thu theo tiến độ kế hoạch,,,,,,,,
+hợp đồng xây dựng,Phải thu theo tiến độ kế hoạch > hợp đồng xây dựng,hợp đồng xây dựng,134,,-,15.502.374.676,134.0,,,15502374676.0
+Phải thu về cho vay ngắn hạn,Phải thu theo tiến độ kế hoạch > Phải thu về cho vay ngắn hạn,Phải thu về cho vay ngắn hạn,135,10,255.092.249.280,2.886.249.280,135.0,10.0,255092249280.0,2886249280.0
+Phải thu ngắn hạn khác,Phải thu theo tiến độ kế hoạch > Phải thu ngắn hạn khác,Phải thu ngắn hạn khác,136,11(a),444.700.152.290,461.446.671.449,136.0,,444700152290.0,461446671449.0
+Dự phòng phải thu ngắn hạn khó đòi,Phải thu theo tiến độ kế hoạch > Dự phòng phải thu ngắn hạn khó đòi,Dự phòng phải thu ngắn hạn khó đòi,137,12,(7.015.572.307),(7.921.953.380),137.0,12.0,-7015572307.0,-7921953380.0
+Hàng tồn kho,Phải thu theo tiến độ kế hoạch > Hàng tồn kho,Hàng tồn kho,140,13,890.118.267.963,903.574.118.319,140.0,13.0,890118267963.0,903574118319.0
+Hàng tồn kho,Phải thu theo tiến độ kế hoạch > Hàng tồn kho,Hàng tồn kho,141,,898.534.771.574,904.903.028.469,141.0,,898534771574.0,904903028469.0
+Dự phòng giảm giá hàng tồn kho,Phải thu theo tiến độ kế hoạch > Dự phòng giảm giá hàng tồn kho,Dự phòng giảm giá hàng tồn kho,149,,(8.416.503.611),(1.328.910.150),149.0,,-8416503611.0,-1328910150.0
+Tài sản ngắn hạn khác,Phải thu theo tiến độ kế hoạch > Tài sản ngắn hạn khác,Tài sản ngắn hạn khác,150,,261.477.863.158,125.799.834.285,150.0,,261477863158.0,125799834285.0
+Chi phí trả trước ngắn hạn,Phải thu theo tiến độ kế hoạch > Chi phí trả trước ngắn hạn,Chi phí trả trước ngắn hạn,151,18(a),11.278.376.046,9.032.926.084,151.0,,11278376046.0,9032926084.0
+Thuế giá trị gia tăng được khấu trừ,Phải thu theo tiến độ kế hoạch > Thuế giá trị gia tăng được khấu trừ,Thuế giá trị gia tăng được khấu trừ,152,,247.526.165.016,113.347.823.373,152.0,,247526165016.0,113347823373.0
+Thuế và các khoản phải thu Nhà nước,Phải thu theo tiến độ kế hoạch > Thuế và các khoản phải thu Nhà nước,Thuế và các khoản phải thu Nhà nước,153,23,2.673.322.096,3.419.084.828,153.0,23.0,2673322096.0,3419084828.0
+Tài sản dài hạn (200 = 210 + 220+ 230 + 240 + 250 + 260),Phải thu theo tiến độ kế hoạch > Tài sản dài hạn (200 = 210 + 220+ 230 + 240 + 250 + 260),Tài sản dài hạn (200 = 210 + 220+ 230 + 240 + 250 + 260),200,,13.841.008.540.434,12.097.595.471.264,200.0,,13841008540434.0,12097595471264.0
+Các khoản phải thu dài hạn,Phải thu theo tiến độ kế hoạch > Các khoản phải thu dài hạn,Các khoản phải thu dài hạn,210,,8.282.829.500,8.295.573.500,210.0,,8282829500.0,8295573500.0
+Phải thu dài hạn khác,Phải thu theo tiến độ kế hoạch > Phải thu dài hạn khác,Phải thu dài hạn khác,216,11(b),8.282.829.500,8.295.573.500,216.0,,8282829500.0,8295573500.0
+Tài sản cố định,Phải thu theo tiến độ kế hoạch > Tài sản cố định,Tài sản cố định,220,,9.903.573.955.286,10.160.398.968.606,220.0,,9903573955286.0,10160398968606.0
+Tài sản cố định hữu hình,Phải thu theo tiến độ kế hoạch > Tài sản cố định hữu hình,Tài sản cố định hữu hình,221,14,8.596.232.617.877,9.205.307.914.600,221.0,14.0,8596232617877.0,9205307914600.0
+Nguyên giá,Phải thu theo tiến độ kế hoạch > Nguyên giá,Nguyên giá,222,,10.863.077.105.285,10.224.992.854.472,222.0,,10863077105285.0,10224992854472.0
+Giá trị hao mòn lũy kế,Phải thu theo tiến độ kế hoạch > Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,223,,(2.266.844.487.408),(1.019.684.939.872),223.0,,-2266844487408.0,-1019684939872.0
+Tài sản cố định hữu hình thuê tài chính,Phải thu theo tiến độ kế hoạch > Tài sản cố định hữu hình thuê tài chính,Tài sản cố định hữu hình thuê tài chính,224,,5.425.503.234,-,224.0,,5425503234.0,
+Nguyên giá,Phải thu theo tiến độ kế hoạch > Nguyên giá,Nguyên giá,225,,5.596.800.000,-,225.0,,5596800000.0,
+Giá trị hao mòn lũy kế,Phải thu theo tiến độ kế hoạch > Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,226,,(171.296.766),-,226.0,,-171296766.0,
+Tài sản cố định vô hình,Phải thu theo tiến độ kế hoạch > Tài sản cố định vô hình,Tài sản cố định vô hình,227,15,1.301.915.834.175,955.091.054.006,227.0,15.0,1301915834175.0,955091054006.0
+Nguyên giá,Phải thu theo tiến độ kế hoạch > Nguyên giá,Nguyên giá,228,,1.385.960.448.543,981.273.899.230,228.0,,1385960448543.0,981273899230.0
+Giá trị hao mòn lũy kế,Phải thu theo tiến độ kế hoạch > Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,229,,(84.044.614.368),(26.182.845.224),229.0,,-84044614368.0,-26182845224.0

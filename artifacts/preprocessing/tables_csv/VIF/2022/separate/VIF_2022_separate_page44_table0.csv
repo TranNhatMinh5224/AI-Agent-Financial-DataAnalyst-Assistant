@@ -1,0 +1,15 @@
+﻿row_label_raw,row_label_full,col_0,Số đầu năm(Trình bày lại),Số phải nộptrong năm,Số đã nộptrong năm,Đơn vị tính: VND,numeric__Số đầu năm(Trình bày lại),numeric__Số phải nộptrong năm,numeric__Số đã nộptrong năm,numeric__Đơn vị tính: VND
+Phải nộp,Phải nộp,Phải nộp,Phải nộp,Phải nộp,Phải nộp,Phải nộp,,,,
+Thuế giá trị gia tăng,Phải nộp > Thuế giá trị gia tăng,Thuế giá trị gia tăng,794.897.543,14.027.391.363,(12.043.895.446),2.778.393.460,794897543.0,14027391363.0,-12043895446.0,2778393460.0
+Thuế thu nhậpdoanh nghiệp,Phải nộp > Thuế thu nhậpdoanh nghiệp,Thuế thu nhậpdoanh nghiệp,3.692.591.839,19.531.541.864,(23.224.133.703),-,3692591839.0,19531541864.0,-23224133703.0,
+Thuế thu nhập cá nhân,Phải nộp > Thuế thu nhập cá nhân,Thuế thu nhập cá nhân,652.047.041,10.396.443.202,(9.015.852.462),2.032.637.781,652047041.0,10396443202.0,-9015852462.0,2032637781.0
+"Thuế nhà đất, tiềnthuê đất","Phải nộp > Thuế nhà đất, tiềnthuê đất","Thuế nhà đất, tiềnthuê đất",54.171.774,6.961.724.404,(7.015.896.178),-,54171774.0,6961724404.0,-7015896178.0,
+"Các khoản phí, lệ phívà các khoản phảinộp khác","Phải nộp > Các khoản phí, lệ phívà các khoản phảinộp khác","Các khoản phí, lệ phívà các khoản phảinộp khác",6.301.963.146,220.808.862,(6.522.772.008),-,6301963146.0,220808862.0,-6522772008.0,
+TỔNG CỘNG,Phải nộp > TỔNG CỘNG,TỔNG CỘNG,11.495.671.343,51.137.909.695,(57.822.549.797),4.811.031.241,11495671343.0,51137909695.0,-57822549797.0,4811031241.0
+,,,,,Đơn vị tính: VND,Đơn vị tính: VND,,,,
+,,,Số đầu năm,Số phải thu trong năm,Số đã thu trong năm,Số cuối năm,,,,
+Phải thu,Phải thu,Phải thu,Phải thu,Phải thu,Phải thu,Phải thu,,,,
+"Thuế nhà đất, tiềnthuê đất","Phải thu > Thuế nhà đất, tiềnthuê đất","Thuế nhà đất, tiềnthuê đất",2.046.139.223,-,(2.046.139.223),-,2046139223.0,,-2046139223.0,
+Thuế thu nhậpdoanh nghiệp,Phải thu > Thuế thu nhậpdoanh nghiệp,Thuế thu nhậpdoanh nghiệp,-,738.589.045,-,738.589.045,,738589045.0,,738589045.0
+Thuế khác,Phải thu > Thuế khác,Thuế khác,4.374.062,10.802.360,(11.732.280),3.444.142,4374062.0,10802360.0,-11732280.0,3444142.0
+TỔNG CỘNG,Phải thu > TỔNG CỘNG,TỔNG CỘNG,2.050.513.285,749.391.405,(2.057.871.503),742.033.187,2050513285.0,749391405.0,-2057871503.0,742033187.0

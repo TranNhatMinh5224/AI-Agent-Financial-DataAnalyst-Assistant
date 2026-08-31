@@ -1,0 +1,18 @@
+﻿row_label_raw,row_label_full,Chỉ tiêu,Không chịu lãi,Đến 1 tháng,Từ 1 đến 3 tháng,Từ 3 đến 6 tháng,Từ 6 đến 12 tháng,Từ 1 đến 5 năm,Trên 5 năm,Tổng,numeric__Không chịu lãi,numeric__Đến 1 tháng,numeric__Từ 1 đến 3 tháng,numeric__Từ 3 đến 6 tháng,numeric__Từ 6 đến 12 tháng,numeric__Từ 1 đến 5 năm,numeric__Trên 5 năm,numeric__Tổng
+"Tiền mặt, vàng bạc, đá quý","Tiền mặt, vàng bạc, đá quý","Tiền mặt, vàng bạc, đá quý",212.802,,-,-,-,-,-,212.802,212802.0,,,,,,,212802.0
+Tiền gửi tại ngân hàng Nhà nước,Tiền gửi tại ngân hàng Nhà nước,Tiền gửi tại ngân hàng Nhà nước,-,856.957,-,-,-,-,-,856.957,,856957.0,,,,,,856957.0
+"Tiền, vàng. gửi tại và cho vay các TCTD khác (*)","Tiền, vàng. gửi tại và cho vay các TCTD khác (*)","Tiền, vàng. gửi tại và cho vay các TCTD khác (*)",-,2.306.595,725.000,,,-,-,3.031.595,,2306595.0,725000.0,,,,,3031595.0
+Cho vay khách hàng (*),Cho vay khách hàng (*),Cho vay khách hàng (*),,625.413,189.036,299.068,5.511.145,5.153.731,2.327.051,14.105.444,,625413.0,189036.0,299068.0,5511145.0,5153731.0,2327051.0,14105444.0
+Chứng khoán đầu tư (*),Chứng khoán đầu tư (*),Chứng khoán đầu tư (*),,-,-,-,-,1.946.070,-,1.946.070,,,,,,1946070.0,,1946070.0
+"Góp vốn, đầu tư dài hạn (*)","Góp vốn, đầu tư dài hạn (*)","Góp vốn, đầu tư dài hạn (*)",-,-,-,-,-,-,738.158,738.158,,,,,,,738158.0,738158.0
+Tài sản cố định và Bất động sản đầu tư,Tài sản cố định và Bất động sản đầu tư,Tài sản cố định và Bất động sản đầu tư,-,-,-,-,-,-,1.080.443,1.080.443,,,,,,,1080443.0,1080443.0
+Tài sản Cỏ khác (*),Tài sản Cỏ khác (*),Tài sản Cỏ khác (*),408.149,-,-,-,-,-,-,408.149,408149.0,,,,,,,408149.0
+Tổng Tài sản,Tổng Tài sản,Tổng Tài sản,620.951,3.788.965,914.036,299.068,5.511.145,7.099.801,4.145.652,22.379.618,620951.0,3788965.0,914036.0,299068.0,5511145.0,7099801.0,4145652.0,22379618.0
+Nợ phải trả,Nợ phải trả,Nợ phải trả,,,,,,,,,,,,,,,,
+Tiền gửi của và vay từ NHNN và các TCTD khác,Nợ phải trả > Tiền gửi của và vay từ NHNN và các TCTD khác,Tiền gửi của và vay từ NHNN và các TCTD khác,,1.624.335,1.148.500,-,-,-,-,2.772.835,,1624335.0,1148500.0,,,,,2772835.0
+Tiền gửi của khách hàng,Nợ phải trả > Tiền gửi của khách hàng,Tiền gửi của khách hàng,,5.614.700,2.725.645,2.412.575,34.141,4.674.015,,15.461.076,,5614700.0,2725645.0,2412575.0,34141.0,4674015.0,,15461076.0
+Các khoản nợ khác,Nợ phải trả > Các khoản nợ khác,Các khoản nợ khác,,278.782,-,-,,-,-,278.782,,278782.0,,,,,,278782.0
+Tổng Nợ phải trả,Nợ phải trả > Tổng Nợ phải trả,Tổng Nợ phải trả,-,7.517.817,3.874.145,2.412.575,34.141,4.674.015,-,18.512.693,,7517817.0,3874145.0,2412575.0,34141.0,4674015.0,,18512693.0
+Mức chênh lệch nhạy cảm với lãi suất nội bảng,Nợ phải trả > Mức chênh lệch nhạy cảm với lãi suất nội bảng,Mức chênh lệch nhạy cảm với lãi suất nội bảng,620.951,(3.728.852),(2.960.109),(2.113.507),5.477.004,2.425.786,4.145.652,3.866.925,620951.0,-3728852.0,-2960109.0,-2113507.0,5477004.0,2425786.0,4145652.0,3866925.0
+Các cam kết ngoại bảng có tác động tới mức độ nhạy cảm với lãi suất của các tài sản và công nợ (ròng),Nợ phải trả > Các cam kết ngoại bảng có tác động tới mức độ nhạy cảm với lãi suất của các tài sản và công nợ (ròng),Các cam kết ngoại bảng có tác động tới mức độ nhạy cảm với lãi suất của các tài sản và công nợ (ròng),(253.633),-,-,-,-,-,-,(253.633),-253633.0,,,,,,,-253633.0
+"Mức chênh lệch nhạy cảm với lãi suất nội, ngoại bảng","Nợ phải trả > Mức chênh lệch nhạy cảm với lãi suất nội, ngoại bảng","Mức chênh lệch nhạy cảm với lãi suất nội, ngoại bảng",367.318,(3.728.852),(2.960.109),(2.113.507),5.477.004,2.425.786,4.145.652,3.613.292,367318.0,-3728852.0,-2960109.0,-2113507.0,5477004.0,2425786.0,4145652.0,3613292.0

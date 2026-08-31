@@ -1,0 +1,12 @@
+﻿row_label_raw,row_label_full,col_0,Số đầu năm,Tăng trong năm,Giảm trong năm,Phân loại lại,Chênh lệch tỷ giá,VND Số cuối năm,numeric__Số đầu năm,numeric__Tăng trong năm,numeric__Giảm trong năm,numeric__Phân loại lại,numeric__Chênh lệch tỷ giá,numeric__VND Số cuối năm
+Vay ngắn hạn,Vay ngắn hạn,Vay ngắn hạn,19.128.541.817.781,74.756.279.079.533,(73.030.338.420.383),6.482.489.244.848,(36.725.000.000),27.300.246.721.779,19128541817781.0,74756279079533.0,-73030338420383.0,6482489244848.0,-36725000000.0,27300246721779.0
+Vay ngân hàng ngắn hạn (Thuyết minh số 24.1),Vay ngân hàng ngắn hạn (Thuyết minh số 24.1),Vay ngân hàng ngắn hạn (Thuyết minh số 24.1),19.128.541.817.781,74.756.279.079.533,(73.030.338.420.383),-,-,20.854.482.476.931,19128541817781.0,74756279079533.0,-73030338420383.0,,,20854482476931.0
+UPAS Letter Credit (*),UPAS Letter Credit (*),UPAS Letter Credit (*),-,-,-,497.239.244.848,-,497.239.244.848,,,,497239244848.0,,497239244848.0
+Vay ngân hàng dài hạn đến hạn trả (Thuyết minh số 24.2),Vay ngân hàng dài hạn đến hạn trả (Thuyết minh số 24.2),Vay ngân hàng dài hạn đến hạn trả (Thuyết minh số 24.2),-,-,-,5.985.250.000.000,(36.725.000.000),5.948.525.000.000,,,,5985250000000.0,-36725000000.0,5948525000000.0
+Vay dài hạn,Vay dài hạn,Vay dài hạn,5.985.250.000.000,-,-,(5.985.250.000.000),-,-,5985250000000.0,,,-5985250000000.0,,
+Vay ngân hàng dài hạn (Thuyết minh số 24.2),Vay ngân hàng dài hạn (Thuyết minh số 24.2),Vay ngân hàng dài hạn (Thuyết minh số 24.2),5.985.250.000.000,-,-,(5.985.250.000.000),-,-,5985250000000.0,,,-5985250000000.0,,
+TỔNG CỘNG,TỔNG CỘNG,TỔNG CỘNG,25.113.791.817.781,74.756.279.079.533,(73.030.338.420.383),497.239.244.848,(36.725.000.000),27.300.246.721.779,25113791817781.0,74756279079533.0,-73030338420383.0,497239244848.0,-36725000000.0,27300246721779.0
+Trong đó:,Trong đó:,Trong đó:,Trong đó:,Trong đó:,Trong đó:,Trong đó:,Trong đó:,Trong đó:,,,,,,
+Số có khả năng trả nợ,Số có khả năng trả nợ,Số có khả năng trả nợ,Số có khả năng trả nợ,Số có khả năng trả nợ,Số có khả năng trả nợ,Số có khả năng trả nợ,Số có khả năng trả nợ,Số có khả năng trả nợ,,,,,,
+Vay ngắn hạn,Số có khả năng trả nợ > Vay ngắn hạn,Vay ngắn hạn,19.128.541.817.781,,,,,27.300.246.721.779,19128541817781.0,,,,,27300246721779.0
+Vay dài hạn,Số có khả năng trả nợ > Vay dài hạn,Vay dài hạn,5.985.250.000.000,,,,,-,5985250000000.0,,,,,

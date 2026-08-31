@@ -1,0 +1,15 @@
+﻿row_label_raw,row_label_full,Chi tiêu,Chi tiêu_1,Quá hạn,Không chịu lãi,Thay đổi lãi suất trong khoảng thời gian,Thay đổi lãi suất trong khoảng thời gian_1,Thay đổi lãi suất trong khoảng thời gian_2,Thay đổi lãi suất trong khoảng thời gian_3,Thay đổi lãi suất trong khoảng thời gian_4,Thay đổi lãi suất trong khoảng thời gian_5,Tổng,numeric__Chi tiêu_1,numeric__Quá hạn,numeric__Không chịu lãi,numeric__Thay đổi lãi suất trong khoảng thời gian,numeric__Thay đổi lãi suất trong khoảng thời gian_1,numeric__Thay đổi lãi suất trong khoảng thời gian_2,numeric__Thay đổi lãi suất trong khoảng thời gian_3,numeric__Thay đổi lãi suất trong khoảng thời gian_4,numeric__Thay đổi lãi suất trong khoảng thời gian_5,numeric__Tổng
+Chi tiêu,Chi tiêu,Chi tiêu,Chi tiêu,Quá hạn,Không chịu lãi,Dưới 01 tháng,Từ 01 đến 03 tháng,Từ trên 03 đến 06 tháng,Từ trên 06 đến 12 tháng,Từ trên 01 đến 05 năm,Trên 05 năm,Tổng,,,,,,,,,,
+Chi tiêu,Chi tiêu,Chi tiêu,Chi tiêu,Triệu VND,Triệu VND,Triệu VND,Triệu VND,Triệu VND,Triệu VND,Triệu VND,Triệu VND,Triệu VND,,,,,,,,,,
+TÀI SẢN,TÀI SẢN,TÀI SẢN,TÀI SẢN,TÀI SẢN,TÀI SẢN,TÀI SẢN,TÀI SẢN,TÀI SẢN,TÀI SẢN,TÀI SẢN,TÀI SẢN,TÀI SẢN,,,,,,,,,,
+I,TÀI SẢN > I,I,"Tiền mặt, vàng bạc, đá quý",-,503.505,-,-,-,-,-,-,503.505,,,503505.0,,,,,,,503505.0
+II,TÀI SẢN > II,II,Tiền gửi tại NHNN,-,-,483.537,-,-,-,-,-,483.537,,,,483537.0,,,,,,483537.0
+III,TÀI SẢN > III,III,"Tiền, vàng gửi và cho vay các TCTD khác (*)",-,-,3.188.575,9.936.370,-,-,-,-,13.124.945,,,,3188575.0,9936370.0,,,,,13124945.0
+IV,TÀI SẢN > IV,IV,Chứng khoán kinh doanh (*),-,-,-,-,-,1.135.820,-,-,1.135.820,,,,,,,1135820.0,,,1135820.0
+V,TÀI SẢN > V,V,Các công cụ tài chính phải sinh và các tài sản tài chính,-,-,35.812,-,-,-,-,-,35.812,,,,35812.0,,,,,,35812.0
+VI,TÀI SẢN > VI,VI,Cho vay khách hàng (*),393.766,-,6.069.555,2.022.760,6.878.829,4.866.940,16.394.035,18.861.688,55.487.573,,393766.0,,6069555.0,2022760.0,6878829.0,4866940.0,16394035.0,18861688.0,55487573.0
+VII,TÀI SẢN > VII,VII,Chứng khoán đầu tư (*),18.000,595.725,-,-,-,-,10.812.077,6.980.597,18.406.399,,18000.0,595725.0,,,,,10812077.0,6980597.0,18406399.0
+VIII,TÀI SẢN > VIII,VIII,"Góp vốn, đầu tư dài hạn (*)",-,287.650,-,-,-,-,-,-,287.650,,,287650.0,,,,,,,287650.0
+IX,TÀI SẢN > IX,IX,Tài sản cố định và bất động sản đầu tư,-,664.588,-,-,-,-,-,-,664.588,,,664588.0,,,,,,,664588.0
+X,TÀI SẢN > X,X,Tài sản có khác,-,2.620.753,-,-,-,-,-,-,2.620.753,,,2620753.0,,,,,,,2620753.0
+Tổng tài sản,TÀI SẢN > Tổng tài sản,Tổng tài sản,Tổng tài sản,411.766,4.672.221,9.777.479,11.959.130,6.878.829,6.002.760,27.206.112,25.842.285,92.750.582,,411766.0,4672221.0,9777479.0,11959130.0,6878829.0,6002760.0,27206112.0,25842285.0,92750582.0

@@ -1,0 +1,19 @@
+﻿row_label_raw,row_label_full,STT,CHÌ TIÊU,Thuyết minh,Số cuối năm,Số đầu năm,numeric__CHÌ TIÊU,numeric__Thuyết minh,numeric__Số cuối năm,numeric__Số đầu năm
+B.,B.,B.,NỘ PHẢI TRẢ VÀ VỐN CHỦ SỞ HỮU,,,,,,,
+I.,B. > I.,I.,Tiền gửi và vay các TCTD khác,15,11.467.229,12.965.360,,15.0,11467229.0,12965360.0
+1.,B. > 1.,1.,Tiền gửi của các TCTD khác,,2.402.725,4.648.860,,,2402725.0,4648860.0
+2.,B. > 2.,2.,Vay các TCTD khác,,9.064.504,8.316.500,,,9064504.0,8316500.0
+II.,B. > II.,II.,Tiền gửi của khách hàng,16,4.537.967,6.773.022,,16.0,4537967.0,6773022.0
+III.,B. > III.,III.,"Vốn tài trợ, ủy thác đầu tư, cho vay TCTD chịu rủi ro",17,5.701.221,4.528.715,,17.0,5701221.0,4528715.0
+IV.,B. > IV.,IV.,Phát hành giấy tờ có giá,18,6.060.000,500.000,,18.0,6060000.0,500000.0
+V.,B. > V.,V.,Các khoản nợ khác,19,636.879,371.911,,19.0,636879.0,371911.0
+1.,B. > 1.,1.,"Các khoản lãi, phí phải trả",,427.587,226.078,,,427587.0,226078.0
+2.,B. > 2.,2.,Các khoản phải trả và công nợ khác,,209.292,145.833,,,209292.0,145833.0
+TỔNG NỘ PHẢI TRẢ,B. > TỔNG NỘ PHẢI TRẢ,TỔNG NỘ PHẢI TRẢ,TỔNG NỘ PHẢI TRẢ,,28.403.296,25.139.008,,,28403296.0,25139008.0
+VI.,B. > VI.,VI.,Vốn chủ sở hữu,20,3.984.169,3.665.885,,20.0,3984169.0,3665885.0
+1.,B. > 1.,1.,Vốn của TCTD,,3.049.404,2.652.141,,,3049404.0,2652141.0
+a.,B. > a.,a.,Vốn điều lệ,,3.047.076,2.649.813,,,3047076.0,2649813.0
+b.,B. > b.,b.,"Vốn đầu tư XDCB, mua sắm tài sản cố định",,2.328,2.328,,,2328.0,2328.0
+2.,B. > 2.,2.,Quỹ của TCTD,,405.249,370.987,,,405249.0,370987.0
+3.,B. > 3.,3.,Lợi nhuận sau thuế chưa phân phối,,529.516,642.757,,,529516.0,642757.0
+TỔNG NỘ PHẢI TRẢ VÀ VỐN CHỦ SỞ HỮU,B. > TỔNG NỘ PHẢI TRẢ VÀ VỐN CHỦ SỞ HỮU,TỔNG NỘ PHẢI TRẢ VÀ VỐN CHỦ SỞ HỮU,TỔNG NỘ PHẢI TRẢ VÀ VỐN CHỦ SỞ HỮU,,32.387.465,28.804.893,,,32387465.0,28804893.0

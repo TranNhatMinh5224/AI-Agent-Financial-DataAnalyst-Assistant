@@ -1,0 +1,8 @@
+﻿row_label_raw,row_label_full,Originating year,Can be utilized up to,Tax loss amount,Utilized up to 31 December 2025,VND Unutilized at 31 December 2025,numeric__Can be utilized up to,numeric__Tax loss amount,numeric__Utilized up to 31 December 2025,numeric__VND Unutilized at 31 December 2025
+Head Office,Head Office,Head Office,Head Office,Head Office,Head Office,Head Office,,,,
+2023 (*),Head Office > 2023 (*),2023 (*),2028,"542,287,281,391","(463,746,708,192)","78,540,573,199",2028.0,,,
+2024 (*),Head Office > 2024 (*),2024 (*),2029,"1,018,306,441",-,"1,018,306,441",2029.0,,,
+Independent Branch,Independent Branch,Independent Branch,Independent Branch,Independent Branch,Independent Branch,Independent Branch,,,,
+2021 (**),Independent Branch > 2021 (**),2021 (**),2026,"3,558,039,522","(3,558,039,522)",-,2026.0,,,
+2023 (**),Independent Branch > 2023 (**),2023 (**),2028,"5,296,371,631","(5,296,371,631)",-,2028.0,,,
+TOTAL,TOTAL,TOTAL,,"552,159,998,985","(472,601,119,345)","79,558,879,640",,,,

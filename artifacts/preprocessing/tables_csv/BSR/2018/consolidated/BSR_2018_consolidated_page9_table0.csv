@@ -1,0 +1,22 @@
+﻿row_label_raw,row_label_full,CHỈ TIÊU,Mã số,Thuyết minh,Từ ngày 01/7/2018 đến ngày 31/12/2018,Từ ngày 01/01/2018 đến ngày 30/6/2018 (Trình bày lại),numeric__Mã số,numeric__Thuyết minh,numeric__Từ ngày 01/7/2018 đến ngày 31/12/2018,numeric__Từ ngày 01/01/2018 đến ngày 30/6/2018 (Trình bày lại)
+1. Doanh thu bán hàng và cung cấp dịch vụ,1. Doanh thu bán hàng và cung cấp dịch vụ,1. Doanh thu bán hàng và cung cấp dịch vụ,01,24,56.058.842.429.120,55.893.413.019.371,1.0,24.0,56058842429120.0,55893413019371.0
+2. Các khoản giảm trừ doanh thu,2. Các khoản giảm trừ doanh thu,2. Các khoản giảm trừ doanh thu,02,24,-,1.868.215,2.0,24.0,,1868215.0
+3. Doanh thu thuần về bán hàng và cung cấp dịch vụ (10=01-02),3. Doanh thu thuần về bán hàng và cung cấp dịch vụ (10=01-02),3. Doanh thu thuần về bán hàng và cung cấp dịch vụ (10=01-02),10,24,56.058.842.429.120,55.893.411.151.156,10.0,24.0,56058842429120.0,55893411151156.0
+4. Giá vốn hàng bán và dịch vụ cung cấp,4. Giá vốn hàng bán và dịch vụ cung cấp,4. Giá vốn hàng bán và dịch vụ cung cấp,11,25,55.111.289.678.611,51.802.738.407.525,11.0,25.0,55111289678611.0,51802738407525.0
+5. Lợi nhuận gộp vẽ bán hàng và cung cấp dịch vụ (20=10-11),5. Lợi nhuận gộp vẽ bán hàng và cung cấp dịch vụ (20=10-11),5. Lợi nhuận gộp vẽ bán hàng và cung cấp dịch vụ (20=10-11),20,,947.552.750.509,4.090.672.743.631,20.0,,947552750509.0,4090672743631.0
+6. Doanh thu hoạt động tài chính,6. Doanh thu hoạt động tài chính,6. Doanh thu hoạt động tài chính,21,27,335.764.591.549,294.434.494.250,21.0,27.0,335764591549.0,294434494250.0
+7. Chi phí tài chính,7. Chi phí tài chính,7. Chi phí tài chính,22,28,494.697.028.827,313.978.292.830,22.0,28.0,494697028827.0,313978292830.0
+- Trong đó: Chi phí lãi vay,- Trong đó: Chi phí lãi vay,- Trong đó: Chi phí lãi vay,23,,218.962.701.239,237.055.112.242,23.0,,218962701239.0,237055112242.0
+8. Chi phí bán hàng,8. Chi phí bán hàng,8. Chi phí bán hàng,25,29,374.634.440.194,375.340.075.698,25.0,29.0,374634440194.0,375340075698.0
+9. Chi phí quản lý doanh nghiệp,9. Chi phí quản lý doanh nghiệp,9. Chi phí quản lý doanh nghiệp,26,29,168.627.162.125,169.899.264.176,26.0,29.0,168627162125.0,169899264176.0
+10. Lợi nhuận thuần từ hoạt động kinh doanh (30=20÷(21-22)-(25+26)),10. Lợi nhuận thuần từ hoạt động kinh doanh (30=20÷(21-22)-(25+26)),10. Lợi nhuận thuần từ hoạt động kinh doanh (30=20÷(21-22)-(25+26)),30,,245.358.710.912,3.525.889.605.177,30.0,,245358710912.0,3525889605177.0
+11. Thu nhập khác,11. Thu nhập khác,11. Thu nhập khác,31,30,10.435.721.466,42.138.945.374,31.0,30.0,10435721466.0,42138945374.0
+12. Chi phí khác,12. Chi phí khác,12. Chi phí khác,32,31,2.369.841.584,35.176.758.873,32.0,31.0,2369841584.0,35176758873.0
+13. Lợi nhuận khác (40=31-32),13. Lợi nhuận khác (40=31-32),13. Lợi nhuận khác (40=31-32),40,,8.055.879.882,6.962.186.501,40.0,,8055879882.0,6962186501.0
+14. Tổng lợi nhuận kế toán trước thuế (50=30+40),14. Tổng lợi nhuận kế toán trước thuế (50=30+40),14. Tổng lợi nhuận kế toán trước thuế (50=30+40),50,,253.424.590.794,3.532.851.791.678,50.0,,253424590794.0,3532851791678.0
+15. Chi phí thuế thu nhập doanh nghiệp hiện hành,15. Chi phí thuế thu nhập doanh nghiệp hiện hành,15. Chi phí thuế thu nhập doanh nghiệp hiện hành,51,32,24.811.999.472,199.634.425.756,51.0,32.0,24811999472.0,199634425756.0
+16. Chi phí thuế thu nhập doanh nghiệp hoãn lại,16. Chi phí thuế thu nhập doanh nghiệp hoãn lại,16. Chi phí thuế thu nhập doanh nghiệp hoãn lại,52,,2.473.429.601,2.461.245.146,52.0,,2473429601.0,2461245146.0
+17. Lợi nhuận sau thuế thu nhập doanh nghiệp (60=50-51-52),17. Lợi nhuận sau thuế thu nhập doanh nghiệp (60=50-51-52),17. Lợi nhuận sau thuế thu nhập doanh nghiệp (60=50-51-52),60,,226.139.161.721,3.330.756.120.776,60.0,,226139161721.0,3330756120776.0
+18. Lợi nhuận sau thuế của cổ đông của Công ty mẹ,18. Lợi nhuận sau thuế của cổ đông của Công ty mẹ,18. Lợi nhuận sau thuế của cổ đông của Công ty mẹ,61,,250.790.073.767,3.355.135.657.616,61.0,,250790073767.0,3355135657616.0
+19. (Lỗ) sau thuế của cổ đông không kiểm soát,19. (Lỗ) sau thuế của cổ đông không kiểm soát,19. (Lỗ) sau thuế của cổ đông không kiểm soát,62,,(24.650.912.046),(24.379.536.840),62.0,,-24650912046.0,-24379536840.0
+20. Lãi cơ bản trên cổ phiếu,20. Lãi cơ bản trên cổ phiếu,20. Lãi cơ bản trên cổ phiếu,70,33,81,(*),70.0,33.0,81.0,

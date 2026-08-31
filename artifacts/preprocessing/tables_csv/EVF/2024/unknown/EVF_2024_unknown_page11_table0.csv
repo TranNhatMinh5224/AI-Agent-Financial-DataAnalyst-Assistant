@@ -1,0 +1,23 @@
+﻿row_label_raw,row_label_full,col_0,CHỈ TIÊU,Thuyết minh,Năm 2024,Năm 2023,numeric__CHỈ TIÊU,numeric__Thuyết minh,numeric__Năm 2024,numeric__Năm 2023
+1,1,1,Thu nhập lãi và các khoản thu nhập tương tự,VI.1,4.276.780,3.993.619,,,4276780.0,3993619.0
+2,2,2,Chi phí lãi và các chi phí tương tự,VI.2,(2.832.445),(3.284.594),,,-2832445.0,-3284594.0
+I,I,I,Thu nhập lãi thuần,,1.444.335,709.025,,,1444335.0,709025.0
+3,3,3,Thu nhập từ hoạt động dịch vụ,,74.791,53.319,,,74791.0,53319.0
+4,4,4,Chi phí hoạt động dịch vụ,,(34.532),(50.096),,,-34532.0,-50096.0
+II,II,II,Lãi thuần từ hoạt động dịch vụ,VI.3,40.259,3.223,,,40259.0,3223.0
+III,III,III,Lỗ thuần từ hoạt động kinh doanh ngoại hối,VI.4,(43.142),(86.500),,,-43142.0,-86500.0
+IV,IV,IV,Lãi/(Lỗ) thuần từ mua bán chứng khoán kinh doanh,VI.5,15.217,-,,,15217.0,
+V,V,V,Lãi/(Lỗ) thuần từ mua bán chứng khoán đầu tư,VI.6,(49.746),315.721,,,-49746.0,315721.0
+5,5,5,Thu nhập từ hoạt động khác,,80.311,50.424,,,80311.0,50424.0
+6,6,6,Chi phí hoạt động khác,,(560),(465),,,-560.0,-465.0
+VI,VI,VI,Lãi/(Lỗ) thuần từ hoạt động khác,VI.8,79.751,49.959,,,79751.0,49959.0
+VII,VII,VII,"Thu nhập từ góp vốn, mua cổ phần",VI.7,15.411,102.255,,,15411.0,102255.0
+VII,VII,VII,TỔNG THU NHẬP HOẠT ĐỘNG,,1.502.085,1.093.683,,,1502085.0,1093683.0
+VIII,VIII,VIII,TỔNG CHI PHÍ HOẠT ĐỘNG,VI.9,(153.005),(297.004),,,-153005.0,-297004.0
+VIII,VIII,VIII,Lợi nhuận thuần từ hoạt động kinh doanh trước chi phí dự phòng rủi ro tín dụng,,1.349.080,796.679,,,1349080.0,796679.0
+IX,IX,IX,Chi phí dự phòng rủi ro tín dụng,VI.10,(645.306),(387.372),,,-645306.0,-387372.0
+XI,XI,XI,Tổng lợi nhuận trước thuế,,703.774,409.307,,,703774.0,409307.0
+7,7,7,Chi phí thuế TNDN hiện hành,V.19,(142.952),(80.928),,,-142952.0,-80928.0
+XII,XII,XII,Chi phí thuế TNDN,,(142.952),(80.928),,,-142952.0,-80928.0
+XIII,XIII,XIII,Lợi nhuận sau thuế,,560.822,328.379,,,560822.0,328379.0
+XIV,XIV,XIV,Lãi cơ bản trên cổ phiếu,,704,738,,,704.0,738.0

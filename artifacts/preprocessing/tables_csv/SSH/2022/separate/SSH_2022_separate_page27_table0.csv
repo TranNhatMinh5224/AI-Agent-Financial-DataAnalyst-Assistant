@@ -1,0 +1,12 @@
+﻿row_label_raw,row_label_full,col_0,Số đầu năm,Số phải nộp/phải thu trong năm,Số đã thực nộp/bù trừ trong năm,Số cuối năm,numeric__Số đầu năm,numeric__Số phải nộp/phải thu trong năm,numeric__Số đã thực nộp/bù trừ trong năm,numeric__Số cuối năm
+,,,VND,VND,VND,VND,,,,
+a. Các khoản phải thu,a. Các khoản phải thu,a. Các khoản phải thu,a. Các khoản phải thu,a. Các khoản phải thu,a. Các khoản phải thu,a. Các khoản phải thu,,,,
+Thuế thu nhập doanh nghiệp tạm nộp,a. Các khoản phải thu > Thuế thu nhập doanh nghiệp tạm nộp,Thuế thu nhập doanh nghiệp tạm nộp,926.385.031,-,883.745.288,42.639.743,926385031.0,,883745288.0,42639743.0
+Các loại thuế khác,a. Các khoản phải thu > Các loại thuế khác,Các loại thuế khác,-,763.676.377,-,763.676.377,,763676377.0,,763676377.0
+,,,926.385.031,763.676.377,883.745.288,806.316.120,926385031.0,763676377.0,883745288.0,806316120.0
+b. Các khoản phải nộp,b. Các khoản phải nộp,b. Các khoản phải nộp,b. Các khoản phải nộp,b. Các khoản phải nộp,b. Các khoản phải nộp,b. Các khoản phải nộp,,,,
+Thuế giá trị gia tăng đầu ra,b. Các khoản phải nộp > Thuế giá trị gia tăng đầu ra,Thuế giá trị gia tăng đầu ra,1.182.079.085,45.260.501.803,28.365.107.209,18.077.473.679,1182079085.0,45260501803.0,28365107209.0,18077473679.0
+Thuế thu nhập doanh nghiệp,b. Các khoản phải nộp > Thuế thu nhập doanh nghiệp,Thuế thu nhập doanh nghiệp,39.231.554.801,31.723.760.154,39.321.554.801,31.633.760.154,39231554801.0,31723760154.0,39321554801.0,31633760154.0
+Thuế thu nhập cá nhân,b. Các khoản phải nộp > Thuế thu nhập cá nhân,Thuế thu nhập cá nhân,39.848.253,12.666.764.720,10.433.138.158,2.273.474.815,39848253.0,12666764720.0,10433138158.0,2273474815.0
+Các loại thuế khác,b. Các khoản phải nộp > Các loại thuế khác,Các loại thuế khác,-,802.632.770,802.632.770,-,,802632770.0,802632770.0,
+,,,40.453.482.139,90.453.659.447,78.922.432.938,51.984.708.648,40453482139.0,90453659447.0,78922432938.0,51984708648.0

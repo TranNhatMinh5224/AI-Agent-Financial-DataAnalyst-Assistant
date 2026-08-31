@@ -1,0 +1,30 @@
+﻿row_label_raw,row_label_full,CHỈ TIÊU,CHỈ TIÊU_1,Mã số,Thuyết minh,Năm nay,Năm trước,numeric__CHỈ TIÊU_1,numeric__Mã số,numeric__Thuyết minh,numeric__Năm nay,numeric__Năm trước
+I. Lưu chuyển tiền từ hoạt động kinh doanh,I. Lưu chuyển tiền từ hoạt động kinh doanh,I. Lưu chuyển tiền từ hoạt động kinh doanh,I. Lưu chuyển tiền từ hoạt động kinh doanh,I. Lưu chuyển tiền từ hoạt động kinh doanh,I. Lưu chuyển tiền từ hoạt động kinh doanh,I. Lưu chuyển tiền từ hoạt động kinh doanh,I. Lưu chuyển tiền từ hoạt động kinh doanh,,,,,
+1.,I. Lưu chuyển tiền từ hoạt động kinh doanh > 1.,1.,Lợi nhuận trước thuế,01,,782.818.024.882,451.587.014.474,,1.0,,782818024882.0,451587014474.0
+2.,2.,2.,Điều chỉnh cho các khoản:,,,,,,,,,
+-,2. > -,-,Khấu hao tài sản cố định và bắt động sản đầu tư,02,V.9;V.10;V.11;V.15,49.802.101.779,44.979.302.260,,2.0,,49802101779.0,44979302260.0
+-,2. > -,-,Các khoản dự phòng,03,,-,-,,3.0,,,
+-,2. > -,-,"Lãi, lỗ chênh lệch tỷ giá hối đoái do đánh giá lại các khoản mục tiền tệ có gốc ngoại tệ",04,VI.5,18.508,388.272,,4.0,,18508.0,388272.0
+-,2. > -,-,"Lãi, lỗ từ hoạt động đầu tư",05,VI.4,(6.633.266.605),(2.448.204.232),,5.0,,-6633266605.0,-2448204232.0
+-,2. > -,-,Chỉ phí lãi vay,06,VI.5,104.548.230.009,72.794.957.781,,6.0,,104548230009.0,72794957781.0
+-,2. > -,-,Các khoản điều chỉnh khác,07,,-,-,,7.0,,,
+3.,2. > 3.,3.,Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động,08,,930.535.108.573,566.913.458.555,,8.0,,930535108573.0,566913458555.0
+-,2. > -,-,"Tăng, giảm các khoản phải thu",09,,34.709.240.367,144.433.594.684,,9.0,,34709240367.0,144433594684.0
+-,2. > -,-,"Tăng, giảm hàng tồn kho",10,,(360.459.342.766),975.911.269.107,,10.0,,-360459342766.0,975911269107.0
+-,2. > -,-,"Tăng, giảm các khoản phải trả",11,,(1.265.084.901.190),(975.700.516.383),,11.0,,-1265084901190.0,-975700516383.0
+-,2. > -,-,"Tăng, giảm chỉ phí trả trước",12,,3.419.910.167,445.229.415,,12.0,,3419910167.0,445229415.0
+-,2. > -,-,"Tăng, giảm chứng khoán kinh doanh",13,,-,-,,13.0,,,
+-,2. > -,-,Tiền lãi vay đã trả,14,V.20;VI.5,(105.413.951.095),(71.780.376.040),,14.0,,-105413951095.0,-71780376040.0
+-,2. > -,-,Thuế thu nhập doanh nghiệp đã nộp,15,V.18,(180.624.762.442),(59.380.774.615),,15.0,,-180624762442.0,-59380774615.0
+-,2. > -,-,Tiền thu khác từ hoạt động kinh doanh,16,,-,-,,16.0,,,
+-,2. > -,-,Tiền chỉ khác cho hoạt động kinh doanh,17,V.23;V.25,(20.872.892.850),(20.459.959.769),,17.0,,-20872892850.0,-20459959769.0
+,,,Lưu chuyển tiền thuần từ hoạt động kinh doanh,20,,(963.791.591.236),560.381.924.954,,20.0,,-963791591236.0,560381924954.0
+II. Lưu chuyển tiền từ hoạt động đầu tư,II. Lưu chuyển tiền từ hoạt động đầu tư,II. Lưu chuyển tiền từ hoạt động đầu tư,II. Lưu chuyển tiền từ hoạt động đầu tư,II. Lưu chuyển tiền từ hoạt động đầu tư,II. Lưu chuyển tiền từ hoạt động đầu tư,II. Lưu chuyển tiền từ hoạt động đầu tư,II. Lưu chuyển tiền từ hoạt động đầu tư,,,,,
+1.,II. Lưu chuyển tiền từ hoạt động đầu tư > 1.,1.,"Tiền chỉ để mua sắm, xây dựng tài sản cố định và các tài sản dài hạn khác",21,V.9;V.10;V.13;VII,(44.933.260.679),(43.629.947.837),,21.0,,-44933260679.0,-43629947837.0
+2.,II. Lưu chuyển tiền từ hoạt động đầu tư > 2.,2.,"Tiền thu từ thanh lý, nhượng bán tài sản cố định và các tài sản dài hạn khác",22,,-,-,,22.0,,,
+3.,II. Lưu chuyển tiền từ hoạt động đầu tư > 3.,3.,"Tiền chỉ cho vay, mua các công cụ nợ của đơn vị khác",23,V.2,(101.764.384),(31.500.000.000),,23.0,,-101764384.0,-31500000000.0
+4.,II. Lưu chuyển tiền từ hoạt động đầu tư > 4.,4.,"Tiền thu hồi cho vay, bán lại các công cụ nợ của đơn vị khác",24,V.2,2.500.000.000,68.400.000.000,,24.0,,2500000000.0,68400000000.0
+5.,II. Lưu chuyển tiền từ hoạt động đầu tư > 5.,5.,Tiền chỉ đầu tư góp vốn vào đơn vị khác,25,,-,-,,25.0,,,
+6.,II. Lưu chuyển tiền từ hoạt động đầu tư > 6.,6.,Tiền thu hồi đầu tư góp vốn vào đơn vị khác,26,,-,-,,26.0,,,
+7.,II. Lưu chuyển tiền từ hoạt động đầu tư > 7.,7.,"Tiền thu lãi cho vay, cổ tức và lợi nhuận được chia",27,V.5;VI.4,6.840.965.087,3.341.600.249,,27.0,,6840965087.0,3341600249.0
+,,,Lưu chuyển tiền thuần từ hoạt động đầu tư,30,,(35.694.059.976),(3.388.347.588),,30.0,,-35694059976.0,-3388347588.0

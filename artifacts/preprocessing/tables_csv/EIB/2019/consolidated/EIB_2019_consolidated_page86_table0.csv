@@ -1,0 +1,21 @@
+﻿row_label_raw,row_label_full,Tại ngày 31 tháng 12 năm 2019,VNDTriệu VND,USDTriệu VND,VàngTriệu VND,EURTriệu VND,Tiền tệ khácTriệu VND,TổngTriệu VND,numeric__VNDTriệu VND,numeric__USDTriệu VND,numeric__VàngTriệu VND,numeric__EURTriệu VND,numeric__Tiền tệ khácTriệu VND,numeric__TổngTriệu VND
+Tài sản,Tài sản,Tài sản,,,,,,,,,,,,
+"Tiền mặt, vàng","Tài sản > Tiền mặt, vàng","Tiền mặt, vàng",1.062.584,741.582,218.657,155.105,452.355,2.630.283,1062584.0,741582.0,218657.0,155105.0,452355.0,2630283.0
+Tiền gửi tại NHNNVN,Tài sản > Tiền gửi tại NHNNVN,Tiền gửi tại NHNNVN,5.249.196,488.445,-,-,-,5.737.641,5249196.0,488445.0,,,,5737641.0
+Tiền gửi và cho vay các tổ chức tín dụng khác,Tài sản > Tiền gửi và cho vay các tổ chức tín dụng khác,Tiền gửi và cho vay các tổ chức tín dụng khác,16.482.146,7.229.494,-,86.926,2.059.031,25.857.597,16482146.0,7229494.0,,86926.0,2059031.0,25857597.0
+Các công cụ tài chính phải sinh và các tài sản tài chính khác,Tài sản > Các công cụ tài chính phải sinh và các tài sản tài chính khác,Các công cụ tài chính phải sinh và các tài sản tài chính khác,13.983.705,(13.700.190),-,-,(75.712),207.803,13983705.0,-13700190.0,,,-75712.0,207803.0
+Cho vay khách hàng – gộp,Tài sản > Cho vay khách hàng – gộp,Cho vay khách hàng – gộp,102.676.425,10.510.083,18.756,49.528,-,113.254.792,102676425.0,10510083.0,18756.0,49528.0,,113254792.0
+Chứng khoán đầu tư – gộp,Tài sản > Chứng khoán đầu tư – gộp,Chứng khoán đầu tư – gộp,16.883.990,-,-,-,-,16.883.990,16883990.0,,,,,16883990.0
+Tài sản cố định,Tài sản > Tài sản cố định,Tài sản cố định,3.444.021,-,-,-,-,3.444.021,3444021.0,,,,,3444021.0
+Tài sản Có khác – gộp,Tài sản > Tài sản Có khác – gộp,Tài sản Có khác – gộp,3.336.798,24.404,72,247,-,3.361.521,3336798.0,24404.0,72.0,247.0,,3361521.0
+Tổng tài sản (1),Tài sản > Tổng tài sản (1),Tổng tài sản (1),163.118.865,5.293.818,237.485,291.806,2.435.674,171.377.648,163118865.0,5293818.0,237485.0,291806.0,2435674.0,171377648.0
+Nợ phải trả và vốn chủ sở hữu,Nợ phải trả và vốn chủ sở hữu,Nợ phải trả và vốn chủ sở hữu,,,,,,,,,,,,
+Các khoản nợ NHNNVN,Nợ phải trả và vốn chủ sở hữu > Các khoản nợ NHNNVN,Các khoản nợ NHNNVN,41.479,-,-,-,-,41.479,41479.0,,,,,41479.0
+Tiền gửi và vay các tổ chức tín dụng khác,Nợ phải trả và vốn chủ sở hữu > Tiền gửi và vay các tổ chức tín dụng khác,Tiền gửi và vay các tổ chức tín dụng khác,4.190.186,2.978.316,-,33,1.474.648,8.643.183,4190186.0,2978316.0,,33.0,1474648.0,8643183.0
+Tiền gửi của khách hàng,Nợ phải trả và vốn chủ sở hữu > Tiền gửi của khách hàng,Tiền gửi của khách hàng,133.448.694,4.997.485,-,238.095,594.190,139.278.464,133448694.0,4997485.0,,238095.0,594190.0,139278464.0
+Các khoản nợ khác,Nợ phải trả và vốn chủ sở hữu > Các khoản nợ khác,Các khoản nợ khác,3.528.779,216.930,-,1.746,78.424,3.825.879,3528779.0,216930.0,,1746.0,78424.0,3825879.0
+Vốn chủ sở hữu,Nợ phải trả và vốn chủ sở hữu > Vốn chủ sở hữu,Vốn chủ sở hữu,15.749.313,-,-,-,-,15.749.313,15749313.0,,,,,15749313.0
+Tổng nợ phải trả và vốn chủ sở hữu (2),Nợ phải trả và vốn chủ sở hữu > Tổng nợ phải trả và vốn chủ sở hữu (2),Tổng nợ phải trả và vốn chủ sở hữu (2),156.958.451,8.192.731,-,239.874,2.147.262,167.538.318,156958451.0,8192731.0,,239874.0,2147262.0,167538318.0
+Trạng thái tiền tệ nội bằng [(3)=(1)-(2)],Nợ phải trả và vốn chủ sở hữu > Trạng thái tiền tệ nội bằng [(3)=(1)-(2)],Trạng thái tiền tệ nội bằng [(3)=(1)-(2)],6.160.414,(2.898.913),237.485,51.932,288.412,3.839.330,6160414.0,-2898913.0,237485.0,51932.0,288412.0,3839330.0
+Trạng thái tiền tệ ngoại bằng (4),Nợ phải trả và vốn chủ sở hữu > Trạng thái tiền tệ ngoại bằng (4),Trạng thái tiền tệ ngoại bằng (4),(953.831),1.426.658,(65.875),(85.198),(322.443),(689),-953831.0,1426658.0,-65875.0,-85198.0,-322443.0,-689.0
+"Trạng thái tiền tệ nội, ngoại bằng [(5)=(3)+(4)]","Nợ phải trả và vốn chủ sở hữu > Trạng thái tiền tệ nội, ngoại bằng [(5)=(3)+(4)]","Trạng thái tiền tệ nội, ngoại bằng [(5)=(3)+(4)]",5.206.583,(1.472.255),171.610,(33.266),(34.031),3.838.641,5206583.0,-1472255.0,171610.0,-33266.0,-34031.0,3838641.0

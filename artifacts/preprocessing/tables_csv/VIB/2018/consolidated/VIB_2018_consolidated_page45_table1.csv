@@ -1,0 +1,15 @@
+﻿row_label_raw,row_label_full,col_0,Năm 2018 triệu đồng,Năm 2017 triệu đồng,numeric__Năm 2018 triệu đồng,numeric__Năm 2017 triệu đồng
+Thu nhập từ hoạt động kinh doanh trước thuế,Thu nhập từ hoạt động kinh doanh trước thuế,Thu nhập từ hoạt động kinh doanh trước thuế,2.742.570,1.405.070,2742570.0,1405070.0
+Trừ:,Trừ:,Trừ:,Trừ:,Trừ:,,
+- Các khoản điều chỉnh giảm,Trừ: > - Các khoản điều chỉnh giảm,- Các khoản điều chỉnh giảm,(916),(1.821),-916.0,-1821.0
+- Các khoản điều chỉnh phát sinh từ hợp nhất báo cáo,- Các khoản điều chỉnh phát sinh từ hợp nhất báo cáo,- Các khoản điều chỉnh phát sinh từ hợp nhất báo cáo,-,-,,
+Cộng:,Cộng:,Cộng:,Cộng:,Cộng:,,
+- Các khoản điều chỉnh tăng,Cộng: > - Các khoản điều chỉnh tăng,- Các khoản điều chỉnh tăng,639,649,639.0,649.0
+- Các khoản điều chỉnh phát sinh từ hợp nhất báo cáo,Cộng: > - Các khoản điều chỉnh phát sinh từ hợp nhất báo cáo,- Các khoản điều chỉnh phát sinh từ hợp nhất báo cáo,1.209,-,1209.0,
+Thu nhập chịu thuế TNDN,Cộng: > Thu nhập chịu thuế TNDN,Thu nhập chịu thuế TNDN,2.743.502,1.403.898,2743502.0,1403898.0
+Chi phí thuế TNDN hiện hành trong năm,Cộng: > Chi phí thuế TNDN hiện hành trong năm,Chi phí thuế TNDN hiện hành trong năm,548.700,280.779,548700.0,280779.0
+Chi phí thuế TNDN phát sinh trong năm,Cộng: > Chi phí thuế TNDN phát sinh trong năm,Chi phí thuế TNDN phát sinh trong năm,548.700,280.779,548700.0,280779.0
+Điều chỉnh thuế TNDN năm trước,Cộng: > Điều chỉnh thuế TNDN năm trước,Điều chỉnh thuế TNDN năm trước,-,(226),,-226.0
+Thuế TNDN phải trả đầu năm,Cộng: > Thuế TNDN phải trả đầu năm,Thuế TNDN phải trả đầu năm,153.727,55.646,153727.0,55646.0
+Thuế TNDN đã nộp trong năm,Cộng: > Thuế TNDN đã nộp trong năm,Thuế TNDN đã nộp trong năm,(501.724),(182.472),-501724.0,-182472.0
+Thuế TNDN phải trả cuối năm,Cộng: > Thuế TNDN phải trả cuối năm,Thuế TNDN phải trả cuối năm,200.703,153.727,200703.0,153727.0

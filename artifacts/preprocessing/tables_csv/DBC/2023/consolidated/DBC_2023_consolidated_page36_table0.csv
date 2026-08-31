@@ -1,0 +1,14 @@
+﻿row_label_raw,row_label_full,col_0,Số đầu năm,Số phát sinh trong năm,Số đã nộp/cấn trừ trong năm,Số cuối năm,numeric__Số đầu năm,numeric__Số phát sinh trong năm,numeric__Số đã nộp/cấn trừ trong năm,numeric__Số cuối năm
+Phải nộp,Phải nộp,Phải nộp,Phải nộp,Phải nộp,Phải nộp,Phải nộp,,,,
+Thuế giá trị gia tăng,Phải nộp > Thuế giá trị gia tăng,Thuế giá trị gia tăng,6.175.150.082,166.889.819.599,(166.763.751.104),6.301.218.577,6175150082.0,166889819599.0,-166763751104.0,6301218577.0
+Thuế thu nhập doanh nghiệp,Phải nộp > Thuế thu nhập doanh nghiệp,Thuế thu nhập doanh nghiệp,39.018.827.816,72.742.017.137,(85.898.019.088),25.862.825.865,39018827816.0,72742017137.0,-85898019088.0,25862825865.0
+Thuế nhập khẩu,Phải nộp > Thuế nhập khẩu,Thuế nhập khẩu,-,14.299.520.327,(14.299.520.327),-,,14299520327.0,-14299520327.0,
+Tiền sử dụng đất,Phải nộp > Tiền sử dụng đất,Tiền sử dụng đất,7.022,12.752.791.128,(12.752.798.150),-,7022.0,12752791128.0,-12752798150.0,
+Thuế thu nhập cá nhân,Phải nộp > Thuế thu nhập cá nhân,Thuế thu nhập cá nhân,441.405,4.163.804.950,(4.164.246.355),-,441405.0,4163804950.0,-4164246355.0,
+Các loại thuế khác,Phải nộp > Các loại thuế khác,Các loại thuế khác,192.038.573,7.020.145.819,(6.910.147.590),302.036.802,192038573.0,7020145819.0,-6910147590.0,302036802.0
+TỔNG CỘNG,Phải nộp > TỔNG CỘNG,TỔNG CỘNG,45.386.464.898,277.868.098.960,(290.788.482.614),32.466.081.244,45386464898.0,277868098960.0,-290788482614.0,32466081244.0
+,,,Số đầu năm,Số kê khai hoàn trong năm,Số đã cán trừ trong năm,Số cuối năm,,,,
+Phải thu,Phải thu,Phải thu,Phải thu,Phải thu,Phải thu,Phải thu,,,,
+Thuế giá trị gia tăng,Phải thu > Thuế giá trị gia tăng,Thuế giá trị gia tăng,60.950.085.486,89.082.836.357,(105.350.115.014),44.682.806.829,60950085486.0,89082836357.0,-105350115014.0,44682806829.0
+Thuế khác,Phải thu > Thuế khác,Thuế khác,4.515.694.972,609.161.078,(557.061.083),4.567.794.967,4515694972.0,609161078.0,-557061083.0,4567794967.0
+TỔNG CỘNG,Phải thu > TỔNG CỘNG,TỔNG CỘNG,65.465.780.458,89.691.997.435,(105.907.176.097),49.250.601.796,65465780458.0,89691997435.0,-105907176097.0,49250601796.0

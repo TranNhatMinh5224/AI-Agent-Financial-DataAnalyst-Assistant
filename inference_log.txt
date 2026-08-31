@@ -151,3 +151,1535 @@
 2026-08-31 00:56:06,551 | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2/e8f8c211226b894fcb81acc59f3b34ba3efd5f42/1_Pooling%2Fconfig.json "HTTP/1.1 200 OK"
 2026-08-31 00:56:06,566 | HTTP Request: GET https://huggingface.co/api/resolve-cache/models/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2/e8f8c211226b894fcb81acc59f3b34ba3efd5f42/1_Pooling%2Fconfig.json "HTTP/1.1 200 OK"
 2026-08-31 00:56:06,828 | HTTP Request: GET https://huggingface.co/api/models/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2 "HTTP/1.1 200 OK"
+2026-08-31 05:09:47,343 | Started batch inference. Logs saved to inference_log.txt
+2026-08-31 05:09:47,356 | [INFO] Total questions to process: 20
+2026-08-31 05:09:47,469 | --- Processing Question 1 ---
+2026-08-31 05:09:51,325 | Search failed: Can't get attribute 'BasicBM25' on <module '__main__' from 'C:\\Users\\Minh\\Desktop\\My-Project\\AI-Agent-Financial-DataAnalyst-Assistant\\run_batch_inference.py'>
+2026-08-31 05:10:10,335 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 05:10:23,844 | HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 404 Not Found"
+2026-08-31 05:10:23,846 | [Orchestration] Question: Lãi tiền gửi năm 2018 của công ty mẹ CTCP Hàng không Vietjet (VJC) là bao nhiêu ...
+  ✅ [PLANNER] decompose — Plan generated (614 chars)
+  ❌ [RETRIEVER] llm_grounding — LLM hint skipped: Chưa kết nối được AI (qwen2.5-coder:3b). Vui lòng kiểm tra lại. Lỗi: Error code: 404 - {'error': {'message': "model 'qwen2.5-coder:3b' not found", 'type': 'not_found_error', 'param': None, 'code': None}}
+  ❌ [RETRIEVER] ground_cells — 0 cells grounded | error=I_INSUFFICIENT_EVIDENCE
+  Reflection rounds: 0
+  Error: Grounding failed: I_INSUFFICIENT_EVIDENCE
+2026-08-31 05:10:23,846 | ⚠️ [CẢNH BÁO] Câu 1 KHÔNG CÓ KẾT QUẢ! Nguyên nhân: Lỗi Tìm kiếm (Retriever): Không tìm thấy bảng chứa dữ liệu.
+2026-08-31 05:10:23,846 | --- Processing Question 2 ---
+2026-08-31 05:10:27,524 | Search failed: Can't get attribute 'BasicBM25' on <module '__main__' from 'C:\\Users\\Minh\\Desktop\\My-Project\\AI-Agent-Financial-DataAnalyst-Assistant\\run_batch_inference.py'>
+2026-08-31 05:10:28,259 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 05:10:46,415 | HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 404 Not Found"
+2026-08-31 05:10:46,415 | [Orchestration] Question: Số dư cho vay khách hàng ngành Thương mại của công ty mẹ Ngân hàng TMCP Á Châu (...
+  ✅ [PLANNER] decompose — Plan generated (889 chars)
+  ❌ [RETRIEVER] llm_grounding — LLM hint skipped: Chưa kết nối được AI (qwen2.5-coder:3b). Vui lòng kiểm tra lại. Lỗi: Error code: 404 - {'error': {'message': "model 'qwen2.5-coder:3b' not found", 'type': 'not_found_error', 'param': None, 'code': None}}
+  ❌ [RETRIEVER] ground_cells — 0 cells grounded | error=I_INSUFFICIENT_EVIDENCE
+  Reflection rounds: 0
+  Error: Grounding failed: I_INSUFFICIENT_EVIDENCE
+2026-08-31 05:10:46,415 | ⚠️ [CẢNH BÁO] Câu 2 KHÔNG CÓ KẾT QUẢ! Nguyên nhân: Lỗi Tìm kiếm (Retriever): Không tìm thấy bảng chứa dữ liệu.
+2026-08-31 05:10:46,416 | --- Processing Question 3 ---
+2026-08-31 05:10:56,658 | Search failed: No module named 'sentence_transformers'
+2026-08-31 05:10:57,953 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 05:10:59,031 | Started batch inference. Logs saved to inference_log.txt
+2026-08-31 05:10:59,031 | [INFO] Resume: 0 câu OK (skip), 2 câu lỗi (chạy lại).
+2026-08-31 05:10:59,035 | [INFO] Total questions to process: 1
+2026-08-31 05:10:59,039 | --- Processing Question 1 ---
+2026-08-31 05:11:07,924 | HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 404 Not Found"
+2026-08-31 05:11:07,925 | [Orchestration] Question: Chi phí dự phòng của Ngân hàng TMCP Sài Gòn Tài Lộc trong năm 2020 là bao nhiêu ...
+  ✅ [PLANNER] decompose — Plan generated (609 chars)
+  ❌ [RETRIEVER] llm_grounding — LLM hint skipped: Chưa kết nối được AI (qwen2.5-coder:3b). Vui lòng kiểm tra lại. Lỗi: Error code: 404 - {'error': {'message': "model 'qwen2.5-coder:3b' not found", 'type': 'not_found_error', 'param': None, 'code': None}}
+  ❌ [RETRIEVER] ground_cells — 0 cells grounded | error=I_INSUFFICIENT_EVIDENCE
+  Reflection rounds: 0
+  Error: Grounding failed: I_INSUFFICIENT_EVIDENCE
+2026-08-31 05:11:07,925 | ⚠️ [CẢNH BÁO] Câu 3 KHÔNG CÓ KẾT QUẢ! Nguyên nhân: Lỗi Tìm kiếm (Retriever): Không tìm thấy bảng chứa dữ liệu.
+2026-08-31 05:11:07,926 | --- Processing Question 4 ---
+2026-08-31 05:11:08,009 | Search failed: No module named 'sentence_transformers'
+2026-08-31 05:11:10,708 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 05:11:17,274 | Search failed: No module named 'sentence_transformers'
+2026-08-31 05:11:18,247 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 05:11:22,667 | HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 404 Not Found"
+2026-08-31 05:11:22,667 | [Orchestration] Question: Lãi tiền gửi năm 2018 của công ty mẹ CTCP Hàng không Vietjet (VJC) là bao nhiêu ...
+  ✅ [PLANNER] decompose — Plan generated (693 chars)
+  ❌ [RETRIEVER] llm_grounding — LLM hint skipped: Chưa kết nối được AI (qwen2.5-coder:3b). Vui lòng kiểm tra lại. Lỗi: Error code: 404 - {'error': {'message': "model 'qwen2.5-coder:3b' not found", 'type': 'not_found_error', 'param': None, 'code': None}}
+  ❌ [RETRIEVER] ground_cells — 0 cells grounded | error=I_INSUFFICIENT_EVIDENCE
+  Reflection rounds: 0
+  Error: Grounding failed: I_INSUFFICIENT_EVIDENCE
+2026-08-31 05:11:22,667 | ⚠️ [CẢNH BÁO] Câu 1 KHÔNG CÓ KẾT QUẢ! Nguyên nhân: Lỗi Tìm kiếm (Retriever): Không tìm thấy bảng chứa dữ liệu.
+2026-08-31 05:11:22,668 | 
+[SUCCESS] Tất cả câu hỏi đã xử lý xong. Đang nén file submission.zip...
+2026-08-31 05:11:22,686 | ✅ Gói nộp bài hợp lệ. File được lưu tại: C:\Users\Minh\Desktop\My-Project\AI-Agent-Financial-DataAnalyst-Assistant\submission.zip
+2026-08-31 05:11:28,940 | HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 404 Not Found"
+2026-08-31 05:11:28,940 | [Orchestration] Question: Lợi nhuận sau thuế của CTCP Chứng khoán FPT năm 2023 là bao nhiêu tỷ đồng?...
+  ✅ [PLANNER] decompose — Plan generated (710 chars)
+  ❌ [RETRIEVER] llm_grounding — LLM hint skipped: Chưa kết nối được AI (qwen2.5-coder:3b). Vui lòng kiểm tra lại. Lỗi: Error code: 404 - {'error': {'message': "model 'qwen2.5-coder:3b' not found", 'type': 'not_found_error', 'param': None, 'code': None}}
+  ❌ [RETRIEVER] ground_cells — 0 cells grounded | error=I_INSUFFICIENT_EVIDENCE
+  Reflection rounds: 0
+  Error: Grounding failed: I_INSUFFICIENT_EVIDENCE
+2026-08-31 05:11:28,940 | ⚠️ [CẢNH BÁO] Câu 4 KHÔNG CÓ KẾT QUẢ! Nguyên nhân: Lỗi Tìm kiếm (Retriever): Không tìm thấy bảng chứa dữ liệu.
+2026-08-31 05:11:28,942 | --- Processing Question 5 ---
+2026-08-31 05:11:38,211 | Search failed: No module named 'sentence_transformers'
+2026-08-31 05:11:40,579 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 05:11:51,486 | HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 404 Not Found"
+2026-08-31 05:11:51,486 | [Orchestration] Question: Chi phí phạt của công ty mẹ SCR năm 2017 là bao nhiêu tỷ đồng?...
+  ✅ [PLANNER] decompose — Plan generated (656 chars)
+  ❌ [RETRIEVER] llm_grounding — LLM hint skipped: Chưa kết nối được AI (qwen2.5-coder:3b). Vui lòng kiểm tra lại. Lỗi: Error code: 404 - {'error': {'message': "model 'qwen2.5-coder:3b' not found", 'type': 'not_found_error', 'param': None, 'code': None}}
+  ❌ [RETRIEVER] ground_cells — 0 cells grounded | error=I_INSUFFICIENT_EVIDENCE
+  Reflection rounds: 0
+  Error: Grounding failed: I_INSUFFICIENT_EVIDENCE
+2026-08-31 05:11:51,486 | ⚠️ [CẢNH BÁO] Câu 5 KHÔNG CÓ KẾT QUẢ! Nguyên nhân: Lỗi Tìm kiếm (Retriever): Không tìm thấy bảng chứa dữ liệu.
+2026-08-31 05:11:51,487 | --- Processing Question 6 ---
+2026-08-31 05:12:01,658 | Search failed: No module named 'sentence_transformers'
+2026-08-31 05:12:03,719 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 05:12:20,864 | HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 404 Not Found"
+2026-08-31 05:12:20,865 | [Orchestration] Question: Lưu chuyển tiền thuần từ hoạt động kinh doanh của công ty mẹ VSC trong năm 2017 ...
+  ✅ [PLANNER] decompose — Plan generated (737 chars)
+  ❌ [RETRIEVER] llm_grounding — LLM hint skipped: Chưa kết nối được AI (qwen2.5-coder:3b). Vui lòng kiểm tra lại. Lỗi: Error code: 404 - {'error': {'message': "model 'qwen2.5-coder:3b' not found", 'type': 'not_found_error', 'param': None, 'code': None}}
+  ❌ [RETRIEVER] ground_cells — 0 cells grounded | error=I_INSUFFICIENT_EVIDENCE
+  Reflection rounds: 0
+  Error: Grounding failed: I_INSUFFICIENT_EVIDENCE
+2026-08-31 05:12:20,865 | ⚠️ [CẢNH BÁO] Câu 6 KHÔNG CÓ KẾT QUẢ! Nguyên nhân: Lỗi Tìm kiếm (Retriever): Không tìm thấy bảng chứa dữ liệu.
+2026-08-31 05:12:20,866 | --- Processing Question 7 ---
+2026-08-31 05:12:30,634 | Search failed: No module named 'sentence_transformers'
+2026-08-31 05:12:31,652 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 05:12:48,632 | HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 404 Not Found"
+2026-08-31 05:12:48,634 | [Orchestration] Question: Quỹ khen thưởng, phúc lợi của HT1 cuối năm 2019 là bao nhiêu tỷ đồng?...
+  ✅ [PLANNER] decompose — Plan generated (574 chars)
+  ❌ [RETRIEVER] llm_grounding — LLM hint skipped: Chưa kết nối được AI (qwen2.5-coder:3b). Vui lòng kiểm tra lại. Lỗi: Error code: 404 - {'error': {'message': "model 'qwen2.5-coder:3b' not found", 'type': 'not_found_error', 'param': None, 'code': None}}
+  ❌ [RETRIEVER] ground_cells — 0 cells grounded | error=I_INSUFFICIENT_EVIDENCE
+  Reflection rounds: 0
+  Error: Grounding failed: I_INSUFFICIENT_EVIDENCE
+2026-08-31 05:12:48,634 | ⚠️ [CẢNH BÁO] Câu 7 KHÔNG CÓ KẾT QUẢ! Nguyên nhân: Lỗi Tìm kiếm (Retriever): Không tìm thấy bảng chứa dữ liệu.
+2026-08-31 05:12:48,636 | --- Processing Question 8 ---
+2026-08-31 05:13:07,892 | Search failed: No module named 'sentence_transformers'
+2026-08-31 05:13:13,980 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 05:13:30,686 | HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 404 Not Found"
+2026-08-31 05:13:30,687 | [Orchestration] Question: Chi phí lương và các khoản khác theo lương của công ty mẹ CTCP Chứng khoán FPT t...
+  ✅ [PLANNER] decompose — Plan generated (792 chars)
+  ❌ [RETRIEVER] llm_grounding — LLM hint skipped: Chưa kết nối được AI (qwen2.5-coder:3b). Vui lòng kiểm tra lại. Lỗi: Error code: 404 - {'error': {'message': "model 'qwen2.5-coder:3b' not found", 'type': 'not_found_error', 'param': None, 'code': None}}
+  ❌ [RETRIEVER] ground_cells — 0 cells grounded | error=I_INSUFFICIENT_EVIDENCE
+  Reflection rounds: 0
+  Error: Grounding failed: I_INSUFFICIENT_EVIDENCE
+2026-08-31 05:13:30,687 | ⚠️ [CẢNH BÁO] Câu 8 KHÔNG CÓ KẾT QUẢ! Nguyên nhân: Lỗi Tìm kiếm (Retriever): Không tìm thấy bảng chứa dữ liệu.
+2026-08-31 05:13:30,688 | --- Processing Question 9 ---
+2026-08-31 05:14:05,226 | Started batch inference. Logs saved to inference_log.txt
+2026-08-31 05:14:05,226 | [INFO] Resume: 0 câu OK (skip), 8 câu lỗi (chạy lại).
+2026-08-31 05:14:05,231 | [INFO] Total questions to process: 1
+2026-08-31 05:14:05,239 | --- Processing Question 1 ---
+2026-08-31 05:14:31,924 | TensorFlow version 2.17.0 available.
+2026-08-31 05:14:32,108 | TensorFlow version 2.17.0 available.
+2026-08-31 05:14:40,959 | No device provided, using cpu
+2026-08-31 05:14:40,959 | No device provided, using cpu
+2026-08-31 05:14:41,270 | HTTP Request: GET https://huggingface.co/api/agent-harnesses "HTTP/1.1 200 OK"
+2026-08-31 05:14:41,285 | HTTP Request: GET https://huggingface.co/api/agent-harnesses "HTTP/1.1 200 OK"
+2026-08-31 05:14:41,545 | HTTP Request: HEAD https://huggingface.co/BAAI/bge-m3/resolve/main/modules.json "HTTP/1.1 307 Temporary Redirect"
+2026-08-31 05:14:41,545 | HTTP Request: HEAD https://huggingface.co/BAAI/bge-m3/resolve/main/modules.json "HTTP/1.1 307 Temporary Redirect"
+2026-08-31 05:14:41,545 | Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-08-31 05:14:41,546 | Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-08-31 05:14:41,558 | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/BAAI/bge-m3/5617a9f61b028005a4858fdac845db406aefb181/modules.json "HTTP/1.1 200 OK"
+2026-08-31 05:14:41,559 | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/BAAI/bge-m3/5617a9f61b028005a4858fdac845db406aefb181/modules.json "HTTP/1.1 200 OK"
+2026-08-31 05:14:41,601 | HTTP Request: GET https://huggingface.co/api/resolve-cache/models/BAAI/bge-m3/5617a9f61b028005a4858fdac845db406aefb181/modules.json "HTTP/1.1 200 OK"
+2026-08-31 05:14:41,902 | HTTP Request: HEAD https://huggingface.co/BAAI/bge-m3/resolve/main/config_sentence_transformers.json "HTTP/1.1 307 Temporary Redirect"
+2026-08-31 05:14:41,917 | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/BAAI/bge-m3/5617a9f61b028005a4858fdac845db406aefb181/config_sentence_transformers.json "HTTP/1.1 200 OK"
+2026-08-31 05:14:41,917 | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/BAAI/bge-m3/5617a9f61b028005a4858fdac845db406aefb181/config_sentence_transformers.json "HTTP/1.1 200 OK"
+2026-08-31 05:14:41,963 | HTTP Request: GET https://huggingface.co/api/resolve-cache/models/BAAI/bge-m3/5617a9f61b028005a4858fdac845db406aefb181/config_sentence_transformers.json "HTTP/1.1 200 OK"
+2026-08-31 05:14:41,978 | Loading SentenceTransformer model from BAAI/bge-m3.
+2026-08-31 05:14:41,984 | Loading SentenceTransformer model from BAAI/bge-m3.
+2026-08-31 05:14:42,247 | HTTP Request: HEAD https://huggingface.co/BAAI/bge-m3/resolve/main/config_sentence_transformers.json "HTTP/1.1 307 Temporary Redirect"
+2026-08-31 05:14:42,262 | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/BAAI/bge-m3/5617a9f61b028005a4858fdac845db406aefb181/config_sentence_transformers.json "HTTP/1.1 200 OK"
+2026-08-31 05:14:42,297 | HTTP Request: HEAD https://huggingface.co/BAAI/bge-m3/resolve/main/config_sentence_transformers.json "HTTP/1.1 307 Temporary Redirect"
+2026-08-31 05:14:42,310 | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/BAAI/bge-m3/5617a9f61b028005a4858fdac845db406aefb181/config_sentence_transformers.json "HTTP/1.1 200 OK"
+2026-08-31 05:14:42,557 | HTTP Request: HEAD https://huggingface.co/BAAI/bge-m3/resolve/main/README.md "HTTP/1.1 307 Temporary Redirect"
+2026-08-31 05:14:42,568 | HTTP Request: HEAD https://huggingface.co/BAAI/bge-m3/resolve/main/README.md "HTTP/1.1 307 Temporary Redirect"
+2026-08-31 05:14:44,792 | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/BAAI/bge-m3/5617a9f61b028005a4858fdac845db406aefb181/README.md "HTTP/1.1 200 OK"
+2026-08-31 05:14:44,800 | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/BAAI/bge-m3/5617a9f61b028005a4858fdac845db406aefb181/README.md "HTTP/1.1 200 OK"
+2026-08-31 05:14:45,095 | HTTP Request: GET https://huggingface.co/api/resolve-cache/models/BAAI/bge-m3/5617a9f61b028005a4858fdac845db406aefb181/README.md "HTTP/1.1 200 OK"
+2026-08-31 05:14:45,378 | HTTP Request: HEAD https://huggingface.co/BAAI/bge-m3/resolve/main/modules.json "HTTP/1.1 307 Temporary Redirect"
+2026-08-31 05:14:45,385 | HTTP Request: HEAD https://huggingface.co/BAAI/bge-m3/resolve/main/modules.json "HTTP/1.1 307 Temporary Redirect"
+2026-08-31 05:14:45,422 | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/BAAI/bge-m3/5617a9f61b028005a4858fdac845db406aefb181/modules.json "HTTP/1.1 200 OK"
+2026-08-31 05:14:45,743 | HTTP Request: HEAD https://huggingface.co/BAAI/bge-m3/resolve/main/sentence_bert_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-08-31 05:14:45,757 | HTTP Request: HEAD https://huggingface.co/BAAI/bge-m3/resolve/main/sentence_bert_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-08-31 05:14:46,122 | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/BAAI/bge-m3/5617a9f61b028005a4858fdac845db406aefb181/sentence_bert_config.json "HTTP/1.1 200 OK"
+2026-08-31 05:14:46,209 | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/BAAI/bge-m3/5617a9f61b028005a4858fdac845db406aefb181/sentence_bert_config.json "HTTP/1.1 200 OK"
+2026-08-31 05:14:46,601 | HTTP Request: GET https://huggingface.co/api/resolve-cache/models/BAAI/bge-m3/5617a9f61b028005a4858fdac845db406aefb181/sentence_bert_config.json "HTTP/1.1 200 OK"
+2026-08-31 05:14:46,876 | HTTP Request: HEAD https://huggingface.co/BAAI/bge-m3/resolve/main/adapter_config.json "HTTP/1.1 404 Not Found"
+2026-08-31 05:14:46,894 | HTTP Request: HEAD https://huggingface.co/BAAI/bge-m3/resolve/main/adapter_config.json "HTTP/1.1 404 Not Found"
+2026-08-31 05:14:47,133 | HTTP Request: HEAD https://huggingface.co/BAAI/bge-m3/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-08-31 05:14:47,147 | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/BAAI/bge-m3/5617a9f61b028005a4858fdac845db406aefb181/config.json "HTTP/1.1 200 OK"
+2026-08-31 05:14:47,153 | HTTP Request: HEAD https://huggingface.co/BAAI/bge-m3/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-08-31 05:14:47,162 | HTTP Request: GET https://huggingface.co/api/resolve-cache/models/BAAI/bge-m3/5617a9f61b028005a4858fdac845db406aefb181/config.json "HTTP/1.1 200 OK"
+2026-08-31 05:14:47,166 | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/BAAI/bge-m3/5617a9f61b028005a4858fdac845db406aefb181/config.json "HTTP/1.1 200 OK"
+2026-08-31 05:14:47,493 | HTTP Request: HEAD https://huggingface.co/BAAI/bge-m3/resolve/main/model.safetensors "HTTP/1.1 404 Not Found"
+2026-08-31 05:14:47,497 | HTTP Request: HEAD https://huggingface.co/BAAI/bge-m3/resolve/main/model.safetensors "HTTP/1.1 404 Not Found"
+2026-08-31 05:14:47,746 | HTTP Request: HEAD https://huggingface.co/BAAI/bge-m3/resolve/main/model.safetensors.index.json "HTTP/1.1 404 Not Found"
+2026-08-31 05:14:47,749 | HTTP Request: HEAD https://huggingface.co/BAAI/bge-m3/resolve/main/model.safetensors.index.json "HTTP/1.1 404 Not Found"
+2026-08-31 05:14:48,000 | HTTP Request: HEAD https://huggingface.co/BAAI/bge-m3/resolve/main/pytorch_model.bin "HTTP/1.1 302 Found"
+2026-08-31 05:14:48,006 | HTTP Request: HEAD https://huggingface.co/BAAI/bge-m3/resolve/main/pytorch_model.bin "HTTP/1.1 302 Found"
+2026-08-31 05:22:21,009 | Started batch inference. Logs saved to inference_log.txt
+2026-08-31 05:22:21,010 | [INFO] Resume: 0 câu OK (skip), 8 câu lỗi (chạy lại).
+2026-08-31 05:22:21,014 | [INFO] Total questions to process: 1
+2026-08-31 05:22:21,020 | --- Processing Question 1 ---
+2026-08-31 05:23:01,019 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 05:23:26,120 | Started batch inference. Logs saved to inference_log.txt
+2026-08-31 05:23:26,121 | [INFO] Resume: 0 câu OK (skip), 8 câu lỗi (chạy lại).
+2026-08-31 05:23:26,124 | [INFO] Total questions to process: 1
+2026-08-31 05:23:26,130 | --- Processing Question 1 ---
+2026-08-31 05:23:30,734 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 05:23:40,100 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 05:23:42,780 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 05:23:53,064 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 05:24:00,095 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 05:24:06,961 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 05:24:20,734 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 05:24:33,818 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 05:24:42,469 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 05:24:56,020 | [Orchestration] Question: Lãi tiền gửi năm 2018 của công ty mẹ CTCP Hàng không Vietjet (VJC) là bao nhiêu ...
+  ✅ [PLANNER] decompose — Plan generated (702 chars)
+  ✅ [RETRIEVER] llm_grounding — LLM Retriever hint generated
+  ✅ [RETRIEVER] ground_cells — 17 cells grounded | error=None
+  ❌ [PROGRAMMER] pot_execute — result=None, strategy=pot
+  ❌ [CRITIC] dual_verify — status=invalid
+  Reflection rounds: 0
+2026-08-31 05:24:56,021 | ⚠️ [CẢNH BÁO] Câu 1 KHÔNG CÓ KẾT QUẢ! Nguyên nhân: Lỗi Sandbox: Code Python thất bại sau 3 lần tự sửa.
+2026-08-31 05:24:56,039 | 
+[SUCCESS] Tất cả câu hỏi đã xử lý xong. Đang nén file submission.zip...
+2026-08-31 05:24:56,097 | ✅ Gói nộp bài hợp lệ. File được lưu tại: C:\Users\Minh\Desktop\My-Project\AI-Agent-Financial-DataAnalyst-Assistant\submission.zip
+2026-08-31 05:24:59,917 | HTTP Request: HEAD https://huggingface.co/BAAI/bge-m3/resolve/main/model.safetensors "HTTP/1.1 404 Not Found"
+2026-08-31 05:24:59,947 | HTTP Request: HEAD https://huggingface.co/BAAI/bge-m3/resolve/main/model.safetensors "HTTP/1.1 404 Not Found"
+2026-08-31 05:25:00,238 | HTTP Request: GET https://huggingface.co/api/models/BAAI/bge-m3 "HTTP/1.1 200 OK"
+2026-08-31 05:25:00,239 | HTTP Request: GET https://huggingface.co/api/models/BAAI/bge-m3 "HTTP/1.1 200 OK"
+2026-08-31 05:25:00,531 | HTTP Request: GET https://huggingface.co/api/models/BAAI/bge-m3/commits/main "HTTP/1.1 200 OK"
+2026-08-31 05:25:00,580 | HTTP Request: GET https://huggingface.co/api/models/BAAI/bge-m3/commits/main "HTTP/1.1 200 OK"
+2026-08-31 05:25:00,580 | HTTP Request: HEAD https://huggingface.co/BAAI/bge-m3/resolve/main/processor_config.json "HTTP/1.1 404 Not Found"
+2026-08-31 05:25:00,781 | HTTP Request: HEAD https://huggingface.co/BAAI/bge-m3/resolve/main/processor_config.json "HTTP/1.1 404 Not Found"
+2026-08-31 05:25:00,831 | HTTP Request: GET https://huggingface.co/api/models/BAAI/bge-m3/discussions?p=0 "HTTP/1.1 200 OK"
+2026-08-31 05:25:00,832 | HTTP Request: HEAD https://huggingface.co/BAAI/bge-m3/resolve/main/preprocessor_config.json "HTTP/1.1 404 Not Found"
+2026-08-31 05:25:00,882 | HTTP Request: GET https://huggingface.co/api/models/BAAI/bge-m3/discussions?p=0 "HTTP/1.1 200 OK"
+2026-08-31 05:25:01,067 | HTTP Request: HEAD https://huggingface.co/BAAI/bge-m3/resolve/main/preprocessor_config.json "HTTP/1.1 404 Not Found"
+2026-08-31 05:25:01,137 | HTTP Request: HEAD https://huggingface.co/BAAI/bge-m3/resolve/main/video_preprocessor_config.json "HTTP/1.1 404 Not Found"
+2026-08-31 05:25:01,138 | HTTP Request: GET https://huggingface.co/api/models/BAAI/bge-m3/commits/refs%2Fpr%2F130 "HTTP/1.1 200 OK"
+2026-08-31 05:25:01,206 | HTTP Request: GET https://huggingface.co/api/models/BAAI/bge-m3/commits/refs%2Fpr%2F130 "HTTP/1.1 200 OK"
+2026-08-31 05:25:01,500 | HTTP Request: HEAD https://huggingface.co/BAAI/bge-m3/resolve/main/video_preprocessor_config.json "HTTP/1.1 404 Not Found"
+2026-08-31 05:25:03,141 | HTTP Request: HEAD https://huggingface.co/BAAI/bge-m3/resolve/refs%2Fpr%2F130/model.safetensors.index.json "HTTP/1.1 404 Not Found"
+2026-08-31 05:25:03,141 | HTTP Request: HEAD https://huggingface.co/BAAI/bge-m3/resolve/main/preprocessor_config.json "HTTP/1.1 404 Not Found"
+2026-08-31 05:25:03,163 | HTTP Request: HEAD https://huggingface.co/BAAI/bge-m3/resolve/refs%2Fpr%2F130/model.safetensors.index.json "HTTP/1.1 404 Not Found"
+2026-08-31 05:25:03,270 | HTTP Request: HEAD https://huggingface.co/BAAI/bge-m3/resolve/main/preprocessor_config.json "HTTP/1.1 404 Not Found"
+2026-08-31 05:25:03,388 | HTTP Request: HEAD https://huggingface.co/BAAI/bge-m3/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-08-31 05:25:03,401 | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/BAAI/bge-m3/5617a9f61b028005a4858fdac845db406aefb181/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-08-31 05:25:03,403 | HTTP Request: HEAD https://huggingface.co/BAAI/bge-m3/resolve/refs%2Fpr%2F130/model.safetensors "HTTP/1.1 302 Found"
+2026-08-31 05:25:03,417 | HTTP Request: GET https://huggingface.co/api/resolve-cache/models/BAAI/bge-m3/5617a9f61b028005a4858fdac845db406aefb181/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-08-31 05:25:03,420 | HTTP Request: HEAD https://huggingface.co/BAAI/bge-m3/resolve/refs%2Fpr%2F130/model.safetensors "HTTP/1.1 302 Found"
+2026-08-31 05:25:03,528 | HTTP Request: HEAD https://huggingface.co/BAAI/bge-m3/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-08-31 05:25:03,540 | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/BAAI/bge-m3/5617a9f61b028005a4858fdac845db406aefb181/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-08-31 05:25:03,675 | HTTP Request: HEAD https://huggingface.co/BAAI/bge-m3/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-08-31 05:25:03,798 | HTTP Request: HEAD https://huggingface.co/BAAI/bge-m3/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-08-31 05:25:05,457 | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/BAAI/bge-m3/5617a9f61b028005a4858fdac845db406aefb181/config.json "HTTP/1.1 200 OK"
+2026-08-31 05:25:05,477 | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/BAAI/bge-m3/5617a9f61b028005a4858fdac845db406aefb181/config.json "HTTP/1.1 200 OK"
+2026-08-31 05:25:06,437 | HTTP Request: HEAD https://huggingface.co/BAAI/bge-m3/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-08-31 05:25:06,437 | HTTP Request: HEAD https://huggingface.co/BAAI/bge-m3/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-08-31 05:25:06,449 | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/BAAI/bge-m3/5617a9f61b028005a4858fdac845db406aefb181/config.json "HTTP/1.1 200 OK"
+2026-08-31 05:25:06,449 | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/BAAI/bge-m3/5617a9f61b028005a4858fdac845db406aefb181/config.json "HTTP/1.1 200 OK"
+2026-08-31 05:25:06,700 | HTTP Request: HEAD https://huggingface.co/BAAI/bge-m3/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-08-31 05:25:06,707 | HTTP Request: HEAD https://huggingface.co/BAAI/bge-m3/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-08-31 05:25:06,711 | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/BAAI/bge-m3/5617a9f61b028005a4858fdac845db406aefb181/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-08-31 05:25:06,720 | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/BAAI/bge-m3/5617a9f61b028005a4858fdac845db406aefb181/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-08-31 05:25:06,995 | HTTP Request: GET https://huggingface.co/api/models/BAAI/bge-m3/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-08-31 05:25:06,995 | HTTP Request: GET https://huggingface.co/api/models/BAAI/bge-m3/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-08-31 05:25:07,250 | HTTP Request: GET https://huggingface.co/api/models/BAAI/bge-m3/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-08-31 05:25:07,252 | HTTP Request: GET https://huggingface.co/api/models/BAAI/bge-m3/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-08-31 05:25:07,285 | [Orchestration] Question: Lãi tiền gửi năm 2018 của công ty mẹ CTCP Hàng không Vietjet (VJC) là bao nhiêu ...
+  ✅ [PLANNER] decompose — Plan generated (674 chars)
+  ✅ [RETRIEVER] llm_grounding — LLM Retriever hint generated
+  ✅ [RETRIEVER] ground_cells — 17 cells grounded | error=None
+  ❌ [PROGRAMMER] pot_execute — result=None, strategy=pot
+  ❌ [CRITIC] dual_verify — status=invalid
+  Reflection rounds: 0
+2026-08-31 05:25:07,285 | ⚠️ [CẢNH BÁO] Câu 1 KHÔNG CÓ KẾT QUẢ! Nguyên nhân: Lỗi Sandbox: Code Python thất bại sau 3 lần tự sửa.
+2026-08-31 05:25:07,304 | 
+[SUCCESS] Tất cả câu hỏi đã xử lý xong. Đang nén file submission.zip...
+2026-08-31 05:25:07,333 | ✅ Gói nộp bài hợp lệ. File được lưu tại: C:\Users\Minh\Desktop\My-Project\AI-Agent-Financial-DataAnalyst-Assistant\submission.zip
+2026-08-31 05:25:07,501 | HTTP Request: HEAD https://huggingface.co/BAAI/bge-m3/resolve/main/sentencepiece.bpe.model "HTTP/1.1 302 Found"
+2026-08-31 05:25:07,519 | HTTP Request: HEAD https://huggingface.co/BAAI/bge-m3/resolve/main/sentencepiece.bpe.model "HTTP/1.1 302 Found"
+2026-08-31 05:25:17,070 | Started batch inference. Logs saved to inference_log.txt
+2026-08-31 05:25:17,071 | [INFO] Resume: 1 câu OK (skip), 0 câu lỗi (chạy lại).
+2026-08-31 05:25:17,075 | [INFO] Total questions to process: 1
+2026-08-31 05:25:17,081 | 
+[SUCCESS] Tất cả câu hỏi đã xử lý xong. Đang nén file submission.zip...
+2026-08-31 05:25:17,106 | ✅ Gói nộp bài hợp lệ. File được lưu tại: C:\Users\Minh\Desktop\My-Project\AI-Agent-Financial-DataAnalyst-Assistant\submission.zip
+2026-08-31 05:25:32,068 | Started batch inference. Logs saved to inference_log.txt
+2026-08-31 05:25:32,070 | [INFO] Resume: 1 câu OK (skip), 0 câu lỗi (chạy lại).
+2026-08-31 05:25:32,074 | [INFO] Total questions to process: 2
+2026-08-31 05:25:32,082 | --- Processing Question 2 ---
+2026-08-31 05:26:12,155 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 05:26:19,696 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 05:26:26,638 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 05:26:27,025 | [Orchestration] Question: Số dư cho vay khách hàng ngành Thương mại của công ty mẹ Ngân hàng TMCP Á Châu (...
+  ✅ [PLANNER] decompose — Plan generated (2354 chars)
+  ✅ [RETRIEVER] llm_grounding — LLM Retriever hint generated
+  ✅ [RETRIEVER] ground_cells — 3 cells grounded | error=None
+  ✅ [PROGRAMMER] pot_execute — result=72917566.0, strategy=pot
+  ✅ [CRITIC] dual_verify — status=verified_single
+  Reflection rounds: 0
+2026-08-31 05:26:27,030 | 
+[SUCCESS] Tất cả câu hỏi đã xử lý xong. Đang nén file submission.zip...
+2026-08-31 05:26:27,066 | ✅ Gói nộp bài hợp lệ. File được lưu tại: C:\Users\Minh\Desktop\My-Project\AI-Agent-Financial-DataAnalyst-Assistant\submission.zip
+2026-08-31 05:27:55,020 | Started batch inference. Logs saved to inference_log.txt
+2026-08-31 05:27:55,021 | [INFO] Resume: 2 câu OK (skip), 0 câu lỗi (chạy lại).
+2026-08-31 05:27:55,026 | [INFO] Total questions to process: 3
+2026-08-31 05:27:55,033 | --- Processing Question 3 ---
+2026-08-31 05:28:38,452 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 05:28:53,297 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 05:28:59,456 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 05:29:23,610 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 05:29:30,592 | [Orchestration] Question: Chi phí dự phòng của Ngân hàng TMCP Sài Gòn Tài Lộc trong năm 2020 là bao nhiêu ...
+  ✅ [PLANNER] decompose — Plan generated (609 chars)
+  ✅ [RETRIEVER] llm_grounding — LLM Retriever hint generated
+  ✅ [RETRIEVER] ground_cells — 26 cells grounded | error=None
+  ✅ [PROGRAMMER] pot_execute — result=622.0, strategy=pot
+  ✅ [CRITIC] dual_verify — status=verified_single
+  Reflection rounds: 1
+2026-08-31 05:29:30,655 | 
+[SUCCESS] Tất cả câu hỏi đã xử lý xong. Đang nén file submission.zip...
+2026-08-31 05:29:30,752 | ✅ Gói nộp bài hợp lệ. File được lưu tại: C:\Users\Minh\Desktop\My-Project\AI-Agent-Financial-DataAnalyst-Assistant\submission.zip
+2026-08-31 05:30:58,413 | HTTP Request: HEAD https://huggingface.co/BAAI/bge-m3/resolve/main/tokenizer.json "HTTP/1.1 302 Found"
+2026-08-31 05:30:58,423 | HTTP Request: HEAD https://huggingface.co/BAAI/bge-m3/resolve/main/tokenizer.json "HTTP/1.1 302 Found"
+2026-08-31 05:31:08,095 | HTTP Request: HEAD https://huggingface.co/BAAI/bge-m3/resolve/main/added_tokens.json "HTTP/1.1 404 Not Found"
+2026-08-31 05:31:08,138 | HTTP Request: HEAD https://huggingface.co/BAAI/bge-m3/resolve/main/added_tokens.json "HTTP/1.1 404 Not Found"
+2026-08-31 05:31:08,355 | HTTP Request: HEAD https://huggingface.co/BAAI/bge-m3/resolve/main/special_tokens_map.json "HTTP/1.1 307 Temporary Redirect"
+2026-08-31 05:31:08,407 | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/BAAI/bge-m3/5617a9f61b028005a4858fdac845db406aefb181/special_tokens_map.json "HTTP/1.1 200 OK"
+2026-08-31 05:31:08,413 | HTTP Request: HEAD https://huggingface.co/BAAI/bge-m3/resolve/main/special_tokens_map.json "HTTP/1.1 307 Temporary Redirect"
+2026-08-31 05:31:08,462 | HTTP Request: GET https://huggingface.co/api/resolve-cache/models/BAAI/bge-m3/5617a9f61b028005a4858fdac845db406aefb181/special_tokens_map.json "HTTP/1.1 200 OK"
+2026-08-31 05:31:08,467 | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/BAAI/bge-m3/5617a9f61b028005a4858fdac845db406aefb181/special_tokens_map.json "HTTP/1.1 200 OK"
+2026-08-31 05:31:08,772 | HTTP Request: HEAD https://huggingface.co/BAAI/bge-m3/resolve/main/chat_template.jinja "HTTP/1.1 404 Not Found"
+2026-08-31 05:31:08,776 | HTTP Request: HEAD https://huggingface.co/BAAI/bge-m3/resolve/main/chat_template.jinja "HTTP/1.1 404 Not Found"
+2026-08-31 05:31:12,329 | HTTP Request: GET https://huggingface.co/api/models/BAAI/bge-m3 "HTTP/1.1 200 OK"
+2026-08-31 05:31:12,350 | HTTP Request: GET https://huggingface.co/api/models/BAAI/bge-m3 "HTTP/1.1 200 OK"
+2026-08-31 05:31:12,870 | HTTP Request: HEAD https://huggingface.co/BAAI/bge-m3/resolve/main/1_Pooling/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-08-31 05:31:12,871 | HTTP Request: HEAD https://huggingface.co/BAAI/bge-m3/resolve/main/1_Pooling/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-08-31 05:31:13,242 | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/BAAI/bge-m3/5617a9f61b028005a4858fdac845db406aefb181/1_Pooling%2Fconfig.json "HTTP/1.1 200 OK"
+2026-08-31 05:31:13,248 | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/BAAI/bge-m3/5617a9f61b028005a4858fdac845db406aefb181/1_Pooling%2Fconfig.json "HTTP/1.1 200 OK"
+2026-08-31 05:31:13,657 | HTTP Request: GET https://huggingface.co/api/resolve-cache/models/BAAI/bge-m3/5617a9f61b028005a4858fdac845db406aefb181/1_Pooling%2Fconfig.json "HTTP/1.1 200 OK"
+2026-08-31 05:31:14,203 | HTTP Request: HEAD https://huggingface.co/BAAI/bge-m3/resolve/main/2_Normalize/config.json "HTTP/1.1 404 Not Found"
+2026-08-31 05:31:14,203 | HTTP Request: HEAD https://huggingface.co/BAAI/bge-m3/resolve/main/2_Normalize/config.json "HTTP/1.1 404 Not Found"
+2026-08-31 05:31:14,499 | HTTP Request: GET https://huggingface.co/api/models/BAAI/bge-m3 "HTTP/1.1 200 OK"
+2026-08-31 05:31:14,500 | HTTP Request: GET https://huggingface.co/api/models/BAAI/bge-m3 "HTTP/1.1 200 OK"
+2026-08-31 05:31:32,591 | Started batch inference. Logs saved to inference_log.txt
+2026-08-31 05:31:32,599 | [INFO] Resume: 3 câu OK (skip), 0 câu lỗi (chạy lại).
+2026-08-31 05:31:32,610 | [INFO] Total questions to process: 3
+2026-08-31 05:31:32,687 | 
+[SUCCESS] Tất cả câu hỏi đã xử lý xong. Đang nén file submission.zip...
+2026-08-31 05:31:32,744 | ✅ Gói nộp bài hợp lệ. File được lưu tại: C:\Users\Minh\Desktop\My-Project\AI-Agent-Financial-DataAnalyst-Assistant\submission.zip
+2026-08-31 05:34:44,470 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 05:35:12,204 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 05:35:18,008 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 05:35:46,660 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 05:36:13,542 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 05:36:40,811 | [Orchestration] Question: Lãi tiền gửi năm 2018 của công ty mẹ CTCP Hàng không Vietjet (VJC) là bao nhiêu ...
+  ✅ [PLANNER] decompose — Plan generated (249 chars)
+  ✅ [RETRIEVER] llm_grounding — LLM Retriever hint generated
+  ✅ [RETRIEVER] ground_cells — 17 cells grounded | error=None
+  ❌ [PROGRAMMER] pot_execute — result=None, strategy=pot
+  ❌ [CRITIC] dual_verify — status=invalid
+  Reflection rounds: 2
+2026-08-31 05:36:40,812 | ⚠️ [CẢNH BÁO] Câu 1 KHÔNG CÓ KẾT QUẢ! Nguyên nhân: Lỗi Sandbox: Code Python thất bại sau 3 lần tự sửa.
+2026-08-31 05:36:40,861 | 
+[SUCCESS] Tất cả câu hỏi đã xử lý xong. Đang nén file submission.zip...
+2026-08-31 05:36:40,959 | ✅ Gói nộp bài hợp lệ. File được lưu tại: C:\Users\Minh\Desktop\My-Project\AI-Agent-Financial-DataAnalyst-Assistant\submission.zip
+2026-08-31 05:44:13,117 | Started batch inference. Logs saved to inference_log.txt
+2026-08-31 05:44:13,118 | [INFO] Resume: 1 câu OK (skip), 0 câu lỗi (chạy lại).
+2026-08-31 05:44:13,126 | [INFO] Total questions to process: 3
+2026-08-31 05:44:13,155 | --- Processing Question 2 ---
+2026-08-31 05:44:59,424 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 05:45:09,849 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 05:45:16,056 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 05:45:22,447 | [Orchestration] Question: Số dư cho vay khách hàng ngành Thương mại của công ty mẹ Ngân hàng TMCP Á Châu (...
+  ✅ [PLANNER] decompose — Plan generated (753 chars)
+  ✅ [RETRIEVER] llm_grounding — LLM Retriever hint generated
+  ✅ [RETRIEVER] ground_cells — 3 cells grounded | error=None
+  ✅ [PROGRAMMER] pot_execute — result=72917566.0, strategy=pot
+  ✅ [CRITIC] dual_verify — status=verified_single
+  Reflection rounds: 0
+2026-08-31 05:45:22,455 | --- Processing Question 3 ---
+2026-08-31 05:46:03,122 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 05:46:11,493 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 05:46:17,252 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 05:46:24,724 | [Orchestration] Question: Chi phí dự phòng của Ngân hàng TMCP Sài Gòn Tài Lộc trong năm 2020 là bao nhiêu ...
+  ✅ [PLANNER] decompose — Plan generated (596 chars)
+  ✅ [RETRIEVER] llm_grounding — LLM Retriever hint generated
+  ✅ [RETRIEVER] ground_cells — 24 cells grounded | error=None
+  ✅ [PROGRAMMER] pot_execute — result=622.0, strategy=pot
+  ✅ [CRITIC] dual_verify — status=verified_single
+  Reflection rounds: 0
+2026-08-31 05:46:24,775 | 
+[SUCCESS] Tất cả câu hỏi đã xử lý xong. Đang nén file submission.zip...
+2026-08-31 05:46:24,998 | ✅ Gói nộp bài hợp lệ. File được lưu tại: C:\Users\Minh\Desktop\My-Project\AI-Agent-Financial-DataAnalyst-Assistant\submission.zip
+2026-08-31 05:48:01,421 | Started batch inference. Logs saved to inference_log.txt
+2026-08-31 05:48:01,422 | [INFO] Resume: 2 câu OK (skip), 1 câu lỗi (chạy lại).
+2026-08-31 05:48:01,432 | [INFO] Total questions to process: 3
+2026-08-31 05:48:01,455 | --- Processing Question 1 ---
+2026-08-31 05:48:35,332 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 05:48:47,018 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 05:48:54,663 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 05:49:09,269 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 05:49:23,360 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 05:49:29,499 | [Orchestration] Question: Lãi tiền gửi năm 2018 của công ty mẹ CTCP Hàng không Vietjet (VJC) là bao nhiêu ...
+  ✅ [PLANNER] decompose — Plan generated (901 chars)
+  ✅ [RETRIEVER] llm_grounding — LLM Retriever hint generated
+  ✅ [RETRIEVER] ground_cells — 17 cells grounded | error=None
+  ✅ [PROGRAMMER] pot_execute — result=719448916835.0, strategy=pot
+  ✅ [CRITIC] dual_verify — status=verified_single
+  Reflection rounds: 2
+2026-08-31 05:49:29,544 | 
+[SUCCESS] Tất cả câu hỏi đã xử lý xong. Đang nén file submission.zip...
+2026-08-31 05:49:29,728 | ✅ Gói nộp bài hợp lệ. File được lưu tại: C:\Users\Minh\Desktop\My-Project\AI-Agent-Financial-DataAnalyst-Assistant\submission.zip
+2026-08-31 05:56:15,848 | Started batch inference. Logs saved to inference_log.txt
+2026-08-31 05:56:15,850 | [INFO] Resume: 3 câu OK (skip), 0 câu lỗi (chạy lại).
+2026-08-31 05:56:15,861 | [INFO] Total questions to process: 5
+2026-08-31 05:56:15,877 | --- Processing Question 4 ---
+2026-08-31 05:56:53,310 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 05:57:02,556 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 05:57:08,094 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 05:57:26,372 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 05:57:32,873 | [Orchestration] Question: Lợi nhuận sau thuế của CTCP Chứng khoán FPT năm 2023 là bao nhiêu tỷ đồng?...
+  ✅ [PLANNER] decompose — Plan generated (654 chars)
+  ✅ [RETRIEVER] llm_grounding — LLM Retriever hint generated
+  ✅ [RETRIEVER] ground_cells — 7 cells grounded | error=None
+  ✅ [PROGRAMMER] pot_execute — result=3136285036817.0, strategy=pot
+  ✅ [CRITIC] dual_verify — status=verified_single
+  Reflection rounds: 1
+2026-08-31 05:57:32,892 | --- Processing Question 5 ---
+2026-08-31 05:57:59,187 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 05:58:07,629 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 05:58:12,410 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 05:58:25,782 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 05:58:31,433 | [Orchestration] Question: Chi phí phạt của công ty mẹ SCR năm 2017 là bao nhiêu tỷ đồng?...
+  ✅ [PLANNER] decompose — Plan generated (656 chars)
+  ✅ [RETRIEVER] llm_grounding — LLM Retriever hint generated
+  ✅ [RETRIEVER] ground_cells — 27 cells grounded | error=None
+  ✅ [PROGRAMMER] pot_execute — result=5.535987434, strategy=pot
+  ✅ [CRITIC] dual_verify — status=verified_single
+  Reflection rounds: 1
+2026-08-31 05:58:31,477 | 
+[SUCCESS] Tất cả câu hỏi đã xử lý xong. Đang nén file submission.zip...
+2026-08-31 05:58:31,601 | ✅ Gói nộp bài hợp lệ. File được lưu tại: C:\Users\Minh\Desktop\My-Project\AI-Agent-Financial-DataAnalyst-Assistant\submission.zip
+2026-08-31 05:59:27,645 | Started batch inference. Logs saved to inference_log.txt
+2026-08-31 05:59:27,647 | [INFO] Resume: 5 câu OK (skip), 0 câu lỗi (chạy lại).
+2026-08-31 05:59:27,653 | [INFO] Total questions to process: 1012
+2026-08-31 05:59:27,671 | --- Processing Question 6 ---
+2026-08-31 05:59:56,565 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:00:12,002 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:00:18,335 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:00:39,412 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:00:44,547 | [Orchestration] Question: Lưu chuyển tiền thuần từ hoạt động kinh doanh của công ty mẹ VSC trong năm 2017 ...
+  ✅ [PLANNER] decompose — Plan generated (737 chars)
+  ✅ [RETRIEVER] llm_grounding — LLM Retriever hint generated
+  ✅ [RETRIEVER] ground_cells — 5 cells grounded | error=None
+  ✅ [PROGRAMMER] pot_execute — result=145731366146.0, strategy=pot
+  ✅ [CRITIC] dual_verify — status=verified_single
+  Reflection rounds: 1
+2026-08-31 06:00:44,564 | --- Processing Question 7 ---
+2026-08-31 06:11:57,040 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:12:08,802 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:12:15,417 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:12:33,657 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:12:47,307 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:13:00,390 | [Orchestration] Question: Quỹ khen thưởng, phúc lợi của HT1 cuối năm 2019 là bao nhiêu tỷ đồng?...
+  ✅ [PLANNER] decompose — Plan generated (617 chars)
+  ✅ [RETRIEVER] llm_grounding — LLM Retriever hint generated
+  ✅ [RETRIEVER] ground_cells — 48 cells grounded | error=None
+  ❌ [PROGRAMMER] pot_execute — result=None, strategy=pot
+  ❌ [CRITIC] dual_verify — status=invalid
+  Reflection rounds: 2
+2026-08-31 06:13:00,391 | ⚠️ [CẢNH BÁO] Câu 7 KHÔNG CÓ KẾT QUẢ! Nguyên nhân: Lỗi Sandbox: Code Python thất bại sau 3 lần tự sửa.
+2026-08-31 06:13:00,483 | --- Processing Question 8 ---
+2026-08-31 06:13:21,477 | Search failed: DataFrame index must be unique for orient='index'.
+2026-08-31 06:13:22,387 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:13:37,908 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:13:41,255 | [Orchestration] Question: Chi phí lương và các khoản khác theo lương của công ty mẹ CTCP Chứng khoán FPT t...
+  ✅ [PLANNER] decompose — Plan generated (792 chars)
+  ✅ [RETRIEVER] llm_grounding — LLM Retriever hint generated
+  ❌ [RETRIEVER] ground_cells — 0 cells grounded | error=I_INSUFFICIENT_EVIDENCE
+  Reflection rounds: 0
+  Error: Grounding failed: I_INSUFFICIENT_EVIDENCE
+2026-08-31 06:13:41,257 | ⚠️ [CẢNH BÁO] Câu 8 KHÔNG CÓ KẾT QUẢ! Nguyên nhân: Lỗi Tìm kiếm (Retriever): Không tìm thấy bảng chứa dữ liệu.
+2026-08-31 06:13:41,264 | --- Processing Question 9 ---
+2026-08-31 06:13:59,844 | Search failed: DataFrame index must be unique for orient='index'.
+2026-08-31 06:14:00,776 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:14:11,442 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:14:15,565 | [Orchestration] Question: Chi phí khác của SAM năm 2023 là bao nhiêu triệu đồng?...
+  ✅ [PLANNER] decompose — Plan generated (674 chars)
+  ✅ [RETRIEVER] llm_grounding — LLM Retriever hint generated
+  ❌ [RETRIEVER] ground_cells — 0 cells grounded | error=I_INSUFFICIENT_EVIDENCE
+  Reflection rounds: 0
+  Error: Grounding failed: I_INSUFFICIENT_EVIDENCE
+2026-08-31 06:14:15,566 | ⚠️ [CẢNH BÁO] Câu 9 KHÔNG CÓ KẾT QUẢ! Nguyên nhân: Lỗi Tìm kiếm (Retriever): Không tìm thấy bảng chứa dữ liệu.
+2026-08-31 06:14:15,572 | --- Processing Question 10 ---
+2026-08-31 06:14:43,664 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:14:53,677 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:14:59,618 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:15:18,279 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:15:24,987 | [Orchestration] Question: Chi phí tài chính của công ty mẹ CTCP Phát triển Sunshine Homes năm 2021 là bao ...
+  ✅ [PLANNER] decompose — Plan generated (886 chars)
+  ✅ [RETRIEVER] llm_grounding — LLM Retriever hint generated
+  ✅ [RETRIEVER] ground_cells — 26 cells grounded | error=None
+  ✅ [PROGRAMMER] pot_execute — result=10009282192.0, strategy=pot
+  ✅ [CRITIC] dual_verify — status=verified_single
+  Reflection rounds: 1
+2026-08-31 06:15:25,073 | --- Processing Question 11 ---
+2026-08-31 06:16:03,193 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:16:10,798 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:16:15,589 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:16:35,095 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:16:49,064 | [Orchestration] Question: Số dư tiền gửi tại các TCTD khác cuối năm 2016 của Ngân hàng TMCP Đầu tư và Phát...
+  ✅ [PLANNER] decompose — Plan generated (629 chars)
+  ✅ [RETRIEVER] llm_grounding — LLM Retriever hint generated
+  ✅ [RETRIEVER] ground_cells — 16 cells grounded | error=None
+  ✅ [PROGRAMMER] pot_execute — result=22609190.0, strategy=pot
+  ✅ [CRITIC] dual_verify — status=verified_single
+  Reflection rounds: 1
+2026-08-31 06:16:49,103 | --- Processing Question 12 ---
+2026-08-31 06:16:53,888 | Search failed: Error tokenizing data. C error: Calling read(nbytes) on source failed. Try engine='python'.
+2026-08-31 06:16:54,517 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:17:05,269 | Started batch inference. Logs saved to inference_log.txt
+2026-08-31 06:17:05,270 | [INFO] Resume: 8 câu OK (skip), 3 câu lỗi (chạy lại).
+2026-08-31 06:17:05,278 | [INFO] Total questions to process: 1012
+2026-08-31 06:17:05,290 | --- Processing Question 7 ---
+2026-08-31 06:17:38,217 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:17:48,649 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:17:54,142 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:18:13,295 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:18:24,755 | [Orchestration] Question: Quỹ khen thưởng, phúc lợi của HT1 cuối năm 2019 là bao nhiêu tỷ đồng?...
+  ✅ [PLANNER] decompose — Plan generated (617 chars)
+  ✅ [RETRIEVER] llm_grounding — LLM Retriever hint generated
+  ✅ [RETRIEVER] ground_cells — 1 cells grounded | error=None
+  ✅ [PROGRAMMER] pot_execute — result=-87.54, strategy=pot
+  ✅ [CRITIC] dual_verify — status=verified_single
+  Reflection rounds: 1
+2026-08-31 06:18:24,761 | --- Processing Question 8 ---
+2026-08-31 06:18:49,917 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:19:04,147 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:19:09,780 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:19:28,874 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:19:47,240 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:19:53,860 | [Orchestration] Question: Chi phí lương và các khoản khác theo lương của công ty mẹ CTCP Chứng khoán FPT t...
+  ✅ [PLANNER] decompose — Plan generated (792 chars)
+  ✅ [RETRIEVER] llm_grounding — LLM Retriever hint generated
+  ✅ [RETRIEVER] ground_cells — 11 cells grounded | error=None
+  ✅ [PROGRAMMER] pot_execute — result=7.045149778, strategy=pot
+  ✅ [CRITIC] dual_verify — status=verified_single
+  Reflection rounds: 2
+2026-08-31 06:19:53,886 | --- Processing Question 9 ---
+2026-08-31 06:20:21,883 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:20:32,848 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:20:37,822 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:20:55,615 | [Orchestration] Question: Chi phí khác của SAM năm 2023 là bao nhiêu triệu đồng?...
+  ✅ [PLANNER] decompose — Plan generated (758 chars)
+  ✅ [RETRIEVER] llm_grounding — LLM Retriever hint generated
+  ✅ [RETRIEVER] ground_cells — 46 cells grounded | error=None
+  ✅ [PROGRAMMER] pot_execute — result=2307758675.0, strategy=pot
+  ✅ [CRITIC] dual_verify — status=verified_single
+  Reflection rounds: 0
+2026-08-31 06:20:55,731 | --- Processing Question 12 ---
+2026-08-31 06:21:23,637 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:21:34,792 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:21:39,392 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:22:00,833 | [Orchestration] Question: Vốn cổ phần đã phát hành của công ty mẹ VGT là bao nhiêu nghìn tỷ đồng vào cuối ...
+  ✅ [PLANNER] decompose — Plan generated (604 chars)
+  ✅ [RETRIEVER] llm_grounding — LLM Retriever hint generated
+  ✅ [RETRIEVER] ground_cells — 12 cells grounded | error=None
+  ✅ [PROGRAMMER] pot_execute — result=5.0, strategy=pot
+  ✅ [CRITIC] dual_verify — status=verified_single
+  Reflection rounds: 0
+2026-08-31 06:22:00,858 | --- Processing Question 13 ---
+2026-08-31 06:22:27,513 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:22:37,585 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:22:43,805 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:22:59,308 | [Orchestration] Question: Tiền và các khoản tương đương tiền của công ty mẹ Tổng Công ty cổ phần Bia - Rượ...
+  ✅ [PLANNER] decompose — Plan generated (921 chars)
+  ✅ [RETRIEVER] llm_grounding — LLM Retriever hint generated
+  ✅ [RETRIEVER] ground_cells — 56 cells grounded | error=None
+  ✅ [PROGRAMMER] pot_execute — result=1700000000000.0, strategy=pot
+  ✅ [CRITIC] dual_verify — status=verified_single
+  Reflection rounds: 0
+2026-08-31 06:22:59,427 | --- Processing Question 14 ---
+2026-08-31 06:23:25,862 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:23:38,461 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:23:44,037 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:23:57,537 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:24:03,812 | [Orchestration] Question: Chi phí quản lý doanh nghiệp năm 2025 của công ty mẹ ASM là bao nhiêu triệu đồng...
+  ✅ [PLANNER] decompose — Plan generated (792 chars)
+  ✅ [RETRIEVER] llm_grounding — LLM Retriever hint generated
+  ✅ [RETRIEVER] ground_cells — 4 cells grounded | error=None
+  ✅ [PROGRAMMER] pot_execute — result=144071.806197, strategy=pot
+  ✅ [CRITIC] dual_verify — status=verified_single
+  Reflection rounds: 1
+2026-08-31 06:24:03,825 | --- Processing Question 15 ---
+2026-08-31 06:24:28,983 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:24:38,487 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:24:42,775 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:24:57,047 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:25:02,423 | [Orchestration] Question: Thù lao của thành viên HĐQT Chu Thị Bình tại công ty mẹ MPC năm 2021 là bao nhiê...
+  ✅ [PLANNER] decompose — Plan generated (568 chars)
+  ✅ [RETRIEVER] llm_grounding — LLM Retriever hint generated
+  ✅ [RETRIEVER] ground_cells — 3 cells grounded | error=None
+  ✅ [PROGRAMMER] pot_execute — result=150000000.0, strategy=pot
+  ✅ [CRITIC] dual_verify — status=verified_single
+  Reflection rounds: 1
+2026-08-31 06:25:02,437 | --- Processing Question 16 ---
+2026-08-31 06:25:26,674 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:25:37,435 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:25:41,665 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:25:56,626 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:26:11,368 | [Orchestration] Question: Số dư vay ngắn hạn của công ty mẹ CEO cuối năm 2025 là bao nhiêu tỷ đồng?...
+  ✅ [PLANNER] decompose — Plan generated (859 chars)
+  ✅ [RETRIEVER] llm_grounding — LLM Retriever hint generated
+  ✅ [RETRIEVER] ground_cells — 35 cells grounded | error=None
+  ✅ [PROGRAMMER] pot_execute — result=66904901785.0, strategy=pot
+  ✅ [CRITIC] dual_verify — status=verified_single
+  Reflection rounds: 1
+2026-08-31 06:26:11,453 | --- Processing Question 17 ---
+2026-08-31 06:26:44,066 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:26:57,516 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:27:03,384 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:27:20,015 | [Orchestration] Question: Lãi thuần từ hoạt động dịch vụ của Ngân hàng TMCP Sài Gòn - Hà Nội (SHB) năm 201...
+  ✅ [PLANNER] decompose — Plan generated (746 chars)
+  ✅ [RETRIEVER] llm_grounding — LLM Retriever hint generated
+  ✅ [RETRIEVER] ground_cells — 23 cells grounded | error=None
+  ✅ [PROGRAMMER] pot_execute — result=1456865.0, strategy=pot
+  ✅ [CRITIC] dual_verify — status=verified_single
+  Reflection rounds: 0
+2026-08-31 06:27:20,076 | --- Processing Question 18 ---
+2026-08-31 06:27:47,133 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:27:57,470 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:28:03,220 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:28:18,348 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:28:27,869 | [Orchestration] Question: Vốn chủ sở hữu của FIT là bao nhiêu tỷ đồng vào ngày 31/12/2015?...
+  ✅ [PLANNER] decompose — Plan generated (622 chars)
+  ✅ [RETRIEVER] llm_grounding — LLM Retriever hint generated
+  ✅ [RETRIEVER] ground_cells — 12 cells grounded | error=None
+  ✅ [PROGRAMMER] pot_execute — result=2077.87, strategy=pot
+  ✅ [CRITIC] dual_verify — status=verified_single
+  Reflection rounds: 1
+2026-08-31 06:28:27,906 | --- Processing Question 19 ---
+2026-08-31 06:28:57,490 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:29:08,928 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:29:15,504 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:29:34,828 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:29:53,717 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:30:10,331 | [Orchestration] Question: Tổng tỷ lệ quyền biểu quyết của công ty mẹ CTCP Đầu tư Hạ tầng Giao thông Đèo Cả...
+  ✅ [PLANNER] decompose — Plan generated (1202 chars)
+  ✅ [RETRIEVER] llm_grounding — LLM Retriever hint generated
+  ✅ [RETRIEVER] ground_cells — 62 cells grounded | error=None
+  ❌ [PROGRAMMER] pot_execute — result=None, strategy=pot
+  ❌ [CRITIC] dual_verify — status=invalid
+  Reflection rounds: 2
+2026-08-31 06:30:10,332 | ⚠️ [CẢNH BÁO] Câu 19 KHÔNG CÓ KẾT QUẢ! Nguyên nhân: Lỗi Sandbox: Code Python thất bại sau 3 lần tự sửa.
+2026-08-31 06:30:10,461 | --- Processing Question 20 ---
+2026-08-31 06:30:38,082 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:30:48,851 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:30:57,035 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:31:05,046 | [Orchestration] Question: Tỷ lệ biểu quyết của Xí nghiệp Liên doanh Visorutex của công ty mẹ GVR đến ngày ...
+  ✅ [PLANNER] decompose — Plan generated (981 chars)
+  ✅ [RETRIEVER] llm_grounding — LLM Retriever hint generated
+  ✅ [RETRIEVER] ground_cells — 2 cells grounded | error=None
+  ✅ [PROGRAMMER] pot_execute — result=27.779999999999998, strategy=pot
+  ✅ [CRITIC] dual_verify — status=verified_single
+  Reflection rounds: 0
+2026-08-31 06:31:05,059 | --- Processing Question 21 ---
+2026-08-31 06:31:35,200 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:31:45,680 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:31:56,264 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:32:11,626 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:32:19,941 | [Orchestration] Question: Số dư thuế thu nhập doanh nghiệp phải trả của Ngân hàng TMCP Quốc tế Việt Nam (V...
+  ✅ [PLANNER] decompose — Plan generated (902 chars)
+  ✅ [RETRIEVER] llm_grounding — LLM Retriever hint generated
+  ✅ [RETRIEVER] ground_cells — 20 cells grounded | error=None
+  ✅ [PROGRAMMER] pot_execute — result=341438.0, strategy=pot
+  ✅ [CRITIC] dual_verify — status=verified_single
+  Reflection rounds: 1
+2026-08-31 06:32:19,986 | --- Processing Question 22 ---
+2026-08-31 06:32:47,346 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:32:58,202 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:33:05,112 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:33:23,324 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:33:27,694 | [Orchestration] Question: Chi phí nhân công của công ty mẹ CTCP Điện lực Gelex (GEE) trong năm 2023 là bao...
+  ✅ [PLANNER] decompose — Plan generated (986 chars)
+  ✅ [RETRIEVER] llm_grounding — LLM Retriever hint generated
+  ✅ [RETRIEVER] ground_cells — 11 cells grounded | error=None
+  ✅ [PROGRAMMER] pot_execute — result=17781446066.0, strategy=pot
+  ✅ [CRITIC] dual_verify — status=verified_single
+  Reflection rounds: 1
+2026-08-31 06:33:27,746 | --- Processing Question 23 ---
+2026-08-31 06:33:57,260 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:34:05,196 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:34:10,032 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:34:28,235 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:34:38,086 | [Orchestration] Question: Vay và nợ của công ty mẹ CTCP Tập đoàn Đại Dương (OGC) đến ngày 31/12/2020 là ba...
+  ✅ [PLANNER] decompose — Plan generated (676 chars)
+  ✅ [RETRIEVER] llm_grounding — LLM Retriever hint generated
+  ✅ [RETRIEVER] ground_cells — 12 cells grounded | error=None
+  ✅ [PROGRAMMER] pot_execute — result=34.727733073, strategy=pot
+  ✅ [CRITIC] dual_verify — status=verified_single
+  Reflection rounds: 1
+2026-08-31 06:34:38,129 | --- Processing Question 24 ---
+2026-08-31 06:35:09,323 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:35:23,119 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:35:28,732 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:35:48,260 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:36:07,194 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:36:13,935 | [Orchestration] Question: Vay dài hạn với Công ty Cổ phần Hoàng Anh Gia Lai của công ty mẹ CTCP Nông nghiệ...
+  ✅ [PLANNER] decompose — Plan generated (4301 chars)
+  ✅ [RETRIEVER] llm_grounding — LLM Retriever hint generated
+  ✅ [RETRIEVER] ground_cells — 33 cells grounded | error=None
+  ✅ [PROGRAMMER] pot_execute — result=1255194685.0, strategy=pot
+  ✅ [CRITIC] dual_verify — status=verified_single
+  Reflection rounds: 2
+2026-08-31 06:36:14,018 | --- Processing Question 25 ---
+2026-08-31 06:36:43,993 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:36:58,315 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:37:04,737 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:37:22,944 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:37:36,581 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:37:43,411 | [Orchestration] Question: Giá vốn hàng hóa của DIG trong năm 2023 là bao nhiêu tỷ đồng?...
+  ✅ [PLANNER] decompose — Plan generated (847 chars)
+  ✅ [RETRIEVER] llm_grounding — LLM Retriever hint generated
+  ✅ [RETRIEVER] ground_cells — 21 cells grounded | error=None
+  ✅ [PROGRAMMER] pot_execute — result=37.01562095, strategy=pot
+  ✅ [CRITIC] dual_verify — status=verified_single
+  Reflection rounds: 2
+2026-08-31 06:37:43,503 | --- Processing Question 26 ---
+2026-08-31 06:38:15,008 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:38:26,058 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:38:31,472 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:38:41,408 | [Orchestration] Question: Lãi vay phải trả của CTCP Tập đoàn Đức Long Gia Lai (DLG) cuối năm 2023 là bao n...
+  ✅ [PLANNER] decompose — Plan generated (634 chars)
+  ✅ [RETRIEVER] llm_grounding — LLM Retriever hint generated
+  ✅ [RETRIEVER] ground_cells — 27 cells grounded | error=None
+  ✅ [PROGRAMMER] pot_execute — result=350187565073.0, strategy=pot
+  ✅ [CRITIC] dual_verify — status=verified_single
+  Reflection rounds: 0
+2026-08-31 06:38:41,468 | --- Processing Question 27 ---
+2026-08-31 06:39:09,187 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:39:20,651 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:39:28,651 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:39:47,795 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:39:56,387 | [Orchestration] Question: Lưu chuyển tiền thuần từ hoạt động kinh doanh của công ty mẹ CTCP Tập đoàn Đức L...
+  ✅ [PLANNER] decompose — Plan generated (863 chars)
+  ✅ [RETRIEVER] llm_grounding — LLM Retriever hint generated
+  ✅ [RETRIEVER] ground_cells — 26 cells grounded | error=None
+  ✅ [PROGRAMMER] pot_execute — result=-150202.628445, strategy=pot
+  ✅ [CRITIC] dual_verify — status=verified_single
+  Reflection rounds: 1
+2026-08-31 06:39:56,459 | --- Processing Question 28 ---
+2026-08-31 06:40:28,133 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:40:37,609 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:40:45,110 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:41:06,395 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:41:28,047 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:41:47,206 | [Orchestration] Question: Tổng phải thu ngắn hạn khác của công ty mẹ CTCP Tập đoàn Đầu tư Địa ốc No Va đến...
+  ✅ [PLANNER] decompose — Plan generated (754 chars)
+  ✅ [RETRIEVER] llm_grounding — LLM Retriever hint generated
+  ✅ [RETRIEVER] ground_cells — 67 cells grounded | error=None
+  ❌ [PROGRAMMER] pot_execute — result=None, strategy=pot
+  ❌ [CRITIC] dual_verify — status=invalid
+  Reflection rounds: 2
+2026-08-31 06:41:47,207 | ⚠️ [CẢNH BÁO] Câu 28 KHÔNG CÓ KẾT QUẢ! Nguyên nhân: Lỗi Sandbox: Code Python thất bại sau 3 lần tự sửa.
+2026-08-31 06:41:47,357 | --- Processing Question 29 ---
+2026-08-31 06:42:19,505 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:42:30,917 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:42:36,926 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:42:55,061 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:43:13,000 | [Orchestration] Question: Tổng số trả trước cho người bán dài hạn của OGC đến ngày 31 tháng 12 năm 2019 là...
+  ✅ [PLANNER] decompose — Plan generated (826 chars)
+  ✅ [RETRIEVER] llm_grounding — LLM Retriever hint generated
+  ✅ [RETRIEVER] ground_cells — 16 cells grounded | error=None
+  ✅ [PROGRAMMER] pot_execute — result=528016.0825, strategy=pot
+  ✅ [CRITIC] dual_verify — status=verified_single
+  Reflection rounds: 1
+2026-08-31 06:43:13,037 | --- Processing Question 30 ---
+2026-08-31 06:43:42,658 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:43:51,708 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:43:59,343 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:44:22,333 | [Orchestration] Question: Tổng giá trị thuần khoản đầu tư góp vốn vào đơn vị khác của Tập đoàn Bảo Việt là...
+  ✅ [PLANNER] decompose — Plan generated (848 chars)
+  ✅ [RETRIEVER] llm_grounding — LLM Retriever hint generated
+  ✅ [RETRIEVER] ground_cells — 124 cells grounded | error=None
+  ✅ [PROGRAMMER] pot_execute — result=12983419283079.0, strategy=pot
+  ✅ [CRITIC] dual_verify — status=verified_single
+  Reflection rounds: 0
+2026-08-31 06:44:22,560 | --- Processing Question 31 ---
+2026-08-31 06:44:48,342 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:45:02,905 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:45:08,491 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:45:25,717 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:45:41,392 | [Orchestration] Question: Doanh thu cho thuê khô tàu bay của công ty mẹ CTCP Hàng không Vietjet (VJC) tron...
+  ✅ [PLANNER] decompose — Plan generated (1501 chars)
+  ✅ [RETRIEVER] llm_grounding — LLM Retriever hint generated
+  ✅ [RETRIEVER] ground_cells — 17 cells grounded | error=None
+  ✅ [PROGRAMMER] pot_execute — result=13507.84, strategy=pot
+  ✅ [CRITIC] dual_verify — status=verified_single
+  Reflection rounds: 1
+2026-08-31 06:45:41,438 | --- Processing Question 32 ---
+2026-08-31 06:46:14,140 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:46:22,552 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:46:27,742 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:46:46,386 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:46:54,572 | [Orchestration] Question: Số dư phải thu theo tiến độ kế hoạch hợp đồng của FPT đến ngày 31/12/2025 là bao...
+  ✅ [PLANNER] decompose — Plan generated (791 chars)
+  ✅ [RETRIEVER] llm_grounding — LLM Retriever hint generated
+  ✅ [RETRIEVER] ground_cells — 1 cells grounded | error=None
+  ✅ [PROGRAMMER] pot_execute — result=200.405269967, strategy=pot
+  ✅ [CRITIC] dual_verify — status=verified_single
+  Reflection rounds: 1
+2026-08-31 06:46:54,625 | --- Processing Question 33 ---
+2026-08-31 06:47:24,618 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:47:32,521 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:47:38,003 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:47:55,031 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:47:59,580 | [Orchestration] Question: Số dư dự phòng rủi ro cho vay khách hàng của Ngân hàng TMCP Quân đội là bao nhiê...
+  ✅ [PLANNER] decompose — Plan generated (755 chars)
+  ✅ [RETRIEVER] llm_grounding — LLM Retriever hint generated
+  ✅ [RETRIEVER] ground_cells — 45 cells grounded | error=None
+  ✅ [PROGRAMMER] pot_execute — result=2437439.0, strategy=pot
+  ✅ [CRITIC] dual_verify — status=verified_single
+  Reflection rounds: 1
+2026-08-31 06:47:59,666 | --- Processing Question 34 ---
+2026-08-31 06:48:28,113 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:48:36,959 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:48:45,428 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:49:05,979 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:49:12,435 | [Orchestration] Question: Thu nhập khác của công ty mẹ CTCP Tập đoàn Xây dựng Hòa Bình trong năm 2022 là b...
+  ✅ [PLANNER] decompose — Plan generated (704 chars)
+  ✅ [RETRIEVER] llm_grounding — LLM Retriever hint generated
+  ✅ [RETRIEVER] ground_cells — 73 cells grounded | error=None
+  ✅ [PROGRAMMER] pot_execute — result=25767447734.0, strategy=pot
+  ✅ [CRITIC] dual_verify — status=verified_single
+  Reflection rounds: 1
+2026-08-31 06:49:12,573 | --- Processing Question 35 ---
+2026-08-31 06:49:41,692 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:49:52,218 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:49:58,526 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:50:17,498 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:50:24,810 | [Orchestration] Question: Khoản phải thu từ Bảo Việt Nhân thọ của công ty mẹ Tập đoàn Bảo Việt (BVH) cuối ...
+  ✅ [PLANNER] decompose — Plan generated (746 chars)
+  ✅ [RETRIEVER] llm_grounding — LLM Retriever hint generated
+  ✅ [RETRIEVER] ground_cells — 22 cells grounded | error=None
+  ✅ [PROGRAMMER] pot_execute — result=222575.005778, strategy=pot
+  ✅ [CRITIC] dual_verify — status=verified_single
+  Reflection rounds: 1
+2026-08-31 06:50:24,866 | --- Processing Question 36 ---
+2026-08-31 06:50:54,534 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:51:06,308 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:51:16,978 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:51:39,894 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:51:44,812 | [Orchestration] Question: Giá trị còn lại của lợi thế thương mại (tổng cộng) của CTCP Vincom Retail (VRE) ...
+  ✅ [PLANNER] decompose — Plan generated (1033 chars)
+  ✅ [RETRIEVER] llm_grounding — LLM Retriever hint generated
+  ✅ [RETRIEVER] ground_cells — 40 cells grounded | error=None
+  ✅ [PROGRAMMER] pot_execute — result=697121886762.0, strategy=pot
+  ✅ [CRITIC] dual_verify — status=verified_single
+  Reflection rounds: 1
+2026-08-31 06:51:44,923 | --- Processing Question 37 ---
+2026-08-31 06:52:09,855 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:52:19,035 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:52:23,222 | [Orchestration] Question: Tổng cam kết cho thuê hoạt động của công ty mẹ CTCP Tập đoàn GELEX (GEX) đến ngà...
+  ✅ [PLANNER] decompose — Plan generated (828 chars)
+  ✅ [RETRIEVER] llm_grounding — LLM Retriever hint generated
+  ❌ [RETRIEVER] ground_cells — 0 cells grounded | error=E_NUMERICAL_EXTRACTION
+  Reflection rounds: 0
+  Error: Grounding failed: E_NUMERICAL_EXTRACTION
+2026-08-31 06:52:23,224 | ⚠️ [CẢNH BÁO] Câu 37 KHÔNG CÓ KẾT QUẢ! Nguyên nhân: Lỗi Grounding: Không ground được cell số từ bảng tìm thấy.
+2026-08-31 06:52:23,260 | --- Processing Question 38 ---
+2026-08-31 06:52:52,571 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:52:59,667 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:53:06,191 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:53:28,740 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:53:40,244 | [Orchestration] Question: Số dư thuế thu nhập doanh nghiệp phải trả của Ngân hàng TMCP Sài Gòn - Hà Nội đế...
+  ✅ [PLANNER] decompose — Plan generated (767 chars)
+  ✅ [RETRIEVER] llm_grounding — LLM Retriever hint generated
+  ✅ [RETRIEVER] ground_cells — 74 cells grounded | error=None
+  ✅ [PROGRAMMER] pot_execute — result=-28616.0, strategy=pot
+  ✅ [CRITIC] dual_verify — status=verified_single
+  Reflection rounds: 1
+2026-08-31 06:53:40,428 | --- Processing Question 39 ---
+2026-08-31 06:54:09,755 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:54:19,314 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:54:27,477 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:54:46,068 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:55:04,530 | [Orchestration] Question: Số dư phải thu phí quản lý tập trung của công ty mẹ Tập đoàn Công nghiệp Cao su ...
+  ✅ [PLANNER] decompose — Plan generated (857 chars)
+  ✅ [RETRIEVER] llm_grounding — LLM Retriever hint generated
+  ✅ [RETRIEVER] ground_cells — 83 cells grounded | error=None
+  ✅ [PROGRAMMER] pot_execute — result=64445.876452, strategy=pot
+  ✅ [CRITIC] dual_verify — status=verified_single
+  Reflection rounds: 1
+2026-08-31 06:55:04,738 | --- Processing Question 40 ---
+2026-08-31 06:55:30,848 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:55:43,410 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:55:48,046 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:56:03,715 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:56:10,217 | [Orchestration] Question: Lợi nhuận sau thuế của VIB năm 2020 là bao nhiêu triệu đồng?...
+  ✅ [PLANNER] decompose — Plan generated (783 chars)
+  ✅ [RETRIEVER] llm_grounding — LLM Retriever hint generated
+  ✅ [RETRIEVER] ground_cells — 10 cells grounded | error=None
+  ✅ [PROGRAMMER] pot_execute — result=4642334.0, strategy=pot
+  ✅ [CRITIC] dual_verify — status=verified_single
+  Reflection rounds: 1
+2026-08-31 06:56:10,239 | --- Processing Question 41 ---
+2026-08-31 06:56:38,308 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:56:46,960 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:56:56,253 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:57:27,275 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:57:37,898 | [Orchestration] Question: Giá gốc chứng khoán kinh doanh của CTCP Tập đoàn Đức Long Gia Lai cuối năm 2016 ...
+  ✅ [PLANNER] decompose — Plan generated (921 chars)
+  ✅ [RETRIEVER] llm_grounding — LLM Retriever hint generated
+  ✅ [RETRIEVER] ground_cells — 109 cells grounded | error=None
+  ✅ [PROGRAMMER] pot_execute — result=264.0, strategy=pot
+  ✅ [CRITIC] dual_verify — status=verified_single
+  Reflection rounds: 1
+2026-08-31 06:57:38,141 | --- Processing Question 42 ---
+2026-08-31 06:58:05,106 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:58:20,991 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:58:26,016 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:58:42,749 | [Orchestration] Question: Tổng quỹ lương năm 2022 của công ty mẹ EIB là bao nhiêu triệu đồng?...
+  ✅ [PLANNER] decompose — Plan generated (873 chars)
+  ✅ [RETRIEVER] llm_grounding — LLM Retriever hint generated
+  ✅ [RETRIEVER] ground_cells — 3 cells grounded | error=None
+  ✅ [PROGRAMMER] pot_execute — result=1855837.0, strategy=pot
+  ✅ [CRITIC] dual_verify — status=verified_single
+  Reflection rounds: 0
+2026-08-31 06:58:42,844 | --- Processing Question 43 ---
+2026-08-31 06:59:17,246 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:59:36,247 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 06:59:47,901 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 07:00:11,615 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 07:00:24,891 | [Orchestration] Question: Nguyên giá xây dựng Nhà ga Hành khách T2 - CHKQT Nội Bài của Tổng Công ty Cảng H...
+  ✅ [PLANNER] decompose — Plan generated (1087 chars)
+  ✅ [RETRIEVER] llm_grounding — LLM Retriever hint generated
+  ✅ [RETRIEVER] ground_cells — 178 cells grounded | error=None
+  ✅ [PROGRAMMER] pot_execute — result=12020.730385315, strategy=pot
+  ✅ [CRITIC] dual_verify — status=verified_single
+  Reflection rounds: 1
+2026-08-31 07:00:25,274 | --- Processing Question 44 ---
+2026-08-31 07:00:57,189 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 07:01:08,356 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 07:01:14,980 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 07:01:35,117 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 07:01:39,136 | [Orchestration] Question: Tổng tài sản của STB là bao nhiêu triệu đồng vào cuối năm 2016?...
+  ✅ [PLANNER] decompose — Plan generated (788 chars)
+  ✅ [RETRIEVER] llm_grounding — LLM Retriever hint generated
+  ✅ [RETRIEVER] ground_cells — 8 cells grounded | error=None
+  ✅ [PROGRAMMER] pot_execute — result=5780.0, strategy=pot
+  ✅ [CRITIC] dual_verify — status=verified_single
+  Reflection rounds: 1
+2026-08-31 07:01:39,257 | --- Processing Question 45 ---
+2026-08-31 07:02:05,952 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 07:02:26,867 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 07:02:31,587 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 07:02:44,979 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 07:02:50,312 | [Orchestration] Question: Tổng nợ phải trả của công ty mẹ BAB đến ngày 31/12/2020 là bao nhiêu triệu đồng?...
+  ✅ [PLANNER] decompose — Plan generated (761 chars)
+  ✅ [RETRIEVER] llm_grounding — LLM Retriever hint generated
+  ✅ [RETRIEVER] ground_cells — 28 cells grounded | error=None
+  ✅ [PROGRAMMER] pot_execute — result=108950874.0, strategy=pot
+  ✅ [CRITIC] dual_verify — status=verified_single
+  Reflection rounds: 1
+2026-08-31 07:02:50,413 | --- Processing Question 46 ---
+2026-08-31 07:03:20,714 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 07:03:33,183 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 07:03:38,255 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 07:03:56,047 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 07:04:04,558 | [Orchestration] Question: Thuế TNDN phải nộp cuối năm 2024 của BAB là bao nhiêu triệu đồng?...
+  ✅ [PLANNER] decompose — Plan generated (821 chars)
+  ✅ [RETRIEVER] llm_grounding — LLM Retriever hint generated
+  ✅ [RETRIEVER] ground_cells — 10 cells grounded | error=None
+  ✅ [PROGRAMMER] pot_execute — result=84986.0, strategy=pot
+  ✅ [CRITIC] dual_verify — status=verified_single
+  Reflection rounds: 1
+2026-08-31 07:04:04,597 | --- Processing Question 47 ---
+2026-08-31 07:04:31,868 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 07:04:39,887 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 07:04:44,525 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 07:05:16,741 | [Orchestration] Question: Tổng chi phí bán hàng của PLX trong năm 2017 là bao nhiêu nghìn tỷ đồng?...
+  ✅ [PLANNER] decompose — Plan generated (805 chars)
+  ✅ [RETRIEVER] llm_grounding — LLM Retriever hint generated
+  ✅ [RETRIEVER] ground_cells — 22 cells grounded | error=None
+  ✅ [PROGRAMMER] pot_execute — result=-7320736564998.0, strategy=pot
+  ✅ [CRITIC] dual_verify — status=verified_single
+  Reflection rounds: 0
+2026-08-31 07:05:16,802 | --- Processing Question 48 ---
+2026-08-31 07:05:47,632 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 07:06:05,808 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 07:06:13,309 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 07:06:30,877 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 07:06:38,959 | [Orchestration] Question: Số dư cuối năm 2015 của Quỹ bình ổn giá xăng dầu tại Tập đoàn Xăng Dầu Việt Nam ...
+  ✅ [PLANNER] decompose — Plan generated (878 chars)
+  ✅ [RETRIEVER] llm_grounding — LLM Retriever hint generated
+  ✅ [RETRIEVER] ground_cells — 46 cells grounded | error=None
+  ✅ [PROGRAMMER] pot_execute — result=2377.393168988, strategy=pot
+  ✅ [CRITIC] dual_verify — status=verified_single
+  Reflection rounds: 1
+2026-08-31 07:06:39,061 | --- Processing Question 49 ---
+2026-08-31 07:07:07,326 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 07:07:25,325 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 07:07:30,474 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 07:08:14,792 | [Orchestration] Question: Chi phí dịch vụ mua ngoài của CTCP Tập Đoàn PC1 (PC1) năm 2018 là bao nhiêu tỷ đ...
+  ✅ [PLANNER] decompose — Plan generated (1009 chars)
+  ✅ [RETRIEVER] llm_grounding — LLM Retriever hint generated
+  ✅ [RETRIEVER] ground_cells — 13 cells grounded | error=None
+  ✅ [PROGRAMMER] pot_execute — result=1240153428059.0, strategy=pot
+  ✅ [CRITIC] dual_verify — status=verified_single
+  Reflection rounds: 0
+2026-08-31 07:08:14,820 | --- Processing Question 50 ---
+2026-08-31 07:08:44,830 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 07:08:56,283 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 07:09:02,417 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 07:09:18,906 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 07:09:28,594 | [Orchestration] Question: Số dư trái phiếu đặc biệt do VAMC phát hành của công ty mẹ Ngân hàng TMCP An Bìn...
+  ✅ [PLANNER] decompose — Plan generated (1058 chars)
+  ✅ [RETRIEVER] llm_grounding — LLM Retriever hint generated
+  ✅ [RETRIEVER] ground_cells — 11 cells grounded | error=None
+  ✅ [PROGRAMMER] pot_execute — result=260000.0, strategy=pot
+  ✅ [CRITIC] dual_verify — status=verified_single
+  Reflection rounds: 1
+2026-08-31 07:09:28,643 | --- Processing Question 51 ---
+2026-08-31 07:09:59,793 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 07:10:15,829 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 07:10:21,745 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 07:10:34,228 | [Orchestration] Question: Số dư kỳ phiếu, trái phiếu trung hạn bằng đồng nội tệ của Ngân hàng TMCP Ngoại t...
+  ✅ [PLANNER] decompose — Plan generated (1059 chars)
+  ✅ [RETRIEVER] llm_grounding — LLM Retriever hint generated
+  ✅ [RETRIEVER] ground_cells — 25 cells grounded | error=None
+  ✅ [PROGRAMMER] pot_execute — result=0.0, strategy=pot
+  ✅ [CRITIC] dual_verify — status=verified_single
+  Reflection rounds: 0
+2026-08-31 07:10:34,354 | --- Processing Question 52 ---
+2026-08-31 07:11:03,157 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 07:11:15,834 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 07:11:21,902 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 07:11:29,954 | [Orchestration] Question: Số dư phải thu trong nghiệp vụ chuyển tiền nhanh của Ngân hàng TMCP Nam Á (NAB) ...
+  ✅ [PLANNER] decompose — Plan generated (1305 chars)
+  ✅ [RETRIEVER] llm_grounding — LLM Retriever hint generated
+  ✅ [RETRIEVER] ground_cells — 5 cells grounded | error=None
+  ✅ [PROGRAMMER] pot_execute — result=1148489.0, strategy=pot
+  ✅ [CRITIC] dual_verify — status=verified_single
+  Reflection rounds: 0
+2026-08-31 07:11:29,987 | --- Processing Question 53 ---
+2026-08-31 07:11:58,286 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 07:12:13,848 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 07:12:25,744 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 07:12:41,783 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 07:12:54,558 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 07:13:06,362 | [Orchestration] Question: Giá trị còn lại của bất động sản đầu tư của công ty mẹ IJC đến ngày 31 tháng 12 ...
+  ✅ [PLANNER] decompose — Plan generated (1064 chars)
+  ✅ [RETRIEVER] llm_grounding — LLM Retriever hint generated
+  ✅ [RETRIEVER] ground_cells — 17 cells grounded | error=None
+  ❌ [PROGRAMMER] pot_execute — result=None, strategy=pot
+  ❌ [CRITIC] dual_verify — status=invalid
+  Reflection rounds: 2
+2026-08-31 07:13:06,363 | ⚠️ [CẢNH BÁO] Câu 53 KHÔNG CÓ KẾT QUẢ! Nguyên nhân: Lỗi Sandbox: Code Python thất bại sau 3 lần tự sửa.
+2026-08-31 07:13:06,409 | --- Processing Question 54 ---
+2026-08-31 07:13:39,569 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 07:13:48,057 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 07:13:56,660 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 07:14:12,517 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 07:14:23,324 | [Orchestration] Question: Số dư cho vay đối với các tổ chức kinh tế và cá nhân trong nước của công ty mẹ N...
+  ✅ [PLANNER] decompose — Plan generated (992 chars)
+  ✅ [RETRIEVER] llm_grounding — LLM Retriever hint generated
+  ✅ [RETRIEVER] ground_cells — 84 cells grounded | error=None
+  ✅ [PROGRAMMER] pot_execute — result=1703097921.0, strategy=pot
+  ✅ [CRITIC] dual_verify — status=verified_single
+  Reflection rounds: 1
+2026-08-31 07:14:23,498 | --- Processing Question 55 ---
+2026-08-31 07:14:47,208 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 07:15:00,197 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 07:15:05,429 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 07:15:32,241 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 07:15:46,239 | [Orchestration] Question: Vốn cổ phần của FTS cuối năm 2020 là bao nhiêu nghìn tỷ đồng?...
+  ✅ [PLANNER] decompose — Plan generated (3719 chars)
+  ✅ [RETRIEVER] llm_grounding — LLM Retriever hint generated
+  ✅ [RETRIEVER] ground_cells — 8 cells grounded | error=None
+  ✅ [PROGRAMMER] pot_execute — result=0.08144399765, strategy=pot
+  ✅ [CRITIC] dual_verify — status=verified_single
+  Reflection rounds: 1
+2026-08-31 07:15:46,272 | --- Processing Question 56 ---
+2026-08-31 07:16:18,013 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 07:16:27,187 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 07:16:31,694 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 07:16:45,043 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 07:16:56,476 | [Orchestration] Question: Số tiền dự phòng được trích lập trong năm 2020 của SAB là bao nhiêu tỷ đồng?...
+  ✅ [PLANNER] decompose — Plan generated (691 chars)
+  ✅ [RETRIEVER] llm_grounding — LLM Retriever hint generated
+  ✅ [RETRIEVER] ground_cells — 12 cells grounded | error=None
+  ✅ [PROGRAMMER] pot_execute — result=60.0, strategy=pot
+  ✅ [CRITIC] dual_verify — status=verified_single
+  Reflection rounds: 1
+2026-08-31 07:16:56,516 | --- Processing Question 57 ---
+2026-08-31 07:18:30,439 | TensorFlow version 2.17.0 available.
+2026-08-31 07:18:32,772 | No device provided, using cpu
+2026-08-31 07:18:33,135 | HTTP Request: HEAD https://huggingface.co/baai/bge-m3/resolve/main/modules.json "HTTP/1.1 307 Temporary Redirect"
+2026-08-31 07:18:33,381 | HTTP Request: HEAD https://huggingface.co/BAAI/bge-m3/resolve/main/modules.json "HTTP/1.1 307 Temporary Redirect"
+2026-08-31 07:18:33,396 | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/BAAI/bge-m3/5617a9f61b028005a4858fdac845db406aefb181/modules.json "HTTP/1.1 200 OK"
+2026-08-31 07:18:33,702 | HTTP Request: HEAD https://huggingface.co/baai/bge-m3/resolve/main/config_sentence_transformers.json "HTTP/1.1 307 Temporary Redirect"
+2026-08-31 07:18:33,969 | HTTP Request: HEAD https://huggingface.co/BAAI/bge-m3/resolve/main/config_sentence_transformers.json "HTTP/1.1 307 Temporary Redirect"
+2026-08-31 07:18:33,971 | Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-08-31 07:18:34,044 | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/BAAI/bge-m3/5617a9f61b028005a4858fdac845db406aefb181/config_sentence_transformers.json "HTTP/1.1 200 OK"
+2026-08-31 07:18:34,078 | Loading SentenceTransformer model from baai/bge-m3.
+2026-08-31 07:18:34,335 | HTTP Request: HEAD https://huggingface.co/baai/bge-m3/resolve/main/config_sentence_transformers.json "HTTP/1.1 307 Temporary Redirect"
+2026-08-31 07:18:34,637 | HTTP Request: HEAD https://huggingface.co/BAAI/bge-m3/resolve/main/config_sentence_transformers.json "HTTP/1.1 307 Temporary Redirect"
+2026-08-31 07:18:34,651 | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/BAAI/bge-m3/5617a9f61b028005a4858fdac845db406aefb181/config_sentence_transformers.json "HTTP/1.1 200 OK"
+2026-08-31 07:18:34,986 | HTTP Request: HEAD https://huggingface.co/baai/bge-m3/resolve/main/README.md "HTTP/1.1 307 Temporary Redirect"
+2026-08-31 07:18:35,256 | HTTP Request: HEAD https://huggingface.co/BAAI/bge-m3/resolve/main/README.md "HTTP/1.1 307 Temporary Redirect"
+2026-08-31 07:18:35,323 | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/BAAI/bge-m3/5617a9f61b028005a4858fdac845db406aefb181/README.md "HTTP/1.1 200 OK"
+2026-08-31 07:18:35,637 | HTTP Request: HEAD https://huggingface.co/baai/bge-m3/resolve/main/modules.json "HTTP/1.1 307 Temporary Redirect"
+2026-08-31 07:18:35,884 | HTTP Request: HEAD https://huggingface.co/BAAI/bge-m3/resolve/main/modules.json "HTTP/1.1 307 Temporary Redirect"
+2026-08-31 07:18:35,899 | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/BAAI/bge-m3/5617a9f61b028005a4858fdac845db406aefb181/modules.json "HTTP/1.1 200 OK"
+2026-08-31 07:18:36,159 | HTTP Request: HEAD https://huggingface.co/baai/bge-m3/resolve/main/sentence_bert_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-08-31 07:18:36,409 | HTTP Request: HEAD https://huggingface.co/BAAI/bge-m3/resolve/main/sentence_bert_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-08-31 07:18:36,425 | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/BAAI/bge-m3/5617a9f61b028005a4858fdac845db406aefb181/sentence_bert_config.json "HTTP/1.1 200 OK"
+2026-08-31 07:18:36,695 | HTTP Request: HEAD https://huggingface.co/baai/bge-m3/resolve/main/adapter_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-08-31 07:18:36,951 | HTTP Request: HEAD https://huggingface.co/BAAI/bge-m3/resolve/main/adapter_config.json "HTTP/1.1 404 Not Found"
+2026-08-31 07:18:37,211 | HTTP Request: HEAD https://huggingface.co/baai/bge-m3/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-08-31 07:18:37,478 | HTTP Request: HEAD https://huggingface.co/BAAI/bge-m3/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-08-31 07:18:37,492 | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/BAAI/bge-m3/5617a9f61b028005a4858fdac845db406aefb181/config.json "HTTP/1.1 200 OK"
+2026-08-31 07:18:37,945 | HTTP Request: HEAD https://huggingface.co/baai/bge-m3/resolve/main/model.safetensors "HTTP/1.1 307 Temporary Redirect"
+2026-08-31 07:18:38,675 | HTTP Request: HEAD https://huggingface.co/baai/bge-m3/resolve/main/processor_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-08-31 07:18:38,940 | HTTP Request: HEAD https://huggingface.co/BAAI/bge-m3/resolve/main/processor_config.json "HTTP/1.1 404 Not Found"
+2026-08-31 07:18:39,193 | HTTP Request: HEAD https://huggingface.co/baai/bge-m3/resolve/main/preprocessor_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-08-31 07:18:39,446 | HTTP Request: HEAD https://huggingface.co/BAAI/bge-m3/resolve/main/preprocessor_config.json "HTTP/1.1 404 Not Found"
+2026-08-31 07:18:39,699 | HTTP Request: HEAD https://huggingface.co/baai/bge-m3/resolve/main/video_preprocessor_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-08-31 07:18:39,952 | HTTP Request: HEAD https://huggingface.co/BAAI/bge-m3/resolve/main/video_preprocessor_config.json "HTTP/1.1 404 Not Found"
+2026-08-31 07:18:40,206 | HTTP Request: HEAD https://huggingface.co/baai/bge-m3/resolve/main/preprocessor_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-08-31 07:18:40,458 | HTTP Request: HEAD https://huggingface.co/BAAI/bge-m3/resolve/main/preprocessor_config.json "HTTP/1.1 404 Not Found"
+2026-08-31 07:18:40,706 | HTTP Request: HEAD https://huggingface.co/baai/bge-m3/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-08-31 07:18:40,953 | HTTP Request: HEAD https://huggingface.co/BAAI/bge-m3/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-08-31 07:18:40,967 | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/BAAI/bge-m3/5617a9f61b028005a4858fdac845db406aefb181/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-08-31 07:18:41,251 | HTTP Request: HEAD https://huggingface.co/baai/bge-m3/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-08-31 07:18:41,507 | HTTP Request: HEAD https://huggingface.co/BAAI/bge-m3/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-08-31 07:18:41,523 | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/BAAI/bge-m3/5617a9f61b028005a4858fdac845db406aefb181/config.json "HTTP/1.1 200 OK"
+2026-08-31 07:18:41,778 | HTTP Request: HEAD https://huggingface.co/baai/bge-m3/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-08-31 07:18:42,036 | HTTP Request: HEAD https://huggingface.co/BAAI/bge-m3/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-08-31 07:18:42,053 | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/BAAI/bge-m3/5617a9f61b028005a4858fdac845db406aefb181/config.json "HTTP/1.1 200 OK"
+2026-08-31 07:18:42,308 | HTTP Request: HEAD https://huggingface.co/baai/bge-m3/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-08-31 07:18:42,570 | HTTP Request: HEAD https://huggingface.co/BAAI/bge-m3/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-08-31 07:18:42,585 | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/BAAI/bge-m3/5617a9f61b028005a4858fdac845db406aefb181/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-08-31 07:18:42,862 | HTTP Request: GET https://huggingface.co/api/models/baai/bge-m3/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 307 Temporary Redirect"
+2026-08-31 07:18:43,148 | HTTP Request: GET https://huggingface.co/api/models/BAAI/bge-m3/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-08-31 07:18:43,416 | HTTP Request: GET https://huggingface.co/api/models/baai/bge-m3/tree/main?recursive=true&expand=false "HTTP/1.1 307 Temporary Redirect"
+2026-08-31 07:18:43,672 | HTTP Request: GET https://huggingface.co/api/models/BAAI/bge-m3/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-08-31 07:18:47,957 | HTTP Request: GET https://huggingface.co/api/models/baai/bge-m3 "HTTP/1.1 307 Temporary Redirect"
+2026-08-31 07:18:48,212 | HTTP Request: GET https://huggingface.co/api/models/BAAI/bge-m3 "HTTP/1.1 200 OK"
+2026-08-31 07:18:48,506 | HTTP Request: HEAD https://huggingface.co/baai/bge-m3/resolve/main/1_Pooling/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-08-31 07:18:48,753 | HTTP Request: HEAD https://huggingface.co/BAAI/bge-m3/resolve/main/1_Pooling/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-08-31 07:18:48,772 | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/BAAI/bge-m3/5617a9f61b028005a4858fdac845db406aefb181/1_Pooling%2Fconfig.json "HTTP/1.1 200 OK"
+2026-08-31 07:18:49,068 | HTTP Request: HEAD https://huggingface.co/baai/bge-m3/resolve/main/2_Normalize/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-08-31 07:18:49,345 | HTTP Request: HEAD https://huggingface.co/BAAI/bge-m3/resolve/main/2_Normalize/config.json "HTTP/1.1 404 Not Found"
+2026-08-31 07:18:49,603 | HTTP Request: GET https://huggingface.co/api/models/baai/bge-m3 "HTTP/1.1 307 Temporary Redirect"
+2026-08-31 07:18:49,859 | HTTP Request: GET https://huggingface.co/api/models/BAAI/bge-m3 "HTTP/1.1 200 OK"
+2026-08-31 07:23:59,959 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:24:02,411 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:24:06,633 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:24:14,965 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:24:16,350 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:24:18,645 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:24:22,900 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:24:31,202 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:24:31,752 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:24:34,526 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:24:38,915 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:24:47,187 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:24:47,599 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:24:49,919 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:24:54,196 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:25:02,453 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:25:02,689 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:25:04,973 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:25:09,358 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:25:17,615 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:25:17,620 | [Orchestration] Question: Số thuế thu nhập doanh nghiệp phải nộp đầu năm 2021 của CTCP Tập Đoàn PC1 (PC1) ...
+  ❌ [PLANNER] decompose — Failed: Chưa kết nối được AI (qwen/qwen3-14b). Vui lòng kiểm tra lại. Lỗi: Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 1024 tokens, but can only afford 53. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.', 'provider_name': None, 'previous_errors': [{'code': 402, 'message': 'This request requires more credits, or fewer max_tokens. You requested up to 1024 tokens, but can only afford 202. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account'}, {'code': 402, 'message': 'This request requires more credits, or fewer max_tokens. You requested up to 1024 tokens, but can only afford 220. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account'}]}}, 'user_id': 'user_3IdzO3eLSTPVZfUr0UK7GpmLLA1'}
+  ❌ [RETRIEVER] llm_grounding — LLM hint skipped: Chưa kết nối được AI (qwen/qwen-2.5-7b-instruct). Vui lòng kiểm tra lại. Lỗi: Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 1024 tokens, but can only afford 242. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.', 'provider_name': None}}, 'user_id': 'user_3IdzO3eLSTPVZfUr0UK7GpmLLA1'}
+  ✅ [RETRIEVER] ground_cells — 3 cells grounded | error=None
+  ❌ [PROGRAMMER] pot_execute — result=None, strategy=pot
+  ❌ [CRITIC] dual_verify — status=invalid
+  Reflection rounds: 0
+2026-08-31 07:25:17,622 | ⚠️ [CẢNH BÁO] Câu 57 KHÔNG CÓ KẾT QUẢ! Nguyên nhân: Lỗi Sandbox: Code Python thất bại sau 3 lần tự sửa.
+2026-08-31 07:25:17,670 | --- Processing Question 58 ---
+2026-08-31 07:29:07,933 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:29:10,279 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:29:14,558 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:29:22,964 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:29:23,238 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:29:25,463 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:29:29,699 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:29:37,901 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:29:38,202 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:29:40,436 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:29:44,688 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:29:52,953 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:29:53,219 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:29:55,494 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:29:59,740 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:30:08,003 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:30:08,238 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:30:10,683 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:30:14,932 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:30:23,226 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:30:23,228 | [Orchestration] Question: Tổng tiền trả trước cho người bán ngắn hạn của công ty mẹ PC1 cuối năm 2023 là b...
+  ❌ [PLANNER] decompose — Failed: Chưa kết nối được AI (qwen/qwen3-14b). Vui lòng kiểm tra lại. Lỗi: Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 1024 tokens, but can only afford 220. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.', 'provider_name': None, 'previous_errors': [{'code': 402, 'message': 'This request requires more credits, or fewer max_tokens. You requested up to 1024 tokens, but can only afford 202. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account'}, {'code': 402, 'message': 'This request requires more credits, or fewer max_tokens. You requested up to 1024 tokens, but can only afford 53. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account'}]}}, 'user_id': 'user_3IdzO3eLSTPVZfUr0UK7GpmLLA1'}
+  ❌ [RETRIEVER] llm_grounding — LLM hint skipped: Chưa kết nối được AI (qwen/qwen-2.5-7b-instruct). Vui lòng kiểm tra lại. Lỗi: Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 1024 tokens, but can only afford 242. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.', 'provider_name': None}}, 'user_id': 'user_3IdzO3eLSTPVZfUr0UK7GpmLLA1'}
+  ✅ [RETRIEVER] ground_cells — 6 cells grounded | error=None
+  ❌ [PROGRAMMER] pot_execute — result=None, strategy=pot
+  ❌ [CRITIC] dual_verify — status=invalid
+  Reflection rounds: 0
+2026-08-31 07:30:23,229 | ⚠️ [CẢNH BÁO] Câu 58 KHÔNG CÓ KẾT QUẢ! Nguyên nhân: Lỗi Sandbox: Code Python thất bại sau 3 lần tự sửa.
+2026-08-31 07:30:23,291 | --- Processing Question 59 ---
+2026-08-31 07:34:53,015 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:34:55,281 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:34:59,528 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:35:07,809 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:35:08,037 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:35:10,259 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:35:14,690 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:35:23,014 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:35:23,424 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:35:25,732 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:35:29,975 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:35:38,244 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:35:38,506 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:35:40,737 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:35:44,966 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:35:53,348 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:35:53,569 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:35:55,809 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:36:00,099 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:36:08,376 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:36:08,378 | [Orchestration] Question: Chứng khoán đầu tư sẵn sàng để bán cuối năm 2017 của Ngân hàng TMCP Ngoại thương...
+  ❌ [PLANNER] decompose — Failed: Chưa kết nối được AI (qwen/qwen3-14b). Vui lòng kiểm tra lại. Lỗi: Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 1024 tokens, but can only afford 50. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.', 'provider_name': None, 'previous_errors': [{'code': 402, 'message': 'This request requires more credits, or fewer max_tokens. You requested up to 1024 tokens, but can only afford 209. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account'}, {'code': 402, 'message': 'This request requires more credits, or fewer max_tokens. You requested up to 1024 tokens, but can only afford 192. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account'}]}}, 'user_id': 'user_3IdzO3eLSTPVZfUr0UK7GpmLLA1'}
+  ❌ [RETRIEVER] llm_grounding — LLM hint skipped: Chưa kết nối được AI (qwen/qwen-2.5-7b-instruct). Vui lòng kiểm tra lại. Lỗi: Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 1024 tokens, but can only afford 230. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.', 'provider_name': None}}, 'user_id': 'user_3IdzO3eLSTPVZfUr0UK7GpmLLA1'}
+  ✅ [RETRIEVER] ground_cells — 1 cells grounded | error=None
+  ❌ [PROGRAMMER] pot_execute — result=None, strategy=pot
+  ❌ [CRITIC] dual_verify — status=invalid
+  Reflection rounds: 0
+2026-08-31 07:36:08,379 | ⚠️ [CẢNH BÁO] Câu 59 KHÔNG CÓ KẾT QUẢ! Nguyên nhân: Lỗi Sandbox: Code Python thất bại sau 3 lần tự sửa.
+2026-08-31 07:36:08,408 | --- Processing Question 60 ---
+2026-08-31 07:38:49,524 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:38:51,807 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:38:56,357 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:39:04,726 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:39:05,082 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:39:07,299 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:39:11,519 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:39:19,739 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:39:20,006 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:39:22,407 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:39:26,676 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:39:35,013 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:39:35,271 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:39:37,528 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:39:42,012 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:39:50,258 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:39:50,526 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:39:52,879 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:39:57,120 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:40:05,370 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:40:05,375 | [Orchestration] Question: Lãi vay của công ty mẹ Tổng Công ty Lương thực Miền Nam - CTCP (VSF) năm 2022 là...
+  ❌ [PLANNER] decompose — Failed: Chưa kết nối được AI (qwen/qwen3-14b). Vui lòng kiểm tra lại. Lỗi: Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 1024 tokens, but can only afford 192. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.', 'provider_name': None, 'previous_errors': [{'code': 402, 'message': 'This request requires more credits, or fewer max_tokens. You requested up to 1024 tokens, but can only afford 50. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account'}, {'code': 402, 'message': 'This request requires more credits, or fewer max_tokens. You requested up to 1024 tokens, but can only afford 209. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account'}]}}, 'user_id': 'user_3IdzO3eLSTPVZfUr0UK7GpmLLA1'}
+  ❌ [RETRIEVER] llm_grounding — LLM hint skipped: Chưa kết nối được AI (qwen/qwen-2.5-7b-instruct). Vui lòng kiểm tra lại. Lỗi: Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 1024 tokens, but can only afford 194. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.', 'provider_name': None}}, 'user_id': 'user_3IdzO3eLSTPVZfUr0UK7GpmLLA1'}
+  ✅ [RETRIEVER] ground_cells — 21 cells grounded | error=None
+  ❌ [PROGRAMMER] pot_execute — result=None, strategy=pot
+  ❌ [CRITIC] dual_verify — status=invalid
+  Reflection rounds: 0
+2026-08-31 07:40:05,376 | ⚠️ [CẢNH BÁO] Câu 60 KHÔNG CÓ KẾT QUẢ! Nguyên nhân: Lỗi Sandbox: Code Python thất bại sau 3 lần tự sửa.
+2026-08-31 07:40:05,464 | --- Processing Question 61 ---
+2026-08-31 07:45:31,281 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:45:33,525 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:45:37,768 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:45:46,016 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:45:46,252 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:45:48,565 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:45:52,774 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:46:00,986 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:46:01,513 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:46:03,833 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:46:08,318 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:46:16,607 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:46:16,886 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:46:19,237 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:46:23,540 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:46:32,025 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:46:32,292 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:46:34,610 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:46:39,093 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:46:47,532 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:46:47,541 | [Orchestration] Question: Doanh thu bán hàng và cung cấp dịch vụ của CTCP Dịch vụ Bất động sản Đất Xanh nă...
+  ❌ [PLANNER] decompose — Failed: Chưa kết nối được AI (qwen/qwen3-14b). Vui lòng kiểm tra lại. Lỗi: Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 1024 tokens, but can only afford 42. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.', 'provider_name': None, 'previous_errors': [{'code': 402, 'message': 'This request requires more credits, or fewer max_tokens. You requested up to 1024 tokens, but can only afford 176. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account'}, {'code': 402, 'message': 'This request requires more credits, or fewer max_tokens. You requested up to 1024 tokens, but can only afford 161. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account'}]}}, 'user_id': 'user_3IdzO3eLSTPVZfUr0UK7GpmLLA1'}
+  ❌ [RETRIEVER] llm_grounding — LLM hint skipped: Chưa kết nối được AI (qwen/qwen-2.5-7b-instruct). Vui lòng kiểm tra lại. Lỗi: Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 1024 tokens, but can only afford 186. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.', 'provider_name': None}}, 'user_id': 'user_3IdzO3eLSTPVZfUr0UK7GpmLLA1'}
+  ✅ [RETRIEVER] ground_cells — 129 cells grounded | error=None
+  ❌ [PROGRAMMER] pot_execute — result=None, strategy=pot
+  ❌ [CRITIC] dual_verify — status=invalid
+  Reflection rounds: 0
+2026-08-31 07:46:47,544 | ⚠️ [CẢNH BÁO] Câu 61 KHÔNG CÓ KẾT QUẢ! Nguyên nhân: Lỗi Sandbox: Code Python thất bại sau 3 lần tự sửa.
+2026-08-31 07:46:47,888 | --- Processing Question 62 ---
+2026-08-31 07:50:39,728 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:50:41,984 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:50:46,286 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:50:54,530 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:50:54,751 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:50:57,070 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:51:01,991 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:51:10,310 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:51:10,752 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:51:13,025 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:51:17,406 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:51:25,874 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:51:26,115 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:51:28,472 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:51:32,702 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:51:41,069 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:51:41,320 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:51:43,557 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:51:47,933 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:51:56,198 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:51:56,202 | [Orchestration] Question: Dư nợ đủ tiêu chuẩn của công ty mẹ MBB đến ngày 31/12/2022 là bao nhiêu triệu đồ...
+  ❌ [PLANNER] decompose — Failed: Chưa kết nối được AI (qwen/qwen3-14b). Vui lòng kiểm tra lại. Lỗi: Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 1024 tokens, but can only afford 40. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.', 'provider_name': None, 'previous_errors': [{'code': 402, 'message': 'This request requires more credits, or fewer max_tokens. You requested up to 1024 tokens, but can only afford 155. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account'}, {'code': 402, 'message': 'This request requires more credits, or fewer max_tokens. You requested up to 1024 tokens, but can only afford 169. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account'}]}}, 'user_id': 'user_3IdzO3eLSTPVZfUr0UK7GpmLLA1'}
+  ❌ [RETRIEVER] llm_grounding — LLM hint skipped: Chưa kết nối được AI (qwen/qwen-2.5-7b-instruct). Vui lòng kiểm tra lại. Lỗi: Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 1024 tokens, but can only afford 169. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.', 'provider_name': None}}, 'user_id': 'user_3IdzO3eLSTPVZfUr0UK7GpmLLA1'}
+  ✅ [RETRIEVER] ground_cells — 3 cells grounded | error=None
+  ❌ [PROGRAMMER] pot_execute — result=None, strategy=pot
+  ❌ [CRITIC] dual_verify — status=invalid
+  Reflection rounds: 0
+2026-08-31 07:51:56,205 | ⚠️ [CẢNH BÁO] Câu 62 KHÔNG CÓ KẾT QUẢ! Nguyên nhân: Lỗi Sandbox: Code Python thất bại sau 3 lần tự sửa.
+2026-08-31 07:51:56,277 | --- Processing Question 63 ---
+2026-08-31 07:55:27,610 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:55:29,858 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:55:34,226 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:55:42,624 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:55:42,878 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:55:45,093 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:55:49,321 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:55:57,554 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:55:57,872 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:56:00,111 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:56:04,331 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:56:12,820 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:56:13,282 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:56:15,551 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:56:19,817 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:56:28,072 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:56:28,323 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:56:30,612 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:56:35,131 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:56:43,372 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 07:56:43,374 | [Orchestration] Question: Lãi tiền gửi, tiền cho vay của công ty mẹ CTCP Tập đoàn Sao Mai (ASM) trong năm ...
+  ❌ [PLANNER] decompose — Failed: Chưa kết nối được AI (qwen/qwen3-14b). Vui lòng kiểm tra lại. Lỗi: Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 1024 tokens, but can only afford 37. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.', 'provider_name': None, 'previous_errors': [{'code': 402, 'message': 'This request requires more credits, or fewer max_tokens. You requested up to 1024 tokens, but can only afford 141. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account'}, {'code': 402, 'message': 'This request requires more credits, or fewer max_tokens. You requested up to 1024 tokens, but can only afford 154. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account'}]}}, 'user_id': 'user_3IdzO3eLSTPVZfUr0UK7GpmLLA1'}
+  ❌ [RETRIEVER] llm_grounding — LLM hint skipped: Chưa kết nối được AI (qwen/qwen-2.5-7b-instruct). Vui lòng kiểm tra lại. Lỗi: Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 1024 tokens, but can only afford 152. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.', 'provider_name': None}}, 'user_id': 'user_3IdzO3eLSTPVZfUr0UK7GpmLLA1'}
+  ✅ [RETRIEVER] ground_cells — 27 cells grounded | error=None
+  ❌ [PROGRAMMER] pot_execute — result=None, strategy=pot
+  ❌ [CRITIC] dual_verify — status=invalid
+  Reflection rounds: 0
+2026-08-31 07:56:43,374 | ⚠️ [CẢNH BÁO] Câu 63 KHÔNG CÓ KẾT QUẢ! Nguyên nhân: Lỗi Sandbox: Code Python thất bại sau 3 lần tự sửa.
+2026-08-31 07:56:43,469 | --- Processing Question 64 ---
+2026-08-31 08:01:20,557 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 08:01:22,887 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 08:01:27,313 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 08:01:35,593 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 08:01:35,784 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 08:01:38,024 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 08:01:42,370 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 08:01:50,587 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 08:01:50,873 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 08:01:53,232 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 08:01:57,494 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 08:02:05,769 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 08:02:06,248 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 08:02:08,480 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 08:02:12,861 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 08:02:21,222 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 08:02:21,611 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 08:02:23,897 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 08:02:28,176 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 08:02:36,424 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 08:02:36,427 | [Orchestration] Question: Tổng tài sản của STB cuối năm 2021 là bao nhiêu triệu đồng?...
+  ❌ [PLANNER] decompose — Failed: Chưa kết nối được AI (qwen/qwen3-14b). Vui lòng kiểm tra lại. Lỗi: Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 1024 tokens, but can only afford 33. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.', 'provider_name': None, 'previous_errors': [{'code': 402, 'message': 'This request requires more credits, or fewer max_tokens. You requested up to 1024 tokens, but can only afford 138. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account'}, {'code': 402, 'message': 'This request requires more credits, or fewer max_tokens. You requested up to 1024 tokens, but can only afford 126. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account'}]}}, 'user_id': 'user_3IdzO3eLSTPVZfUr0UK7GpmLLA1'}
+  ❌ [RETRIEVER] llm_grounding — LLM hint skipped: Chưa kết nối được AI (qwen/qwen-2.5-7b-instruct). Vui lòng kiểm tra lại. Lỗi: Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 1024 tokens, but can only afford 138. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.', 'provider_name': None}}, 'user_id': 'user_3IdzO3eLSTPVZfUr0UK7GpmLLA1'}
+  ✅ [RETRIEVER] ground_cells — 20 cells grounded | error=None
+  ❌ [PROGRAMMER] pot_execute — result=None, strategy=pot
+  ❌ [CRITIC] dual_verify — status=invalid
+  Reflection rounds: 0
+2026-08-31 08:02:36,427 | ⚠️ [CẢNH BÁO] Câu 64 KHÔNG CÓ KẾT QUẢ! Nguyên nhân: Lỗi Sandbox: Code Python thất bại sau 3 lần tự sửa.
+2026-08-31 08:02:36,504 | --- Processing Question 65 ---
+2026-08-31 08:07:45,859 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 08:07:48,195 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 08:07:52,447 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 08:08:00,733 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 08:08:00,965 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 08:08:03,195 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 08:08:07,573 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 08:08:15,874 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 08:08:16,234 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 08:08:18,684 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 08:08:23,054 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 08:08:31,408 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 08:08:31,824 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 08:08:34,304 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 08:08:38,630 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 08:08:47,248 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 08:08:47,582 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 08:08:49,878 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 08:08:54,210 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 08:09:02,527 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 08:09:02,531 | [Orchestration] Question: Dư nợ cho vay ngành Thương mại, dịch vụ của Ngân hàng TMCP Ngoại thương Việt Nam...
+  ❌ [PLANNER] decompose — Failed: Chưa kết nối được AI (qwen/qwen3-14b). Vui lòng kiểm tra lại. Lỗi: Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 1024 tokens, but can only afford 30. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.', 'provider_name': None, 'previous_errors': [{'code': 402, 'message': 'This request requires more credits, or fewer max_tokens. You requested up to 1024 tokens, but can only afford 125. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account'}, {'code': 402, 'message': 'This request requires more credits, or fewer max_tokens. You requested up to 1024 tokens, but can only afford 115. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account'}]}}, 'user_id': 'user_3IdzO3eLSTPVZfUr0UK7GpmLLA1'}
+  ❌ [RETRIEVER] llm_grounding — LLM hint skipped: Chưa kết nối được AI (qwen/qwen-2.5-7b-instruct). Vui lòng kiểm tra lại. Lỗi: Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 1024 tokens, but can only afford 120. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.', 'provider_name': None}}, 'user_id': 'user_3IdzO3eLSTPVZfUr0UK7GpmLLA1'}
+  ✅ [RETRIEVER] ground_cells — 181 cells grounded | error=None
+  ❌ [PROGRAMMER] pot_execute — result=None, strategy=pot
+  ❌ [CRITIC] dual_verify — status=invalid
+  Reflection rounds: 0
+2026-08-31 08:09:02,532 | ⚠️ [CẢNH BÁO] Câu 65 KHÔNG CÓ KẾT QUẢ! Nguyên nhân: Lỗi Sandbox: Code Python thất bại sau 3 lần tự sửa.
+2026-08-31 08:09:02,915 | --- Processing Question 66 ---
+2026-08-31 08:13:40,625 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 08:13:42,867 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 08:13:47,169 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 08:13:55,673 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 08:13:55,950 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 08:13:58,174 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 08:14:02,405 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 08:14:10,678 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 08:14:10,987 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 08:14:13,307 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 08:14:17,560 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 08:14:26,075 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 08:14:26,446 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 08:14:28,718 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 08:14:32,963 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 08:14:41,295 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 08:14:41,598 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 08:14:43,874 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 08:14:48,172 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-08-31 08:31:38,582 | Started batch inference. Logs saved to inference_log.txt
+2026-08-31 08:31:38,591 | [INFO] Resume: 52 câu OK (skip), 13 câu lỗi (chạy lại).
+2026-08-31 08:31:38,627 | [INFO] Total questions to process: 1012
+2026-08-31 08:31:38,802 | --- Processing Question 19 ---
+2026-08-31 08:32:17,476 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 08:32:34,710 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 08:32:39,643 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 08:32:54,788 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 08:33:09,945 | [Orchestration] Question: Tổng tỷ lệ quyền biểu quyết của công ty mẹ CTCP Đầu tư Hạ tầng Giao thông Đèo Cả...
+  ✅ [PLANNER] decompose — Plan generated (1083 chars)
+  ✅ [RETRIEVER] llm_grounding — LLM Retriever hint generated
+  ✅ [RETRIEVER] ground_cells — 62 cells grounded | error=None
+  ✅ [PROGRAMMER] pot_execute — result=5.669999999999989, strategy=pot
+  ✅ [CRITIC] dual_verify — status=verified_single
+  Reflection rounds: 1
+2026-08-31 08:33:10,163 | --- Processing Question 28 ---
+2026-08-31 08:33:45,222 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 08:33:56,068 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 08:34:02,692 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 08:35:11,010 | [Orchestration] Question: Tổng phải thu ngắn hạn khác của công ty mẹ CTCP Tập đoàn Đầu tư Địa ốc No Va đến...
+  ✅ [PLANNER] decompose — Plan generated (790 chars)
+  ✅ [RETRIEVER] llm_grounding — LLM Retriever hint generated
+  ✅ [RETRIEVER] ground_cells — 67 cells grounded | error=None
+  ✅ [PROGRAMMER] pot_execute — result=3.052633961, strategy=pot
+  ✅ [CRITIC] dual_verify — status=verified_single
+  Reflection rounds: 0
+2026-08-31 08:35:11,182 | --- Processing Question 37 ---
+2026-08-31 08:35:40,518 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 08:35:48,840 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 08:35:53,135 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 08:36:08,017 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 08:36:15,648 | [Orchestration] Question: Tổng cam kết cho thuê hoạt động của công ty mẹ CTCP Tập đoàn GELEX (GEX) đến ngà...
+  ✅ [PLANNER] decompose — Plan generated (1031 chars)
+  ✅ [RETRIEVER] llm_grounding — LLM Retriever hint generated
+  ✅ [RETRIEVER] ground_cells — 74 cells grounded | error=None
+  ✅ [PROGRAMMER] pot_execute — result=96894594635.0, strategy=pot
+  ✅ [CRITIC] dual_verify — status=verified_single
+  Reflection rounds: 1
+2026-08-31 08:36:15,886 | --- Processing Question 53 ---
+2026-08-31 08:36:45,389 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 08:36:51,647 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 08:36:57,360 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 08:37:11,510 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 08:37:27,817 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 08:37:37,891 | [Orchestration] Question: Giá trị còn lại của bất động sản đầu tư của công ty mẹ IJC đến ngày 31 tháng 12 ...
+  ✅ [PLANNER] decompose — Plan generated (735 chars)
+  ✅ [RETRIEVER] llm_grounding — LLM Retriever hint generated
+  ✅ [RETRIEVER] ground_cells — 17 cells grounded | error=None
+  ✅ [PROGRAMMER] pot_execute — result=533224896566.0, strategy=pot
+  ✅ [CRITIC] dual_verify — status=verified_single
+  Reflection rounds: 2
+2026-08-31 08:37:37,951 | --- Processing Question 57 ---
+2026-08-31 08:38:52,521 | TensorFlow version 2.17.0 available.
+2026-08-31 08:38:55,322 | No device provided, using cpu
+2026-08-31 08:38:55,641 | HTTP Request: HEAD https://huggingface.co/baai/bge-m3/resolve/main/modules.json "HTTP/1.1 307 Temporary Redirect"
+2026-08-31 08:38:55,897 | HTTP Request: HEAD https://huggingface.co/BAAI/bge-m3/resolve/main/modules.json "HTTP/1.1 307 Temporary Redirect"
+2026-08-31 08:38:55,903 | Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-08-31 08:38:55,922 | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/BAAI/bge-m3/5617a9f61b028005a4858fdac845db406aefb181/modules.json "HTTP/1.1 200 OK"
+2026-08-31 08:38:56,180 | HTTP Request: HEAD https://huggingface.co/baai/bge-m3/resolve/main/config_sentence_transformers.json "HTTP/1.1 307 Temporary Redirect"
+2026-08-31 08:38:56,446 | HTTP Request: HEAD https://huggingface.co/BAAI/bge-m3/resolve/main/config_sentence_transformers.json "HTTP/1.1 307 Temporary Redirect"
+2026-08-31 08:38:56,464 | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/BAAI/bge-m3/5617a9f61b028005a4858fdac845db406aefb181/config_sentence_transformers.json "HTTP/1.1 200 OK"
+2026-08-31 08:38:56,469 | Loading SentenceTransformer model from baai/bge-m3.
+2026-08-31 08:38:56,721 | HTTP Request: HEAD https://huggingface.co/baai/bge-m3/resolve/main/config_sentence_transformers.json "HTTP/1.1 307 Temporary Redirect"
+2026-08-31 08:38:56,968 | HTTP Request: HEAD https://huggingface.co/BAAI/bge-m3/resolve/main/config_sentence_transformers.json "HTTP/1.1 307 Temporary Redirect"
+2026-08-31 08:38:56,987 | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/BAAI/bge-m3/5617a9f61b028005a4858fdac845db406aefb181/config_sentence_transformers.json "HTTP/1.1 200 OK"
+2026-08-31 08:38:57,244 | HTTP Request: HEAD https://huggingface.co/baai/bge-m3/resolve/main/README.md "HTTP/1.1 307 Temporary Redirect"
+2026-08-31 08:38:57,501 | HTTP Request: HEAD https://huggingface.co/BAAI/bge-m3/resolve/main/README.md "HTTP/1.1 307 Temporary Redirect"
+2026-08-31 08:38:57,520 | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/BAAI/bge-m3/5617a9f61b028005a4858fdac845db406aefb181/README.md "HTTP/1.1 200 OK"
+2026-08-31 08:38:57,787 | HTTP Request: HEAD https://huggingface.co/baai/bge-m3/resolve/main/modules.json "HTTP/1.1 307 Temporary Redirect"
+2026-08-31 08:38:58,046 | HTTP Request: HEAD https://huggingface.co/BAAI/bge-m3/resolve/main/modules.json "HTTP/1.1 307 Temporary Redirect"
+2026-08-31 08:38:58,064 | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/BAAI/bge-m3/5617a9f61b028005a4858fdac845db406aefb181/modules.json "HTTP/1.1 200 OK"
+2026-08-31 08:38:58,323 | HTTP Request: HEAD https://huggingface.co/baai/bge-m3/resolve/main/sentence_bert_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-08-31 08:38:58,587 | HTTP Request: HEAD https://huggingface.co/BAAI/bge-m3/resolve/main/sentence_bert_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-08-31 08:38:58,605 | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/BAAI/bge-m3/5617a9f61b028005a4858fdac845db406aefb181/sentence_bert_config.json "HTTP/1.1 200 OK"
+2026-08-31 08:38:58,860 | HTTP Request: HEAD https://huggingface.co/baai/bge-m3/resolve/main/adapter_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-08-31 08:38:59,119 | HTTP Request: HEAD https://huggingface.co/BAAI/bge-m3/resolve/main/adapter_config.json "HTTP/1.1 404 Not Found"
+2026-08-31 08:38:59,377 | HTTP Request: HEAD https://huggingface.co/baai/bge-m3/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-08-31 08:38:59,637 | HTTP Request: HEAD https://huggingface.co/BAAI/bge-m3/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-08-31 08:38:59,672 | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/BAAI/bge-m3/5617a9f61b028005a4858fdac845db406aefb181/config.json "HTTP/1.1 200 OK"
+2026-08-31 08:39:00,033 | HTTP Request: HEAD https://huggingface.co/baai/bge-m3/resolve/main/model.safetensors "HTTP/1.1 307 Temporary Redirect"
+2026-08-31 08:39:01,032 | HTTP Request: HEAD https://huggingface.co/baai/bge-m3/resolve/main/processor_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-08-31 08:39:01,287 | HTTP Request: HEAD https://huggingface.co/BAAI/bge-m3/resolve/main/processor_config.json "HTTP/1.1 404 Not Found"
+2026-08-31 08:39:01,562 | HTTP Request: HEAD https://huggingface.co/baai/bge-m3/resolve/main/preprocessor_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-08-31 08:39:01,837 | HTTP Request: HEAD https://huggingface.co/BAAI/bge-m3/resolve/main/preprocessor_config.json "HTTP/1.1 404 Not Found"
+2026-08-31 08:39:02,103 | HTTP Request: HEAD https://huggingface.co/baai/bge-m3/resolve/main/video_preprocessor_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-08-31 08:39:02,398 | HTTP Request: HEAD https://huggingface.co/BAAI/bge-m3/resolve/main/video_preprocessor_config.json "HTTP/1.1 404 Not Found"
+2026-08-31 08:39:02,684 | HTTP Request: HEAD https://huggingface.co/baai/bge-m3/resolve/main/preprocessor_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-08-31 08:39:02,961 | HTTP Request: HEAD https://huggingface.co/BAAI/bge-m3/resolve/main/preprocessor_config.json "HTTP/1.1 404 Not Found"
+2026-08-31 08:39:03,228 | HTTP Request: HEAD https://huggingface.co/baai/bge-m3/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-08-31 08:39:03,501 | HTTP Request: HEAD https://huggingface.co/BAAI/bge-m3/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-08-31 08:39:03,568 | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/BAAI/bge-m3/5617a9f61b028005a4858fdac845db406aefb181/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-08-31 08:39:03,824 | HTTP Request: HEAD https://huggingface.co/baai/bge-m3/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-08-31 08:39:04,204 | HTTP Request: HEAD https://huggingface.co/BAAI/bge-m3/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-08-31 08:39:04,225 | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/BAAI/bge-m3/5617a9f61b028005a4858fdac845db406aefb181/config.json "HTTP/1.1 200 OK"
+2026-08-31 08:39:04,491 | HTTP Request: HEAD https://huggingface.co/baai/bge-m3/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-08-31 08:39:04,754 | HTTP Request: HEAD https://huggingface.co/BAAI/bge-m3/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-08-31 08:39:04,779 | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/BAAI/bge-m3/5617a9f61b028005a4858fdac845db406aefb181/config.json "HTTP/1.1 200 OK"
+2026-08-31 08:39:05,045 | HTTP Request: HEAD https://huggingface.co/baai/bge-m3/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-08-31 08:39:05,311 | HTTP Request: HEAD https://huggingface.co/BAAI/bge-m3/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-08-31 08:39:05,330 | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/BAAI/bge-m3/5617a9f61b028005a4858fdac845db406aefb181/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-08-31 08:39:05,607 | HTTP Request: GET https://huggingface.co/api/models/baai/bge-m3/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 307 Temporary Redirect"
+2026-08-31 08:39:05,873 | HTTP Request: GET https://huggingface.co/api/models/BAAI/bge-m3/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-08-31 08:39:06,141 | HTTP Request: GET https://huggingface.co/api/models/baai/bge-m3/tree/main?recursive=true&expand=false "HTTP/1.1 307 Temporary Redirect"
+2026-08-31 08:39:06,424 | HTTP Request: GET https://huggingface.co/api/models/BAAI/bge-m3/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-08-31 08:39:11,585 | HTTP Request: GET https://huggingface.co/api/models/baai/bge-m3 "HTTP/1.1 307 Temporary Redirect"
+2026-08-31 08:39:11,879 | HTTP Request: GET https://huggingface.co/api/models/BAAI/bge-m3 "HTTP/1.1 200 OK"
+2026-08-31 08:39:12,254 | HTTP Request: HEAD https://huggingface.co/baai/bge-m3/resolve/main/1_Pooling/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-08-31 08:39:12,793 | HTTP Request: HEAD https://huggingface.co/BAAI/bge-m3/resolve/main/1_Pooling/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-08-31 08:39:12,843 | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/BAAI/bge-m3/5617a9f61b028005a4858fdac845db406aefb181/1_Pooling%2Fconfig.json "HTTP/1.1 200 OK"
+2026-08-31 08:39:13,237 | HTTP Request: HEAD https://huggingface.co/baai/bge-m3/resolve/main/2_Normalize/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-08-31 08:39:13,510 | HTTP Request: HEAD https://huggingface.co/BAAI/bge-m3/resolve/main/2_Normalize/config.json "HTTP/1.1 404 Not Found"
+2026-08-31 08:39:13,786 | HTTP Request: GET https://huggingface.co/api/models/baai/bge-m3 "HTTP/1.1 307 Temporary Redirect"
+2026-08-31 08:39:14,044 | HTTP Request: GET https://huggingface.co/api/models/BAAI/bge-m3 "HTTP/1.1 200 OK"
+2026-08-31 08:44:16,773 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 08:44:30,810 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 08:44:38,096 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 08:44:54,573 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 08:45:06,757 | [Orchestration] Question: Số thuế thu nhập doanh nghiệp phải nộp đầu năm 2021 của CTCP Tập Đoàn PC1 (PC1) ...
+  ✅ [PLANNER] decompose — Plan generated (941 chars)
+  ✅ [RETRIEVER] llm_grounding — LLM Retriever hint generated
+  ✅ [RETRIEVER] ground_cells — 3 cells grounded | error=None
+  ✅ [PROGRAMMER] pot_execute — result=95531.3293452, strategy=pot
+  ✅ [CRITIC] dual_verify — status=verified_single
+  Reflection rounds: 1
+2026-08-31 08:45:06,810 | --- Processing Question 58 ---
+2026-08-31 08:45:26,779 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 08:45:41,131 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 08:45:47,756 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 08:46:00,999 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-31 08:46:14,707 | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"

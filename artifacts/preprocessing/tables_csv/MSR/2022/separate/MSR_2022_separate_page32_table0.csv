@@ -1,0 +1,23 @@
+﻿row_label_raw,row_label_full,col_0,Code,Note,31/12/2022VND'000,1/1/2022VND'000,numeric__Code,numeric__Note,numeric__31/12/2022VND'000,numeric__1/1/2022VND'000
+ASSETS,ASSETS,ASSETS,ASSETS,ASSETS,ASSETS,ASSETS,,,,
+Current assets (100 = 110 + 130 + 150),ASSETS > Current assets (100 = 110 + 130 + 150),Current assets (100 = 110 + 130 + 150),100,,"1,076,331,106","84,602,412",100.0,,,
+Cash and cash equivalents,ASSETS > Cash and cash equivalents,Cash and cash equivalents,110,4,"1,152,355","5,600,363",110.0,4.0,,
+Cash,ASSETS > Cash,Cash,111,,"1,152,355","600,363",111.0,,,600.363
+Cash equivalents,ASSETS > Cash equivalents,Cash equivalents,112,,-,"5,000,000",112.0,,,
+Accounts receivable – short-term,ASSETS > Accounts receivable – short-term,Accounts receivable – short-term,130,,"1,071,869,168","78,800,192",130.0,,,
+Prepayment to suppliers,ASSETS > Prepayment to suppliers,Prepayment to suppliers,132,,"398,785","92,800",132.0,,398.785,92.8
+Other receivables,ASSETS > Other receivables,Other receivables,136,5,"1,071,470,383","78,707,392",136.0,5.0,,
+Other current assets,ASSETS > Other current assets,Other current assets,150,,"3,309,583","201,857",150.0,,,201.857
+Deductible value added tax,ASSETS > Deductible value added tax,Deductible value added tax,152,,"3,309,583","201,857",152.0,,,201.857
+Long term assets (200 = 210 + 220 + 240 + 250),ASSETS > Long term assets (200 = 210 + 220 + 240 + 250),Long term assets (200 = 210 + 220 + 240 + 250),200,,"14,188,893,090","15,181,439,646",200.0,,,
+Accounts receivable – long-term,ASSETS > Accounts receivable – long-term,Accounts receivable – long-term,210,,"2,000,000,000","3,000,000,000",210.0,,,
+Other long-term receivables,ASSETS > Other long-term receivables,Other long-term receivables,216,5,"2,000,000,000","3,000,000,000",216.0,5.0,,
+Fixed assets,ASSETS > Fixed assets,Fixed assets,220,,-,-,220.0,,,
+Intangible fixed assets,ASSETS > Intangible fixed assets,Intangible fixed assets,227,,-,-,227.0,,,
+Cost,ASSETS > Cost,Cost,228,,"137,950","137,950",228.0,,137.95,137.95
+Accumulated amortisation,ASSETS > Accumulated amortisation,Accumulated amortisation,229,,"(137,950)","(137,950)",229.0,,-137.95,-137.95
+Long-term work in progress,ASSETS > Long-term work in progress,Long-term work in progress,240,,"32,416,701","24,963,257",240.0,,,
+Construction in progress,ASSETS > Construction in progress,Construction in progress,242,6,"32,416,701","24,963,257",242.0,6.0,,
+Long-term financial investments,ASSETS > Long-term financial investments,Long-term financial investments,250,,"12,156,476,389","12,156,476,389",250.0,,,
+Investment in a subsidiary,ASSETS > Investment in a subsidiary,Investment in a subsidiary,251,7,"12,156,476,389","12,156,476,389",251.0,7.0,,
+TOTAL ASSETS (270 = 100 + 200),ASSETS > TOTAL ASSETS (270 = 100 + 200),TOTAL ASSETS (270 = 100 + 200),270,,"15,265,224,196","15,266,042,058",270.0,,,

@@ -1,0 +1,6 @@
+﻿row_label_raw,row_label_full,STT,Bên nhận đầu tư,Vốn điều lệ của bên nhận đầu tư,Cam kết góp vốn của Công ty,Cam kết góp vốn của Công ty_1,Số vốn thực góp,Số vốn chưa góp,numeric__Bên nhận đầu tư,numeric__Vốn điều lệ của bên nhận đầu tư,numeric__Cam kết góp vốn của Công ty,numeric__Cam kết góp vốn của Công ty_1,numeric__Số vốn thực góp,numeric__Số vốn chưa góp
+STT,STT,STT,Bên nhận đầu tư,Vốn điều lệ của bên nhận đầu tư,Số tiền,%,Số tiền,Số tiền,,,,,,
+,,,,Triệu VND,Triệu VND,,Triệu VND,Triệu VND,,,,,,
+1,STT > 1,1,Công ty Vinbus,1.000.000,1.000.000,"100,00",500,999.500,,1000000.0,1000000.0,100.0,500.0,999500.0
+2,STT > 2,2,Công ty KCN Vinhomes,70.000,49.000,"70,00",16.500,32.500,,70000.0,49000.0,70.0,16500.0,32500.0
+,,,TỔNG CỘNG,1.070.000,1.049.000,,17.000,1.032.000,,1070000.0,1049000.0,,17000.0,1032000.0

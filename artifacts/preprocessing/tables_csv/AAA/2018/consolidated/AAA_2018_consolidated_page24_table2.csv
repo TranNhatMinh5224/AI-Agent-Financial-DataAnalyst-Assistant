@@ -1,0 +1,21 @@
+﻿row_label_raw,row_label_full,col_0,Số đầu năm,Số phải nộp trong năm,Số đã thực nộp trong năm,Số cuối năm,numeric__Số đầu năm,numeric__Số phải nộp trong năm,numeric__Số đã thực nộp trong năm,numeric__Số cuối năm
+,,,VND,VND,VND,VND,,,,
+Phải nộp,Phải nộp,Phải nộp,Phải nộp,Phải nộp,Phải nộp,Phải nộp,,,,
+Thuế giá trị gia ting,Phải nộp > Thuế giá trị gia ting,Thuế giá trị gia ting,-,266.463.256.121,266.463.256.121,-,,266463256121.0,266463256121.0,
+"Thuế xuất, nhập khẩu","Phải nộp > Thuế xuất, nhập khẩu","Thuế xuất, nhập khẩu",-,11.385.819.575,11.385.819.575,-,,11385819575.0,11385819575.0,
+Thuế thu nhập doanh nghiệp,Phải nộp > Thuế thu nhập doanh nghiệp,Thuế thu nhập doanh nghiệp,14.101.563.481,42.772.027.927,43.438.864.262,13.434.727.146,14101563481.0,42772027927.0,43438864262.0,13434727146.0
+Thuế thu nhập cá nhân,Phải nộp > Thuế thu nhập cá nhân,Thuế thu nhập cá nhân,131.397.169,4.279.253.791,3.760.380.026,650.270.934,131397169.0,4279253791.0,3760380026.0,650270934.0
+Thuế tài nguyên,Phải nộp > Thuế tài nguyên,Thuế tài nguyên,-,18.834.300,18.834.300,-,,18834300.0,18834300.0,
+"Thuế nhà đất, tiền thuê đất","Phải nộp > Thuế nhà đất, tiền thuê đất","Thuế nhà đất, tiền thuê đất",-,1.060.388.762,1.060.388.762,-,,1060388762.0,1060388762.0,
+Thuế báo vệ môi trường,Phải nộp > Thuế báo vệ môi trường,Thuế báo vệ môi trường,-,331.879.200,331.879.200,-,,331879200.0,331879200.0,
+Các loại thuế khác,Phải nộp > Các loại thuế khác,Các loại thuế khác,-,18.295.681,18.295.681,-,,18295681.0,18295681.0,
+"Phí, lệ phí và các khoản phải nộp khác","Phải nộp > Phí, lệ phí và các khoản phải nộp khác","Phí, lệ phí và các khoản phải nộp khác",-,54.993.127,54.993.127,-,,54993127.0,54993127.0,
+Cộng,Phải nộp > Cộng,Cộng,14.232.960.650,326.384.748.484,326.532.711.054,14.084.998.080,14232960650.0,326384748484.0,326532711054.0,14084998080.0
+,,,Số đầu năm,Số đã thu trong kỳ,Số đã thực nộp trong kỳ,Số cuối năm,,,,
+,,,VND,VND,VND,VND,,,,
+Phải thu,Phải thu,Phải thu,Phải thu,Phải thu,Phải thu,Phải thu,,,,
+Thuế giá trị gia ting,Phải thu > Thuế giá trị gia ting,Thuế giá trị gia ting,202.114.928,202.114.928,-,-,202114928.0,202114928.0,,
+"Thuế xuất, nhập khẩu","Phải thu > Thuế xuất, nhập khẩu","Thuế xuất, nhập khẩu",58.868.426,58.868.426,-,-,58868426.0,58868426.0,,
+Thuế thu nhập doanh nghiệp,Phải thu > Thuế thu nhập doanh nghiệp,Thuế thu nhập doanh nghiệp,-,-,2.703.873.259,2.703.873.259,,,2703873259.0,2703873259.0
+"Thuế nhà đất, tiền thuê đất","Phải thu > Thuế nhà đất, tiền thuê đất","Thuế nhà đất, tiền thuê đất",-,-,1.982.000,1.982.200,,,1982000.0,1982200.0
+Cộng,Phải thu > Cộng,Cộng,260.983.354,260.983.354,2.705.855.259,2.705.855.459,260983354.0,260983354.0,2705855259.0,2705855459.0

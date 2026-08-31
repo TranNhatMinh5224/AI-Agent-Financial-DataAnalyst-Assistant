@@ -1,0 +1,14 @@
+﻿row_label_raw,row_label_full,col_0,Giá trị quyềnsử dụng đất (*),Phần mềmmáy tính,Cộng,numeric__Giá trị quyềnsử dụng đất (*),numeric__Phần mềmmáy tính,numeric__Cộng
+,,,VND,VND,VND,,,
+Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,,,
+Số dư đầu năm,Nguyên giá > Số dư đầu năm,Số dư đầu năm,10.634.265.854,279.286.000,10.913.551.854,10634265854.0,279286000.0,10913551854.0
+- Giảm do chuyển sang thuểđất trả tiền hàng năm,Nguyên giá > - Giảm do chuyển sang thuểđất trả tiền hàng năm,- Giảm do chuyển sang thuểđất trả tiền hàng năm,(9.526.195.854),-,(9.526.195.854),-9526195854.0,,-9526195854.0
+Số dư cuối năm,Nguyên giá > Số dư cuối năm,Số dư cuối năm,1.108.070.000,279.286.000,1.387.356.000,1108070000.0,279286000.0,1387356000.0
+Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,,,
+Số dư đầu năm,Giá trị hao mòn lũy kế > Số dư đầu năm,Số dư đầu năm,9.332.090.615,273.063.348,9.605.153.963,9332090615.0,273063348.0,9605153963.0
+- Khấu hao trong năm,Giá trị hao mòn lũy kế > - Khấu hao trong năm,- Khấu hao trong năm,194.105.239,6.222.652,200.327.891,194105239.0,6222652.0,200327891.0
+- Giảm do chuyển sang thuểđất trả tiền hàng năm,Giá trị hao mòn lũy kế > - Giảm do chuyển sang thuểđất trả tiền hàng năm,- Giảm do chuyển sang thuểđất trả tiền hàng năm,(9.526.195.854),-,(9.526.195.854),-9526195854.0,,-9526195854.0
+Số dư cuối năm,Giá trị hao mòn lũy kế > Số dư cuối năm,Số dư cuối năm,-,279.286.000,279.286.000,,279286000.0,279286000.0
+Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,,,
+Tại ngày đầu năm,Giá trị còn lại > Tại ngày đầu năm,Tại ngày đầu năm,1.302.175.239,6.222.652,1.308.397.891,1302175239.0,6222652.0,1308397891.0
+Tại ngày cuối năm,Giá trị còn lại > Tại ngày cuối năm,Tại ngày cuối năm,1.108.070.000,-,1.108.070.000,1108070000.0,,1108070000.0

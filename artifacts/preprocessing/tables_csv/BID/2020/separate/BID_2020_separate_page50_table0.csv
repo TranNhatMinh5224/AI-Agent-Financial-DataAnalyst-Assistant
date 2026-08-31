@@ -1,0 +1,14 @@
+﻿row_label_raw,row_label_full,col_0,Năm nay,Năm trước,numeric__Năm nay,numeric__Năm trước
+,,,Triệu VND,Triệu VND,,
+Thu nhập từ hoạt động kinh doanh trước thuế,Thu nhập từ hoạt động kinh doanh trước thuế,Thu nhập từ hoạt động kinh doanh trước thuế,8.330.291,10.308.123,8330291.0,10308123.0
+Trừ:,Trừ:,Trừ:,,,,
+Thu nhập từ cổ tức không chịu thuế,Trừ: > Thu nhập từ cổ tức không chịu thuế,Thu nhập từ cổ tức không chịu thuế,(157.570),(248.738),-157570.0,-248738.0
+Cộng:,Cộng:,Cộng:,,,,
+Chi phí khác không được khấu trừ thuế,Cộng: > Chi phí khác không được khấu trừ thuế,Chi phí khác không được khấu trừ thuế,27.275,33.464,27275.0,33464.0
+Thu nhập chịu thuế TNDN,Cộng: > Thu nhập chịu thuế TNDN,Thu nhập chịu thuế TNDN,8.199.996,10.092.849,8199996.0,10092849.0
+Thuế suất thuế TNDN,Cộng: > Thuế suất thuế TNDN,Thuế suất thuế TNDN,20%,20%,0.2,0.2
+Chi phí thuế TNDN theo thuế suất,Cộng: > Chi phí thuế TNDN theo thuế suất,Chi phí thuế TNDN theo thuế suất,1.640.000,2.018.570,1640000.0,2018570.0
+Thuế TNDN trong năm,Cộng: > Thuế TNDN trong năm,Thuế TNDN trong năm,1.640.000,2.018.570,1640000.0,2018570.0
+Thuế TNDN phải trả đầu năm,Cộng: > Thuế TNDN phải trả đầu năm,Thuế TNDN phải trả đầu năm,708.131,435.477,708131.0,435477.0
+Thuế TNDN đã trả trong năm,Cộng: > Thuế TNDN đã trả trong năm,Thuế TNDN đã trả trong năm,(1.985.238),(1.745.916),-1985238.0,-1745916.0
+Thuế TNDN phải trả thuần cuối năm,Cộng: > Thuế TNDN phải trả thuần cuối năm,Thuế TNDN phải trả thuần cuối năm,362.893,708.131,362893.0,708131.0

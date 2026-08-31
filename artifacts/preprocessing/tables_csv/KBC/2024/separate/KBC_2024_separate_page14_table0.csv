@@ -1,0 +1,23 @@
+﻿row_label_raw,row_label_full,Mã số,CHỈ TIÊU,Thuyết minh,Năm nay,Năm trước,numeric__CHỈ TIÊU,numeric__Thuyết minh,numeric__Năm nay,numeric__Năm trước
+,,,I. LƯU CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH,,,,,,,
+01,01,01,Lợi nhuận trước thuế Điều chỉnh cho các khoản: Khấu hao tài sản cố định hữu hình và bắt động sản đầu tư Các khoản (hoàn nhập dự phòng)/dự phòng,25,30.758.479.732,1.111.345.936.982,,25.0,30758479732.0,1111345936982.0
+02,02,02,Lợi nhuận trước thuế Điều chỉnh cho các khoản: Khấu hao tài sản cố định hữu hình và bắt động sản đầu tư Các khoản (hoàn nhập dự phòng)/dự phòng,25,41.911.400.420,40.143.582.077,,25.0,41911400420.0,40143582077.0
+03,03,03,Lợi nhuận trước thuế Điều chỉnh cho các khoản: Khấu hao tài sản cố định hữu hình và bắt động sản đầu tư Các khoản (hoàn nhập dự phòng)/dự phòng,25,(212.924.426.093),123.243.652.830,,25.0,-212924426093.0,123243652830.0
+05,05,05,Lãi từ hoạt động đầu tư Chi phí lãi vay và chi phí phát hành trái phiếu,25,(179.584.729.021),(289.568.294.391),,25.0,-179584729021.0,-289568294391.0
+06,06,06,Lãi từ hoạt động đầu tư Chi phí lãi vay và chi phí phát hành trái phiếu,25,586.280.859.326,481.782.984.906,,25.0,586280859326.0,481782984906.0
+08,08,08,Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động,,266.441.584.364,1.466.947.862.404,,,266441584364.0,1466947862404.0
+09,09,09,Giảm/(tăng) các khoản phải thu (Tăng)/giảm hàng tồn kho,5.337.679.573.372,(5.623.303.298.493),,,5337679573372.0,-5623303298493.0,
+10,10,10,Giảm/(tăng) các khoản phải thu (Tăng)/giảm hàng tồn kho,(25.637.543.879),354.458.818.197,,,-25637543879.0,354458818197.0,
+11,11,11,"Tăng/(giảm) các khoản phải trả (không kể lãi vay phải trả, thuế thu nhập doanh nghiệp phải nộp)",5.591.258.638.411,(51.075.237.516),,,5591258638411.0,-51075237516.0,
+12,12,12,Tăng chi phí trả trước,(7.770.325.157),(2.097.970.860),,,-7770325157.0,-2097970860.0,
+14,14,14,Tiền lãi vay đã trả,(1.314.505.426.812),(277.226.866.916),,,-1314505426812.0,-277226866916.0,
+15,15,15,Thuế thu nhập doanh nghiệp đã nộp,(187.871.643.060),(800.000.000),,,-187871643060.0,-800000000.0,
+20,20,20,Lưu chuyển tiền thuần tử/(sử dụng vào) vào hoạt động kinh doanh,,9.659.594.857.239,(4.133.096.693.184),,,9659594857239.0,-4133096693184.0
+,,,II. LƯU CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TƯ,,,,,,,
+21,21,21,"Tiền chi để mua sắm, xây dựng tài sản cố định (TSCĐ) và các tài sản dài hạn khác",(33.046.652.528),(101.888.915.903),,,-33046652528.0,-101888915903.0,
+23,23,23,"Tiền chi cho vay, mua các công cụ nợ của các đơn vị khác",(5.760.573.195.121),(483.978.297.766),,,-5760573195121.0,-483978297766.0,
+24,24,24,"Tiền thu hồi cho vay, bán lại công cụ nợ của đơn vị khác",5.760.573.195.121,930.700.431.519,,,5760573195121.0,930700431519.0,
+25,25,25,Tiền chi đầu tư góp vốn vào đơn vị khác,(5.628.209.000.000),(581.252.587.801),,,-5628209000000.0,-581252587801.0,
+26,26,26,Tiền thu hồi đầu tư góp vốn vào đơn vị khác,339.000.000.000,1.770.227.397.261,,,339000000000.0,1770227397261.0,
+27,27,27,"Tiền thu lãi cho vay, cổ tức và lợi nhuận được chia",173.067.744.843,1.253.246.542.216,,,173067744843.0,1253246542216.0,
+30,30,30,Lưu chuyển tiền thuần (sử dụng vào)/từ hoạt động đầu tư,,(5.149.187.907.685),2.787.054.569.526,,,-5149187907685.0,2787054569526.0

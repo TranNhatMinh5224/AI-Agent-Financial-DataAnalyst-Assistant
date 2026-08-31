@@ -1,0 +1,23 @@
+﻿row_label_raw,row_label_full,col_0,col_1,Thuyết minh,2015 Triệu VND,2014 Triệu VND,numeric__col_1,numeric__Thuyết minh,numeric__2015 Triệu VND,numeric__2014 Triệu VND
+I,I,I,Thu nhập lãi và các khoản thu nhập tương tự,25,13.537.628,13.644.506,,25.0,13537628.0,13644506.0
+2,2,2,Chỉ phí lãi và các chi phí tương tự,25,(6.219.098),(6.608.529),,25.0,-6219098.0,-6608529.0
+I,I,I,Thu nhập lãi thuần,25,7.318.530,7.035.977,,25.0,7318530.0,7035977.0
+3,3,3,Thu nhập từ hoạt động dịch vụ,26,1.527.970,912.290,,26.0,1527970.0,912290.0
+4,4,4,Chỉ phí hoạt động dịch vụ,26,(984.132),(457.790),,26.0,-984132.0,-457790.0
+II,II,II,Lãi thuần từ hoạt động dịch vụ,26,543.838,454.500,,26.0,543838.0,454500.0
+III,III,III,Lãi thuần từ hoạt động kinh doanh ngoại hối,27,159.048,89.835,,27.0,159048.0,89835.0
+IV,IV,IV,"Lãi thuần từ mua bán chứng khoán kinh doanh,chứng khoán đầu tư và góp vốn, đầu tư dài hạn",28,134.034,306.297,,28.0,134034.0,306297.0
+5,5,5,Thu nhập từ hoạt động khác,,611.262,360.645,,,611262.0,360645.0
+6,6,6,Chỉ phí hoạt động khác,,(86.523),(18.884),,,-86523.0,-18884.0
+VI,VI,VI,Lãi thuần từ hoạt động khác,29,524.739,341.761,,29.0,524739.0,341761.0
+VII,VII,VII,"Thu nhập từ góp vốn, mua cổ phần",30,91.679,78.524,,30.0,91679.0,78524.0
+VIII,VIII,VIII,Chỉ phí hoạt động,31,(3.449.129),(3.114.202),,31.0,-3449129.0,-3114202.0
+IX,IX,IX,Lợi nhuận thuần từ hoạt động kinh doanhtrước chỉ phí dự phòng rủi ro,,5.322.739,5.192.692,,,5322739.0,5192692.0
+X,X,X,Chỉ phí dự phòng rủi ro tín dụng,32,(2.102.068),(2.018.690),,32.0,-2102068.0,-2018690.0
+XI,XI,XI,Tổng lợi nhuận trước thuế,,3.220.671,3.174.002,,,3220671.0,3174002.0
+7,7,7,Chỉ phí thuế thu nhập doanh nghiệp hiện hành,33,(707.398),(668.351),,33.0,-707398.0,-668351.0
+8,8,8,Chỉ phí thuế thu nhập doanh nghiệp hoãn lại,33,(1.139),(2.664),,33.0,-1139.0,-2664.0
+XII,XII,XII,Chỉ phí thuế thu nhập doanh nghiệp,33,(708.537),(671.015),,33.0,-708537.0,-671015.0
+XIII,XIII,XIII,Lợi nhuận sau thuế,,2.512.134,2.502.987,,,2512134.0,2502987.0
+XIV,XIV,XIV,Lợi ích của cổ đông không kiểm soát,,16.141,27.018,,,16141.0,27018.0
+XV,XV,XV,Lãi cơ bản trên cổ phiếu (VND/cổ phiếu),34,1.902,2.073,,34.0,1902.0,2073.0

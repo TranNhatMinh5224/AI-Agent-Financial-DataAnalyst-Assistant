@@ -1,0 +1,16 @@
+﻿row_label_raw,row_label_full,Năm phát sinh,Có thể chuyển lỗ đến năm,Lỗ tính thuế (*),Đã chuyển lỗ đến ngày 31/12/2023,Không được chuyển lỗ,Chưa chuyển lỗ tại ngày 31/12/2023,numeric__Có thể chuyển lỗ đến năm,numeric__Lỗ tính thuế (*),numeric__Đã chuyển lỗ đến ngày 31/12/2023,numeric__Không được chuyển lỗ,numeric__Chưa chuyển lỗ tại ngày 31/12/2023
+Không giới hạn thời gian chuyển lỗ,Không giới hạn thời gian chuyển lỗ,Không giới hạn thời gian chuyển lỗ,Không giới hạn thời gian chuyển lỗ,Không giới hạn thời gian chuyển lỗ,Không giới hạn thời gian chuyển lỗ,Không giới hạn thời gian chuyển lỗ,Không giới hạn thời gian chuyển lỗ,,,,,
+2020,Không giới hạn thời gian chuyển lỗ > 2020,2020,,25.038.430.320,-,-,25.038.430.320,,25038430320.0,,,25038430320.0
+2021,Không giới hạn thời gian chuyển lỗ > 2021,2021,,28.896.206.640,-,-,28.896.206.640,,28896206640.0,,,28896206640.0
+2022,Không giới hạn thời gian chuyển lỗ > 2022,2022,,109.147.483.155,-,-,109.147.483.155,,109147483155.0,,,109147483155.0
+2023,Không giới hạn thời gian chuyển lỗ > 2023,2023,,66.917.888.462,-,-,66.917.888.462,,66917888462.0,,,66917888462.0
+Thời gian chuyển lỗ 10 năm,Thời gian chuyển lỗ 10 năm,Thời gian chuyển lỗ 10 năm,Thời gian chuyển lỗ 10 năm,Thời gian chuyển lỗ 10 năm,Thời gian chuyển lỗ 10 năm,Thời gian chuyển lỗ 10 năm,Thời gian chuyển lỗ 10 năm,,,,,
+2019,Thời gian chuyển lỗ 10 năm > 2019,2019,2029,12.614.415.693,-,-,12.614.415.693,2029.0,12614415693.0,,,12614415693.0
+2020,Thời gian chuyển lỗ 10 năm > 2020,2020,2030,12.659.024.198,-,-,12.659.024.198,2030.0,12659024198.0,,,12659024198.0
+2021,Thời gian chuyển lỗ 10 năm > 2021,2021,2031,25.119.317.787,-,-,25.119.317.787,2031.0,25119317787.0,,,25119317787.0
+2022,Thời gian chuyển lỗ 10 năm > 2022,2022,2032,17.161.556.534,-,-,17.161.556.534,2032.0,17161556534.0,,,17161556534.0
+2023,Thời gian chuyển lỗ 10 năm > 2023,2023,2033,15.896.837.529,-,-,15.896.837.529,2033.0,15896837529.0,,,15896837529.0
+Thời gian chuyển lỗ 5 năm,Thời gian chuyển lỗ 5 năm,Thời gian chuyển lỗ 5 năm,Thời gian chuyển lỗ 5 năm,Thời gian chuyển lỗ 5 năm,Thời gian chuyển lỗ 5 năm,Thời gian chuyển lỗ 5 năm,Thời gian chuyển lỗ 5 năm,,,,,
+2022,Thời gian chuyển lỗ 5 năm > 2022,2022,2027,201.894.908.121,(73.028.822.270),-,128.866.085.851,2027.0,201894908121.0,-73028822270.0,,128866085851.0
+2023,Thời gian chuyển lỗ 5 năm > 2023,2023,2028,41.036.630.429,-,-,41.036.630.429,2028.0,41036630429.0,,,41036630429.0
+TỔNG CỘNG,Thời gian chuyển lỗ 5 năm > TỔNG CỘNG,TỔNG CỘNG,,556.382.698.868,(73.028.822.270),-,483.353.876.598,,556382698868.0,-73028822270.0,,483353876598.0

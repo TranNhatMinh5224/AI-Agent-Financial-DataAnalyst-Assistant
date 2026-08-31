@@ -1,0 +1,14 @@
+﻿row_label_raw,row_label_full,CHỈ TIÊU > Năm bồi thường,Năm tồn thất > 2014 > 1,Năm tồn thất > 2015 > 2,Năm tồn thất > 2016 > 3,Năm tồn thất > Tổng số > 4,numeric__Năm tồn thất > 2014 > 1,numeric__Năm tồn thất > 2015 > 2,numeric__Năm tồn thất > 2016 > 3,numeric__Năm tồn thất > Tổng số > 4
+I. Số uốc tính chỉ bồi thường lũy kế,I. Số uốc tính chỉ bồi thường lũy kế,I. Số uốc tính chỉ bồi thường lũy kế,,,,,,,,
+1,I. Số uốc tính chỉ bồi thường lũy kế > 1,1,2.185.788,2.253.392,2.434.993,,2185788.0,2253392.0,2434993.0,
+2,I. Số uốc tính chỉ bồi thường lũy kế > 2,2,2.460.336,2.488.702,-,,2460336.0,2488702.0,,
+3,I. Số uốc tính chỉ bồi thường lũy kế > 3,3,2.554.107,-,-,,2554107.0,,,
+Số uốc tính chỉ bồi thường lũy kế đến năm hiện tại (1),I. Số uốc tính chỉ bồi thường lũy kế > Số uốc tính chỉ bồi thường lũy kế đến năm hiện tại (1),Số uốc tính chỉ bồi thường lũy kế đến năm hiện tại (1),2.554.107,2.488.702,2.434.993,7.477.802,2554107.0,2488702.0,2434993.0,7477802.0
+II. Số đã chỉ trả bồi thường lũy kế,II. Số đã chỉ trả bồi thường lũy kế,II. Số đã chỉ trả bồi thường lũy kế,,,,,,,,
+1,II. Số đã chỉ trả bồi thường lũy kế > 1,1,1.853.594,1.866.434,1.992.373,,1853594.0,1866434.0,1992373.0,
+2,II. Số đã chỉ trả bồi thường lũy kế > 2,2,2.321.785,2.407.885,-,,2321785.0,2407885.0,,
+3,II. Số đã chỉ trả bồi thường lũy kế > 3,3,2.508.158,-,-,,2508158.0,,,
+Số đã chỉ trả bồi thường lũy kế đến năm hiện tại (2),II. Số đã chỉ trả bồi thường lũy kế > Số đã chỉ trả bồi thường lũy kế đến năm hiện tại (2),Số đã chỉ trả bồi thường lũy kế đến năm hiện tại (2),2.508.158,2.407.885,1.992.373,6.908.416,2508158.0,2407885.0,1992373.0,6908416.0
+III. Tổng dự phòng bồi thường chưa giải quyết (3) = (1) - (2),II. Số đã chỉ trả bồi thường lũy kế > III. Tổng dự phòng bồi thường chưa giải quyết (3) = (1) - (2),III. Tổng dự phòng bồi thường chưa giải quyết (3) = (1) - (2),45.949,80.817,442.620,569.386,45949.0,80817.0,442620.0,569386.0
+IV. Uớc thăng dự hoặc thâm hụt dự phòng bồi thường (4),II. Số đã chỉ trả bồi thường lũy kế > IV. Uớc thăng dự hoặc thâm hụt dự phòng bồi thường (4),IV. Uớc thăng dự hoặc thâm hụt dự phòng bồi thường (4),(368.319),(235.310),-,(603.629),-368319.0,-235310.0,,-603629.0
+V. Tỷ lệ % thăng dư/(thâm hụt) dự phòng trên số ước tính chỉ bồi thường (5) = (4)/(1)*100%,V. Tỷ lệ % thăng dư/(thâm hụt) dự phòng trên số ước tính chỉ bồi thường (5) = (4)/(1)*100%,V. Tỷ lệ % thăng dư/(thâm hụt) dự phòng trên số ước tính chỉ bồi thường (5) = (4)/(1)*100%,(14%),(9%),,,,,,

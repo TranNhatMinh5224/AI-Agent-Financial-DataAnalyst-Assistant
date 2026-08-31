@@ -1,0 +1,23 @@
+﻿row_label_raw,row_label_full,"TĂNG, GIĂM TÀI SĂN CÓ ĐỊNH THUÊ TÀI CHÍNH","TĂNG, GIĂM TÀI SĂN CÓ ĐỊNH THUÊ TÀI CHÍNH_1","TĂNG, GIĂM TÀI SĂN CÓ ĐỊNH THUÊ TÀI CHÍNH_2","TĂNG, GIĂM TÀI SĂN CÓ ĐỊNH THUÊ TÀI CHÍNH_3","TĂNG, GIĂM TÀI SĂN CÓ ĐỊNH THUÊ TÀI CHÍNH_4","TĂNG, GIĂM TÀI SĂN CÓ ĐỊNH THUÊ TÀI CHÍNH_5","TĂNG, GIĂM TÀI SĂN CÓ ĐỊNH THUÊ TÀI CHÍNH_6","numeric__TĂNG, GIĂM TÀI SĂN CÓ ĐỊNH THUÊ TÀI CHÍNH_1","numeric__TĂNG, GIĂM TÀI SĂN CÓ ĐỊNH THUÊ TÀI CHÍNH_2","numeric__TĂNG, GIĂM TÀI SĂN CÓ ĐỊNH THUÊ TÀI CHÍNH_3","numeric__TĂNG, GIĂM TÀI SĂN CÓ ĐỊNH THUÊ TÀI CHÍNH_4","numeric__TĂNG, GIĂM TÀI SĂN CÓ ĐỊNH THUÊ TÀI CHÍNH_5","numeric__TĂNG, GIĂM TÀI SĂN CÓ ĐỊNH THUÊ TÀI CHÍNH_6"
+Chỉ tiêu,Chỉ tiêu,Chỉ tiêu,"Nhà cửa, vật kiến trúc","Máy móc, thiết bị","Phương tiện vận tải, truyền dẫn",Thiết bị quản lý,TSCĐ khác,Cộng,,,,,,
+I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,,,,,,
+1. Số dư đầu kỳ,I. Nguyên giá > 1. Số dư đầu kỳ,1. Số dư đầu kỳ,,4.544.451.000,7.687.760.000,,,12.232.211.000,,4544451000.0,7687760000.0,,,12232211000.0
+2. Số tăng trong kỳ,2. Số tăng trong kỳ,2. Số tăng trong kỳ,2. Số tăng trong kỳ,2. Số tăng trong kỳ,2. Số tăng trong kỳ,2. Số tăng trong kỳ,2. Số tăng trong kỳ,2. Số tăng trong kỳ,,,,,,
+- Mua trong kỳ,- Mua trong kỳ,- Mua trong kỳ,,,,,,,,,,,,
+- Tăng khác,- Tăng khác,- Tăng khác,,,,,,,,,,,,
+3. Số giảm trong kỳ,3. Số giảm trong kỳ,3. Số giảm trong kỳ,3. Số giảm trong kỳ,3. Số giảm trong kỳ,3. Số giảm trong kỳ,3. Số giảm trong kỳ,3. Số giảm trong kỳ,3. Số giảm trong kỳ,,,,,,
+- Chuyên sang BDS đầu tư,- Chuyên sang BDS đầu tư,- Chuyên sang BDS đầu tư,,,,,,,,,,,,
+"- Thanh lý, nhượng bán","- Thanh lý, nhượng bán","- Thanh lý, nhượng bán",,,,,,,,,,,,
+- Giảm khác,- Giảm khác,- Giảm khác,,,,,,,,,,,,
+4. Số dư cuối kỳ,- Giảm khác > 4. Số dư cuối kỳ,4. Số dư cuối kỳ,,4.544.451.000,7.687.760.000,,,12.232.211.000,,4544451000.0,7687760000.0,,,12232211000.0
+II. Giá trị hao mòn luỹ kế,II. Giá trị hao mòn luỹ kế,II. Giá trị hao mòn luỹ kế,II. Giá trị hao mòn luỹ kế,II. Giá trị hao mòn luỹ kế,II. Giá trị hao mòn luỹ kế,II. Giá trị hao mòn luỹ kế,II. Giá trị hao mòn luỹ kế,II. Giá trị hao mòn luỹ kế,,,,,,
+1. Số dư đầu năm,II. Giá trị hao mòn luỹ kế > 1. Số dư đầu năm,1. Số dư đầu năm,,492.315.525,1.108.284.668,,,1.600.600.193,,492315525.0,1108284668.0,,,1600600193.0
+2. Khấu hao trong kỳ,II. Giá trị hao mòn luỹ kế > 2. Khấu hao trong kỳ,2. Khấu hao trong kỳ,,454.445.100,768.776.004,,,1.223.221.104,,454445100.0,768776004.0,,,1223221104.0
+- Khấu hao trong kỳ,II. Giá trị hao mòn luỹ kế > - Khấu hao trong kỳ,- Khấu hao trong kỳ,,454.445.100,768.776.004,,,1.223.221.104,,454445100.0,768776004.0,,,1223221104.0
+3. Giảm trong kỳ,3. Giảm trong kỳ,3. Giảm trong kỳ,3. Giảm trong kỳ,3. Giảm trong kỳ,3. Giảm trong kỳ,3. Giảm trong kỳ,3. Giảm trong kỳ,3. Giảm trong kỳ,,,,,,
+- Chuyên sang BDS đầu tư,- Chuyên sang BDS đầu tư,- Chuyên sang BDS đầu tư,,,,,,,,,,,,
+"- Thanh lý, nhượng bán","- Thanh lý, nhượng bán","- Thanh lý, nhượng bán",,,,,,,,,,,,
+4. Số dư cuối kỳ,"- Thanh lý, nhượng bán > 4. Số dư cuối kỳ",4. Số dư cuối kỳ,,946.760.625,1.877.060.672,,,2.823.821.297,,946760625.0,1877060672.0,,,2823821297.0
+III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,,,,,,
+1. Tại ngày đầu năm,III. Giá trị còn lại > 1. Tại ngày đầu năm,1. Tại ngày đầu năm,,4.052.135.475,6.579.475.332,,,10.631.610.807,,4052135475.0,6579475332.0,,,10631610807.0
+2. Tại ngày cuối kỳ,III. Giá trị còn lại > 2. Tại ngày cuối kỳ,2. Tại ngày cuối kỳ,,3.597.690.375,5.810.699.328,,,9.408.389.703,,3597690375.0,5810699328.0,,,9408389703.0

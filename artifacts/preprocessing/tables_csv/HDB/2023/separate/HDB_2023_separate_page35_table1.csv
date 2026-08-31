@@ -1,0 +1,18 @@
+﻿row_label_raw,row_label_full,col_0,Ngày 31 tháng 12năm 2023Triệu đồng,Ngày 31 tháng 12năm 2022Triệu đồng,numeric__Ngày 31 tháng 12năm 2023Triệu đồng,numeric__Ngày 31 tháng 12năm 2022Triệu đồng
+a. Chứng khoán Nợ,a. Chứng khoán Nợ,a. Chứng khoán Nợ,a. Chứng khoán Nợ,a. Chứng khoán Nợ,,
+"Chứng khoán Chính phủ, chính quyền địa phương","a. Chứng khoán Nợ > Chứng khoán Chính phủ, chính quyền địa phương","Chứng khoán Chính phủ, chính quyền địa phương",13.040.960,14.685.119,13040960.0,14685119.0
+Chứng khoán Nợ do các TCTD kháctrong nước phát hành,a. Chứng khoán Nợ > Chứng khoán Nợ do các TCTD kháctrong nước phát hành,Chứng khoán Nợ do các TCTD kháctrong nước phát hành,10.190.526,15.375.189,10190526.0,15375189.0
+Chứng khoán Nợ do các TCKT trong nướcphát hành,a. Chứng khoán Nợ > Chứng khoán Nợ do các TCKT trong nướcphát hành,Chứng khoán Nợ do các TCKT trong nướcphát hành,8.354.980,4.300.777,8354980.0,4300777.0
+Chứng khoán Nợ nước ngoài,Chứng khoán Nợ nước ngoài,Chứng khoán Nợ nước ngoài,-,-,,
+,,,31.586.466,34.361.085,31586466.0,34361085.0
+b. Chứng khoán Vốn,b. Chứng khoán Vốn,b. Chứng khoán Vốn,b. Chứng khoán Vốn,b. Chứng khoán Vốn,,
+Chứng khoán Vốn do các TCTD kháctrong nước phát hành,Chứng khoán Vốn do các TCTD kháctrong nước phát hành,Chứng khoán Vốn do các TCTD kháctrong nước phát hành,-,-,,
+Chứng khoán Vốn do các TCKTtrong nước phát hành,Chứng khoán Vốn do các TCTD kháctrong nước phát hành > Chứng khoán Vốn do các TCKTtrong nước phát hành,Chứng khoán Vốn do các TCKTtrong nước phát hành,285.222,1.013.973,285222.0,1013973.0
+Chứng khoán Vốn nước ngoài,Chứng khoán Vốn do các TCTD kháctrong nước phát hành > Chứng khoán Vốn nước ngoài,Chứng khoán Vốn nước ngoài,285.222,1.013.973,285222.0,1013973.0
+,,,31.871.688,35.375.058,31871688.0,35375058.0
+c. Dự phòng rủi ro chứng khoán sẵn sàng để bán,c. Dự phòng rủi ro chứng khoán sẵn sàng để bán,c. Dự phòng rủi ro chứng khoán sẵn sàng để bán,c. Dự phòng rủi ro chứng khoán sẵn sàng để bán,c. Dự phòng rủi ro chứng khoán sẵn sàng để bán,,
+- Dự phòng giảm giá,- Dự phòng giảm giá,- Dự phòng giảm giá,-,-,,
+- Dự phòng chung,- Dự phòng giảm giá > - Dự phòng chung,- Dự phòng chung,(62.662),(30.004),-62662.0,-30004.0
+- Dự phòng cụ thể,- Dự phòng giảm giá > - Dự phòng cụ thể,- Dự phòng cụ thể,(9.000),-,-9000.0,
+,,,(71.662),(30.004),-71662.0,-30004.0
+Giá trị thuần,- Dự phòng giảm giá > Giá trị thuần,Giá trị thuần,31.800.026,35.345.054,31800026.0,35345054.0

@@ -1,0 +1,25 @@
+﻿row_label_raw,row_label_full,col_0,Đơn vị tính: VND > Giá trị hợp lý được xác địnhtạm thời tại ngày mua,numeric__Đơn vị tính: VND > Giá trị hợp lý được xác địnhtạm thời tại ngày mua
+Tài sản,Tài sản,Tài sản,Tài sản,
+Tiền và các khoản đương tiền,Tài sản > Tiền và các khoản đương tiền,Tiền và các khoản đương tiền,66.046.424.029,66046424029.0
+Các khoản phải thu ngắn hạn,Tài sản > Các khoản phải thu ngắn hạn,Các khoản phải thu ngắn hạn,130.561.682.260,130561682260.0
+Hàng tồn kho,Tài sản > Hàng tồn kho,Hàng tồn kho,68.565.863.466,68565863466.0
+Tài sản ngắn hạn khác,Tài sản > Tài sản ngắn hạn khác,Tài sản ngắn hạn khác,59.581.793.335,59581793335.0
+Tài sản cố định hữu hình,Tài sản > Tài sản cố định hữu hình,Tài sản cố định hữu hình,107.145.374.092,107145374092.0
+Tài sản dài hạn khác,Tài sản > Tài sản dài hạn khác,Tài sản dài hạn khác,13.863.767.340,13863767340.0
+,,,445.764.904.522,445764904522.0
+Nợ phải trả,Nợ phải trả,Nợ phải trả,Nợ phải trả,
+Phải trả người bán,Nợ phải trả > Phải trả người bán,Phải trả người bán,55.295.476.210,55295476210.0
+Vay và nợ,Nợ phải trả > Vay và nợ,Vay và nợ,36.910.406.128,36910406128.0
+Phải trả khác,Nợ phải trả > Phải trả khác,Phải trả khác,47.229.668.291,47229668291.0
+,,,139.435.550.629,139435550629.0
+Tổng tài sản thuần theo giá trị tạm tính [a],Nợ phải trả > Tổng tài sản thuần theo giá trị tạm tính [a],Tổng tài sản thuần theo giá trị tạm tính [a],306.329.353.893,306329353893.0
+Cổ đông không kiểm soát [b],Nợ phải trả > Cổ đông không kiểm soát [b],Cổ đông không kiểm soát [b],114.518.594.087,114518594087.0
+Lợi thế thương mại từ hợp nhất kinh doanh(Thuyết minh số 17) [c],Nợ phải trả > Lợi thế thương mại từ hợp nhất kinh doanh(Thuyết minh số 17) [c],Lợi thế thương mại từ hợp nhất kinh doanh(Thuyết minh số 17) [c],132.944.068.049,132944068049.0
+Tổng giá phí hợp nhất kinh doanh [d] = [a - b + c],Nợ phải trả > Tổng giá phí hợp nhất kinh doanh [d] = [a - b + c],Tổng giá phí hợp nhất kinh doanh [d] = [a - b + c],324.754.827.855,324754827855.0
+Trong đó:,Trong đó:,Trong đó:,Trong đó:,
+Giá phí thanh toán bằng tiền tại ngày mua,Trong đó: > Giá phí thanh toán bằng tiền tại ngày mua,Giá phí thanh toán bằng tiền tại ngày mua,169.389.253.325,169389253325.0
+Giá trị hợp lý tạm tính của khoản đầu tư nằm giữ trước ngàymua chi phối,Trong đó: > Giá trị hợp lý tạm tính của khoản đầu tư nằm giữ trước ngàymua chi phối,Giá trị hợp lý tạm tính của khoản đầu tư nằm giữ trước ngàymua chi phối,155.365.574.530,155365574530.0
+Thông tin lưu chuyển tiền tệ trong năm từ việc mua công ty con,Thông tin lưu chuyển tiền tệ trong năm từ việc mua công ty con,Thông tin lưu chuyển tiền tệ trong năm từ việc mua công ty con,Thông tin lưu chuyển tiền tệ trong năm từ việc mua công ty con,
+Tiền thu về từ công ty con,Thông tin lưu chuyển tiền tệ trong năm từ việc mua công ty con > Tiền thu về từ công ty con,Tiền thu về từ công ty con,66.046.424.029,66046424029.0
+Tiền chỉ để mua công ty con,Thông tin lưu chuyển tiền tệ trong năm từ việc mua công ty con > Tiền chỉ để mua công ty con,Tiền chỉ để mua công ty con,(169.389.253.325),-169389253325.0
+Tổng tiền thuần đã thu về từ nghiệp vụ mua,Thông tin lưu chuyển tiền tệ trong năm từ việc mua công ty con > Tổng tiền thuần đã thu về từ nghiệp vụ mua,Tổng tiền thuần đã thu về từ nghiệp vụ mua,(103.342.829.296),-103342829296.0

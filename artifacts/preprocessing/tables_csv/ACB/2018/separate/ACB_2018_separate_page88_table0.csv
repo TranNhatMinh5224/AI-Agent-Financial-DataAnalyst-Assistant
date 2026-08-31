@@ -1,0 +1,16 @@
+﻿row_label_raw,row_label_full,col_0,Miền BắcTriệu VND,Miền TrungTriệu VND,Miền NamTriệu VND,Loại trừTriệu VND,TổngTriệu VND,numeric__Miền BắcTriệu VND,numeric__Miền TrungTriệu VND,numeric__Miền NamTriệu VND,numeric__Loại trừTriệu VND,numeric__TổngTriệu VND
+Doanh thu,Doanh thu,Doanh thu,Doanh thu,Doanh thu,Doanh thu,Doanh thu,Doanh thu,,,,,
+1. Doanh thu lãi,Doanh thu > 1. Doanh thu lãi,1. Doanh thu lãi,5.362.670,3.241.193,41.172.630,(29.700.252),20.076.241,5362670.0,3241193.0,41172630.0,-29700252.0,20076241.0
+Doanh thu lãi từ khách hàng bên ngoài,Doanh thu > Doanh thu lãi từ khách hàng bên ngoài,Doanh thu lãi từ khách hàng bên ngoài,2.813.380,2.340.829,14.922.032,-,20.076.241,2813380.0,2340829.0,14922032.0,,20076241.0
+Doanh thu lãi từ nội bộ,Doanh thu > Doanh thu lãi từ nội bộ,Doanh thu lãi từ nội bộ,2.549.290,900.364,26.250.598,(29.700.252),-,2549290.0,900364.0,26250598.0,-29700252.0,
+2. Doanh thu từ hoạt động dịch vụ,Doanh thu > 2. Doanh thu từ hoạt động dịch vụ,2. Doanh thu từ hoạt động dịch vụ,147.641,84.620,1.181.090,-,1.413.351,147641.0,84620.0,1181090.0,,1413351.0
+3. Doanh thu từ hoạt động kinh doanh khác,Doanh thu > 3. Doanh thu từ hoạt động kinh doanh khác,3. Doanh thu từ hoạt động kinh doanh khác,32.768,21.647,1.830.552,-,1.884.967,32768.0,21647.0,1830552.0,,1884967.0
+Chi phí,Chi phí,Chi phí,Chi phí,Chi phí,Chi phí,Chi phí,Chi phí,,,,,
+1. Chi phí lãi,Chi phí > 1. Chi phí lãi,1. Chi phí lãi,(4.149.969),(2.402.918),(34.975.199),29.700.252,(11.827.834),-4149969.0,-2402918.0,-34975199.0,29700252.0,-11827834.0
+Chi phí lãi khách hàng bên ngoài,Chi phí > Chi phí lãi khách hàng bên ngoài,Chi phí lãi khách hàng bên ngoài,(1.935.513),(704.401),(9.187.920),-,(11.827.834),-1935513.0,-704401.0,-9187920.0,,-11827834.0
+Chi phí lãi nội bộ,Chi phí > Chi phí lãi nội bộ,Chi phí lãi nội bộ,(2.214.456),(1.698.517),(25.787.279),29.700.252,-,-2214456.0,-1698517.0,-25787279.0,29700252.0,
+2. Chi phí khấu hao tài sản cố định,Chi phí > 2. Chi phí khấu hao tài sản cố định,2. Chi phí khấu hao tài sản cố định,(12.423),(17.891),(246.675),-,(276.989),-12423.0,-17891.0,-246675.0,,-276989.0
+3. Chi phí liên quan trực tiếp đến hoạt động kinh doanh,Chi phí > 3. Chi phí liên quan trực tiếp đến hoạt động kinh doanh,3. Chi phí liên quan trực tiếp đến hoạt động kinh doanh,(682.417),(512.435),(5.002.551),-,(6.197.403),-682417.0,-512435.0,-5002551.0,,-6197403.0
+Kết quả kinh doanh trước chi phí dự phòng rủi ro,Chi phí > Kết quả kinh doanh trước chi phí dự phòng rủi ro,Kết quả kinh doanh trước chi phí dự phòng rủi ro,698.270,414.216,3.959.847,-,5.072.333,698270.0,414216.0,3959847.0,,5072333.0
+Chi phí dự phòng rủi ro,Chi phí > Chi phí dự phòng rủi ro,Chi phí dự phòng rủi ro,(428.453),(55.984),(1.981.849),-,(2.466.286),-428453.0,-55984.0,-1981849.0,,-2466286.0
+Kết quả kinh doanh bộ phận,Chi phí > Kết quả kinh doanh bộ phận,Kết quả kinh doanh bộ phận,269.817,358.232,1.977.998,-,2.606.047,269817.0,358232.0,1977998.0,,2606047.0

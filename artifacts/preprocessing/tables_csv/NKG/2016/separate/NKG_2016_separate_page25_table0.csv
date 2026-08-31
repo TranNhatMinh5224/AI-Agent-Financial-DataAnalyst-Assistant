@@ -1,0 +1,12 @@
+﻿row_label_raw,row_label_full,col_0,Số cuối năm,Số đầu năm,numeric__Số cuối năm,numeric__Số đầu năm
+- Tiền,- Tiền,- Tiền,1.291.030.741,498.851.258,1291030741.0,498851258.0
++ Tiền mặt (VND),+ Tiền mặt (VND),+ Tiền mặt (VND),1.291.030.741,498.851.258,1291030741.0,498851258.0
++ Tiền mặt (USD),+ Tiền mặt (USD),+ Tiền mặt (USD),,,,
+- Tiền gửi ngân hàng,+ Tiền mặt (USD) > - Tiền gửi ngân hàng,- Tiền gửi ngân hàng,22.504.957.030,50.976.235.007,22504957030.0,50976235007.0
++ Tiền gửi (VND),+ Tiền mặt (USD) > + Tiền gửi (VND),+ Tiền gửi (VND),6.678.084.598,7.576.072.135,6678084598.0,7576072135.0
++ Tiền gửi (USD),+ Tiền mặt (USD) > + Tiền gửi (USD),+ Tiền gửi (USD),15.826.872.432,43.400.162.872,15826872432.0,43400162872.0
+- Tiền đang chuyển,- Tiền đang chuyển,- Tiền đang chuyển,,,,
+- Các khoản tương đương tiền,- Tiền đang chuyển > - Các khoản tương đương tiền,- Các khoản tương đương tiền,150.000.000.000,-,150000000000.0,
++ Tiền gửi có kỳ hạn,+ Tiền gửi có kỳ hạn,+ Tiền gửi có kỳ hạn,,,,
+Ngân hàng BIDV,+ Tiền gửi có kỳ hạn > Ngân hàng BIDV,Ngân hàng BIDV,150.000.000.000,,150000000000.0,
+Cộng,+ Tiền gửi có kỳ hạn > Cộng,Cộng,173.795.987.771,51.475.086.265,173795987771.0,51475086265.0

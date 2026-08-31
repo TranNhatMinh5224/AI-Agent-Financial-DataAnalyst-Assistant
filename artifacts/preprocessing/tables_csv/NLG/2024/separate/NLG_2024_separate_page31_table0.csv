@@ -1,0 +1,14 @@
+﻿row_label_raw,row_label_full,col_0,Số đầu năm,Tăng trong năm,Giảm trong năm,VND Số cuối năm,numeric__Số đầu năm,numeric__Tăng trong năm,numeric__Giảm trong năm,numeric__VND Số cuối năm
+Phải thu,Phải thu,Phải thu,Phải thu,Phải thu,Phải thu,Phải thu,,,,
+Thuế giá trị gia tăng,Phải thu > Thuế giá trị gia tăng,Thuế giá trị gia tăng,96.806.934.133,267.428.568.701,(358.873.529.316),5.361.973.518,96806934133.0,267428568701.0,-358873529316.0,5361973518.0
+Các loại thuế khác,Phải thu > Các loại thuế khác,Các loại thuế khác,-,200.000.000,-,200.000.000,,200000000.0,,200000000.0
+TỔNG CỘNG,Phải thu > TỔNG CỘNG,TỔNG CỘNG,96.806.934.133,267.628.568.701,(358.873.529.316),5.561.973.518,96806934133.0,267628568701.0,-358873529316.0,5561973518.0
+Phải trả,Phải trả,Phải trả,Phải trả,Phải trả,Phải trả,Phải trả,,,,
+"Thuế thu nhập doanh nghiệp (""TNDN"")","Phải trả > Thuế thu nhập doanh nghiệp (""TNDN"")","Thuế thu nhập doanh nghiệp (""TNDN"")",30.193.793.555,273.415.289.567,(33.207.110.158),270.401.972.964,30193793555.0,273415289567.0,-33207110158.0,270401972964.0
+Trong đó:,Trong đó:,Trong đó:,Trong đó:,Trong đó:,Trong đó:,Trong đó:,,,,
+Thuế TNDN hiện hành,Trong đó: > Thuế TNDN hiện hành,Thuế TNDN hiện hành,25.936.509.043,260.294.702.572,(15.829.238.651),270.401.972.964,25936509043.0,260294702572.0,-15829238651.0,270401972964.0
+Trả trước thuế TNDN theo tiến độ thanh toán của khách hàng,Trong đó: > Trả trước thuế TNDN theo tiến độ thanh toán của khách hàng,Trả trước thuế TNDN theo tiến độ thanh toán của khách hàng,4.257.284.512,13.120.586.995,(17.377.871.507),-,4257284512.0,13120586995.0,-17377871507.0,
+Thuế thu nhập cá nhân,Trong đó: > Thuế thu nhập cá nhân,Thuế thu nhập cá nhân,40.071.178.590,54.340.317.621,(67.690.262.875),26.721.233.336,40071178590.0,54340317621.0,-67690262875.0,26721233336.0
+Thuế giá trị gia tăng (*),Trong đó: > Thuế giá trị gia tăng (*),Thuế giá trị gia tăng (*),-,638.990.519.307,(638.990.519.307),-,,638990519307.0,-638990519307.0,
+Các loại thuế khác,Trong đó: > Các loại thuế khác,Các loại thuế khác,107.349.336,15.123.994.298,(15.231.343.634),-,107349336.0,15123994298.0,-15231343634.0,
+TỔNG CỘNG,Trong đó: > TỔNG CỘNG,TỔNG CỘNG,70.372.321.481,981.870.120.793,(755.119.235.974),297.123.206.300,70372321481.0,981870120793.0,-755119235974.0,297123206300.0

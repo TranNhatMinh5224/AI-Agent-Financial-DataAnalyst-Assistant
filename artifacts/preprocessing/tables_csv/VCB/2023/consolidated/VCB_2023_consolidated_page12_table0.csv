@@ -1,0 +1,19 @@
+﻿row_label_raw,row_label_full,STT,Chỉ tiêu,Thuyết minh,2023 Triệu VND,2022 Triệu VND,numeric__Chỉ tiêu,numeric__Thuyết minh,numeric__2023 Triệu VND,numeric__2022 Triệu VND
+1,1,1,Thu nhập lãi và các khoản thu nhập tương tự,23,108.122.278,88.112.700,,23.0,108122278.0,88112700.0
+2,2,2,Chi phí lãi và các chi phí tương tự,24,(54.501.409),(34.866.222),,24.0,-54501409.0,-34866222.0
+I,I,I,Thu nhập lãi thuần,,53.620.869,53.246.478,,,53620869.0,53246478.0
+3,3,3,Thu nhập từ hoạt động dịch vụ,,12.632.739,12.425.007,,,12632739.0,12425007.0
+4,4,4,Chi phí hoạt động dịch vụ,,(6.853.016),(5.585.907),,,-6853016.0,-5585907.0
+II,II,II,Lãi thuần từ hoạt động dịch vụ,25,5.779.723,6.839.100,,25.0,5779723.0,6839100.0
+III,III,III,Lãi thuần từ hoạt động kinh doanh ngoại hối,26,5.660.028,5.768.445,,26.0,5660028.0,5768445.0
+IV,IV,IV,Lãi/(lỗ) thuần từ mua bán chứng khoán kinh doanh,27,124.217,(115.194),,27.0,124217.0,-115194.0
+V,V,V,Lãi thuần từ mua bán chứng khoán đầu tư,28,-,81.595,,28.0,,81595.0
+5,5,5,Thu nhập từ hoạt động khác,,4.050.144,2.928.339,,,4050144.0,2928339.0
+6,6,6,Chi phí hoạt động khác,,(1.777.975),(874.378),,,-1777975.0,-874378.0
+VI,VI,VI,Lãi thuần từ hoạt động khác,29,2.272.169,2.053.961,,29.0,2272169.0,2053961.0
+VII,VII,VII,"Thu nhập từ góp vốn, mua cổ phần",30,266.456,208.436,,30.0,266456.0,208436.0
+,,,TỔNG THU NHẬP HOẠT ĐỘNG,,67.723.462,68.082.821,,,67723462.0,68082821.0
+VIII,VIII,VIII,CHI PHÍ HOẠT ĐỘNG,31,(21.914.899),(21.250.512),,31.0,-21914899.0,-21250512.0
+IX,IX,IX,Lợi nhuận thuần từ hoạt động kinh doanh trước chi phí dự phòng rủi ro tín dụng,,45.808.563,46.832.309,,,45808563.0,46832309.0
+X,X,X,Chi phí dự phòng rủi ro tín dụng,32,(4.564.876),(9.464.218),,32.0,-4564876.0,-9464218.0
+XI,XI,XI,TỔNG LỢI NHUẬN TRƯỚC THUẾ (MANG SANG TRANG SAU),,41.243.687,37.368.091,,,41243687.0,37368091.0

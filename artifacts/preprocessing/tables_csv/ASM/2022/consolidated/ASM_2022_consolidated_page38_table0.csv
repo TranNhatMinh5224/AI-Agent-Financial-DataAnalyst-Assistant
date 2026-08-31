@@ -1,0 +1,22 @@
+﻿row_label_raw,row_label_full,Chỉ tiêu,"Nhà cửa, vật kiến trúc","Máy móc, thiết bị","Phương tiện vận tải, truyền dẫn",Cộng,"numeric__Nhà cửa, vật kiến trúc","numeric__Máy móc, thiết bị","numeric__Phương tiện vận tải, truyền dẫn",numeric__Cộng
+I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,,,,
+1. Số dư đầu năm,I. Nguyên giá > 1. Số dư đầu năm,1. Số dư đầu năm,,295.929.921.370,16.442.057.444,312.371.978.814,,295929921370.0,16442057444.0,312371978814.0
+2. Số tăng trong năm,I. Nguyên giá > 2. Số tăng trong năm,2. Số tăng trong năm,11.070.071.709,347.880.946.102,,358.951.017.811,11070071709.0,347880946102.0,,358951017811.0
+- Thuê tài chính trong năm,I. Nguyên giá > - Thuê tài chính trong năm,- Thuê tài chính trong năm,11.070.071.709,347.880.946.102,,358.951.017.811,11070071709.0,347880946102.0,,358951017811.0
+- Tăng khác,- Tăng khác,- Tăng khác,,,,,,,,
+3. Số giảm trong năm,- Tăng khác > 3. Số giảm trong năm,3. Số giảm trong năm,,54.977.488.328,,54.977.488.328,,54977488328.0,,54977488328.0
+- Trả lại TSCĐ thuê tài chính,- Tăng khác > - Trả lại TSCĐ thuê tài chính,- Trả lại TSCĐ thuê tài chính,,54.977.488.328,,54.977.488.328,,54977488328.0,,54977488328.0
+- Giảm khác,- Giảm khác,- Giảm khác,,,,,,,,
+4. Số dư cuối năm,- Giảm khác > 4. Số dư cuối năm,4. Số dư cuối năm,11.070.071.709,588.833.379.144,16.442.057.444,616.345.508.297,11070071709.0,588833379144.0,16442057444.0,616345508297.0
+II. Giá trị hao mòn luỹ kế,II. Giá trị hao mòn luỹ kế,II. Giá trị hao mòn luỹ kế,II. Giá trị hao mòn luỹ kế,II. Giá trị hao mòn luỹ kế,II. Giá trị hao mòn luỹ kế,II. Giá trị hao mòn luỹ kế,,,,
+1. Số dư đầu năm,II. Giá trị hao mòn luỹ kế > 1. Số dư đầu năm,1. Số dư đầu năm,,61.734.948.364,1.166.201.538,62.901.149.902,,61734948364.0,1166201538.0,62901149902.0
+2. Khấu hao trong năm,II. Giá trị hao mòn luỹ kế > 2. Khấu hao trong năm,2. Khấu hao trong năm,2.376.858.627,54.494.092.487,2.486.310.216,59.357.261.330,2376858627.0,54494092487.0,2486310216.0,59357261330.0
+- Khấu hao trong năm,II. Giá trị hao mòn luỹ kế > - Khấu hao trong năm,- Khấu hao trong năm,2.376.858.627,54.494.092.487,2.486.310.216,59.357.261.330,2376858627.0,54494092487.0,2486310216.0,59357261330.0
+- Tăng khác,- Tăng khác,- Tăng khác,,,,,,,,
+3. Giảm trong năm,- Tăng khác > 3. Giảm trong năm,3. Giảm trong năm,,20.488.802.827,,20.488.802.827,,20488802827.0,,20488802827.0
+- Trả lại TSCĐ thuê tài chính,- Tăng khác > - Trả lại TSCĐ thuê tài chính,- Trả lại TSCĐ thuê tài chính,,20.488.802.827,,20.488.802.827,,20488802827.0,,20488802827.0
+- Giảm khác,- Giảm khác,- Giảm khác,,,,,,,,
+4. Số dư cuối năm,- Giảm khác > 4. Số dư cuối năm,4. Số dư cuối năm,2.376.858.627,95.740.238.024,3.652.511.754,101.769.608.405,2376858627.0,95740238024.0,3652511754.0,101769608405.0
+III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,,,,
+1. Tại ngày đầu năm,III. Giá trị còn lại > 1. Tại ngày đầu năm,1. Tại ngày đầu năm,,234.194.973.006,15.275.855.906,249.470.828.912,,234194973006.0,15275855906.0,249470828912.0
+2. Tại ngày cuối năm,III. Giá trị còn lại > 2. Tại ngày cuối năm,2. Tại ngày cuối năm,8.693.213.082,493.093.141.120,12.789.545.690,514.575.899.892,8693213082.0,493093141120.0,12789545690.0,514575899892.0

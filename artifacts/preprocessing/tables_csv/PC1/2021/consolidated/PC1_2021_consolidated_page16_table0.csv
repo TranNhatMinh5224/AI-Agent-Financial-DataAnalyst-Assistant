@@ -1,0 +1,24 @@
+﻿row_label_raw,row_label_full,STT,Tên Công ty,Hoạt động chính,Địa chỉ,Tỷ lệ % quyền biểu quyếtvà tỷ lệ % sở hữu,Tỷ lệ % quyền biểu quyếtvà tỷ lệ % sở hữu_1,numeric__Tên Công ty,numeric__Hoạt động chính,numeric__Địa chỉ,numeric__Tỷ lệ % quyền biểu quyếtvà tỷ lệ % sở hữu,numeric__Tỷ lệ % quyền biểu quyếtvà tỷ lệ % sở hữu_1
+STT,STT,STT,Tên Công ty,Hoạt động chính,Địa chỉ,31/12/2021,1/1/2021,,,,,
+Công ty con cấp 1,Công ty con cấp 1,Công ty con cấp 1,Công ty con cấp 1,Công ty con cấp 1,Công ty con cấp 1,Công ty con cấp 1,Công ty con cấp 1,,,,,
+1,Công ty con cấp 1 > 1,1,Công ty TNHH MTV Xây lắp Điện I - Đại Mỗ,Xây lắp điện,Hà Nội,100%,100%,,,,1.0,1.0
+2,2,2,Công ty TNHH MTV Xây lắp Điện I - Miền Nam,Xây lắp điện,Thành phố,,,,,,,
+,,,,,Hồ Chí Minh,100%,100%,,,,1.0,1.0
+3,2 > 3,3,Công ty TNHH MTV Xây lắp Điện I - Miền Bắc,Xây lắp điện,Hà Nội,100%,100%,,,,1.0,1.0
+4,2 > 4,4,Công ty TNHH MTV Xây lắp Điện I - Mỹ Đình,Xây lắp điện,Hà Nội,100%,100%,,,,1.0,1.0
+5,2 > 5,5,Công ty TNHH MTV Xây lắp Điện I - Từ Liêm,Xây lắp điện,Hà Nội,100%,100%,,,,1.0,1.0
+6,2 > 6,6,Công ty TNHH MTV Xây lắp Điện I - Hà Đông,Xây lắp điện,Hà Nội,100%,100%,,,,1.0,1.0
+7,2 > 7,7,Công ty TNHH MTV Xây lắp Điện I - Nàng Hương,Cung cấp dịch vụ,Hà Nội,100%,100%,,,,1.0,1.0
+8,2 > 8,8,Công ty TNHH MTV Xây lắp Điện I - Hoàng Mai,Xây lắp điện,Hà Nội,100%,100%,,,,1.0,1.0
+9,2 > 9,9,Công ty TNHH MTV Xây lắp Điện I - Ninh Bình,Xây lắp điện,Ninh Bình,100%,100%,,,,1.0,1.0
+10,2 > 10,10,Công ty TNHH Chế tạo Cột thép Đông Anh,"Sản xuất các loại cột thép mạ kẽm, kết cấu thép, phụ tùng phụ kiện có liên quan, dịch vụ về mạ; mua bán thép, kẽm, vật tư phục vụ sản xuất, chế tạo kết cấu thép; mua bán vật tư, thiết bị kỹ thuật điện",Hà Nội,"90,00%","90,00%",,,,0.9,0.9
+11,2 > 11,11,Công ty Cổ phần Thủy điện Trung Thu,Sản xuất và kinh doanh điện năng,Điện Biên,"60,00%","60,00%",,,,0.6,0.6
+12,2 > 12,12,Công ty Cổ phần Đầu tư Địa ốc Mỹ Đình,"Đầu tư, kinh doanh bất động sản",Hà Nội,"99,39%","99,39%",,,,0.9939,0.9939
+13,2 > 13,13,Công ty Cổ phần Lắp máy Công nghiệp Việt Nam,Lắp đặt máy móc và thiết bị công nghiệp,Hà Nội,"51,00%","51,00%",,,,0.51,0.51
+14,2 > 14,14,Công ty Cổ phần Cơ khí Ô tô Hòa Bình,Dầu tư kinh doanh bất động sản,Hà Nội,"99,83%","99,88%",,,,0.9983,0.9987999999999999
+15,2 > 15,15,Công ty Cổ phần Năng lượng Bảo Lâm,Quản lý sau đầu tư thủy điện và điện gió,Cao Bằng,"99,90%","99,90%",,,,0.9990000000000001,0.9990000000000001
+16,2 > 16,16,Công ty Cổ phần Đầu tư Năng lượng Miền Bắc,Sản xuất và kinh doanh điện năng,Cao Bằng,"51,00%","51,00%",,,,0.51,0.51
+17,2 > 17,17,Công ty Cổ phần Thương mại Đầu tư Tiến Bộ,Đầu tư kinh doanh bất động sản,Hà Nội,"99,95%","99,95%",,,,0.9995,0.9995
+18,2 > 18,18,Công ty Cổ phần Điện gió Liên Lập,Sản xuất điện tử năng lượng gió,Quảng Trị,"55,54%","55,54%",,,,0.5554,0.5554
+19,2 > 19,19,Công ty Cổ phần Điện gió Phong Huy,Sản xuất điện tử năng lượng gió,Quảng Trị,"54,70%","54,70%",,,,0.547,0.547
+20,2 > 20,20,Công ty Cổ phần Điện gió Phong Nguyên,Sản xuất điện tử năng lượng gió,Quảng Trị,"54,73%","54,73%",,,,0.5473,0.5473

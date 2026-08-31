@@ -1,0 +1,22 @@
+﻿row_label_raw,row_label_full,CHỈ TIÊU,Thuyết minh,31/12/2020,01/01/2020,numeric__Thuyết minh,numeric__31/12/2020,numeric__01/01/2020
+X. Tài sản cố định,X. Tài sản cố định,X. Tài sản cố định,,207.724.906.906,196.517.738.805,,207724906906.0,196517738805.0
+1. Tài sản cố định hữu hình,1. Tài sản cố định hữu hình,1. Tài sản cố định hữu hình,V.9,72.773.496.212,80.444.595.262,,72773496212.0,80444595262.0
+a. Nguyên giá TSCĐ,a. Nguyên giá TSCĐ,a. Nguyên giá TSCĐ,,295.165.480.544,309.541.716.472,,295165480544.0,309541716472.0
+b. Hao mòn TSCĐ,b. Hao mòn TSCĐ,b. Hao mòn TSCĐ,,(222.391.984.332),(229.097.121.210),,-222391984332.0,-229097121210.0
+2. Tài sản cố định thuê tài chính,2. Tài sản cố định thuê tài chính,2. Tài sản cố định thuê tài chính,,-,-,,,
+a. Nguyên giá TSCĐ,a. Nguyên giá TSCĐ,a. Nguyên giá TSCĐ,,-,-,,,
+b. Hao mòn TSCĐ,b. Hao mòn TSCĐ,b. Hao mòn TSCĐ,,-,-,,,
+3. Tài sản cố định vô hình,b. Hao mòn TSCĐ > 3. Tài sản cố định vô hình,3. Tài sản cố định vô hình,V.10,134.951.410.694,116.073.143.543,,134951410694.0,116073143543.0
+a. Nguyên giá TSCĐ,b. Hao mòn TSCĐ > a. Nguyên giá TSCĐ,a. Nguyên giá TSCĐ,,234.887.713.253,216.317.193.940,,234887713253.0,216317193940.0
+b. Hao mòn TSCĐ,b. Hao mòn TSCĐ > b. Hao mòn TSCĐ,b. Hao mòn TSCĐ,,(99.936.302.559),(100.244.050.397),,-99936302559.0,-100244050397.0
+XI. Bất động sản đầu tư,b. Hao mòn TSCĐ > XI. Bất động sản đầu tư,XI. Bất động sản đầu tư,,-,3.034.540.000,,,3034540000.0
+a. Nguyên giá bất động sản đầu tư,b. Hao mòn TSCĐ > a. Nguyên giá bất động sản đầu tư,a. Nguyên giá bất động sản đầu tư,,-,3.034.540.000,,,3034540000.0
+b. Hao mòn bất động sản đầu tư,b. Hao mòn bất động sản đầu tư,b. Hao mòn bất động sản đầu tư,,-,-,,,
+XII. Tài sản Có khác,b. Hao mòn bất động sản đầu tư > XII. Tài sản Có khác,XII. Tài sản Có khác,V.11,8.274.759.023.315,5.447.635.577.054,,8274759023315.0,5447635577054.0
+1. Các khoản phải thu,b. Hao mòn bất động sản đầu tư > 1. Các khoản phải thu,1. Các khoản phải thu,,3.063.802.580.285,1.198.378.832.013,,3063802580285.0,1198378832013.0
+"2. Các khoản lãi, phí phải thu","b. Hao mòn bất động sản đầu tư > 2. Các khoản lãi, phí phải thu","2. Các khoản lãi, phí phải thu",,3.453.802.454.335,3.111.601.728.533,,3453802454335.0,3111601728533.0
+3. Tài sản thuế TNDN hoãn lại,3. Tài sản thuế TNDN hoãn lại,3. Tài sản thuế TNDN hoãn lại,,-,-,,,
+4. Tài sản Có khác,3. Tài sản thuế TNDN hoãn lại > 4. Tài sản Có khác,4. Tài sản Có khác,,1.806.636.861.715,1.187.355.016.508,,1806636861715.0,1187355016508.0
+- Trong đó: Lợi thế thương mại,- Trong đó: Lợi thế thương mại,- Trong đó: Lợi thế thương mại,,-,-,,,
+5. Các khoản dự phòng rủi ro cho các tài sản Có nội bảng khác,- Trong đó: Lợi thế thương mại > 5. Các khoản dự phòng rủi ro cho các tài sản Có nội bảng khác,5. Các khoản dự phòng rủi ro cho các tài sản Có nội bảng khác,,(49.482.873.020),(49.700.000.000),,-49482873020.0,-49700000000.0
+TỔNG TÀI SẢN CÓ,- Trong đó: Lợi thế thương mại > TỔNG TÀI SẢN CÓ,TỔNG TÀI SẢN CÓ,,86.529.349.853.461,76.446.763.638.805,,86529349853461.0,76446763638805.0

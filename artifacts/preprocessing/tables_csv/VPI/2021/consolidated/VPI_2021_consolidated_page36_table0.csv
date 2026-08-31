@@ -1,0 +1,13 @@
+﻿row_label_raw,row_label_full,col_0,Số đầu năm,Số phải thu trong năm,Số đã bù trừ trong năm,Số cuối năm,numeric__Số đầu năm,numeric__Số phải thu trong năm,numeric__Số đã bù trừ trong năm,numeric__Số cuối năm
+Phải thu,Phải thu,Phải thu,Phải thu,Phải thu,Phải thu,Phải thu,,,,
+Thuế giá trị gia tăng được khấu trừ,Phải thu > Thuế giá trị gia tăng được khấu trừ,Thuế giá trị gia tăng được khấu trừ,12.077.996.262,165.805.966.050,(142.822.003.413),35.061.958.899,12077996262.0,165805966050.0,-142822003413.0,35061958899.0
+Thuế thu nhập doanh nghiệp,Phải thu > Thuế thu nhập doanh nghiệp,Thuế thu nhập doanh nghiệp,-,1.770.412.499,-,1.770.412.499,,1770412499.0,,1770412499.0
+Các loại thuế khác,Phải thu > Các loại thuế khác,Các loại thuế khác,263.804.777,325.480.122,(99.974.306),489.310.593,263804777.0,325480122.0,-99974306.0,489310593.0
+TỔNG CỘNG,Phải thu > TỔNG CỘNG,TỔNG CỘNG,12.341.801.039,167.901.858.671,(142.921.977.719),37.321.681.991,12341801039.0,167901858671.0,-142921977719.0,37321681991.0
+,,,Số đầu năm,Số phải nộp trong năm,Số đã nộp trong năm,Số cuối năm,,,,
+Phải nộp,Phải nộp,Phải nộp,Phải nộp,Phải nộp,Phải nộp,Phải nộp,,,,
+Thuế thu nhập doanh nghiệp,Phải nộp > Thuế thu nhập doanh nghiệp,Thuế thu nhập doanh nghiệp,97.495.449.454,30.266.500.047,(99.140.486.839),28.621.462.662,97495449454.0,30266500047.0,-99140486839.0,28621462662.0
+Thuế giá trị gia tăng,Phải nộp > Thuế giá trị gia tăng,Thuế giá trị gia tăng,51.471.291.610,31.214.860.950,(82.087.646.141),598.506.419,51471291610.0,31214860950.0,-82087646141.0,598506419.0
+Thuế thu nhập cá nhân,Phải nộp > Thuế thu nhập cá nhân,Thuế thu nhập cá nhân,917.066.725,10.353.941.027,(10.512.637.994),758.369.758,917066725.0,10353941027.0,-10512637994.0,758369758.0
+Các loại thuế khác,Phải nộp > Các loại thuế khác,Các loại thuế khác,60.321.409,1.282.954.935,(1.343.276.344),-,60321409.0,1282954935.0,-1343276344.0,
+TỔNG CỘNG,Phải nộp > TỔNG CỘNG,TỔNG CỘNG,149.944.129.198,73.118.256.959,(193.084.047.318),29.978.338.839,149944129198.0,73118256959.0,-193084047318.0,29978338839.0

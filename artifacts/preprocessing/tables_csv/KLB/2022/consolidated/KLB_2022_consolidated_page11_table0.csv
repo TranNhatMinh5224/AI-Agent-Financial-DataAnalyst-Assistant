@@ -1,0 +1,23 @@
+﻿row_label_raw,row_label_full,STT,CHỈ TIÊU,Thuyết minh,Năm nay,Năm trước,numeric__CHỈ TIÊU,numeric__Thuyết minh,numeric__Năm nay,numeric__Năm trước
+1.,1.,1.,Thu nhập lãi và các khoản thu nhập tương tự,VI.1,5.376.251,5.449.139,,,5376251.0,5449139.0
+2.,2.,2.,Chi phí lãi và các khoản chi phí tương tự,VI.2,3.284.730,3.518.179,,,3284730.0,3518179.0
+I.,I.,I.,Thu nhập lãi thuần,,2.091.521,1.930.960,,,2091521.0,1930960.0
+3.,3.,3.,Thu nhập từ hoạt động dịch vụ,VI.3,422.695,273.173,,,422695.0,273173.0
+4.,4.,4.,Chi phí từ hoạt động dịch vụ,VI.3,26.651,17.523,,,26651.0,17523.0
+II.,II.,II.,Lãi/lỗ thuần từ hoạt động dịch vụ,VI.3,396.044,255.650,,,396044.0,255650.0
+III.,III.,III.,Lãi/lỗ thuần từ kinh doanh ngoại hối,VI.4,34.981,28.274,,,34981.0,28274.0
+IV.,IV.,IV.,Lãi/lỗ thuần từ mua bán chứng khoán kinh doanh,,-,-,,,,
+V.,IV. > V.,V.,Lãi/lỗ thuần từ mua bán chứng khoán đầu tư,VI.5,7.818,63.737,,,7818.0,63737.0
+5.,IV. > 5.,5.,Thu nhập từ hoạt động khác,VI.6,88.565,55.444,,,88565.0,55444.0
+6.,IV. > 6.,6.,Chi phí từ hoạt động khác,VI.6,5.651,16.911,,,5651.0,16911.0
+VI.,IV. > VI.,VI.,Lãi/lỗ thuần từ hoạt động khác,VI.6,82.914,38.533,,,82914.0,38533.0
+VII.,IV. > VII.,VII.,"Thu nhập từ góp vốn, mua cổ phần",VI.7,-,1.709,,,,1709.0
+VIII.,IV. > VIII.,VIII.,Chi phí hoạt động,VI.8,1.459.022,1.227.211,,,1459022.0,1227211.0
+IX.,IV. > IX.,IX.,Lợi nhuận thuần từ hoạt động kinh doanh trướcchi phí dự phòng rủi ro tín dụng,,1.154.256,1.091.652,,,1154256.0,1091652.0
+X.,IV. > X.,X.,Chi phí dự phòng rủi ro tín dụng,,472.393,81.647,,,472393.0,81647.0
+XI.,IV. > XI.,XI.,Tổng lợi nhuận trước thuế,,681.863,1.010.005,,,681863.0,1010005.0
+7.,IV. > 7.,7.,Chi phí thuế thu nhập doanh nghiệp hiện hành,VIII.2,137.342,241.038,,,137342.0,241038.0
+8.,IV. > 8.,8.,Chi phí thuế thu nhập doanh nghiệp hoãn lại,,-,(1.306),,,,-1306.0
+XII.,IV. > XII.,XII.,Chi phí thuế thu nhập doanh nghiệp,,137.342,239.732,,,137342.0,239732.0
+XIII.,IV. > XIII.,XIII.,Lợi nhuận sau thuế,,544.521,770.273,,,544521.0,770273.0
+XIV.,IV. > XIV.,XIV.,Lãi cơ bản trên cổ phiếu,"VI.9a,b",1.506,2.234,,,1506.0,2234.0

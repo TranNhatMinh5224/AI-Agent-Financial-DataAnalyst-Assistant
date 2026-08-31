@@ -1,0 +1,14 @@
+﻿row_label_raw,row_label_full,col_0,Số đầu nămVND,Số phải nộp/thu trong nămVND,Số đã thực nộp/thu trong nămVND,Số cuối nămVND,numeric__Số đầu nămVND,numeric__Số phải nộp/thu trong nămVND,numeric__Số đã thực nộp/thu trong nămVND,numeric__Số cuối nămVND
+a. Các khoản phải thu,a. Các khoản phải thu,a. Các khoản phải thu,a. Các khoản phải thu,a. Các khoản phải thu,a. Các khoản phải thu,a. Các khoản phải thu,,,,
+Thuế nhập khẩu,a. Các khoản phải thu > Thuế nhập khẩu,Thuế nhập khẩu,34.802.628,-,-,34.802.628,34802628.0,,,34802628.0
+,,,34.802.628,-,-,34.802.628,34802628.0,,,34802628.0
+b. Các khoản phải trả,b. Các khoản phải trả,b. Các khoản phải trả,b. Các khoản phải trả,b. Các khoản phải trả,b. Các khoản phải trả,b. Các khoản phải trả,,,,
+Thuế giá trị gia tăng,b. Các khoản phải trả > Thuế giá trị gia tăng,Thuế giá trị gia tăng,2.293.172,73.824.398.012,73.823.848.012,2.843.172,2293172.0,73824398012.0,73823848012.0,2843172.0
+- Thuế GTGT đầu ra,b. Các khoản phải trả > - Thuế GTGT đầu ra,- Thuế GTGT đầu ra,1.000,73.824.398.012,73.823.848.012,551.000,1000.0,73824398012.0,73823848012.0,551000.0
+- Thuế GTGT hàng nhập khẩu,b. Các khoản phải trả > - Thuế GTGT hàng nhập khẩu,- Thuế GTGT hàng nhập khẩu,2.292.172,-,-,2.292.172,2292172.0,,,2292172.0
+Thuế thu nhập doanh nghiệp,b. Các khoản phải trả > Thuế thu nhập doanh nghiệp,Thuế thu nhập doanh nghiệp,3.554.052.096,12.208.429.544,16.457.758.065,(695.276.425),3554052096.0,12208429544.0,16457758065.0,-695276425.0
+Các loại thuê khác,b. Các khoản phải trả > Các loại thuê khác,Các loại thuê khác,1.115.664.887,45.524.681.521,44.931.678.443,1.708.667.965,1115664887.0,45524681521.0,44931678443.0,1708667965.0
+Thuế môn bài,b. Các khoản phải trả > Thuế môn bài,Thuế môn bài,-,4.000.000,4.000.000,-,,4000000.0,4000000.0,
+Thuế thu nhập cá nhân,b. Các khoản phải trả > Thuế thu nhập cá nhân,Thuế thu nhập cá nhân,1.018.651.702,39.293.933.908,38.659.937.428,1.652.648.182,1018651702.0,39293933908.0,38659937428.0,1652648182.0
+Thuế khác,b. Các khoản phải trả > Thuế khác,Thuế khác,97.013.185,6.226.747.613,6.267.741.015,56.019.783,97013185.0,6226747613.0,6267741015.0,56019783.0
+,,,4.672.010.155,131.557.509.077,135.213.284.520,1.016.234.712,4672010155.0,131557509077.0,135213284520.0,1016234712.0

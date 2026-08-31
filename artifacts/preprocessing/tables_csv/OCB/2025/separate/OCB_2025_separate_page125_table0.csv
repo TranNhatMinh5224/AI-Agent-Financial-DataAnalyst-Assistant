@@ -1,0 +1,6 @@
+﻿row_label_raw,row_label_full,Group,Type,Allowance rate,numeric__Type,numeric__Allowance rate
+1,1,1,Current debts,0%,,0.0
+2,2,2,Special-mentioned debts,5%,,0.05
+3,3,3,Sub-standard debts,20%,,0.2
+4,4,4,Doubtful debts,50%,,0.5
+5,5,5,Loss debts,100%,,1.0

@@ -1,0 +1,9 @@
+﻿row_label_raw,row_label_full,col_0,Loại tiền,Lãi suất năm,Năm đáo hạn,31/12/2017Triệu VND,1/1/2017Triệu VND,numeric__Loại tiền,numeric__Lãi suất năm,numeric__Năm đáo hạn,numeric__31/12/2017Triệu VND,numeric__1/1/2017Triệu VND
+a. Vay dài hạn,a. Vay dài hạn,a. Vay dài hạn,a. Vay dài hạn,a. Vay dài hạn,a. Vay dài hạn,a. Vay dài hạn,a. Vay dài hạn,,,,,
+Khoản vay ngân hàng có đảm bảo (i),a. Vay dài hạn > Khoản vay ngân hàng có đảm bảo (i),Khoản vay ngân hàng có đảm bảo (i),VND,"7,5% - 9,0%",2016 - 2021,323.478,293.512,,,,323478.0,293512.0
+Khoản vay không đảm bảo (ii),a. Vay dài hạn > Khoản vay không đảm bảo (ii),Khoản vay không đảm bảo (ii),USD,0%,2018,796.425,798.350,,0.0,2018.0,796425.0,798350.0
+,,,,,,1.119.903,1.091.862,,,,1119903.0,1091862.0
+b. Vay chuyển đổi,b. Vay chuyển đổi,b. Vay chuyển đổi,b. Vay chuyển đổi,b. Vay chuyển đổi,b. Vay chuyển đổi,b. Vay chuyển đổi,b. Vay chuyển đổi,,,,,
+Credit Suisse Ag,b. Vay chuyển đổi > Credit Suisse Ag,Credit Suisse Ag,USD,"10,8%",2017,-,567.960,,0.10800000000000001,2017.0,,567960.0
+c. Trái phiếu thường(bao gồm chỉ phí phát hành),b. Vay chuyển đổi > c. Trái phiếu thường(bao gồm chỉ phí phát hành),c. Trái phiếu thường(bao gồm chỉ phí phát hành),VND,"7,0% - 9,8%",2018 - 2024,26.393.583,31.458.105,,,,26393583.0,31458105.0
+d. Nợ thuê tài chính,b. Vay chuyển đổi > d. Nợ thuê tài chính,d. Nợ thuê tài chính,VND,"14,0%",2018,9.026,25.298,,0.14,2018.0,9026.0,25298.0

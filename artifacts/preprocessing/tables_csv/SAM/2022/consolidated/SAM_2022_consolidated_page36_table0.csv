@@ -1,0 +1,14 @@
+﻿row_label_raw,row_label_full,col_0,Quyền sử dụng đất (*),"Nhà cửa, vật kiến trúc",Máy móc thiết bị,Cộng,numeric__Quyền sử dụng đất (*),"numeric__Nhà cửa, vật kiến trúc",numeric__Máy móc thiết bị,numeric__Cộng
+,,,VND,VND,VND,VND,,,,
+Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,,,,
+Số dư đầu kỳ,Nguyên giá > Số dư đầu kỳ,Số dư đầu kỳ,2.099.000.000,140.105.412.263,51.666.356.733,193.870.768.996,2099000000.0,140105412263.0,51666356733.0,193870768996.0
+"- Thanh lý, nhượng bán","Nguyên giá > - Thanh lý, nhượng bán","- Thanh lý, nhượng bán",-,(1.670.226.833),-,(1.670.226.833),,-1670226833.0,,-1670226833.0
+Số dư cuối kỳ,Nguyên giá > Số dư cuối kỳ,Số dư cuối kỳ,2.099.000.000,138.435.185.430,51.666.356.733,192.200.542.163,2099000000.0,138435185430.0,51666356733.0,192200542163.0
+Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,,,,
+Số dư đầu kỳ,Giá trị hao mòn lũy kế > Số dư đầu kỳ,Số dư đầu kỳ,128.272.221,29.252.449.767,22.683.927.278,52.064.649.266,128272221.0,29252449767.0,22683927278.0,52064649266.0
+- Khấu hao trong kỳ,Giá trị hao mòn lũy kế > - Khấu hao trong kỳ,- Khấu hao trong kỳ,46.644.444,4.336.944.863,2.229.839.790,6.613.429.097,46644444.0,4336944863.0,2229839790.0,6613429097.0
+"- Thanh lý, nhượng bán","Giá trị hao mòn lũy kế > - Thanh lý, nhượng bán","- Thanh lý, nhượng bán",-,(1.670.226.833),-,(1.670.226.833),,-1670226833.0,,-1670226833.0
+Số dư cuối kỳ,Giá trị hao mòn lũy kế > Số dư cuối kỳ,Số dư cuối kỳ,174.916.665,31.919.167.797,24.913.767.068,57.007.851.530,174916665.0,31919167797.0,24913767068.0,57007851530.0
+Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,,,,
+Tại ngày đầu kỳ,Giá trị còn lại > Tại ngày đầu kỳ,Tại ngày đầu kỳ,1.970.727.779,110.852.962.496,28.982.429.455,141.806.119.730,1970727779.0,110852962496.0,28982429455.0,141806119730.0
+Tại ngày cuối kỳ,Giá trị còn lại > Tại ngày cuối kỳ,Tại ngày cuối kỳ,1.924.083.335,106.516.017.633,26.752.589.665,135.192.690.633,1924083335.0,106516017633.0,26752589665.0,135192690633.0

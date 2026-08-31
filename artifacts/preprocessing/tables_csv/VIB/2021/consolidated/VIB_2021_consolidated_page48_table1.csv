@@ -1,0 +1,13 @@
+﻿row_label_raw,row_label_full,col_0,Quyền sử dụng đất,Phần mềm máy vi tính,Tài sản cố định vô hình khác,Tổng cộng,numeric__Quyền sử dụng đất,numeric__Phần mềm máy vi tính,numeric__Tài sản cố định vô hình khác,numeric__Tổng cộng
+,,,Triệu VND,Triệu VND,Triệu VND,Triệu VND,,,,
+Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,,,,
+Số dư đầu năm,Nguyên giá > Số dư đầu năm,Số dư đầu năm,1.592,330.455,7.246,339.293,1592.0,330455.0,7246.0,339293.0
+Tăng trong năm,Nguyên giá > Tăng trong năm,Tăng trong năm,6.645,32.668,-,39.313,6645.0,32668.0,,39313.0
+Số dư cuối năm,Nguyên giá > Số dư cuối năm,Số dư cuối năm,8.237,363.123,7.246,378.606,8237.0,363123.0,7246.0,378606.0
+Hao mòn lũy kế,Hao mòn lũy kế,Hao mòn lũy kế,Hao mòn lũy kế,Hao mòn lũy kế,Hao mòn lũy kế,Hao mòn lũy kế,,,,
+Số dư đầu năm,Hao mòn lũy kế > Số dư đầu năm,Số dư đầu năm,-,195.221,7.177,202.398,,195221.0,7177.0,202398.0
+Khấu hao trong năm,Hao mòn lũy kế > Khấu hao trong năm,Khấu hao trong năm,-,32.395,22,32.417,,32395.0,22.0,32417.0
+Số dư cuối năm,Hao mòn lũy kế > Số dư cuối năm,Số dư cuối năm,-,227.616,7.199,234.815,,227616.0,7199.0,234815.0
+Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,,,,
+Số dư đầu năm,Giá trị còn lại > Số dư đầu năm,Số dư đầu năm,1.592,135.234,69,136.895,1592.0,135234.0,69.0,136895.0
+Số dư cuối năm,Giá trị còn lại > Số dư cuối năm,Số dư cuối năm,8.237,135.507,47,143.791,8237.0,135507.0,47.0,143791.0

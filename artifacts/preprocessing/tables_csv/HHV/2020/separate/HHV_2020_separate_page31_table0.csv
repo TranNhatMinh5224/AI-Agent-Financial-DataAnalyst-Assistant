@@ -1,0 +1,22 @@
+﻿row_label_raw,row_label_full,"TÀNG, GIÀM TÀI SẢN CỔ ĐỊNH HỮU HÌNH > Chỉ tiêu","TÀNG, GIÀM TÀI SẢN CỔ ĐỊNH HỮU HÌNH > Nhà cửa, vật kiến trúc","TÀNG, GIÀM TÀI SẢN CỔ ĐỊNH HỮU HÌNH > Máy móc, thiết bị","TÀNG, GIÀM TÀI SẢN CỔ ĐỊNH HỮU HÌNH > Phương tiện vận tải, truyền dẫn","TÀNG, GIÀM TÀI SẢN CỔ ĐỊNH HỮU HÌNH > Thiết bị quản lý","TÀNG, GIÀM TÀI SẢN CỔ ĐỊNH HỮU HÌNH > TSCĐ khác",Đơn vị tính: VND > Cộng,"numeric__TÀNG, GIÀM TÀI SẢN CỔ ĐỊNH HỮU HÌNH > Nhà cửa, vật kiến trúc","numeric__TÀNG, GIÀM TÀI SẢN CỔ ĐỊNH HỮU HÌNH > Máy móc, thiết bị","numeric__TÀNG, GIÀM TÀI SẢN CỔ ĐỊNH HỮU HÌNH > Phương tiện vận tải, truyền dẫn","numeric__TÀNG, GIÀM TÀI SẢN CỔ ĐỊNH HỮU HÌNH > Thiết bị quản lý","numeric__TÀNG, GIÀM TÀI SẢN CỔ ĐỊNH HỮU HÌNH > TSCĐ khác",numeric__Đơn vị tính: VND > Cộng
+I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,,,,,,
+1. Số dư đầu kỳ,I. Nguyên giá > 1. Số dư đầu kỳ,1. Số dư đầu kỳ,44.814.735.453,24.177.916.448,52.434.937.750,4.249.451.505,,125.677.041.156,44814735453.0,24177916448.0,52434937750.0,4249451505.0,,125677041156.0
+2. Số tăng trong kỳ,I. Nguyên giá > 2. Số tăng trong kỳ,2. Số tăng trong kỳ,497.762.553,1.250.000.273,1.732.199.855,38.990.279,,3.518.952.960,497762553.0,1250000273.0,1732199855.0,38990279.0,,3518952960.0
+- Mua trong kỳ,I. Nguyên giá > - Mua trong kỳ,- Mua trong kỳ,,1.250.000.273,1.732.199.855,38.990.279,,3.021.190.407,,1250000273.0,1732199855.0,38990279.0,,3021190407.0
+- Tăng khác,I. Nguyên giá > - Tăng khác,- Tăng khác,497.762.553,,,,,497.762.553,497762553.0,,,,,497762553.0
+3. Số giảm trong kỳ,I. Nguyên giá > 3. Số giảm trong kỳ,3. Số giảm trong kỳ,,3.695.439.372,2.403.677.273,573.511.189,,6.672.627.834,,3695439372.0,2403677273.0,573511189.0,,6672627834.0
+"- Thanh lý, nhượng bán","I. Nguyên giá > - Thanh lý, nhượng bán","- Thanh lý, nhượng bán",,3.695.439.372,2.403.677.273,573.511.189,,6.672.627.834,,3695439372.0,2403677273.0,573511189.0,,6672627834.0
+- Giảm khác,- Giảm khác,- Giảm khác,,,,,,,,,,,,
+4. Số dư cuối kỳ,- Giảm khác > 4. Số dư cuối kỳ,4. Số dư cuối kỳ,45.312.498.006,21.732.477.349,51.763.460.332,3.714.930.595,,122.523.366.282,45312498006.0,21732477349.0,51763460332.0,3714930595.0,,122523366282.0
+II. Giá trị hao mòn luỹ kế,II. Giá trị hao mòn luỹ kế,II. Giá trị hao mòn luỹ kế,II. Giá trị hao mòn luỹ kế,II. Giá trị hao mòn luỹ kế,II. Giá trị hao mòn luỹ kế,II. Giá trị hao mòn luỹ kế,II. Giá trị hao mòn luỹ kế,II. Giá trị hao mòn luỹ kế,,,,,,
+1. Số dư đầu kỳ,II. Giá trị hao mòn luỹ kế > 1. Số dư đầu kỳ,1. Số dư đầu kỳ,14.471.592.792,15.820.414.066,42.164.184.979,2.258.253.236,,74.714.445.073,14471592792.0,15820414066.0,42164184979.0,2258253236.0,,74714445073.0
+2. Khấu hao trong kỳ,II. Giá trị hao mòn luỹ kế > 2. Khấu hao trong kỳ,2. Khấu hao trong kỳ,1.907.709.968,2.004.412.693,2.375.141.926,589.020.474,,6.876.285.061,1907709968.0,2004412693.0,2375141926.0,589020474.0,,6876285061.0
+- Khấu hao trong kỳ,II. Giá trị hao mòn luỹ kế > - Khấu hao trong kỳ,- Khấu hao trong kỳ,1.907.709.968,2.004.412.693,2.375.141.926,589.020.474,,6.876.285.061,1907709968.0,2004412693.0,2375141926.0,589020474.0,,6876285061.0
+- Tăng khác,- Tăng khác,- Tăng khác,,,,,,,,,,,,
+3. Giảm trong kỳ,- Tăng khác > 3. Giảm trong kỳ,3. Giảm trong kỳ,,3.610.759.190,2.395.334.168,573.511.189,,6.579.604.547,,3610759190.0,2395334168.0,573511189.0,,6579604547.0
+"- Thanh lý, nhượng bán","- Tăng khác > - Thanh lý, nhượng bán","- Thanh lý, nhượng bán",,3.610.759.190,2.395.334.168,573.511.189,,6.579.604.547,,3610759190.0,2395334168.0,573511189.0,,6579604547.0
+- Giảm khác,- Giảm khác,- Giảm khác,,,,,,,,,,,,
+4. Số dư cuối kỳ,- Giảm khác > 4. Số dư cuối kỳ,4. Số dư cuối kỳ,16.379.302.760,14.214.067.569,42.143.992.737,2.273.762.521,,75.011.125.587,16379302760.0,14214067569.0,42143992737.0,2273762521.0,,75011125587.0
+III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,,,,,,
+1. Tại ngày đầu kỳ,III. Giá trị còn lại > 1. Tại ngày đầu kỳ,1. Tại ngày đầu kỳ,30.343.142.661,8.357.502.382,10.270.752.771,1.991.198.269,,50.962.596.083,30343142661.0,8357502382.0,10270752771.0,1991198269.0,,50962596083.0
+2. Tại ngày cuối kỳ,III. Giá trị còn lại > 2. Tại ngày cuối kỳ,2. Tại ngày cuối kỳ,28.933.195.246,7.518.409.780,9.619.467.595,1.441.168.074,,47.512.240.695,28933195246.0,7518409780.0,9619467595.0,1441168074.0,,47512240695.0

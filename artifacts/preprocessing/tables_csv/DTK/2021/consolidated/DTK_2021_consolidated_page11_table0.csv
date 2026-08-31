@@ -1,0 +1,30 @@
+﻿row_label_raw,row_label_full,NGUÔN VÔN,Mã số,TM,31/12/2021,01/01/2021,numeric__Mã số,numeric__TM,numeric__31/12/2021,numeric__01/01/2021
+NỘ PHẢI TRẢ,NỘ PHẢI TRẢ,NỘ PHẢI TRẢ,300,,10.989.342.586.173,12.713.493.653.216,300.0,,10989342586173.0,12713493653216.0
+Nợ ngắn hạn,Nợ ngắn hạn,Nợ ngắn hạn,310,,6.027.333.583.603,6.073.222.566.562,310.0,,6027333583603.0,6073222566562.0
+Phải trả người bán ngắn hạn,Phải trả người bán ngắn hạn,Phải trả người bán ngắn hạn,311,5.11,2.202.625.137.721,2.720.376.878.030,311.0,511.0,2202625137721.0,2720376878030.0
+Người mua trả tiền trước ngắn hạn,Người mua trả tiền trước ngắn hạn,Người mua trả tiền trước ngắn hạn,312,,1.410.478.000,1.467.373.800,312.0,,1410478000.0,1467373800.0
+Thuế và các khoản phải nộp Nhà nước,Thuế và các khoản phải nộp Nhà nước,Thuế và các khoản phải nộp Nhà nước,313,5.13,44.775.712.450,113.391.112.345,313.0,513.0,44775712450.0,113391112345.0
+Phải trả người lao động,Phải trả người lao động,Phải trả người lao động,314,,131.685.658.373,152.017.298.453,314.0,,131685658373.0,152017298453.0
+Chi phí phải trả ngắn hạn,Chi phí phải trả ngắn hạn,Chi phí phải trả ngắn hạn,315,5.14,41.427.324.869,57.377.134.537,315.0,514.0,41427324869.0,57377134537.0
+Phải trả ngắn hạn khác,Phải trả ngắn hạn khác,Phải trả ngắn hạn khác,319,5.15,220.030.142.500,17.029.503.085,319.0,515.0,220030142500.0,17029503085.0
+Vay và nợ thuê tài chính ngắn hạn,Vay và nợ thuê tài chính ngắn hạn,Vay và nợ thuê tài chính ngắn hạn,320,5.12,3.349.878.446.727,2.974.874.610.688,320.0,512.0,3349878446727.0,2974874610688.0
+"Quỹ khen thưởng, phúc lợi","Quỹ khen thưởng, phúc lợi","Quỹ khen thưởng, phúc lợi",322,,35.500.682.963,36.688.655.624,322.0,,35500682963.0,36688655624.0
+Nợ dài hạn,Nợ dài hạn,Nợ dài hạn,330,,4.962.009.002.570,6.640.271.086.654,330.0,,4962009002570.0,6640271086654.0
+Phải trả người bán dài hạn,Phải trả người bán dài hạn,Phải trả người bán dài hạn,331,5.11,370.216.414.600,399.289.200.586,331.0,511.0,370216414600.0,399289200586.0
+Vay và nợ thuê tài chính dài hạn,Vay và nợ thuê tài chính dài hạn,Vay và nợ thuê tài chính dài hạn,338,5.12,4.571.694.642.376,6.211.553.600.968,338.0,512.0,4571694642376.0,6211553600968.0
+Thuế thu nhập hoãn lại phải trả,Thuế thu nhập hoãn lại phải trả,Thuế thu nhập hoãn lại phải trả,341,5.16,-,8.341.875.242,341.0,516.0,,8341875242.0
+Dự phòng phải trả dài hạn,Dự phòng phải trả dài hạn,Dự phòng phải trả dài hạn,342,,1.976.928.523,2.965.392.787,342.0,,1976928523.0,2965392787.0
+Quỹ phát triển khoa học và công nghệ,Quỹ phát triển khoa học và công nghệ,Quỹ phát triển khoa học và công nghệ,343,,18.121.017.071,18.121.017.071,343.0,,18121017071.0,18121017071.0
+VỐN CHỦ SỞ HỮU,VỐN CHỦ SỞ HỮU,VỐN CHỦ SỞ HỮU,400,,7.783.365.417.836,7.367.285.793.712,400.0,,7783365417836.0,7367285793712.0
+Vốn chủ sở hữu,Vốn chủ sở hữu,Vốn chủ sở hữu,410,5.17,7.783.365.417.836,7.367.285.793.712,410.0,517.0,7783365417836.0,7367285793712.0
+Vốn góp của chủ sở hữu,Vốn góp của chủ sở hữu,Vốn góp của chủ sở hữu,411,,6.827.674.750.000,6.800.000.000.000,411.0,,6827674750000.0,6800000000000.0
+- Cổ phiếu phổ thông có quyền biểu quyết,- Cổ phiếu phổ thông có quyền biểu quyết,- Cổ phiếu phổ thông có quyền biểu quyết,411a,,6.827.674.750.000,6.800.000.000.000,,,6827674750000.0,6800000000000.0
+- Cổ phiếu ưu đãi,- Cổ phiếu ưu đãi,- Cổ phiếu ưu đãi,411b,,-,-,,,,
+Thặng dư vốn cổ phần,- Cổ phiếu ưu đãi > Thặng dư vốn cổ phần,Thặng dư vốn cổ phần,412,,(28.358.542),16.641.458,412.0,,-28358542.0,16641458.0
+Vốn khác của chủ sở hữu,- Cổ phiếu ưu đãi > Vốn khác của chủ sở hữu,Vốn khác của chủ sở hữu,414,,-,-,414.0,,,
+Chênh lệch đánh giá lại tài sản,- Cổ phiếu ưu đãi > Chênh lệch đánh giá lại tài sản,Chênh lệch đánh giá lại tài sản,416,,(1.848.203.592),(1.848.203.592),416.0,,-1848203592.0,-1848203592.0
+Quỹ đầu tư phát triển,- Cổ phiếu ưu đãi > Quỹ đầu tư phát triển,Quỹ đầu tư phát triển,418,,54.625.275.441,20.278.275.441,418.0,,54625275441.0,20278275441.0
+Lợi nhuận sau thuế chưa phân phối,- Cổ phiếu ưu đãi > Lợi nhuận sau thuế chưa phân phối,Lợi nhuận sau thuế chưa phân phối,421,,885.011.005.095,523.118.419.406,421.0,,885011005095.0,523118419406.0
+- LNST chưa phân phối lũy kế đến cuối kỳ trước,- Cổ phiếu ưu đãi > - LNST chưa phân phối lũy kế đến cuối kỳ trước,- LNST chưa phân phối lũy kế đến cuối kỳ trước,421a,,(2.106.882.479),8.117.489.775,,,-2106882479.0,8117489775.0
+- LNST chưa phân phối kỳ này,- Cổ phiếu ưu đãi > - LNST chưa phân phối kỳ này,- LNST chưa phân phối kỳ này,421b,,887.117.887.574,515.000.929.631,,,887117887574.0,515000929631.0
+Lợi ích của cổ đông không kiểm soát,- Cổ phiếu ưu đãi > Lợi ích của cổ đông không kiểm soát,Lợi ích của cổ đông không kiểm soát,429,,17.930.949.434,25.720.660.999,429.0,,17930949434.0,25720660999.0

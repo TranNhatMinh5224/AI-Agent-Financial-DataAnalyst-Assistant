@@ -1,0 +1,25 @@
+﻿row_label_raw,row_label_full,col_0,Mã số,Thuyết minh,31/12/2016 VND,1/1/2016 VND Đã điều chỉnh lại,numeric__Mã số,numeric__Thuyết minh,numeric__31/12/2016 VND,numeric__1/1/2016 VND Đã điều chỉnh lại
+Đầu tư tài chính dài hạn,Đầu tư tài chính dài hạn,Đầu tư tài chính dài hạn,250,11,9.435.304.357.186,9.371.240.790.036,250.0,11.0,9435304357186.0,9371240790036.0
+Đầu tư vào công ty con,Đầu tư vào công ty con,Đầu tư vào công ty con,251,,8.606.835.827.092,8.657.835.827.092,251.0,,8606835827092.0,8657835827092.0
+"Đầu tư vào các công ty liên doanh, liên kết","Đầu tư vào các công ty liên doanh, liên kết","Đầu tư vào các công ty liên doanh, liên kết",252,,1.270.858.550.840,1.270.858.550.840,252.0,,1270858550840.0,1270858550840.0
+Đầu tư góp vốn vào đơn vị khác,Đầu tư góp vốn vào đơn vị khác,Đầu tư góp vốn vào đơn vị khác,253,,105.912.752.200,105.912.752.200,253.0,,105912752200.0,105912752200.0
+Dự phòng đầu tư tài chính dài hạn,Dự phòng đầu tư tài chính dài hạn,Dự phòng đầu tư tài chính dài hạn,254,,(548.302.772.946),(663.366.340.096),254.0,,-548302772946.0,-663366340096.0
+Tài sản dài hạn khác,Tài sản dài hạn khác,Tài sản dài hạn khác,260,,299.951.296.851,427.253.055.151,260.0,,299951296851.0,427253055151.0
+Chi phí trả trước dài hạn,Chi phí trả trước dài hạn,Chi phí trả trước dài hạn,261,12(b),272.607.134.986,329.997.336.120,261.0,,272607134986.0,329997336120.0
+Tài sản dài hạn khác,Tài sản dài hạn khác,Tài sản dài hạn khác,268,8,27.344.161.865,97.255.719.031,268.0,8.0,27344161865.0,97255719031.0
+TỔNG CỘNG TÀI SẢN (270 = 100 + 200),TỔNG CỘNG TÀI SẢN (270 = 100 + 200),TỔNG CỘNG TÀI SẢN (270 = 100 + 200),270,,30.909.283.148.305,30.642.783.291.323,270.0,,30909283148305.0,30642783291323.0
+NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,,,,
+NỘ PHẢI TRẢ (300 = 310 + 330),NGUỒN VỐN > NỘ PHẢI TRẢ (300 = 310 + 330),NỘ PHẢI TRẢ (300 = 310 + 330),300,,13.058.379.181.069,16.651.601.462.457,300.0,,13058379181069.0,16651601462457.0
+Nợ ngắn hạn,NGUỒN VỐN > Nợ ngắn hạn,Nợ ngắn hạn,310,,13.058.344.181.069,16.443.331.862.457,310.0,,13058344181069.0,16443331862457.0
+Phải trả người bán ngắn hạn,NGUỒN VỐN > Phải trả người bán ngắn hạn,Phải trả người bán ngắn hạn,311,13,8.308.613.189.672,6.708.882.505.699,311.0,13.0,8308613189672.0,6708882505699.0
+Người mua trả tiền trước ngắn hạn,NGUỒN VỐN > Người mua trả tiền trước ngắn hạn,Người mua trả tiền trước ngắn hạn,312,,141.997.699.989,121.580.098.470,312.0,,141997699989.0,121580098470.0
+Thuế và các khoản phải nộp Nhà nước,NGUỒN VỐN > Thuế và các khoản phải nộp Nhà nước,Thuế và các khoản phải nộp Nhà nước,313,14,246.265.361.007,78.110.401.887,313.0,14.0,246265361007.0,78110401887.0
+Phải trả người lao động,NGUỒN VỐN > Phải trả người lao động,Phải trả người lao động,314,,23.930.083.784,16.078.891.996,314.0,,23930083784.0,16078891996.0
+Chi phí phải trả ngắn hạn,NGUỒN VỐN > Chi phí phải trả ngắn hạn,Chi phí phải trả ngắn hạn,315,,18.164.328.307,23.168.472.087,315.0,,18164328307.0,23168472087.0
+Phải trả ngắn hạn khác,NGUỒN VỐN > Phải trả ngắn hạn khác,Phải trả ngắn hạn khác,319,15,287.206.600.091,29.754.653.651,319.0,15.0,287206600091.0,29754653651.0
+Vay ngắn hạn,NGUỒN VỐN > Vay ngắn hạn,Vay ngắn hạn,320,16,2.163.717.065.494,7.069.834.224.697,320.0,16.0,2163717065494.0,7069834224697.0
+"Quỹ khen thưởng, phúc lợi","NGUỒN VỐN > Quỹ khen thưởng, phúc lợi","Quỹ khen thưởng, phúc lợi",322,,37.471.786.705,18.529.444.982,322.0,,37471786705.0,18529444982.0
+Quỹ bình ổn giá xăng dầu,NGUỒN VỐN > Quỹ bình ổn giá xăng dầu,Quỹ bình ổn giá xăng dầu,323,17,1.830.978.066.020,2.377.393.168.988,323.0,17.0,1830978066020.0,2377393168988.0
+Nợ dài hạn,NGUỒN VỐN > Nợ dài hạn,Nợ dài hạn,330,,35.000.000,208.269.600.000,330.0,,35000000.0,208269600000.0
+Vay dài hạn,NGUỒN VỐN > Vay dài hạn,Vay dài hạn,338,,-,208.269.600.000,338.0,,,208269600000.0
+Quỹ phát triển khoa học và công nghệ,NGUỒN VỐN > Quỹ phát triển khoa học và công nghệ,Quỹ phát triển khoa học và công nghệ,343,,35.000.000,-,343.0,,35000000.0,

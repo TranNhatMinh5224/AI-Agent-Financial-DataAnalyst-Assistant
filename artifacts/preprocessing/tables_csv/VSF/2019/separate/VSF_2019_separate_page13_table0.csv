@@ -1,0 +1,19 @@
+﻿row_label_raw,row_label_full,col_0,Mã số,Thuyết minh,Năm kết thúc ngày 31/12/2019 VND,Từ 9/10/2018 đến 31/12/2018 VND,numeric__Mã số,numeric__Thuyết minh,numeric__Năm kết thúc ngày 31/12/2019 VND,numeric__Từ 9/10/2018 đến 31/12/2018 VND
+Doanh thu bán hàng và cung cấp dịch vụ,Doanh thu bán hàng và cung cấp dịch vụ,Doanh thu bán hàng và cung cấp dịch vụ,01,28,10.006.426.976.545,1.490.985.518.180,1.0,28.0,10006426976545.0,1490985518180.0
+Các khoản giảm trừ doanh thu,Các khoản giảm trừ doanh thu,Các khoản giảm trừ doanh thu,02,28,13.689.012.697,439.055.956,2.0,28.0,13689012697.0,439055956.0
+Doanh thu thuần về bán hàng và cung cấp dịch vụ (10 = 01 - 02),Doanh thu thuần về bán hàng và cung cấp dịch vụ (10 = 01 - 02),Doanh thu thuần về bán hàng và cung cấp dịch vụ (10 = 01 - 02),10,28,9.992.737.963.848,1.490.546.462.224,10.0,28.0,9992737963848.0,1490546462224.0
+Giá vốn hàng bán,Giá vốn hàng bán,Giá vốn hàng bán,11,29,9.150.340.686.850,1.445.746.894.194,11.0,29.0,9150340686850.0,1445746894194.0
+Lợi nhuận gộp (20 = 10 - 11),Lợi nhuận gộp (20 = 10 - 11),Lợi nhuận gộp (20 = 10 - 11),20,,842.397.276.998,44.799.568.030,20.0,,842397276998.0,44799568030.0
+Doanh thu hoạt động tài chính,Doanh thu hoạt động tài chính,Doanh thu hoạt động tài chính,21,30,78.028.128.646,7.189.204.322,21.0,30.0,78028128646.0,7189204322.0
+Chi phí tài chính,Chi phí tài chính,Chi phí tài chính,22,31,168.159.967.487,461.906.525.089,22.0,31.0,168159967487.0,461906525089.0
+Trong đó: Chi phí lãi vay,Trong đó: Chi phí lãi vay,Trong đó: Chi phí lãi vay,23,,118.851.005.502,26.022.201.325,23.0,,118851005502.0,26022201325.0
+Chi phí bán hàng,Chi phí bán hàng,Chi phí bán hàng,25,32,708.343.390.186,59.215.280.939,25.0,32.0,708343390186.0,59215280939.0
+Chi phí quản lý doanh nghiệp,Chi phí quản lý doanh nghiệp,Chi phí quản lý doanh nghiệp,26,33,216.983.520.796,1.366.794.327.559,26.0,33.0,216983520796.0,1366794327559.0
+Lỗ thuần từ hoạt động kinh doanh {30 = 20 + (21 - 22) - (25 + 26)},Lỗ thuần từ hoạt động kinh doanh {30 = 20 + (21 - 22) - (25 + 26)},Lỗ thuần từ hoạt động kinh doanh {30 = 20 + (21 - 22) - (25 + 26)},30,,(173.061.472.825),(1.835.927.361.235),30.0,,-173061472825.0,-1835927361235.0
+Thu nhập khác,Thu nhập khác,Thu nhập khác,31,34,33.282.918.878,3.004.174.727,31.0,34.0,33282918878.0,3004174727.0
+Chi phí khác,Chi phí khác,Chi phí khác,32,35,51.039.689.812,4.108.228.396,32.0,35.0,51039689812.0,4108228396.0
+Kết quả từ các hoạt động khác (40 = 31 - 32),Kết quả từ các hoạt động khác (40 = 31 - 32),Kết quả từ các hoạt động khác (40 = 31 - 32),40,,(17.756.770.934),(1.104.053.669),40.0,,-17756770934.0,-1104053669.0
+Lỗ kế toán trước thuế (50 = 30 + 40),Lỗ kế toán trước thuế (50 = 30 + 40),Lỗ kế toán trước thuế (50 = 30 + 40),50,,(190.818.243.759),(1.837.031.414.904),50.0,,-190818243759.0,-1837031414904.0
+Chi phí thuế TNDN hiện hành,Chi phí thuế TNDN hiện hành,Chi phí thuế TNDN hiện hành,51,37,-,-,51.0,37.0,,
+Chi phí/(lợi ích) thuế TNDN hoãn lại,Chi phí/(lợi ích) thuế TNDN hoãn lại,Chi phí/(lợi ích) thuế TNDN hoãn lại,52,37,1.791.728.907,(1.791.728.907),52.0,37.0,1791728907.0,-1791728907.0
+Lỗ thuần sau thuế TNDN (60 = 50 - 51 - 52),Lỗ thuần sau thuế TNDN (60 = 50 - 51 - 52),Lỗ thuần sau thuế TNDN (60 = 50 - 51 - 52),60,,(192.609.972.666),(1.835.239.685.997),60.0,,-192609972666.0,-1835239685997.0

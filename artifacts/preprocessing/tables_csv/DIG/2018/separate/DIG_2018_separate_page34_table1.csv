@@ -1,0 +1,11 @@
+﻿row_label_raw,row_label_full,col_0,Số đầu năm,Tăng trong năm,Giảm trong năm,VND Số cuối năm,numeric__Số đầu năm,numeric__Tăng trong năm,numeric__Giảm trong năm,numeric__VND Số cuối năm
+Phải thu,Phải thu,Phải thu,Phải thu,Phải thu,Phải thu,Phải thu,,,,
+Thuế TNDN,Thuế TNDN,Thuế TNDN,Thuế TNDN,Thuế TNDN,Thuế TNDN,Thuế TNDN,,,,
+tạm nộp,Thuế TNDN > tạm nộp,tạm nộp,2.460.299.583,10.069.056.057,(9.918.336.253),2.611.019.387,2460299583.0,10069056057.0,-9918336253.0,2611019387.0
+Thuế giá trị gia tăng,Thuế TNDN > Thuế giá trị gia tăng,Thuế giá trị gia tăng,704.736.457,-,(704.736.457),-,704736457.0,,-704736457.0,
+TỔNG CỘNG,Thuế TNDN > TỔNG CỘNG,TỔNG CỘNG,3.165.036.040,10.069.056.057,(10.623.072.710),2.611.019.387,3165036040.0,10069056057.0,-10623072710.0,2611019387.0
+Phải nộp,Phải nộp,Phải nộp,Phải nộp,Phải nộp,Phải nộp,Phải nộp,,,,
+Thuế giá trị gia tăng,Phải nộp > Thuế giá trị gia tăng,Thuế giá trị gia tăng,2.392.446.488,98.011.831.184,(95.440.317.033),4.963.960.639,2392446488.0,98011831184.0,-95440317033.0,4963960639.0
+Thuế thu nhập doanh nghiệp,Phải nộp > Thuế thu nhập doanh nghiệp,Thuế thu nhập doanh nghiệp,30.449.569.025,86.142.430.173,(43.647.001.654),72.944.997.544,30449569025.0,86142430173.0,-43647001654.0,72944997544.0
+Thuế thu nhập cá nhân,Phải nộp > Thuế thu nhập cá nhân,Thuế thu nhập cá nhân,507.026.920,1.600.833.437,(1.892.803.698),215.056.659,507026920.0,1600833437.0,-1892803698.0,215056659.0
+TỔNG CỘNG,Phải nộp > TỔNG CỘNG,TỔNG CỘNG,33.349.042.433,185.755.094.794,(140.980.122.385),78.124.014.842,33349042433.0,185755094794.0,-140980122385.0,78124014842.0

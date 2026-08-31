@@ -1,0 +1,19 @@
+﻿row_label_raw,row_label_full,Tại ngày 31 tháng 12 năm 2018,Tại ngày 31 tháng 12 năm 2018_1,Giá trị ghi sổ – gộp > Kinh doanhTriệu VND,Giá trị ghi sổ – gộp > Giữ đến ngàyđáo hạnTriệu VND,Giá trị ghi sổ – gộp > Cho vay vàphải thuTriệu VND,Giá trị ghi sổ – gộp > Sẵn sàngđể bánTriệu VND,Giá trị ghi sổ – gộp > Hạch toántheo giá trịphân bổTriệu VND,Giá trị ghi sổ – gộp > Tổng giá trịghi sổTriệu VND,Giá trịhợp lýTriệu VND,numeric__Tại ngày 31 tháng 12 năm 2018_1,numeric__Giá trị ghi sổ – gộp > Kinh doanhTriệu VND,numeric__Giá trị ghi sổ – gộp > Giữ đến ngàyđáo hạnTriệu VND,numeric__Giá trị ghi sổ – gộp > Cho vay vàphải thuTriệu VND,numeric__Giá trị ghi sổ – gộp > Sẵn sàngđể bánTriệu VND,numeric__Giá trị ghi sổ – gộp > Hạch toántheo giá trịphân bổTriệu VND,numeric__Giá trị ghi sổ – gộp > Tổng giá trịghi sổTriệu VND,numeric__Giá trịhợp lýTriệu VND
+,,,Tài sản tài chính,,,,,,,,,,,,,,,
+I,I,I,"Tiền mặt, vàng bạc, đá quý",-,-,12.779.174,-,-,12.779.174,12.779.174,,,,12779174.0,,,12779174.0,12779174.0
+II,II,II,Tiền gửi tại NHNNVN,-,-,10.152.243,-,-,10.152.243,10.152.243,,,,10152243.0,,,10152243.0,10152243.0
+III,III,III,Tiền gửi và cho vay các tổ chức tín dụng khác,-,-,251.967.000,-,-,251.967.000,(*),,,,251967000.0,,,251967000.0,
+IV,IV,IV,Chứng khoán kinh doanh,1.757.474,-,-,-,-,1.757.474,(*),,1757474.0,,,,,1757474.0,
+V,V,V,Các công cụ tài chính phải sinh và các tài sản tài chính khác,275.983,-,-,-,-,275.983,(*),,275983.0,,,,,275983.0,
+VI,VI,VI,Cho vay khách hàng,-,-,627.183.053,-,-,627.183.053,(*),,,,627183053.0,,,627183053.0,
+VIII,VIII,VIII,Chứng khoán đầu tư,-,114.251.030,-,35.313.069,-,149.564.099,(*),,,114251030.0,,35313069.0,,149564099.0,
+IX,IX,IX,"Góp vốn, đầu tư dài hạn",-,-,-,1.635.418,-,1.635.418,(*),,,,,1635418.0,,1635418.0,
+XII,XII,XII,Tài sản tài chính khác,-,-,14.163.190,-,-,14.163.190,(*),,,,14163190.0,,,14163190.0,
+,,,,2.033.457,114.251.030,916.244.660,36.948.487,-,1.069.477.634,,,2033457.0,114251030.0,916244660.0,36948487.0,,1069477634.0,
+,,,Nợ phải trả tài chính,,,,,,,,,,,,,,,
+I,I,I,Các khoản nợ Chính phủ và NHNNVN và tiền gửi và vay các TCTD khác,-,-,-,-,166.332.829,166.332.829,(*),,,,,,166332829.0,166332829.0,
+II,II,II,Tiền gửi của khách hàng,-,-,-,-,802.114.711,802.114.711,(*),,,,,,802114711.0,802114711.0,
+IV,IV,IV,"Vốn tài trợ, ủy thác đầu tư, cho vay mà TCTD chịu rủi ro",-,-,-,-,25.803,25.803,(*),,,,,,25803.0,25803.0,
+V,V,V,Phát hành giấy tờ có giá,-,-,-,-,21.418.647,21.418.647,(*),,,,,,21418647.0,21418647.0,
+VI,VI,VI,Các khoản nợ phải trả tài chính khác,-,-,-,-,11.792.287,11.792.287,(*),,,,,,11792287.0,11792287.0,
+,,,,-,-,-,-,1.001.684.277,1.001.684.277,,,,,,,1001684277.0,1001684277.0,

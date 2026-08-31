@@ -1,0 +1,8 @@
+﻿row_label_raw,row_label_full,Mã số,CHÍ TIÊU,Thuyết minh,Năm nay,Năm trước,numeric__CHÍ TIÊU,numeric__Thuyết minh,numeric__Năm nay,numeric__Năm trước
+300,300,300,XII. THU NHẬP/(Lỗ) TOÀN DIỆN KHÁC SAU THUẾ TNDN,,,,,,,
+301,300 > 301,301,1. Lãi/(lỗ) từ đánh giá lại các tài sản tài chính AFS,"41,42",(2.493.352.734),929.243.500,,41.42,-2493352734.0,929243500.0
+400,300 > 400,400,Tổng thu nhập toàn diện,,(2.493.352.734),929.243.500,,,-2493352734.0,929243500.0
+401,300 > 401,401,Thu nhập toàn diện phân bổ cho chủ sở hữu,,(2.493.352.734),929.243.500,,,-2493352734.0,929243500.0
+500,300 > 500,500,XIII. THU NHẬP THUÀN TRÊN CỔ PHIỂU PHỐ THÔNG,,1.699.319.896.223,2.512.948.745.113,,,1699319896223.0,2512948745113.0
+501,300 > 501,501,Lãi cơ bản trên mỗi cổ phiếu (VND/1 cổ phiếu),43,1.432,2.852,,43.0,1432.0,2852.0
+502,300 > 502,502,Thu nhập pha loãng trên cổ phiếu (VND/1 cổ phiếu),44,1.310,2.643,,44.0,1310.0,2643.0

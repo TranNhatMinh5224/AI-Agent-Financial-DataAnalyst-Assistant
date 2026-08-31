@@ -1,0 +1,26 @@
+﻿row_label_raw,row_label_full,col_0,col_1,Mã số,Thuyết minh,2017 VND,2016 (Phân loại lại) VND,numeric__col_1,numeric__Mã số,numeric__Thuyết minh,numeric__2017 VND,numeric__2016 (Phân loại lại) VND
+DOANH THU HOẠT ĐỘNG,DOANH THU HOẠT ĐỘNG,DOANH THU HOẠT ĐỘNG,DOANH THU HOẠT ĐỘNG,DOANH THU HOẠT ĐỘNG,DOANH THU HOẠT ĐỘNG,DOANH THU HOẠT ĐỘNG,DOANH THU HOẠT ĐỘNG,,,,,
+1.1,DOANH THU HOẠT ĐỘNG > 1.1,1.1,Lãi từ các TSTC ghi nhận thông qua lãi/lỗ,01,,54.430.794.886,42.664.417.696,,1.0,,54430794886.0,42664417696.0
+a,DOANH THU HOẠT ĐỘNG > a,a,Lãi bán các TSTC ghi nhận thông qua lãi/lỗ,01.1,30(a),37.778.823.596,30.561.798.566,,11.0,,37778823596.0,30561798566.0
+b,DOANH THU HOẠT ĐỘNG > b,b,Chênh lệch tăng về đánh giá lại các TSTC ghi nhận thông qua lãi/lỗ,01.2,30(b),9.478.397.514,-,,12.0,,9478397514.0,
+c,DOANH THU HOẠT ĐỘNG > c,c,"Cố tức, tiền lãi phát sinh từ TSTC ghi nhận thông qua lãi/lỗ",01.3,,7.173.573.776,12.102.619.130,,13.0,,7173573776.0,12102619130.0
+1.2,DOANH THU HOẠT ĐỘNG > 1.2,1.2,Lãi từ các khoản đầu tư nắm giữ đến ngày đáo hạn,02,,23.669.513.114,10.993.252.126,,2.0,,23669513114.0,10993252126.0
+1.3,DOANH THU HOẠT ĐỘNG > 1.3,1.3,Lãi từ các khoản cho vay và phải thu,03,30(c),264.411.081.016,190.502.588.293,,3.0,,264411081016.0,190502588293.0
+1.4,DOANH THU HOẠT ĐỘNG > 1.4,1.4,Lãi từ TSTC sẵn sàng để bán,04,30(d),15.921.764.658,6.188.934.085,,4.0,,15921764658.0,6188934085.0
+1.6,DOANH THU HOẠT ĐỘNG > 1.6,1.6,Doanh thu nghiệp vụ môi giới chứng khoán,06,,315.620.662.600,149.051.553.582,,6.0,,315620662600.0,149051553582.0
+1.7,DOANH THU HOẠT ĐỘNG > 1.7,1.7,"Doanh thu nghiệp vụ bảo lãnh, đại lý phát hành chứng khoán",07,,-,1.012.193.119,,7.0,,,1012193119.0
+1.8,DOANH THU HOẠT ĐỘNG > 1.8,1.8,Doanh thu nghiệp vụ tư vấn đầu tư chứng khoán,08,,-,90.909.091,,8.0,,,90909091.0
+1.9,DOANH THU HOẠT ĐỘNG > 1.9,1.9,Doanh thu nghiệp vụ lưu ký chứng khoán,09,,10.275.501.801,7.457.943.114,,9.0,,10275501801.0,7457943114.0
+1.10,DOANH THU HOẠT ĐỘNG > 1.10,1.10,Doanh thu hoạt động tư vấn tài chính,10,,114.282.054.090,46.328.863.636,,10.0,,114282054090.0,46328863636.0
+1.11,DOANH THU HOẠT ĐỘNG > 1.11,1.11,Thu nhập hoạt động khác,11,30(e),39.117.702.919,57.307.901.132,,11.0,,39117702919.0,57307901132.0
+Cộng doanh thu hoạt động\( (20 = 01 + 02 + 03 + 04 + 06 + 07 + 08 + 09 + 10 + 11) \),DOANH THU HOẠT ĐỘNG > Cộng doanh thu hoạt động\( (20 = 01 + 02 + 03 + 04 + 06 + 07 + 08 + 09 + 10 + 11) \),Cộng doanh thu hoạt động\( (20 = 01 + 02 + 03 + 04 + 06 + 07 + 08 + 09 + 10 + 11) \),Cộng doanh thu hoạt động\( (20 = 01 + 02 + 03 + 04 + 06 + 07 + 08 + 09 + 10 + 11) \),20,,837.729.075.084,511.598.555.874,,20.0,,837729075084.0,511598555874.0
+II,II,II,CHI PHÍ HOẠT ĐỘNG,CHI PHÍ HOẠT ĐỘNG,CHI PHÍ HOẠT ĐỘNG,CHI PHÍ HOẠT ĐỘNG,CHI PHÍ HOẠT ĐỘNG,,,,,
+2.1,II > 2.1,2.1,Lỗ các TSTC ghi nhận thông qua lãi/lỗ,21,,134.463.311.523,71.517.514.221,,21.0,,134463311523.0,71517514221.0
+a,II > a,a,Lỗ bán các TSTC ghi nhận thông qua lãi/lỗ,21.1,31(a),109.212.808.771,71.305.142.517,,211.0,,109212808771.0,71305142517.0
+b,II > b,b,Chênh lệch giảm đánh giá lại các TSTC ghi nhận thông qua lãi/lỗ,21.2,31(b),25.013.047.879,-,,212.0,,25013047879.0,
+c,II > c,c,Chi phí giao dịch mua các TSTC ghi nhận thông qua lãi/lỗ,21.3,,237.454.873,212.371.704,,213.0,,237454873.0,212371704.0
+2.4,II > 2.4,2.4,"Chi phí dự phòng TSTC, xử lý tồn thất các khoản phải thu khó đòi và lỗ suy giảm TSTC và chi phí đi vay của các khoản cho vay",24,32,(133.166.584.142),(4.997.558.873),,24.0,32.0,-133166584142.0,-4997558873.0
+2.6,II > 2.6,2.6,Chi phí hoạt động tự doanh,26,,5.498.110.441,3.202.590.771,,26.0,,5498110441.0,3202590771.0
+2.7,II > 2.7,2.7,Chi phí nghiệp vụ môi giới chứng khoán,27,,245.642.876.428,152.825.238.279,,27.0,,245642876428.0,152825238279.0
+2.8,II > 2.8,2.8,"Chi phí nghiệp vụ bảo lãnh, đại lý phát hành chứng khoán",28,,925.084,-,,28.0,,925084.0,
+2.9,II > 2.9,2.9,Chi phí nghiệp vụ tư vấn đầu tư chứng khoán,29,,33.987.324.601,20.573.038.946,,29.0,,33987324601.0,20573038946.0

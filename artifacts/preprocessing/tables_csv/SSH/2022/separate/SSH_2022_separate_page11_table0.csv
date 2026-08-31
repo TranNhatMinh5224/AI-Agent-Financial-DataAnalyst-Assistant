@@ -1,0 +1,9 @@
+﻿row_label_raw,row_label_full,col_0,CHỈ TIÊU,Mã số,Năm nay,Năm trước,numeric__CHỈ TIÊU,numeric__Mã số,numeric__Năm nay,numeric__Năm trước
+III.,III.,III.,LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH,LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH,LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH,LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH,,,,
+1.,III. > 1.,1.,"Tiền thu từ phát hành cố phiếu, nhận vốn góp của chủ sở hữu",31,1.249.679.490.909,,,31.0,1249679490909.0,
+2.,III. > 2.,2.,Tiền thu từ đi vay,33,1.073.475.000.000,530.431.000.000,,33.0,1073475000000.0,530431000000.0
+3.,III. > 3.,3.,Tiền trả nợ gốc vay,34,(1.092.800.000.000),(1.337.931.000.000),,34.0,-1092800000000.0,-1337931000000.0
+,,,Lưu chuyển tiền thuần từ hoạt động tài chính,40,1.230.354.490.909,(807.500.000.000),,40.0,1230354490909.0,-807500000000.0
+,,,Lưu chuyển tiền thuần trong năm (50=20+30+40),50,(1.955.319.059),75.814.261.645,,50.0,-1955319059.0,75814261645.0
+,,,Tiền đầu năm,60,87.347.705.462,11.533.443.817,,60.0,87347705462.0,11533443817.0
+,,,Tiền và tương đương tiền cuối năm (70=50+60),70,85.392.386.403,87.347.705.462,,70.0,85392386403.0,87347705462.0

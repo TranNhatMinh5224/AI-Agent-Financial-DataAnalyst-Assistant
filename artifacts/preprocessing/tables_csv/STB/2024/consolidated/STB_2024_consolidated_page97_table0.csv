@@ -1,0 +1,21 @@
+﻿row_label_raw,row_label_full,col_0,EURTriệu VND,USDTriệu VND,VàngTriệu VND,Tiền tệ khácTriệu VND,Tổng cộngTriệu VND,numeric__EURTriệu VND,numeric__USDTriệu VND,numeric__VàngTriệu VND,numeric__Tiền tệ khácTriệu VND,numeric__Tổng cộngTriệu VND
+Tải sản,Tải sản,Tải sản,Tải sản,Tải sản,Tải sản,Tải sản,Tải sản,,,,,
+Tiền mặt và váng,Tải sản > Tiền mặt và váng,Tiền mặt và váng,225.695,2.467.493,89.835,396.415,3.179.438,225695.0,2467493.0,89835.0,396415.0,3179438.0
+Tiền gửi tại NHNN,Tải sản > Tiền gửi tại NHNN,Tiền gửi tại NHNN,797,2.258.258,-,317.477,2.576.532,797.0,2258258.0,,317477.0,2576532.0
+Tiền gửi và cho vay các TCTD khác,Tải sản > Tiền gửi và cho vay các TCTD khác,Tiền gửi và cho vay các TCTD khác,78.218,7.279.465,-,3.548.917,10.906.600,78218.0,7279465.0,,3548917.0,10906600.0
+Cho vay khách hàng – gộp,Tải sản > Cho vay khách hàng – gộp,Cho vay khách hàng – gộp,-,13.902.721,1.130,2.056.504,15.960.355,,13902721.0,1130.0,2056504.0,15960355.0
+Chứng khoán đầu tư – gộp,Tải sản > Chứng khoán đầu tư – gộp,Chứng khoán đầu tư – gộp,-,635,-,9.314,9.949,,635.0,,9314.0,9949.0
+Tải sản cố định,Tải sản > Tải sản cố định,Tải sản cố định,-,73.639,,96.154,169.793,,73639.0,,96154.0,169793.0
+Tải sản Có khác – gộp,Tải sản > Tải sản Có khác – gộp,Tải sản Có khác – gộp,1.547,1.039.810,-,121.570,1.162.927,1547.0,1039810.0,,121570.0,1162927.0
+Tổng tài sản (1),Tải sản > Tổng tài sản (1),Tổng tài sản (1),306.257,27.022.021,90.965,6.546.351,33.965.594,306257.0,27022021.0,90965.0,6546351.0,33965594.0
+Nợ phải trả,Nợ phải trả,Nợ phải trả,Nợ phải trả,Nợ phải trả,Nợ phải trả,Nợ phải trả,Nợ phải trả,,,,,
+Tiền gửi và vay các TCTD khác,Nợ phải trả > Tiền gửi và vay các TCTD khác,Tiền gửi và vay các TCTD khác,8,4.602.688,-,74.366,4.677.062,8.0,4602688.0,,74366.0,4677062.0
+Tiền gửi của khách hàng,Nợ phải trả > Tiền gửi của khách hàng,Tiền gửi của khách hàng,189.246,13.378.884,-,1.466.746,15.034.876,189246.0,13378884.0,,1466746.0,15034876.0
+Các công cụ tài chính phải sinh và các khoản nợ tài chính khác,Nợ phải trả > Các công cụ tài chính phải sinh và các khoản nợ tài chính khác,Các công cụ tài chính phải sinh và các khoản nợ tài chính khác,9.595,8.404.220,-,2.682.673,11.096.488,9595.0,8404220.0,,2682673.0,11096488.0
+"Vốn tải trợ, ủy thác đầu tư, cho vay TCTD chịu rủi ro","Nợ phải trả > Vốn tải trợ, ủy thác đầu tư, cho vay TCTD chịu rủi ro","Vốn tải trợ, ủy thác đầu tư, cho vay TCTD chịu rủi ro",-,-,-,449.009,449.009,,,,449009.0,449009.0
+Phát hành giấy tờ có giá,Nợ phải trả > Phát hành giấy tờ có giá,Phát hành giấy tờ có giá,-,5,-,-,5,,5.0,,,5.0
+Các khoản nợ khác,Nợ phải trả > Các khoản nợ khác,Các khoản nợ khác,11.572,659.563,-,396.849,1.067.984,11572.0,659563.0,,396849.0,1067984.0
+Tổng nợ phải trả (2),Nợ phải trả > Tổng nợ phải trả (2),Tổng nợ phải trả (2),210.421,27.045.360,-,5.069.643,32.325.424,210421.0,27045360.0,,5069643.0,32325424.0
+Trạng thái tiền tệ nội bảng [(3)=(1)-(2)],Nợ phải trả > Trạng thái tiền tệ nội bảng [(3)=(1)-(2)],Trạng thái tiền tệ nội bảng [(3)=(1)-(2)],95.836,(23.339),90.965,1.476.708,1.640.170,95836.0,-23339.0,90965.0,1476708.0,1640170.0
+Trạng thái tiền tệ ngoại bảng (4),Nợ phải trả > Trạng thái tiền tệ ngoại bảng (4),Trạng thái tiền tệ ngoại bảng (4),(94.926),2.201.850,-,(294.817),1.812.107,-94926.0,2201850.0,,-294817.0,1812107.0
+"Trạng thái tiền tệ nội, ngoại bảng [(5)=(3)+(4)]","Nợ phải trả > Trạng thái tiền tệ nội, ngoại bảng [(5)=(3)+(4)]","Trạng thái tiền tệ nội, ngoại bảng [(5)=(3)+(4)]",910,2.178.511,90.965,1.181.891,3.452.277,910.0,2178511.0,90965.0,1181891.0,3452277.0

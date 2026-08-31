@@ -1,0 +1,11 @@
+﻿row_label_raw,row_label_full,STT,Xếp hạng,Nhóm nợ,Mô tả,numeric__Xếp hạng,numeric__Nhóm nợ,numeric__Mô tả
+1,1,1,AAA,Nhóm 1,Nợ đủ tiêu chuẩn,,,
+2,2,2,AA,Nhóm 1,Nợ đủ tiêu chuẩn,,,
+3,3,3,A,Nhóm 1,Nợ đủ tiêu chuẩn,,,
+4,4,4,BBB,Nhóm 2,Nợ cần chú ý,,,
+5,5,5,BB,Nhóm 2,Nợ cần chú ý,,,
+6,6,6,B,Nhóm 3,Nợ dưới tiêu chuẩn,,,
+7,7,7,CCC,Nhóm 3,Nợ dưới tiêu chuẩn,,,
+8,8,8,CC,Nhóm 4,Nợ nghi ngờ,,,
+9,9,9,C,Nhóm 4,Nợ nghi ngờ,,,
+10,10,10,D,Nhóm 5,Nợ có khả năng mất vốn,,,

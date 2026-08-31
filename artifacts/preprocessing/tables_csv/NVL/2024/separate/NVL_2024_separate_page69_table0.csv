@@ -1,0 +1,21 @@
+﻿row_label_raw,row_label_full,Thuế thu nhập doanh nghiệp phải nộp trong năm được dự tính như sau:,Năm 2024,Năm 2023,numeric__Năm 2024,numeric__Năm 2023
+1. Tổng lợi nhuận trước thuế,1. Tổng lợi nhuận trước thuế,1. Tổng lợi nhuận trước thuế,169.660.608.736,(3.869.270.734.772),169660608736.0,-3869270734772.0
+"2. Các khoản điều chỉnh tăng, (giảm) lợi nhuận trước thuế để xác định lợi nhuận chịu thuế thu nhập doanh nghiệp:","2. Các khoản điều chỉnh tăng, (giảm) lợi nhuận trước thuế để xác định lợi nhuận chịu thuế thu nhập doanh nghiệp:","2. Các khoản điều chỉnh tăng, (giảm) lợi nhuận trước thuế để xác định lợi nhuận chịu thuế thu nhập doanh nghiệp:",1.975.696.620.886,2.947.404.560.683,1975696620886.0,2947404560683.0
+2.1. Điều chỉnh tăng tổng lợi nhuận trước thuế TNDN,2.1. Điều chỉnh tăng tổng lợi nhuận trước thuế TNDN,2.1. Điều chỉnh tăng tổng lợi nhuận trước thuế TNDN,1.979.441.955.863,2.955.919.832.818,1979441955863.0,2955919832818.0
+Chi phí lãi vay không được trừ theo quy định,Chi phí lãi vay không được trừ theo quy định,Chi phí lãi vay không được trừ theo quy định,1.968.409.694.284,2.912.878.153.041,1968409694284.0,2912878153041.0
+Chi phí phạt thuế,Chi phí phạt thuế,Chi phí phạt thuế,1.137.008.951,935.733.462,1137008951.0,935733462.0
+Chi phí không được trừ khác,Chi phí không được trừ khác,Chi phí không được trừ khác,9.895.252.628,42.105.946.315,9895252628.0,42105946315.0
+2.2. Điều chỉnh giảm tổng lợi nhuận trước thuế TNDN,2.2. Điều chỉnh giảm tổng lợi nhuận trước thuế TNDN,2.2. Điều chỉnh giảm tổng lợi nhuận trước thuế TNDN,(3.745.334.977),(8.515.272.135),-3745334977.0,-8515272135.0
+Hoàn các khoản trích vào chi phí năm trước,Hoàn các khoản trích vào chi phí năm trước,Hoàn các khoản trích vào chi phí năm trước,(2.776.746.622),(7.546.683.780),-2776746622.0,-7546683780.0
+Đánh giá chênh lệch giá trị dự án,Đánh giá chênh lệch giá trị dự án,Đánh giá chênh lệch giá trị dự án,(968.588.355),(968.588.355),-968588355.0,-968588355.0
+3. Thu nhập chịu thuế (3=1+2),3. Thu nhập chịu thuế (3=1+2),3. Thu nhập chịu thuế (3=1+2),2.145.357.229.622,(921.866.174.089),2145357229622.0,-921866174089.0
+Thu nhập tính thuế từ hoạt động kinh doanh,Thu nhập tính thuế từ hoạt động kinh doanh,Thu nhập tính thuế từ hoạt động kinh doanh,2.145.079.142.676,(961.425.660.429),2145079142676.0,-961425660429.0
+Thu nhập tính thuế từ hoạt động chuyển nhượng Bất động sản,Thu nhập tính thuế từ hoạt động chuyển nhượng Bất động sản,Thu nhập tính thuế từ hoạt động chuyển nhượng Bất động sản,278.086.946,(1.838.813.660),278086946.0,-1838813660.0
+4. Thu nhập được miễn thuế,4. Thu nhập được miễn thuế,4. Thu nhập được miễn thuế,(26.042.194.845),(41.398.300.000),-26042194845.0,-41398300000.0
+Thu nhập từ cổ tức lợi nhuận được chia,Thu nhập từ cổ tức lợi nhuận được chia,Thu nhập từ cổ tức lợi nhuận được chia,(26.042.194.845),(41.398.300.000),-26042194845.0,-41398300000.0
+5. Chuyển lỗ và bù trừ lãi lỗ,5. Chuyển lỗ và bù trừ lãi lỗ,5. Chuyển lỗ và bù trừ lãi lỗ,(2.119.315.034.777),-,-2119315034777.0,
+Lỗ từ hoạt động kinh doanh được chuyển trong năm,Lỗ từ hoạt động kinh doanh được chuyển trong năm,Lỗ từ hoạt động kinh doanh được chuyển trong năm,(2.119.036.947.831),-,-2119036947831.0,
+Lỗ từ hoạt động chuyển nhượng bất động sản trong năm,Lỗ từ hoạt động chuyển nhượng bất động sản trong năm,Lỗ từ hoạt động chuyển nhượng bất động sản trong năm,(278.086.946),-,-278086946.0,
+6. Thu nhập tính thuế (5=3+4),6. Thu nhập tính thuế (5=3+4),6. Thu nhập tính thuế (5=3+4),-,,,
+7. Thuế suất thuế thu nhập doanh nghiệp,6. Thu nhập tính thuế (5=3+4) > 7. Thuế suất thuế thu nhập doanh nghiệp,7. Thuế suất thuế thu nhập doanh nghiệp,20%,20%,0.2,0.2
+8. Tổng Thuế thu nhập doanh nghiệp hiện hành (7=5*6),8. Tổng Thuế thu nhập doanh nghiệp hiện hành (7=5*6),8. Tổng Thuế thu nhập doanh nghiệp hiện hành (7=5*6),-,,,

@@ -1,0 +1,18 @@
+﻿row_label_raw,row_label_full,col_0,Năm nay,Năm trước(Trình bày lại),numeric__Năm nay,numeric__Năm trước(Trình bày lại)
+,,,VND,VND,,
+Lợi nhuận trước thuế,Lợi nhuận trước thuế,Lợi nhuận trước thuế,923.285.823.524,960.947.284.007,923285823524.0,960947284007.0
+Điều chỉnh cho thu nhập chịu thuế,Điều chỉnh cho thu nhập chịu thuế,Điều chỉnh cho thu nhập chịu thuế,,,,
+Trừ,Trừ,Trừ,,,,
+- Thu nhập không chịu thuế (i),Trừ > - Thu nhập không chịu thuế (i),- Thu nhập không chịu thuế (i),(148.248.656.412),(66.622.040.131),-148248656412.0,-66622040131.0
+- Doanh thu chưa thực hiện chuyển sang,Trừ > - Doanh thu chưa thực hiện chuyển sang,- Doanh thu chưa thực hiện chuyển sang,(127.625.818.223),(257.280.370.061),-127625818223.0,-257280370061.0
+- Giá vốn tương ứng doanh thu chưa thực hiện chuyển sang,Trừ > - Giá vốn tương ứng doanh thu chưa thực hiện chuyển sang,- Giá vốn tương ứng doanh thu chưa thực hiện chuyển sang,48.395.440.872,97.733.415.880,48395440872.0,97733415880.0
+- Chuyển lỗ,Trừ > - Chuyển lỗ,- Chuyển lỗ,(38.260.469.296),-,-38260469296.0,
+- Các khoản điều chỉnh giảm lợi nhuận trước thuế,Trừ > - Các khoản điều chỉnh giảm lợi nhuận trước thuế,- Các khoản điều chỉnh giảm lợi nhuận trước thuế,(19.484.239.942),-,-19484239942.0,
+Cộng,Cộng,Cộng,,,,
+- Chi phí không được khấu trừ,Cộng > - Chi phí không được khấu trừ,- Chi phí không được khấu trừ,77.119.027,2.505.296,77119027.0,2505296.0
+Thu nhập chịu thuế,Cộng > Thu nhập chịu thuế,Thu nhập chịu thuế,638.139.199.550,734.780.794.991,638139199550.0,734780794991.0
+Thuế suất thuế thu nhập doanh nghiệp,Cộng > Thuế suất thuế thu nhập doanh nghiệp,Thuế suất thuế thu nhập doanh nghiệp,20%,20%,0.2,0.2
+Thuế thu nhập doanh nghiệp,Cộng > Thuế thu nhập doanh nghiệp,Thuế thu nhập doanh nghiệp,127.627.839.910,171.201.325.028,127627839910.0,171201325028.0
+Trừ: Thuế thu nhập doanh nghiệp được giảm trừ (ii),Cộng > Trừ: Thuế thu nhập doanh nghiệp được giảm trừ (ii),Trừ: Thuế thu nhập doanh nghiệp được giảm trừ (ii),-,(68.682.193.415),,-68682193415.0
+Thuế thu nhập doanh nghiệp hiện hành,Cộng > Thuế thu nhập doanh nghiệp hiện hành,Thuế thu nhập doanh nghiệp hiện hành,127.627.839.910,102.519.131.613,127627839910.0,102519131613.0
+Thuế thu nhập doanh nghiệp hoãn lại (iii),Cộng > Thuế thu nhập doanh nghiệp hoãn lại (iii),Thuế thu nhập doanh nghiệp hoãn lại (iii),24.138.169.329,7.042.276.794,24138169329.0,7042276794.0

@@ -1,0 +1,12 @@
+﻿row_label_raw,row_label_full,col_0,Năm 2015Triệu đồng,Năm 2014Triệu đồng,numeric__Năm 2015Triệu đồng,numeric__Năm 2014Triệu đồng
+Thu nhập từ hoạt động kinh doanh trước thuế,Thu nhập từ hoạt động kinh doanh trước thuế,Thu nhập từ hoạt động kinh doanh trước thuế,655.144,648.353,655144.0,648353.0
+Trừ:,Trừ:,Trừ:,,,,
+- Thu nhập không chịu thuế,Trừ: > - Thu nhập không chịu thuế,- Thu nhập không chịu thuế,(3.449),(1.403),-3449.0,-1403.0
+Cộng:,Cộng:,Cộng:,,,,
+- Chi phí không được khấu trừ,- Chi phí không được khấu trừ,- Chi phí không được khấu trừ,-,-,,
+Thu nhập chịu thuế TNDN,- Chi phí không được khấu trừ > Thu nhập chịu thuế TNDN,Thu nhập chịu thuế TNDN,651.695,646.950,651695.0,646950.0
+Chi phí thuế TNDN hiện hành trong năm,- Chi phí không được khấu trừ > Chi phí thuế TNDN hiện hành trong năm,Chi phí thuế TNDN hiện hành trong năm,140.446,141.264,140446.0,141264.0
+Chi phí thuế TNDN phát sinh trong năm,- Chi phí không được khấu trừ > Chi phí thuế TNDN phát sinh trong năm,Chi phí thuế TNDN phát sinh trong năm,140.446,141.264,140446.0,141264.0
+Thuế TNDN phải trả/(phải thu) đầu năm,- Chi phí không được khấu trừ > Thuế TNDN phải trả/(phải thu) đầu năm,Thuế TNDN phải trả/(phải thu) đầu năm,77.943,(34.690),77943.0,-34690.0
+Thuế TNDN đã trả trong năm,- Chi phí không được khấu trừ > Thuế TNDN đã trả trong năm,Thuế TNDN đã trả trong năm,(144.202),(28.631),-144202.0,-28631.0
+Thuế TNDN phải trả cuối năm,- Chi phí không được khấu trừ > Thuế TNDN phải trả cuối năm,Thuế TNDN phải trả cuối năm,74.187,77.943,74187.0,77943.0

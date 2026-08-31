@@ -1,0 +1,14 @@
+﻿row_label_raw,row_label_full,Financial assets,Ending balance,Opening balance,numeric__Ending balance,numeric__Opening balance
+1. Freely transferred financial assets,1. Freely transferred financial assets,1. Freely transferred financial assets,2.662.400.000,4.293.430.000,2662400000.0,4293430000.0
+2. Restrictedly transferred financial assets,2. Restrictedly transferred financial assets,2. Restrictedly transferred financial assets,345.346.590.000,266.037.310.000,345346590000.0,266037310000.0
+3. Mortgaged and traded financial assets,3. Mortgaged and traded financial assets,3. Mortgaged and traded financial assets,,,,
+4. Blocked financial assets,4. Blocked financial assets,4. Blocked financial assets,,,,
+Total,4. Blocked financial assets > Total,Total,348.008.990.000,270.330.740.000,348008990000.0,270330740000.0
+A.7.18. Financial assets await the return of Investor,A.7.18. Financial assets await the return of Investor,A.7.18. Financial assets await the return of Investor,A.7.18. Financial assets await the return of Investor,A.7.18. Financial assets await the return of Investor,,
+Financial assets,Financial assets,Financial assets,Ending balance,Opening balance,,
+Awaiting financial assets of Investor,Financial assets > Awaiting financial assets of Investor,Awaiting financial assets of Investor,332.380.238.600,544.582.770.000,332380238600.0,544582770000.0
+Total,Financial assets > Total,Total,332.380.238.600,544.582.770.000,332380238600.0,544582770000.0
+A.7.19. Financial assets are entitled of Investors,A.7.19. Financial assets are entitled of Investors,A.7.19. Financial assets are entitled of Investors,A.7.19. Financial assets are entitled of Investors,A.7.19. Financial assets are entitled of Investors,,
+Financial assets,Financial assets,Financial assets,Ending balance,Opening balance,,
+Financial assets are entitled of Investor,Financial assets > Financial assets are entitled of Investor,Financial assets are entitled of Investor,56.090.720.000,140.201.130.000,56090720000.0,140201130000.0
+Total,Financial assets > Total,Total,56.090.720.000,140.201.130.000,56090720000.0,140201130000.0

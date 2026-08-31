@@ -1,0 +1,21 @@
+﻿row_label_raw,row_label_full,CHỈ TIÊU,CHỈ TIÊU_1,Mã số,Thuyết minh,Năm nay,Năm trước,numeric__CHỈ TIÊU_1,numeric__Mã số,numeric__Thuyết minh,numeric__Năm nay,numeric__Năm trước
+I. Lưu chuyển tiền từ hoạt động kinh doanh,I. Lưu chuyển tiền từ hoạt động kinh doanh,I. Lưu chuyển tiền từ hoạt động kinh doanh,I. Lưu chuyển tiền từ hoạt động kinh doanh,I. Lưu chuyển tiền từ hoạt động kinh doanh,I. Lưu chuyển tiền từ hoạt động kinh doanh,I. Lưu chuyển tiền từ hoạt động kinh doanh,I. Lưu chuyển tiền từ hoạt động kinh doanh,,,,,
+1.,I. Lưu chuyển tiền từ hoạt động kinh doanh > 1.,1.,Lợi nhuận trước thuế,01,,451.587.014.474,369.005.043.243,,1.0,,451587014474.0,369005043243.0
+2.,2.,2.,Điều chỉnh cho các khoản:,,,,,,,,,
+-,2. > -,-,Khấu hao tài sản cố định và bắt động sản đầu tư,02,V.9;V.10;V.11;V.15,44.979.302.260,39.562.530.926,,2.0,,44979302260.0,39562530926.0
+-,2. > -,-,Các khoản dự phòng,03,,-,-,,3.0,,,
+-,2. > -,-,"Lãi, lỗ chênh lệch tỷ giá hối đoái do đánh giá lại các khoản mục tiền tệ có gốc ngoại tệ",04,,388.272,1.170.230,,4.0,,388272.0,1170230.0
+-,2. > -,-,"Lãi, lỗ từ hoạt động đầu tư",05,VI.4,(2.448.204.232),(9.659.517.254),,5.0,,-2448204232.0,-9659517254.0
+-,2. > -,-,Chi phí lãi vay,06,VI.5,72.794.957.781,34.144.011.575,,6.0,,72794957781.0,34144011575.0
+-,2. > -,-,Các khoản điều chỉnh khác,07,,-,-,,7.0,,,
+3.,2. > 3.,3.,Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động,08,,566.913.458.555,433.053.238.720,,8.0,,566913458555.0,433053238720.0
+-,2. > -,-,"Tăng, giảm các khoản phải thu",09,,144.433.594.684,84.978.546.681,,9.0,,144433594684.0,84978546681.0
+-,2. > -,-,"Tăng, giảm hàng tồn kho",10,,975.911.269.107,431.700.999.970,,10.0,,975911269107.0,431700999970.0
+-,2. > -,-,"Tăng, giảm các khoản phải trả",11,,(975.700.516.383),347.090.758.741,,11.0,,-975700516383.0,347090758741.0
+-,2. > -,-,"Tăng, giảm chi phí trả trước",12,,445.229.415,2.455.245.781,,12.0,,445229415.0,2455245781.0
+-,2. > -,-,"Tăng, giảm chứng khoán kinh doanh",13,,-,-,,13.0,,,
+-,2. > -,-,Tiền lãi vay đã trả,14,V.20;VI.5,(71.780.376.040),(143.224.914.076),,14.0,,-71780376040.0,-143224914076.0
+-,2. > -,-,Thuế thu nhập doanh nghiệp đã nộp,15,V.18,(59.380.774.615),(64.705.726.820),,15.0,,-59380774615.0,-64705726820.0
+-,2. > -,-,Tiền thu khác từ hoạt động kinh doanh,16,,-,-,,16.0,,,
+-,2. > -,-,Tiền chi khác cho hoạt động kinh doanh,17,V.24;V.25,(20.459.959.769),(12.894.437.297),,17.0,,-20459959769.0,-12894437297.0
+,,,Lưu chuyển tiền thuần từ hoạt động kinh doanh,20,,560.381.924.954,1.078.453.711.700,,20.0,,560381924954.0,1078453711700.0

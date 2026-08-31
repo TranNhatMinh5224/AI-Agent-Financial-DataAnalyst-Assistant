@@ -1,0 +1,14 @@
+﻿row_label_raw,row_label_full,CHỈ TIÊU,Thuyết minh,31/12/2022,01/01/2022,numeric__Thuyết minh,numeric__31/12/2022,numeric__01/01/2022
+1. Bảo lãnh vay vốn,1. Bảo lãnh vay vốn,1. Bảo lãnh vay vốn,,28.644,429,,28644.0,429.0
+2. Cam kết giao dịch hối đoái,2. Cam kết giao dịch hối đoái,2. Cam kết giao dịch hối đoái,VIII.28,10.526.850,8.834.760,,10526850.0,8834760.0
+2.1 Cam kết mua ngoại tệ,2.1 Cam kết mua ngoại tệ,2.1 Cam kết mua ngoại tệ,,-,-,,,
+2.2 Cam kết bán ngoại tệ,2.2 Cam kết bán ngoại tệ,2.2 Cam kết bán ngoại tệ,,-,-,,,
+2.3 Cam kết giao dịch hoán đổi,2.2 Cam kết bán ngoại tệ > 2.3 Cam kết giao dịch hoán đổi,2.3 Cam kết giao dịch hoán đổi,,10.526.850,8.834.760,,10526850.0,8834760.0
+2.4 Cam kết giao dịch tương lai,2.4 Cam kết giao dịch tương lai,2.4 Cam kết giao dịch tương lai,,-,-,,,
+3. Cam kết cho vay không hủy ngang,3. Cam kết cho vay không hủy ngang,3. Cam kết cho vay không hủy ngang,,-,-,,,
+4. Cam kết trong nghiệp vụ L/C,3. Cam kết cho vay không hủy ngang > 4. Cam kết trong nghiệp vụ L/C,4. Cam kết trong nghiệp vụ L/C,VIII.28,262.005,148.644,,262005.0,148644.0
+5. Bảo lãnh khác,3. Cam kết cho vay không hủy ngang > 5. Bảo lãnh khác,5. Bảo lãnh khác,VIII.28,3.582.868,2.641.077,,3582868.0,2641077.0
+6. Các cam kết khác,3. Cam kết cho vay không hủy ngang > 6. Các cam kết khác,6. Các cam kết khác,VIII.28,714.478,872.414,,714478.0,872414.0
+7. Lãi cho vay và phí phải thu chưa thu được,3. Cam kết cho vay không hủy ngang > 7. Lãi cho vay và phí phải thu chưa thu được,7. Lãi cho vay và phí phải thu chưa thu được,,5.929.940,3.674.618,,5929940.0,3674618.0
+8. Nợ khó đòi đã xử lý,3. Cam kết cho vay không hủy ngang > 8. Nợ khó đòi đã xử lý,8. Nợ khó đòi đã xử lý,,167.574,167.723,,167574.0,167723.0
+9. Tài sản và chứng từ khác,3. Cam kết cho vay không hủy ngang > 9. Tài sản và chứng từ khác,9. Tài sản và chứng từ khác,,2.567.183,626.925,,2567183.0,626925.0

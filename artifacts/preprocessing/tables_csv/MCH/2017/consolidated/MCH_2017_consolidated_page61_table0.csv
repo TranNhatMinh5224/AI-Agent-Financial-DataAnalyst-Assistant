@@ -1,0 +1,17 @@
+﻿row_label_raw,row_label_full,Mối quan hệ,Bản chất giao dịch,Giá trị giao dịch > 2017VND,Giá trị giao dịch > 2016VND,Phải thu/(phải trả) tại ngày > 31/12/2017VND,Phải thu/(phải trả) tại ngày > 1/1/2017VND,numeric__Bản chất giao dịch,numeric__Giá trị giao dịch > 2017VND,numeric__Giá trị giao dịch > 2016VND,numeric__Phải thu/(phải trả) tại ngày > 31/12/2017VND,numeric__Phải thu/(phải trả) tại ngày > 1/1/2017VND
+Công ty mẹ,Công ty mẹ,Công ty mẹ,Công ty mẹ,Công ty mẹ,Công ty mẹ,Công ty mẹ,Công ty mẹ,,,,,
+Công ty TNHH,Công ty mẹ > Công ty TNHH,Công ty TNHH,Cho vay,5.420.405.000.000,3.559.078.712.592,5.896.716.876.592,1.663.716.876.592,,5420405000000.0,3559078712592.0,5896716876592.0,1663716876592.0
+MasanConsumerHoldings,Công ty mẹ > MasanConsumerHoldings,MasanConsumerHoldings,Thu hồi khoản cho vay,-,6.100.000.000,-,-,,,6100000000.0,,
+MasanConsumerHoldings,Công ty mẹ > MasanConsumerHoldings,MasanConsumerHoldings,Thu hồi khoản cho vay thông qua việc cấn trừ với cổ tức phải trả,1.187.405.000.000,1.889.261.836.000,-,-,,1187405000000.0,1889261836000.0,,
+MasanConsumerHoldings,Công ty mẹ > MasanConsumerHoldings,MasanConsumerHoldings,Thu nhập lãi từ các khoản cho vay,220.132.965.010,114.905.802.559,335.038.767.569,114.905.802.559,,220132965010.0,114905802559.0,335038767569.0,114905802559.0
+MasanConsumerHoldings,Công ty mẹ > MasanConsumerHoldings,MasanConsumerHoldings,Cổ tức đã phân phối,2.270.686.203.000,2.799.261.836.000,-,-,,2270686203000.0,2799261836000.0,,
+MasanConsumerHoldings,Công ty mẹ > MasanConsumerHoldings,MasanConsumerHoldings,Trả cổ tức bằng tiền,1.083.281.203.000,910.000.000.000,-,-,,1083281203000.0,910000000000.0,,
+Công ty liên kết,Công ty liên kết,Công ty liên kết,Công ty liên kết,Công ty liên kết,Công ty liên kết,Công ty liên kết,Công ty liên kết,,,,,
+Công ty Cổ phần Thực phẩm Cholimex,Công ty liên kết > Công ty Cổ phần Thực phẩm Cholimex,Công ty Cổ phần Thực phẩm Cholimex,Cổ tức nhận được trước ngày mua,-,5.410.434.000,-,-,,,5410434000.0,,
+Công ty Cổ phần Thực phẩm Cholimex,Công ty liên kết > Công ty Cổ phần Thực phẩm Cholimex,Công ty Cổ phần Thực phẩm Cholimex,Cổ tức nhận sau ngày mua,5.318.443.000,6.648.042.500,-,-,,5318443000.0,6648042500.0,,
+Các bên liên quan khác,Các bên liên quan khác,Các bên liên quan khác,Các bên liên quan khác,Các bên liên quan khác,Các bên liên quan khác,Các bên liên quan khác,Các bên liên quan khác,,,,,
+Công ty TNHH Một Thành viên,Các bên liên quan khác > Công ty TNHH Một Thành viên,Công ty TNHH Một Thành viên,Bán hàng hóa,30.145.786,39.439.978,-,5.644.586,,30145786.0,39439978.0,,5644586.0
+Masan Brewery PY,Masan Brewery PY,Masan Brewery PY,Masan Brewery PY,Masan Brewery PY,Masan Brewery PY,Masan Brewery PY,Masan Brewery PY,,,,,
+Công ty TNHH Một Thành viên,Masan Brewery PY > Công ty TNHH Một Thành viên,Công ty TNHH Một Thành viên,Mua hàng hóa,1.620.813.794,1.880.413.261,(409.681.308),-,,1620813794.0,1880413261.0,-409681308.0,
+Masan Brewery Distribution,Masan Brewery PY > Masan Brewery Distribution,Masan Brewery Distribution,Bán hàng hóa,816.513.690,1.153.360,10.614.490,-,,816513690.0,1153360.0,10614490.0,
+Masan Brewery Distribution,Masan Brewery PY > Masan Brewery Distribution,Masan Brewery Distribution,Phí hỗ trợ quản lý,42.212.820.014,28.990.613.560,46.467.302.338,31.752.716.796,,42212820014.0,28990613560.0,46467302338.0,31752716796.0

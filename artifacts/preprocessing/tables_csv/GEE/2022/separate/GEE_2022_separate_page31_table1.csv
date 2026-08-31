@@ -1,0 +1,13 @@
+﻿row_label_raw,row_label_full,col_0,Số đầu năm,Số đã thực nộp trong năm,Số phải nộp trong năm,Số cuối năm,numeric__Số đầu năm,numeric__Số đã thực nộp trong năm,numeric__Số phải nộp trong năm,numeric__Số cuối năm
+,,,VND,VND,VND,VND,,,,
+a. Các khoản phải thu,a. Các khoản phải thu,a. Các khoản phải thu,a. Các khoản phải thu,a. Các khoản phải thu,a. Các khoản phải thu,a. Các khoản phải thu,,,,
+Thuế thu nhập doanh nghiệp,a. Các khoản phải thu > Thuế thu nhập doanh nghiệp,Thuế thu nhập doanh nghiệp,254.361.769,-,-,254.361.769,254361769.0,,,254361769.0
+Thuế giá trị gia tăng,a. Các khoản phải thu > Thuế giá trị gia tăng,Thuế giá trị gia tăng,-,11.519.304.307,-,11.519.304.307,,11519304307.0,,11519304307.0
+Thuế giá trị gia tăng,a. Các khoản phải thu > Thuế giá trị gia tăng,Thuế giá trị gia tăng,254.361.769,11.519.304.307,-,11.773.666.076,254361769.0,11519304307.0,,11773666076.0
+,,,Số đầu năm,Số phải nộp trong năm,Số đã thực nộp trong năm,Số cuối năm,,,,
+,,,VND,VND,VND,VND,,,,
+b. Các khoản phải nộp,b. Các khoản phải nộp,b. Các khoản phải nộp,b. Các khoản phải nộp,b. Các khoản phải nộp,b. Các khoản phải nộp,b. Các khoản phải nộp,,,,
+Thuế giá trị gia tăng,b. Các khoản phải nộp > Thuế giá trị gia tăng,Thuế giá trị gia tăng,-,170.013.665.297,170.013.665.297,-,,170013665297.0,170013665297.0,
+Thuế thu nhập cá nhân,b. Các khoản phải nộp > Thuế thu nhập cá nhân,Thuế thu nhập cá nhân,102.709.564,4.778.593.462,4.078.113.935,803.189.091,102709564.0,4778593462.0,4078113935.0,803189091.0
+Các loại thuế khác,b. Các khoản phải nộp > Các loại thuế khác,Các loại thuế khác,-,86.452.066,86.452.066,-,,86452066.0,86452066.0,
+,,,102.709.564,174.878.710.825,174.178.231.298,803.189.091,102709564.0,174878710825.0,174178231298.0,803189091.0

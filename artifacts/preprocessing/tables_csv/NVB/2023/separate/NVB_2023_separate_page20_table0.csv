@@ -1,0 +1,6 @@
+﻿row_label_raw,row_label_full,Nhóm,Phân loại nợ,Tỷ lệ lập dự phòng cụ thể,numeric__Phân loại nợ,numeric__Tỷ lệ lập dự phòng cụ thể
+Nhóm 1,Nhóm 1,Nhóm 1,Nợ du tiêu chuẩn,0%,,0.0
+Nhóm 2,Nhóm 2,Nhóm 2,Nợ cần chú ý,5%,,0.05
+Nhóm 3,Nhóm 3,Nhóm 3,Nợ dưới tiêu chuẩn,20%,,0.2
+Nhóm 4,Nhóm 4,Nhóm 4,Nợ nghi ngơ,50%,,0.5
+Nhóm 5,Nhóm 5,Nhóm 5,Nợ có kha năng mất vốn,100%,,1.0

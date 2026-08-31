@@ -1,0 +1,12 @@
+﻿row_label_raw,row_label_full,col_0,Thuyết minh,Số đầu năm > Giá trị đồng thời là số có khả năng trả nợ,Phát sinh trong năm > Tăng,Phát sinh trong năm > Giảm,Đơn vị tính: VND Số cuối năm > Giá trị đồng thời là số có khả năng trả nợ,numeric__Thuyết minh,numeric__Số đầu năm > Giá trị đồng thời là số có khả năng trả nợ,numeric__Phát sinh trong năm > Tăng,numeric__Phát sinh trong năm > Giảm,numeric__Đơn vị tính: VND Số cuối năm > Giá trị đồng thời là số có khả năng trả nợ
+Vay ngắn hạn,Vay ngắn hạn,Vay ngắn hạn,Vay ngắn hạn,Vay ngắn hạn,Vay ngắn hạn,Vay ngắn hạn,Vay ngắn hạn,,,,,
+Vay ngân hàng,Vay ngắn hạn > Vay ngân hàng,Vay ngân hàng,24.1,2.119.868.178.128,7.407.019.931.432,7.920.097.891.979,1.606.790.217.581,241.0,2119868178128.0,7407019931432.0,7920097891979.0,1606790217581.0
+Vay ngân hàng dài hạn đến hạn trả,Vay ngắn hạn > Vay ngân hàng dài hạn đến hạn trả,Vay ngân hàng dài hạn đến hạn trả,24.2,56.904.000.000,225.586.027.397,57.894.000.000,224.596.027.397,242.0,56904000000.0,225586027397.0,57894000000.0,224596027397.0
+Vay đối tượng khác,Vay ngắn hạn > Vay đối tượng khác,Vay đối tượng khác,24.3,6.408.920.000,61.528.201.490,53.501.921.490,14.435.200.000,243.0,6408920000.0,61528201490.0,53501921490.0,14435200000.0
+Vay các bên liên quan,Vay ngắn hạn > Vay các bên liên quan,Vay các bên liên quan,,-,194.000.000.000,194.000.000.000,-,,,194000000000.0,194000000000.0,
+Trái phiếu phát hành đến hạn trả,Vay ngắn hạn > Trái phiếu phát hành đến hạn trả,Trái phiếu phát hành đến hạn trả,24.4,-,42.000.000.000,-,42.000.000.000,244.0,,42000000000.0,,42000000000.0
+TỔNG CỘNG,Vay ngắn hạn > TỔNG CỘNG,TỔNG CỘNG,,2.183.181.098.128,7.930.134.160.319,8.225.493.813.469,1.887.821.444.978,,2183181098128.0,7930134160319.0,8225493813469.0,1887821444978.0
+Vay dài hạn,Vay dài hạn,Vay dài hạn,Vay dài hạn,Vay dài hạn,Vay dài hạn,Vay dài hạn,Vay dài hạn,,,,,
+Vay ngân hàng,Vay dài hạn > Vay ngân hàng,Vay ngân hàng,24.2,569.143.971.746,418.182.462.792,385.943.888.688,601.382.545.850,242.0,569143971746.0,418182462792.0,385943888688.0,601382545850.0
+Trái phiếu phát hành,Vay dài hạn > Trái phiếu phát hành,Trái phiếu phát hành,24.4,606.853.874.086,76.432.304.076,42.300.000.000,640.986.178.162,244.0,606853874086.0,76432304076.0,42300000000.0,640986178162.0
+TỔNG CỘNG,Vay dài hạn > TỔNG CỘNG,TỔNG CỘNG,,1.175.997.845.832,494.614.766.868,428.243.888.688,1.242.368.724.012,,1175997845832.0,494614766868.0,428243888688.0,1242368724012.0

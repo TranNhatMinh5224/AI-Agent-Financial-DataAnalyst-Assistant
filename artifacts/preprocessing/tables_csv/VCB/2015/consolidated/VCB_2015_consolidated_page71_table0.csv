@@ -1,0 +1,19 @@
+﻿row_label_raw,row_label_full,col_0,col_1,Giá trị ghi số > Kinh doanh,Giá trị ghi số > Giữ đến ngàyđáo hạn,Giá trị ghi số > Cho vay vàphải thu,Giá trị ghi số > Sẵn sảđể bả,numeric__col_1,numeric__Giá trị ghi số > Kinh doanh,numeric__Giá trị ghi số > Giữ đến ngàyđáo hạn,numeric__Giá trị ghi số > Cho vay vàphải thu,numeric__Giá trị ghi số > Sẵn sảđể bả
+,,,,Triệu VND,Triệu VND,Triệu VND,Triệu 1,,,,,
+,,,Tài sản tài chính,,,,,,,,,
+I,I,I,"Tiền mặt, vàng bạc, đá quý",8.519.334,-,-,,,8519334.0,,,
+II,II,II,Tiền gửi tại NHNN,19.715.035,-,-,,,19715035.0,,,
+III,III,III,Tiền gửi tại và cho vay các tổ chức tín dụng khác,-,-,131.527.373,,,,,131527373.0,
+IV,IV,IV,Chứng khoán kinh doanh,9.468.255,-,-,,,9468255.0,,,
+V,V,V,Các công cụ tài chính phải sinh và các tài sản tài chính khác,628,,,,,628.0,,,
+VI,VI,VI,Cho vay khách hàng,-,-,387.151.704,,,,,387151704.0,
+VIII,VIII,VIII,Chứng khoán đầu tư,-,62.253.467,3.564.811,42.941,,,62253467.0,3564811.0,42941.0
+IX,IX,IX,"Góp vốn, đầu tư dài hạn",-,-,-,2.829,,,,,2829.0
+XII,XII,XII,Tài sản tài chính khác,-,-,7.827.933,,,,,7827933.0,
+,,,,37.703.252,62.253.467,530.071.821,45.770,,37703252.0,62253467.0,530071821.0,45770.0
+,,,Nợ phải trả tài chính,,,,,,,,,
+"I, II","I, II","I, II",Các khoản nợ Chính phủ và NHNN và tiền gửi và vay các TCTD khác,-,-,-,,,,,,
+III,III,III,Tiền gửi của khách hàng,-,-,-,,,,,,
+VI,VI,VI,Phát hành giấy tờ có giá,-,-,-,,,,,,
+VII,VII,VII,Các khoản nợ phải trả tài chính khác,-,-,-,,,,,,
+,,,,-,-,-,,,,,,

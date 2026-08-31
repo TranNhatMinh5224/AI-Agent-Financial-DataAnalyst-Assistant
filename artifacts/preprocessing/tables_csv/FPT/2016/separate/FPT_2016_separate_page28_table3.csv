@@ -1,0 +1,13 @@
+﻿row_label_raw,row_label_full,col_0,Năm nayVND,Năm trướcVND,numeric__Năm nayVND,numeric__Năm trướcVND
+Chi phí thuế thu nhập doanh nghiệp hiện hànhLợi nhuận trước thuế,Chi phí thuế thu nhập doanh nghiệp hiện hànhLợi nhuận trước thuế,Chi phí thuế thu nhập doanh nghiệp hiện hànhLợi nhuận trước thuế,1.149.905.294.454,1.779.645.661.301,1149905294454.0,1779645661301.0
+Điều chỉnh cho thu nhập chịu thuế,Điều chỉnh cho thu nhập chịu thuế,Điều chỉnh cho thu nhập chịu thuế,,,,
+Trừ:,Trừ:,Trừ:,,,,
+"Cổ tức, lợi nhuận được chia","Trừ: > Cổ tức, lợi nhuận được chia","Cổ tức, lợi nhuận được chia",(1.104.189.617.000),(1.743.021.353.000),-1104189617000.0,-1743021353000.0
+Khác,Trừ: > Khác,Khác,(891.257.707),-,-891257707.0,
+Cộng:,Cộng:,Cộng:,,,,
+Các khoản chỉ phí không được khấu trừ,Cộng: > Các khoản chỉ phí không được khấu trừ,Các khoản chỉ phí không được khấu trừ,5.034.941.004,7.134.476.378,5034941004.0,7134476378.0
+Thu nhập chịu thuế,Cộng: > Thu nhập chịu thuế,Thu nhập chịu thuế,49.859.360.751,43.758.784.679,49859360751.0,43758784679.0
+Chuyển lỗ,Cộng: > Chuyển lỗ,Chuyển lỗ,-,(32.218.879.529),,-32218879529.0
+Thu nhập tính thuế,Cộng: > Thu nhập tính thuế,Thu nhập tính thuế,49.859.360.751,11.539.905.150,49859360751.0,11539905150.0
+Thuế suất thông thường,Cộng: > Thuế suất thông thường,Thuế suất thông thường,20%,22%,0.2,0.22
+Chi phí thuế thu nhập doanh nghiệp,Cộng: > Chi phí thuế thu nhập doanh nghiệp,Chi phí thuế thu nhập doanh nghiệp,9.971.872.150,2.538.779.133,9971872150.0,2538779133.0

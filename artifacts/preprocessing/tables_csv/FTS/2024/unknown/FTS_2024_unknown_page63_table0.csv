@@ -1,0 +1,23 @@
+﻿row_label_raw,row_label_full,Items,Codes,Opening balance,Opening balance_1,Increase/decrease in the period,Increase/decrease in the period_1,Increase/decrease in the period_2,Increase/decrease in the period_3,Ending balance,Ending balance_1,numeric__Codes,numeric__Opening balance,numeric__Opening balance_1,numeric__Increase/decrease in the period,numeric__Increase/decrease in the period_1,numeric__Increase/decrease in the period_2,numeric__Increase/decrease in the period_3,numeric__Ending balance,numeric__Ending balance_1
+Items,Items,Items,Codes,Previous year,Current year,Previous year,Previous year,Current year,Current year,Previous year,Current year,,,,,,,,,
+Items,Items,Items,Codes,Previous year,Current year,Increase,Decrease,Increase,Decrease,Previous year,Current year,,,,,,,,,
+A,Items > A,A,B,1,2,3,4,5,6,7,8,,1.0,2.0,3.0,4.0,5.0,6.0,7.0,8.0
+I. Changes in owners' equity,I. Changes in owners' equity,I. Changes in owners' equity,,,,,,,,,,,,,,,,,,
+1. Share capital,I. Changes in owners' equity > 1. Share capital,1. Share capital,,1.950.682.258.150,2.145.732.618.150,195.050.360.000,,913.543.790.000,,2.145.732.618.150,3.059.276.408.150,,1950682258150.0,2145732618150.0,195050360000.0,,913543790000.0,,2145732618150.0,3059276408150.0
+1.1. Common shares with the voting rights (*),I. Changes in owners' equity > 1.1. Common shares with the voting rights (*),1.1. Common shares with the voting rights (*),,1.950.599.510.000,2.145.649.870.000,195.050.360.000,,913.543.790.000,,2.145.649.870.000,3.059.193.660.000,,1950599510000.0,2145649870000.0,195050360000.0,,913543790000.0,,2145649870000.0,3059193660000.0
+1.2. Preferred shares,1.2. Preferred shares,1.2. Preferred shares,,,,,,,,,,,,,,,,,,
+1.3. Share premium,1.2. Preferred shares > 1.3. Share premium,1.3. Share premium,,82.748.150,82.748.150,,,,,82.748.150,82.748.150,,82748150.0,82748150.0,,,,,82748150.0,82748150.0
+1.4. Bond swap option - capital contribution,1.4. Bond swap option - capital contribution,1.4. Bond swap option - capital contribution,,,,,,,,,,,,,,,,,,
+1.5. Other capital of Investor,1.5. Other capital of Investor,1.5. Other capital of Investor,,,,,,,,,,,,,,,,,,
+1.6. Treasury stocks,1.6. Treasury stocks,1.6. Treasury stocks,,,,,,,,,,,,,,,,,,
+2. Reserve fund of charter capital,2. Reserve fund of charter capital,2. Reserve fund of charter capital,,,,,,,,,,,,,,,,,,
+3. Financial reserve fund and operational risk,3. Financial reserve fund and operational risk,3. Financial reserve fund and operational risk,,,,,,,,,,,,,,,,,,
+4. Difference from revaluation of financial assets at fair value.,4. Difference from revaluation of financial assets at fair value.,4. Difference from revaluation of financial assets at fair value.,,,,,,,,,,,,,,,,,,
+5. The exchange rate differences,5. The exchange rate differences,5. The exchange rate differences,,,,,,,,,,,,,,,,,,
+6. Other Funds belonging to owners' capital,6. Other Funds belonging to owners' capital,6. Other Funds belonging to owners' capital,,,,,,,,,,,,,,,,,,
+7. Undistributed profit,6. Other Funds belonging to owners' capital > 7. Undistributed profit,7. Undistributed profit,,1.397.347.485.073,1.498.203.140.705,513.185.990.079,412.330.334.447,576.884.281.028,1.016.394.729.992,1.498.203.140.705,1.058.692.691.741,,1397347485073.0,1498203140705.0,513185990079.0,412330334447.0,576884281028.0,1016394729992.0,1498203140705.0,1058692691741.0
+7.1. Realized profit after tax (**),6. Other Funds belonging to owners' capital > 7.1. Realized profit after tax (**),7.1. Realized profit after tax (**),,1.094.260.034.139,1.163.209.696.838,413.011.598.016,344.061.935.317,416.812.204.390,1.006.827.943.301,1.163.209.696.838,573.193.957.927,,1094260034139.0,1163209696838.0,413011598016.0,344061935317.0,416812204390.0,1006827943301.0,1163209696838.0,573193957927.0
+7.2. Unrealized profit,6. Other Funds belonging to owners' capital > 7.2. Unrealized profit,7.2. Unrealized profit,,303.087.450.934,334.993.443.867,100.174.392.063,68.268.399.130,160.072.076.638,9.566.786.691,334.993.443.867,485.498.733.814,,303087450934.0,334993443867.0,100174392063.0,68268399130.0,160072076638.0,9566786691.0,334993443867.0,485498733814.0
+Total,6. Other Funds belonging to owners' capital > Total,Total,,3.348.029.743.223,3.643.935.758.855,708.236.350.079,412.330.334.447,1.490.428.071.028,1.016.394.729.992,3.643.935.758.855,4.117.969.099.891,,3348029743223.0,3643935758855.0,708236350079.0,412330334447.0,1490428071028.0,1016394729992.0,3643935758855.0,4117969099891.0
+II. Other comprehensive income,II. Other comprehensive income,II. Other comprehensive income,,,,,,,,,,,,,,,,,,
+Total,Total,Total,,,,,,,,,,,,,,,,,,

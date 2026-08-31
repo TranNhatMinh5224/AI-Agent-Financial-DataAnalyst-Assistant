@@ -1,0 +1,12 @@
+﻿row_label_raw,row_label_full,col_0,Giá trị quyền sử dụng đất (*),Phần mềm máy tính,Cộng,numeric__Giá trị quyền sử dụng đất (*),numeric__Phần mềm máy tính,numeric__Cộng
+,,,VND,VND,VND,,,
+Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,,,
+Số dư đầu năm,Nguyên giá > Số dư đầu năm,Số dư đầu năm,1.108.070.000,109.900.000,1.217.970.000,1108070000.0,109900000.0,1217970000.0
+Số dư cuối năm,Nguyên giá > Số dư cuối năm,Số dư cuối năm,1.108.070.000,109.900.000,1.217.970.000,1108070000.0,109900000.0,1217970000.0
+Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,,,
+Số dư đầu năm,Giá trị hao mòn lũy kế > Số dư đầu năm,Số dư đầu năm,-,103.677.348,103.677.348,,103677348.0,103677348.0
+- Khấu hao trong năm,Giá trị hao mòn lũy kế > - Khấu hao trong năm,- Khấu hao trong năm,-,6.222.652,6.222.652,,6222652.0,6222652.0
+Số dư cuối năm,Giá trị hao mòn lũy kế > Số dư cuối năm,Số dư cuối năm,-,109.900.000,109.900.000,,109900000.0,109900000.0
+Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,,,
+Tại ngày đầu năm,Giá trị còn lại > Tại ngày đầu năm,Tại ngày đầu năm,1.108.070.000,6.222.652,1.114.292.652,1108070000.0,6222652.0,1114292652.0
+Tại ngày cuối năm,Giá trị còn lại > Tại ngày cuối năm,Tại ngày cuối năm,1.108.070.000,-,1.108.070.000,1108070000.0,,1108070000.0

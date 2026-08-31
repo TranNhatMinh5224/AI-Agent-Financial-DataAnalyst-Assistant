@@ -1,0 +1,24 @@
+﻿row_label_raw,row_label_full,STT,CHỈ TIÊU,Thuyết minh,Năm 2023Triệu VND,Năm 2022Triệu VND,numeric__CHỈ TIÊU,numeric__Thuyết minh,numeric__Năm 2023Triệu VND,numeric__Năm 2022Triệu VND
+1,1,1,Thu nhập lãi và các khoản thu nhập tương tự,V.22,19.718.490(12.647.771),15.149.800(8.143.873),,,,
+2,2,2,Chi phí lãi và các chi phí tương tự,V.23,19.718.490(12.647.771),15.149.800(8.143.873),,,,
+I.,2 > I.,I.,Thu nhập lãi thuần,,7.070.719,7.005.927,,,7070719.0,7005927.0
+3,3,3,Thu nhập từ hoạt động dịch vụ,,1.530.991(223.134),1.642.698(275.381),,,,
+4,4,4,Chi phí hoạt động dịch vụ,,1.530.991(223.134),1.642.698(275.381),,,,
+II.,4 > II.,II.,Lãi thuần từ hoạt động dịch vụ,V.24,1.307.857,1.367.317,,,1307857.0,1367317.0
+III.,4 > III.,III.,Lãi thuần từ hoạt động kinh doanh ngoại hối,V.25,602.470,223.886,,,602470.0,223886.0
+IV.,4 > IV.,IV.,Lãi thuần từ mua bán chứng khoán kinh doanh,V.26,109.180,228.111,,,109180.0,228111.0
+V.,4 > V.,V.,Lãi thuần từ mua bán chứng khoán đầu tư,V.27,128.660,621.173,,,128660.0,621173.0
+5,5,5,Thu nhập từ hoạt động khác,,332.345(141.624),415.516(222.620),,,,
+6,6,6,Chi phí hoạt động khác,,332.345(141.624),415.516(222.620),,,,
+VI.,6 > VI.,VI.,Lãi thuần từ hoạt động khác,V.28,190.721,192.896,,,190721.0,192896.0
+VII.,6 > VII.,VII.,"Thu nhập từ góp vốn, mua cổ phần",V.29,14.384,7.937,,,14384.0,7937.0
+VIII.,6 > VIII.,VIII.,Chi phí hoạt động,V.30,(3.607.148),(3.403.523),,,-3607148.0,-3403523.0
+IX.,IX.,IX.,Lợi nhuận thuần từ hoạt động kinh doanh trước chi phí dự phòng rủi ro tín dụng,,5.816.843(1.200.285),6.243.724(1.174.738),,,,
+X.,X.,X.,Chi phí dự phòng rủi ro tín dụng,,5.816.843(1.200.285),6.243.724(1.174.738),,,,
+XI.,X. > XI.,XI.,Tổng lợi nhuận trước thuế,,4.616.558,5.068.986,,,4616558.0,5068986.0
+7,X. > 7,7,Chi phí thuế thu nhập doanh nghiệp hiện hành,,(939.603),(1.016.058),,,-939603.0,-1016058.0
+XII.,X. > XII.,XII.,Chi phí thuế thu nhập doanh nghiệp,V.31,(939.603),(1.016.058),,,-939603.0,-1016058.0
+XIII.,X. > XIII.,XIII.,Lợi nhuận sau thuế,,3.676.955,4.052.928,,,3676955.0,4052928.0
+XIV.,XIV.,XIV.,Lợi ích của cổ đông không kiểm soát,,-,-,,,,
+XV.,XV.,XV.,Lãi cơ bản trên cổ phiếu (VND/cổ phiếu),V.32,,(diều chính lại),,,,
+,,,,,1.453,1.568,,,1453.0,1568.0

@@ -1,0 +1,34 @@
+﻿row_label_raw,row_label_full,Chỉ tiêu,Mã số,Thuyết minh,Số cuối năm,Số đầu năm,numeric__Mã số,numeric__Thuyết minh,numeric__Số cuối năm,numeric__Số đầu năm
+A,A,A,B,C,1,2,,,1.0,2.0
+C. NỘ PHẢI TRẢ (300 = 310 + 340),C. NỘ PHẢI TRẢ (300 = 310 + 340),C. NỘ PHẢI TRẢ (300 = 310 + 340),300,,526.536.414.023,243.666.322.423,300.0,,526536414023.0,243666322423.0
+I. Nợ phải trả ngắn hạn,I. Nợ phải trả ngắn hạn,I. Nợ phải trả ngắn hạn,310,,526.536.414.023,243.666.322.423,310.0,,526536414023.0,243666322423.0
+1. Vay và nợ thuê tài chính ngắn hạn,1. Vay và nợ thuê tài chính ngắn hạn,1. Vay và nợ thuê tài chính ngắn hạn,311,A.7.29,477.200.000.000,102.500.000.000,311.0,,477200000000.0,102500000000.0
+1.1.Vay ngắn hạn,1.1.Vay ngắn hạn,1.1.Vay ngắn hạn,312,,477.200.000.000,102.500.000.000,312.0,,477200000000.0,102500000000.0
+1.2. Nợ thuê tài chính ngắn hạn,1.2. Nợ thuê tài chính ngắn hạn,1.2. Nợ thuê tài chính ngắn hạn,313,,,,313.0,,,
+6. Phải trả hoạt động giao dịch chứng khoán,6. Phải trả hoạt động giao dịch chứng khoán,6. Phải trả hoạt động giao dịch chứng khoán,318,A.7.23,,24.000.000,318.0,,,24000000.0
+8. Phải trả người bán ngắn hạn,8. Phải trả người bán ngắn hạn,8. Phải trả người bán ngắn hạn,320,A.7.27,138.028.883,781.889.079,320.0,,138028883.0,781889079.0
+9. Người mua trả tiền trước ngắn hạn,9. Người mua trả tiền trước ngắn hạn,9. Người mua trả tiền trước ngắn hạn,321,,1.706.560.000,1.745.064.239,321.0,,1706560000.0,1745064239.0
+10. Thuế và các khoản phải nộp Nhà nước,10. Thuế và các khoản phải nộp Nhà nước,10. Thuế và các khoản phải nộp Nhà nước,322,A.7.25,14.137.880.459,16.685.341.507,322.0,,14137880459.0,16685341507.0
+11. Phải trả người lao động,11. Phải trả người lao động,11. Phải trả người lao động,323,,10.317.522.364,4.177.880.000,323.0,,10317522364.0,4177880000.0
+12.Các khoản trích nộp phúc lợi nhân viên,12.Các khoản trích nộp phúc lợi nhân viên,12.Các khoản trích nộp phúc lợi nhân viên,324,,919.293.862,863.566.428,324.0,,919293862.0,863566428.0
+13. Chỉ phí phải trả ngắn hạn,13. Chỉ phí phải trả ngắn hạn,13. Chỉ phí phải trả ngắn hạn,325,A.7.26,5.761.469.418,3.511.212.253,325.0,,5761469418.0,3511212253.0
+"17.Các khoản phải trả, phải nộp khác ngắn hạn","17.Các khoản phải trả, phải nộp khác ngắn hạn","17.Các khoản phải trả, phải nộp khác ngắn hạn",329,A.7.28,4.496.272.052,104.562.318.036,329.0,,4496272052.0,104562318036.0
+18. Dự phòng phải trả ngắn hạn,18. Dự phòng phải trả ngắn hạn,18. Dự phòng phải trả ngắn hạn,330,,,,330.0,,,
+"19. Quỹ khen thưởng, phúc lợi","19. Quỹ khen thưởng, phúc lợi","19. Quỹ khen thưởng, phúc lợi",331,,11.859.386.985,8.815.050.881,331.0,,11859386985.0,8815050881.0
+II. Nợ phải trả dài hạn,II. Nợ phải trả dài hạn,II. Nợ phải trả dài hạn,340,,,,340.0,,,
+D. VỐN CHỦ SỞ HỮU (400 = 410 + 420),D. VỐN CHỦ SỞ HỮU (400 = 410 + 420),D. VỐN CHỦ SỞ HỮU (400 = 410 + 420),400,,1.975.176.502.150,1.552.797.351.669,400.0,,1975176502150.0,1552797351669.0
+I. Vốn chủ sở hữu,I. Vốn chủ sở hữu,I. Vốn chủ sở hữu,410,,1.975.176.502.150,1.552.797.351.669,410.0,,1975176502150.0,1552797351669.0
+1. Vốn đầu tư của chủ sở hữu,1. Vốn đầu tư của chủ sở hữu,1. Vốn đầu tư của chủ sở hữu,411,,1.294.811.425.250,1.195.442.825.600,411.0,,1294811425250.0,1195442825600.0
+1.1.Vốn góp của chủ sở hữu,1.1.Vốn góp của chủ sở hữu,1.1.Vốn góp của chủ sở hữu,411.1,,1.093.136.880.000,993.769.520.000,4111.0,,1093136880000.0,993769520000.0
+a. Cổ phiếu phổ thông có quyền biểu quyết,a. Cổ phiếu phổ thông có quyền biểu quyết,a. Cổ phiếu phổ thông có quyền biểu quyết,411.1a,,1.093.136.880.000,993.769.520.000,,,1093136880000.0,993769520000.0
+b. Cổ phiếu ưu đãi,b. Cổ phiếu ưu đãi,b. Cổ phiếu ưu đãi,411.1b,,,,,,,
+1.2. Thặng dư vốn cổ phần,b. Cổ phiếu ưu đãi > 1.2. Thặng dư vốn cổ phần,1.2. Thặng dư vốn cổ phần,411.2,,201.678.133.850,201.676.192.640,4112.0,,201678133850.0,201676192640.0
+1.5. Cổ phiếu quỹ (*),b. Cổ phiếu ưu đãi > 1.5. Cổ phiếu quỹ (*),1.5. Cổ phiếu quỹ (*),411.5,,(3.588.600),(2.887.040),4115.0,,-3588600.0,-2887040.0
+4. Quỹ dự trữ bổ sung vốn điều lệ,b. Cổ phiếu ưu đãi > 4. Quỹ dự trữ bổ sung vốn điều lệ,4. Quỹ dự trữ bổ sung vốn điều lệ,414,,57.823.247.889,48.866.408.602,414.0,,57823247889.0,48866408602.0
+5. Quỹ dự phòng tài chính và rủi ro nghiệp vụ,b. Cổ phiếu ưu đãi > 5. Quỹ dự phòng tài chính và rủi ro nghiệp vụ,5. Quỹ dự phòng tài chính và rủi ro nghiệp vụ,415,,57.823.247.889,48.866.408.602,415.0,,57823247889.0,48866408602.0
+6. Các Quỹ khác thuộc vốn chủ sở hữu,b. Cổ phiếu ưu đãi > 6. Các Quỹ khác thuộc vốn chủ sở hữu,6. Các Quỹ khác thuộc vốn chủ sở hữu,416,,,,416.0,,,
+7. Lợi nhuận chưa phân phối,b. Cổ phiếu ưu đãi > 7. Lợi nhuận chưa phân phối,7. Lợi nhuận chưa phân phối,417,A.7.33,564.718.581.122,259.621.708.865,417.0,,564718581122.0,259621708865.0
+7.1.Lợi nhuận đã thực hiện,b. Cổ phiếu ưu đãi > 7.1.Lợi nhuận đã thực hiện,7.1.Lợi nhuận đã thực hiện,417.1,,312.553.706.851,259.540.156.789,4171.0,,312553706851.0,259540156789.0
+7.2.Lợi nhuận chưa thực hiện,b. Cổ phiếu ưu đãi > 7.2.Lợi nhuận chưa thực hiện,7.2.Lợi nhuận chưa thực hiện,417.2,,252.164.874.271,81.552.076,4172.0,,252164874271.0,81552076.0
+II. Nguồn kinh phí và quỹ khác,b. Cổ phiếu ưu đãi > II. Nguồn kinh phí và quỹ khác,II. Nguồn kinh phí và quỹ khác,420,,,,420.0,,,
+TỔNG CỘNG NỘ PHẢI TRẢ VÀ VỐN CHỦ SỞ HỮU (440=300+400),b. Cổ phiếu ưu đãi > TỔNG CỘNG NỘ PHẢI TRẢ VÀ VỐN CHỦ SỞ HỮU (440=300+400),TỔNG CỘNG NỘ PHẢI TRẢ VÀ VỐN CHỦ SỞ HỮU (440=300+400),440,,2.501.712.916.173,1.796.463.674.092,440.0,,2501712916173.0,1796463674092.0

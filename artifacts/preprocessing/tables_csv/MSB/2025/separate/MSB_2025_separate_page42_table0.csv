@@ -1,0 +1,14 @@
+﻿row_label_raw,row_label_full,col_0,Quyền sử dụng đất triệu đồng,Phần mềm máy vi tính triệu đồng,TSCĐ vô hình khác triệu đồng,Tổng cộng triệu đồng,numeric__Quyền sử dụng đất triệu đồng,numeric__Phần mềm máy vi tính triệu đồng,numeric__TSCĐ vô hình khác triệu đồng,numeric__Tổng cộng triệu đồng
+Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,,,,
+Số dư đầu năm,Nguyên giá > Số dư đầu năm,Số dư đầu năm,69.315,572.313,22.047,663.675,69315.0,572313.0,22047.0,663675.0
+Tăng trong năm,Nguyên giá > Tăng trong năm,Tăng trong năm,-,43.357,-,43.357,,43357.0,,43357.0
+Thanh lý trong năm,Nguyên giá > Thanh lý trong năm,Thanh lý trong năm,-,(809),(1.832),(2.641),,-809.0,-1832.0,-2641.0
+Số dư cuối năm,Nguyên giá > Số dư cuối năm,Số dư cuối năm,69.315,614.861,20.215,704.391,69315.0,614861.0,20215.0,704391.0
+Giá trị hao mòn luỹ kế,Giá trị hao mòn luỹ kế,Giá trị hao mòn luỹ kế,Giá trị hao mòn luỹ kế,Giá trị hao mòn luỹ kế,Giá trị hao mòn luỹ kế,Giá trị hao mòn luỹ kế,,,,
+Số dư đầu năm,Giá trị hao mòn luỹ kế > Số dư đầu năm,Số dư đầu năm,909,447.108,15.351,463.368,909.0,447108.0,15351.0,463368.0
+Hao mòn trong năm,Giá trị hao mòn luỹ kế > Hao mòn trong năm,Hao mòn trong năm,973,31.299,2.668,34.940,973.0,31299.0,2668.0,34940.0
+Thanh lý trong năm,Giá trị hao mòn luỹ kế > Thanh lý trong năm,Thanh lý trong năm,-,(809),(1.832),(2.641),,-809.0,-1832.0,-2641.0
+Số dư cuối năm,Giá trị hao mòn luỹ kế > Số dư cuối năm,Số dư cuối năm,1.882,477.598,16.187,495.667,1882.0,477598.0,16187.0,495667.0
+Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,,,,
+Số dư đầu năm,Giá trị còn lại > Số dư đầu năm,Số dư đầu năm,68.406,125.205,6.696,200.307,68406.0,125205.0,6696.0,200307.0
+Số dư cuối năm,Giá trị còn lại > Số dư cuối năm,Số dư cuối năm,67.433,137.263,4.028,208.724,67433.0,137263.0,4028.0,208724.0

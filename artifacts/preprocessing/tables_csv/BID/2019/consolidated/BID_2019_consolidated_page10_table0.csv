@@ -1,0 +1,29 @@
+﻿row_label_raw,row_label_full,STT,CHỈ TIÊU,Thuyết minh,Năm nay,Năm trước (Trình bày lại),numeric__CHỈ TIÊU,numeric__Thuyết minh,numeric__Năm nay,numeric__Năm trước (Trình bày lại)
+1.,1.,1.,Thu nhập lãi và các khoản thu nhập tương tự,25,100.747.225,89.839.125,,25.0,100747225.0,89839125.0
+2.,2.,2.,Chi phí lãi và các chi phí tương tự,26,(64.769.417),(55.118.277),,26.0,-64769417.0,-55118277.0
+I,I,I,Thu nhập lãi thuần,,35.977.808,34.720.848,,,35977808.0,34720848.0
+3.,3.,3.,Thu nhập từ hoạt động dịch vụ,,7.871.837,6.788.718,,,7871837.0,6788718.0
+4.,4.,4.,Chi phí hoạt động dịch vụ,,(3.605.506),(3.233.616),,,-3605506.0,-3233616.0
+II,II,II,Lãi thuần từ hoạt động dịch vụ,27,4.266.331,3.555.102,,27.0,4266331.0,3555102.0
+III,III,III,Lãi thuần từ hoạt động kinh doanh vàng và ngoại hồi,28,1.494.696,1.039.685,,28.0,1494696.0,1039685.0
+IV,IV,IV,Lãi thuần từ mua bán chứng khoán kinh doanh,29.1,325.524,645.456,,291.0,325524.0,645456.0
+V,V,V,Lãi thuần từ mua bán chứng khoán đầu tư,29.2,481.222,234.827,,292.0,481222.0,234827.0
+5.,5.,5.,Thu nhập từ hoạt động khác,,6.517.869,5.337.309,,,6517869.0,5337309.0
+6.,6.,6.,Chi phí từ hoạt động khác,,(1.156.695),(1.519.277),,,-1156695.0,-1519277.0
+VI,VI,VI,Lãi thuần từ hoạt động khác,30,5.361.174,3.818.032,,30.0,5361174.0,3818032.0
+VII,VII,VII,"Thu nhập từ góp vốn, mua cổ phần",31,214.485,242.006,,31.0,214485.0,242006.0
+VII,VII,VII,Tổng thu nhập hoạt động,,48.121.240,44.255.956,,,48121240.0,44255956.0
+7.,7.,7.,Chi phí nhân viên,,(9.722.449),(8.777.978),,,-9722449.0,-8777978.0
+8.,8.,8.,Chi phí khấu hao và khấu trừ,,(1.023.773),(978.589),,,-1023773.0,-978589.0
+9.,9.,9.,Chi phí hoạt động khác,,(6.510.893),(6.259.517),,,-6510893.0,-6259517.0
+VIII,VIII,VIII,Tổng chi phí hoạt động,32,(17.257.115),(16.016.084),,32.0,-17257115.0,-16016084.0
+IX,IX,IX,Lợi nhuận thuần từ hoạt động kinh doanh trước chi phí dự phòng rủi ro tín dụng,,30.864.125,28.239.872,,,30864125.0,28239872.0
+X,X,X,Chi phí dự phòng rủi ro tín dụng,"8, 12, 13.6",(20.131.916),(18.848.455),,,-20131916.0,-18848455.0
+XI,XI,XI,Tổng lợi nhuận trước thuế,,10.732.209,9.391.417,,,10732209.0,9391417.0
+10.,10.,10.,Chi phí thuế TNDN hiện hành,,(2.162.657),(1.907.345),,,-2162657.0,-1907345.0
+11.,11.,11.,Chi phí thuế TNDN hoãn lại,,(21.795),(4.044),,,-21795.0,-4044.0
+XII,XII,XII,Chi phí thuế TNDN,33,(2.184.452),(1.911.389),,33.0,-2184452.0,-1911389.0
+XIII,XIII,XIII,Lợi nhuận sau thuế,,8.547.757,7.480.028,,,8547757.0,7480028.0
+XIII,XIII,XIII,Phân bổ (lãi) cho cổ đông không kiểm soát,,(179.266),(192.814),,,-179266.0,-192814.0
+XIII,XIII,XIII,Lợi nhuận thuần của Ngân hàng mẹ,,8.368.491,7.287.214,,,8368491.0,7287214.0
+XIII,XIII,XIII,Lãi cơ bản trên mỗi cổ phiếu (đồng/cổ phiếu),34,2.163,1.613,,34.0,2163.0,1613.0

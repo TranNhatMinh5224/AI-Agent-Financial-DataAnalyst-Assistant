@@ -1,0 +1,19 @@
+﻿row_label_raw,row_label_full,Tại ngày 31 tháng 12 năm 2015,Quá hạnTriệu VND,Không chịu lãiTriệu VND,Dưới 1 thángTriệu VND,Từ trên 1 đến3 thángTriệu VND,Từ trên 3 đến6 thángTriệu VND,Từ trên 6 đến12 thángTriệu VND,Từ trên 1 đến5 nămTriệu VND,Trên 5 nămTriệu VND,TổngTriệu VND,numeric__Quá hạnTriệu VND,numeric__Không chịu lãiTriệu VND,numeric__Dưới 1 thángTriệu VND,numeric__Từ trên 1 đến3 thángTriệu VND,numeric__Từ trên 3 đến6 thángTriệu VND,numeric__Từ trên 6 đến12 thángTriệu VND,numeric__Từ trên 1 đến5 nămTriệu VND,numeric__Trên 5 nămTriệu VND,numeric__TổngTriệu VND
+Tài sản,Tài sản,Tài sản,,,,,,,,,,,,,,,,,,
+Tiền mặt,Tài sản > Tiền mặt,Tiền mặt,-,206.918,-,-,-,-,-,-,206.918,,206918.0,,,,,,,206918.0
+Tiền gửi tại NHNNVN,Tài sản > Tiền gửi tại NHNNVN,Tiền gửi tại NHNNVN,-,314.763,406.621,-,-,-,-,-,721.384,,314763.0,406621.0,,,,,,721384.0
+Tiền gửi và cho vay các tổchức tín dụng khác,Tài sản > Tiền gửi và cho vay các tổchức tín dụng khác,Tiền gửi và cho vay các tổchức tín dụng khác,-,-,1.572.864,200.000,-,-,-,-,1.772.864,,,1572864.0,200000.0,,,,,1772864.0
+Cho vay khách hàng – góp,Tài sản > Cho vay khách hàng – góp,Cho vay khách hàng – góp,289.062,-,744.296,166.183,812.176,1.797.354,12.408.913,-,16.217.984,289062.0,,744296.0,166183.0,812176.0,1797354.0,12408913.0,,16217984.0
+Chứng khoán đầu tư – góp,Tài sản > Chứng khoán đầu tư – góp,Chứng khoán đầu tư – góp,-,939.745,-,-,-,-,2.616.838,-,3.556.583,,939745.0,,,,,2616838.0,,3556583.0
+"Góp vốn, đầu tư dài hạn","Tài sản > Góp vốn, đầu tư dài hạn","Góp vốn, đầu tư dài hạn",-,530.530,-,-,-,-,-,-,530.530,,530530.0,,,,,,,530530.0
+Tài sản cố định,Tài sản > Tài sản cố định,Tài sản cố định,-,1.041.285,-,-,-,-,-,-,1.041.285,,1041285.0,,,,,,,1041285.0
+Tài sản có khác,Tài sản > Tài sản có khác,Tài sản có khác,-,1.529.079,-,-,-,-,-,-,1.529.079,,1529079.0,,,,,,,1529079.0
+,,,289.062,4.562.320,2.723.781,366.183,812.176,1.797.354,15.025.751,-,25.576.627,289062.0,4562320.0,2723781.0,366183.0,812176.0,1797354.0,15025751.0,,25576627.0
+Nợ phải trả,Nợ phải trả,Nợ phải trả,,,,,,,,,,,,,,,,,,
+Các khoản nợ NHNNVN,Nợ phải trả > Các khoản nợ NHNNVN,Các khoản nợ NHNNVN,-,-,312.218,-,-,-,-,-,312.218,,,312218.0,,,,,,312218.0
+Tiền gửi và vay các tổchức tín dụng khác,Nợ phải trả > Tiền gửi và vay các tổchức tín dụng khác,Tiền gửi và vay các tổchức tín dụng khác,-,-,8.145,525.665,346.006,292.722,-,-,1.172.538,,,8145.0,525665.0,346006.0,292722.0,,,1172538.0
+Tiền gửi của khách hàng,Nợ phải trả > Tiền gửi của khách hàng,Tiền gửi của khách hàng,-,-,430.066,1.407.613,1.322.565,16.968.796,-,-,20.129.040,,,430066.0,1407613.0,1322565.0,16968796.0,,,20129040.0
+Các công cụ tài chính phải sinhvà các khoản nợ tài chính khác,Nợ phải trả > Các công cụ tài chính phải sinhvà các khoản nợ tài chính khác,Các công cụ tài chính phải sinhvà các khoản nợ tài chính khác,-,-,555,-,-,-,-,-,555,,,555.0,,,,,,555.0
+Các khoản nợ khác,Nợ phải trả > Các khoản nợ khác,Các khoản nợ khác,-,378.601,-,-,-,-,-,-,378.601,,378601.0,,,,,,,378601.0
+,,,-,378.601,750.984,1.933.278,1.668.571,17.261.518,-,-,21.992.952,,378601.0,750984.0,1933278.0,1668571.0,17261518.0,,,21992952.0
+Mức chênh nhạy cảm vớilãi suất,Nợ phải trả > Mức chênh nhạy cảm vớilãi suất,Mức chênh nhạy cảm vớilãi suất,289.062,4.183.719,1.972.797,(1.567.095),(856.395),(15.464.164),15.025.751,-,3.583.675,289062.0,4183719.0,1972797.0,-1567095.0,-856395.0,-15464164.0,15025751.0,,3583675.0

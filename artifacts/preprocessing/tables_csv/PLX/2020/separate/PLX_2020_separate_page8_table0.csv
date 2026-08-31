@@ -1,0 +1,26 @@
+﻿row_label_raw,row_label_full,col_0,Mã số,Thuyết minh,31/12/2020 VND,1/1/2020 VND,numeric__Mã số,numeric__Thuyết minh,numeric__31/12/2020 VND,numeric__1/1/2020 VND
+NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,,,,
+NỘ PHẢI TRẢ (300 = 310),NGUỒN VỐN > NỘ PHẢI TRẢ (300 = 310),NỘ PHẢI TRẢ (300 = 310),300,,22.273.659.821.973,20.273.015.730.165,300.0,,22273659821973.0,20273015730165.0
+Nợ ngắn hạn,NGUỒN VỐN > Nợ ngắn hạn,Nợ ngắn hạn,310,,22.273.659.821.973,20.273.015.730.165,310.0,,22273659821973.0,20273015730165.0
+Phải trả người bán ngắn hạn,NGUỒN VỐN > Phải trả người bán ngắn hạn,Phải trả người bán ngắn hạn,311,16,7.964.953.973.838,9.601.284.139.767,311.0,16.0,7964953973838.0,9601284139767.0
+Người mua trả tiền trước ngắn hạn,NGUỒN VỐN > Người mua trả tiền trước ngắn hạn,Người mua trả tiền trước ngắn hạn,312,17,129.582.360.750,206.191.139.028,312.0,17.0,129582360750.0,206191139028.0
+Thuế và các khoản phải nộp,Thuế và các khoản phải nộp,Thuế và các khoản phải nộp,,,,,,,,
+Nhà nước,Thuế và các khoản phải nộp > Nhà nước,Nhà nước,313,18,1.206.564.662,41.142.122.184,313.0,18.0,1206564662.0,41142122184.0
+Phải trả người lao động,Thuế và các khoản phải nộp > Phải trả người lao động,Phải trả người lao động,314,,18.243.034.128,24.199.887.826,314.0,,18243034128.0,24199887826.0
+Chi phí phải trả ngắn hạn,Thuế và các khoản phải nộp > Chi phí phải trả ngắn hạn,Chi phí phải trả ngắn hạn,315,,45.818.950.338,23.517.445.694,315.0,,45818950338.0,23517445694.0
+Phải trả ngắn hạn khác,Thuế và các khoản phải nộp > Phải trả ngắn hạn khác,Phải trả ngắn hạn khác,319,19,247.703.912.303,247.553.890.161,319.0,19.0,247703912303.0,247553890161.0
+Vay ngắn hạn,Thuế và các khoản phải nộp > Vay ngắn hạn,Vay ngắn hạn,320,20,10.078.686.943.621,8.671.847.401.759,320.0,20.0,10078686943621.0,8671847401759.0
+"Quỹ khen thưởng, phúc lợi","Thuế và các khoản phải nộp > Quỹ khen thưởng, phúc lợi","Quỹ khen thưởng, phúc lợi",322,21,126.147.572.595,23.780.147.791,322.0,21.0,126147572595.0,23780147791.0
+Quỹ bình ổn giá xăng dầu,Thuế và các khoản phải nộp > Quỹ bình ổn giá xăng dầu,Quỹ bình ổn giá xăng dầu,323,22,3.661.316.509.738,1.433.499.555.955,323.0,22.0,3661316509738.0,1433499555955.0
+VỐN CHỦ SỞ HỮU (400 = 410),Thuế và các khoản phải nộp > VỐN CHỦ SỞ HỮU (400 = 410),VỐN CHỦ SỞ HỮU (400 = 410),400,,19.172.866.590.646,20.366.628.624.318,400.0,,19172866590646.0,20366628624318.0
+Vốn chủ sở hữu,Thuế và các khoản phải nộp > Vốn chủ sở hữu,Vốn chủ sở hữu,410,23,19.172.866.590.646,20.366.628.624.318,410.0,23.0,19172866590646.0,20366628624318.0
+Vốn cổ phần,Thuế và các khoản phải nộp > Vốn cổ phần,Vốn cổ phần,411,24,12.938.780.810.000,12.938.780.810.000,411.0,24.0,12938780810000.0,12938780810000.0
+- Cổ phiếu phổ thôngcó quyền biểu quyết,Thuế và các khoản phải nộp > - Cổ phiếu phổ thôngcó quyền biểu quyết,- Cổ phiếu phổ thôngcó quyền biểu quyết,411a,,12.938.780.810.000,12.938.780.810.000,,,12938780810000.0,12938780810000.0
+Thặng dư vốn cổ phần,Thuế và các khoản phải nộp > Thặng dư vốn cổ phần,Thặng dư vốn cổ phần,412,,4.988.376.126.792,3.925.554.119.365,412.0,,4988376126792.0,3925554119365.0
+Cổ phiếu quỹ,Thuế và các khoản phải nộp > Cổ phiếu quỹ,Cổ phiếu quỹ,415,24,(750.648.460.000),(1.030.648.460.000),415.0,24.0,-750648460000.0,-1030648460000.0
+Quỹ đầu tư phát triển,Thuế và các khoản phải nộp > Quỹ đầu tư phát triển,Quỹ đầu tư phát triển,418,26,56.981.179.159,56.981.179.159,418.0,26.0,56981179159.0,56981179159.0
+Quỹ khác thuộc vốn chủ sở hữu,Thuế và các khoản phải nộp > Quỹ khác thuộc vốn chủ sở hữu,Quỹ khác thuộc vốn chủ sở hữu,420,26,-,1.252.002.338.768,420.0,26.0,,1252002338768.0
+Lợi nhuận sau thuế chưa phân phối,Thuế và các khoản phải nộp > Lợi nhuận sau thuế chưa phân phối,Lợi nhuận sau thuế chưa phân phối,421,,1.939.376.934.695,3.223.958.637.026,421.0,,1939376934695.0,3223958637026.0
+- LNST chưa phân phối đến cuối năm trước,Thuế và các khoản phải nộp > - LNST chưa phân phối đến cuối năm trước,- LNST chưa phân phối đến cuối năm trước,421a,,846.952.884.544,3.223.958.637.026,,,846952884544.0,3223958637026.0
+- LNST chưa phân phối năm nay,Thuế và các khoản phải nộp > - LNST chưa phân phối năm nay,- LNST chưa phân phối năm nay,421b,,1.092.424.050.151,-,,,1092424050151.0,
+TỔNG CỘNG NGUỒN VỐN(440 = 300 + 400),Thuế và các khoản phải nộp > TỔNG CỘNG NGUỒN VỐN(440 = 300 + 400),TỔNG CỘNG NGUỒN VỐN(440 = 300 + 400),440,,41.446.526.412.619,40.639.644.354.483,440.0,,41446526412619.0,40639644354483.0

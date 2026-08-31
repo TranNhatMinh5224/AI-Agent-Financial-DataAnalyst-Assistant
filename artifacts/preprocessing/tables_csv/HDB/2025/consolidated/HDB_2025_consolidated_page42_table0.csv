@@ -1,0 +1,15 @@
+﻿row_label_raw,row_label_full,col_0,Quyền sử dụng đất có thời hạn,Quyền sử dụng đất không thời hạn,Phăn mềm máy tính,Tài sán cố định vô hình khác,Tổng cộng,numeric__Quyền sử dụng đất có thời hạn,numeric__Quyền sử dụng đất không thời hạn,numeric__Phăn mềm máy tính,numeric__Tài sán cố định vô hình khác,numeric__Tổng cộng
+,,,Triệu VND,Triệu VND,Triệu VND,Triệu VND,Triệu VND,,,,,
+Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,,,,,
+Số đầu năm,Nguyên giá > Số đầu năm,Số đầu năm,115.938,611.763,562.727,1.000,1.291.428,115938.0,611763.0,562727.0,1000.0,1291428.0
+Tăng trong năm,Nguyên giá > Tăng trong năm,Tăng trong năm,-,-,101.017,-,101.017,,,101017.0,,101017.0
+"Thanh lý, nhượng bán","Nguyên giá > Thanh lý, nhượng bán","Thanh lý, nhượng bán",-,-,(57),-,(57),,,-57.0,,-57.0
+Số cuối năm,Nguyên giá > Số cuối năm,Số cuối năm,115.938,611.763,663.687,1.000,1.392.388,115938.0,611763.0,663687.0,1000.0,1392388.0
+Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,,,,,
+Số đầu năm,Giá trị hao mòn lũy kế > Số đầu năm,Số đầu năm,16.506,-,396.099,351,412.956,16506.0,,396099.0,351.0,412956.0
+Khấu hao trong năm,Giá trị hao mòn lũy kế > Khấu hao trong năm,Khấu hao trong năm,2.372,-,89.838,-,92.210,2372.0,,89838.0,,92210.0
+"Thanh lý, nhượng bán","Giá trị hao mòn lũy kế > Thanh lý, nhượng bán","Thanh lý, nhượng bán",-,-,(57),-,(57),,,-57.0,,-57.0
+Số cuối năm,Giá trị hao mòn lũy kế > Số cuối năm,Số cuối năm,18.878,-,485.880,351,505.109,18878.0,,485880.0,351.0,505109.0
+Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,,,,,
+Số đầu năm,Giá trị còn lại > Số đầu năm,Số đầu năm,99.432,611.763,166.628,649,878.472,99432.0,611763.0,166628.0,649.0,878472.0
+Số cuối năm,Giá trị còn lại > Số cuối năm,Số cuối năm,97.060,611.763,177.807,649,887.279,97060.0,611763.0,177807.0,649.0,887279.0

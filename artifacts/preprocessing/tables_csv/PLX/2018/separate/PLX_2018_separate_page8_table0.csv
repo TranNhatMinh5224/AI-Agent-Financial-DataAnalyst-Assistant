@@ -1,0 +1,25 @@
+﻿row_label_raw,row_label_full,col_0,Mã số,Thuyết minh,31/12/2018 VND,1/1/2018 VND,numeric__Mã số,numeric__Thuyết minh,numeric__31/12/2018 VND,numeric__1/1/2018 VND
+NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,,,,
+NỘ PHẢI TRẢ (300 = 310),NGUỒN VỐN > NỘ PHẢI TRẢ (300 = 310),NỘ PHẢI TRẢ (300 = 310),300,,17.953.224.921.684,23.519.891.604.463,300.0,,17953224921684.0,23519891604463.0
+Nợ ngắn hạn,NGUỒN VỐN > Nợ ngắn hạn,Nợ ngắn hạn,310,,17.953.224.921.684,23.519.891.604.463,310.0,,17953224921684.0,23519891604463.0
+Phải trả người bán ngắn hạn,NGUỒN VỐN > Phải trả người bán ngắn hạn,Phải trả người bán ngắn hạn,311,14,8.460.841.651.693,11.506.878.601.833,311.0,14.0,8460841651693.0,11506878601833.0
+Người mua trả tiền trước ngắn hạn,NGUỒN VỐN > Người mua trả tiền trước ngắn hạn,Người mua trả tiền trước ngắn hạn,312,15,36.119.774.788,48.020.697.732,312.0,15.0,36119774788.0,48020697732.0
+Thuế và các khoản phải nộp Nhà nước,NGUỒN VỐN > Thuế và các khoản phải nộp Nhà nước,Thuế và các khoản phải nộp Nhà nước,313,16,36.223.862.965,72.371.930.671,313.0,16.0,36223862965.0,72371930671.0
+Phải trả người lao động,NGUỒN VỐN > Phải trả người lao động,Phải trả người lao động,314,,22.310.130.838,30.614.737.954,314.0,,22310130838.0,30614737954.0
+Chi phí phải trả ngắn hạn,NGUỒN VỐN > Chi phí phải trả ngắn hạn,Chi phí phải trả ngắn hạn,315,,61.589.751.252,35.328.859.533,315.0,,61589751252.0,35328859533.0
+Phải trả ngắn hạn khác,NGUỒN VỐN > Phải trả ngắn hạn khác,Phải trả ngắn hạn khác,319,17,236.103.241.146,233.113.357.144,319.0,17.0,236103241146.0,233113357144.0
+Vay ngắn hạn,NGUỒN VỐN > Vay ngắn hạn,Vay ngắn hạn,320,18,7.137.442.750.576,8.509.821.739.319,320.0,18.0,7137442750576.0,8509821739319.0
+"Quỹ khen thưởng, phúc lợi","NGUỒN VỐN > Quỹ khen thưởng, phúc lợi","Quỹ khen thưởng, phúc lợi",322,,32.072.414.202,43.661.085.398,322.0,,32072414202.0,43661085398.0
+Quỹ bình ổn giá xăng dầu,NGUỒN VỐN > Quỹ bình ổn giá xăng dầu,Quỹ bình ổn giá xăng dầu,323,19,1.930.521.344.224,3.040.080.594.879,323.0,19.0,1930521344224.0,3040080594879.0
+VỐN CHỦ SỞ HỮU (400 = 410),NGUỒN VỐN > VỐN CHỦ SỞ HỮU (400 = 410),VỐN CHỦ SỞ HỮU (400 = 410),400,,18.205.833.579.768,18.636.190.815.134,400.0,,18205833579768.0,18636190815134.0
+Vốn chủ sở hữu,NGUỒN VỐN > Vốn chủ sở hữu,Vốn chủ sở hữu,410,20,18.205.833.579.768,18.636.190.815.134,410.0,20.0,18205833579768.0,18636190815134.0
+Vốn cổ phần,NGUỒN VỐN > Vốn cổ phần,Vốn cổ phần,411,21,12.938.780.810.000,12.938.780.810.000,411.0,21.0,12938780810000.0,12938780810000.0
+- Cổ phiếu phổ thôngcó quyền biểu quyết,NGUỒN VỐN > - Cổ phiếu phổ thôngcó quyền biểu quyết,- Cổ phiếu phổ thôngcó quyền biểu quyết,411a,,12.938.780.810.000,12.938.780.810.000,,,12938780810000.0,12938780810000.0
+Thặng dư vốn cổ phần,NGUỒN VỐN > Thặng dư vốn cổ phần,Thặng dư vốn cổ phần,412,,2.246.997.553.623,2.246.997.553.623,412.0,,2246997553623.0,2246997553623.0
+Cổ phiếu quỹ,NGUỒN VỐN > Cổ phiếu quỹ,Cổ phiếu quỹ,415,21,(1.350.648.460.000),(1.350.648.460.000),415.0,21.0,-1350648460000.0,-1350648460000.0
+Quỹ đầu tư phát triển,NGUỒN VỐN > Quỹ đầu tư phát triển,Quỹ đầu tư phát triển,418,23,56.981.179.159,56.981.179.159,418.0,23.0,56981179159.0,56981179159.0
+Quỹ khác thuộc vốn chủ sở hữu,NGUỒN VỐN > Quỹ khác thuộc vốn chủ sở hữu,Quỹ khác thuộc vốn chủ sở hữu,420,23,1.252.002.338.768,1.252.002.338.768,420.0,23.0,1252002338768.0,1252002338768.0
+Lợi nhuận sau thuế chưa phân phối,NGUỒN VỐN > Lợi nhuận sau thuế chưa phân phối,Lợi nhuận sau thuế chưa phân phối,421,,3.061.720.158.218,3.492.077.393.584,421.0,,3061720158218.0,3492077393584.0
+- LNST chưa phân phối đến cuối năm trước,NGUỒN VỐN > - LNST chưa phân phối đến cuối năm trước,- LNST chưa phân phối đến cuối năm trước,421a,,-,3.492.077.393.584,,,,3492077393584.0
+- LNST chưa phân phối năm nay,NGUỒN VỐN > - LNST chưa phân phối năm nay,- LNST chưa phân phối năm nay,421b,,3.061.720.158.218,-,,,3061720158218.0,
+TỔNG CỘNG NGUỒN VỐN(440 = 300 + 400),NGUỒN VỐN > TỔNG CỘNG NGUỒN VỐN(440 = 300 + 400),TỔNG CỘNG NGUỒN VỐN(440 = 300 + 400),440,,36.159.058.501.452,42.156.082.419.597,440.0,,36159058501452.0,42156082419597.0

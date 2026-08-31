@@ -1,0 +1,10 @@
+﻿row_label_raw,row_label_full,col_0,Số đầu năm,Số phải nộp trong năm,Số đã thực nộp trong năm,Số cuối năm,numeric__Số đầu năm,numeric__Số phải nộp trong năm,numeric__Số đã thực nộp trong năm,numeric__Số cuối năm
+,,,VND,VND,VND,VND,,,,
+Phải nộp,Phải nộp,Phải nộp,Phải nộp,Phải nộp,Phải nộp,Phải nộp,,,,
+Thuế TNDN,Phải nộp > Thuế TNDN,Thuế TNDN,11.649.987.866,6.532.320.073,15.314.902.936,2.867.405.003,11649987866.0,6532320073.0,15314902936.0,2867405003.0
+Thuế TNCN,Phải nộp > Thuế TNCN,Thuế TNCN,127.761.888,1.735.457.600,1.761.127.031,102.092.457,127761888.0,1735457600.0,1761127031.0,102092457.0
+"Phí, lệ phí và các khoản phải nộp khác","Phải nộp > Phí, lệ phí và các khoản phải nộp khác","Phí, lệ phí và các khoản phải nộp khác",1.760.850,4.000.000,4.000.000,1.760.850,1760850.0,4000000.0,4000000.0,1760850.0
+Cộng,Phải nộp > Cộng,Cộng,11.779.510.604,8.271.777.673,17.080.029.967,2.971.258.310,11779510604.0,8271777673.0,17080029967.0,2971258310.0
+Phải thu,Phải thu,Phải thu,Phải thu,Phải thu,Phải thu,Phải thu,,,,
+Thuế giá trị gia tăng,Phải thu > Thuế giá trị gia tăng,Thuế giá trị gia tăng,21.763.365,-,-,21.763.365,21763365.0,,,21763365.0
+Cộng,Phải thu > Cộng,Cộng,21.763.365,16.543.555.346,34.160.059.934,21.763.365,21763365.0,16543555346.0,34160059934.0,21763365.0

@@ -1,0 +1,18 @@
+﻿row_label_raw,row_label_full,col_0,Mã số,Thuyết minh,31/12/2018 Triệu VND,1/1/2018 Triệu VND,numeric__Mã số,numeric__Thuyết minh,numeric__31/12/2018 Triệu VND,numeric__1/1/2018 Triệu VND
+NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,,,,
+NỘ PHẢI TRẢ (300 = 310 + 330),NGUỒN VỐN > NỘ PHẢI TRẢ (300 = 310 + 330),NỘ PHẢI TRẢ (300 = 310 + 330),300,,30.498.935,43.303.327,300.0,,30498935.0,43303327.0
+Nợ ngắn hạn,NGUỒN VỐN > Nợ ngắn hạn,Nợ ngắn hạn,310,,15.795.515,15.532.987,310.0,,15795515.0,15532987.0
+Phải trả người bán,NGUỒN VỐN > Phải trả người bán,Phải trả người bán,311,,2.668.610,2.105.255,311.0,,2668610.0,2105255.0
+Người mua trả tiền trước,NGUỒN VỐN > Người mua trả tiền trước,Người mua trả tiền trước,312,,334.553,240.945,312.0,,334553.0,240945.0
+Thuế phải nộp Nhà nước,NGUỒN VỐN > Thuế phải nộp Nhà nước,Thuế phải nộp Nhà nước,313,16(b),429.861,384.958,313.0,,429861.0,384958.0
+Phải trả người lao động,NGUỒN VỐN > Phải trả người lao động,Phải trả người lao động,314,,300,25,314.0,,300.0,25.0
+Chi phí phải trả,NGUỒN VỐN > Chi phí phải trả,Chi phí phải trả,315,17,2.791.050,2.801.126,315.0,17.0,2791050.0,2801126.0
+Phải trả ngắn hạn khác,NGUỒN VỐN > Phải trả ngắn hạn khác,Phải trả ngắn hạn khác,319,18,296.413,803.374,319.0,18.0,296413.0,803374.0
+Vay và nợ thuê tài chính ngắn hạn,NGUỒN VỐN > Vay và nợ thuê tài chính ngắn hạn,Vay và nợ thuê tài chính ngắn hạn,320,19,9.243.779,9.166.273,320.0,19.0,9243779.0,9166273.0
+Quỹ khen thưởng và phúc lợi,NGUỒN VỐN > Quỹ khen thưởng và phúc lợi,Quỹ khen thưởng và phúc lợi,322,,30.949,31.031,322.0,,30949.0,31031.0
+Nợ dài hạn,NGUỒN VỐN > Nợ dài hạn,Nợ dài hạn,330,,14.703.420,27.770.340,330.0,,14703420.0,27770340.0
+Phải trả người bán,NGUỒN VỐN > Phải trả người bán,Phải trả người bán,331,,36.330,78.525,331.0,,36330.0,78525.0
+Phải trả dài hạn khác,NGUỒN VỐN > Phải trả dài hạn khác,Phải trả dài hạn khác,337,18,23.804,26.728,337.0,18.0,23804.0,26728.0
+"Vay, trái phiếu và nợ thuê tài chính dài hạn","NGUỒN VỐN > Vay, trái phiếu và nợ thuê tài chính dài hạn","Vay, trái phiếu và nợ thuê tài chính dài hạn",338,19,12.751.649,25.630.003,338.0,19.0,12751649.0,25630003.0
+Thuế thu nhập hoãn lại phải trả,NGUỒN VỐN > Thuế thu nhập hoãn lại phải trả,Thuế thu nhập hoãn lại phải trả,341,14,1.351.446,1.461.389,341.0,14.0,1351446.0,1461389.0
+Dự phòng phải trả,NGUỒN VỐN > Dự phòng phải trả,Dự phòng phải trả,342,20,540.191,573.695,342.0,20.0,540191.0,573695.0

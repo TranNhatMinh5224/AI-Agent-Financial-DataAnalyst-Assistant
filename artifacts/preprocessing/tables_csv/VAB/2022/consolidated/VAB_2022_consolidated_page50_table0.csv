@@ -1,0 +1,16 @@
+﻿row_label_raw,row_label_full,col_0,Quá hạn,Không chịu lãi,Thay đổi lãi suất trong khoảng thời gian,Thay đổi lãi suất trong khoảng thời gian_1,Thay đổi lãi suất trong khoảng thời gian_2,Thay đổi lãi suất trong khoảng thời gian_3,Thay đổi lãi suất trong khoảng thời gian_4,Thay đổi lãi suất trong khoảng thời gian_5,Tổng,numeric__Quá hạn,numeric__Không chịu lãi,numeric__Thay đổi lãi suất trong khoảng thời gian,numeric__Thay đổi lãi suất trong khoảng thời gian_1,numeric__Thay đổi lãi suất trong khoảng thời gian_2,numeric__Thay đổi lãi suất trong khoảng thời gian_3,numeric__Thay đổi lãi suất trong khoảng thời gian_4,numeric__Thay đổi lãi suất trong khoảng thời gian_5,numeric__Tổng
+,,,Quá hạn,Không chịu lãi,Dưới 01 tháng,Từ 01 đến 03 tháng,Từ trên 03 đến 06 tháng,Từ trên 06 đến 12 tháng,Từ trên 01 đến 05 năm,Trên 05 năm,Tổng,,,,,,,,,
+,,,Triệu VND,Triệu VND,Triệu VND,Triệu VND,Triệu VND,Triệu VND,Triệu VND,Triệu VND,Triệu VND,,,,,,,,,
+TÀI SẢN,TÀI SẢN,TÀI SẢN,TÀI SẢN,TÀI SẢN,TÀI SẢN,TÀI SẢN,TÀI SẢN,TÀI SẢN,TÀI SẢN,TÀI SẢN,TÀI SẢN,,,,,,,,,
+"I Tiền mặt, vàng bạc, đá quý","TÀI SẢN > I Tiền mặt, vàng bạc, đá quý","I Tiền mặt, vàng bạc, đá quý",-,447.803,-,-,-,-,-,-,447.803,,447803.0,,,,,,,447803.0
+II Tiền gửi tại NHNN,TÀI SẢN > II Tiền gửi tại NHNN,II Tiền gửi tại NHNN,-,-,1.374.242,-,-,-,-,-,1.374.242,,,1374242.0,,,,,,1374242.0
+III Tiền gửi và cho vay các TCTD khác (*),TÀI SẢN > III Tiền gửi và cho vay các TCTD khác (*),III Tiền gửi và cho vay các TCTD khác (*),-,-,17.788.313,3.500.000,-,-,-,-,21.288.313,,,17788313.0,3500000.0,,,,,21288313.0
+IV Chứng khoán kinh doanh (*),IV Chứng khoán kinh doanh (*),IV Chứng khoán kinh doanh (*),-,-,-,-,-,-,-,-,-,,,,,,,,,
+V Các công cụ tài chính phải sinh và các tài sản tài chính khác,IV Chứng khoán kinh doanh (*) > V Các công cụ tài chính phải sinh và các tài sản tài chính khác,V Các công cụ tài chính phải sinh và các tài sản tài chính khác,-,9.615,-,-,-,-,-,-,9.615,,9615.0,,,,,,,9615.0
+VI Cho vay khách hàng (*),IV Chứng khoán kinh doanh (*) > VI Cho vay khách hàng (*),VI Cho vay khách hàng (*),2.085.073,-,11.255.343,8.843.423,36.917.542,3.406.738,-,-,62.508.119,2085073.0,,11255343.0,8843423.0,36917542.0,3406738.0,,,62508119.0
+VII Hoạt động mua nợ (*),VII Hoạt động mua nợ (*),VII Hoạt động mua nợ (*),-,-,-,-,-,-,-,-,-,,,,,,,,,
+VIII Chứng khoán đầu tư (*),VII Hoạt động mua nợ (*) > VIII Chứng khoán đầu tư (*),VIII Chứng khoán đầu tư (*),-,343.122,-,500.160,300.000,1.000.000,258.805,6.599.021,9.001.108,,343122.0,,500160.0,300000.0,1000000.0,258805.0,6599021.0,9001108.0
+"IX Góp vốn, đầu tư dài hạn (*)","VII Hoạt động mua nợ (*) > IX Góp vốn, đầu tư dài hạn (*)","IX Góp vốn, đầu tư dài hạn (*)",-,134.974,-,-,-,-,-,-,134.974,,134974.0,,,,,,,134974.0
+X Tài sản cố định,VII Hoạt động mua nợ (*) > X Tài sản cố định,X Tài sản cố định,-,204.658,-,-,-,-,-,-,204.658,,204658.0,,,,,,,204658.0
+XI Tài sản có khác (*),VII Hoạt động mua nợ (*) > XI Tài sản có khác (*),XI Tài sản có khác (*),-,11.239.229,-,-,-,-,-,-,11.239.229,,11239229.0,,,,,,,11239229.0
+Tổng tài sản,VII Hoạt động mua nợ (*) > Tổng tài sản,Tổng tài sản,2.085.073,12.379.401,30.417.898,12.843.583,37.217.542,4.406.738,258.805,6.599.021,106.208.061,2085073.0,12379401.0,30417898.0,12843583.0,37217542.0,4406738.0,258805.0,6599021.0,106208061.0

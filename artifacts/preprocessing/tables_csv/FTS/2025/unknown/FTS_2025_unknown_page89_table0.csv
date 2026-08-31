@@ -1,0 +1,31 @@
+﻿row_label_raw,row_label_full,A.7.27. Payables to InvestorsType of payables,Ending balance,Opening balance,numeric__Ending balance,numeric__Opening balance
+1. Payables to Investors - Investors' deposits for securities tradingmanaged by the Company,1. Payables to Investors - Investors' deposits for securities tradingmanaged by the Company,1. Payables to Investors - Investors' deposits for securities tradingmanaged by the Company,3.383.373.905.203,2.773.603.471.001,3383373905203.0,2773603471001.0
+1.1. Local investors,1.1. Local investors,1.1. Local investors,3.354.560.978.096,2.727.014.848.853,3354560978096.0,2727014848853.0
+1.2. Foreign investors,1.2. Foreign investors,1.2. Foreign investors,28.812.927.107,46.588.622.148,28812927107.0,46588622148.0
+Total,Total,Total,3.383.373.905.203,2.773.603.471.001,3383373905203.0,2773603471001.0
+A.7.28. Payables of Investors on services to the Company,A.7.28. Payables of Investors on services to the Company,A.7.28. Payables of Investors on services to the Company,Ending balance,Opening balance,,
+1. Brokerage fee,A.7.28. Payables of Investors on services to the Company > 1. Brokerage fee,1. Brokerage fee,668.927.397,424.805.721,668927397.0,424805721.0
+2. Securities custody fee,A.7.28. Payables of Investors on services to the Company > 2. Securities custody fee,2. Securities custody fee,18.596.414,10.185.672,18596414.0,10185672.0
+3. Payable to investment consultancy fees,3. Payable to investment consultancy fees,3. Payable to investment consultancy fees,,,,
+Total,3. Payable to investment consultancy fees > Total,Total,687.523.811,434.991.393,687523811.0,434991393.0
+A.7.29. Investors' borrowings,A.7.29. Investors' borrowings,A.7.29. Investors' borrowings,Ending balance,Opening balance,,
+1. Investors' borrowings for margin transactions,1. Investors' borrowings for margin transactions,1. Investors' borrowings for margin transactions,,,,
+2. Principal of margin transactions,1. Investors' borrowings for margin transactions > 2. Principal of margin transactions,2. Principal of margin transactions,7.430.869.619.855,6.650.578.286.459,7430869619855.0,6650578286459.0
+2.1. Local investors,1. Investors' borrowings for margin transactions > 2.1. Local investors,2.1. Local investors,7.430.869.619.855,6.650.578.286.459,7430869619855.0,6650578286459.0
+2.2. Foreign investors,2.2. Foreign investors,2.2. Foreign investors,,,,
+3. Interest of margin transactions,2.2. Foreign investors > 3. Interest of margin transactions,3. Interest of margin transactions,15.291.626.890,14.843.382.524,15291626890.0,14843382524.0
+3.1. Local investors,2.2. Foreign investors > 3.1. Local investors,3.1. Local investors,15.291.626.890,14.843.382.524,15291626890.0,14843382524.0
+3.2. Foreign investors,3.2. Foreign investors,3.2. Foreign investors,,,,
+4. Payable for advance payment of securities amount,3.2. Foreign investors > 4. Payable for advance payment of securities amount,4. Payable for advance payment of securities amount,817.581.263.675,417.640.809.455,817581263675.0,417640809455.0
+4.1. Principal of advance transactions,3.2. Foreign investors > 4.1. Principal of advance transactions,4.1. Principal of advance transactions,817.276.232.700,417.567.973.486,817276232700.0,417567973486.0
+a. Local investors,3.2. Foreign investors > a. Local investors,a. Local investors,817.276.232.700,417.567.973.486,817276232700.0,417567973486.0
+b. Foreign investors,b. Foreign investors,b. Foreign investors,,,,
+4.2. Interest of advance transactions,b. Foreign investors > 4.2. Interest of advance transactions,4.2. Interest of advance transactions,305.030.975,72.835.969,305030975.0,72835969.0
+a. Local investors,b. Foreign investors > a. Local investors,a. Local investors,305.030.975,72.835.969,305030975.0,72835969.0
+b. Foreign investors,b. Foreign investors,b. Foreign investors,,,,
+5. Payable for derivative securities trading activities,5. Payable for derivative securities trading activities,5. Payable for derivative securities trading activities,,,,
+Total,5. Payable for derivative securities trading activities > Total,Total,8.263.742.510.420,7.083.062.478.438,8263742510420.0,7083062478438.0
+A.7.30. Income distribution to shareholders or capital contributing,A.7.30. Income distribution to shareholders or capital contributing,A.7.30. Income distribution to shareholders or capital contributing,Ending balance,Opening balance,,
+1. Realized profits accumulated has not distributed yet,A.7.30. Income distribution to shareholders or capital contributing > 1. Realized profits accumulated has not distributed yet,1. Realized profits accumulated has not distributed yet,576.015.898.965,573.193.957.927,576015898965.0,573193957927.0
+2. Unrealized profit,A.7.30. Income distribution to shareholders or capital contributing > 2. Unrealized profit,2. Unrealized profit,378.887.734.159,485.498.733.814,378887734159.0,485498733814.0
+Total,A.7.30. Income distribution to shareholders or capital contributing > Total,Total,954.903.633.124,1.058.692.691.741,954903633124.0,1058692691741.0

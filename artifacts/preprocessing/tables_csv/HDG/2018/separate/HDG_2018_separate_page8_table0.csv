@@ -1,0 +1,30 @@
+﻿row_label_raw,row_label_full,col_0,Mã số,Thuyết minh,31/12/2018 VND,1/1/2018 VND,numeric__Mã số,numeric__Thuyết minh,numeric__31/12/2018 VND,numeric__1/1/2018 VND
+NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,,,,
+NỘ PHẢI TRẢ (300 = 310 + 330),NGUỒN VỐN > NỘ PHẢI TRẢ (300 = 310 + 330),NỘ PHẢI TRẢ (300 = 310 + 330),300,,2.739.714.966.126,2.163.863.802.236,300.0,,2739714966126.0,2163863802236.0
+Nợ ngắn hạn,NGUỒN VỐN > Nợ ngắn hạn,Nợ ngắn hạn,310,,1.177.041.705.059,865.276.966.030,310.0,,1177041705059.0,865276966030.0
+Phải trả người bán ngắn hạn,NGUỒN VỐN > Phải trả người bán ngắn hạn,Phải trả người bán ngắn hạn,311,16,73.048.353.737,44.833.228.599,311.0,16.0,73048353737.0,44833228599.0
+Người mua trả tiền trước ngắn hạn,NGUỒN VỐN > Người mua trả tiền trước ngắn hạn,Người mua trả tiền trước ngắn hạn,312,17,30.735.843.156,68.740.176.618,312.0,17.0,30735843156.0,68740176618.0
+Thuế và các khoản khác phải nộp,Thuế và các khoản khác phải nộp,Thuế và các khoản khác phải nộp,,,,,,,,
+Nhà nước,Thuế và các khoản khác phải nộp > Nhà nước,Nhà nước,313,18,4.270.349.567,20.323.930.207,313.0,18.0,4270349567.0,20323930207.0
+Phải trả người lao động,Thuế và các khoản khác phải nộp > Phải trả người lao động,Phải trả người lao động,314,,10.854.147.653,5.355.891.558,314.0,,10854147653.0,5355891558.0
+Chi phí phải trả ngắn hạn,Thuế và các khoản khác phải nộp > Chi phí phải trả ngắn hạn,Chi phí phải trả ngắn hạn,315,19,256.039.329.584,249.299.646.389,315.0,19.0,256039329584.0,249299646389.0
+Doanh thu chưa thực hiện ngắn hạn,Thuế và các khoản khác phải nộp > Doanh thu chưa thực hiện ngắn hạn,Doanh thu chưa thực hiện ngắn hạn,318,20,3.511.360.074,3.954.724.448,318.0,20.0,3511360074.0,3954724448.0
+Phải trả ngắn hạn khác,Thuế và các khoản khác phải nộp > Phải trả ngắn hạn khác,Phải trả ngắn hạn khác,319,21(a),114.608.103.238,37.647.863.341,319.0,,114608103238.0,37647863341.0
+Vay ngắn hạn,Thuế và các khoản khác phải nộp > Vay ngắn hạn,Vay ngắn hạn,320,22(a),679.971.695.456,435.021.251.795,320.0,,679971695456.0,435021251795.0
+"Quỹ khen thưởng, phúc lợi","Thuế và các khoản khác phải nộp > Quỹ khen thưởng, phúc lợi","Quỹ khen thưởng, phúc lợi",322,,4.002.522.594,100.253.075,322.0,,4002522594.0,100253075.0
+Nợ dài hạn,Thuế và các khoản khác phải nộp > Nợ dài hạn,Nợ dài hạn,330,,1.562.673.261.067,1.298.586.836.206,330.0,,1562673261067.0,1298586836206.0
+Doanh thu chưa thực hiện dài hạn,Thuế và các khoản khác phải nộp > Doanh thu chưa thực hiện dài hạn,Doanh thu chưa thực hiện dài hạn,336,20,13.891.492.036,19.844.988.623,336.0,20.0,13891492036.0,19844988623.0
+Phải trả dài hạn khác,Thuế và các khoản khác phải nộp > Phải trả dài hạn khác,Phải trả dài hạn khác,337,21(b),999.233.867.076,992.006.201.260,337.0,,999233867076.0,992006201260.0
+Vay dài hạn,Thuế và các khoản khác phải nộp > Vay dài hạn,Vay dài hạn,338,22(b),548.885.378.849,286.054.611.217,338.0,,548885378849.0,286054611217.0
+Dự phòng phải trả dài hạn,Thuế và các khoản khác phải nộp > Dự phòng phải trả dài hạn,Dự phòng phải trả dài hạn,342,,662.523.106,681.035.106,342.0,,662523106.0,681035106.0
+VỐN CHỦ SỞ HỮU (400 = 410),Thuế và các khoản khác phải nộp > VỐN CHỦ SỞ HỮU (400 = 410),VỐN CHỦ SỞ HỮU (400 = 410),400,,1.259.472.611.089,969.251.644.309,400.0,,1259472611089.0,969251644309.0
+Vốn chủ sở hữu,Thuế và các khoản khác phải nộp > Vốn chủ sở hữu,Vốn chủ sở hữu,410,23,1.259.472.611.089,969.251.644.309,410.0,23.0,1259472611089.0,969251644309.0
+Vốn cổ phần,Thuế và các khoản khác phải nộp > Vốn cổ phần,Vốn cổ phần,411,24,949.520.360.000,759.680.800.000,411.0,24.0,949520360000.0,759680800000.0
+- Cổ phiếu phổ thông có quyền biểu quyết,Thuế và các khoản khác phải nộp > - Cổ phiếu phổ thông có quyền biểu quyết,- Cổ phiếu phổ thông có quyền biểu quyết,411a,,949.520.360.000,759.680.800.000,,,949520360000.0,759680800000.0
+Thặng dư vốn cổ phần,Thuế và các khoản khác phải nộp > Thặng dư vốn cổ phần,Thặng dư vốn cổ phần,412,,(171.550.000),(33.000.000),412.0,,-171550000.0,-33000000.0
+Cổ phiếu quỹ,Thuế và các khoản khác phải nộp > Cổ phiếu quỹ,Cổ phiếu quỹ,415,24,(326.270.000),(311.780.000),415.0,24.0,-326270000.0,-311780000.0
+Quỹ đầu tư phát triển,Thuế và các khoản khác phải nộp > Quỹ đầu tư phát triển,Quỹ đầu tư phát triển,418,26,23.516.835.886,23.516.835.886,418.0,26.0,23516835886.0,23516835886.0
+Lợi nhuận sau thuế chưa phân phối,Thuế và các khoản khác phải nộp > Lợi nhuận sau thuế chưa phân phối,Lợi nhuận sau thuế chưa phân phối,421,,286.933.235.203,186.398.788.423,421.0,,286933235203.0,186398788423.0
+- LNST chưa phân phối lũy kế đến cuối năm trước,Thuế và các khoản khác phải nộp > - LNST chưa phân phối lũy kế đến cuối năm trước,- LNST chưa phân phối lũy kế đến cuối năm trước,421a,,29.212.990.548,7.218.166.581,,,29212990548.0,7218166581.0
+- LNST chưa phân phối năm nay,Thuế và các khoản khác phải nộp > - LNST chưa phân phối năm nay,- LNST chưa phân phối năm nay,421b,,257.720.244.655,179.180.621.842,,,257720244655.0,179180621842.0
+TỔNG CỘNG NGUỒN VỐN (440 = 300 + 400),Thuế và các khoản khác phải nộp > TỔNG CỘNG NGUỒN VỐN (440 = 300 + 400),TỔNG CỘNG NGUỒN VỐN (440 = 300 + 400),440,,3.999.187.577.215,3.133.115.446.545,440.0,,3999187577215.0,3133115446545.0

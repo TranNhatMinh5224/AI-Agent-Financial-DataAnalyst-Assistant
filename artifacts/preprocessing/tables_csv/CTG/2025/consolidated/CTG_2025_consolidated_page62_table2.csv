@@ -1,0 +1,10 @@
+﻿row_label_raw,row_label_full,Chỉ tiêu,1.1.2025Triệu đồng,Phát sinh trong năm > Số phải thu/phải nộpTriệu đồng,Phát sinh trong năm > Số đã nộpTriệu đồng,Phát sinh trong năm > 31.12.2025Triệu đồng,numeric__1.1.2025Triệu đồng,numeric__Phát sinh trong năm > Số phải thu/phải nộpTriệu đồng,numeric__Phát sinh trong năm > Số đã nộpTriệu đồng,numeric__Phát sinh trong năm > 31.12.2025Triệu đồng
+a. Phải thu,a. Phải thu,a. Phải thu,,,,,,,,
+Thuế GTGT,a. Phải thu > Thuế GTGT,Thuế GTGT,6.019,30,-,6.049,6019.0,30.0,,6049.0
+Thuế TNDN,a. Phải thu > Thuế TNDN,Thuế TNDN,901,(7.317),6.611,195,901.0,-7317.0,6611.0,195.0
+,,,6.920,(7.287),6.611,6.244,6920.0,-7287.0,6611.0,6244.0
+b. Phải trả,b. Phải trả,b. Phải trả,,,,,,,,
+Thuế GTGT đầu ra,b. Phải trả > Thuế GTGT đầu ra,Thuế GTGT đầu ra,104.946,1.004.193,(998.440),110.699,104946.0,1004193.0,-998440.0,110699.0
+Thuế TNDN,b. Phải trả > Thuế TNDN,Thuế TNDN,3.337.834,8.562.687,(7.540.879),4.359.642,3337834.0,8562687.0,-7540879.0,4359642.0
+Các loại thuế khác,b. Phải trả > Các loại thuế khác,Các loại thuế khác,158.876,1.532.728,(1.517.776),173.828,158876.0,1532728.0,-1517776.0,173828.0
+,,,3.601.656,11.099.608,(10.057.095),4.644.169,3601656.0,11099608.0,-10057095.0,4644169.0

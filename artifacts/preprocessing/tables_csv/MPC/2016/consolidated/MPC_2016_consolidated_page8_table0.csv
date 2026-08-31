@@ -1,0 +1,28 @@
+﻿row_label_raw,row_label_full,col_0,Mã số,Thuyết minh,31/12/2016 VND,1/1/2016 VND,numeric__Mã số,numeric__Thuyết minh,numeric__31/12/2016 VND,numeric__1/1/2016 VND
+NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,,,,
+NỘ PHẢI TRẢ (300 = 310 + 330),NGUỒN VỐN > NỘ PHẢI TRẢ (300 = 310 + 330),NỘ PHẢI TRẢ (300 = 310 + 330),300,,5.896.844.057.892,6.981.587.955.942,300.0,,5896844057892.0,6981587955942.0
+Nợ ngắn hạn,NGUỒN VỐN > Nợ ngắn hạn,Nợ ngắn hạn,310,,2.353.310.726.812,2.941.719.921.692,310.0,,2353310726812.0,2941719921692.0
+Phải trả người bán,NGUỒN VỐN > Phải trả người bán,Phải trả người bán,311,,291.573.675.393,185.066.153.541,311.0,,291573675393.0,185066153541.0
+Người mua trả tiền trước,NGUỒN VỐN > Người mua trả tiền trước,Người mua trả tiền trước,312,,8.632.646.619,15.504.424.887,312.0,,8632646619.0,15504424887.0
+Thuế phải nộp Ngân sách Nhà nước,NGUỒN VỐN > Thuế phải nộp Ngân sách Nhà nước,Thuế phải nộp Ngân sách Nhà nước,313,18(a),2.849.276.515,17.331.488.346,313.0,,2849276515.0,17331488346.0
+Phải trả người lao động,NGUỒN VỐN > Phải trả người lao động,Phải trả người lao động,314,,89.621.450.872,63.684.615.987,314.0,,89621450872.0,63684615987.0
+Chi phí phải trả,NGUỒN VỐN > Chi phí phải trả,Chi phí phải trả,315,19,679.624.807,124.043.225.171,315.0,19.0,679624807.0,124043225171.0
+Phải trả ngắn hạn khác,NGUỒN VỐN > Phải trả ngắn hạn khác,Phải trả ngắn hạn khác,319,21(a),83.943.363.138,62.164.819.324,319.0,,83943363138.0,62164819324.0
+Vay ngắn hạn,NGUỒN VỐN > Vay ngắn hạn,Vay ngắn hạn,320,22(a),1.822.624.002.211,2.385.554.124.520,320.0,,1822624002211.0,2385554124520.0
+Quỹ khen thưởng và phúc lợi,NGUỒN VỐN > Quỹ khen thưởng và phúc lợi,Quỹ khen thưởng và phúc lợi,322,24,53.386.687.257,88.371.069.916,322.0,24.0,53386687257.0,88371069916.0
+Nợ dài hạn,NGUỒN VỐN > Nợ dài hạn,Nợ dài hạn,330,,3.543.533.331.080,4.039.868.034.250,330.0,,3543533331080.0,4039868034250.0
+Doanh thu chưa thực hiện dài hạn,NGUỒN VỐN > Doanh thu chưa thực hiện dài hạn,Doanh thu chưa thực hiện dài hạn,336,20,39.038.252.385,39.038.252.385,336.0,20.0,39038252385.0,39038252385.0
+Phải trả dài hạn khác,NGUỒN VỐN > Phải trả dài hạn khác,Phải trả dài hạn khác,337,21(b),6.776.856.000,4.216.856.000,337.0,,6776856000.0,4216856000.0
+Trái phiếu,NGUỒN VỐN > Trái phiếu,Trái phiếu,338,22(b),3.475.916.666.679,3.968.916.666.671,338.0,,3475916666679.0,3968916666671.0
+Thuế thu nhập hoãn lại phải trả,NGUỒN VỐN > Thuế thu nhập hoãn lại phải trả,Thuế thu nhập hoãn lại phải trả,341,16,19.394.426.038,24.958.626.502,341.0,16.0,19394426038.0,24958626502.0
+Dự phòng dài hạn,NGUỒN VỐN > Dự phòng dài hạn,Dự phòng dài hạn,342,23,2.407.129.978,2.737.632.692,342.0,23.0,2407129978.0,2737632692.0
+VỐN CHỦ SỞ HỮU (400 = 410),NGUỒN VỐN > VỐN CHỦ SỞ HỮU (400 = 410),VỐN CHỦ SỞ HỮU (400 = 410),400,,2.292.971.360.710,2.243.559.977.332,400.0,,2292971360710.0,2243559977332.0
+Vốn chủ sở hữu,NGUỒN VỐN > Vốn chủ sở hữu,Vốn chủ sở hữu,410,25,2.292.971.360.710,2.243.559.977.332,410.0,25.0,2292971360710.0,2243559977332.0
+Vốn cổ phần,NGUỒN VỐN > Vốn cổ phần,Vốn cổ phần,411,26,700.000.000.000,700.000.000.000,411.0,26.0,700000000000.0,700000000000.0
+Thặng dư vốn cổ phần,NGUỒN VỐN > Thặng dư vốn cổ phần,Thặng dư vốn cổ phần,412,,177.876.869.236,177.876.869.236,412.0,,177876869236.0,177876869236.0
+Cổ phiếu quỹ,NGUỒN VỐN > Cổ phiếu quỹ,Cổ phiếu quỹ,415,26,(80.162.090.861),(80.162.090.861),415.0,26.0,-80162090861.0,-80162090861.0
+Chênh lệch tỷ giá hối đoái,NGUỒN VỐN > Chênh lệch tỷ giá hối đoái,Chênh lệch tỷ giá hối đoái,417,,126.455.519.008,115.856.340.820,417.0,,126455519008.0,115856340820.0
+Quỹ đầu tư phát triển,NGUỒN VỐN > Quỹ đầu tư phát triển,Quỹ đầu tư phát triển,418,27,32.244.098.097,74.079.253.264,418.0,27.0,32244098097.0,74079253264.0
+Lợi nhuận sau thuế chưa phân phối,NGUỒN VỐN > Lợi nhuận sau thuế chưa phân phối,Lợi nhuận sau thuế chưa phân phối,421,,845.897.804.857,774.411.832.544,421.0,,845897804857.0,774411832544.0
+Lợi ích cổ đông không kiểm soát,NGUỒN VỐN > Lợi ích cổ đông không kiểm soát,Lợi ích cổ đông không kiểm soát,429,,490.659.160.373,481.497.772.329,429.0,,490659160373.0,481497772329.0
+TỔNG NGUỒN VỐN(440 = 300 + 400),NGUỒN VỐN > TỔNG NGUỒN VỐN(440 = 300 + 400),TỔNG NGUỒN VỐN(440 = 300 + 400),440,,8.189.815.418.602,9.225.147.933.274,440.0,,8189815418602.0,9225147933274.0

@@ -1,0 +1,28 @@
+﻿row_label_raw,row_label_full,(Triệu VND),Hoạt động ngân hàng,Hoạt động công ty tài chính,Hoạt động quản lý nợ và khai thác tài sản,Loại trừ các giao dịch nội bộ khi hợp nhất,Cộng hợp nhất,numeric__Hoạt động ngân hàng,numeric__Hoạt động công ty tài chính,numeric__Hoạt động quản lý nợ và khai thác tài sản,numeric__Loại trừ các giao dịch nội bộ khi hợp nhất,numeric__Cộng hợp nhất
+Doanh thu,Doanh thu,Doanh thu,Doanh thu,Doanh thu,Doanh thu,Doanh thu,Doanh thu,,,,,
+Doanh thu lãi,Doanh thu > Doanh thu lãi,Doanh thu lãi,10.208.219,10.216,6.014,(16.242),10.208.207,10208219.0,10216.0,6014.0,-16242.0,10208207.0
+Thu nhập thuần từ hoạt động dịch vụ,Doanh thu > Thu nhập thuần từ hoạt động dịch vụ,Thu nhập thuần từ hoạt động dịch vụ,492.493,33.999,-,(3.262),523.230,492493.0,33999.0,,-3262.0,523230.0
+Thu nhập từ các hoạt động khác,Doanh thu > Thu nhập từ các hoạt động khác,Thu nhập từ các hoạt động khác,3.027.842,168,83.897,,3.111.907,3027842.0,168.0,83897.0,,3111907.0
+,,,13.728.554,44.383,89.911,(19.504),13.843.344,13728554.0,44383.0,89911.0,-19504.0,13843344.0
+Chi phí,Chi phí,Chi phí,Chi phí,Chi phí,Chi phí,Chi phí,Chi phí,,,,,
+Chi phí lãi,Chi phí > Chi phí lãi,Chi phí lãi,(7.329.817),(53),(10),16.242,(7.313.638),-7329817.0,-53.0,-10.0,16242.0,-7313638.0
+Chi phí hoạt động dịch vụ,Chi phí > Chi phí hoạt động dịch vụ,Chi phí hoạt động dịch vụ,(171.136),(16.455),(153),-,(187.744),-171136.0,-16455.0,-153.0,,-187744.0
+Chi phí từ các hoạt động kinh doanh khác,Chi phí > Chi phí từ các hoạt động kinh doanh khác,Chi phí từ các hoạt động kinh doanh khác,(1.074.969),(501),(55.679),-,(1.131.149),-1074969.0,-501.0,-55679.0,,-1131149.0
+Chi phí hoạt động,Chi phí > Chi phí hoạt động,Chi phí hoạt động,(1.881.025),(7.045),(32.336),(67.944),(1.988.350),-1881025.0,-7045.0,-32336.0,-67944.0,-1988350.0
+,,,(10.456.947),(24.054),(88.178),(51.702),(10.620.881),-10456947.0,-24054.0,-88178.0,-51702.0,-10620881.0
+Kết quả kinh doanh trước chi phí dự phòng rủi ro,Chi phí > Kết quả kinh doanh trước chi phí dự phòng rủi ro,Kết quả kinh doanh trước chi phí dự phòng rủi ro,3.271.607,20.329,1.733,(71.206),3.222.463,3271607.0,20329.0,1733.0,-71206.0,3222463.0
+Chi phí dự phòng rủi ro,Chi phí > Chi phí dự phòng rủi ro,Chi phí dự phòng rủi ro,(1.831.721),-,(44),-,(1.831.765),-1831721.0,,-44.0,,-1831765.0
+Kết quả kinh doanh bộ phận,Chi phí > Kết quả kinh doanh bộ phận,Kết quả kinh doanh bộ phận,1.439.886,20.329,1.689,(71.206),1.390.698,1439886.0,20329.0,1689.0,-71206.0,1390698.0
+Tài sản,Tài sản,Tài sản,Tài sản,Tài sản,Tài sản,Tài sản,Tài sản,,,,,
+Tiền mặt,Tài sản > Tiền mặt,Tiền mặt,1.289.961,48,-,-,1.290.009,1289961.0,48.0,,,1290009.0
+Tài sản cố định,Tài sản > Tài sản cố định,Tài sản cố định,768.860,-,1.713,-,770.573,768860.0,,1713.0,,770573.0
+Tài sản khác,Tài sản > Tài sản khác,Tài sản khác,155.834.445,594.066,585.776,(1.676.581),155.337.706,155834445.0,594066.0,585776.0,-1676581.0,155337706.0
+,,,157.893.266,594.114,587.489,(1.676.581),157.398.288,157893266.0,594114.0,587489.0,-1676581.0,157398288.0
+Nợ phải trả,Nợ phải trả,Nợ phải trả,Nợ phải trả,Nợ phải trả,Nợ phải trả,Nợ phải trả,Nợ phải trả,,,,,
+Các khoản nợ Chính phủ và NHNN,Nợ phải trả > Các khoản nợ Chính phủ và NHNN,Các khoản nợ Chính phủ và NHNN,238.592,-,-,-,238.592,238592.0,,,,238592.0
+Tiền gửi và vay TCTD khác,Nợ phải trả > Tiền gửi và vay TCTD khác,Tiền gửi và vay TCTD khác,31.837.375,-,-,(367.724),31.469.651,31837375.0,,,-367724.0,31469651.0
+Tiền gửi của Khách hàng,Nợ phải trả > Tiền gửi của Khách hàng,Tiền gửi của Khách hàng,95.732.770,-,1.453,(6.905),95.727.318,95732770.0,,1453.0,-6905.0,95727318.0
+"Vốn tài trợ, ủy thác đầu tư","Nợ phải trả > Vốn tài trợ, ủy thác đầu tư","Vốn tài trợ, ủy thác đầu tư",-,-,1.020,-,1.020,,,1020.0,,1020.0
+Phát hành giấy tờ có giá,Nợ phải trả > Phát hành giấy tờ có giá,Phát hành giấy tờ có giá,15.823.180,-,-,(144.000),15.679.180,15823180.0,,,-144000.0,15679180.0
+Các khoản nợ khác,Nợ phải trả > Các khoản nợ khác,Các khoản nợ khác,3.308.313,44.288,25.085,(21.001),3.356.685,3308313.0,44288.0,25085.0,-21001.0,3356685.0
+,,,146.940.230,44.288,27.558,(539.630),146.472.446,146940230.0,44288.0,27558.0,-539630.0,146472446.0

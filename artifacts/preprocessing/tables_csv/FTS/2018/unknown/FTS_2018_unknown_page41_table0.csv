@@ -1,0 +1,8 @@
+﻿row_label_raw,row_label_full,STT,Loại chi phí tài chính,Năm 2018,Năm 2017,numeric__Loại chi phí tài chính,numeric__Năm 2018,numeric__Năm 2017
+1,1,1,Chênh lệch lỗ tỷ giá hối đoái,4.904.500,,,4904500.0,
+1.1,1.1,1.1,Lỗ chênh lệch tỷ giá đã thực hiện,4.904.500,,,4904500.0,
+1.2,1.2,1.2,Lỗ chênh lệch tỷ giá chưa thực hiện,,,,,
+2,1.2 > 2,2,Chi phí lãi vay,125.000.000,86.301.370,,125000000.0,86301370.0
+3,3,3,"Lỗ bán, thanh lý khoản đầu tư và công ty con, công ty liên kết, liên doanh",,,,,
+4,4,4,Chi phí tài chính khác,,,,,
+Cộng,4 > Cộng,Cộng,Cộng,129.904.500,86.301.370,,129904500.0,86301370.0

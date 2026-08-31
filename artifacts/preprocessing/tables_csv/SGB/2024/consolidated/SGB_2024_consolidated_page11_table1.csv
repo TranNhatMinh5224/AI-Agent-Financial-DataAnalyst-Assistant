@@ -1,0 +1,13 @@
+﻿row_label_raw,row_label_full,CHỈ TIÊU,Thuyết minh,31/12/2024,31/12/2023,numeric__Thuyết minh,numeric__31/12/2024,numeric__31/12/2023
+1. Bảo lãnh vay vốn,1. Bảo lãnh vay vốn,1. Bảo lãnh vay vốn,,-,-,,,
+2.Cam kết giao dịch ngoại hối,1. Bảo lãnh vay vốn > 2.Cam kết giao dịch ngoại hối,2.Cam kết giao dịch ngoại hối,VIII.38,126.200,-,,126200.0,
+Cam kết mua ngoại tệ,Cam kết mua ngoại tệ,Cam kết mua ngoại tệ,,-,-,,,
+Cam kết bán ngoại tệ,Cam kết bán ngoại tệ,Cam kết bán ngoại tệ,,-,-,,,
+Cam kết giao dịch hoán dồi,Cam kết bán ngoại tệ > Cam kết giao dịch hoán dồi,Cam kết giao dịch hoán dồi,,126.200,-,,126200.0,
+3. Cam kết cho vay không hủy ngang,3. Cam kết cho vay không hủy ngang,3. Cam kết cho vay không hủy ngang,,-,-,,,
+4. Cam kết trong nghiệp vụ L/C,3. Cam kết cho vay không hủy ngang > 4. Cam kết trong nghiệp vụ L/C,4. Cam kết trong nghiệp vụ L/C,VIII.38,45.168,51.315,,45168.0,51315.0
+5. Bảo lãnh khác,3. Cam kết cho vay không hủy ngang > 5. Bảo lãnh khác,5. Bảo lãnh khác,VIII.38,327.664,294.463,,327664.0,294463.0
+6. Các cam kết khác,6. Các cam kết khác,6. Các cam kết khác,,-,-,,,
+7. Lãi cho vay và phí phải thu chưa thu được,6. Các cam kết khác > 7. Lãi cho vay và phí phải thu chưa thu được,7. Lãi cho vay và phí phải thu chưa thu được,VIII.40a,830.269,495.013,,830269.0,495013.0
+8. Nợ khó đòi đã xử lý,6. Các cam kết khác > 8. Nợ khó đòi đã xử lý,8. Nợ khó đòi đã xử lý,VIII.40b,6.137.191,5.910.095,,6137191.0,5910095.0
+9. Tài sản và chứng từ khác,6. Các cam kết khác > 9. Tài sản và chứng từ khác,9. Tài sản và chứng từ khác,VIII.40c,2.864.612,2.744.494,,2864612.0,2744494.0

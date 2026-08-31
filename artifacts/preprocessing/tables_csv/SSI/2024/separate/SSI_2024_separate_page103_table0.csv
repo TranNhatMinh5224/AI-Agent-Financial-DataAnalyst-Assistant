@@ -1,0 +1,17 @@
+﻿row_label_raw,row_label_full,Code,ITEMS,Notes,Ending balance,Beginning balance,numeric__ITEMS,numeric__Notes,numeric__Ending balance,numeric__Beginning balance
+,,,B. ASSETS AND PAYABLES UNDER AGREEMENT WITH INVESTORS (continued),,,,,,,
+022,022,022,Non-traded financial assets deposited at VSD of investors,28.6,"1,174,396,560,000","862,680,390,000",,286.0,,
+022.1,022.1,022.1,Unrestricted and non-traded financial assets deposited at VSD,28.6,"1,150,014,570,000","838,298,400,000",,286.0,,
+022.2,022.2,022.2,Restricted and non-traded financial assets deposited at VSD,28.6,"24,381,000,000","24,381,000,000",,286.0,,
+022.4,022.4,022.4,Blocked and non-traded financial assets deposited at VSD,28.6,"990,000","990,000",,286.0,990.0,990.0
+023,023,023,Awaiting financial assets of investors,28.7,"598,838,030,000","947,743,718,700",,287.0,,
+024b,024b,024b,Financial assets undeposited at VSD of investors,28.8,"10,760,540,000","13,436,620,000",,288.0,,
+025,025,025,Entitled financial assets of investors,28.9,"455,522,080,000","203,534,390,000",,289.0,,
+026,026,026,Investors' deposits,,"4,941,400,793,936","5,274,737,029,714",,,,
+027,026 > 027,027,Investors' deposits for securities trading activities managed by the Company,28.10,"4,636,518,614,794","4,642,998,819,420",,2810.0,,
+027.1,026 > 027.1,027.1,Investor's deposits at VSD,28.10,"282,505,300,828","523,311,148,651",,2810.0,,
+028,026 > 028,028,Investor's synthesizing deposits for securities trading activities,28.10,"11,079,681,180","9,364,816,809",,2810.0,,
+030,026 > 030,030,Deposits of securities issuers,28.11,"11,297,197,134","99,062,244,834",,2811.0,,
+031,026 > 031,031,Payables to investors - investors' deposits for securities trading activities managed by the Company,28.12,"4,919,023,915,622","5,166,309,968,071",,2812.0,,
+031.1,026 > 031.1,031.1,Payables to domestic investors for securities trading activities managed by the Company,28.12,"4,712,758,821,651","4,304,562,383,964",,2812.0,,
+031.2,026 > 031.2,031.2,Payables to foreign investors for securities trading activities managed by the Company,28.12,"206,265,093,971","861,747,584,107",,2812.0,,

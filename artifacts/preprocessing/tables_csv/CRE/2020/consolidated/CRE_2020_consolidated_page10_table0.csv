@@ -1,0 +1,30 @@
+﻿row_label_raw,row_label_full,Mã số,CHỈ TIÊU,Thuyết minh,Năm 2020 > VND,Năm 2019 > VND,numeric__CHỈ TIÊU,numeric__Thuyết minh,numeric__Năm 2020 > VND,numeric__Năm 2019 > VND
+,,,I. LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH,I. LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH,I. LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH,I. LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH,,,,
+01,01,01,1. Lợi nhuận trước thuế,,374.010.622.035,491.210.664.003,,,374010622035.0,491210664003.0
+,,,2. Điều chỉnh cho các khoản,,,,,,,
+02,02,02,- Khấu hao tài sản cố định và bất động sản đầu tư,,34.593.610.363,20.711.107.160,,,34593610363.0,20711107160.0
+03,03,03,- Các khoản dự phòng,,(1),627.689.298,,,-1.0,627689298.0
+05,05,05,"- Lãi, lỗ từ hoạt động đầu tư",,(23.833.688.529),(5.012.227.952),,,-23833688529.0,-5012227952.0
+06,06,06,- Chi phí lãi vay,,8.033.752.148,22.231.183.764,,,8033752148.0,22231183764.0
+08,08,08,3. Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động,,392.804.296.016,529.768.416.273,,,392804296016.0,529768416273.0
+09,09,09,"- Tăng, giảm các khoản phải thu",,(1.105.165.997.714),(542.299.930.363),,,-1105165997714.0,-542299930363.0
+10,10,10,"- Tăng, giảm hàng tồn kho",,109.869.753.061,318.157.112.803,,,109869753061.0,318157112803.0
+11,11,11,"- Tăng, giảm các khoản phải trả (không kể lãi vay phải trả, thuế thu nhập doanh nghiệp phải nộp)",,258.013.378.183,21.916.401.441,,,258013378183.0,21916401441.0
+12,12,12,"- Tăng, giảm chi phí trả trước",,13.492.599.343,(39.492.116.858),,,13492599343.0,-39492116858.0
+14,14,14,- Tiền lãi vay đã trả,,(7.734.602.614),(22.231.183.764),,,-7734602614.0,-22231183764.0
+15,15,15,- Thuế thu nhập doanh nghiệp đã nộp,,(98.971.337.924),(85.163.908.667),,,-98971337924.0,-85163908667.0
+17,17,17,- Tiền chi khác cho hoạt động kinh doanh,,(23.513.999.999),(25.568.454.786),,,-23513999999.0,-25568454786.0
+20,20,20,Lưu chuyển tiền thuần từ hoạt động kinh doanh,,(461.205.911.648),155.086.336.079,,,-461205911648.0,155086336079.0
+,,,II. LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TƯ,II. LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TƯ,II. LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TƯ,II. LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TƯ,,,,
+21,21,21,"1. Tiền chi để mua sắm, xây dựng tài sản cố định và các tài sản dài hạn khác",,(16.022.359.569),(111.041.940.981),,,-16022359569.0,-111041940981.0
+23,23,23,"2. Tiền chi cho vay, mua các công cụ nợ của đơn vị khác",,(506.760.689.852),(197.500.000.000),,,-506760689852.0,-197500000000.0
+24,24,24,"3. Tiền thu hồi cho vay, bán lại các công cụ nợ của đơn vị khác",,373.303.714.218,42.000.000.000,,,373303714218.0,42000000000.0
+25,25,25,4. Tiền chi đầu tư góp vốn vào đơn vị khác,,(49.000.000.000),-,,,-49000000000.0,
+27,27,27,"5. Tiền thu lãi cho vay, cổ tức và lợi nhuận được chia",,21.253.789.195,3.858.433.431,,,21253789195.0,3858433431.0
+30,30,30,Lưu chuyển tiền thuần từ hoạt động đầu tư,,(177.225.546.008),(262.683.507.550),,,-177225546008.0,-262683507550.0
+,,,III. LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG TÀI CHÍNH,III. LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG TÀI CHÍNH,III. LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG TÀI CHÍNH,III. LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG TÀI CHÍNH,,,,
+31,31,31,"1. Tiền thu từ phát hành cổ phiếu, nhận vốn góp của chủ sở hữu",,4.045.000.000,39.605.000.000,,,4045000000.0,39605000000.0
+32,32,32,"2. Tiền trả lại vốn góp cho các chủ sở hữu, mua lại cổ phiếu của doanh nghiệp đã phát hành",,-,(1.080.000),,,,-1080000.0
+33,33,33,3. Tiền thu từ đi vay,,2.065.950.544.691,272.927.415.533,,,2065950544691.0,272927415533.0
+34,34,34,4. Tiền trả nợ gốc vay,,(1.327.797.219.785),(360.200.000.000),,,-1327797219785.0,-360200000000.0
+36,36,36,"5. Cổ tức, lợi nhuận đã trả cho chủ sở hữu",,(79.999.892.000),-,,,-79999892000.0,

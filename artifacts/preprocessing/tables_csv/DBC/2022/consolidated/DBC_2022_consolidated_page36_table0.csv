@@ -1,0 +1,14 @@
+﻿row_label_raw,row_label_full,col_0,Số đầu năm,Số phát sinh trong năm,Số đã nộp trong năm,Số cuối năm,numeric__Số đầu năm,numeric__Số phát sinh trong năm,numeric__Số đã nộp trong năm,numeric__Số cuối năm
+Phải nộp,Phải nộp,Phải nộp,Phải nộp,Phải nộp,Phải nộp,Phải nộp,,,,
+Thuế giá trị gia tăng,Phải nộp > Thuế giá trị gia tăng,Thuế giá trị gia tăng,15.227.825.554,221.818.431.857,(230.871.107.329),6.175.150.082,15227825554.0,221818431857.0,-230871107329.0,6175150082.0
+Thuế thu nhập doanh nghiệp,Phải nộp > Thuế thu nhập doanh nghiệp,Thuế thu nhập doanh nghiệp,64.367.534.415,73.783.481.300,(99.132.187.899),39.018.827.816,64367534415.0,73783481300.0,-99132187899.0,39018827816.0
+Thuế nhập khẩu,Phải nộp > Thuế nhập khẩu,Thuế nhập khẩu,-,20.959.376.984,(20.959.376.984),-,,20959376984.0,-20959376984.0,
+Tiền sử dụng đất,Phải nộp > Tiền sử dụng đất,Tiền sử dụng đất,-,26.634.577.379,(26.634.570.357),7.022,,26634577379.0,-26634570357.0,7022.0
+Thuế thu nhập cá nhân,Phải nộp > Thuế thu nhập cá nhân,Thuế thu nhập cá nhân,-,18.143.248.199,(18.142.806.794),441.405,,18143248199.0,-18142806794.0,441405.0
+Các loại thuế khác,Phải nộp > Các loại thuế khác,Các loại thuế khác,-,3.798.145.254,(3.606.106.681),192.038.573,,3798145254.0,-3606106681.0,192038573.0
+TỔNG CỘNG,Phải nộp > TỔNG CỘNG,TỔNG CỘNG,79.595.359.969,365.137.260.973,(399.346.156.044),45.386.464.898,79595359969.0,365137260973.0,-399346156044.0,45386464898.0
+,,,Số đầu năm,Số kê khai hoàn trong năm,Số đã cán trừ trong năm,Số cuối năm,,,,
+Phải thu,Phải thu,Phải thu,Phải thu,Phải thu,Phải thu,Phải thu,,,,
+Thuế giá trị gia tăng,Phải thu > Thuế giá trị gia tăng,Thuế giá trị gia tăng,42.711.312.098,132.243.054.220,(114.004.280.832),60.950.085.486,42711312098.0,132243054220.0,-114004280832.0,60950085486.0
+Thuế khác,Phải thu > Thuế khác,Thuế khác,5.095.387.535,44.877.481,(624.570.044),4.515.694.972,5095387535.0,44877481.0,-624570044.0,4515694972.0
+TỔNG CỘNG,Phải thu > TỔNG CỘNG,TỔNG CỘNG,47.806.699.633,132.287.931.701,(114.628.850.876),65.465.780.458,47806699633.0,132287931701.0,-114628850876.0,65465780458.0

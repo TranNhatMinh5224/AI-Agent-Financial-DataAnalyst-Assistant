@@ -1,0 +1,18 @@
+﻿row_label_raw,row_label_full,col_0,Quyền sử dụng đất VND,Phần mềm máy vi tính VND,TSCĐVH Khác VND,Tổng cộng VND,numeric__Quyền sử dụng đất VND,numeric__Phần mềm máy vi tính VND,numeric__TSCĐVH Khác VND,numeric__Tổng cộng VND
+NGUYÊN GIÁ,NGUYÊN GIÁ,NGUYÊN GIÁ,NGUYÊN GIÁ,NGUYÊN GIÁ,NGUYÊN GIÁ,NGUYÊN GIÁ,,,,
+Số dư đầu năm,NGUYÊN GIÁ > Số dư đầu năm,Số dư đầu năm,37.648.888.892,7.200.955.984,1.106.119.364,45.955.964.240,37648888892.0,7200955984.0,1106119364.0,45955964240.0
+- Mua trong năm,- Mua trong năm,- Mua trong năm,-,-,-,-,,,,
+- Tăng khác,- Mua trong năm > - Tăng khác,- Tăng khác,126.523.000,-,-,126.523.000,126523000.0,,,126523000.0
+"- Thanh lý, nhượng bán","- Thanh lý, nhượng bán","- Thanh lý, nhượng bán",-,-,-,-,,,,
+- Giảm khác,"- Thanh lý, nhượng bán > - Giảm khác",- Giảm khác,(131.830.299),-,-,(131.830.299),-131830299.0,,,-131830299.0
+Số dư cuối năm,"- Thanh lý, nhượng bán > Số dư cuối năm",Số dư cuối năm,37.643.581.593,7.200.955.984,1.106.119.364,45.950.656.941,37643581593.0,7200955984.0,1106119364.0,45950656941.0
+GIÁ TRỊ HAO MÒN,GIÁ TRỊ HAO MÒN,GIÁ TRỊ HAO MÒN,GIÁ TRỊ HAO MÒN,GIÁ TRỊ HAO MÒN,GIÁ TRỊ HAO MÒN,GIÁ TRỊ HAO MÒN,,,,
+Số dư đầu năm,GIÁ TRỊ HAO MÒN > Số dư đầu năm,Số dư đầu năm,5.349.775.386,3.927.624.190,489.365.011,9.766.764.587,5349775386.0,3927624190.0,489365011.0,9766764587.0
+- Khấu hao trong năm,GIÁ TRỊ HAO MÒN > - Khấu hao trong năm,- Khấu hao trong năm,1.538.579.272,1.022.800.519,300.343.961,2.861.723.752,1538579272.0,1022800519.0,300343961.0,2861723752.0
+- Tăng khác,- Tăng khác,- Tăng khác,-,-,-,-,,,,
+"- Thanh lý, nhượng bán","- Thanh lý, nhượng bán","- Thanh lý, nhượng bán",-,-,-,-,,,,
+- Giảm khác,- Giảm khác,- Giảm khác,-,-,-,-,,,,
+Số dư cuối năm,- Giảm khác > Số dư cuối năm,Số dư cuối năm,6.888.354.658,4.950.424.709,789.708.972,12.628.488.339,6888354658.0,4950424709.0,789708972.0,12628488339.0
+GIÁ TRỊ CÒN LẠI,GIÁ TRỊ CÒN LẠI,GIÁ TRỊ CÒN LẠI,GIÁ TRỊ CÒN LẠI,GIÁ TRỊ CÒN LẠI,GIÁ TRỊ CÒN LẠI,GIÁ TRỊ CÒN LẠI,,,,
+Tại ngày đầu năm,GIÁ TRỊ CÒN LẠI > Tại ngày đầu năm,Tại ngày đầu năm,32.299.113.506,3.273.331.794,616.754.353,36.189.199.653,32299113506.0,3273331794.0,616754353.0,36189199653.0
+Tại ngày cuối năm,GIÁ TRỊ CÒN LẠI > Tại ngày cuối năm,Tại ngày cuối năm,30.755.226.935,2.250.531.275,316.410.392,33.322.168.602,30755226935.0,2250531275.0,316410392.0,33322168602.0

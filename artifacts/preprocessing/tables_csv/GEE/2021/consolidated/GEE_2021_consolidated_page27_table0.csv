@@ -1,0 +1,22 @@
+﻿row_label_raw,row_label_full,col_0,Giá trị ghi số ghi nhận tại ngày mua,numeric__Giá trị ghi số ghi nhận tại ngày mua
+Tài sản,Tài sản,Tài sản,Tài sản,
+Tiền,Tài sản > Tiền,Tiền,38.848.289.719,38848289719.0
+Các khoản phải thu ngắn hạn,Tài sản > Các khoản phải thu ngắn hạn,Các khoản phải thu ngắn hạn,61.143.590.930,61143590930.0
+Tài sản ngắn hạn khác,Tài sản > Tài sản ngắn hạn khác,Tài sản ngắn hạn khác,7.974.427.556,7974427556.0
+Tài sản cố định,Tài sản > Tài sản cố định,Tài sản cố định,3.171.470.590.741,3171470590741.0
+Tài sản dở dang dài hạn,Tài sản > Tài sản dở dang dài hạn,Tài sản dở dang dài hạn,2.745.600.662,2745600662.0
+Tài sản dài hạn khác,Tài sản > Tài sản dài hạn khác,Tài sản dài hạn khác,66.422.265.687,66422265687.0
+,,,3.348.604.765.295,3348604765295.0
+Nợ phải trả,Nợ phải trả,Nợ phải trả,Nợ phải trả,
+Phải trả người bán,Nợ phải trả > Phải trả người bán,Phải trả người bán,3.692.135.913,3692135913.0
+Vay và nợ,Nợ phải trả > Vay và nợ,Vay và nợ,2.166.527.710.578,2166527710578.0
+Phải trả khác,Nợ phải trả > Phải trả khác,Phải trả khác,46.072.275.087,46072275087.0
+,,,2.216.292.121.578,2216292121578.0
+Tổng tài sản thuần theo giá trị ghi số [a],Nợ phải trả > Tổng tài sản thuần theo giá trị ghi số [a],Tổng tài sản thuần theo giá trị ghi số [a],1.132.312.643.717,1132312643717.0
+Cổ đông không kiểm soát [b],Nợ phải trả > Cổ đông không kiểm soát [b],Cổ đông không kiểm soát [b],(4.459.094.160),-4459094160.0
+Chênh lệch giữa giá phí hợp nhất và tài sản thuần được ghi nhận vào Quỹ khác thuộc vốn chủ sở hữu [c],Nợ phải trả > Chênh lệch giữa giá phí hợp nhất và tài sản thuần được ghi nhận vào Quỹ khác thuộc vốn chủ sở hữu [c],Chênh lệch giữa giá phí hợp nhất và tài sản thuần được ghi nhận vào Quỹ khác thuộc vốn chủ sở hữu [c],10.346.450.443,10346450443.0
+Tổng giá phí hợp nhất kinh doanh đã thanh toán [d] = [a + b + c],Nợ phải trả > Tổng giá phí hợp nhất kinh doanh đã thanh toán [d] = [a + b + c],Tổng giá phí hợp nhất kinh doanh đã thanh toán [d] = [a + b + c],1.138.200.000.000,1138200000000.0
+Thông tin lưu chuyển tiền tệ từ việc mua công ty con,Thông tin lưu chuyển tiền tệ từ việc mua công ty con,Thông tin lưu chuyển tiền tệ từ việc mua công ty con,Thông tin lưu chuyển tiền tệ từ việc mua công ty con,
+Tiền thu về từ công ty con,Thông tin lưu chuyển tiền tệ từ việc mua công ty con > Tiền thu về từ công ty con,Tiền thu về từ công ty con,38.848.289.719,38848289719.0
+Tiền chỉ để mua công ty con,Thông tin lưu chuyển tiền tệ từ việc mua công ty con > Tiền chỉ để mua công ty con,Tiền chỉ để mua công ty con,(1.138.200.000.000),-1138200000000.0
+Tổng tiền thuần đã chi cho nghiệp vụ mua,Thông tin lưu chuyển tiền tệ từ việc mua công ty con > Tổng tiền thuần đã chi cho nghiệp vụ mua,Tổng tiền thuần đã chi cho nghiệp vụ mua,(1.099.351.710.281),-1099351710281.0

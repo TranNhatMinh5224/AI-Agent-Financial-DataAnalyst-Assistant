@@ -1,0 +1,30 @@
+﻿row_label_raw,row_label_full,col_0,Mã số,Thuyết minh,31/12/2015 VND,1/1/2015 VND Đã điều chỉnh lại,numeric__Mã số,numeric__Thuyết minh,numeric__31/12/2015 VND,numeric__1/1/2015 VND Đã điều chỉnh lại
+NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,,,,
+NỘ PHẢI TRẢ (300 = 310 + 330),NGUỒN VỐN > NỘ PHẢI TRẢ (300 = 310 + 330),NỘ PHẢI TRẢ (300 = 310 + 330),300,,1.476.839.208.421,1.693.569.818.901,300.0,,1476839208421.0,1693569818901.0
+Nợ ngắn hạn,NGUỒN VỐN > Nợ ngắn hạn,Nợ ngắn hạn,310,,731.048.574.636,992.591.833.410,310.0,,731048574636.0,992591833410.0
+Phải trả người bán ngắn hạn,NGUỒN VỐN > Phải trả người bán ngắn hạn,Phải trả người bán ngắn hạn,311,16,139.445.627.098,31.815.568.000,311.0,16.0,139445627098.0,31815568000.0
+Người mua trả tiền trước ngắn hạn,NGUỒN VỐN > Người mua trả tiền trước ngắn hạn,Người mua trả tiền trước ngắn hạn,312,,6.166.202.582,8.306.477.565,312.0,,6166202582.0,8306477565.0
+Thuế và các khoản phải nộp Nhà nước,NGUỒN VỐN > Thuế và các khoản phải nộp Nhà nước,Thuế và các khoản phải nộp Nhà nước,313,17(b),972.119.820,6.263.532.515,313.0,,972119820.0,6263532515.0
+Phải trả người lao động,NGUỒN VỐN > Phải trả người lao động,Phải trả người lao động,314,,23.876.340.303,23.616.021.130,314.0,,23876340303.0,23616021130.0
+Chi phí phải trả ngắn hạn,NGUỒN VỐN > Chi phí phải trả ngắn hạn,Chi phí phải trả ngắn hạn,315,18(a),4.372.905.902,10.136.815.314,315.0,,4372905902.0,10136815314.0
+Doanh thu chưa thực hiện ngắn hạn,NGUỒN VỐN > Doanh thu chưa thực hiện ngắn hạn,Doanh thu chưa thực hiện ngắn hạn,318,,426.000.000,-,318.0,,426000000.0,
+Phải trả ngắn hạn khác,NGUỒN VỐN > Phải trả ngắn hạn khác,Phải trả ngắn hạn khác,319,19(a),456.257.047.819,817.730.077.997,319.0,,456257047819.0,817730077997.0
+Vay ngắn hạn,NGUỒN VỐN > Vay ngắn hạn,Vay ngắn hạn,320,20(a),73.745.026.808,59.601.231.929,320.0,,73745026808.0,59601231929.0
+"Quỹ khen thưởng, phúc lợi","NGUỒN VỐN > Quỹ khen thưởng, phúc lợi","Quỹ khen thưởng, phúc lợi",322,,25.787.304.304,35.122.108.960,322.0,,25787304304.0,35122108960.0
+Nợ dài hạn,NGUỒN VỐN > Nợ dài hạn,Nợ dài hạn,330,,745.790.633.785,700.977.985.491,330.0,,745790633785.0,700977985491.0
+Chi phí phải trả dài hạn,NGUỒN VỐN > Chi phí phải trả dài hạn,Chi phí phải trả dài hạn,333,18(b),27.511.488.000,28.460.160.000,333.0,,27511488000.0,28460160000.0
+Doanh thu chưa thực hiện dài hạn,NGUỒN VỐN > Doanh thu chưa thực hiện dài hạn,Doanh thu chưa thực hiện dài hạn,336,,2.378.500.000,-,336.0,,2378500000.0,
+Phải trả dài hạn khác,NGUỒN VỐN > Phải trả dài hạn khác,Phải trả dài hạn khác,337,19(b),192.815.930,422.129.949.395,337.0,,192815930.0,422129949395.0
+Vay dài hạn,NGUỒN VỐN > Vay dài hạn,Vay dài hạn,338,20(b),715.707.829.855,250.387.876.096,338.0,,715707829855.0,250387876096.0
+VỐN CHỦ SỞ HỮU (400 = 410 + 430),NGUỒN VỐN > VỐN CHỦ SỞ HỮU (400 = 410 + 430),VỐN CHỦ SỞ HỮU (400 = 410 + 430),400,,5.570.294.291.103,5.072.033.202.892,400.0,,5570294291103.0,5072033202892.0
+Vốn chủ sở hữu,NGUỒN VỐN > Vốn chủ sở hữu,Vốn chủ sở hữu,410,21,5.531.865.514.650,5.029.911.650.892,410.0,21.0,5531865514650.0,5029911650892.0
+Vốn cổ phần,NGUỒN VỐN > Vốn cổ phần,Vốn cổ phần,411,22,5.000.000.000.000,4.299.595.911.499,411.0,22.0,5000000000000.0,4299595911499.0
+- Có phiếu phổ thông có quyền biểu quyết,NGUỒN VỐN > - Có phiếu phổ thông có quyền biểu quyết,- Có phiếu phổ thông có quyền biểu quyết,411a,,5.000.000.000.000,4.299.595.911.499,,,5000000000000.0,4299595911499.0
+Thặng dư vốn cổ phần,NGUỒN VỐN > Thặng dư vốn cổ phần,Thặng dư vốn cổ phần,412,,29.911.650.892,-,412.0,,29911650892.0,
+Vốn khác của chủ sở hữu,NGUỒN VỐN > Vốn khác của chủ sở hữu,Vốn khác của chủ sở hữu,414,,-,730.315.739.393,414.0,,,730315739393.0
+Lợi nhuận sau thuế chưa phân phối,NGUỒN VỐN > Lợi nhuận sau thuế chưa phân phối,Lợi nhuận sau thuế chưa phân phối,421,,266.289.668.614,-,421.0,,266289668614.0,
+- Lợi nhuận sau thuế chưa phân phối kỳ này,NGUỒN VỐN > - Lợi nhuận sau thuế chưa phân phối kỳ này,- Lợi nhuận sau thuế chưa phân phối kỳ này,421b,,266.289.668.614,-,,,266289668614.0,
+Nguồn vốn đầu tư xây dựng cơ bản,NGUỒN VỐN > Nguồn vốn đầu tư xây dựng cơ bản,Nguồn vốn đầu tư xây dựng cơ bản,422,23,235.664.195.144,-,422.0,23.0,235664195144.0,
+Nguồn kinh phí và các quỹ khác,NGUỒN VỐN > Nguồn kinh phí và các quỹ khác,Nguồn kinh phí và các quỹ khác,430,,38.428.776.453,42.121.552.000,430.0,,38428776453.0,42121552000.0
+Nguồn kinh phí đã hình thành tài sản cố định,NGUỒN VỐN > Nguồn kinh phí đã hình thành tài sản cố định,Nguồn kinh phí đã hình thành tài sản cố định,432,24,38.428.776.453,42.121.552.000,432.0,24.0,38428776453.0,42121552000.0
+TỔNG NGUỒN VỐN(440 = 300 + 400),NGUỒN VỐN > TỔNG NGUỒN VỐN(440 = 300 + 400),TỔNG NGUỒN VỐN(440 = 300 + 400),440,,7.047.133.499.524,6.765.603.021.793,440.0,,7047133499524.0,6765603021793.0

@@ -1,0 +1,37 @@
+﻿row_label_raw,row_label_full,Mãsố,col_1,Thuyếtminh,Năm tài chính kết thúcngày 31 tháng 12 năm,Năm tài chính kết thúcngày 31 tháng 12 năm_1,numeric__col_1,numeric__Thuyếtminh,numeric__Năm tài chính kết thúcngày 31 tháng 12 năm,numeric__Năm tài chính kết thúcngày 31 tháng 12 năm_1
+Mãsố,Mãsố,Mãsố,,Thuyếtminh,2021VND,2020VND,,,,
+,,,LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH,LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH,LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH,LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH,,,,
+01,Mãsố > 01,01,Lợi nhuận kế toán trước thuế,Lợi nhuận kế toán trước thuế,1.303.996.890.535,1.302.865.700.088,,,1303996890535.0,1302865700088.0
+,,,Điều chỉnh cho các khoản:,Điều chỉnh cho các khoản:,,,,,,
+02,Mãsố > 02,02,"Khấu hao tài sản cố định (""TSCĐ"")","Khấu hao tài sản cố định (""TSCĐ"")",45.804.632.581,43.028.953.790,,,45804632581.0,43028953790.0
+03,Mãsố > 03,03,Các khoản dự phòng,Các khoản dự phòng,49.447.248.595,51.747.998.745,,,49447248595.0,51747998745.0
+04,Mãsố > 04,04,Lỗ/(lãi) chênh lệch tỷ giá hồi đoái do đánh giá lạicác khoản mục tiến tệ có gốc ngoại tệ,Lỗ/(lãi) chênh lệch tỷ giá hồi đoái do đánh giá lạicác khoản mục tiến tệ có gốc ngoại tệ,2.351.000.719,(247.150.460),,,2351000719.0,-247150460.0
+05,Mãsố > 05,05,Lãi từ hoạt động đầu tư,Lãi từ hoạt động đầu tư,(28.807.519.438),(186.563.446),,,-28807519438.0,-186563446.0
+06,Mãsố > 06,06,Chi phí lãi vay,Chi phí lãi vay,96.963.843.334,132.606.524.473,,,96963843334.0,132606524473.0
+08,Mãsố > 08,08,Lợi nhuận từ hoạt động kinh doanh trước nhữngthay đổi vốn lưu động,Lợi nhuận từ hoạt động kinh doanh trước nhữngthay đổi vốn lưu động,1.469.756.096.326,1.529.815.463.190,,,1469756096326.0,1529815463190.0
+09,Mãsố > 09,09,Giảm các khoản phải thu,Giảm các khoản phải thu,269.571.290.692,191.081.790.952,,,269571290692.0,191081790952.0
+10,Mãsố > 10,10,(Tăng)/giảm hàng tổn kho,(Tăng)/giảm hàng tổn kho,(2.299.737.980.267),54.427.868.393,,,-2299737980267.0,54427868393.0
+11,Mãsố > 11,11,Tăng/(giảm) các khoản phải trả,Tăng/(giảm) các khoản phải trả,275.116.010.892,(69.313.595.461),,,275116010892.0,-69313595461.0
+12,Mãsố > 12,12,Giảm/(tăng) chi phí trả trước,Giảm/(tăng) chi phí trả trước,4.964.035.337,(43.176.372.081),,,4964035337.0,-43176372081.0
+14,Mãsố > 14,14,Tiền lãi vay đã trả,Tiền lãi vay đã trả,(97.682.133.656),(133.501.763.936),,,-97682133656.0,-133501763936.0
+15,Mãsố > 15,15,Thuế TNDN đã nộp,Thuế TNDN đã nộp,(222.338.449.315),(237.842.086.643),,,-222338449315.0,-237842086643.0
+17,Mãsố > 17,17,Tiền chi khác từ hoạt động kinh doanh,Tiền chi khác từ hoạt động kinh doanh,(43.169.828.785),(34.492.822.139),,,-43169828785.0,-34492822139.0
+20,Mãsố > 20,20,Lưu chuyển tiền thuần từ hoạt động kinh doanh,Lưu chuyển tiền thuần từ hoạt động kinh doanh,(643.520.958.776),1.256.998.482.275,,,-643520958776.0,1256998482275.0
+,,,LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TỪ,LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TỪ,LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TỪ,LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TỪ,,,,
+21,Mãsố > 21,21,"Tiền chi để mua sắm, xây dựng TSCĐ và các tàisản dài hạn khác","Tiền chi để mua sắm, xây dựng TSCĐ và các tàisản dài hạn khác",(45.884.630.197),(31.943.696.474),,,-45884630197.0,-31943696474.0
+22,Mãsố > 22,22,"Tiền thu từ thanh lý, nhượng bán TSCĐ","Tiền thu từ thanh lý, nhượng bán TSCĐ",12.754.963.332,133.567.536,,,12754963332.0,133567536.0
+24,Mãsố > 24,24,Tiền thu hồi cho vay,Tiền thu hồi cho vay,-,50.000.000.000,,,,50000000000.0
+25,Mãsố > 25,25,Tiền chi đầu tư góp vốn vào đơn vị khác,Tiền chi đầu tư góp vốn vào đơn vị khác,-,(170.000.000.000),,,,-170000000000.0
+27,Mãsố > 27,27,"Tiền thu lãi tiền gửi, cổ tức và lợi nhuận được chia","Tiền thu lãi tiền gửi, cổ tức và lợi nhuận được chia",25.876.153.497,102.132.124,,,25876153497.0,102132124.0
+30,Mãsố > 30,30,Lưu chuyển tiền thuần từ hoạt động đầu tư,Lưu chuyển tiền thuần từ hoạt động đầu tư,(7.253.513.368),(151.707.996.814),,,-7253513368.0,-151707996814.0
+,,,LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG TẢI CHÍNH,LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG TẢI CHÍNH,LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG TẢI CHÍNH,LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG TẢI CHÍNH,,,,
+31,Mãsố > 31,31,Tiền thu từ phát hành cổ phiếu,Tiền thu từ phát hành cổ phiếu,-,46.375.540.000,,,,46375540000.0
+32,Mãsố > 32,32,Tiền chi mua lại cổ phiếu đã phát hành,Tiền chi mua lại cổ phiếu đã phát hành,(1.524.800.000),(1.283.000.000),,,-1524800000.0,-1283000000.0
+33,Mãsố > 33,33,Tiền thu từ đi vay,Tiền thu từ đi vay,7.137.837.855.943,6.389.152.533.973,,,7137837855943.0,6389152533973.0
+34,Mãsố > 34,34,Tiền chi trả nợ gốc vay,Tiền chi trả nợ gốc vay,(6.231.348.371.180),(7.038.805.836.501),,,-6231348371180.0,-7038805836501.0
+36,Mãsố > 36,36,Tiền chi trả cổ tức,Tiền chi trả cổ tức,(177.376.257.045),(355.099.739.283),,,-177376257045.0,-355099739283.0
+40,Mãsố > 40,40,Lưu chuyển thuần từ hoạt động tài chính,Lưu chuyển thuần từ hoạt động tài chính,727.588.427.718,(959.660.501.811),,,727588427718.0,-959660501811.0
+50,Mãsố > 50,50,Lưu chuyển tiền thuần trong năm,Lưu chuyển tiền thuần trong năm,76.813.955.574,145.629.983.650,,,76813955574.0,145629983650.0
+60,Mãsố > 60,60,Tiền đầu năm,3,228.463.983.404,82.586.849.294,,3.0,228463983404.0,82586849294.0
+61,Mãsố > 61,61,Ảnh hưởng của thay đổi tỷ giá hồi đoái quy đổi ngoại tệ,Ảnh hưởng của thay đổi tỷ giá hồi đoái quy đổi ngoại tệ,-,247.150.460,,,,247150460.0
+70,Mãsố > 70,70,Tiền cuối năm,3,305.277.938.978,228.463.983.404,,3.0,305277938978.0,228463983404.0

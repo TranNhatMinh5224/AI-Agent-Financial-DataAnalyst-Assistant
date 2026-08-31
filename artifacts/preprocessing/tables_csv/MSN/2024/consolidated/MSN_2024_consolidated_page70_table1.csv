@@ -1,0 +1,14 @@
+﻿row_label_raw,row_label_full,col_0,Loại tiên tệ,Lãi suất năm,Năm đáo hạn,31/12/2024Triệu VND,1/1/2024Triệu VND,numeric__Loại tiên tệ,numeric__Lãi suất năm,numeric__Năm đáo hạn,numeric__31/12/2024Triệu VND,numeric__1/1/2024Triệu VND
+Vay dài hạn (*),Vay dài hạn (*),Vay dài hạn (*),Vay dài hạn (*),Vay dài hạn (*),Vay dài hạn (*),Vay dài hạn (*),Vay dài hạn (*),,,,,
+Khoản vay ngân hàng có đảm bảo,Vay dài hạn (*) > Khoản vay ngân hàng có đảm bảo,Khoản vay ngân hàng có đảm bảo,VND,"4,8% - 12,0%",2025 - 2028,3.939.501,3.421.131,,,,3939501.0,3421131.0
+Khoản vay ngân hàng có đảm bảo,Vay dài hạn (*) > Khoản vay ngân hàng có đảm bảo,Khoản vay ngân hàng có đảm bảo,USD,"6,5% - 9,3%",2027 - 2028,28.799.950,29.870.500,,,,28799950.0,29870500.0
+Khoản vay ngân hàng không đảm bảo,Vay dài hạn (*) > Khoản vay ngân hàng không đảm bảo,Khoản vay ngân hàng không đảm bảo,USD,"6,8% - 7,2%",2029,1.764.400,-,,,2029.0,1764400.0,
+Khoản vay ngân hàng không đảm bảo,Vay dài hạn (*) > Khoản vay ngân hàng không đảm bảo,Khoản vay ngân hàng không đảm bảo,CNY,-,-,-,94.334,,,,,94334.0
+Khoản vay ngân hàng không đảm bảo,Vay dài hạn (*) > Khoản vay ngân hàng không đảm bảo,Khoản vay ngân hàng không đảm bảo,VND,-,-,-,340.000,,,,,340000.0
+,,,,,,34.503.851(5.717.309),33.725.965(3.467.128),,,,,
+Khoản đến hạn trả trong vòng 12 tháng,Vay dài hạn (*) > Khoản đến hạn trả trong vòng 12 tháng,Khoản đến hạn trả trong vòng 12 tháng,,,,28.786.542,30.258.837,,,,28786542.0,30258837.0
+Trái phiếu thường (**),Trái phiếu thường (**),Trái phiếu thường (**),VND,"4,1% - 9,2%",2025 - 2028,12.966.934(167.762),16.574.230(139.181),,,,,
+Chi phí phát hành trái phiếu chưa phân bổ,Chi phí phát hành trái phiếu chưa phân bổ,Chi phí phát hành trái phiếu chưa phân bổ,,,,12.799.172(2.995.494),16.435.049(5.479.909),,,,,
+Khoản đến hạn trả trong vòng 12 tháng,Chi phí phát hành trái phiếu chưa phân bổ > Khoản đến hạn trả trong vòng 12 tháng,Khoản đến hạn trả trong vòng 12 tháng,,,,9.803.678,10.955.140,,,,9803678.0,10955140.0
+Khoản đến hạn trả sau 12 tháng,Khoản đến hạn trả sau 12 tháng,Khoản đến hạn trả sau 12 tháng,,,,247.223(12.258),343.551(15.634),,,,,
+Nợ thuê tài chính (***),Khoản đến hạn trả sau 12 tháng > Nợ thuê tài chính (***),Nợ thuê tài chính (***),VND,"8,6% - 11,2%",2035,234.965,327.917,,,2035.0,234965.0,327917.0

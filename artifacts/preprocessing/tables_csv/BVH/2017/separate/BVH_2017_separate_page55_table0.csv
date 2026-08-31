@@ -1,0 +1,22 @@
+﻿row_label_raw,row_label_full,col_0,Quá hạn,Không xác định kỳ hạn,Đến 1 năm,Từ 1 - 3 năm,Từ 3 - 5 năm,Từ 5 - 15 năm,Trên 15 năm,Tổng cộng,numeric__Quá hạn,numeric__Không xác định kỳ hạn,numeric__Đến 1 năm,numeric__Từ 1 - 3 năm,numeric__Từ 3 - 5 năm,numeric__Từ 5 - 15 năm,numeric__Trên 15 năm,numeric__Tổng cộng
+Tài sản tài chính,Tài sản tài chính,Tài sản tài chính,Tài sản tài chính,Tài sản tài chính,Tài sản tài chính,Tài sản tài chính,Tài sản tài chính,Tài sản tài chính,Tài sản tài chính,Tài sản tài chính,,,,,,,,
+Tiền và các khoản tương đương tiền,Tài sản tài chính > Tiền và các khoản tương đương tiền,Tiền và các khoản tương đương tiền,-,-,236.779,-,-,-,-,236.779,,,236779.0,,,,,236779.0
+Chứng khoán kinh doanh,Tài sản tài chính > Chứng khoán kinh doanh,Chứng khoán kinh doanh,-,637.486,-,-,-,-,-,637.486,,637486.0,,,,,,637486.0
+- Cổ phiếu niêm yết,Tài sản tài chính > - Cổ phiếu niêm yết,- Cổ phiếu niêm yết,-,297.498,-,-,-,-,-,297.498,,297498.0,,,,,,297498.0
+- Cổ phiếu chưa niêm yết,Tài sản tài chính > - Cổ phiếu chưa niêm yết,- Cổ phiếu chưa niêm yết,-,294.988,-,-,-,-,-,294.988,,294988.0,,,,,,294988.0
+- Chứng chỉ quỹ,Tài sản tài chính > - Chứng chỉ quỹ,- Chứng chỉ quỹ,-,45.000,-,-,-,-,-,45.000,,45000.0,,,,,,45000.0
+Đầu tư nằm giữ đến ngày đáo hạn,Tài sản tài chính > Đầu tư nằm giữ đến ngày đáo hạn,Đầu tư nằm giữ đến ngày đáo hạn,37.884,-,1.368.795,994.900,91.800,218.200,-,2.711.579,37884.0,,1368795.0,994900.0,91800.0,218200.0,,2711579.0
+- Hợp đồng tiền gửi,Tài sản tài chính > - Hợp đồng tiền gửi,- Hợp đồng tiền gửi,-,-,979.915,-,-,-,-,979.915,,,979915.0,,,,,979915.0
+- Trái phiếu,Tài sản tài chính > - Trái phiếu,- Trái phiếu,37.884,-,388.880,994.900,91.800,218.200,-,1.731.664,37884.0,,388880.0,994900.0,91800.0,218200.0,,1731664.0
+Các khoản phải thu,Tài sản tài chính > Các khoản phải thu,Các khoản phải thu,-,-,456.461,-,-,-,-,456.461,,,456461.0,,,,,456461.0
+- Phải thu từ các bên liên quan,Tài sản tài chính > - Phải thu từ các bên liên quan,- Phải thu từ các bên liên quan,-,-,38.532,-,-,-,-,38.532,,,38532.0,,,,,38532.0
+- Phải thu cổ tức,Tài sản tài chính > - Phải thu cổ tức,- Phải thu cổ tức,-,-,402.597,-,-,-,-,402.597,,,402597.0,,,,,402597.0
+- Phải thu khác,Tài sản tài chính > - Phải thu khác,- Phải thu khác,-,-,15.332,-,-,-,-,15.332,,,15332.0,,,,,15332.0
+Tổng,Tài sản tài chính > Tổng,Tổng,37.884,637.486,2.062.035,994.900,91.800,218.200,-,4.042.305,37884.0,637486.0,2062035.0,994900.0,91800.0,218200.0,,4042305.0
+Nợ phải trả tài chính,Nợ phải trả tài chính,Nợ phải trả tài chính,Nợ phải trả tài chính,Nợ phải trả tài chính,Nợ phải trả tài chính,Nợ phải trả tài chính,Nợ phải trả tài chính,Nợ phải trả tài chính,Nợ phải trả tài chính,Nợ phải trả tài chính,,,,,,,,
+Phải trả các bên liên quan,Nợ phải trả tài chính > Phải trả các bên liên quan,Phải trả các bên liên quan,-,-,14.508,-,-,-,-,14.508,,,14508.0,,,,,14508.0
+Phải trả đặt cọc cho thuê văn phòng,Nợ phải trả tài chính > Phải trả đặt cọc cho thuê văn phòng,Phải trả đặt cọc cho thuê văn phòng,-,-,10.139,-,-,-,-,10.139,,,10139.0,,,,,10139.0
+Phải trả thương mại,Nợ phải trả tài chính > Phải trả thương mại,Phải trả thương mại,-,-,22.167,-,-,-,-,22.167,,,22167.0,,,,,22167.0
+Phải trả khác,Nợ phải trả tài chính > Phải trả khác,Phải trả khác,-,-,40.901,-,-,-,-,40.901,,,40901.0,,,,,40901.0
+Giao dịch mua bán lại trái phiếu Chính phủ,Nợ phải trả tài chính > Giao dịch mua bán lại trái phiếu Chính phủ,Giao dịch mua bán lại trái phiếu Chính phủ,-,-,255.708,-,-,-,-,255.708,,,255708.0,,,,,255708.0
+Tổng,Nợ phải trả tài chính > Tổng,Tổng,-,-,343.423,-,-,-,-,343.423,,,343423.0,,,,,343423.0

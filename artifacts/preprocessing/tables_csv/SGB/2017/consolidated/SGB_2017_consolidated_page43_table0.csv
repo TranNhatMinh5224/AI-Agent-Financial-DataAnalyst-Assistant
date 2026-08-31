@@ -1,0 +1,12 @@
+﻿row_label_raw,row_label_full,Chỉ tiêu,31/12/2017,31/12/2016,numeric__31/12/2017,numeric__31/12/2016
+Bảo lãnh vay vốn,Bảo lãnh vay vốn,Bảo lãnh vay vốn,-,-,,
+Cam kết giao dịch ngoại hồi,Cam kết giao dịch ngoại hồi,Cam kết giao dịch ngoại hồi,-,-,,
+Cam kết giao dịch hoán đối,Cam kết giao dịch hoán đối,Cam kết giao dịch hoán đối,-,-,,
+Cam kết trong nghiệp vụ L/C,Cam kết giao dịch hoán đối > Cam kết trong nghiệp vụ L/C,Cam kết trong nghiệp vụ L/C,91.091,138.643,91091.0,138643.0
+Cam kết thanh toán trong nghiệp vụ L/C,Cam kết giao dịch hoán đối > Cam kết thanh toán trong nghiệp vụ L/C,Cam kết thanh toán trong nghiệp vụ L/C,91.091,138.643,91091.0,138643.0
+Các cam kết khác,Cam kết giao dịch hoán đối > Các cam kết khác,Các cam kết khác,162.542,139.441,162542.0,139441.0
+Bảo lãnh thanh toán,Cam kết giao dịch hoán đối > Bảo lãnh thanh toán,Bảo lãnh thanh toán,64.204,52.307,64204.0,52307.0
+Bảo lãnh thực hiện hợp đồng,Cam kết giao dịch hoán đối > Bảo lãnh thực hiện hợp đồng,Bảo lãnh thực hiện hợp đồng,22.517,33.346,22517.0,33346.0
+Bảo lãnh dự thầu,Cam kết giao dịch hoán đối > Bảo lãnh dự thầu,Bảo lãnh dự thầu,8.310,6.102,8310.0,6102.0
+Cam kết bảo lãnh khác,Cam kết giao dịch hoán đối > Cam kết bảo lãnh khác,Cam kết bảo lãnh khác,67.511,47.686,67511.0,47686.0
+Tổng,Cam kết giao dịch hoán đối > Tổng,Tổng,253.633,278.084,253633.0,278084.0

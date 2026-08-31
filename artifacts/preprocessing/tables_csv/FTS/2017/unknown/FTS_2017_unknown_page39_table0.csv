@@ -1,0 +1,5 @@
+﻿row_label_raw,row_label_full,STT,Danh mục các khoản đầu tư,Số lượng bán,Giá bán,Tổng giá trị bán,Giá vốn bình quân gia quyền tính đến cuối ngày giao dịch,"Lãi, lỗ bán chứng khoán kỳ này","Lãi, lỗ bán chứng khoán lũy kế đến kỳ này","Lãi, lỗ bán chứng khoán lũy kế đến kỳ trước",numeric__Danh mục các khoản đầu tư,numeric__Số lượng bán,numeric__Giá bán,numeric__Tổng giá trị bán,numeric__Giá vốn bình quân gia quyền tính đến cuối ngày giao dịch,"numeric__Lãi, lỗ bán chứng khoán kỳ này","numeric__Lãi, lỗ bán chứng khoán lũy kế đến kỳ này","numeric__Lãi, lỗ bán chứng khoán lũy kế đến kỳ trước"
+A,A,A,B,1,2,3=1*2,4,5=3-4,6,7,,1.0,2.0,,4.0,,6.0,7.0
+1,1,1,FRT- CTCP bán lẻ kỹ thuật số FPT,234.000,,36.606.024.000,36.559.224.000,46.800.000,46.800.000,,,234000.0,,36606024000.0,36559224000.0,46800000.0,46800000.0,
+2,2,2,Cổ phiếu lẻ,330.933,,2.144.779.417,1.796.505.275,348.274.142,348.274.142,562.885.829,,330933.0,,2144779417.0,1796505275.0,348274142.0,348274142.0,562885829.0
+,,,Tổng cộng,564.933,,38.750.803.417,38.355.729.275,395.074.142,395.074.142,562.885.829,,564933.0,,38750803417.0,38355729275.0,395074142.0,395074142.0,562885829.0

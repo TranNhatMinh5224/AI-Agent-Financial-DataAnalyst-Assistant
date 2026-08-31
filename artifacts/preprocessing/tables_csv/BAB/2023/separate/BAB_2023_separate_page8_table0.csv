@@ -1,0 +1,22 @@
+﻿row_label_raw,row_label_full,STT,Chỉ tiêu,Thuyết minh,31/12/2023 > Triệu VND,31/12/2022 > Triệu VND,numeric__Chỉ tiêu,numeric__Thuyết minh,numeric__31/12/2023 > Triệu VND,numeric__31/12/2022 > Triệu VND
+B,B,B,NỘ PHẢI TRẢ VÀ VỐN CHỦ SỞ HỮU,,,,,,,
+I,B > I,I,Các khoản nợ Chính phủ và Ngân hàng Nhà nước,17,24.116,52.584,,17.0,24116.0,52584.0
+1,B > 1,1,"Tiền gửi và vay Chính phủ, NHNN",,24.116,52.584,,,24116.0,52584.0
+II,B > II,II,Tiền gửi và vay các tổ chức tín dụng khác,18,11.158.753,11.090.139,,18.0,11158753.0,11090139.0
+1,B > 1,1,Tiền gửi của các tổ chức tín dụng khác,,10.790.439,11.047.110,,,10790439.0,11047110.0
+2,B > 2,2,Vay các tổ chức tín dụng khác,,368.314,43.029,,,368314.0,43029.0
+III,B > III,III,Tiền gửi của khách hàng,19,118.634.248,97.044.697,,19.0,118634248.0,97044697.0
+IV,B > IV,IV,Các công cụ tài chính phải sinh và các khoản nợ tài chính khác,,97.173,,,,97173.0,
+V,B > V,V,"Vốn tài trợ, ủy thác đầu tư, cho vay tổ chức tín dụng chịu rủi ro",20,9.807,3.120,,20.0,9807.0,3120.0
+VI,B > VI,VI,Phát hành giấy tờ có giá,21,7.062.350,7.837.881,,21.0,7062350.0,7837881.0
+VII,B > VII,VII,Các khoản nợ khác,,4.539.538,3.105.192,,,4539538.0,3105192.0
+1,B > 1,1,"Các khoản lãi, phí phải trả",,4.128.068,2.628.190,,,4128068.0,2628190.0
+3,B > 3,3,Các khoản phải trả và công nợ khác,22,411.470,477.002,,22.0,411470.0,477002.0
+,,,TỔNG NỘ PHẢI TRẢ,,141.525.985,119.133.613,,,141525985.0,119133613.0
+VIII,B > VIII,VIII,Vốn chủ sở hữu,23,10.837.771,9.780.271,,23.0,10837771.0,9780271.0
+1,B > 1,1,Vốn của tổ chức tín dụng,,8.441.555,8.141.261,,,8441555.0,8141261.0
+\( a \),B > \( a \),\( a \),Vốn điều lệ,,8.334.266,8.133.863,,,8334266.0,8133863.0
+\( c \),B > \( c \),\( c \),Thặng dư vốn cổ phần,,107.289,7.398,,,107289.0,7398.0
+2,B > 2,2,Quỹ của tổ chức tín dụng,,918.864,794.817,,,918864.0,794817.0
+5,B > 5,5,Lợi nhuận chưa phân phối,,1.477.352,844.193,,,1477352.0,844193.0
+,,,TỔNG NỘ PHẢI TRẢ VÀ VỐN CHỦ SỞ HỮU,,152.363.756,128.913.884,,,152363756.0,128913884.0

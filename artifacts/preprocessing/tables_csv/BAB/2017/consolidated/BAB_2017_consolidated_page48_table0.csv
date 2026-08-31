@@ -1,0 +1,11 @@
+﻿row_label_raw,row_label_full,Chi tiêu,Chi tiêu_1,Quá hạn,Quá hạn_1,Trong hạn,Trong hạn_1,Trong hạn_2,Trong hạn_3,Trong hạn_4,Tổng,numeric__Chi tiêu_1,numeric__Quá hạn,numeric__Quá hạn_1,numeric__Trong hạn,numeric__Trong hạn_1,numeric__Trong hạn_2,numeric__Trong hạn_3,numeric__Trong hạn_4,numeric__Tổng
+Chi tiêu,Chi tiêu,Chi tiêu,Chi tiêu,Trên 03 tháng,Đến 03 tháng,Đến 01 tháng,Từ trên 01 đến 03 tháng,Từ trên 03 đến 12 tháng,Từ trên 01 đến 05 năm,Trên 05 năm,Tổng,,,,,,,,,
+Chi tiêu,Chi tiêu,Chi tiêu,Chi tiêu,Triệu VND,Triệu VND,Triệu VND,Triệu VND,Triệu VND,Triệu VND,Triệu VND,Triệu VND,,,,,,,,,
+NỘ PHẢI TRẢ,NỘ PHẢI TRẢ,NỘ PHẢI TRẢ,NỘ PHẢI TRẢ,NỘ PHẢI TRẢ,NỘ PHẢI TRẢ,NỘ PHẢI TRẢ,NỘ PHẢI TRẢ,NỘ PHẢI TRẢ,NỘ PHẢI TRẢ,NỘ PHẢI TRẢ,NỘ PHẢI TRẢ,,,,,,,,,
+I,NỘ PHẢI TRẢ > I,I,Tiền gửi của và vay từ NHNN và các TCTD khác,-,-,7.909.129,7.862.828,3.055.088,36.120,80.179,18.943.344,,,,7909129.0,7862828.0,3055088.0,36120.0,80179.0,18943344.0
+II,NỘ PHẢI TRẢ > II,II,Tiền gửi của khách hàng,-,-,2.122.266,5.066.394,8.618.370,34.904.584,12.703.485,63.415.099,,,,2122266.0,5066394.0,8618370.0,34904584.0,12703485.0,63415099.0
+IV,NỘ PHẢI TRẢ > IV,IV,"Vốn tài trợ, ủy thác đầu tư, cho vay tổ chức tín dụng chịu rủi ro",-,-,-,-,-,3.887,-,3.887,,,,,,,3887.0,,3887.0
+V,NỘ PHẢI TRẢ > V,V,Phát hành giấy tờ có giá,-,-,-,-,-,-,950.000,950.000,,,,,,,,950000.0,950000.0
+VI,NỘ PHẢI TRẢ > VI,VI,Các khoản nợ khác,-,-,382.303,161.788,171.350,1.172.394,207.424,2.095.259,,,,382303.0,161788.0,171350.0,1172394.0,207424.0,2095259.0
+Tổng nợ phải trả,NỘ PHẢI TRẢ > Tổng nợ phải trả,Tổng nợ phải trả,Tổng nợ phải trả,-,-,10.413.698,13.091.010,11.844.808,36.116.985,13.941.088,85.407.589,,,,10413698.0,13091010.0,11844808.0,36116985.0,13941088.0,85407589.0
+Mức chênh lệch thanh khoản ròng,NỘ PHẢI TRẢ > Mức chênh lệch thanh khoản ròng,Mức chênh lệch thanh khoản ròng,Mức chênh lệch thanh khoản ròng,57.759,354.007,945.799,1.233.386,2.682.356,959.410,1.110.276,7.342.993,,57759.0,354007.0,945799.0,1233386.0,2682356.0,959410.0,1110276.0,7342993.0

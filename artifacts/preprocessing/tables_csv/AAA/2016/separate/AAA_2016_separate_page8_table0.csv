@@ -1,0 +1,23 @@
+﻿row_label_raw,row_label_full,NGUỒN VỐN,Mã số,Thuyết minh,31/12/2016,01/01/2016,numeric__Mã số,numeric__Thuyết minh,numeric__31/12/2016,numeric__01/01/2016
+C. NỘ PHẢI TRẢ,C. NỘ PHẢI TRẢ,C. NỘ PHẢI TRẢ,300,,1.879.120.984.366,1.039.632.585.535,300.0,,1879120984366.0,1039632585535.0
+I. Nợ ngắn hạn,I. Nợ ngắn hạn,I. Nợ ngắn hạn,310,,1.051.544.496.328,586.432.424.269,310.0,,1051544496328.0,586432424269.0
+1. Phải trả người bán ngắn hạn,1. Phải trả người bán ngắn hạn,1. Phải trả người bán ngắn hạn,311,5.14,301.189.460.907,196.771.104.219,311.0,514.0,301189460907.0,196771104219.0
+2. Người mua trả tiền trước ngắn hạn,2. Người mua trả tiền trước ngắn hạn,2. Người mua trả tiền trước ngắn hạn,312,5.15,10.691.662.256,11.870.532.167,312.0,515.0,10691662256.0,11870532167.0
+3. Thuế và các khoản phải nộp Nhà nước,3. Thuế và các khoản phải nộp Nhà nước,3. Thuế và các khoản phải nộp Nhà nước,313,5.6,6.473.529.463,5.523.024.485,313.0,56.0,6473529463.0,5523024485.0
+4. Phải trả người lao động,4. Phải trả người lao động,4. Phải trả người lao động,314,,8.583.828.552,4.352.175.205,314.0,,8583828552.0,4352175205.0
+5. Phải trả ngắn hạn khác,5. Phải trả ngắn hạn khác,5. Phải trả ngắn hạn khác,319,5.10,5.243.946.325,3.202.922.046,319.0,510.0,5243946325.0,3202922046.0
+6. Vay và nợ thuê tài chính ngắn hạn,6. Vay và nợ thuê tài chính ngắn hạn,6. Vay và nợ thuê tài chính ngắn hạn,320,5.16,719.337.640.571,364.130.606.839,320.0,516.0,719337640571.0,364130606839.0
+"7. Quỹ khen thưởng, phúc lợi","7. Quỹ khen thưởng, phúc lợi","7. Quỹ khen thưởng, phúc lợi",322,,24.428.254,582.059.308,322.0,,24428254.0,582059308.0
+II. Nợ dài hạn,II. Nợ dài hạn,II. Nợ dài hạn,330,,827.576.488.038,453.200.161.266,330.0,,827576488038.0,453200161266.0
+1. Vay và nợ thuê tài chính dài hạn,1. Vay và nợ thuê tài chính dài hạn,1. Vay và nợ thuê tài chính dài hạn,338,5.17,827.576.488.038,453.200.161.266,338.0,517.0,827576488038.0,453200161266.0
+D. VỐN CHỦ SỞ HỮU,D. VỐN CHỦ SỞ HỮU,D. VỐN CHỦ SỞ HỮU,400,,905.900.863.638,781.203.839.761,400.0,,905900863638.0,781203839761.0
+I. Vốn chủ sở hữu,I. Vốn chủ sở hữu,I. Vốn chủ sở hữu,410,5.18,905.900.863.638,781.203.839.761,410.0,518.0,905900863638.0,781203839761.0
+1. Vốn góp của chủ sở hữu,1. Vốn góp của chủ sở hữu,1. Vốn góp của chủ sở hữu,411,,569.649.880.000,494.999.880.000,411.0,,569649880000.0,494999880000.0
+- Cổ phiếu phổ thông có quyền biểu quyết,- Cổ phiếu phổ thông có quyền biểu quyết,- Cổ phiếu phổ thông có quyền biểu quyết,411a,,569.649.880.000,494.999.880.000,,,569649880000.0,494999880000.0
+2. Thặng dư vốn cổ phần,2. Thặng dư vốn cổ phần,2. Thặng dư vốn cổ phần,412,,160.721.267.329,147.408.567.329,412.0,,160721267329.0,147408567329.0
+3. Quỹ đầu tư phát triển,3. Quỹ đầu tư phát triển,3. Quỹ đầu tư phát triển,418,,33.886.962.310,31.886.168.760,418.0,,33886962310.0,31886168760.0
+4. Quỹ khác thuộc vốn chủ sở hữu,4. Quỹ khác thuộc vốn chủ sở hữu,4. Quỹ khác thuộc vốn chủ sở hữu,420,,11.612.477.781,11.612.477.781,420.0,,11612477781.0,11612477781.0
+5. Lợi nhuận sau thuế chưa phân phối,5. Lợi nhuận sau thuế chưa phân phối,5. Lợi nhuận sau thuế chưa phân phối,421,,130.030.276.218,95.296.745.891,421.0,,130030276218.0,95296745891.0
+- LNST chưa phân phối lũy kế đến cuối năm trước,- LNST chưa phân phối lũy kế đến cuối năm trước,- LNST chưa phân phối lũy kế đến cuối năm trước,421a,,51.280.874.906,40.538.200.281,,,51280874906.0,40538200281.0
+- LNST chưa phân phối năm nay,- LNST chưa phân phối năm nay,- LNST chưa phân phối năm nay,421b,,78.749.401.312,54.758.545.610,,,78749401312.0,54758545610.0
+TỔNG CỘNG NGUỒN VỐN,TỔNG CỘNG NGUỒN VỐN,TỔNG CỘNG NGUỒN VỐN,440,,2.785.021.848.004,1.820.836.425.296,440.0,,2785021848004.0,1820836425296.0

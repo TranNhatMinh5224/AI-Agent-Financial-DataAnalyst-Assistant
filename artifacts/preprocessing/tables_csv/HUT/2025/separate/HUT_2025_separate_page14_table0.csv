@@ -1,0 +1,34 @@
+﻿row_label_raw,row_label_full,Tên,Địa chỉ,Ngành nghề kinh doanh,Tỷ lệ lợi ích (%),Tỷ lệ quyền biểu quyết (%),numeric__Địa chỉ,numeric__Ngành nghề kinh doanh,numeric__Tỷ lệ lợi ích (%),numeric__Tỷ lệ quyền biểu quyết (%)
+Công ty con trực tiếp,Công ty con trực tiếp,Công ty con trực tiếp,Công ty con trực tiếp,Công ty con trực tiếp,Công ty con trực tiếp,Công ty con trực tiếp,,,,
+- Công ty TNHH MTV Tasco BOT,Công ty con trực tiếp > - Công ty TNHH MTV Tasco BOT,- Công ty TNHH MTV Tasco BOT,Hà Nội,Hạ tầng giao thông,"100,00%","100,00%",,,1.0,1.0
+- Công ty cổ phần VETC,Công ty con trực tiếp > - Công ty cổ phần VETC,- Công ty cổ phần VETC,Hà Nội,Dịch vụ,"99,26%","99,26%",,,0.9926,0.9926
+- Công ty TNHH Tasco Land,Công ty con trực tiếp > - Công ty TNHH Tasco Land,- Công ty TNHH Tasco Land,Hà Nội,Bất động sản,"100,00%","100,00%",,,1.0,1.0
+- Công ty TNHH Bảo hiểm Tasco,Công ty con trực tiếp > - Công ty TNHH Bảo hiểm Tasco,- Công ty TNHH Bảo hiểm Tasco,Hà Nội,Bảo hiểm phi nhân thọ,"100,00%","100,00%",,,1.0,1.0
+- Công ty cổ phần Tasco Auto,Công ty con trực tiếp > - Công ty cổ phần Tasco Auto,- Công ty cổ phần Tasco Auto,Hà Nội,Dịch vụ thương mại,"94,87%","94,87%",,,0.9487000000000001,0.9487000000000001
+- Công ty TNHH Tasco Investment,Công ty con trực tiếp > - Công ty TNHH Tasco Investment,- Công ty TNHH Tasco Investment,Hà Nội,Dịch vụ tài chính,"100,00%","100,00%",,,1.0,1.0
+Công ty con giãn tiếp,Công ty con giãn tiếp,Công ty con giãn tiếp,Công ty con giãn tiếp,Công ty con giãn tiếp,Công ty con giãn tiếp,Công ty con giãn tiếp,,,,
+- Công ty cổ phần Tasco Nam Thái,Công ty con giãn tiếp > - Công ty cổ phần Tasco Nam Thái,- Công ty cổ phần Tasco Nam Thái,Hưng Yên,Xây lắp,"99,97%","99,97%",,,0.9997,0.9997
+- Công ty TNHH MTV Tasco 6,Công ty con giãn tiếp > - Công ty TNHH MTV Tasco 6,- Công ty TNHH MTV Tasco 6,Ninh Bình,Hạ tầng giao thông,"100,00%","100,00%",,,1.0,1.0
+- Công ty TNHH MTV Tasco Quảng Bình,Công ty con giãn tiếp > - Công ty TNHH MTV Tasco Quảng Bình,- Công ty TNHH MTV Tasco Quảng Bình,Quảng Trị,Hạ tầng giao thông,"100,00%","100,00%",,,1.0,1.0
+- Công ty TNHH MTV Tasco Hải Phòng,Công ty con giãn tiếp > - Công ty TNHH MTV Tasco Hải Phòng,- Công ty TNHH MTV Tasco Hải Phòng,Hải Phòng,Hạ tầng giao thông,"100,00%","100,00%",,,1.0,1.0
+- Công ty TNHH thu phí tự động VETC,Công ty con giãn tiếp > - Công ty TNHH thu phí tự động VETC,- Công ty TNHH thu phí tự động VETC,Hà Nội,Dịch vụ thu phí,"99,35%","100,00%",,,0.9934999999999999,1.0
+- Công ty cổ phần Dịch vụ Tổng hợp Sài Gòn,Công ty con giãn tiếp > - Công ty cổ phần Dịch vụ Tổng hợp Sài Gòn,- Công ty cổ phần Dịch vụ Tổng hợp Sài Gòn,Hồ Chí Minh,"Dịch vụ thương mại, bất động sản, dịch vụ tài chính","51,32%","54,09%",,,0.5132,0.5409
+- Công ty TNHH New Energy Holdings,Công ty con giãn tiếp > - Công ty TNHH New Energy Holdings,- Công ty TNHH New Energy Holdings,Hà Nội,Dịch vụ thương mại,"93,58%","98,64%",,,0.9358,0.9864
+- Công ty cổ phần Ô tô Bắc Âu,Công ty con giãn tiếp > - Công ty cổ phần Ô tô Bắc Âu,- Công ty cổ phần Ô tô Bắc Âu,Hồ Chí Minh,Dịch vụ thương mại,"51,83%","80,00%",,,0.5183,0.8
+- Công ty TNHH Ô tô Bắc Âu Sài Gòn,Công ty con giãn tiếp > - Công ty TNHH Ô tô Bắc Âu Sài Gòn,- Công ty TNHH Ô tô Bắc Âu Sài Gòn,Hồ Chí Minh,Dịch vụ thương mại,"51,83%","100,00%",,,0.5183,1.0
+- Công ty TNHH Ô tô Bắc Âu Hà Nội,Công ty con giãn tiếp > - Công ty TNHH Ô tô Bắc Âu Hà Nội,- Công ty TNHH Ô tô Bắc Âu Hà Nội,Hà Nội,Dịch vụ thương mại,"70,29%","100,00%",,,0.7029000000000001,1.0
+- Công ty cổ phần Dana,Công ty con giãn tiếp > - Công ty cổ phần Dana,- Công ty cổ phần Dana,Đà Nẵng,Dịch vụ thương mại,"32,77%","59,83%",,,0.32770000000000005,0.5982999999999999
+- Công ty cổ phần Dịch vụ Sài Gòn Ô tô,Công ty con giãn tiếp > - Công ty cổ phần Dịch vụ Sài Gòn Ô tô,- Công ty cổ phần Dịch vụ Sài Gòn Ô tô,Hồ Chí Minh,Dịch vụ thương mại,"27,38%","53,18%",,,0.2738,0.5318
+- Công ty cổ phần Sài Gòn Ngôi Sao,Công ty con giãn tiếp > - Công ty cổ phần Sài Gòn Ngôi Sao,- Công ty cổ phần Sài Gòn Ngôi Sao,Hồ Chí Minh,Dịch vụ thương mại,"29,43%","57,35%",,,0.2943,0.5735
+- Công ty cổ phần OtoS,Công ty con giãn tiếp > - Công ty cổ phần OtoS,- Công ty cổ phần OtoS,Hồ Chí Minh,Dịch vụ thương mại,"41,50%","80,86%",,,0.415,0.8086
+- Công ty cổ phần Ô tô Tây Bắc Sài Gòn,Công ty con giãn tiếp > - Công ty cổ phần Ô tô Tây Bắc Sài Gòn,- Công ty cổ phần Ô tô Tây Bắc Sài Gòn,Hồ Chí Minh,Dịch vụ thương mại,"51,26%","99,90%",,,0.5126,0.9990000000000001
+- Công ty cổ phần Savico Hà Nội,Công ty con giãn tiếp > - Công ty cổ phần Savico Hà Nội,- Công ty cổ phần Savico Hà Nội,Hà Nội,"Dịch vụ thương mại, Bất động sản","64,29%","99,90%",,,0.6429,0.9990000000000001
+- Công ty TNHH Toyota Giải Phóng,Công ty con giãn tiếp > - Công ty TNHH Toyota Giải Phóng,- Công ty TNHH Toyota Giải Phóng,Hà Nội,Dịch vụ thương mại,"51,32%","100,00%",,,0.5132,1.0
+- Công ty cổ phần Savico Đà Nẵng,Công ty con giãn tiếp > - Công ty cổ phần Savico Đà Nẵng,- Công ty cổ phần Savico Đà Nẵng,Đà Nẵng,"Dịch vụ thương mại, Bất động sản","35,92%","70,00%",,,0.3592,0.7
+- Công ty cổ phần Đầu tư Đà Nẵng Sơn Trà,Công ty con giãn tiếp > - Công ty cổ phần Đầu tư Đà Nẵng Sơn Trà,- Công ty cổ phần Đầu tư Đà Nẵng Sơn Trà,Đà Nẵng,Bất động sản,"50,44%","98,29%",,,0.5044,0.9829000000000001
+- Công ty cổ phần Tasco Auto Bắc Sài Gòn,Công ty con giãn tiếp > - Công ty cổ phần Tasco Auto Bắc Sài Gòn,- Công ty cổ phần Tasco Auto Bắc Sài Gòn,Hồ Chí Minh,Dịch vụ thương mại,"47,50%","95,00%",,,0.475,0.95
+- Công ty TNHH Toyota Cần Thơ,Công ty con giãn tiếp > - Công ty TNHH Toyota Cần Thơ,- Công ty TNHH Toyota Cần Thơ,Cần Thơ,Dịch vụ thương mại,"32,84%","64,00%",,,0.3284,0.64
+- Công ty cổ phần Ô tô Sài Gòn Cửu Long,Công ty con giãn tiếp > - Công ty cổ phần Ô tô Sài Gòn Cửu Long,- Công ty cổ phần Ô tô Sài Gòn Cửu Long,Cần Thơ,Dịch vụ thương mại,"47,04%","92,08%",,,0.4704,0.9208
+- Công ty cổ phần Ô tô Nam Sông Hậu,Công ty con giãn tiếp > - Công ty cổ phần Ô tô Nam Sông Hậu,- Công ty cổ phần Ô tô Nam Sông Hậu,Cần Thơ,Dịch vụ thương mại,"50,80%","99,00%",,,0.508,0.99
+- Công ty TNHH Ô tô Lâm Đồng,Công ty con giãn tiếp > - Công ty TNHH Ô tô Lâm Đồng,- Công ty TNHH Ô tô Lâm Đồng,Lâm Đồng,Dịch vụ thương mại,"29,25%","57,00%",,,0.2925,0.57
+- Công ty TNHH Thương mại và Dịch vụ ô tô Đồng Hiệp,Công ty con giãn tiếp > - Công ty TNHH Thương mại và Dịch vụ ô tô Đồng Hiệp,- Công ty TNHH Thương mại và Dịch vụ ô tô Đồng Hiệp,Tây Ninh,Dịch vụ thương mại,"30,79%","60,00%",,,0.3079,0.6

@@ -1,0 +1,21 @@
+﻿row_label_raw,row_label_full,STT,Tên Công ty,Địa chỉ,Hoạt động chính,31/12/2018,31/12/2018_1,1/1/2018,1/1/2018_1,numeric__Tên Công ty,numeric__Địa chỉ,numeric__Hoạt động chính,numeric__31/12/2018,numeric__31/12/2018_1,numeric__1/1/2018,numeric__1/1/2018_1
+STT,STT,STT,Tên Công ty,Địa chỉ,Hoạt động chính,Tỷ lệ biểu quyết,Tỷ lệ sở hữu,Tỷ lệ biểu quyết,Tỷ lệ sở hữu,,,,,,,
+1,STT > 1,1,Tổng Công ty Vận tải thủy Petrolimex,Hà Nội,Vận tải xăng dầu,100%,100%,100%,100%,,,,1.0,1.0,1.0,1.0
+2,STT > 2,2,Công ty LD TNHH Kho Xăng dầu Ngoại quan Vân Phong,Khánh Hòa,"Lưu trữ, mua bán xăng tại cửa khẩu","85,00%","85,00%","85,00%","85,00%",,,,0.85,0.85,0.85,0.85
+3,STT > 3,3,Tổng Công ty Hóa dầu Petrolimex – CTCP,Hà Nội,Kinh doanh các sản phẩm từ hóa dầu,"79,07%","79,07%","79,07%","79,07%",,,,0.7907,0.7907,0.7907,0.7907
+4,STT > 4,4,Tổng Công ty Gas Petrolimex – CTCP,Hà Nội,Mua bán sản phẩm gas,"52,37%","52,37%","52,37%","52,37%",,,,0.5236999999999999,0.5236999999999999,0.5236999999999999,0.5236999999999999
+5,STT > 5,5,Tổng Công ty Dịch vụ Xăng dầu Petrolimex,Hà Nội,Vận tải xăng dầu,100%,100%,100%,100%,,,,1.0,1.0,1.0,1.0
+6,STT > 6,6,Công ty TNHH MTV Petrolimex Singapore (“PLS”),Singapore,Kinh doanh xăng dầu,100%,100%,100%,100%,,,,1.0,1.0,1.0,1.0
+7,STT > 7,7,Công ty CP Nhiên liệu bay Petrolimex,Hà Nội,Cung cấp nhiên liệu bay cho các hăng hàng không,"59,00%","59,00%","59,00%","59,00%",,,,0.59,0.59,0.59,0.59
+8,STT > 8,8,Công ty TNHH MTV Petrolimex Lào,Lào,Kinh doanh xăng dầu,100%,100%,100%,100%,,,,1.0,1.0,1.0,1.0
+9,STT > 9,9,Công ty TNHH Xăng dầu Kiên Giang,Kiên Giang,Kinh doanh xăng dầu,"51,00%","51,00%","51,00%","51,00%",,,,0.51,0.51,0.51,0.51
+10,STT > 10,10,Công ty Cổ phần Vận tải Hóa dầu VP,Hải Phòng,Kinh doanh dịch vụ vận tải,"88,88%","57,62%","88,88%","57,62%",,,,0.8887999999999999,0.5761999999999999,0.8887999999999999,0.5761999999999999
+11,STT > 11,11,Công ty TNHH Thương mại Dịch vụ Hải Châu,TP Hồ Chí Minh,"Sản xuất, kinh doanh nước đá, hải sản đông lạnh","92,04%","92,04%","92,04%","92,04%",,,,0.9204000000000001,0.9204000000000001,0.9204000000000001,0.9204000000000001
+12,STT > 12,12,Công ty Thương mại Dịch vụ Cái Bè,Tiền Giang,"Sản xuất, kinh doanh nước đá, hải sản đông lạnh","63,04%","63,04%","63,04%","63,04%",,,,0.6304,0.6304,0.6304,0.6304
+13,STT > 13,13,Công ty CP Xuất nhập khẩu Petrolimex (i),TP Hồ Chí Minh,Kinh doanh xuất nhập khẩu,-,-,"52,67%","52,67%",,,,,,0.5267000000000001,0.5267000000000001
+14,STT > 14,14,Công ty CP Đầu tư và Dịch vụ Hạ tầng Xăng dầu (i),Hà Nội,Kinh doanh bất động sản,-,-,"51,00%","51,00%",,,,,,0.51,0.51
+15,STT > 15,15,Công ty CP Cơ khí Xăng dầu (i),TP Hồ Chí Minh,"Chế tạo các công cụ, máy móc ngành xăng dầu",-,-,"46,00%","46,00%",,,,,,0.46,0.46
+16,STT > 16,16,Công ty TNHH Hóa chất PTN (i),Hải Phòng,Sản xuất các chất liệu bề mặt liên quan đến xăng,-,-,"60,00%","60,00%",,,,,,0.6,0.6
+17,STT > 17,17,Công ty CP Thiết bị Xăng dầu (i),Hà Nội,Cung cấp các thiết bị ngành xăng dầu,-,-,"50,48%","50,48%",,,,,,0.5047999999999999,0.5047999999999999
+18,STT > 18,18,Công ty CP Tin học Viễn thông Petrolimex (i),Hà Nội,Phát triển các sản phẩm phần mềm,-,-,"50,33%","50,33%",,,,,,0.5033,0.5033
+19,STT > 19,19,Công ty CP Tư vấn Xây dựng Petrolimex (i),Hà Nội,Tư vấn xây dựng,-,-,"51,00%","51,00%",,,,,,0.51,0.51

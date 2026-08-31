@@ -1,0 +1,3 @@
+﻿row_label_raw,row_label_full,Nhóm nợ,Nhóm nợ_1,Tình trạng quá hạn,Tỷ lệ trích lập dự phòng rủi ro,numeric__Nhóm nợ_1,numeric__Tình trạng quá hạn,numeric__Tỷ lệ trích lập dự phòng rủi ro
+1,1,1,Nợ đủ tiêu chuẩn,Khoản vay trong hạn hoặc quá hạn dưới 10 ngày,0%,,,0.0
+2,2,2,Nợ cần chú ý,- Quá hạn từ 10 ngày đến 90 ngày; hoặc- Được cơ cấu lại thời hạn trả nợ lần thứ nhất (nếu khách hàng được đánh giá là đủ khá năng hoàn trả cả gốc lần lãi theo thời hạn,5%,,,0.05

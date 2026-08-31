@@ -1,0 +1,25 @@
+﻿row_label_raw,row_label_full,col_0,Mã số,Thuyết minh,30/9/2022 VND,1/10/2021 VND,numeric__Mã số,numeric__Thuyết minh,numeric__30/9/2022 VND,numeric__1/10/2021 VND
+NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,,,,
+NỘ PHẢI TRẢ (300 = 310 + 330),NGUỒN VỐN > NỘ PHẢI TRẢ (300 = 310 + 330),NỘ PHẢI TRẢ (300 = 310 + 330),300,,6.210.033.388.769,13.195.700.411.669,300.0,,6210033388769.0,13195700411669.0
+Nợ ngắn hạn,NGUỒN VỐN > Nợ ngắn hạn,Nợ ngắn hạn,310,,6.195.799.689.582,13.182.047.854.402,310.0,,6195799689582.0,13182047854402.0
+Phải trả người bán,NGUỒN VỐN > Phải trả người bán,Phải trả người bán,311,17,1.970.635.586.928,4.283.263.896.000,311.0,17.0,1970635586928.0,4283263896000.0
+Người mua trả tiền trước,NGUỒN VỐN > Người mua trả tiền trước,Người mua trả tiền trước,312,,176.845.202.295,233.052.080.172,312.0,,176845202295.0,233052080172.0
+Thuế phải nộp Nhà nước,NGUỒN VỐN > Thuế phải nộp Nhà nước,Thuế phải nộp Nhà nước,313,18(a),5.275.868.275,309.240.420.455,313.0,,5275868275.0,309240420455.0
+Phải trả người lao động,NGUỒN VỐN > Phải trả người lao động,Phải trả người lao động,314,,64.245.590.725,55.566.725.013,314.0,,64245590725.0,55566725013.0
+Chi phí phải trả,NGUỒN VỐN > Chi phí phải trả,Chi phí phải trả,315,19,207.561.319.455,214.800.245.166,315.0,19.0,207561319455.0,214800245166.0
+Phải trả ngắn hạn khác,NGUỒN VỐN > Phải trả ngắn hạn khác,Phải trả ngắn hạn khác,319,20,18.979.145.366,3.256.582.146.203,319.0,20.0,18979145366.0,3256582146203.0
+Vay ngắn hạn,NGUỒN VỐN > Vay ngắn hạn,Vay ngắn hạn,320,21,3.545.557.150.716,4.754.513.830.764,320.0,21.0,3545557150716.0,4754513830764.0
+"Quỹ khen thưởng, phúc lợi","NGUỒN VỐN > Quỹ khen thưởng, phúc lợi","Quỹ khen thưởng, phúc lợi",322,22,206.699.825.822,75.028.510.629,322.0,22.0,206699825822.0,75028510629.0
+Nợ dài hạn,NGUỒN VỐN > Nợ dài hạn,Nợ dài hạn,330,,14.233.699.187,13.652.557.267,330.0,,14233699187.0,13652557267.0
+Phải trả dài hạn khác,NGUỒN VỐN > Phải trả dài hạn khác,Phải trả dài hạn khác,337,,709.500.000,709.500.000,337.0,,709500000.0,709500000.0
+Dự phòng phải trả dài hạn,NGUỒN VỐN > Dự phòng phải trả dài hạn,Dự phòng phải trả dài hạn,342,23,13.524.199.187,12.943.057.267,342.0,23.0,13524199187.0,12943057267.0
+VỐN CHỦ SỞ HỮU (400 = 410),NGUỒN VỐN > VỐN CHỦ SỞ HỮU (400 = 410),VỐN CHỦ SỞ HỮU (400 = 410),400,,11.167.127.927.226,11.318.651.537.306,400.0,,11167127927226.0,11318651537306.0
+Vốn chủ sở hữu,NGUỒN VỐN > Vốn chủ sở hữu,Vốn chủ sở hữu,410,24,11.167.127.927.226,11.318.651.537.306,410.0,24.0,11167127927226.0,11318651537306.0
+Vốn cổ phần,NGUỒN VỐN > Vốn cổ phần,Vốn cổ phần,411,25,5.980.549.860.000,4.934.818.960.000,411.0,25.0,5980549860000.0,4934818960000.0
+- Cổ phiếu phổ thông có quyền biểu quyết,NGUỒN VỐN > - Cổ phiếu phổ thông có quyền biểu quyết,- Cổ phiếu phổ thông có quyền biểu quyết,411a,,5.980.549.860.000,4.934.818.960.000,,,5980549860000.0,4934818960000.0
+Thặng dư vốn cổ phần,NGUỒN VỐN > Thặng dư vốn cổ phần,Thặng dư vốn cổ phần,412,,157.292.539.068,157.292.539.068,412.0,,157292539068.0,157292539068.0
+Quỹ khác thuộc vốn chủ sở hữu,NGUỒN VỐN > Quỹ khác thuộc vốn chủ sở hữu,Quỹ khác thuộc vốn chủ sở hữu,420,,187.499.009.876,90.695.201.265,420.0,,187499009876.0,90695201265.0
+Lợi nhuận sau thuế chưa phân phối,NGUỒN VỐN > Lợi nhuận sau thuế chưa phân phối,Lợi nhuận sau thuế chưa phân phối,421,,4.841.786.518.282,6.135.844.836.973,421.0,,4841786518282.0,6135844836973.0
+- LNST chưa phân phối đến cuối năm trước,NGUỒN VỐN > - LNST chưa phân phối đến cuối năm trước,- LNST chưa phân phối đến cuối năm trước,421a,,4.793.615.960.838,1.824.320.198.455,,,4793615960838.0,1824320198455.0
+- LNST chưa phân phối năm nay,NGUỒN VỐN > - LNST chưa phân phối năm nay,- LNST chưa phân phối năm nay,421b,,48.170.557.444,4.311.524.638.518,,,48170557444.0,4311524638518.0
+TỔNG NGUỒN VỐN(440 = 300 + 400),NGUỒN VỐN > TỔNG NGUỒN VỐN(440 = 300 + 400),TỔNG NGUỒN VỐN(440 = 300 + 400),440,,17.377.161.315.995,24.514.351.948.975,440.0,,17377161315995.0,24514351948975.0

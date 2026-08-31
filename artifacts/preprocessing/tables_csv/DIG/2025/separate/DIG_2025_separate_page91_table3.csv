@@ -1,0 +1,8 @@
+﻿row_label_raw,row_label_full,col_0,Current year VND,Previous year VND,numeric__Current year VND,numeric__Previous year VND
+Total profit before tax,Total profit before tax,Total profit before tax,"811,362,621,692","335,268,257,053",,
+Adjustments,Adjustments,Adjustments,"51,125,338,509","17,329,376,402",,
+- Increase,- Increase,- Increase,"90,869,119,209","68,812,540,924",,
+- Decrease,- Decrease,- Decrease,"39,743,780,700","51,483,164,522",,
+Total taxable profits,Total taxable profits,Total taxable profits,"862,487,960,201","352,597,633,455",,
+Corporated income tax rate,Total taxable profits > Corporated income tax rate,Corporated income tax rate,20%,20%,0.2,0.2
+Current corporate income tax expenses,Current corporate income tax expenses,Current corporate income tax expenses,"179,331,648,302","70,519,526,691",,

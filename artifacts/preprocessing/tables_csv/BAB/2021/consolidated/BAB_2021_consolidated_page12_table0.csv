@@ -1,0 +1,13 @@
+﻿row_label_raw,row_label_full,STT,Chỉ tiêu,Thuyết minh,Năm 2021 > Triệu VND,Năm 2020 > Triệu VND,numeric__Chỉ tiêu,numeric__Thuyết minh,numeric__Năm 2021 > Triệu VND,numeric__Năm 2020 > Triệu VND
+,,,Lưu chuyển tiền từ hoạt động đầu tư,,,,,,,
+01,01,01,Mua sắm tài sản cố định,,(70.384),(84.396),,,-70384.0,-84396.0
+02,02,02,"Tiền thu từ thanh lý, nhượng bán tài sản cố định",,966,-,,,966.0,
+03,03,03,"Tiền chi từ thanh lý, nhượng bán tài sản cố định",,-,(3.177),,,,-3177.0
+04,04,04,Mua sắm bất động sản đầu tư,,(10.778),-,,,-10778.0,
+05,05,05,"Tiền thu từ bán, thanh lý bất động sản đầu tư",,-,4.119,,,,4119.0
+08,08,08,"Tiền thu đầu tư, góp vốn vào các đơn vị khác",,32.815,75.000,,,32815.0,75000.0
+09,09,09,"Tiền thu cổ tức và lợi nhuận được chia từ các khoản đầu tư,góp vốn dài hạn",,1.978,3.228,,,1978.0,3228.0
+II,II,II,Lưu chuyển tiền thuần từ hoạt động đầu tư,,(45.403),(5.226),,,-45403.0,-5226.0
+IV,IV,IV,Lưu chuyển tiền thuần trong năm,,(4.844.079),2.671.259,,,-4844079.0,2671259.0
+V,V,V,Tiền và các khoản tương đương tiền tại thời điểm đầu năm,,15.797.516,13.126.257,,,15797516.0,13126257.0
+VII,VII,VII,Tiền và các khoản tương đương tiền tại thời điểm cuối năm,32,10.953.437,15.797.516,,32.0,10953437.0,15797516.0

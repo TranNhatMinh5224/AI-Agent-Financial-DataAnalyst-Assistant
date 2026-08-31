@@ -1,0 +1,15 @@
+﻿row_label_raw,row_label_full,col_0,Current year,Prior year,numeric__Current year,numeric__Prior year
+,,,VND,VND,,
+Profit before tax,Profit before tax,Profit before tax,"13,950,093,035,944","12,614,968,783,374",,
+Adjustments for taxable profit,Adjustments for taxable profit,Adjustments for taxable profit,,,,
+Less:,Less:,Less:,,,,
+Dividends and profits received,Dividends and profits received,Dividends and profits received,"(167,239,765,390)","(134,850,191,681)",,
+Adjustment based on the State Audit's conclusions,Adjustment based on the State Audit's conclusions,Adjustment based on the State Audit's conclusions,"(197,558,682,845)",-,,
+Add:,Add:,Add:,,,,
+Non-deductible expenses,Non-deductible expenses,Non-deductible expenses,"117,207,215,303","177,872,207,920",,
+Taxable profit,Taxable profit,Taxable profit,"13,702,501,803,012","12,657,990,799,613",,
+Taxable profit at incentive tax rate (*),Taxable profit at incentive tax rate (*),Taxable profit at incentive tax rate (*),"241,218,028,678","594,712,235,160",,
+Taxable profit at normal tax rate,Taxable profit at normal tax rate,Taxable profit at normal tax rate,"13,461,283,774,334","12,063,278,564,453",,
+Incentive tax rate,Taxable profit at normal tax rate > Incentive tax rate,Incentive tax rate,10%,10%,0.1,0.1
+Normal tax rate,Taxable profit at normal tax rate > Normal tax rate,Normal tax rate,20%,20%,0.2,0.2
+Corporate income tax expense based on taxable profit in the current year,Corporate income tax expense based on taxable profit in the current year,Corporate income tax expense based on taxable profit in the current year,"2,716,378,557,735","2,472,126,936,407",,

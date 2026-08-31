@@ -1,0 +1,20 @@
+﻿row_label_raw,row_label_full,Khoản mục,Quyền sử dụng đất,"Nhà cửa, vật kiến trúc",Khác,Tổng cộng,numeric__Quyền sử dụng đất,"numeric__Nhà cửa, vật kiến trúc",numeric__Khác,numeric__Tổng cộng
+Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,,,,
+Số dư đầu năm,Nguyên giá > Số dư đầu năm,Số dư đầu năm,75.092.806.364,6.004.992.356.256,34.534.901.897,6.114.620.064.517,75092806364.0,6004992356256.0,34534901897.0,6114620064517.0
+Hàng tồn kho chuyển sang,Nguyên giá > Hàng tồn kho chuyển sang,Hàng tồn kho chuyển sang,-,469.472.850.754,32.016.654.562,501.489.505.316,,469472850754.0,32016654562.0,501489505316.0
+Tăng khác,Nguyên giá > Tăng khác,Tăng khác,-,112.397.452,-,112.397.452,,112397452.0,,112397452.0
+Giảm do thoái vốn công ty con,Nguyên giá > Giảm do thoái vốn công ty con,Giảm do thoái vốn công ty con,-,(10.414.647.192),-,(10.414.647.192),,-10414647192.0,,-10414647192.0
+"Thanh lý, nhượng bán","Nguyên giá > Thanh lý, nhượng bán","Thanh lý, nhượng bán",-,(98.720.833.446),-,(98.720.833.446),,-98720833446.0,,-98720833446.0
+Giảm khác,Nguyên giá > Giảm khác,Giảm khác,-,(3.429.571.278),-,(3.429.571.278),,-3429571278.0,,-3429571278.0
+Phân loại lại,Nguyên giá > Phân loại lại,Phân loại lại,1.355.179.843,(1.355.179.843),-,-,1355179843.0,-1355179843.0,,
+Số dư cuối năm,Nguyên giá > Số dư cuối năm,Số dư cuối năm,76.447.986.207,6.360.657.372.703,66.551.556.459,6.503.656.915.369,76447986207.0,6360657372703.0,66551556459.0,6503656915369.0
+Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,,,,
+Số dư đầu năm,Giá trị hao mòn lũy kế > Số dư đầu năm,Số dư đầu năm,-,569.068.855.499,2.302.326.794,571.371.182.293,,569068855499.0,2302326794.0,571371182293.0
+Khấu hao trong năm,Giá trị hao mòn lũy kế > Khấu hao trong năm,Khấu hao trong năm,-,217.305.626.807,4.386.051.921,221.691.678.728,,217305626807.0,4386051921.0,221691678728.0
+Giảm do thoái vốn công ty con,Giá trị hao mòn lũy kế > Giảm do thoái vốn công ty con,Giảm do thoái vốn công ty con,-,(570.908.917),-,(570.908.917),,-570908917.0,,-570908917.0
+"Thanh lý, nhượng bán","Giá trị hao mòn lũy kế > Thanh lý, nhượng bán","Thanh lý, nhượng bán",-,(25.721.610.345),-,(25.721.610.345),,-25721610345.0,,-25721610345.0
+Giảm khác,Giá trị hao mòn lũy kế > Giảm khác,Giảm khác,-,(292.474.390),-,(292.474.390),,-292474390.0,,-292474390.0
+Số dư cuối năm,Giá trị hao mòn lũy kế > Số dư cuối năm,Số dư cuối năm,-,759.789.488.654,6.688.378.715,766.477.867.369,,759789488654.0,6688378715.0,766477867369.0
+Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,,,,
+Số dư đầu năm,Giá trị còn lại > Số dư đầu năm,Số dư đầu năm,75.092.806.364,5.435.923.500.757,32.232.575.103,5.543.248.882.224,75092806364.0,5435923500757.0,32232575103.0,5543248882224.0
+Số dư cuối năm,Giá trị còn lại > Số dư cuối năm,Số dư cuối năm,76.447.986.207,5.600.867.884.049,59.863.177.744,5.737.179.048.000,76447986207.0,5600867884049.0,59863177744.0,5737179048000.0

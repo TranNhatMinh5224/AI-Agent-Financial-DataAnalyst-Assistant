@@ -1,0 +1,12 @@
+﻿row_label_raw,row_label_full,col_0,Tăng/ giám điểm cơ bản,VND,numeric__Tăng/ giám điểm cơ bản,numeric__VND
+,,,Tăng/ giám điểm cơ bản,Ánh hưởng đến lợi nhuận trước thuế,,
+Năm nay,Năm nay,Năm nay,Năm nay,Năm nay,,
+USD,Năm nay > USD,USD,+50,(15.502.726.948),50.0,-15502726948.0
+VND,Năm nay > VND,VND,+100,(19.864.310.444),100.0,-19864310444.0
+USD,Năm nay > USD,USD,-50,15.502.726.948,-50.0,15502726948.0
+VND,Năm nay > VND,VND,-100,19.864.310.444,-100.0,19864310444.0
+Năm trước,Năm trước,Năm trước,Năm trước,Năm trước,,
+USD,Năm trước > USD,USD,+50,(15.876.483.184),50.0,-15876483184.0
+VND,Năm trước > VND,VND,+100,(12.246.596.342),100.0,-12246596342.0
+USD,Năm trước > USD,USD,-50,15.876.483.184,-50.0,15876483184.0
+VND,Năm trước > VND,VND,-100,12.246.596.342,-100.0,12246596342.0

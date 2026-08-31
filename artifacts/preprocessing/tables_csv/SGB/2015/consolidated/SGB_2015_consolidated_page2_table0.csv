@@ -1,0 +1,28 @@
+﻿row_label_raw,row_label_full,CHỈ TIÊU,Thuyết minh,31/12/2015,31/12/2014,numeric__Thuyết minh,numeric__31/12/2015,numeric__31/12/2014
+A. TÀI SẢN,A. TÀI SẢN,A. TÀI SẢN,A. TÀI SẢN,A. TÀI SẢN,A. TÀI SẢN,,,
+"I. Tiền mặt, vàng bạc, đá quý","A. TÀI SẢN > I. Tiền mặt, vàng bạc, đá quý","I. Tiền mặt, vàng bạc, đá quý",V.01,190.900,187.678,,190900.0,187678.0
+II. Tiền gửi tại ngân hàng nhà nước,A. TÀI SẢN > II. Tiền gửi tại ngân hàng nhà nước,II. Tiền gửi tại ngân hàng nhà nước,V.02,477.364,563.314,,477364.0,563314.0
+"III. Tiền, vàng gửi tại các TCTD khác và cho vay các TCTD khác","A. TÀI SẢN > III. Tiền, vàng gửi tại các TCTD khác và cho vay các TCTD khác","III. Tiền, vàng gửi tại các TCTD khác và cho vay các TCTD khác",V.03,1.370.657,132.356,,1370657.0,132356.0
+"1. Tiền, vàng gửi tại các TCTD khác","A. TÀI SẢN > 1. Tiền, vàng gửi tại các TCTD khác","1. Tiền, vàng gửi tại các TCTD khác",,1.370.657,132.356,,1370657.0,132356.0
+2. Cho vay các TCTD khác,2. Cho vay các TCTD khác,2. Cho vay các TCTD khác,,-,-,,,
+3. Dự phòng rủi ro cho vay các TCTD khác,3. Dự phòng rủi ro cho vay các TCTD khác,3. Dự phòng rủi ro cho vay các TCTD khác,,-,-,,,
+IV. Chứng khoán kinh doanh,3. Dự phòng rủi ro cho vay các TCTD khác > IV. Chứng khoán kinh doanh,IV. Chứng khoán kinh doanh,V.04,-,35.000,,,35000.0
+1. Chứng khoán kinh doanh,3. Dự phòng rủi ro cho vay các TCTD khác > 1. Chứng khoán kinh doanh,1. Chứng khoán kinh doanh,,-,35.000,,,35000.0
+2. Dự phòng giảm giá chứng khoán kinh doanh,2. Dự phòng giảm giá chứng khoán kinh doanh,2. Dự phòng giảm giá chứng khoán kinh doanh,,-,-,,,
+V. Các công cụ tài chính phải sinh và các tài sản tài chính khác,2. Dự phòng giảm giá chứng khoán kinh doanh > V. Các công cụ tài chính phải sinh và các tài sản tài chính khác,V. Các công cụ tài chính phải sinh và các tài sản tài chính khác,V.05,3.068,-,,3068.0,
+VI. Cho vay khách hàng,2. Dự phòng giảm giá chứng khoán kinh doanh > VI. Cho vay khách hàng,VI. Cho vay khách hàng,,11.520.181,11.139.340,,11520181.0,11139340.0
+1. Cho vay khách hàng,2. Dự phòng giảm giá chứng khoán kinh doanh > 1. Cho vay khách hàng,1. Cho vay khách hàng,V.06,11.612.018,11.232.242,,11612018.0,11232242.0
+2. Dự phòng rủi ro cho vay khách hàng,2. Dự phòng giảm giá chứng khoán kinh doanh > 2. Dự phòng rủi ro cho vay khách hàng,2. Dự phòng rủi ro cho vay khách hàng,V.07,(91.837),(92.902),,-91837.0,-92902.0
+VII. Hoạt động mua nợ,VII. Hoạt động mua nợ,VII. Hoạt động mua nợ,,-,-,,,
+1. Mua nợ,1. Mua nợ,1. Mua nợ,,-,-,,,
+2. Dự phòng rủi ro hoạt động mua nợ,2. Dự phòng rủi ro hoạt động mua nợ,2. Dự phòng rủi ro hoạt động mua nợ,,-,-,,,
+VII. Chứng khoán đầu tư,2. Dự phòng rủi ro hoạt động mua nợ > VII. Chứng khoán đầu tư,VII. Chứng khoán đầu tư,V.08,2.528.123,2.128.387,,2528123.0,2128387.0
+1. Chứng khoán đầu tư sẵn sàng để bán,2. Dự phòng rủi ro hoạt động mua nợ > 1. Chứng khoán đầu tư sẵn sàng để bán,1. Chứng khoán đầu tư sẵn sàng để bán,,-,670.580,,,670580.0
+2. Chứng khoán đầu tư giữ đến ngày đáo hạn,2. Dự phòng rủi ro hoạt động mua nợ > 2. Chứng khoán đầu tư giữ đến ngày đáo hạn,2. Chứng khoán đầu tư giữ đến ngày đáo hạn,,2.772.732,1.510.458,,2772732.0,1510458.0
+3. Dự phòng giảm giá chứng khoán đầu tư,2. Dự phòng rủi ro hoạt động mua nợ > 3. Dự phòng giảm giá chứng khoán đầu tư,3. Dự phòng giảm giá chứng khoán đầu tư,,(244.609),(52.651),,-244609.0,-52651.0
+"VIII. Góp vốn, đầu tư dài hạn","2. Dự phòng rủi ro hoạt động mua nợ > VIII. Góp vốn, đầu tư dài hạn","VIII. Góp vốn, đầu tư dài hạn",V.09,117.336,118.086,,117336.0,118086.0
+1. Đầu tư vào công ty con,1. Đầu tư vào công ty con,1. Đầu tư vào công ty con,,-,-,,,
+2. Vốn góp liên doanh,2. Vốn góp liên doanh,2. Vốn góp liên doanh,,-,-,,,
+3. Đầu tư vào công ty liên kết,3. Đầu tư vào công ty liên kết,3. Đầu tư vào công ty liên kết,,-,-,,,
+4. Đầu tư dài hạn khác,3. Đầu tư vào công ty liên kết > 4. Đầu tư dài hạn khác,4. Đầu tư dài hạn khác,,118.276,118.276,,118276.0,118276.0
+5. Dự phòng giảm giá đầu tư dài hạn,3. Đầu tư vào công ty liên kết > 5. Dự phòng giảm giá đầu tư dài hạn,5. Dự phòng giảm giá đầu tư dài hạn,,(940),(190),,-940.0,-190.0

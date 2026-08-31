@@ -1,0 +1,14 @@
+﻿row_label_raw,row_label_full,Mối quan hệ,Bản chất giao dịch,Giá trị giao dịch > 2020VND,Giá trị giao dịch > 2019VND,Phải thu/(Phải trả) tại ngày > 31/12/2020VND,Phải thu/(Phải trả) tại ngày > 1/1/2020VND,numeric__Bản chất giao dịch,numeric__Giá trị giao dịch > 2020VND,numeric__Giá trị giao dịch > 2019VND,numeric__Phải thu/(Phải trả) tại ngày > 31/12/2020VND,numeric__Phải thu/(Phải trả) tại ngày > 1/1/2020VND
+Công ty mẹ,Công ty mẹ,Công ty mẹ,Công ty mẹ,Công ty mẹ,Công ty mẹ,Công ty mẹ,Công ty mẹ,,,,,
+Công ty TNHH,Công ty mẹ > Công ty TNHH,Công ty TNHH,Cho vay,4.085.000.000.000,2.132.000.000.000,6.927.734.374.092,9.460.716.876.592,,4085000000000.0,2132000000000.0,6927734374092.0,9460716876592.0
+MasanConsumerHoldings,Công ty mẹ > MasanConsumerHoldings,MasanConsumerHoldings,Khoản vay trả bằng tiền,3.615.000.000.000,105.000.000.000,-,-,,3615000000000.0,105000000000.0,,
+MasanConsumerHoldings,Công ty mẹ > MasanConsumerHoldings,MasanConsumerHoldings,Thu nhập lãi từ các khoản cho vay,564.359.499.584,521.997.309.307,1.825.025.926.859,1.266.333.002.618,,564359499584.0,521997309307.0,1825025926859.0,1266333002618.0
+MasanConsumerHoldings,Công ty mẹ > MasanConsumerHoldings,MasanConsumerHoldings,Cổ tức đã phân phối,3.021.089.152.500,2.611.289.133.000,-,-,,3021089152500.0,2611289133000.0,,
+MasanConsumerHoldings,Công ty mẹ > MasanConsumerHoldings,MasanConsumerHoldings,Cổ tức cấn trừ với khoản cho vay phải thu,3.002.982.502.500,-,-,-,,3002982502500.0,,,
+MasanConsumerHoldings,Công ty mẹ > MasanConsumerHoldings,MasanConsumerHoldings,Trả cổ tức bằng tiền,18.106.650.000,2.611.289.133.000,-,-,,18106650000.0,2611289133000.0,,
+Công ty liên kết,Công ty liên kết,Công ty liên kết,Công ty liên kết,Công ty liên kết,Công ty liên kết,Công ty liên kết,Công ty liên kết,,,,,
+Công ty Cổ phần Thực phẩm Cholimex,Công ty liên kết > Công ty Cổ phần Thực phẩm Cholimex,Công ty Cổ phần Thực phẩm Cholimex,Cổ tức nhận sau ngày mua,13.296.085.000,7.977.651.000,-,-,,13296085000.0,7977651000.0,,
+Các bên liên quan khác,Các bên liên quan khác,Các bên liên quan khác,Các bên liên quan khác,Các bên liên quan khác,Các bên liên quan khác,Các bên liên quan khác,Các bên liên quan khác,,,,,
+Công ty TNHH Masan Brewery,Các bên liên quan khác > Công ty TNHH Masan Brewery,Công ty TNHH Masan Brewery,Bán dịch vụ,-,1.000.000.000,-,1.000.000.000,,,1000000000.0,,1000000000.0
+Công ty TNHH Masan Master Brewer,Các bên liên quan khác > Công ty TNHH Masan Master Brewer,Công ty TNHH Masan Master Brewer,Bán hàng hóa,2.567.365,1.261.868,-,-,,2567365.0,1261868.0,,
+Công ty TNHH Một Thành viên Masan Brewery PY,Các bên liên quan khác > Công ty TNHH Một Thành viên Masan Brewery PY,Công ty TNHH Một Thành viên Masan Brewery PY,Bán hàng hóa,70.539.287,44.454.161,-,-,,70539287.0,44454161.0,,

@@ -1,0 +1,22 @@
+﻿row_label_raw,row_label_full,STT,CHỈ TIÊU,Thuyết minh,Năm nay,Đơn vị: Triệu VND,numeric__CHỈ TIÊU,numeric__Thuyết minh,numeric__Năm nay,numeric__Đơn vị: Triệu VND
+1.,1.,1.,Thu nhập lãi và các khoản thu nhập tương tự,26,61.577.011,51.954.427,,26.0,61577011.0,51954427.0
+2.,2.,2.,Chi phí lãi và các chi phí tương tự,27,(32.613.252),(26.545.057),,27.0,-32613252.0,-26545057.0
+I.,I.,I.,Thu nhập lãi thuần,,28.963.759,25.409.370,,,28963759.0,25409370.0
+3.,3.,3.,Thu nhập từ hoạt động dịch vụ,,4.723.616,2.744.620,,,4723616.0,2744620.0
+4.,4.,4.,Chi phí hoạt động dịch vụ,,(1.567.181),(1.874.948),,,-1567181.0,-1874948.0
+II.,II.,II.,Lãi thuần từ hoạt động dịch vụ,28,3.156.435,869.672,,28.0,3156435.0,869672.0
+III.,III.,III.,Lãi thuần từ hoạt động kinh doanh ngoại hồi,29,1.355.839,857.332,,29.0,1355839.0,857332.0
+IV.,IV.,IV.,Lãi thuần từ mua bán chứng khoán kinh doanh,30,639.460,68.929,,30.0,639460.0,68929.0
+V.,V.,V.,Lãi thuần từ mua bán chứng khoán đầu tư,31,855.910,68.253,,31.0,855910.0,68253.0
+5.,5.,5.,Thu nhập từ hoạt động khác,,765.126,213.447,,,765126.0,213447.0
+6.,6.,6.,Chi phí hoạt động khác,,(265.814),(158.512),,,-265814.0,-158512.0
+VI.,VI.,VI.,Lãi thuần từ hoạt động khác,32,499.312,54.935,,32.0,499312.0,54935.0
+VII.,VII.,VII.,"Thu nhập từ góp vốn, mua cổ phần",33,8.521,250.000,,33.0,8521.0,250000.0
+VIII.,VIII.,VIII.,Chi phí hoạt động,34,(9.050.469),(9.629.926),,34.0,-9050469.0,-9629926.0
+IX.,IX.,IX.,Lợi nhuận thuần từ hoạt động kinh doanh trước chi phí dự phòng rủi ro tín dụng,,26.428.767,17.948.565,,,26428767.0,17948565.0
+X.,X.,X.,Chi phí dự phòng rủi ro tín dụng,,(6.783.608),(2.254.061),,,-6783608.0,-2254061.0
+XI.,XI.,XI.,Tổng lợi nhuận trước thuế,,19.645.159,15.694.504,,,19645159.0,15694504.0
+7.,7.,7.,Chi phí thuế TNDN hiện hành,35,(3.858.953),(3.317.118),,35.0,-3858953.0,-3317118.0
+8.,8.,8.,(Chi phí)/Thu nhập thuế TNDN hoãn lại,,(122.004),79.208,,,-122004.0,79208.0
+XII.,XII.,XII.,Chi phí thuế TNDN,,(3.980.957),(3.237.910),,,-3980957.0,-3237910.0
+XIII.,XIII.,XIII.,Lợi nhuận sau thuế,,15.664.202,12.456.594,,,15664202.0,12456594.0

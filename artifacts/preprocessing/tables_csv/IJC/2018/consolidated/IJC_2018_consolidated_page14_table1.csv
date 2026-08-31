@@ -1,0 +1,8 @@
+﻿row_label_raw,row_label_full,1.,"Tiền chi để mua sám, xây dựng tài sản cố định và các tài sản dài hạn khác",21,"V.9, V.10V.13, VII",(25.568.429.422),(7.604.996.712),"numeric__Tiền chi để mua sám, xây dựng tài sản cố định và các tài sản dài hạn khác",numeric__21,"numeric__V.9, V.10V.13, VII",numeric__(25.568.429.422),numeric__(7.604.996.712)
+2.,2.,2.,"Tiền thu từ thanh lý, nhượng bán tài sản cố định và các tài sản dài hạn khác",22,,-,-,,22.0,,,
+3.,3.,3.,"Tiền chi cho vay, mua các công cụ nợ của đơn vị khác",23,V.2,(38.000.000.000),(10.805.000.000),,23.0,,-38000000000.0,-10805000000.0
+4.,4.,4.,"Tiền thu hồi cho vay, bán lại các công cụ nợ của đơn vị khác",24,V.2,24.500.000.000,4.500.000.000,,24.0,,24500000000.0,4500000000.0
+5.,5.,5.,Tiền chi đầu tư góp vốn vào đơn vị khác,25,,-,-,,25.0,,,
+6.,6.,6.,Tiền thu hồi đầu tư góp vốn vào đơn vị khác,26,,-,-,,26.0,,,
+7.,7.,7.,"Tiền thu lãi cho vay, cổ tức và lợi nhuận được chia",27,"V.5, VI.4",4.205.940.452,2.669.897.826,,27.0,,4205940452.0,2669897826.0
+,,,Lưu chuyển tiền thuần từ hoạt động đầu tư,30,,(34.862.488.970),(11.240.098.886),,30.0,,-34862488970.0,-11240098886.0

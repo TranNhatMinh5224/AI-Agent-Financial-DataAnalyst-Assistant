@@ -1,0 +1,12 @@
+﻿row_label_raw,row_label_full,col_0,Số đầu năm,Tăng trong năm,Giảm trong năm,VND Số cuối năm,numeric__Số đầu năm,numeric__Tăng trong năm,numeric__Giảm trong năm,numeric__VND Số cuối năm
+Phải thu,Phải thu,Phải thu,Phải thu,Phải thu,Phải thu,Phải thu,,,,
+Thuế giá trị gia tăng,Phải thu > Thuế giá trị gia tăng,Thuế giá trị gia tăng,-,64.404.439.132,(37.183.403.268),27.221.035.864,,64404439132.0,-37183403268.0,27221035864.0
+Phải trả,Phải trả,Phải trả,Phải trả,Phải trả,Phải trả,Phải trả,,,,
+"Thuế thu nhập doanh nghiệp (""TNDN"")","Phải trả > Thuế thu nhập doanh nghiệp (""TNDN"")","Thuế thu nhập doanh nghiệp (""TNDN"")",119.844.616.377,35.784.053.132,(102.462.449.082),53.166.220.427,119844616377.0,35784053132.0,-102462449082.0,53166220427.0
+Trong đó:,Trong đó:,Trong đó:,Trong đó:,Trong đó:,Trong đó:,Trong đó:,,,,
+Thuế TNDN hiện hành,Trong đó: > Thuế TNDN hiện hành,Thuế TNDN hiện hành,118.387.229.193,28.521.902.439,(97.674.969.818),49.234.161.814,118387229193.0,28521902439.0,-97674969818.0,49234161814.0
+Trả trước thuế TNDN theo tiến độ thanh toán của khách hàng,Trong đó: > Trả trước thuế TNDN theo tiến độ thanh toán của khách hàng,Trả trước thuế TNDN theo tiến độ thanh toán của khách hàng,1.457.387.184,7.262.150.693,(4.787.479.264),3.932.058.613,1457387184.0,7262150693.0,-4787479264.0,3932058613.0
+Thuế giá trị gia tăng (*),Trong đó: > Thuế giá trị gia tăng (*),Thuế giá trị gia tăng (*),114.539.342.915,162.747.840.885,(244.572.039.373),32.715.144.427,114539342915.0,162747840885.0,-244572039373.0,32715144427.0
+Thuế thu nhập cá nhân,Trong đó: > Thuế thu nhập cá nhân,Thuế thu nhập cá nhân,38.534.349.141,56.487.686.176,(60.415.178.068),34.606.857.249,38534349141.0,56487686176.0,-60415178068.0,34606857249.0
+Các loại thuế khác,Trong đó: > Các loại thuế khác,Các loại thuế khác,-,13.577.371.516,(13.577.371.516),-,,13577371516.0,-13577371516.0,
+TỔNG CỔNG,Trong đó: > TỔNG CỔNG,TỔNG CỔNG,272.918.308.433,268.596.951.709,(421.027.038.039),120.488.222.103,272918308433.0,268596951709.0,-421027038039.0,120488222103.0

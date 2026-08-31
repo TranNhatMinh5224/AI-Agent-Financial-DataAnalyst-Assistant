@@ -1,0 +1,24 @@
+﻿row_label_raw,row_label_full,col_0,Mã số,Thuyết minh,31/12/2017 VND,1/1/2017 VND,numeric__Mã số,numeric__Thuyết minh,numeric__31/12/2017 VND,numeric__1/1/2017 VND
+TÀI SẢN,TÀI SẢN,TÀI SẢN,TÀI SẢN,TÀI SẢN,TÀI SẢN,TÀI SẢN,,,,
+Tài sản ngắn hạn(100 = 110 + 120 + 130 + 140 + 150),TÀI SẢN > Tài sản ngắn hạn(100 = 110 + 120 + 130 + 140 + 150),Tài sản ngắn hạn(100 = 110 + 120 + 130 + 140 + 150),100,,40.526.370.730.962,33.376.137.739.565,100.0,,40526370730962.0,33376137739565.0
+Tiền và các khoản tương đương tiền,TÀI SẢN > Tiền và các khoản tương đương tiền,Tiền và các khoản tương đương tiền,110,6,14.223.421.508.261,11.353.600.192.147,110.0,6.0,14223421508261.0,11353600192147.0
+Tiền,TÀI SẢN > Tiền,Tiền,111,,5.705.904.913.235,4.342.083.888.717,111.0,,5705904913235.0,4342083888717.0
+Các khoản tương đương tiền,TÀI SẢN > Các khoản tương đương tiền,Các khoản tương đương tiền,112,,8.517.516.595.026,7.011.516.303.430,112.0,,8517516595026.0,7011516303430.0
+Đầu tư tài chính ngắn hạn,TÀI SẢN > Đầu tư tài chính ngắn hạn,Đầu tư tài chính ngắn hạn,120,,2.505.007.709.502,2.653.613.962.495,120.0,,2505007709502.0,2653613962495.0
+Chứng khoán kinh doanh,TÀI SẢN > Chứng khoán kinh doanh,Chứng khoán kinh doanh,121,7(a),6.021.246.000,79.115.638.400,121.0,,6021246000.0,79115638400.0
+Dự phòng giảm giá chứng khoán kinh doanh,TÀI SẢN > Dự phòng giảm giá chứng khoán kinh doanh,Dự phòng giảm giá chứng khoán kinh doanh,122,7(a),(2.053.067.986),(20.195.072.393),122.0,,-2053067986.0,-20195072393.0
+Đầu tư nắm giữ đến ngày đáo hạn,TÀI SẢN > Đầu tư nắm giữ đến ngày đáo hạn,Đầu tư nắm giữ đến ngày đáo hạn,123,7(b),2.501.039.531.488,2.594.693.396.488,123.0,,2501039531488.0,2594693396488.0
+Các khoản phải thu ngắn hạn,TÀI SẢN > Các khoản phải thu ngắn hạn,Các khoản phải thu ngắn hạn,130,,7.462.114.111.441,6.918.359.545.312,130.0,,7462114111441.0,6918359545312.0
+Phải thu ngắn hạn của khách hàng,TÀI SẢN > Phải thu ngắn hạn của khách hàng,Phải thu ngắn hạn của khách hàng,131,8,6.811.902.244.793,6.184.468.795.660,131.0,8.0,6811902244793.0,6184468795660.0
+Trả trước cho người bán ngắn hạn,TÀI SẢN > Trả trước cho người bán ngắn hạn,Trả trước cho người bán ngắn hạn,132,,374.679.687.768,454.056.722.166,132.0,,374679687768.0,454056722166.0
+Phải thu ngắn hạn khác,TÀI SẢN > Phải thu ngắn hạn khác,Phải thu ngắn hạn khác,136,9,590.517.831.399,703.404.307.083,136.0,9.0,590517831399.0,703404307083.0
+Dự phòng các khoản phải thu ngắn hạn khó đòi,TÀI SẢN > Dự phòng các khoản phải thu ngắn hạn khó đòi,Dự phòng các khoản phải thu ngắn hạn khó đòi,137,,(315.787.838.951),(424.450.707.637),137.0,,-315787838951.0,-424450707637.0
+Tài sản thiếu chờ xử lý,TÀI SẢN > Tài sản thiếu chờ xử lý,Tài sản thiếu chờ xử lý,139,,802.186.432,880.428.040,139.0,,802186432.0,880428040.0
+Hàng tồn kho,TÀI SẢN > Hàng tồn kho,Hàng tồn kho,140,10,12.867.551.209.134,8.627.059.190.050,140.0,10.0,12867551209134.0,8627059190050.0
+Hàng tồn kho,TÀI SẢN > Hàng tồn kho,Hàng tồn kho,141,,12.890.760.772.088,8.643.776.356.784,141.0,,12890760772088.0,8643776356784.0
+Dự phòng giảm giá hàng tồn kho,TÀI SẢN > Dự phòng giảm giá hàng tồn kho,Dự phòng giảm giá hàng tồn kho,149,,(23.209.562.954),(16.717.166.734),149.0,,-23209562954.0,-16717166734.0
+Tài sản ngắn hạn khác,TÀI SẢN > Tài sản ngắn hạn khác,Tài sản ngắn hạn khác,150,,3.468.276.192.624,3.823.504.849.561,150.0,,3468276192624.0,3823504849561.0
+Chi phí trả trước ngắn hạn,TÀI SẢN > Chi phí trả trước ngắn hạn,Chi phí trả trước ngắn hạn,151,,217.282.436.389,270.755.270.527,151.0,,217282436389.0,270755270527.0
+Thuế giá trị gia tăng được khấu trừ,TÀI SẢN > Thuế giá trị gia tăng được khấu trừ,Thuế giá trị gia tăng được khấu trừ,152,,305.744.694.520,277.155.321.710,152.0,,305744694520.0,277155321710.0
+Thuế và các khoản khác phải thu Nhà nước,TÀI SẢN > Thuế và các khoản khác phải thu Nhà nước,Thuế và các khoản khác phải thu Nhà nước,153,17,2.910.198.024.758,2.156.306.559.062,153.0,17.0,2910198024758.0,2156306559062.0
+Tài sản ngắn hạn khác,TÀI SẢN > Tài sản ngắn hạn khác,Tài sản ngắn hạn khác,155,,35.051.036.957,1.119.287.698.262,155.0,,35051036957.0,1119287698262.0

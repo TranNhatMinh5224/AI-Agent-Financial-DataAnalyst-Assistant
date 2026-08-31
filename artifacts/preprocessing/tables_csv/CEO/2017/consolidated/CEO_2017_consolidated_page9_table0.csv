@@ -1,0 +1,23 @@
+﻿row_label_raw,row_label_full,CHỈ TIÊU,Mã số,Thuyết minh,Năm 2017,Năm 2016,numeric__Mã số,numeric__Thuyết minh,numeric__Năm 2017,numeric__Năm 2016
+1 Doanh thu bán hàng và cung cấp dịch vụ,1 Doanh thu bán hàng và cung cấp dịch vụ,1 Doanh thu bán hàng và cung cấp dịch vụ,01,VI.1,1.832.798.695.679,1.607.465.171.797,1.0,,1832798695679.0,1607465171797.0
+2 Các khoản giảm trừ doanh thu,2 Các khoản giảm trừ doanh thu,2 Các khoản giảm trừ doanh thu,02,,-,197.030.902.149,2.0,,,197030902149.0
+3 Doanh thu thuần về bán hàng và cung cấp dịch vụ (10=01-02),3 Doanh thu thuần về bán hàng và cung cấp dịch vụ (10=01-02),3 Doanh thu thuần về bán hàng và cung cấp dịch vụ (10=01-02),10,,1.832.798.695.679,1.410.434.269.648,10.0,,1832798695679.0,1410434269648.0
+4 Giá vốn hàng bán,4 Giá vốn hàng bán,4 Giá vốn hàng bán,11,VI.2,1.108.712.650.495,911.085.419.917,11.0,,1108712650495.0,911085419917.0
+5 Lợi nhuận gộp về bán hàng và cung cấp dịch vụ (20 =10-11),5 Lợi nhuận gộp về bán hàng và cung cấp dịch vụ (20 =10-11),5 Lợi nhuận gộp về bán hàng và cung cấp dịch vụ (20 =10-11),20,,724.086.045.184,499.348.849.731,20.0,,724086045184.0,499348849731.0
+6 Doanh thu hoạt động tài chính,6 Doanh thu hoạt động tài chính,6 Doanh thu hoạt động tài chính,21,VI.3,32.200.345.395,12.324.745.559,21.0,,32200345395.0,12324745559.0
+7 Chi phí tài chính,7 Chi phí tài chính,7 Chi phí tài chính,22,VI.4,124.371.032.813,73.844.014.411,22.0,,124371032813.0,73844014411.0
+Trong đó: Chi phí lãi vay,Trong đó: Chi phí lãi vay,Trong đó: Chi phí lãi vay,23,,124.307.356.763,73.693.028.738,23.0,,124307356763.0,73693028738.0
+"8 Phần lãi hoặc lỗ trong công ty liên doanh, liên kết","8 Phần lãi hoặc lỗ trong công ty liên doanh, liên kết","8 Phần lãi hoặc lỗ trong công ty liên doanh, liên kết",24,,-,-,24.0,,,
+9 Chi phí bán hàng,9 Chi phí bán hàng,9 Chi phí bán hàng,25,VI.7,36.896.437.667,34.242.182.310,25.0,,36896437667.0,34242182310.0
+10 Chi phí quản lý doanh nghiệp,10 Chi phí quản lý doanh nghiệp,10 Chi phí quản lý doanh nghiệp,26,VI.7,197.033.008.898,101.843.525.031,26.0,,197033008898.0,101843525031.0
+11 Lợi nhuận thuần từ hoạt động kinh doanh {30 = 20 + (21 - 22) + 24 - (25 + 26)},11 Lợi nhuận thuần từ hoạt động kinh doanh {30 = 20 + (21 - 22) + 24 - (25 + 26)},11 Lợi nhuận thuần từ hoạt động kinh doanh {30 = 20 + (21 - 22) + 24 - (25 + 26)},30,,397.985.911.201,301.743.873.538,30.0,,397985911201.0,301743873538.0
+12 Thu nhập khác,12 Thu nhập khác,12 Thu nhập khác,31,VI.5,9.692.637.612,1.734.915.451,31.0,,9692637612.0,1734915451.0
+13 Chi phí khác,13 Chi phí khác,13 Chi phí khác,32,VI.6,927.166.020,3.090.388.133,32.0,,927166020.0,3090388133.0
+14 Lợi nhuận khác (40=31-32),14 Lợi nhuận khác (40=31-32),14 Lợi nhuận khác (40=31-32),40,,8.765.471.592,(1.355.472.682),40.0,,8765471592.0,-1355472682.0
+15 Tổng lợi nhuận kế toán trước thuế (50=30+ 40),15 Tổng lợi nhuận kế toán trước thuế (50=30+ 40),15 Tổng lợi nhuận kế toán trước thuế (50=30+ 40),50,,406.751.382.793,300.388.400.856,50.0,,406751382793.0,300388400856.0
+16 Chi phí thuế TNDN hiện hành,16 Chi phí thuế TNDN hiện hành,16 Chi phí thuế TNDN hiện hành,51,VI.8,89.406.194.119,70.560.950.549,51.0,,89406194119.0,70560950549.0
+17 Chi phí thuế TNDN hoãn lại,17 Chi phí thuế TNDN hoãn lại,17 Chi phí thuế TNDN hoãn lại,52,VI.9,(3.815.196.496),(140.520.840),52.0,,-3815196496.0,-140520840.0
+18 Lợi nhuận sau thuế thu nhập doanh nghiệp (60=50-51-52),18 Lợi nhuận sau thuế thu nhập doanh nghiệp (60=50-51-52),18 Lợi nhuận sau thuế thu nhập doanh nghiệp (60=50-51-52),60,,321.160.385.170,229.967.971.147,60.0,,321160385170.0,229967971147.0
+19 Lợi nhuận sau thuế của Công ty mẹ,19 Lợi nhuận sau thuế của Công ty mẹ,19 Lợi nhuận sau thuế của Công ty mẹ,61,,177.650.063.642,156.982.996.514,61.0,,177650063642.0,156982996514.0
+20 Lợi nhuận sau thuế của Cổ đông không kiểm soát,20 Lợi nhuận sau thuế của Cổ đông không kiểm soát,20 Lợi nhuận sau thuế của Cổ đông không kiểm soát,62,,143.510.321.528,72.984.974.633,62.0,,143510321528.0,72984974633.0
+21 Lãi cơ bản trên cổ phiếu,21 Lãi cơ bản trên cổ phiếu,21 Lãi cơ bản trên cổ phiếu,70,VI.10,"1.275,44","1.533,54",70.0,,1275.44,1533.54

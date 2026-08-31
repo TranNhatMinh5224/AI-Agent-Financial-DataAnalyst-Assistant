@@ -1,0 +1,21 @@
+﻿row_label_raw,row_label_full,CHỈ TIÊU,Mã số,Thuyết minh,Năm nay,Năm trước,numeric__Mã số,numeric__Thuyết minh,numeric__Năm nay,numeric__Năm trước
+1. Doanh thu bán hàng và cung cấp dịch vụ,1. Doanh thu bán hàng và cung cấp dịch vụ,1. Doanh thu bán hàng và cung cấp dịch vụ,01,27,30.305.634.268.649,28.329.357.578.690,1.0,27.0,30305634268649.0,28329357578690.0
+2. Doanh thu thuần về bán hàng và cung cấp dịch vụ (10=01),2. Doanh thu thuần về bán hàng và cung cấp dịch vụ (10=01),2. Doanh thu thuần về bán hàng và cung cấp dịch vụ (10=01),10,,30.305.634.268.649,28.329.357.578.690,10.0,,30305634268649.0,28329357578690.0
+3. Giá vốn hàng bán và dịch vụ cung cấp,3. Giá vốn hàng bán và dịch vụ cung cấp,3. Giá vốn hàng bán và dịch vụ cung cấp,11,28,28.307.964.591.490,25.625.106.577.337,11.0,28.0,28307964591490.0,25625106577337.0
+4. Lợi nhuận gộp về bán hàng và cung cấp dịch vụ (20=10-11),4. Lợi nhuận gộp về bán hàng và cung cấp dịch vụ (20=10-11),4. Lợi nhuận gộp về bán hàng và cung cấp dịch vụ (20=10-11),20,,1.997.669.677.159,2.704.251.001.353,20.0,,1997669677159.0,2704251001353.0
+5. Doanh thu hoạt động tài chính,5. Doanh thu hoạt động tài chính,5. Doanh thu hoạt động tài chính,21,30,566.095.305.919,543.578.060.404,21.0,30.0,566095305919.0,543578060404.0
+6. Chi phí tài chính,6. Chi phí tài chính,6. Chi phí tài chính,22,31,845.430.985.696,729.647.124.365,22.0,31.0,845430985696.0,729647124365.0
+- Trong đó: Chi phí lãi vay,- Trong đó: Chi phí lãi vay,- Trong đó: Chi phí lãi vay,23,,381.646.636.179,564.748.639.578,23.0,,381646636179.0,564748639578.0
+7. Phần lãi trong công ty liên kết,7. Phần lãi trong công ty liên kết,7. Phần lãi trong công ty liên kết,24,,42.199.990.018,40.125.091.093,24.0,,42199990018.0,40125091093.0
+8. Chi phí quản lý doanh nghiệp,8. Chi phí quản lý doanh nghiệp,8. Chi phí quản lý doanh nghiệp,26,32,877.790.745.775,1.268.124.055.600,26.0,32.0,877790745775.0,1268124055600.0
+9. Lợi nhuận thuần từ hoạt động kinh doanh (30=20+(21-22)+24-26),9. Lợi nhuận thuần từ hoạt động kinh doanh (30=20+(21-22)+24-26),9. Lợi nhuận thuần từ hoạt động kinh doanh (30=20+(21-22)+24-26),30,,882.743.241.625,1.290.182.972.885,30.0,,882743241625.0,1290182972885.0
+10. Thu nhập khác,10. Thu nhập khác,10. Thu nhập khác,31,33,1.198.188.656.482,162.091.186.750,31.0,33.0,1198188656482.0,162091186750.0
+11. Chi phí khác,11. Chi phí khác,11. Chi phí khác,32,33,697.690.731.480,10.206.125.321,32.0,33.0,697690731480.0,10206125321.0
+12. Lợi nhuận khác (40=31-32),12. Lợi nhuận khác (40=31-32),12. Lợi nhuận khác (40=31-32),40,33,500.497.925.002,151.885.061.429,40.0,33.0,500497925002.0,151885061429.0
+13. Tổng lợi nhuận kế toán trước thuế (50=30+40),13. Tổng lợi nhuận kế toán trước thuế (50=30+40),13. Tổng lợi nhuận kế toán trước thuế (50=30+40),50,,1.383.241.166.627,1.442.068.034.314,50.0,,1383241166627.0,1442068034314.0
+14. Chi phí thuế thu nhập doanh nghiệp hiện hành,14. Chi phí thuế thu nhập doanh nghiệp hiện hành,14. Chi phí thuế thu nhập doanh nghiệp hiện hành,51,34,170.618.076.178,234.905.255.681,51.0,34.0,170618076178.0,234905255681.0
+15. Chi phí/(Thu nhập) thuế thu nhập doanh nghiệp hoãn lại,15. Chi phí/(Thu nhập) thuế thu nhập doanh nghiệp hoãn lại,15. Chi phí/(Thu nhập) thuế thu nhập doanh nghiệp hoãn lại,52,34,1.281.135.283,(75.779.362.785),52.0,34.0,1281135283.0,-75779362785.0
+16. Lợi nhuận sau thuế thu nhập doanh nghiệp (60=50-51-52),16. Lợi nhuận sau thuế thu nhập doanh nghiệp (60=50-51-52),16. Lợi nhuận sau thuế thu nhập doanh nghiệp (60=50-51-52),60,,1.211.341.955.166,1.282.942.141.418,60.0,,1211341955166.0,1282942141418.0
+Lợi nhuận sau thuế của Công ty mẹ,Lợi nhuận sau thuế của Công ty mẹ,Lợi nhuận sau thuế của Công ty mẹ,61,,1.111.588.278.970,1.038.363.942.297,61.0,,1111588278970.0,1038363942297.0
+Lợi nhuận sau thuế của cổ đông không kiểm soát,Lợi nhuận sau thuế của cổ đông không kiểm soát,Lợi nhuận sau thuế của cổ đông không kiểm soát,62,,99.753.676.196,244.578.199.121,62.0,,99753676196.0,244578199121.0
+18 Lãi cơ bản trên cổ phiếu,18 Lãi cơ bản trên cổ phiếu,18 Lãi cơ bản trên cổ phiếu,70,35,475,352,70.0,35.0,475.0,352.0

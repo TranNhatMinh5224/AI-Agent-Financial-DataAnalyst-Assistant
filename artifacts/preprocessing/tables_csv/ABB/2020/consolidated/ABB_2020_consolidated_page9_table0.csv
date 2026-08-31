@@ -1,0 +1,40 @@
+﻿row_label_raw,row_label_full,col_0,Thuyết minh,Số cuối năm Triệu đồng,Số đầu năm Triệu đồng,numeric__Thuyết minh,numeric__Số cuối năm Triệu đồng,numeric__Số đầu năm Triệu đồng
+TÀI SẢN,TÀI SẢN,TÀI SẢN,TÀI SẢN,TÀI SẢN,TÀI SẢN,,,
+Tiền mặt,TÀI SẢN > Tiền mặt,Tiền mặt,5,579.345,757.147,5.0,579345.0,757147.0
+Tiền gửi tại Ngân hàng Nhà nước Việt Nam,TÀI SẢN > Tiền gửi tại Ngân hàng Nhà nước Việt Nam,Tiền gửi tại Ngân hàng Nhà nước Việt Nam,6,996.258,6.802.645,6.0,996258.0,6802645.0
+"Tiền gửi tại và cho vay các tổ chức tín dụng (""TCTD"") khác","TÀI SẢN > Tiền gửi tại và cho vay các tổ chức tín dụng (""TCTD"") khác","Tiền gửi tại và cho vay các tổ chức tín dụng (""TCTD"") khác",,28.459.280,17.854.550,,28459280.0,17854550.0
+Tiền gửi tại các TCTD khác,TÀI SẢN > Tiền gửi tại các TCTD khác,Tiền gửi tại các TCTD khác,7.1,24.886.890,9.706.163,71.0,24886890.0,9706163.0
+Cho vay các TCTD khác,TÀI SẢN > Cho vay các TCTD khác,Cho vay các TCTD khác,7.2,3.572.390,8.148.387,72.0,3572390.0,8148387.0
+Chứng khoán kinh doanh,TÀI SẢN > Chứng khoán kinh doanh,Chứng khoán kinh doanh,8,2.001.253,,8.0,2001253.0,
+Chứng khoán kinh doanh,TÀI SẢN > Chứng khoán kinh doanh,Chứng khoán kinh doanh,,2.001.459,,,2001459.0,
+Dự phòng rủi ro chứng khoán kinh doanh,TÀI SẢN > Dự phòng rủi ro chứng khoán kinh doanh,Dự phòng rủi ro chứng khoán kinh doanh,,(206),,,-206.0,
+Các công cụ tài chính phải sinh và các tài sản tài chính khác,TÀI SẢN > Các công cụ tài chính phải sinh và các tài sản tài chính khác,Các công cụ tài chính phải sinh và các tài sản tài chính khác,9,,49.812,9.0,,49812.0
+Cho vay khách hàng,TÀI SẢN > Cho vay khách hàng,Cho vay khách hàng,,62.588.033,56.070.111,,62588033.0,56070111.0
+Cho vay khách hàng,TÀI SẢN > Cho vay khách hàng,Cho vay khách hàng,10,63.293.151,56.802.965,10.0,63293151.0,56802965.0
+Dự phòng rủi ro cho vay khách hàng,TÀI SẢN > Dự phòng rủi ro cho vay khách hàng,Dự phòng rủi ro cho vay khách hàng,12,(705.118),(732.854),12.0,-705118.0,-732854.0
+Hoạt động mua nợ,TÀI SẢN > Hoạt động mua nợ,Hoạt động mua nợ,11,152.085,151.756,11.0,152085.0,151756.0
+Mua nợ,TÀI SẢN > Mua nợ,Mua nợ,,153.234,153.234,,153234.0,153234.0
+Dự phòng rủi ro hoạt động mua nợ,TÀI SẢN > Dự phòng rủi ro hoạt động mua nợ,Dự phòng rủi ro hoạt động mua nợ,,(1.149),(1.478),,-1149.0,-1478.0
+Chứng khoán đầu tư,TÀI SẢN > Chứng khoán đầu tư,Chứng khoán đầu tư,,16.685.823,16.472.167,,16685823.0,16472167.0
+Chứng khoán đầu tư sẵn sáng để bán,TÀI SẢN > Chứng khoán đầu tư sẵn sáng để bán,Chứng khoán đầu tư sẵn sáng để bán,13.1,15.012.610,15.009.950,131.0,15012610.0,15009950.0
+Chứng khoán đầu tư giữ đến ngày đáo hạn,TÀI SẢN > Chứng khoán đầu tư giữ đến ngày đáo hạn,Chứng khoán đầu tư giữ đến ngày đáo hạn,13.2,1.970.387,1.867.538,132.0,1970387.0,1867538.0
+Dự phòng rủi ro chứng khoán đầu tư,TÀI SẢN > Dự phòng rủi ro chứng khoán đầu tư,Dự phòng rủi ro chứng khoán đầu tư,13.5,(297.174),(405.321),135.0,-297174.0,-405321.0
+"Góp vốn, đầu tư dài hạn","TÀI SẢN > Góp vốn, đầu tư dài hạn","Góp vốn, đầu tư dài hạn",,166.324,268.791,,166324.0,268791.0
+Đầu tư dài hạn khác,TÀI SẢN > Đầu tư dài hạn khác,Đầu tư dài hạn khác,14.1,182.978,268.791,141.0,182978.0,268791.0
+Dự phòng giảm giá đầu tư dài hạn,TÀI SẢN > Dự phòng giảm giá đầu tư dài hạn,Dự phòng giảm giá đầu tư dài hạn,14.2,(16.654),,142.0,-16654.0,
+Tài sản cố định,TÀI SẢN > Tài sản cố định,Tài sản cố định,,955.727,950.242,,955727.0,950242.0
+Tải sản cố định hữu hình,TÀI SẢN > Tải sản cố định hữu hình,Tải sản cố định hữu hình,15.1,578.998,574.358,151.0,578998.0,574358.0
+Nguyên giả tài sản cố định,TÀI SẢN > Nguyên giả tài sản cố định,Nguyên giả tài sản cố định,,1.140.762,1.078.447,,1140762.0,1078447.0
+Khẩu hao tài sản cố định,TÀI SẢN > Khẩu hao tài sản cố định,Khẩu hao tài sản cố định,,(561.764),(504.089),,-561764.0,-504089.0
+Tải sản cố định vô hình,TÀI SẢN > Tải sản cố định vô hình,Tải sản cố định vô hình,15.2,376.729,375.884,152.0,376729.0,375884.0
+Nguyên giả tài sản cố định,TÀI SẢN > Nguyên giả tài sản cố định,Nguyên giả tài sản cố định,,624.943,595.196,,624943.0,595196.0
+Hao mòn tài sản cố định,TÀI SẢN > Hao mòn tài sản cố định,Hao mòn tài sản cố định,,(248.214),(219.312),,-248214.0,-219312.0
+Bất động sản đầu tư,TÀI SẢN > Bất động sản đầu tư,Bất động sản đầu tư,16,69.980,71.227,16.0,69980.0,71227.0
+Nguyên giả bất động sản đầu tư,TÀI SẢN > Nguyên giả bất động sản đầu tư,Nguyên giả bất động sản đầu tư,,74.030,74.030,,74030.0,74030.0
+Hao mòn bất động sản đầu tư,TÀI SẢN > Hao mòn bất động sản đầu tư,Hao mòn bất động sản đầu tư,,(4.050),(2.803),,-4050.0,-2803.0
+Tài sản Có khác,TÀI SẢN > Tài sản Có khác,Tài sản Có khác,,3.712.873,3.108.476,,3712873.0,3108476.0
+Các khoản phải thu,TÀI SẢN > Các khoản phải thu,Các khoản phải thu,17.1,1.747.900,1.038.953,171.0,1747900.0,1038953.0
+"Các khoản lãi, phí phải thu","TÀI SẢN > Các khoản lãi, phí phải thu","Các khoản lãi, phí phải thu",17.2,776.959,855.728,172.0,776959.0,855728.0
+Tải sản Có khác,TÀI SẢN > Tải sản Có khác,Tải sản Có khác,17.3,1.392.708,1.389.566,173.0,1392708.0,1389566.0
+Dự phòng rủi ro cho các tài sản Có nôi bảng khác,TÀI SẢN > Dự phòng rủi ro cho các tài sản Có nôi bảng khác,Dự phòng rủi ro cho các tài sản Có nôi bảng khác,17.4,(204.694),(175.771),174.0,-204694.0,-175771.0
+TỔNG TÀI SẢN,TÀI SẢN > TỔNG TÀI SẢN,TỔNG TÀI SẢN,,116.366.981,102.556.924,,116366981.0,102556924.0

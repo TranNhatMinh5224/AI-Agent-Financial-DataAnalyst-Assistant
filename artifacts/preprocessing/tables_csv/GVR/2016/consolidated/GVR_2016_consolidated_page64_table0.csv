@@ -1,0 +1,33 @@
+﻿row_label_raw,row_label_full,02. Các khoản giảm trừ doanh thu,Năm nay,Năm trước,numeric__Năm nay,numeric__Năm trước
+Chiết khấu thương mại,Chiết khấu thương mại,Chiết khấu thương mại,11.273.837.684,7.233.794.572,11273837684.0,7233794572.0
+Giảm giá hàng bán,Giảm giá hàng bán,Giảm giá hàng bán,2.472.285.405,685.300.718,2472285405.0,685300718.0
+Hàng bán bị trả lại,Hàng bán bị trả lại,Hàng bán bị trả lại,17.376.000.681,6.592.663.929,17376000681.0,6592663929.0
+Cộng,Cộng,Cộng,31.122.123.770,14.511.759.219,31122123770.0,14511759219.0
+03. Giá vốn hàng bán,03. Giá vốn hàng bán,03. Giá vốn hàng bán,Năm nay,Năm trước,,
+Giá vốn của hàng hóa đã bán,03. Giá vốn hàng bán > Giá vốn của hàng hóa đã bán,Giá vốn của hàng hóa đã bán,465.638.835.297,628.453.315.405,465638835297.0,628453315405.0
+Giá vốn của thành phẩm đã bán,03. Giá vốn hàng bán > Giá vốn của thành phẩm đã bán,Giá vốn của thành phẩm đã bán,11.445.029.890.714,10.442.889.537.474,11445029890714.0,10442889537474.0
+Giá vốn của dịch vụ đã cung cấp,03. Giá vốn hàng bán > Giá vốn của dịch vụ đã cung cấp,Giá vốn của dịch vụ đã cung cấp,175.553.224.878,255.461.632.607,175553224878.0,255461632607.0
+Dự phòng khác,03. Giá vốn hàng bán > Dự phòng khác,Dự phòng khác,0,(17.548.919.279),0.0,-17548919279.0
+"Chi phí kinh doanh BĐS đầu tư, xây dựng","03. Giá vốn hàng bán > Chi phí kinh doanh BĐS đầu tư, xây dựng","Chi phí kinh doanh BĐS đầu tư, xây dựng",145.486.791.550,626.959.049.879,145486791550.0,626959049879.0
+"Hao hụt, mất mát hàng tồn kho","03. Giá vốn hàng bán > Hao hụt, mất mát hàng tồn kho","Hao hụt, mất mát hàng tồn kho",0,0,0.0,0.0
+Các khoản chi vượt mức bình thường,03. Giá vốn hàng bán > Các khoản chi vượt mức bình thường,Các khoản chi vượt mức bình thường,25.868.666.784,32.268.743.566,25868666784.0,32268743566.0
+Dự phòng giảm giá hàng tồn kho,03. Giá vốn hàng bán > Dự phòng giảm giá hàng tồn kho,Dự phòng giảm giá hàng tồn kho,(84.836.331.278),(19.836.681.227),-84836331278.0,-19836681227.0
+Cộng,03. Giá vốn hàng bán > Cộng,Cộng,12.172.741.077.945,11.948.646.678.425,12172741077945.0,11948646678425.0
+04. Doanh thu hoạt động tài chính,04. Doanh thu hoạt động tài chính,04. Doanh thu hoạt động tài chính,Năm nay,Năm trước,,
+"Lãi tiền gửi, tiền cho vay","04. Doanh thu hoạt động tài chính > Lãi tiền gửi, tiền cho vay","Lãi tiền gửi, tiền cho vay",372.645.266.492,336.347.764.664,372645266492.0,336347764664.0
+Lãi bán các khoản đầu tư,04. Doanh thu hoạt động tài chính > Lãi bán các khoản đầu tư,Lãi bán các khoản đầu tư,61.350.993.010,69.496.103.952,61350993010.0,69496103952.0
+"Cổ tức, lợi nhuận được chia","04. Doanh thu hoạt động tài chính > Cổ tức, lợi nhuận được chia","Cổ tức, lợi nhuận được chia",5.025.781.666,34.102.356.574,5025781666.0,34102356574.0
+Lãi bán ngoại tệ,04. Doanh thu hoạt động tài chính > Lãi bán ngoại tệ,Lãi bán ngoại tệ,236.631.947,4.901.948.267,236631947.0,4901948267.0
+Lãi chênh lệch tỷ giá,04. Doanh thu hoạt động tài chính > Lãi chênh lệch tỷ giá,Lãi chênh lệch tỷ giá,85.531.808.527,126.743.815.292,85531808527.0,126743815292.0
+"Lãi bán hàng trả chậm, chiết khấu thanh toán","04. Doanh thu hoạt động tài chính > Lãi bán hàng trả chậm, chiết khấu thanh toán","Lãi bán hàng trả chậm, chiết khấu thanh toán",2.180.663.580,1.628.247.854,2180663580.0,1628247854.0
+Doanh thu hoạt động tài chính khác,04. Doanh thu hoạt động tài chính > Doanh thu hoạt động tài chính khác,Doanh thu hoạt động tài chính khác,11.942.927.471,7.021.201.821,11942927471.0,7021201821.0
+Cộng,04. Doanh thu hoạt động tài chính > Cộng,Cộng,538.914.072.693,580.241.438.424,538914072693.0,580241438424.0
+05. Chi phí tài chính,05. Chi phí tài chính,05. Chi phí tài chính,Năm nay,Năm trước,,
+Lãi tiền vay,05. Chi phí tài chính > Lãi tiền vay,Lãi tiền vay,465.340.643.592,348.304.757.259,465340643592.0,348304757259.0
+Chênh lệch giá trị đầu tư và giá trị hợp lý khi sáp nhập,05. Chi phí tài chính > Chênh lệch giá trị đầu tư và giá trị hợp lý khi sáp nhập,Chênh lệch giá trị đầu tư và giá trị hợp lý khi sáp nhập,0,1.735.113.215.756,0.0,1735113215756.0
+"Lỗ do thanh lý các khoản đầu tư ngắn hạn, dài hạn","05. Chi phí tài chính > Lỗ do thanh lý các khoản đầu tư ngắn hạn, dài hạn","Lỗ do thanh lý các khoản đầu tư ngắn hạn, dài hạn",1.149.704.838,23.502.266.670,1149704838.0,23502266670.0
+Lỗ do bán ngoại tệ,05. Chi phí tài chính > Lỗ do bán ngoại tệ,Lỗ do bán ngoại tệ,202.229.656,128.337.785,202229656.0,128337785.0
+Lỗ chênh lệch tỷ giá,05. Chi phí tài chính > Lỗ chênh lệch tỷ giá,Lỗ chênh lệch tỷ giá,64.275.105.273,136.442.570.522,64275105273.0,136442570522.0
+Dự phòng giảm giá chứng khoán kinh doanh và tồn thất đầu tư,05. Chi phí tài chính > Dự phòng giảm giá chứng khoán kinh doanh và tồn thất đầu tư,Dự phòng giảm giá chứng khoán kinh doanh và tồn thất đầu tư,(13.502.821.850),(1.096.878.571.875),-13502821850.0,-1096878571875.0
+Chi phí tài chính khác,05. Chi phí tài chính > Chi phí tài chính khác,Chi phí tài chính khác,2.093.969.086,3.512.841.053,2093969086.0,3512841053.0
+Cộng,05. Chi phí tài chính > Cộng,Cộng,519.558.830.595,1.150.125.417.170,519558830595.0,1150125417170.0

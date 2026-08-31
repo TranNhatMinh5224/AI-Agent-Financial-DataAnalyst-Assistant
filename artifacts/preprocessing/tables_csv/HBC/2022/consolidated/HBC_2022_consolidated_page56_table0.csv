@@ -1,0 +1,14 @@
+﻿row_label_raw,row_label_full,col_0,Số đầu năm,Số tăng trong năm,Số giảm trong năm,VND Số cuối năm,numeric__Số đầu năm,numeric__Số tăng trong năm,numeric__Số giảm trong năm,numeric__VND Số cuối năm
+Thuế phải trả,Thuế phải trả,Thuế phải trả,Thuế phải trả,Thuế phải trả,Thuế phải trả,Thuế phải trả,,,,
+Thuế giá trị gia tăng,Thuế phải trả > Thuế giá trị gia tăng,Thuế giá trị gia tăng,86.045.419.595,297.640.068.220,(269.383.696.090),114.301.791.725,86045419595.0,297640068220.0,-269383696090.0,114301791725.0
+Thuế thu nhập doanh nghiệp,Thuế phải trả > Thuế thu nhập doanh nghiệp,Thuế thu nhập doanh nghiệp,35.781.449.655,3.806.067.482,(37.496.857.617),2.090.659.520,35781449655.0,3806067482.0,-37496857617.0,2090659520.0
+Thuế thu nhập cá nhân,Thuế phải trả > Thuế thu nhập cá nhân,Thuế thu nhập cá nhân,3.677.349.903,62.467.493.151,(58.003.752.073),8.141.090.981,3677349903.0,62467493151.0,-58003752073.0,8141090981.0
+Khác,Thuế phải trả > Khác,Khác,879.752.719,14.069.908.033,(14.619.618.328),330.042.424,879752719.0,14069908033.0,-14619618328.0,330042424.0
+TỔNG CỘNG,Thuế phải trả > TỔNG CỘNG,TỔNG CỘNG,126.383.971.872,377.983.536.886,(379.503.924.108),124.863.584.650,126383971872.0,377983536886.0,-379503924108.0,124863584650.0
+Thuế phải thu,Thuế phải thu,Thuế phải thu,Thuế phải thu,Thuế phải thu,Thuế phải thu,Thuế phải thu,,,,
+Thuế giá trị gia tăng,Thuế phải thu > Thuế giá trị gia tăng,Thuế giá trị gia tăng,1.149.910,2.438.434.074,(2.435.813.264),3.770.720,1149910.0,2438434074.0,-2435813264.0,3770720.0
+Thuế thu nhập doanh nghiệp,Thuế phải thu > Thuế thu nhập doanh nghiệp,Thuế thu nhập doanh nghiệp,4.523.550.318,-,-,4.523.550.318,4523550318.0,,,4523550318.0
+Thuế thu nhập cá nhân,Thuế phải thu > Thuế thu nhập cá nhân,Thuế thu nhập cá nhân,27.502.086,-,-,27.502.086,27502086.0,,,27502086.0
+Thuế nhập khẩu,Thuế phải thu > Thuế nhập khẩu,Thuế nhập khẩu,-,12.649.012,-,12.649.012,,12649012.0,,12649012.0
+Khác,Thuế phải thu > Khác,Khác,(138.657.626),9.000.000,(20.499.102),(150.156.728),-138657626.0,9000000.0,-20499102.0,-150156728.0
+TỔNG CỘNG,Thuế phải thu > TỔNG CỘNG,TỔNG CỘNG,4.413.544.688,2.460.083.086,(2.456.312.366),4.417.315.408,4413544688.0,2460083086.0,-2456312366.0,4417315408.0

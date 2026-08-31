@@ -1,0 +1,23 @@
+﻿row_label_raw,row_label_full,Code,ITEMS,Notes,Current year,Previous year (Restated),numeric__ITEMS,numeric__Notes,numeric__Current year,numeric__Previous year (Restated)
+01,01,01,1. Revenue from sale of goods and rendering of services,24.1,"13,739,362,734,289","11,241,164,150,311",,241.0,,
+02,02,02,2. Deductions,24.1,"(165,839,502,391)","(131,163,393,499)",,241.0,,
+10,10,10,3. Net revenue from sale of goods and rendering of services,24.1,"13,573,523,231,898","11,110,000,756,812",,241.0,,
+11,11,11,4. Cost of goods sold and services rendered,25,"(11,640,078,007,663)","(9,995,759,533,961)",,25.0,,
+20,20,20,5. Gross profit from sale of goods and rendering of services,,"1,933,445,224,235","1,114,241,222,851",,,,
+21,20 > 21,21,6. Finance income,24.2,"39,213,381,756","35,776,736,369",,242.0,,
+22,20 > 22,22,7. Finance expenses,26,"(274,645,107,584)","(280,735,411,591)",,26.0,,
+23,23,23,In which: Interest expenses,,"(263,668,549,326)","(261,799,262,786)",,,,
+24,23 > 24,24,8. Shares of loss of associates,15,"(1,430,377,000)","(2,765,450,666)",,15.0,,
+25,23 > 25,25,9. Selling expenses,27,"(469,098,857,795)","(432,440,161,015)",,27.0,,
+26,23 > 26,26,10. General and administrative expenses,27,"(391,719,812,986)","(356,355,906,770)",,27.0,,
+30,30,30,11. Operating profit,,"835,764,450,626","77,721,029,178",,,,
+31,30 > 31,31,12. Other income,28,"21,626,693,797","21,669,113,433",,28.0,,
+32,32,32,13. Other expenses,,"(3,142,598,219)","(1,640,931,259)",,,,
+40,40,40,14. Other profit,,"18,484,095,578","20,028,182,174",,,,
+50,50,50,15. Accounting profit before tax,,"854,248,546,204","97,749,211,352",,,,
+51,50 > 51,51,16. Current corporate income tax expense,30.1,"(107,594,297,295)","(72,742,017,137)",,301.0,,
+52,50 > 52,52,17. Deferred tax expense,30.3,"22,429,503,546",-,,303.0,,
+60,60,60,18. Net profit after corporate income tax,,"769,083,752,455","25,007,194,215",,,,
+61,61,61,19. Net profit after tax attributable to shareholders of the parent,,"769,083,752,455","25,007,194,215",,,,
+70,61 > 70,70,20. Basic earnings per share,32,"2,626",91,,32.0,2.626,91.0
+71,61 > 71,71,21. Diluted earnings per share,32,"2,626",91,,32.0,2.626,91.0

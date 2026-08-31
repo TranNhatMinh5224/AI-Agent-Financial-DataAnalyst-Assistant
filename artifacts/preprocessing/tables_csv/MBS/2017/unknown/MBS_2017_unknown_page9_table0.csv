@@ -1,0 +1,25 @@
+﻿row_label_raw,row_label_full,col_0,col_1,Mã số,Thuyết minh,31/12/2017 VND,31/12/2016 VND,numeric__col_1,numeric__Mã số,numeric__Thuyết minh,numeric__31/12/2017 VND,numeric__31/12/2016 VND
+A,A,A,TÀI SẢN CỦA CÔNG TY CHỨNG KHOÁN (“CTCK”)VÀ TÀI SẢN QUẢN LÝ THEO CAM KẾT,TÀI SẢN CỦA CÔNG TY CHỨNG KHOÁN (“CTCK”)VÀ TÀI SẢN QUẢN LÝ THEO CAM KẾT,TÀI SẢN CỦA CÔNG TY CHỨNG KHOÁN (“CTCK”)VÀ TÀI SẢN QUẢN LÝ THEO CAM KẾT,TÀI SẢN CỦA CÔNG TY CHỨNG KHOÁN (“CTCK”)VÀ TÀI SẢN QUẢN LÝ THEO CAM KẾT,TÀI SẢN CỦA CÔNG TY CHỨNG KHOÁN (“CTCK”)VÀ TÀI SẢN QUẢN LÝ THEO CAM KẾT,,,,,
+2,A > 2,2,Chứng chỉ có giá nhận giữ hộ,002,29(a),9.882.580.000,11.503.740.000,,2.0,,9882580000.0,11503740000.0
+4,A > 4,4,Nợ khó đòi đã xử lý,004,29(b),297.156.004.087,57.000.000,,4.0,,297156004087.0,57000000.0
+6,A > 6,6,Cổ phiếu đang lưu hành(số cổ phiếu),006,,122.124.280,122.124.280,,6.0,,122124280.0,122124280.0
+7,A > 7,7,Cổ phiếu quỹ (số cổ phiếu),007,,1.656,857,,7.0,,1656.0,857.0
+8,A > 8,8,TSTC niêm yết/dăng ký giao dịch tại Trung tâm lưu ký chứng khoán(“VSD”) của CTCK,008,29(c),153.502.110.000,199.218.680.000,,8.0,,153502110000.0,199218680000.0
+10,A > 10,10,TSTC chờ về của CTCK,010,,-,6.986.300.000,,10.0,,,6986300000.0
+12,A > 12,12,TSTC chưa lưu ký tại VSD của CTCK,012,29(d),127.968.330.000,170.627.160.000,,12.0,,127968330000.0,170627160000.0
+B,B,B,TÀI SẢN VÀ CÁC KHOACIÓN PHẢI TRẢ VỀ TÀI SẢN QUẢN LÝ CAM KẾT VỚI KHÁCH HÀNG,TÀI SẢN VÀ CÁC KHOACIÓN PHẢI TRẢ VỀ TÀI SẢN QUẢN LÝ CAM KẾT VỚI KHÁCH HÀNG,TÀI SẢN VÀ CÁC KHOACIÓN PHẢI TRẢ VỀ TÀI SẢN QUẢN LÝ CAM KẾT VỚI KHÁCH HÀNG,TÀI SẢN VÀ CÁC KHOACIÓN PHẢI TRẢ VỀ TÀI SẢN QUẢN LÝ CAM KẾT VỚI KHÁCH HÀNG,TÀI SẢN VÀ CÁC KHOACIÓN PHẢI TRẢ VỀ TÀI SẢN QUẢN LÝ CAM KẾT VỚI KHÁCH HÀNG,,,,,
+1,B > 1,1,TSTC niêm yết/dăng ký giao dịch tại VSD của Nhà đầu tư,021,29(e),17.459.593.720.000,13.102.865.820.000,,21.0,,17459593720000.0,13102865820000.0
+a,B > a,a,TSTC giao dịch tự do chuyển nhượng,021.1,,10.329.683.100.000,7.748.554.190.000,,211.0,,10329683100000.0,7748554190000.0
+b,B > b,b,TSTC hạn chế chuyển nhượng,021.2,,686.505.890.000,364.784.630.000,,212.0,,686505890000.0,364784630000.0
+c,B > c,c,TSTC giao dịch cầm cố,021.3,,5.491.012.500.000,4.313.460.840.000,,213.0,,5491012500000.0,4313460840000.0
+d,B > d,d,"TSTC phong tòa, tạm giữ",021.4,,612.170.900.000,467.113.050.000,,214.0,,612170900000.0,467113050000.0
+e,B > e,e,TSTC chờ thanh toán,021.5,,340.221.330.000,208.953.110.000,,215.0,,340221330000.0,208953110000.0
+2,B > 2,2,TSTC đã lưu ký tại VSD và chưa giao dịch của Nhà đầu tư,022,29(f),284.820.350.000,124.969.890.000,,22.0,,284820350000.0,124969890000.0
+a,B > a,a,"TSTC đã lưu ký tại VSD và chưa giao dịch, tự do chuyển nhượng",022.1,,3.541.570.000,2.981.011.000,,221.0,,3541570000.0,2981011000.0
+b,B > b,b,"TSTC đã lưu ký tại VSD và chưa giao dịch, hạn chế chuyển nhượng",022.2,,281.278.780.000,9.515.978.000,,222.0,,281278780000.0,9515978000.0
+3,B > 3,3,TSTC chờ về của Nhà đầu tư,023,29(g),315.294.110.000,20.077.431.000,,23.0,,315294110000.0,20077431000.0
+5,B > 5,5,TSTC chưa lưu ký tại VSD của Nhà đầu tư,024.b,29(h),4.839.890.000,7.012.940.000,,,,4839890000.0,7012940000.0
+7,B > 7,7,Tiền gửi của khách hàng,026,,1.781.972.345.919,652.273.966.146,,26.0,,1781972345919.0,652273966146.0
+7.1,B > 7.1,7.1,Tiền gửi của Nhà đầu tư về giao dịch chứng khoán theo phương thức CTCK quản lý,027,29(i),1.720.500.354.967,627.098.409.624,,27.0,,1720500354967.0,627098409624.0
+7.2,B > 7.2,7.2,Tiền gửi tổng hợp giao dịch chứng khoán cho khách hàng,028,29(i),60.864.158.377,21.303.151.549,,28.0,,60864158377.0,21303151549.0
+7.4,B > 7.4,7.4,Tiền gửi của Tổ chức phát hành chứng khoán,030,29(j),607.832.575,3.872.404.973,,30.0,,607832575.0,3872404973.0

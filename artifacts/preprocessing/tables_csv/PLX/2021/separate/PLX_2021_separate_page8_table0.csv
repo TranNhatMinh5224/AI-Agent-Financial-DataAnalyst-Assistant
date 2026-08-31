@@ -1,0 +1,25 @@
+﻿row_label_raw,row_label_full,col_0,Mã số,Thuyết minh,31/12/2021 VND,1/1/2021 VND,numeric__Mã số,numeric__Thuyết minh,numeric__31/12/2021 VND,numeric__1/1/2021 VND
+NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,,,,
+NỘ PHẢI TRẢ (300 = 310),NGUỒN VỐN > NỘ PHẢI TRẢ (300 = 310),NỘ PHẢI TRẢ (300 = 310),300,,20.920.779.684.340,22.273.659.821.973,300.0,,20920779684340.0,22273659821973.0
+Nợ ngắn hạn,NGUỒN VỐN > Nợ ngắn hạn,Nợ ngắn hạn,310,,20.920.779.684.340,22.273.659.821.973,310.0,,20920779684340.0,22273659821973.0
+Phải trả người bán ngắn hạn,NGUỒN VỐN > Phải trả người bán ngắn hạn,Phải trả người bán ngắn hạn,311,15,11.521.454.181.601,7.964.953.973.838,311.0,15.0,11521454181601.0,7964953973838.0
+Người mua trả tiền trước ngắn hạn,NGUỒN VỐN > Người mua trả tiền trước ngắn hạn,Người mua trả tiền trước ngắn hạn,312,16,168.550.901.131,129.582.360.750,312.0,16.0,168550901131.0,129582360750.0
+Thuế và các khoản phải nộp,Thuế và các khoản phải nộp,Thuế và các khoản phải nộp,,,,,,,,
+Nhà nước,Thuế và các khoản phải nộp > Nhà nước,Nhà nước,313,17,63.522.799.459,1.206.564.662,313.0,17.0,63522799459.0,1206564662.0
+Phải trả người lao động,Thuế và các khoản phải nộp > Phải trả người lao động,Phải trả người lao động,314,,17.105.807.644,18.243.034.128,314.0,,17105807644.0,18243034128.0
+Chỉ phí phải trả ngắn hạn,Thuế và các khoản phải nộp > Chỉ phí phải trả ngắn hạn,Chỉ phí phải trả ngắn hạn,315,,47.914.040.998,45.818.950.338,315.0,,47914040998.0,45818950338.0
+Phải trả ngắn hạn khác,Thuế và các khoản phải nộp > Phải trả ngắn hạn khác,Phải trả ngắn hạn khác,319,18,15.384.666.687,247.703.912.303,319.0,18.0,15384666687.0,247703912303.0
+Vay ngắn hạn,Thuế và các khoản phải nộp > Vay ngắn hạn,Vay ngắn hạn,320,19,9.263.704.463.871,10.078.686.943.621,320.0,19.0,9263704463871.0,10078686943621.0
+"Quỹ khen thưởng, phúc lợi","Thuế và các khoản phải nộp > Quỹ khen thưởng, phúc lợi","Quỹ khen thưởng, phúc lợi",322,20,7.866.593.153,126.147.572.595,322.0,20.0,7866593153.0,126147572595.0
+Quỹ bình ổn giá xăng dầu,Thuế và các khoản phải nộp > Quỹ bình ổn giá xăng dầu,Quỹ bình ổn giá xăng dầu,323,21,(184.723.770.204),3.661.316.509.738,323.0,21.0,-184723770204.0,3661316509738.0
+VỐN CHỦ SỞ HỮU (400 = 410),Thuế và các khoản phải nộp > VỐN CHỦ SỞ HỮU (400 = 410),VỐN CHỦ SỞ HỮU (400 = 410),400,,22.151.455.248.898,19.172.866.590.646,400.0,,22151455248898.0,19172866590646.0
+Vốn chủ sở hữu,Thuế và các khoản phải nộp > Vốn chủ sở hữu,Vốn chủ sở hữu,410,22,22.151.455.248.898,19.172.866.590.646,410.0,22.0,22151455248898.0,19172866590646.0
+Vốn cổ phần,Thuế và các khoản phải nộp > Vốn cổ phần,Vốn cổ phần,411,23,12.938.780.810.000,12.938.780.810.000,411.0,23.0,12938780810000.0,12938780810000.0
+- Cổ phiếu phổ thôngcó quyền biểu quyết,Thuế và các khoản phải nộp > - Cổ phiếu phổ thôngcó quyền biểu quyết,- Cổ phiếu phổ thôngcó quyền biểu quyết,411a,,12.938.780.810.000,12.938.780.810.000,,,12938780810000.0,12938780810000.0
+Thặng dư vốn cổ phần,Thuế và các khoản phải nộp > Thặng dư vốn cổ phần,Thặng dư vốn cổ phần,412,,7.359.059.317.417,4.988.376.126.792,412.0,,7359059317417.0,4988376126792.0
+Cổ phiếu quỹ,Thuế và các khoản phải nộp > Cổ phiếu quỹ,Cổ phiếu quỹ,415,23,(232.858.460.000),(750.648.460.000),415.0,23.0,-232858460000.0,-750648460000.0
+Quỹ đầu tư phát triển,Thuế và các khoản phải nộp > Quỹ đầu tư phát triển,Quỹ đầu tư phát triển,418,25,384.708.394.204,56.981.179.159,418.0,25.0,384708394204.0,56981179159.0
+Lợi nhuận sau thuế chưa phân phối,Thuế và các khoản phải nộp > Lợi nhuận sau thuế chưa phân phối,Lợi nhuận sau thuế chưa phân phối,421,,1.701.765.187.277,1.939.376.934.695,421.0,,1701765187277.0,1939376934695.0
+- LNST chưa phân phối đến cuốinăm trước,Thuế và các khoản phải nộp > - LNST chưa phân phối đến cuốinăm trước,- LNST chưa phân phối đến cuốinăm trước,421a,,64.495.471.142,1.939.376.934.695,,,64495471142.0,1939376934695.0
+- LNST năm nay,Thuế và các khoản phải nộp > - LNST năm nay,- LNST năm nay,421b,,1.637.269.716.135,-,,,1637269716135.0,
+TỔNG CỘNG NGUỒN VỐN(440 = 300 + 400),Thuế và các khoản phải nộp > TỔNG CỘNG NGUỒN VỐN(440 = 300 + 400),TỔNG CỘNG NGUỒN VỐN(440 = 300 + 400),440,,43.072.234.933.238,41.446.526.412.619,440.0,,43072234933238.0,41446526412619.0

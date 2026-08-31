@@ -1,0 +1,22 @@
+﻿row_label_raw,row_label_full,col_0,col_1,Thuyết minh,Năm tài chính kết thúc ngày 31 tháng 12 năm > 2025Triệu đồng,Năm tài chính kết thúc ngày 31 tháng 12 năm > 2024Triệu đồng,numeric__col_1,numeric__Thuyết minh,numeric__Năm tài chính kết thúc ngày 31 tháng 12 năm > 2025Triệu đồng,numeric__Năm tài chính kết thúc ngày 31 tháng 12 năm > 2024Triệu đồng
+1,1,1,Thu nhập lãi và các khoản thu nhập tương tự,20,141.165.107,122.648.218,,20.0,141165107.0,122648218.0
+2,2,2,Chi phí lãi và các chi phí tương tự,21,(76.039.322),(61.546.264),,21.0,-76039322.0,-61546264.0
+I,I,I,Thu nhập lãi thuần,,65.125.785,61.101.954,,,65125785.0,61101954.0
+3,3,3,Thu nhập từ hoạt động dịch vụ,,8.193.825,8.799.803,,,8193825.0,8799803.0
+4,4,4,Chi phí hoạt động dịch vụ,,(3.605.639),(3.757.078),,,-3605639.0,-3757078.0
+II,II,II,Lãi thuần từ hoạt động dịch vụ,22,4.588.186,5.042.725,,22.0,4588186.0,5042725.0
+III,III,III,Lãi thuần từ hoạt động kinh doanh ngoại hối,23,3.062.891,4.106.205,,23.0,3062891.0,4106205.0
+IV,IV,IV,Lãi thuần từ mua bán chứng khoán kinh doanh,24,29.944,3.080,,24.0,29944.0,3080.0
+V,V,V,Lãi/(lỗ) thuần từ mua bán chứng khoán đầu tư,25,60.032,(287.676),,25.0,60032.0,-287676.0
+5,5,5,Thu nhập từ hoạt động khác,,11.761.417,10.569.077,,,11761417.0,10569077.0
+6,6,6,Chi phí hoạt động khác,,(1.537.805),(2.141.843),,,-1537805.0,-2141843.0
+VI,VI,VI,Lãi thuần từ hoạt động khác,26,10.223.612,8.427.234,,26.0,10223612.0,8427234.0
+VII,VII,VII,"Thu nhập từ góp vốn, mua cổ phần",27,125.358,71.871,,27.0,125358.0,71871.0
+VIII,VIII,VIII,Chi phí hoạt động,28,(24.812.784),(20.854.118),,28.0,-24812784.0,-20854118.0
+IX,IX,IX,Lợi nhuận thuần từ hoạt động kinh doanh trước chi phí dự phòng rủi ro tin dụng,,58.403.024,57.611.275,,,58403024.0,57611275.0
+X,X,X,Chi phí dự phòng rủi ro tin dụng,,(17.257.342),(27.250.448),,,-17257342.0,-27250448.0
+XI,XI,XI,Tổng lợi nhuận trước thuế,,41.145.682,30.360.827,,,41145682.0,30360827.0
+7,7,7,Chi phí thuế TNDN hiện hành,,(8.239.255),(6.101.799),,,-8239255.0,-6101799.0
+8,8,8,Chi phí thuế TNDN hoãn lại,,,,,,,
+XII,8 > XII,XII,Chi phí thuế TNDN,29,(8.239.255),(6.101.799),,29.0,-8239255.0,-6101799.0
+XIII,8 > XIII,XIII,Lợi nhuận sau thuế,,32.906.427,24.259.028,,,32906427.0,24259028.0

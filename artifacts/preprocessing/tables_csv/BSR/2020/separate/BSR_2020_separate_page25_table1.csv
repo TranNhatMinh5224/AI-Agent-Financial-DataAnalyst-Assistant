@@ -1,0 +1,25 @@
+﻿row_label_raw,row_label_full,col_0,Số đầu năm,Số phải nộp trong năm,Số đã thực nộp trong năm,Số cuối năm,numeric__Số đầu năm,numeric__Số phải nộp trong năm,numeric__Số đã thực nộp trong năm,numeric__Số cuối năm
+,,,VND,VND,VND,VND,,,,
+a. Các khoản phải thu,a. Các khoản phải thu,a. Các khoản phải thu,a. Các khoản phải thu,a. Các khoản phải thu,a. Các khoản phải thu,a. Các khoản phải thu,,,,
+"Thuế xuất, nhập khẩu","a. Các khoản phải thu > Thuế xuất, nhập khẩu","Thuế xuất, nhập khẩu",665.094.257,56.731.771.363,56.731.771.363,665.094.257,665094257.0,56731771363.0,56731771363.0,665094257.0
+Thuế thu nhập doanh nghiệp,a. Các khoản phải thu > Thuế thu nhập doanh nghiệp,Thuế thu nhập doanh nghiệp,-,(158.261.805),-,158.261.805,,-158261805.0,,158261805.0
+Thuế nhà thầu,a. Các khoản phải thu > Thuế nhà thầu,Thuế nhà thầu,2.112.726.304,60.770.239.124,60.752.607.635,2.095.094.815,2112726304.0,60770239124.0,60752607635.0,2095094815.0
+- Thuế GTGT nộp thay nhà thầu,a. Các khoản phải thu > - Thuế GTGT nộp thay nhà thầu,- Thuế GTGT nộp thay nhà thầu,2.095.094.815,33.559.727.955,33.559.727.955,2.095.094.815,2095094815.0,33559727955.0,33559727955.0,2095094815.0
+- Thuế TNDN nộp thay nhà thầu,a. Các khoản phải thu > - Thuế TNDN nộp thay nhà thầu,- Thuế TNDN nộp thay nhà thầu,17.631.489,27.210.511.169,27.192.879.680,-,17631489.0,27210511169.0,27192879680.0,
+Tiền thuê đất,a. Các khoản phải thu > Tiền thuê đất,Tiền thuê đất,28.783.100,455.618.048,426.834.948,-,28783100.0,455618048.0,426834948.0,
+,,,2.806.603.661,117.799.366.730,117.911.213.946,2.918.450.877,2806603661.0,117799366730.0,117911213946.0,2918450877.0
+b. Các khoản phải trả,b. Các khoản phải trả,b. Các khoản phải trả,b. Các khoản phải trả,b. Các khoản phải trả,b. Các khoản phải trả,b. Các khoản phải trả,,,,
+Thuế giá trị gia tăng,b. Các khoản phải trả > Thuế giá trị gia tăng,Thuế giá trị gia tăng,678.560.513.149,3.489.184.065.607,3.671.513.391.548,496.231.187.208,678560513149.0,3489184065607.0,3671513391548.0,496231187208.0
+- Thuế GTGT đầu ra,b. Các khoản phải trả > - Thuế GTGT đầu ra,- Thuế GTGT đầu ra,678.549.836.329,1.570.460.829.383,1.752.779.478.504,496.231.187.208,678549836329.0,1570460829383.0,1752779478504.0,496231187208.0
+- Thuế GTGT hàng nhập khẩu,b. Các khoản phải trả > - Thuế GTGT hàng nhập khẩu,- Thuế GTGT hàng nhập khẩu,10.676.820,1.918.723.236.224,1.918.733.913.044,-,10676820.0,1918723236224.0,1918733913044.0,
+Thuế tiêu thụ đặc biệt,b. Các khoản phải trả > Thuế tiêu thụ đặc biệt,Thuế tiêu thụ đặc biệt,570.334.154.148,2.510.003.386.325,2.645.456.120.236,434.881.420.237,570334154148.0,2510003386325.0,2645456120236.0,434881420237.0
+Thuế thu nhập doanh nghiệp,b. Các khoản phải trả > Thuế thu nhập doanh nghiệp,Thuế thu nhập doanh nghiệp,56.496.806.697,57.780.205,56.554.586.902,-,56496806697.0,57780205.0,56554586902.0,
+Thuế thu nhập cá nhân,b. Các khoản phải trả > Thuế thu nhập cá nhân,Thuế thu nhập cá nhân,3.978.000.414,15.343.320.934,16.882.219.475,2.439.101.873,3978000414.0,15343320934.0,16882219475.0,2439101873.0
+Thuế nhà thầu,b. Các khoản phải trả > Thuế nhà thầu,Thuế nhà thầu,-,90.387.906,-,90.387.906,,90387906.0,,90387906.0
+- Thuế TNDN nộp thay nhà thầu,b. Các khoản phải trả > - Thuế TNDN nộp thay nhà thầu,- Thuế TNDN nộp thay nhà thầu,-,90.387.906,-,90.387.906,,90387906.0,,90387906.0
+Thuế nhà đất,b. Các khoản phải trả > Thuế nhà đất,Thuế nhà đất,-,10.415.191,10.415.191,-,,10415191.0,10415191.0,
+Thuế môn bài,b. Các khoản phải trả > Thuế môn bài,Thuế môn bài,-,4.000.000,4.000.000,-,,4000000.0,4000000.0,
+Thuế bảo vệ môi trường,b. Các khoản phải trả > Thuế bảo vệ môi trường,Thuế bảo vệ môi trường,13.925.642.000,108.693.606.000,109.170.230.000,13.449.018.000,13925642000.0,108693606000.0,109170230000.0,13449018000.0
+Các loại thuế khác,b. Các khoản phải trả > Các loại thuế khác,Các loại thuế khác,-,316.767.558,316.767.558,-,,316767558.0,316767558.0,
+"Các khoản phí, lệ phí","b. Các khoản phải trả > Các khoản phí, lệ phí","Các khoản phí, lệ phí",-,7.300.000,7.300.000,-,,7300000.0,7300000.0,
+,,,1.323.295.116.408,6.123.711.029.726,6.499.915.030.910,947.091.115.224,1323295116408.0,6123711029726.0,6499915030910.0,947091115224.0

@@ -1,0 +1,14 @@
+﻿row_label_raw,row_label_full,Stt,Tên Công ty,Địa chỉ,Hoạt động chính,Tỷ lệ góp vốn,Tỷ lệ biểu quyết,Tỷ lệ lợi ích,numeric__Tên Công ty,numeric__Địa chỉ,numeric__Hoạt động chính,numeric__Tỷ lệ góp vốn,numeric__Tỷ lệ biểu quyết,numeric__Tỷ lệ lợi ích
+I,I,I,Công ty con,Công ty con,Công ty con,Công ty con,Công ty con,Công ty con,,,,,,
+1,I > 1,1,Công ty TNHH MTV Hải Phát - Bình Thuận,Bình Thuận,Đầu tư kinh doanh bắt động sản; Dịch vụ cho thuê,100%,100%,100%,,,,1.0,1.0,1.0
+2,I > 2,2,Công ty TNHH MTV Địa ốc Heritage Việt Nam,Thừa Thiên Huế,Kinh doanh bắt động sản,100%,100%,100%,,,,1.0,1.0,1.0
+3,I > 3,3,Công ty TNHH MTV Địa ốc Ruby,Hà Nội,Kinh doanh phát triển các dự án Bắt động sản,100%,100%,100%,,,,1.0,1.0,1.0
+4,I > 4,4,Công ty TNHH MTV Đầu tư Sapphire,Hà Nội,Hỗ trợ dịch vụ tài chính,100%,100%,100%,,,,1.0,1.0,1.0
+5,I > 5,5,Công ty TNHH MTV Đầu tư và Phát triển Topaz PM Việt Nam,Hà Nội,"Hoạt động tư vấn kiến trúc, Tư vấn quản lý dự án",100%,100%,100%,,,,1.0,1.0,1.0
+6,I > 6,6,Công ty TNHH MTV Diamond IC,Hà Nội,Hoạt động tư vấn đầu tư,100%,100%,100%,,,,1.0,1.0,1.0
+7,I > 7,7,Công ty TNHH Maipha PENINSULA,Lạng Sơn,Đầu tư kinh doanh bắt động sản,70%,70%,70%,,,,0.7,0.7,0.7
+8,I > 8,8,Công ty cổ phần Tư vấn đầu tư và Quy hoạch Quốc tế Opal,Hà Nội,Tư vấn đầu tư,65%,65%,65%,,,,0.65,0.65,0.65
+II,II,II,Công ty liên kết,Công ty liên kết,Công ty liên kết,Công ty liên kết,Công ty liên kết,Công ty liên kết,,,,,,
+1,II > 1,1,Công ty TNHH BT Hà Đông,Hà Nội,"Xây dựng, hoàn thiện công trình xây dựng",50%,50%,50%,,,,0.5,0.5,0.5
+2,II > 2,2,Công ty Cổ phần Đầu tư Greenland Holdings,Hà Nội,Đầu tư kinh doanh bắt động sản,20%,20%,20%,,,,0.2,0.2,0.2
+3,II > 3,3,Công ty cổ phần Hải Phát Retail (Công ty liên kết gián tiếp),Hà Nội,Đầu tư kinh doanh bắt động sản; Dịch vụ cho thuê,"48,51%","48,51%","48,51%",,,,0.4851,0.4851,0.4851

@@ -1,0 +1,33 @@
+﻿row_label_raw,row_label_full,STT,Chỉ tiêu,Thuyết minh,Năm 2020 > Triệu VND,Năm 2019 > Triệu VND,numeric__Chỉ tiêu,numeric__Thuyết minh,numeric__Năm 2020 > Triệu VND,numeric__Năm 2019 > Triệu VND
+,,,Lưu chuyển tiền từ hoạt động kinh doanh,Lưu chuyển tiền từ hoạt động kinh doanh,Lưu chuyển tiền từ hoạt động kinh doanh,Lưu chuyển tiền từ hoạt động kinh doanh,,,,
+01,01,01,Thu nhập lãi và các khoản thu nhập tương tự nhận được,,9.072.495,8.810.450,,,9072495.0,8810450.0
+02,02,02,Chi phí lãi và các chi phí tương tự đã trả,,(7.673.840),(6.675.098),,,-7673840.0,-6675098.0
+03,03,03,Thu nhập từ hoạt động dịch vụ nhận được,,56.414,102.161,,,56414.0,102161.0
+04,04,04,"Chênh lệch số tiền thực thu/thực chi từ hoạt động kinh doanh (ngoại tệ, vàng bạc, chứng khoán)",,1.233.966,63.754,,,1233966.0,63754.0
+05,05,05,Thu nhập khác,,(10.824),14.968,,,-10824.0,14968.0
+06,06,06,"Tiền thu các khoản nợ đã được xử lý xóa, bù đáp bằng nguồn dự phòng rủi ro",,75.775,66.212,,,75775.0,66212.0
+07,07,07,"Tiền chi trả cho nhân viên và hoạt động quản lý, công vụ",,(1.157.051),(1.023.913),,,-1157051.0,-1023913.0
+08,08,08,Tiền thuế thu nhập thực nộp trong năm,,(159.699),(179.585),,,-159699.0,-179585.0
+,,,Lưu chuyển tiền thuần từ hoạt động kinh doanh trước những thay đổi về tài sản và vốn lưu động,,1.437.236,1.178.949,,,1437236.0,1178949.0
+,,,Những thay đổi về tài sản hoạt động,,,,,,,
+09,09,09,(Tăng)/Giảm các khoản tiền gửi và cho vay các tổ chức tín dụng khác,,(143.215),(457.781),,,-143215.0,-457781.0
+10,10,10,(Tăng)/Giảm các khoản về kinh doanh chứng khoán,,(172.937),(1.061.396),,,-172937.0,-1061396.0
+11,11,11,(Tăng)/Giảm các công cụ tài chính phải sinh và các tài sản tài chính khác,,17.901,55.250,,,17901.0,55250.0
+12,12,12,(Tăng)/Giảm các khoản cho vay khách hàng,,(6.503.779),(8.956.023),,,-6503779.0,-8956023.0
+13,13,13,"Giảm nguồn dự phòng để bù đáp tổn thất các khoản (Tín dụng, chứng khoán, đầu tư dài hạn)",,(456.464),(2.125),,,-456464.0,-2125.0
+14,14,14,(Tăng)/Giảm khác về tài sản hoạt động Những thay đổi về công nợ hoạt động,,(57.281),(61.392),,,-57281.0,-61392.0
+15,15,15,Tăng/(Giảm) các khoản nợ chính phủ và Ngân hàng Nhà nước,,(48.510),83.556,,,-48510.0,83556.0
+16,16,16,"Tăng/(Giảm) các khoản tiền gửi, tiền vay các tổ chức tín dụng",,(1.426.485),1.252.566,,,-1426485.0,1252566.0
+17,17,17,Tăng/(Giảm) tiền gửi của khách hàng (bao gồm cả Kho Bạc Nhà nước),,10.278.952,3.628.849,,,10278952.0,3628849.0
+18,18,18,Tăng/(Giảm) phát hành giấy tờ có giá (ngoại trừ giấy tờ có giá phát hành được tính vào hoạt động tài chính),,(244.419),4.800.406,,,-244419.0,4800406.0
+19,19,19,"Tăng/(Giảm) vốn tài trợ, ủy thác đầu tư, cho vay mà tổ chức tín dụng chịu rủi ro",,(2.467),(6.880),,,-2467.0,-6880.0
+21,21,21,Tăng/(Giảm) khác về công nợ hoạt động,,31.087,24.121,,,31087.0,24121.0
+22,22,22,Chi từ các quỹ của tổ chức tín dụng,,(33.134),(18.724),,,-33134.0,-18724.0
+1,1,1,Lưu chuyển tiền thuần từ hoạt động kinh doanh,,2.676.485,459.377,,,2676485.0,459377.0
+,,,Lưu chuyển tiền từ hoạt động đầu tư,,,,,,,
+01,01,01,Mua sắm tài sản cố định,,(84.396),(47.771),,,-84396.0,-47771.0
+03,03,03,"Tiền chi từ thanh lý, nhượng bán tài sản cố định",,(3.177),-,,,-3177.0,
+05,05,05,"Tiền thu từ bán, thanh lý bắt động sản đầu tư",,4.119,-,,,4119.0,
+08,08,08,"Tiền thu đầu tư, góp vốn vào các đơn vị khác",,75.000,-,,,75000.0,
+09,09,09,"Tiền thu cổ tức và lợi nhuận được chia từ các khoản đầu tư, góp vốn dài hạn",,3.228,15.297,,,3228.0,15297.0
+II,II,II,Lưu chuyển tiền thuần từ hoạt động đầu tư,,(5.226),(32.474),,,-5226.0,-32474.0

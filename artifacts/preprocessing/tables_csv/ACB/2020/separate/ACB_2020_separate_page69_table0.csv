@@ -1,0 +1,10 @@
+﻿row_label_raw,row_label_full,col_0,Tiền gửi tại Ngân hàng Nhà nước Triệu VND,Tiền gửi và cho vay các TCTD khác Triệu VND,Chứng khoán kinh doanh Triệu VND,Các công cụ tài chính phải sinh Triệu VND,Cho vay khách hàng Triệu VND,Chứng khoán nợ đầu tư Triệu VND,Các tài sản tài chính khác Triệu VND,Tổng cộng Triệu VND,numeric__Tiền gửi tại Ngân hàng Nhà nước Triệu VND,numeric__Tiền gửi và cho vay các TCTD khác Triệu VND,numeric__Chứng khoán kinh doanh Triệu VND,numeric__Các công cụ tài chính phải sinh Triệu VND,numeric__Cho vay khách hàng Triệu VND,numeric__Chứng khoán nợ đầu tư Triệu VND,numeric__Các tài sản tài chính khác Triệu VND,numeric__Tổng cộng Triệu VND
+Chưa quá hạn và chưa bị suy giảm giá trị,Chưa quá hạn và chưa bị suy giảm giá trị,Chưa quá hạn và chưa bị suy giảm giá trị,16.616.798,31.396.600,5.986.742,54.473,305.122.670,63.130.535,5.855.175,428.162.993,16616798.0,31396600.0,5986742.0,54473.0,305122670.0,63130535.0,5855175.0,428162993.0
+Đã quá hạn nhưng chưa bị suy giảm giá trị,Đã quá hạn nhưng chưa bị suy giảm giá trị,Đã quá hạn nhưng chưa bị suy giảm giá trị,-,-,-,-,98.261,-,252,98.513,,,,,98261.0,,252.0,98513.0
+Bị suy giảm giá trị,Bị suy giảm giá trị,Bị suy giảm giá trị,-,-,-,-,2.396.593,-,957.541,3.354.134,,,,,2396593.0,,957541.0,3354134.0
+Trừ: Dự phòng rủi ro,Trừ: Dự phòng rủi ro,Trừ: Dự phòng rủi ro,-,-,-,-,(2.820.771),-,(953.934),(3.774.705),,,,,-2820771.0,,-953934.0,-3774705.0
+Giá trị ròng,Giá trị ròng,Giá trị ròng,16.616.798,31.396.600,5.986.742,54.473,304.796.753,63.130.535,5.859.034,427.840.935,16616798.0,31396600.0,5986742.0,54473.0,304796753.0,63130535.0,5859034.0,427840935.0
+Dự phòng rủi ro,Dự phòng rủi ro,Dự phòng rủi ro,,,,,,,,,,,,,,,,
+Dự phòng cụ thể,Dự phòng rủi ro > Dự phòng cụ thể,Dự phòng cụ thể,-,-,-,-,(567.659),-,-,(567.659),,,,,-567659.0,,,-567659.0
+Dự phòng chung,Dự phòng rủi ro > Dự phòng chung,Dự phòng chung,-,-,-,-,(2.253.112),-,-,(2.253.112),,,,,-2253112.0,,,-2253112.0
+Dự phòng rủi ro khác,Dự phòng rủi ro > Dự phòng rủi ro khác,Dự phòng rủi ro khác,-,-,-,-,-,-,(953.934),(953.934),,,,,,,-953934.0,-953934.0

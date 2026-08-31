@@ -1,0 +1,24 @@
+﻿row_label_raw,row_label_full,Mã số,CHỈ TIÊU,Thuyết minh,Năm 2025 > VND,Năm 2024 > VND,numeric__CHỈ TIÊU,numeric__Thuyết minh,numeric__Năm 2025 > VND,numeric__Năm 2024 > VND
+I. LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH,I. LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH,I. LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH,I. LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH,I. LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH,I. LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH,I. LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH,,,,
+01,I. LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH > 01,01,Lợi nhuận trước thuế,,56.433.878.280,51.713.623.433,,,56433878280.0,51713623433.0
+01,01,01,Điều chính cho các khoản,,,,,,,
+02,01 > 02,02,Khấu hao tài sản cố định,,844.390.202,1.319.025.456,,,844390202.0,1319025456.0
+03,01 > 03,03,Các khoản dự phòng,,72.284.635.631,26.549.871.165,,,72284635631.0,26549871165.0
+04,01 > 04,04,"Lãi, lỗ chênh lệch tỷ giá hối đoái do đánh giá lại các khoản mục tiền tệ có gốc ngoại tệ",,2.739.617.648,3.759.973.556,,,2739617648.0,3759973556.0
+05,01 > 05,05,Lãi từ hoạt động đầu tư,,(212.754.589.295),(163.588.803.275),,,-212754589295.0,-163588803275.0
+06,01 > 06,06,Chi phí lãi vay,,12.502.328.768,15.984.835.453,,,12502328768.0,15984835453.0
+08,01 > 08,08,Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động,,(67.949.738.766),(64.261.474.212),,,-67949738766.0,-64261474212.0
+09,01 > 09,09,Biến động các khoản phải thu,,1.659.772.839,(1.760.927.101),,,1659772839.0,-1760927101.0
+10,01 > 10,10,Biến động hàng tồn kho,,92.873.296,449.974.508,,,92873296.0,449974508.0
+11,01 > 11,11,"Biến động các khoản phải trả (không kể lãi vay phải trả, thuế thu nhập doanh nghiệp phải nộp)",,(1.265.704.044),1.922.382.436,,,-1265704044.0,1922382436.0
+12,01 > 12,12,Biến động chi phí trả trước,,22.193.203.266,22.361.955.439,,,22193203266.0,22361955439.0
+14,01 > 14,14,Tiền lãi vay đã trả,,-,(167.972.440),,,,-167972440.0
+17,01 > 17,17,Tiền chi khác cho hoạt động kinh doanh,,(7.704.975.149),(7.599.598.395),,,-7704975149.0,-7599598395.0
+20,01 > 20,20,Lưu chuyển tiền thuần từ hoạt động kinh doanh,,(52.974.568.558),(49.055.659.765),,,-52974568558.0,-49055659765.0
+II. LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TỪ,II. LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TỪ,II. LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TỪ,II. LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TỪ,II. LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TỪ,II. LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TỪ,II. LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TỪ,,,,
+21,II. LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TỪ > 21,21,"Tiền chỉ để mua sắm, xây dựng tài sản cố định và các tài sản dài hạn khác",,(3.860.405.351),(892.743.694),,,-3860405351.0,-892743694.0
+22,II. LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TỪ > 22,22,"Tiền thu từ thanh lý, nhượng bán tài sản cố định và các tài sản dài hạn khác",,533.500.000,4.117.678.450,,,533500000.0,4117678450.0
+23,II. LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TỪ > 23,23,"Tiền chi cho vay, mua các công cụ nợ của đơn vị khác",,(25.000.000.000),-,,,-25000000000.0,
+24,II. LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TỪ > 24,24,"Tiền thu hồi cho vay, bán lại các công cụ nợ của đơn vị khác",,15.000.000.000,41.200.000.000,,,15000000000.0,41200000000.0
+27,II. LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TỪ > 27,27,"Tiền thu lãi cho vay, cổ tức và lợi nhuận được chia",,140.473.479.707,160.825.389.369,,,140473479707.0,160825389369.0
+30,II. LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TỪ > 30,30,Lưu chuyển tiền thuần từ hoạt động đầu tư,,127.146.574.356,205.250.324.125,,,127146574356.0,205250324125.0

@@ -1,0 +1,10 @@
+﻿row_label_raw,row_label_full,STT,Loại tài sản bảo đảm,Tỷ lệ khấu trừ,numeric__Loại tài sản bảo đảm,numeric__Tỷ lệ khấu trừ
+1.,1.,1.,"Số dư tiền gửi, chứng chỉ tiền gửi của khách hàng bằng Đồng Việt Nam tại SeABank",100%,,1.0
+2.,2.,2.,"Trái phiếu Chính phủ, vàng miếng theo quy định của pháp luật về hoạt động kinh doanh vàng; số dư tiền gửi, chứng chỉ tiên gửi của khách hàng bằng ngoại tệ tại SeABank;",95%,,0.95
+3.,3.,3.,"Trái phiếu chính quyền địa phương, trái phiếu được Chính phủ bảo lãnh; công cụ chuyển nhượng, trái phiếu do SeABank phát hành; số dư tiền gửi, chứng chỉ tiên gửi do Tổ chức tín dụng, chỉ nhánh ngân hàng nước ngoài khác phát hành có thời hạn còn lại dưới 1 năm",95%,,0.95
+4.,4.,4.,"Trái phiếu chính quyền địa phương, trái phiếu được Chính phủ bảo lãnh; công cụ chuyển nhượng, trái phiếu do SeABank phát hành; số dư tiền gửi, chứng chỉ tiên gửi do Tổ chức tín dụng, chỉ nhánh ngân hàng nước ngoài khác phát hành có thời hạn còn lại từ 1 năm đến 5 năm",85%,,0.85
+5.,5.,5.,"Trái phiếu chính quyền địa phương, trái phiếu được Chính phủ bảo lãnh; công cụ chuyển nhượng, trái phiếu do chính SeABank phát hành; số dư tiền gửi, chứng chỉ tiên gửi do Tổ chức tín dụng, chỉ nhánh ngân hàng nước ngoài khác phát hành có thời hạn còn lại trên 5 năm",80%,,0.8
+6.,6.,6.,Chứng khoán do các Tổ chức tín dụng khác phát hành được niêm yết trên Sở giao dịch chứng khoán,70%,,0.7
+7.,7.,7.,Chứng khoán do doanh nghiệp (trừ Tổ chức tín dụng) phát hành được niêm yết trên Sở giao dịch chứng khoán,65%,,0.65
+8.,8.,8.,"Chứng khoán chưa được niêm yết trên Sở giao dịch chứng khoán, giấy tờ có giá, trừ các khoản quy định tại Khoản 3,4,5 Điều này, do Tổ chức tín dụng có niêm yết cổ phiếu trên Sở giao dịch chứng khoán phát hành",50%,,0.5
+9.,9.,9.,"Chứng khoán chưa được niêm yết trên Sở giao dịch chứng khoán, giấy tờ có giá, trừ các khoản quy định tại Khoản 3,4,5 Điều này, do Tổ chức tín dụng khác chưa niêm yết cổ phiếu trên Sở giao dịch chứng khoán phát hành",30%,,0.3

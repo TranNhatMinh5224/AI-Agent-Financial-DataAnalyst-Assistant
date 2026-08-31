@@ -1,0 +1,14 @@
+﻿row_label_raw,row_label_full,col_0,Mã số,Số liệu trước điều chỉnh,Các điều chỉnh,Số liệu sau điều chỉnh,numeric__Mã số,numeric__Số liệu trước điều chỉnh,numeric__Các điều chỉnh,numeric__Số liệu sau điều chỉnh
+,,,(1),(2),(3),(2)+(3),-1.0,-2.0,-3.0,
+Băng cân đối kế toán,Băng cân đối kế toán,Băng cân đối kế toán,Băng cân đối kế toán,Băng cân đối kế toán,Băng cân đối kế toán,Băng cân đối kế toán,,,,
+Tài sản,Tài sản,Tài sản,Tài sản,Tài sản,Tài sản,Tài sản,,,,
+- Đầu tư nằm giữ đến ngày đáo hạn,Tài sản > - Đầu tư nằm giữ đến ngày đáo hạn,- Đầu tư nằm giữ đến ngày đáo hạn,123,-,50.000.000.000,50.000.000.000,123.0,,50000000000.0,50000000000.0
+- Phải thu ngắn hạn của khách hàng,Tài sản > - Phải thu ngắn hạn của khách hàng,- Phải thu ngắn hạn của khách hàng,131,454.532.545.517,(15.000.000.000),439.532.545.517,131.0,454532545517.0,-15000000000.0,439532545517.0
+- Dự phòng phải thu ngắn hạn khó đòi,Tài sản > - Dự phòng phải thu ngắn hạn khó đòi,- Dự phòng phải thu ngắn hạn khó đòi,137,(338.187.585.692),(18.000.000.000),(356.187.585.692),137.0,-338187585692.0,-18000000000.0,-356187585692.0
+- Dự phòng đầu tư tài chính dài hạn,Tài sản > - Dự phòng đầu tư tài chính dài hạn,- Dự phòng đầu tư tài chính dài hạn,254,(394.063.125.368),7.370.940.336,(386.692.185.032),254.0,-394063125368.0,7370940336.0,-386692185032.0
+Cộng,Tài sản > Cộng,Cộng,,(277.718.165.543),24.370.940.336,(253.347.225.207),,-277718165543.0,24370940336.0,-253347225207.0
+Nguồn vốn,Nguồn vốn,Nguồn vốn,Nguồn vốn,Nguồn vốn,Nguồn vốn,Nguồn vốn,,,,
+- Người mua trả tiền trước ngắn hạn,Nguồn vốn > - Người mua trả tiền trước ngắn hạn,- Người mua trả tiền trước ngắn hạn,312,92.093.726.239,17.000.000.000,109.093.726.239,312.0,92093726239.0,17000000000.0,109093726239.0
+- LNST chưa phân phối lũy kế đến cuối kỳ trước,Nguồn vốn > - LNST chưa phân phối lũy kế đến cuối kỳ trước,- LNST chưa phân phối lũy kế đến cuối kỳ trước,421a,(70.483.327.189),5.587.145.263,(64.896.181.926),,-70483327189.0,5587145263.0,-64896181926.0
+- LNST chưa phân phối kỳ này,Nguồn vốn > - LNST chưa phân phối kỳ này,- LNST chưa phân phối kỳ này,421b,(1.044.755.169.532),1.783.795.073,(1.042.971.374.459),,-1044755169532.0,1783795073.0,-1042971374459.0
+Cộng,Nguồn vốn > Cộng,Cộng,,(1.023.144.770.482),24.370.940.336,(998.773.830.146),,-1023144770482.0,24370940336.0,-998773830146.0

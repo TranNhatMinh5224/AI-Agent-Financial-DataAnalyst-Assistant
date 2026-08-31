@@ -1,0 +1,17 @@
+﻿row_label_raw,row_label_full,col_0,Năm nay,Năm trước,numeric__Năm nay,numeric__Năm trước
+,,,Triệu VND,Triệu VND,,
+Lợi nhuận trước thuế TNDN,Lợi nhuận trước thuế TNDN,Lợi nhuận trước thuế TNDN,9.158.616,9.539.167,9158616.0,9539167.0
+Trừ:,Trừ:,Trừ:,,,,
+- Thu nhập từ cổ tức và lợi nhuận được chia không chịu thuế,Trừ: > - Thu nhập từ cổ tức và lợi nhuận được chia không chịu thuế,- Thu nhập từ cổ tức và lợi nhuận được chia không chịu thuế,(21.558),(27.478),-21558.0,-27478.0
+Cộng:,Cộng:,Cộng:,,,,
+- Chi phí khác không được khấu trừ thuế,Cộng: > - Chi phí khác không được khấu trừ thuế,- Chi phí khác không được khấu trừ thuế,43.503,12.945,43503.0,12945.0
+Thu nhập chịu thuế,Cộng: > Thu nhập chịu thuế,Thu nhập chịu thuế,9.180.561,9.524.634,9180561.0,9524634.0
+Thuế suất thuế TNDN,Cộng: > Thuế suất thuế TNDN,Thuế suất thuế TNDN,20%,20%,0.2,0.2
+Chi phí thuế TNDN theo thuế suất,Cộng: > Chi phí thuế TNDN theo thuế suất,Chi phí thuế TNDN theo thuế suất,1.836.112,1.904.927,1836112.0,1904927.0
+Chi phí thuế TNDN tính trên thu nhập chịu thuế năm hiện tại,Cộng: > Chi phí thuế TNDN tính trên thu nhập chịu thuế năm hiện tại,Chi phí thuế TNDN tính trên thu nhập chịu thuế năm hiện tại,1.836.112,1.904.927,1836112.0,1904927.0
+Điều chỉnh chi phí thuế TNDN của năm trước vào chi phí thuế TNDN năm hiện hành,Cộng: > Điều chỉnh chi phí thuế TNDN của năm trước vào chi phí thuế TNDN năm hiện hành,Điều chỉnh chi phí thuế TNDN của năm trước vào chi phí thuế TNDN năm hiện hành,2.428,-,2428.0,
+Tổng chi phí thuế TNDN trong năm,Cộng: > Tổng chi phí thuế TNDN trong năm,Tổng chi phí thuế TNDN trong năm,1.838.540,1.904.927,1838540.0,1904927.0
+Thuế TNDN phải trả đầu năm,Cộng: > Thuế TNDN phải trả đầu năm,Thuế TNDN phải trả đầu năm,1.702.813,228.056,1702813.0,228056.0
+Thuế TNDN đã trả trong năm,Cộng: > Thuế TNDN đã trả trong năm,Thuế TNDN đã trả trong năm,(2.405.242),(430.170),-2405242.0,-430170.0
+Thuế TNDN còn phải nộp cuối năm,Cộng: > Thuế TNDN còn phải nộp cuối năm,Thuế TNDN còn phải nộp cuối năm,1.136.111,1.702.813,1136111.0,1702813.0
+Tổng chi phí thuế TNDN,Cộng: > Tổng chi phí thuế TNDN,Tổng chi phí thuế TNDN,1.838.540,1.904.927,1838540.0,1904927.0

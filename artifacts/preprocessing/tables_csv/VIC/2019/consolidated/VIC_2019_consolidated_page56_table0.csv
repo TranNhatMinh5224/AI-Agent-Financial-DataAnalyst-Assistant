@@ -1,0 +1,10 @@
+﻿row_label_raw,row_label_full,col_0,Thuyết minh,Số đầu năm > Giá trị (đồng thời là số có khả năng trả nợ),Số phát sinh trong năm > Tăng,Số phát sinh trong năm > Giảm,Số cuối năm > Giá trị (đồng thời là số có khả năng trả nợ),numeric__Thuyết minh,numeric__Số đầu năm > Giá trị (đồng thời là số có khả năng trả nợ),numeric__Số phát sinh trong năm > Tăng,numeric__Số phát sinh trong năm > Giảm,numeric__Số cuối năm > Giá trị (đồng thời là số có khả năng trả nợ)
+Vay ngắn hạn:,Vay ngắn hạn:,Vay ngắn hạn:,Vay ngắn hạn:,Vay ngắn hạn:,Vay ngắn hạn:,Vay ngắn hạn:,Vay ngắn hạn:,,,,,
+Vay ngắn hạn,Vay ngắn hạn: > Vay ngắn hạn,Vay ngắn hạn,26.1,9.299.560,13.792.353,(15.393.913),7.698.000,261.0,9299560.0,13792353.0,-15393913.0,7698000.0
+Vay dài hạn đến hạn trả,Vay ngắn hạn: > Vay dài hạn đến hạn trả,Vay dài hạn đến hạn trả,26.2,1.307.492,4.215.719,(1.399.098),4.124.113,262.0,1307492.0,4215719.0,-1399098.0,4124113.0
+Trái phiếu dài hạn đến hạn trả,Vay ngắn hạn: > Trái phiếu dài hạn đến hạn trả,Trái phiếu dài hạn đến hạn trả,26.3,8.508.911,21.264.766,(8.600.000),21.173.677,263.0,8508911.0,21264766.0,-8600000.0,21173677.0
+TỔNG CỘNG,Vay ngắn hạn: > TỔNG CỘNG,TỔNG CỘNG,,19.115.963,39.272.838,(25.393.011),32.995.790,,19115963.0,39272838.0,-25393011.0,32995790.0
+Vay dài hạn:,Vay dài hạn:,Vay dài hạn:,Vay dài hạn:,Vay dài hạn:,Vay dài hạn:,Vay dài hạn:,Vay dài hạn:,,,,,
+Vay dài hạn,Vay dài hạn: > Vay dài hạn,Vay dài hạn,26.2,26.791.140,43.873.957,(8.904.348),61.760.749,262.0,26791140.0,43873957.0,-8904348.0,61760749.0
+Trái phiếu dài hạn,Vay dài hạn: > Trái phiếu dài hạn,Trái phiếu dài hạn,26.3,34.979.572,8.863.796,(21.173.677),22.669.691,263.0,34979572.0,8863796.0,-21173677.0,22669691.0
+TỔNG CỘNG,Vay dài hạn: > TỔNG CỘNG,TỔNG CỘNG,,61.770.712,52.737.753,(30.078.025),84.430.440,,61770712.0,52737753.0,-30078025.0,84430440.0

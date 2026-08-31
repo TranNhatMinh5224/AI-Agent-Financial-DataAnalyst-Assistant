@@ -1,0 +1,17 @@
+﻿row_label_raw,row_label_full,col_0,Quyền sử dụng đất,"Nhà cửa, vật kiến trúc",Tổng cộng,numeric__Quyền sử dụng đất,"numeric__Nhà cửa, vật kiến trúc",numeric__Tổng cộng
+Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,,,
+- Số đầu năm,Nguyên giá > - Số đầu năm,- Số đầu năm,21.641.537.135,145.360.574.671,167.002.111.806,21641537135.0,145360574671.0,167002111806.0
+- Tăng trong năm,- Tăng trong năm,- Tăng trong năm,-,-,-,,,
+- Giảm trong năm,- Tăng trong năm > - Giảm trong năm,- Giảm trong năm,(21.641.537.135),(89.210.880.780),(110.852.417.915),-21641537135.0,-89210880780.0,-110852417915.0
+Giảm do góp vốn,- Tăng trong năm > Giảm do góp vốn,Giảm do góp vốn,(21.641.537.135),(89.210.880.780),(110.852.417.915),-21641537135.0,-89210880780.0,-110852417915.0
+Số cuối năm,- Tăng trong năm > Số cuối năm,Số cuối năm,-,56.149.693.891,56.149.693.891,,56149693891.0,56149693891.0
+Trong đó: Đã khấu hao hết nhưng vẫn còn sử dụng,- Tăng trong năm > Trong đó: Đã khấu hao hết nhưng vẫn còn sử dụng,Trong đó: Đã khấu hao hết nhưng vẫn còn sử dụng,-,3.808.776.262,3.808.776.262,,3808776262.0,3808776262.0
+Giá trị hao mòn,Giá trị hao mòn,Giá trị hao mòn,Giá trị hao mòn,Giá trị hao mòn,Giá trị hao mòn,,,
+- Số đầu năm,Giá trị hao mòn > - Số đầu năm,- Số đầu năm,798.232.316,49.227.643.023,50.025.875.339,798232316.0,49227643023.0,50025875339.0
+- Khấu hao trong năm,Giá trị hao mòn > - Khấu hao trong năm,- Khấu hao trong năm,238.832.982,4.209.683.911,4.448.516.893,238832982.0,4209683911.0,4448516893.0
+- Giảm trong năm,Giá trị hao mòn > - Giảm trong năm,- Giảm trong năm,(1.037.065.298),(26.423.108.851),(27.460.174.149),-1037065298.0,-26423108851.0,-27460174149.0
+Giảm do góp vốn,Giá trị hao mòn > Giảm do góp vốn,Giảm do góp vốn,(1.037.065.298),(26.423.108.851),(27.460.174.149),-1037065298.0,-26423108851.0,-27460174149.0
+Số cuối năm,Giá trị hao mòn > Số cuối năm,Số cuối năm,-,27.014.218.083,27.014.218.083,,27014218083.0,27014218083.0
+Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,,,
+Số đầu năm,Giá trị còn lại > Số đầu năm,Số đầu năm,20.843.304.819,96.132.931.648,116.976.236.467,20843304819.0,96132931648.0,116976236467.0
+Số cuối năm (*),Giá trị còn lại > Số cuối năm (*),Số cuối năm (*),-,29.135.475.808,29.135.475.808,,29135475808.0,29135475808.0

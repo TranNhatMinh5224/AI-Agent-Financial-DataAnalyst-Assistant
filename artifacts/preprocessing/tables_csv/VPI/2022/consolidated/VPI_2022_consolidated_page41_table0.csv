@@ -1,0 +1,14 @@
+﻿row_label_raw,row_label_full,col_0,Số đầu năm,Số phải thu trong năm,Số đã bù trừ trong năm,Đơn vị tính: VND,numeric__Số đầu năm,numeric__Số phải thu trong năm,numeric__Số đã bù trừ trong năm,numeric__Đơn vị tính: VND
+Phải thu,Phải thu,Phải thu,Phải thu,Phải thu,Phải thu,Phải thu,,,,
+Thuế giá trị gia tăng được khấu trừ,Phải thu > Thuế giá trị gia tăng được khấu trừ,Thuế giá trị gia tăng được khấu trừ,35.061.958.899,8.589.784.161,(25.567.030.332),18.084.712.728,35061958899.0,8589784161.0,-25567030332.0,18084712728.0
+Thuế thu nhập doanh nghiệp,Phải thu > Thuế thu nhập doanh nghiệp,Thuế thu nhập doanh nghiệp,1.770.412.499,8.312.609.813,(496.227.054),9.586.795.258,1770412499.0,8312609813.0,-496227054.0,9586795258.0
+Các loại thuế khác,Phải thu > Các loại thuế khác,Các loại thuế khác,489.310.593,52.721.600,(312.171.127),229.861.066,489310593.0,52721600.0,-312171127.0,229861066.0
+TỔNG CỘNG,Phải thu > TỔNG CỘNG,TỔNG CỘNG,37.321.681.991,16.955.115.574,(26.375.428.513),27.901.369.052,37321681991.0,16955115574.0,-26375428513.0,27901369052.0
+,,,Số đầu năm,Số phải nộp trong năm,Số đã nộp trong năm,Số cuối năm,,,,
+Phải nộp,Phải nộp,Phải nộp,Phải nộp,Phải nộp,Phải nộp,Phải nộp,,,,
+Thuế thu nhập doanh nghiệp,Phải nộp > Thuế thu nhập doanh nghiệp,Thuế thu nhập doanh nghiệp,28.621.462.662,200.993.350.087,(34.770.484.308),194.844.328.441,28621462662.0,200993350087.0,-34770484308.0,194844328441.0
+Thuế giá trị gia tăng,Phải nộp > Thuế giá trị gia tăng,Thuế giá trị gia tăng,598.506.419,202.875.263.307,(143.947.513.549),59.526.256.177,598506419.0,202875263307.0,-143947513549.0,59526256177.0
+Thuế thu nhập cá nhân,Phải nộp > Thuế thu nhập cá nhân,Thuế thu nhập cá nhân,758.369.758,14.380.784.457,(13.008.727.291),2.130.426.924,758369758.0,14380784457.0,-13008727291.0,2130426924.0
+Tiền đầu giá đất,Phải nộp > Tiền đầu giá đất,Tiền đầu giá đất,-,1.003.688.000.000,(1.003.688.000.000),-,,1003688000000.0,-1003688000000.0,
+Các loại thuế khác,Phải nộp > Các loại thuế khác,Các loại thuế khác,-,511.773.965,(511.773.965),-,,511773965.0,-511773965.0,
+TỔNG CỘNG,Phải nộp > TỔNG CỘNG,TỔNG CỘNG,29.978.338.839,1.422.449.171.816,(1.195.926.499.113),256.501.011.542,29978338839.0,1422449171816.0,-1195926499113.0,256501011542.0

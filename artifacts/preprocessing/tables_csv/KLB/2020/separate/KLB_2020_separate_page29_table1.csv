@@ -1,0 +1,17 @@
+﻿row_label_raw,row_label_full,col_0,Dự phòng chung,Dự phòng cụ thể,numeric__Dự phòng chung,numeric__Dự phòng cụ thể
+Năm nay,Năm nay,Năm nay,Năm nay,Năm nay,,
+Số đầu năm nay,Năm nay > Số đầu năm nay,Số đầu năm nay,(242.044),(53.944),-242044.0,-53944.0
+Dự phòng rủi ro (trích lập)/hoàn nhập trong năm,Năm nay > Dự phòng rủi ro (trích lập)/hoàn nhập trong năm,Dự phòng rủi ro (trích lập)/hoàn nhập trong năm,7.358,(4.948),7358.0,-4948.0
+Sử dụng dự phòng trong năm,Năm nay > Sử dụng dự phòng trong năm,Sử dụng dự phòng trong năm,-,425,,425.0
+Số dư cuối năm nay,Năm nay > Số dư cuối năm nay,Số dư cuối năm nay,(234.686),(58.467),-234686.0,-58467.0
+Năm trước,Năm trước,Năm trước,Năm trước,Năm trước,,
+Số đầu năm trước,Năm trước > Số đầu năm trước,Số đầu năm trước,(206.043),(49.179),-206043.0,-49179.0
+Dự phòng rủi ro trích lập trong năm trước,Năm trước > Dự phòng rủi ro trích lập trong năm trước,Dự phòng rủi ro trích lập trong năm trước,(36.001),(5.830),-36001.0,-5830.0
+Sử dụng dự phòng trong năm trước,Năm trước > Sử dụng dự phòng trong năm trước,Sử dụng dự phòng trong năm trước,-,1.065,,1065.0
+Số cuối năm trước,Năm trước > Số cuối năm trước,Số cuối năm trước,(242.044),(53.944),-242044.0,-53944.0
+Chi tiết số dư dự phòng,Chi tiết số dư dự phòng,Chi tiết số dư dự phòng,Chi tiết số dư dự phòng,Chi tiết số dư dự phòng,,
+,,,Số cuối năm,Số đầu năm,,
+Dự phòng rủi ro cho vay khách hàng:,Dự phòng rủi ro cho vay khách hàng:,Dự phòng rủi ro cho vay khách hàng:,Dự phòng rủi ro cho vay khách hàng:,Dự phòng rủi ro cho vay khách hàng:,,
+Dự phòng chung,Dự phòng rủi ro cho vay khách hàng: > Dự phòng chung,Dự phòng chung,(234.686),(242.044),-234686.0,-242044.0
+Dự phòng cụ thể\( ^{(i)} \),Dự phòng rủi ro cho vay khách hàng: > Dự phòng cụ thể\( ^{(i)} \),Dự phòng cụ thể\( ^{(i)} \),(58.467),(53.944),-58467.0,-53944.0
+Cộng,Dự phòng rủi ro cho vay khách hàng: > Cộng,Cộng,(293.153),(295.988),-293153.0,-295988.0

@@ -1,0 +1,12 @@
+﻿row_label_raw,row_label_full,col_0,Số đầu năm,Tăng trong kỳ,Giảm trong kỳ,VND Số cuối năm,numeric__Số đầu năm,numeric__Tăng trong kỳ,numeric__Giảm trong kỳ,numeric__VND Số cuối năm
+Phải thu,Phải thu,Phải thu,Phải thu,Phải thu,Phải thu,Phải thu,,,,
+Thuế giá trị gia tăng,Phải thu > Thuế giá trị gia tăng,Thuế giá trị gia tăng,5.342.992.431,223.589.390.771,(199.282.933.513),29.649.449.689,5342992431.0,223589390771.0,-199282933513.0,29649449689.0
+Phải trả,Phải trả,Phải trả,Phải trả,Phải trả,Phải trả,Phải trả,,,,
+"Thuế thu nhập doanh nghiệp (""TNDN"")","Phải trả > Thuế thu nhập doanh nghiệp (""TNDN"")","Thuế thu nhập doanh nghiệp (""TNDN"")",60.501.385.188,82.274.042.423,(58.304.424.920),84.471.002.691,60501385188.0,82274042423.0,-58304424920.0,84471002691.0
+Trong đó:,Trong đó:,Trong đó:,Trong đó:,Trong đó:,Trong đó:,Trong đó:,,,,
+Thuế TNDN hiện hành,Trong đó: > Thuế TNDN hiện hành,Thuế TNDN hiện hành,43.775.713.855,72.493.880.100,(43.520.983.280),72.748.610.675,43775713855.0,72493880100.0,-43520983280.0,72748610675.0
+Trả trước thuế TNDN theo tiến độ thanh toán của khách hàng,Trong đó: > Trả trước thuế TNDN theo tiến độ thanh toán của khách hàng,Trả trước thuế TNDN theo tiến độ thanh toán của khách hàng,16.725.671.333,9.780.162.323,(14.783.441.640),11.722.392.016,16725671333.0,9780162323.0,-14783441640.0,11722392016.0
+Thuế thu nhập cá nhân,Trong đó: > Thuế thu nhập cá nhân,Thuế thu nhập cá nhân,8.655.860.434,56.138.717.750,(54.829.278.285),9.965.299.899,8655860434.0,56138717750.0,-54829278285.0,9965299899.0
+Thuế giá trị gia tăng (*),Trong đó: > Thuế giá trị gia tăng (*),Thuế giá trị gia tăng (*),46.527.938.386,206.896.947.296,(253.424.885.682),-,46527938386.0,206896947296.0,-253424885682.0,
+Các loại thuế khác,Trong đó: > Các loại thuế khác,Các loại thuế khác,1.491.053.990,5.220.052.278,(6.711.106.268),-,1491053990.0,5220052278.0,-6711106268.0,
+TỔNG CỘNG,Trong đó: > TỔNG CỘNG,TỔNG CỘNG,117.176.237.998,350.529.759.747,(373.269.695.155),94.436.302.590,117176237998.0,350529759747.0,-373269695155.0,94436302590.0

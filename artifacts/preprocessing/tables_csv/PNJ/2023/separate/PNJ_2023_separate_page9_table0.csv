@@ -1,0 +1,27 @@
+﻿row_label_raw,row_label_full,col_0,Mã số,Thuyết minh,31/12/2023 VND,1/1/2023 VND(Phân loại lại),numeric__Mã số,numeric__Thuyết minh,numeric__31/12/2023 VND,numeric__1/1/2023 VND(Phân loại lại)
+NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,,,,
+NỘ PHẢI TRẢ (300 = 310 + 330),NGUỒN VỐN > NỘ PHẢI TRẢ (300 = 310 + 330),NỘ PHẢI TRẢ (300 = 310 + 330),300,,4.245.582.820.180,4.569.887.335.324,300.0,,4245582820180.0,4569887335324.0
+Nợ ngắn hạn,NGUỒN VỐN > Nợ ngắn hạn,Nợ ngắn hạn,310,,4.236.092.862.180,4.559.852.546.324,310.0,,4236092862180.0,4559852546324.0
+Phải trả người bán,NGUỒN VỐN > Phải trả người bán,Phải trả người bán,311,17,224.617.668.500,255.035.902.130,311.0,17.0,224617668500.0,255035902130.0
+Người mua trả tiền trước,NGUỒN VỐN > Người mua trả tiền trước,Người mua trả tiền trước,312,18,210.235.936.022,170.105.715.685,312.0,18.0,210235936022.0,170105715685.0
+Thuế phải nộp Nhà nước,NGUỒN VỐN > Thuế phải nộp Nhà nước,Thuế phải nộp Nhà nước,313,19,276.940.476.481,226.999.428.026,313.0,19.0,276940476481.0,226999428026.0
+Phải trả người lao động,NGUỒN VỐN > Phải trả người lao động,Phải trả người lao động,314,,616.259.311.147,534.184.449.418,314.0,,616259311147.0,534184449418.0
+Chi phí phải trả,NGUỒN VỐN > Chi phí phải trả,Chi phí phải trả,315,20,293.871.480.465,379.608.433.216,315.0,20.0,293871480465.0,379608433216.0
+Phải trả ngắn hạn khác,NGUỒN VỐN > Phải trả ngắn hạn khác,Phải trả ngắn hạn khác,319,21,200.184.697.120,196.542.039.364,319.0,21.0,200184697120.0,196542039364.0
+Vay ngắn hạn,NGUỒN VỐN > Vay ngắn hạn,Vay ngắn hạn,320,22,2.213.432.860.516,2.605.754.185.502,320.0,22.0,2213432860516.0,2605754185502.0
+Dự phòng phải trả ngắn hạn,NGUỒN VỐN > Dự phòng phải trả ngắn hạn,Dự phòng phải trả ngắn hạn,321,23(a),29.061.192.534,30.129.306.488,321.0,,29061192534.0,30129306488.0
+"Quỹ khen thưởng, phúc lợi","NGUỒN VỐN > Quỹ khen thưởng, phúc lợi","Quỹ khen thưởng, phúc lợi",322,24,171.489.239.395,161.493.086.495,322.0,24.0,171489239395.0,161493086495.0
+Nợ dài hạn,NGUỒN VỐN > Nợ dài hạn,Nợ dài hạn,330,,9.489.958.000,10.034.789.000,330.0,,9489958000.0,10034789000.0
+Phải trả dài hạn khác,NGUỒN VỐN > Phải trả dài hạn khác,Phải trả dài hạn khác,337,,518.668.000,518.668.000,337.0,,518668000.0,518668000.0
+Dự phòng phải trả dài hạn,NGUỒN VỐN > Dự phòng phải trả dài hạn,Dự phòng phải trả dài hạn,342,23(b),8.971.290.000,9.516.121.000,342.0,,8971290000.0,9516121000.0
+VỐN CHỦ SỞ HỮU (400 = 410),NGUỒN VỐN > VỐN CHỦ SỞ HỮU (400 = 410),VỐN CHỦ SỞ HỮU (400 = 410),400,,9.559.463.849.629,8.340.230.038.670,400.0,,9559463849629.0,8340230038670.0
+Vốn chủ sở hữu,NGUỒN VỐN > Vốn chủ sở hữu,Vốn chủ sở hữu,410,25,9.559.463.849.629,8.340.230.038.670,410.0,25.0,9559463849629.0,8340230038670.0
+Vốn cổ phần,NGUỒN VỐN > Vốn cổ phần,Vốn cổ phần,411,26,3.281.691.880.000,2.461.716.200.000,411.0,26.0,3281691880000.0,2461716200000.0
+Thặng dư vốn cổ phần,NGUỒN VỐN > Thặng dư vốn cổ phần,Thặng dư vốn cổ phần,412,26,1.851.376.032.458,2.251.376.032.458,412.0,26.0,1851376032458.0,2251376032458.0
+Cổ phiếu quỹ,NGUỒN VỐN > Cổ phiếu quỹ,Cổ phiếu quỹ,415,26,(3.384.090.000),(3.384.090.000),415.0,26.0,-3384090000.0,-3384090000.0
+Quỹ đầu tư phát triển,NGUỒN VỐN > Quỹ đầu tư phát triển,Quỹ đầu tư phát triển,418,,1.936.397.556.918,1.212.120.556.918,418.0,,1936397556918.0,1212120556918.0
+Lợi nhuận sau thuế (“LNST”),NGUỒN VỐN > Lợi nhuận sau thuế (“LNST”),Lợi nhuận sau thuế (“LNST”),,,2.493.382.470.253,2.418.401.339.294,,,2493382470253.0,2418401339294.0
+chưa phân phối,NGUỒN VỐN > chưa phân phối,chưa phân phối,421,,,,421.0,,,
+- LNST chưa phân phối lũy kế đến cuối năm trước,NGUỒN VỐN > - LNST chưa phân phối lũy kế đến cuối năm trước,- LNST chưa phân phối lũy kế đến cuối năm trước,421a,,665.135.491.285,791.386.349.487,,,665135491285.0,791386349487.0
+- LNST chưa phân phối năm nay,NGUỒN VỐN > - LNST chưa phân phối năm nay,- LNST chưa phân phối năm nay,421b,,1.828.246.978.968,1.627.014.989.807,,,1828246978968.0,1627014989807.0
+TỔNG NGUỒN VỐN (440 = 300 + 400),NGUỒN VỐN > TỔNG NGUỒN VỐN (440 = 300 + 400),TỔNG NGUỒN VỐN (440 = 300 + 400),440,,13.805.046.669.809,12.910.117.373.994,440.0,,13805046669809.0,12910117373994.0

@@ -1,0 +1,13 @@
+﻿row_label_raw,row_label_full,col_0,Code,Note,31/12/2024 VND,1/1/2024 VND,numeric__Code,numeric__Note,numeric__31/12/2024 VND,numeric__1/1/2024 VND
+EQUITY (400 = 410),EQUITY (400 = 410),EQUITY (400 = 410),400,,"24,437,093,182,672","25,485,157,894,867",400.0,,,
+Owners' equity,Owners' equity,Owners' equity,410,26,"24,437,093,182,672","25,485,157,894,867",410.0,26.0,,
+Share capital,Share capital,Share capital,411,27,"12,825,623,720,000","12,825,623,720,000",411.0,27.0,,
+- Ordinary shares with voting rights,- Ordinary shares with voting rights,- Ordinary shares with voting rights,411a,,"12,825,623,720,000","12,825,623,720,000",,,,
+Other capital,- Ordinary shares with voting rights > Other capital,Other capital,414,,"3,208,666,226","3,208,666,226",414.0,,,
+Foreign exchange differences,- Ordinary shares with voting rights > Foreign exchange differences,Foreign exchange differences,417,,"53,776,366,426","43,954,201,299",417.0,,,
+Investment and development fund,- Ordinary shares with voting rights > Investment and development fund,Investment and development fund,418,28,"1,181,709,861,073","1,122,241,373,127",418.0,28.0,,
+Retained profits,- Ordinary shares with voting rights > Retained profits,Retained profits,421,,"9,217,801,321,446","10,217,284,050,181",421.0,,,
+- Retained profits brought forward,- Retained profits brought forward,- Retained profits brought forward,421a,,"5,021,305,707,207","6,222,786,077,389",,,,
+- Retained profit for the year,- Retained profit for the year,- Retained profit for the year,421b,,"4,196,495,614,239","3,994,497,972,792",,,,
+Non-controlling interests,- Retained profit for the year > Non-controlling interests,Non-controlling interests,429,,"1,154,973,247,501","1,272,845,884,034",429.0,,,
+TOTAL RESOURCES(440 = 300 + 400),- Retained profit for the year > TOTAL RESOURCES(440 = 300 + 400),TOTAL RESOURCES(440 = 300 + 400),440,,"33,439,406,364,651","34,056,624,839,705",440.0,,,

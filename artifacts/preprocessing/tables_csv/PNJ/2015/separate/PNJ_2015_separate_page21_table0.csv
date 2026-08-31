@@ -1,0 +1,12 @@
+﻿row_label_raw,row_label_full,col_0,01/01/2015VND,Số phải thu/nộpVND,Số đã thu/nộpVND,31/12/2015VND,numeric__01/01/2015VND,numeric__Số phải thu/nộpVND,numeric__Số đã thu/nộpVND,numeric__31/12/2015VND
+a. Các khoản phải thu,a. Các khoản phải thu,a. Các khoản phải thu,a. Các khoản phải thu,a. Các khoản phải thu,a. Các khoản phải thu,a. Các khoản phải thu,,,,
+Thuế giả trị gia tăng,a. Các khoản phải thu > Thuế giả trị gia tăng,Thuế giả trị gia tăng,4.525.720.813,(42.238.028.172),38.595.803.733,883.496.374,4525720813.0,-42238028172.0,38595803733.0,883496374.0
+Thuế xuất nhập khẩu,a. Các khoản phải thu > Thuế xuất nhập khẩu,Thuế xuất nhập khẩu,53.542.993,(5.228.858.091),5.363.199.865,187.884.767,53542993.0,-5228858091.0,5363199865.0,187884767.0
+Thuế khác,a. Các khoản phải thu > Thuế khác,Thuế khác,74.000.000,(3.000.094.965),2.957.718.715,31.623.750,74000000.0,-3000094965.0,2957718715.0,31623750.0
+,,,4.653.263.806,(50.466.981.228),46.916.722.313,1.103.004.891,4653263806.0,-50466981228.0,46916722313.0,1103004891.0
+b. Các khoản phải nộp,b. Các khoản phải nộp,b. Các khoản phải nộp,b. Các khoản phải nộp,b. Các khoản phải nộp,b. Các khoản phải nộp,b. Các khoản phải nộp,,,,
+Thuế giả trị gia tăng trực tiếp,b. Các khoản phải nộp > Thuế giả trị gia tăng trực tiếp,Thuế giả trị gia tăng trực tiếp,12.606.905.829,121.523.175.943,(115.878.247.549),18.251.834.223,12606905829.0,121523175943.0,-115878247549.0,18251834223.0
+Thuế thu nhập doanh nghiệp,b. Các khoản phải nộp > Thuế thu nhập doanh nghiệp,Thuế thu nhập doanh nghiệp,31.887.913.338,42.085.379.285,(65.383.335.384),8.589.957.239,31887913338.0,42085379285.0,-65383335384.0,8589957239.0
+Thuế thu nhập cá nhân,b. Các khoản phải nộp > Thuế thu nhập cá nhân,Thuế thu nhập cá nhân,645.896.896,8.213.717.210,(8.039.073.973),820.540.133,645896896.0,8213717210.0,-8039073973.0,820540133.0
+Thuế khác,b. Các khoản phải nộp > Thuế khác,Thuế khác,107.505.836,514.680.796,(514.680.796),107.505.836,107505836.0,514680796.0,-514680796.0,107505836.0
+,,,45.248.221.899,172.336.953.234,(189.815.337.702),27.769.837.431,45248221899.0,172336953234.0,-189815337702.0,27769837431.0

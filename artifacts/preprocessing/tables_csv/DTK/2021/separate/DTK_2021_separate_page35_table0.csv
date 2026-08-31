@@ -1,0 +1,15 @@
+﻿row_label_raw,row_label_full,col_0,01/01/2021(VND),Tăng do nhânsáp nhập NĐCP,Số phải nộptrong năm,Số đã thực nộptrong năm,31/12/2021(VND),numeric__01/01/2021(VND),numeric__Tăng do nhânsáp nhập NĐCP,numeric__Số phải nộptrong năm,numeric__Số đã thực nộptrong năm,numeric__31/12/2021(VND)
+a. Phải nộp,a. Phải nộp,a. Phải nộp,a. Phải nộp,a. Phải nộp,a. Phải nộp,a. Phải nộp,a. Phải nộp,,,,,
+Thuế giá trị gia tăng,a. Phải nộp > Thuế giá trị gia tăng,Thuế giá trị gia tăng,21.450.851.125,-,262.682.477.818,263.617.894.146,20.515.434.797,21450851125.0,,262682477818.0,263617894146.0,20515434797.0
+Thuế thu nhập doanh nghiệp,a. Phải nộp > Thuế thu nhập doanh nghiệp,Thuế thu nhập doanh nghiệp,71.794.080.504,-,63.784.217.387,135.578.297.891,-,71794080504.0,,63784217387.0,135578297891.0,
+Thuế thu nhập cá nhân,a. Phải nộp > Thuế thu nhập cá nhân,Thuế thu nhập cá nhân,674.459.337,300.058.098,5.918.805.259,5.232.298.454,1.661.024.240,674459337.0,300058098.0,5918805259.0,5232298454.0,1661024240.0
+Thuế tài nguyên,a. Phải nộp > Thuế tài nguyên,Thuế tài nguyên,10.490.860.208,-,64.922.359.101,67.503.334.978,7.909.884.331,10490860208.0,,64922359101.0,67503334978.0,7909884331.0
+Thuế đất và tiền thuê đất,a. Phải nộp > Thuế đất và tiền thuê đất,Thuế đất và tiền thuê đất,-,-,1.369.614.353,1.369.614.353,-,,,1369614353.0,1369614353.0,
+Các loại thuế khác,a. Phải nộp > Các loại thuế khác,Các loại thuế khác,-,-,14.108.518,14.108.518,-,,,14108518.0,14108518.0,
+"Các khoản phí, lệ phí và các khoảnphải nộp khác","a. Phải nộp > Các khoản phí, lệ phí và các khoảnphải nộp khác","Các khoản phí, lệ phí và các khoảnphải nộp khác",6.611.992.070,-,34.954.189.700,33.288.599.512,8.277.582.258,6611992070.0,,34954189700.0,33288599512.0,8277582258.0
+Cộng,a. Phải nộp > Cộng,Cộng,111.022.243.244,300.058.098,433.645.772.136,506.604.147.852,38.363.925.626,111022243244.0,300058098.0,433645772136.0,506604147852.0,38363925626.0
+b. Phải thu,b. Phải thu,b. Phải thu,b. Phải thu,b. Phải thu,b. Phải thu,b. Phải thu,b. Phải thu,,,,,
+Thuế thu nhập doanh nghiệp,b. Phải thu > Thuế thu nhập doanh nghiệp,Thuế thu nhập doanh nghiệp,-,-,-,24.074.782.613,24.074.782.613,,,,24074782613.0,24074782613.0
+Thuế giá trị gia tăng,b. Phải thu > Thuế giá trị gia tăng,Thuế giá trị gia tăng,200.000.000,-,200.000.000,14.638.889.883,14.638.889.883,200000000.0,,200000000.0,14638889883.0,14638889883.0
+Thuế đất và tiền thuê đất,b. Phải thu > Thuế đất và tiền thuê đất,Thuế đất và tiền thuê đất,-,569.516.306,528.112.292,1.017.882.868,1.059.286.882,,569516306.0,528112292.0,1017882868.0,1059286882.0
+Cộng,b. Phải thu > Cộng,Cộng,200.000.000,569.516.306,728.112.292,39.731.555.364,39.772.959.378,200000000.0,569516306.0,728112292.0,39731555364.0,39772959378.0

@@ -1,0 +1,13 @@
+﻿row_label_raw,row_label_full,col_0,Số đầu năm,Số phát sinh trong năm,Số đã nộp trong năm,Đơn vị tính: VND,numeric__Số đầu năm,numeric__Số phát sinh trong năm,numeric__Số đã nộp trong năm,numeric__Đơn vị tính: VND
+Phải nộp,Phải nộp,Phải nộp,Phải nộp,Phải nộp,Phải nộp,Phải nộp,,,,
+Thuế giá trị gia tăng,Phải nộp > Thuế giá trị gia tăng,Thuế giá trị gia tăng,908.895.833,139.082.005.582,(139.920.011.148),70.890.267,908895833.0,139082005582.0,-139920011148.0,70890267.0
+Thuế thu nhập doanh nghiệp,Phải nộp > Thuế thu nhập doanh nghiệp,Thuế thu nhập doanh nghiệp,34.938.556.968,78.694.917.948,(56.638.630.599),56.994.844.317,34938556968.0,78694917948.0,-56638630599.0,56994844317.0
+Tiền sử dụng đất,Phải nộp > Tiền sử dụng đất,Tiền sử dụng đất,7.314.703.801,8.653.403.014,(8.104.572.315),7.863.534.500,7314703801.0,8653403014.0,-8104572315.0,7863534500.0
+Thuế thu nhập cá nhân,Phải nộp > Thuế thu nhập cá nhân,Thuế thu nhập cá nhân,-,2.577.219.106,(2.577.219.106),-,,2577219106.0,-2577219106.0,
+Các loại thuế khác,Phải nộp > Các loại thuế khác,Các loại thuế khác,-,99.678.687,(99.678.687),-,,99678687.0,-99678687.0,
+TỔNG CỘNG,Phải nộp > TỔNG CỘNG,TỔNG CỘNG,43.162.156.602,229.107.224.337,(207.340.111.855),64.929.269.084,43162156602.0,229107224337.0,-207340111855.0,64929269084.0
+,,,Số đầu năm,Số kê khai hoàn trong năm,Số đã cán trừ trong năm,Số cuối năm,,,,
+Phải thu,Phải thu,Phải thu,Phải thu,Phải thu,Phải thu,Phải thu,,,,
+Thuế giá trị gia tăng,Phải thu > Thuế giá trị gia tăng,Thuế giá trị gia tăng,33.201.430.014,150.533.508.516,(114.259.298.926),69.475.639.604,33201430014.0,150533508516.0,-114259298926.0,69475639604.0
+Các loại thuế khác,Phải thu > Các loại thuế khác,Các loại thuế khác,8.084.172,-,(8.084.172),-,8084172.0,,-8084172.0,
+TỔNG CỘNG,Phải thu > TỔNG CỘNG,TỔNG CỘNG,33.209.514.186,150.533.508.516,(114.267.383.098),69.475.639.604,33209514186.0,150533508516.0,-114267383098.0,69475639604.0

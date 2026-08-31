@@ -1,0 +1,25 @@
+﻿row_label_raw,row_label_full,NGUỒN VỐN,Mã số,Thuyết minh,Số cuối năm,Số đầu năm,numeric__Mã số,numeric__Thuyết minh,numeric__Số cuối năm,numeric__Số đầu năm
+A - NỘ PHẢI TRẢ,A - NỘ PHẢI TRẢ,A - NỘ PHẢI TRẢ,300,,245.412.640.138,158.045.360.084,300.0,,245412640138.0,158045360084.0
+I. Nợ ngắn hạn,I. Nợ ngắn hạn,I. Nợ ngắn hạn,310,,239.646.790.045,135.432.653.290,310.0,,239646790045.0,135432653290.0
+1. Phải trả người bán ngắn hạn,1. Phải trả người bán ngắn hạn,1. Phải trả người bán ngắn hạn,311,11,77.733.709.305,10.972.027.916,311.0,11.0,77733709305.0,10972027916.0
+2. Người mua trả tiền trước ngắn hạn,2. Người mua trả tiền trước ngắn hạn,2. Người mua trả tiền trước ngắn hạn,312,,12.265.969.173,43.194.029.095,312.0,,12265969173.0,43194029095.0
+3. Thuế và các khoản phải nộp Nhà nước,3. Thuế và các khoản phải nộp Nhà nước,3. Thuế và các khoản phải nộp Nhà nước,313,,5.357.403.722,1.240.315.540,313.0,,5357403722.0,1240315540.0
+4. Chi phí phải trả ngắn hạn,4. Chi phí phải trả ngắn hạn,4. Chi phí phải trả ngắn hạn,315,,5.276.027.599,2.701.093.766,315.0,,5276027599.0,2701093766.0
+5. Doanh thu chưa thực hiện ngắn hạn,5. Doanh thu chưa thực hiện ngắn hạn,5. Doanh thu chưa thực hiện ngắn hạn,318,,70.965.055.326,16.731.780.827,318.0,,70965055326.0,16731780827.0
+"6. Phải trả, phải nộp ngắn hạn khác","6. Phải trả, phải nộp ngắn hạn khác","6. Phải trả, phải nộp ngắn hạn khác",319,12,61.426.157.469,53.892.337.846,319.0,12.0,61426157469.0,53892337846.0
+7. Dự phòng phải trả ngắn hạn,7. Dự phòng phải trả ngắn hạn,7. Dự phòng phải trả ngắn hạn,321,,164.164.169,242.765.018,321.0,,164164169.0,242765018.0
+"8. Quỹ khen thưởng, phúc lợi","8. Quỹ khen thưởng, phúc lợi","8. Quỹ khen thưởng, phúc lợi",322,,6.458.303.282,6.458.303.282,322.0,,6458303282.0,6458303282.0
+II. Nợ dài hạn,II. Nợ dài hạn,II. Nợ dài hạn,330,,5.765.850.093,22.612.706.794,330.0,,5765850093.0,22612706794.0
+1. Thuế thu nhập hoãn lại phải trả,1. Thuế thu nhập hoãn lại phải trả,1. Thuế thu nhập hoãn lại phải trả,341,,5.765.850.093,22.612.706.794,341.0,,5765850093.0,22612706794.0
+B - NGUỒN VỐN CHỦ SỞ HỮU,B - NGUỒN VỐN CHỦ SỞ HỮU,B - NGUỒN VỐN CHỦ SỞ HỮU,400,,3.260.229.513.976,3.220.194.068.739,400.0,,3260229513976.0,3220194068739.0
+I. Vốn chủ sở hữu,I. Vốn chủ sở hữu,I. Vốn chủ sở hữu,410,,3.260.229.513.976,3.220.194.068.739,410.0,,3260229513976.0,3220194068739.0
+1. Vốn đầu tư của chủ sở hữu,1. Vốn đầu tư của chủ sở hữu,1. Vốn đầu tư của chủ sở hữu,411,13,2.747.440.630.000,2.747.440.630.000,411.0,13.0,2747440630000.0,2747440630000.0
+- Cổ phiếu phổ thông có quyền biểu quyết,- Cổ phiếu phổ thông có quyền biểu quyết,- Cổ phiếu phổ thông có quyền biểu quyết,411a,,2.747.440.630.000,2.747.440.630.000,,,2747440630000.0,2747440630000.0
+2. Thặng dư vốn cổ phần,2. Thặng dư vốn cổ phần,2. Thặng dư vốn cổ phần,412,13,139.270.925.591,139.270.925.591,412.0,13.0,139270925591.0,139270925591.0
+3. Cổ phiếu quỹ,3. Cổ phiếu quỹ,3. Cổ phiếu quỹ,415,13,(134.681.958.146),(42.082.508.146),415.0,13.0,-134681958146.0,-42082508146.0
+4. Quỹ đầu tư phát triển,4. Quỹ đầu tư phát triển,4. Quỹ đầu tư phát triển,418,13,19.572.915.034,19.572.915.034,418.0,13.0,19572915034.0,19572915034.0
+5. Lợi nhuận sau thuế chưa phân phối,5. Lợi nhuận sau thuế chưa phân phối,5. Lợi nhuận sau thuế chưa phân phối,421,13,415.546.199.644,287.325.720.824,421.0,13.0,415546199644.0,287325720824.0
+- LNST chưa phân phối lũy kế đến cuối năm trước,- LNST chưa phân phối lũy kế đến cuối năm trước,- LNST chưa phân phối lũy kế đến cuối năm trước,421a,,231.987.930.368,195.337.017.544,,,231987930368.0,195337017544.0
+- LNST chưa phân phối năm nay,- LNST chưa phân phối năm nay,- LNST chưa phân phối năm nay,421b,,183.558.269.276,91.988.703.280,,,183558269276.0,91988703280.0
+6. Lợi ích cổ đông không kiểm soát,6. Lợi ích cổ đông không kiểm soát,6. Lợi ích cổ đông không kiểm soát,429,13,73.080.801.853,68.666.385.436,429.0,13.0,73080801853.0,68666385436.0
+TỔNG CỘNG NGUỒN VỐN (440 = 300 + 400),TỔNG CỘNG NGUỒN VỐN (440 = 300 + 400),TỔNG CỘNG NGUỒN VỐN (440 = 300 + 400),440,,3.505.642.154.114,3.378.239.428.823,440.0,,3505642154114.0,3378239428823.0

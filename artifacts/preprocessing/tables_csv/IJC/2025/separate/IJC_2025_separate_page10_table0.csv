@@ -1,0 +1,31 @@
+﻿row_label_raw,row_label_full,CHỈ TIÊU,Mã số,Thuyết minh,Số cuối năm,Số đầu năm,numeric__Mã số,numeric__Thuyết minh,numeric__Số cuối năm,numeric__Số đầu năm
+C - NỘ PHẢI TRẢ,C - NỘ PHẢI TRẢ,C - NỘ PHẢI TRẢ,300,,2.219.681.389.069,2.599.917.480.593,300.0,,2219681389069.0,2599917480593.0
+I. Nợ ngắn hạn,I. Nợ ngắn hạn,I. Nợ ngắn hạn,310,,903.863.951.844,2.010.145.705.001,310.0,,903863951844.0,2010145705001.0
+1. Phải trả người bán ngắn hạn,1. Phải trả người bán ngắn hạn,1. Phải trả người bán ngắn hạn,311,V.13,75.067.499.107,682.027.338.731,311.0,,75067499107.0,682027338731.0
+2. Người mua trả tiền trước ngắn hạn,2. Người mua trả tiền trước ngắn hạn,2. Người mua trả tiền trước ngắn hạn,312,V.14,4.639.140.322,6.071.665.473,312.0,,4639140322.0,6071665473.0
+3. Thuế và các khoản phải nộp Nhà nước,3. Thuế và các khoản phải nộp Nhà nước,3. Thuế và các khoản phải nộp Nhà nước,313,V.15,80.394.251.099,29.794.689.396,313.0,,80394251099.0,29794689396.0
+4. Phải trả người lao động,4. Phải trả người lao động,4. Phải trả người lao động,314,V.16,2.120.616.177,2.390.149.780,314.0,,2120616177.0,2390149780.0
+5. Chi phí phải trả ngắn hạn,5. Chi phí phải trả ngắn hạn,5. Chi phí phải trả ngắn hạn,315,V.17,267.003.000.208,241.537.823.457,315.0,,267003000208.0,241537823457.0
+6. Phải trả nội bộ ngắn hạn,6. Phải trả nội bộ ngắn hạn,6. Phải trả nội bộ ngắn hạn,316,,-,-,316.0,,,
+7. Phải trả theo tiến độ kế hoạch hợp đồng xây dựng,7. Phải trả theo tiến độ kế hoạch hợp đồng xây dựng,7. Phải trả theo tiến độ kế hoạch hợp đồng xây dựng,317,,-,-,317.0,,,
+8. Doanh thu chưa thực hiện ngắn hạn,8. Doanh thu chưa thực hiện ngắn hạn,8. Doanh thu chưa thực hiện ngắn hạn,318,,-,-,318.0,,,
+9. Phải trả ngắn hạn khác,9. Phải trả ngắn hạn khác,9. Phải trả ngắn hạn khác,319,V.18a,344.900.385.111,348.449.280.343,319.0,,344900385111.0,348449280343.0
+10. Vay và nợ thuê tài chính ngắn hạn,10. Vay và nợ thuê tài chính ngắn hạn,10. Vay và nợ thuê tài chính ngắn hạn,320,V.19a,85.866.074.487,651.366.826.138,320.0,,85866074487.0,651366826138.0
+11. Dự phòng phải trả ngắn hạn,11. Dự phòng phải trả ngắn hạn,11. Dự phòng phải trả ngắn hạn,321,,-,-,321.0,,,
+"12. Quỹ khen thưởng, phúc lợi","12. Quỹ khen thưởng, phúc lợi","12. Quỹ khen thưởng, phúc lợi",322,V.20,43.872.985.333,48.507.931.683,322.0,,43872985333.0,48507931683.0
+13. Quỹ bình ổn giá,13. Quỹ bình ổn giá,13. Quỹ bình ổn giá,323,,-,-,323.0,,,
+14. Giao dịch mua bán lại trái phiếu Chính phủ,14. Giao dịch mua bán lại trái phiếu Chính phủ,14. Giao dịch mua bán lại trái phiếu Chính phủ,324,,-,-,324.0,,,
+II. Nợ dài hạn,II. Nợ dài hạn,II. Nợ dài hạn,330,,1.315.817.437.225,589.771.775.592,330.0,,1315817437225.0,589771775592.0
+1. Phải trả người bán dài hạn,1. Phải trả người bán dài hạn,1. Phải trả người bán dài hạn,331,,-,18.838.742.400,331.0,,,18838742400.0
+2. Người mua trả tiền trước dài hạn,2. Người mua trả tiền trước dài hạn,2. Người mua trả tiền trước dài hạn,332,,-,-,332.0,,,
+3. Chi phí phải trả dài hạn,3. Chi phí phải trả dài hạn,3. Chi phí phải trả dài hạn,333,,-,-,333.0,,,
+4. Phải trả nội bộ về vốn kinh doanh,4. Phải trả nội bộ về vốn kinh doanh,4. Phải trả nội bộ về vốn kinh doanh,334,,-,-,334.0,,,
+5. Phải trả nội bộ dài hạn,5. Phải trả nội bộ dài hạn,5. Phải trả nội bộ dài hạn,335,,-,-,335.0,,,
+6. Doanh thu chưa thực hiện dài hạn,6. Doanh thu chưa thực hiện dài hạn,6. Doanh thu chưa thực hiện dài hạn,336,V.21,113.175.511.721,11.904.073.192,336.0,,113175511721.0,11904073192.0
+7. Phải trả dài hạn khác,7. Phải trả dài hạn khác,7. Phải trả dài hạn khác,337,V.18b,12.248.000.000,12.248.000.000,337.0,,12248000000.0,12248000000.0
+8. Vay và nợ thuê tài chính dài hạn,8. Vay và nợ thuê tài chính dài hạn,8. Vay và nợ thuê tài chính dài hạn,338,V.19b,1.190.393.925.504,546.780.960.000,338.0,,1190393925504.0,546780960000.0
+9. Trái phiếu chuyển đổi,9. Trái phiếu chuyển đổi,9. Trái phiếu chuyển đổi,339,,-,-,339.0,,,
+10. Cổ phiếu ưu đãi,10. Cổ phiếu ưu đãi,10. Cổ phiếu ưu đãi,340,,-,-,340.0,,,
+11. Thuế thu nhập hoãn lại phải trả,11. Thuế thu nhập hoãn lại phải trả,11. Thuế thu nhập hoãn lại phải trả,341,,-,-,341.0,,,
+12. Dự phòng phải trả dài hạn,12. Dự phòng phải trả dài hạn,12. Dự phòng phải trả dài hạn,342,,-,-,342.0,,,
+13. Quỹ phát triển khoa học và công nghệ,13. Quỹ phát triển khoa học và công nghệ,13. Quỹ phát triển khoa học và công nghệ,343,,-,-,343.0,,,

@@ -1,0 +1,14 @@
+﻿row_label_raw,row_label_full,col_0,Số cuối năm,Số đầu năm,numeric__Số cuối năm,numeric__Số đầu năm
+Cam kết giao dịch hoán đổi,Cam kết giao dịch hoán đổi,Cam kết giao dịch hoán đổi,4.161.600,926.800,4161600.0,926800.0
+Giá trị theo hợp đồng,Giá trị theo hợp đồng,Giá trị theo hợp đồng,4.161.600,926.800,4161600.0,926800.0
+Trừ: Tiền ký quỹ,Trừ: Tiền ký quỹ,Trừ: Tiền ký quỹ,-,-,,
+Cam kết trong nghiệp vụ L/C,Trừ: Tiền ký quỹ > Cam kết trong nghiệp vụ L/C,Cam kết trong nghiệp vụ L/C,128.805,91.729,128805.0,91729.0
+Giá trị theo hợp đồng,Trừ: Tiền ký quỹ > Giá trị theo hợp đồng,Giá trị theo hợp đồng,131.448,93.530,131448.0,93530.0
+Trừ: Tiền ký quỹ,Trừ: Tiền ký quỹ > Trừ: Tiền ký quỹ,Trừ: Tiền ký quỹ,(2.643),(1.801),-2643.0,-1801.0
+Bảo lãnh khác,Trừ: Tiền ký quỹ > Bảo lãnh khác,Bảo lãnh khác,168.203,162.980,168203.0,162980.0
+Giá trị theo hợp đồng,Trừ: Tiền ký quỹ > Giá trị theo hợp đồng,Giá trị theo hợp đồng,179.608,175.629,179608.0,175629.0
+Bảo lãnh thanh toán,Trừ: Tiền ký quỹ > Bảo lãnh thanh toán,Bảo lãnh thanh toán,68.138,68.171,68138.0,68171.0
+Bảo lãnh thực hiện hợp đồng,Trừ: Tiền ký quỹ > Bảo lãnh thực hiện hợp đồng,Bảo lãnh thực hiện hợp đồng,34.915,39.905,34915.0,39905.0
+Bảo lãnh dự thầu,Trừ: Tiền ký quỹ > Bảo lãnh dự thầu,Bảo lãnh dự thầu,8.937,5.894,8937.0,5894.0
+Cam kết bảo lãnh khác,Trừ: Tiền ký quỹ > Cam kết bảo lãnh khác,Cam kết bảo lãnh khác,67.618,61.659,67618.0,61659.0
+Trừ: Tiền ký quỹ,Trừ: Tiền ký quỹ > Trừ: Tiền ký quỹ,Trừ: Tiền ký quỹ,(11.405),(12.649),-11405.0,-12649.0

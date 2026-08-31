@@ -1,0 +1,9 @@
+﻿row_label_raw,row_label_full,STT,Loại doanh thu hoạt động tài chính,Năm nay,Năm trước,numeric__Loại doanh thu hoạt động tài chính,numeric__Năm nay,numeric__Năm trước
+1,1,1,Chênh lệch tỷ giá hối đoái,,,,,
+1.1,1.1,1.1,Chênh lệch lãi tỷ giá hối đoái đã thực hiện,,,,,
+1.2,1.2,1.2,Chênh lệch lãi tỷ giá hối đoái chưa thực hiện,,,,,
+2,2,2,"Doanh thu cổ tức từ các khoản đầu tư vào công ty con, công ty liên kết, liên doanh phát sinh trong kỳ",,,,,
+3,3,3,"Doanh thu dự thu cổ tức, phát sinh trong kỳ",,,,,
+4,3 > 4,4,Doanh thu lãi tiền gửi không kỳ hạn,1.366.639.634,4.141.296.060,,1366639634.0,4141296060.0
+5,5,5,Doanh thu hoạt động tài chính khác,,,,,
+Cộng,5 > Cộng,Cộng,Cộng,1.366.639.634,4.141.296.060,,1366639634.0,4141296060.0

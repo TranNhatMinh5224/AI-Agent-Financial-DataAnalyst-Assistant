@@ -1,0 +1,11 @@
+﻿row_label_raw,row_label_full,1. Lợi nhuận trước thuế TNDN,13.548,7.473,numeric__13.548,numeric__7.473
+2. Các khoản mục điều chỉnh thu nhập chịu thuế:,2. Các khoản mục điều chỉnh thu nhập chịu thuế:,2. Các khoản mục điều chỉnh thu nhập chịu thuế:,,-,,
+Trừ thu nhập được miễn thuế TNDN:,2. Các khoản mục điều chỉnh thu nhập chịu thuế: > Trừ thu nhập được miễn thuế TNDN:,Trừ thu nhập được miễn thuế TNDN:,-,2.875,,2875.0
+Thu nhập từ góp vốn liên doanh mua cổ phần,2. Các khoản mục điều chỉnh thu nhập chịu thuế: > Thu nhập từ góp vốn liên doanh mua cổ phần,Thu nhập từ góp vốn liên doanh mua cổ phần,-,2.875,,2875.0
+Cộng chi phí không được khấu trừ khi xác định lợi nhuận tính thuế:,Cộng chi phí không được khấu trừ khi xác định lợi nhuận tính thuế:,Cộng chi phí không được khấu trừ khi xác định lợi nhuận tính thuế:,-,-,,
+3. Thu nhập chịu thuế,Cộng chi phí không được khấu trừ khi xác định lợi nhuận tính thuế: > 3. Thu nhập chịu thuế,3. Thu nhập chịu thuế,13.548,4.598,13548.0,4598.0
+Thu nhập chịu thuế suất 20%,Cộng chi phí không được khấu trừ khi xác định lợi nhuận tính thuế: > Thu nhập chịu thuế suất 20%,Thu nhập chịu thuế suất 20%,13.548,1.443,13548.0,1443.0
+Thu nhập chịu thuế suất 22%,Cộng chi phí không được khấu trừ khi xác định lợi nhuận tính thuế: > Thu nhập chịu thuế suất 22%,Thu nhập chịu thuế suất 22%,,3.155,,3155.0
+4. Chi phí thuế TNDN tính trên thu nhập chịu thuế kỳ hiện hành,Cộng chi phí không được khấu trừ khi xác định lợi nhuận tính thuế: > 4. Chi phí thuế TNDN tính trên thu nhập chịu thuế kỳ hiện hành,4. Chi phí thuế TNDN tính trên thu nhập chịu thuế kỳ hiện hành,2.709,983,2709.0,983.0
+5. Điều chính chi phí thuế thu nhập doanh nghiệp của các năm trước vào chi phí thuế thu nhập hiện hành kỳ này,5. Điều chính chi phí thuế thu nhập doanh nghiệp của các năm trước vào chi phí thuế thu nhập hiện hành kỳ này,5. Điều chính chi phí thuế thu nhập doanh nghiệp của các năm trước vào chi phí thuế thu nhập hiện hành kỳ này,-,-,,
+6. Tổng chi phí thuế thu nhập doanh nghiệp hiện hành,5. Điều chính chi phí thuế thu nhập doanh nghiệp của các năm trước vào chi phí thuế thu nhập hiện hành kỳ này > 6. Tổng chi phí thuế thu nhập doanh nghiệp hiện hành,6. Tổng chi phí thuế thu nhập doanh nghiệp hiện hành,2.709,983,2709.0,983.0

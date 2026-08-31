@@ -1,0 +1,14 @@
+﻿row_label_raw,row_label_full,col_0,Số đầu năm,Số phải thu trong năm,Số đã bù trừ trong năm,Số cuối năm,numeric__Số đầu năm,numeric__Số phải thu trong năm,numeric__Số đã bù trừ trong năm,numeric__Số cuối năm
+Phải thu,Phải thu,Phải thu,Phải thu,Phải thu,Phải thu,Phải thu,,,,
+Thuế giá trị gia tăng được khấu trừ,Phải thu > Thuế giá trị gia tăng được khấu trừ,Thuế giá trị gia tăng được khấu trừ,18.084.712.728,75.487.874.033,(56.316.128.681),37.256.458.080,18084712728.0,75487874033.0,-56316128681.0,37256458080.0
+Thuế thu nhập doanh nghiệp,Phải thu > Thuế thu nhập doanh nghiệp,Thuế thu nhập doanh nghiệp,9.586.795.258,440.000.000,(636.274.860),9.390.520.398,9586795258.0,440000000.0,-636274860.0,9390520398.0
+Các loại thuế khác,Phải thu > Các loại thuế khác,Các loại thuế khác,229.861.066,718.574.523,(397.899.652),550.535.937,229861066.0,718574523.0,-397899652.0,550535937.0
+TỔNG CỘNG,Phải thu > TỔNG CỘNG,TỔNG CỘNG,27.901.369.052,76.646.448.556,(57.350.303.193),47.197.514.415,27901369052.0,76646448556.0,-57350303193.0,47197514415.0
+,,,Số đầu năm,Số phải nộp trong năm,Số đã nộp trong năm,Số cuối năm,,,,
+Phải nộp,Phải nộp,Phải nộp,Phải nộp,Phải nộp,Phải nộp,Phải nộp,,,,
+Thuế thu nhập doanh nghiệp,Phải nộp > Thuế thu nhập doanh nghiệp,Thuế thu nhập doanh nghiệp,194.955.581.555,217.875.788.334,(181.055.921.440),231.775.448.449,194955581555.0,217875788334.0,-181055921440.0,231775448449.0
+Thuế giá trị gia tăng,Phải nộp > Thuế giá trị gia tăng,Thuế giá trị gia tăng,59.415.003.064,131.697.993.690,(160.768.855.142),30.344.141.612,59415003064.0,131697993690.0,-160768855142.0,30344141612.0
+Thuế thu nhập cá nhân,Phải nộp > Thuế thu nhập cá nhân,Thuế thu nhập cá nhân,2.130.426.923,23.550.622.907,(24.516.506.323),1.164.543.507,2130426923.0,23550622907.0,-24516506323.0,1164543507.0
+Tiền đầu giá quyền sử dụng đất,Phải nộp > Tiền đầu giá quyền sử dụng đất,Tiền đầu giá quyền sử dụng đất,-,1.702.813.895.025,(1.136.926.919.025),565.886.976.000,,1702813895025.0,-1136926919025.0,565886976000.0
+Các loại thuế khác,Phải nộp > Các loại thuế khác,Các loại thuế khác,-,11.631.124.890,(5.131.604.166),6.499.520.724,,11631124890.0,-5131604166.0,6499520724.0
+TỔNG CỘNG,Phải nộp > TỔNG CỘNG,TỔNG CỘNG,256.501.011.542,2.087.569.424.846,(1.508.399.806.096),835.670.630.292,256501011542.0,2087569424846.0,-1508399806096.0,835670630292.0

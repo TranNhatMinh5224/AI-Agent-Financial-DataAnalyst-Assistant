@@ -1,0 +1,24 @@
+﻿row_label_raw,row_label_full,CHỈ TIÊU,Thuyết minh,31/12/2023,01/01/2023,numeric__Thuyết minh,numeric__31/12/2023,numeric__01/01/2023
+A. TÀI SẢN,A. TÀI SẢN,A. TÀI SẢN,A. TÀI SẢN,A. TÀI SẢN,A. TÀI SẢN,,,
+"I. Tiền mặt, vàng bạc, đá quý","A. TÀI SẢN > I. Tiền mặt, vàng bạc, đá quý","I. Tiền mặt, vàng bạc, đá quý",V.01,248.513,384.031,,248513.0,384031.0
+II. Tiền gửi tại Ngân hàng nhà nước,A. TÀI SẢN > II. Tiền gửi tại Ngân hàng nhà nước,II. Tiền gửi tại Ngân hàng nhà nước,V.02,2.287.057,3.749.729,,2287057.0,3749729.0
+III. Tiền gửi và cho vay các TCTD khác,A. TÀI SẢN > III. Tiền gửi và cho vay các TCTD khác,III. Tiền gửi và cho vay các TCTD khác,V.03,8.460.903,11.658.653,,8460903.0,11658653.0
+1 Tiền gửi tại các TCTD khác,A. TÀI SẢN > 1 Tiền gửi tại các TCTD khác,1 Tiền gửi tại các TCTD khác,,8 460 903,11.658.653,,,11658653.0
+2 Cho vay các TCTD khác,2 Cho vay các TCTD khác,2 Cho vay các TCTD khác,,-,-,,,
+3 Dư phòng rủi 10,3 Dư phòng rủi 10,3 Dư phòng rủi 10,,-,-,,,
+IV. Chứng khoán kinh doanh,IV. Chứng khoán kinh doanh,IV. Chứng khoán kinh doanh,,-,-,,,
+V. Các công cụ tài chính phải sinh và các tài sản tài chính khác,IV. Chứng khoán kinh doanh > V. Các công cụ tài chính phải sinh và các tài sản tài chính khác,V. Các công cụ tài chính phải sinh và các tài sản tài chính khác,,-,223.373,,,223373.0
+VI. Cho vay khách hàng,IV. Chứng khoán kinh doanh > VI. Cho vay khách hàng,VI. Cho vay khách hàng,,54.266.164,46.762.611,,54266164.0,46762611.0
+1 Cho vay khách hàng,1 Cho vay khách hàng,1 Cho vay khách hàng,V.04,55.344 259,47.722 273,,,
+2 Dư phòng rủi ro cho vay khách hàng,1 Cho vay khách hàng > 2 Dư phòng rủi ro cho vay khách hàng,2 Dư phòng rủi ro cho vay khách hàng,V.05,(1.078.095),(959 662),,-1078095.0,
+VII. Hoạt động mua nợ,VII. Hoạt động mua nợ,VII. Hoạt động mua nợ,,-,-,,,
+VIII. Chứng khoán đầu tư,VII. Hoạt động mua nợ > VIII. Chứng khoán đầu tư,VIII. Chứng khoán đầu tư,V.06,13.111.761,11.452.483,,13111761.0,11452483.0
+1 Chung khoán đầu tư sẵn sàng để bán,1 Chung khoán đầu tư sẵn sàng để bán,1 Chung khoán đầu tư sẵn sàng để bán,,7 736 856,5 934.530,,,
+2 Chung khoán đầu tư giữ đến ngày đào han,1 Chung khoán đầu tư sẵn sàng để bán > 2 Chung khoán đầu tư giữ đến ngày đào han,2 Chung khoán đầu tư giữ đến ngày đào han,,5.652.828,5 949 596,,5652828.0,
+3 Dư phòng rủi ro chứng khoan đầu tư,1 Chung khoán đầu tư sẵn sàng để bán > 3 Dư phòng rủi ro chứng khoan đầu tư,3 Dư phòng rủi ro chứng khoan đầu tư,,(277.923),(431 643),,-277923.0,
+"IX. Gốp vốn, đầu tư dài hạn","1 Chung khoán đầu tư sẵn sàng để bán > IX. Gốp vốn, đầu tư dài hạn","IX. Gốp vốn, đầu tư dài hạn",V.07,854.682,854.682,,854682.0,854682.0
+1 Đầu tư vao công ty con,1 Chung khoán đầu tư sẵn sàng để bán > 1 Đầu tư vao công ty con,1 Đầu tư vao công ty con,,200.000,200.000,,200000.0,200000.0
+2. Vốn góp liên doanh,2. Vốn góp liên doanh,2. Vốn góp liên doanh,,-,-,,,
+3 Đầu tư vào công ty liên kết,3 Đầu tư vào công ty liên kết,3 Đầu tư vào công ty liên kết,,-,-,,,
+4 Đầu tư dài han khác,3 Đầu tư vào công ty liên kết > 4 Đầu tư dài han khác,4 Đầu tư dài han khác,,719.600,719 600,,719600.0,
+5. Dự phòng giảm giá đầu tư dài han,3 Đầu tư vào công ty liên kết > 5. Dự phòng giảm giá đầu tư dài han,5. Dự phòng giảm giá đầu tư dài han,,(64.918),(64 918),,-64918.0,

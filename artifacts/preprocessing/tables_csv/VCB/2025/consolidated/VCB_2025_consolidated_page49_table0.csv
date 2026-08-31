@@ -1,0 +1,22 @@
+﻿row_label_raw,row_label_full,col_0,Quyền sử dụng đấtTriệu VND,Bản quyền và bằng sáng chếTriệu VND,Tài sản cố định vô hình khácTriệu VND,Tổng cộngTriệu VND,numeric__Quyền sử dụng đấtTriệu VND,numeric__Bản quyền và bằng sáng chếTriệu VND,numeric__Tài sản cố định vô hình khácTriệu VND,numeric__Tổng cộngTriệu VND
+Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,,,,
+Số dư đầu năm,Nguyên giá > Số dư đầu năm,Số dư đầu năm,2.504.834,2.479.388,88.513,5.072.735,2504834.0,2479388.0,88513.0,5072735.0
+Tăng trong năm,Nguyên giá > Tăng trong năm,Tăng trong năm,9.499,293.580,14,303.093,9499.0,293580.0,14.0,303093.0
+- Mua mới,Nguyên giá > - Mua mới,- Mua mới,9.499,212.111,-,221.610,9499.0,212111.0,,221610.0
+- Tăng khác,Nguyên giá > - Tăng khác,- Tăng khác,-,81.469,14,81.483,,81469.0,14.0,81483.0
+Giảm trong năm,Nguyên giá > Giảm trong năm,Giảm trong năm,-,(18.032),(72.984),(91.016),,-18032.0,-72984.0,-91016.0
+"- Thanh lý, nhượng bán","Nguyên giá > - Thanh lý, nhượng bán","- Thanh lý, nhượng bán",-,(18.032),-,(18.032),,-18032.0,,-18032.0
+- Giảm khác,Nguyên giá > - Giảm khác,- Giảm khác,-,-,(72.984),(72.984),,,-72984.0,-72984.0
+Số dư cuối năm,Nguyên giá > Số dư cuối năm,Số dư cuối năm,2.514.333,2.754.936,15.543,5.284.812,2514333.0,2754936.0,15543.0,5284812.0
+Hao mòn lũy kế,Hao mòn lũy kế,Hao mòn lũy kế,Hao mòn lũy kế,Hao mòn lũy kế,Hao mòn lũy kế,Hao mòn lũy kế,,,,
+Số dư đầu năm,Hao mòn lũy kế > Số dư đầu năm,Số dư đầu năm,163.290,2.294.980,52.167,2.510.437,163290.0,2294980.0,52167.0,2510437.0
+Tăng trong năm,Hao mòn lũy kế > Tăng trong năm,Tăng trong năm,84.360,213.245,5.595,303.200,84360.0,213245.0,5595.0,303200.0
+- Hao mòn,Hao mòn lũy kế > - Hao mòn,- Hao mòn,84.360,161.302,5.582,251.244,84360.0,161302.0,5582.0,251244.0
+- Tăng khác,Hao mòn lũy kế > - Tăng khác,- Tăng khác,-,51.943,13,51.956,,51943.0,13.0,51956.0
+Giảm trong năm,Hao mòn lũy kế > Giảm trong năm,Giảm trong năm,(33),(21.461),(51.850),(73.344),-33.0,-21461.0,-51850.0,-73344.0
+"- Thanh lý, nhượng bán","Hao mòn lũy kế > - Thanh lý, nhượng bán","- Thanh lý, nhượng bán",-,(18.032),-,(18.032),,-18032.0,,-18032.0
+- Giảm khác,Hao mòn lũy kế > - Giảm khác,- Giảm khác,(33),(3.429),(51.850),(55.312),-33.0,-3429.0,-51850.0,-55312.0
+Số dư cuối năm,Hao mòn lũy kế > Số dư cuối năm,Số dư cuối năm,247.617,2.486.764,5.912,2.740.293,247617.0,2486764.0,5912.0,2740293.0
+Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,,,,
+Số dư đầu năm,Giá trị còn lại > Số dư đầu năm,Số dư đầu năm,2.341.544,184.408,36.346,2.562.298,2341544.0,184408.0,36346.0,2562298.0
+Số dư cuối năm,Giá trị còn lại > Số dư cuối năm,Số dư cuối năm,2.266.716,268.172,9.631,2.544.519,2266716.0,268172.0,9631.0,2544519.0

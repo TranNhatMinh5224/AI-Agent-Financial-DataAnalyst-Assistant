@@ -1,0 +1,25 @@
+﻿row_label_raw,row_label_full,col_0,col_1,Thuyết minh,31/12/2021Triệu VND,31/12/2020Triệu VND,numeric__col_1,numeric__Thuyết minh,numeric__31/12/2021Triệu VND,numeric__31/12/2020Triệu VND
+B,B,B,NỘ PHẢI TRẢ VÀ VỐN CHỦ SỞ HỮUNỘ PHẢI TRẢ,,,,,,,
+I,B > I,I,Các khoản nợ Chính phủ và Ngân hàng Nhà nước Việt Nam,17,996,1.254,,17.0,996.0,1254.0
+II,B > II,II,Tiền gửi và vay các tổ chức tín dụng khác,18,15.622.295,19.087.757,,18.0,15622295.0,19087757.0
+1,B > 1,1,Tiền gửi của các tổ chức tín dụng khác,,13.071.047,13.256.856,,,13071047.0,13256856.0
+2,B > 2,2,Vay các tổ chức tín dụng khác,,2.551.248,5.830.901,,,2551248.0,5830901.0
+III,B > III,III,Tiền gửi của khách hàng,19,115.319.388,98.254.031,,19.0,115319388.0,98254031.0
+IV,B > IV,IV,Các công cụ tài chính phải sinh và các khoản nợ phải trả tài chính khác,20,3.112,5.571,,20.0,3112.0,5571.0
+V,B > V,V,"Vốn tài trợ, ủy thác đầu tư, cho vay tổ chức tín dụng chịu rủi ro",21,464.623,472.367,,21.0,464623.0,472367.0
+VI,B > VI,VI,Phát hành giấy tờ có giá,22,10.360.103,6.957.313,,22.0,10360103.0,6957313.0
+VII,B > VII,VII,Các khoản nợ khác,23,3.442.147,2.938.132,,23.0,3442147.0,2938132.0
+1,B > 1,1,"Các khoản lãi, phí phải trả",,2.371.244,2.409.958,,,2371244.0,2409958.0
+3,B > 3,3,Các khoản phải trả và công nợ khác,,1.070.903,528.174,,,1070903.0,528174.0
+,,,TỔNG NỘ PHẢI TRẢ,,145.212.664,127.716.425,,,145212664.0,127716425.0
+,,,VỐN CHỦ SỞ HỮU,,,,,,,
+VIII,B > VIII,VIII,Vốn chủ sở hữu,25,8.024.842,6.598.770,,25.0,8024842.0,6598770.0
+1,B > 1,1,Vốn của tổ chức tín dụng,,5.305.711,4.735.774,,,5305711.0,4735774.0
+a,B > a,a,Vốn điều lệ,,5.134.405,4.564.468,,,5134405.0,4564468.0
+b,B > b,b,"Vốn đầu tư xây dựng cơ bản, mua sắm tài sản cố định",,10,10,,,10.0,10.0
+c,B > c,c,Thặng dư vốn cổ phần,,171.271,171.271,,,171271.0,171271.0
+g,B > g,g,Vốn khác,,25,25,,,25.0,25.0
+2,B > 2,2,Các quỹ,,777.795,561.281,,,777795.0,561281.0
+5,B > 5,5,Lợi nhuận chưa phân phối,,1.941.336,1.301.715,,,1941336.0,1301715.0
+,,,TỔNG VỐN CHỦ SỞ HỮU,,8.024.842,6.598.770,,,8024842.0,6598770.0
+,,,TỔNG NỘ PHẢI TRẢ VÀ VỐN CHỦ SỞ HỮU,,153.237.506,134.315.195,,,153237506.0,134315195.0

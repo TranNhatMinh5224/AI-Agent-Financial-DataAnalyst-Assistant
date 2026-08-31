@@ -1,0 +1,16 @@
+﻿row_label_raw,row_label_full,Related Party,Nature of transactions,2023VND'000,2022VND'000,numeric__Nature of transactions,numeric__2023VND'000,numeric__2022VND'000
+Ultimate parent company,Ultimate parent company,Ultimate parent company,Ultimate parent company,Ultimate parent company,Ultimate parent company,,,
+Masan GroupCorporation(“MSN”),Masan GroupCorporation(“MSN”),Masan GroupCorporation(“MSN”),Borrowings received,"842,500,000","797,240,000",,,
+Masan GroupCorporation(“MSN”),Masan GroupCorporation(“MSN”),Masan GroupCorporation(“MSN”),Borrowings repaid,"423,240,000","181,676,000",,,
+Masan GroupCorporation(“MSN”),Masan GroupCorporation(“MSN”),Masan GroupCorporation(“MSN”),Borrowings interest expense,"83,193,934","26,195,625",,,
+Masan GroupCorporation(“MSN”),Masan GroupCorporation(“MSN”),Masan GroupCorporation(“MSN”),Purchase of services,"1,055,783","3,724,293",,,
+High-level parent company,High-level parent company,High-level parent company,High-level parent company,High-level parent company,High-level parent company,,,
+Zenith InvestmentCompany Limited,Zenith InvestmentCompany Limited,Zenith InvestmentCompany Limited,Bond interest (i),"3,895,890",-,,,
+Immediate parent company,Immediate parent company,Immediate parent company,Immediate parent company,Immediate parent company,Immediate parent company,,,
+Masan HorizonCompany Limited(“MH”),Masan HorizonCompany Limited(“MH”),Masan HorizonCompany Limited(“MH”),Borrowings received,"501,000,000",-,,,
+Masan HorizonCompany Limited(“MH”),Masan HorizonCompany Limited(“MH”),Masan HorizonCompany Limited(“MH”),Borrowings repaid,"41,000,000",-,,,
+Masan HorizonCompany Limited(“MH”),Masan HorizonCompany Limited(“MH”),Masan HorizonCompany Limited(“MH”),Interest expense,"20,200,548",-,,,
+Masan HorizonCompany Limited(“MH”),Masan HorizonCompany Limited(“MH”) > Masan HorizonCompany Limited(“MH”),Masan HorizonCompany Limited(“MH”),Bond interest (i),"99,621,488","508,059",,,508.059
+Ultimate parent company’s subsidiaries,Ultimate parent company’s subsidiaries,Ultimate parent company’s subsidiaries,Ultimate parent company’s subsidiaries,Ultimate parent company’s subsidiaries,Ultimate parent company’s subsidiaries,,,
+Masan ConsumerCorporation,Masan ConsumerCorporation,Masan ConsumerCorporation,Purchase of goods,"1,227,248","1,351,022",,,
+Masan ConsumerCorporation,Masan ConsumerCorporation > Masan ConsumerCorporation,Masan ConsumerCorporation,Purchase of services,"122,030","122,030",,122.03,122.03

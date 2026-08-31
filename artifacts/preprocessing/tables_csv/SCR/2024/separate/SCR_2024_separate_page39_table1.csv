@@ -1,0 +1,10 @@
+﻿row_label_raw,row_label_full,col_0,01/01/2024,Số phải nộp trong năm,Số đã thực nộp trong năm,31/12/2024,numeric__01/01/2024,numeric__Số phải nộp trong năm,numeric__Số đã thực nộp trong năm,numeric__31/12/2024
+a. Phải nộp,a. Phải nộp,a. Phải nộp,a. Phải nộp,a. Phải nộp,a. Phải nộp,a. Phải nộp,,,,
+Thuế giá trị gia tăng,a. Phải nộp > Thuế giá trị gia tăng,Thuế giá trị gia tăng,1.213.949.060,1.141.508.905,872.516.270,1.482.941.695,1213949060.0,1141508905.0,872516270.0,1482941695.0
+Thuế thu nhập doanh nghiệp,a. Phải nộp > Thuế thu nhập doanh nghiệp,Thuế thu nhập doanh nghiệp,-,15.548.466.308,954.248.041,14.594.218.267,,15548466308.0,954248041.0,14594218267.0
+Thuế thu nhập cá nhân,a. Phải nộp > Thuế thu nhập cá nhân,Thuế thu nhập cá nhân,3.716.575.796,7.309.009.354,9.505.857.905,1.519.727.245,3716575796.0,7309009354.0,9505857905.0,1519727245.0
+Các loại thuế khác,a. Phải nộp > Các loại thuế khác,Các loại thuế khác,564.337.890,3.755.617.820,4.247.184.293,72.771.417,564337890.0,3755617820.0,4247184293.0,72771417.0
+Cộng,a. Phải nộp > Cộng,Cộng,5.494.862.746,27.754.602.387,15.579.806.509,17.669.658.624,5494862746.0,27754602387.0,15579806509.0,17669658624.0
+b. Khấu trừ,b. Khấu trừ,b. Khấu trừ,01/01/2024,Tăng trong năm,Giảm trong năm,31/12/2024,,,,
+Thuế giá trị gia tăng,b. Khấu trừ > Thuế giá trị gia tăng,Thuế giá trị gia tăng,108.179.476.029,20.341.085.386,40.945.633.436,87.574.927.979,108179476029.0,20341085386.0,40945633436.0,87574927979.0
+Cộng,b. Khấu trừ > Cộng,Cộng,108.179.476.029,20.341.085.386,40.945.633.436,87.574.927.979,108179476029.0,20341085386.0,40945633436.0,87574927979.0

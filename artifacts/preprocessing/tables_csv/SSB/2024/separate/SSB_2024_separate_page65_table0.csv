@@ -1,0 +1,17 @@
+﻿row_label_raw,row_label_full,Tại ngày 31/12/2024,EURquy đổiTriệu VND,USDquy đổiTriệu VND,Ngoại tệ khácquy đổiTriệu VND,Tổng cộngTriệu VND,numeric__EURquy đổiTriệu VND,numeric__USDquy đổiTriệu VND,numeric__Ngoại tệ khácquy đổiTriệu VND,numeric__Tổng cộngTriệu VND
+Tài sản,Tài sản,Tài sản,,,,,,,,
+Tiền mặt và vàng,Tài sản > Tiền mặt và vàng,Tiền mặt và vàng,25.754,103.804,15.131,144.689,25754.0,103804.0,15131.0,144689.0
+Tiền gửi tại NHNNVN,Tài sản > Tiền gửi tại NHNNVN,Tiền gửi tại NHNNVN,-,377.159,-,377.159,,377159.0,,377159.0
+Tiền gửi và cho vay các TCTDkhác – gộp,Tài sản > Tiền gửi và cho vay các TCTDkhác – gộp,Tiền gửi và cho vay các TCTDkhác – gộp,17.516,19.767.638,146.239,19.931.393,17516.0,19767638.0,146239.0,19931393.0
+Cho vay khách hàng – gộp,Tài sản > Cho vay khách hàng – gộp,Cho vay khách hàng – gộp,-,5.541.745,-,5.541.745,,5541745.0,,5541745.0
+Tài sản Có khác – gộp,Tài sản > Tài sản Có khác – gộp,Tài sản Có khác – gộp,400,75.662,-,76.062,400.0,75662.0,,76062.0
+Tổng tài sản (1),Tài sản > Tổng tài sản (1),Tổng tài sản (1),43.670,25.866.008,161.370,26.071.048,43670.0,25866008.0,161370.0,26071048.0
+Nợ phải trả,Nợ phải trả,Nợ phải trả,,,,,,,,
+Tiền gửi và vay các TCTD khác,Nợ phải trả > Tiền gửi và vay các TCTD khác,Tiền gửi và vay các TCTD khác,-,20.908.593,-,20.908.593,,20908593.0,,20908593.0
+Tiền gửi của khách hàng,Nợ phải trả > Tiền gửi của khách hàng,Tiền gửi của khách hàng,39.791,1.618.827,102.113,1.760.731,39791.0,1618827.0,102113.0,1760731.0
+Công cụ tài chính phải sinh vàcác khoản nợ tài chính khác,Nợ phải trả > Công cụ tài chính phải sinh vàcác khoản nợ tài chính khác,Công cụ tài chính phải sinh vàcác khoản nợ tài chính khác,-,2.199.608,31.728,2.231.336,,2199608.0,31728.0,2231336.0
+Các khoản nợ khác,Nợ phải trả > Các khoản nợ khác,Các khoản nợ khác,112,393.889,6,394.007,112.0,393889.0,6.0,394007.0
+Tổng nợ phải trả (2),Nợ phải trả > Tổng nợ phải trả (2),Tổng nợ phải trả (2),39.903,25.120.917,133.847,25.294.667,39903.0,25120917.0,133847.0,25294667.0
+Trạng thái tiền tệ nội bằng(3) = (1) – (2),Nợ phải trả > Trạng thái tiền tệ nội bằng(3) = (1) – (2),Trạng thái tiền tệ nội bằng(3) = (1) – (2),3.767,745.091,27.523,776.381,3767.0,745091.0,27523.0,776381.0
+Trạng thái tiền tệ ngoại bằng (4),Nợ phải trả > Trạng thái tiền tệ ngoại bằng (4),Trạng thái tiền tệ ngoại bằng (4),-,(508.020),-,(508.020),,-508020.0,,-508020.0
+"Trạng thái tiền tệ nội,ngoại bằng (5) = (3) + (4)","Nợ phải trả > Trạng thái tiền tệ nội,ngoại bằng (5) = (3) + (4)","Trạng thái tiền tệ nội,ngoại bằng (5) = (3) + (4)",3.767,237.071,27.523,268.361,3767.0,237071.0,27523.0,268361.0

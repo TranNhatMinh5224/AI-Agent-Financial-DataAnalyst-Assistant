@@ -1,0 +1,10 @@
+﻿row_label_raw,row_label_full,Tên,31/12/2024,31/12/2024_1,31/12/2024_2,31/12/2023,31/12/2023_1,31/12/2023_2,numeric__31/12/2024,numeric__31/12/2024_1,numeric__31/12/2024_2,numeric__31/12/2023,numeric__31/12/2023_1,numeric__31/12/2023_2
+Tên,Tên,Tên,Giá gốc,Dự phòng,Tỷ lệ phần vốn (%),Giá gốc,Dự phòng,Tỷ lệ phần vốn (%),,,,,,
+Đầu tư vào công ty con,Tên > Đầu tư vào công ty con,Đầu tư vào công ty con,200.000,-,,200.000,-,,200000.0,,,200000.0,,
+Công ty TNHH Quản lý và Khai thác TS,Tên > Công ty TNHH Quản lý và Khai thác TS,Công ty TNHH Quản lý và Khai thác TS,200.000,-,"100,00%",200.000,-,"100,00%",200000.0,,1.0,200000.0,,1.0
+Đầu tư dài hạn khác,Tên > Đầu tư dài hạn khác,Đầu tư dài hạn khác,719.600,(348.356),,719.600,(64.918),,719600.0,-348356.0,,719600.0,-64918.0,
+Công ty CP Khoáng sản Sài Gòn - Quy Nhơn (i),Tên > Công ty CP Khoáng sản Sài Gòn - Quy Nhơn (i),Công ty CP Khoáng sản Sài Gòn - Quy Nhơn (i),273.700,(211.560),"3,18%",273.700,(18.367),"3,18%",273700.0,-211560.0,0.0318,273700.0,-18367.0,0.0318
+Công ty CP Đầu tư Sài Gòn (ii),Tên > Công ty CP Đầu tư Sài Gòn (ii),Công ty CP Đầu tư Sài Gòn (ii),338.200,(46.796),"11,00%",338.200,(46.551),"11,00%",338200.0,-46796.0,0.11,338200.0,-46551.0,0.11
+Công ty CP Chứng khoán Navibank (iii),Tên > Công ty CP Chứng khoán Navibank (iii),Công ty CP Chứng khoán Navibank (iii),17.700,-,"7,02%",17.700,-,"7,02%",17700.0,,0.0702,17700.0,,0.0702
+Công ty CP Đầu tư Phát triển nhà máy điện Sài Gòn - Bình Thuận (iv),Tên > Công ty CP Đầu tư Phát triển nhà máy điện Sài Gòn - Bình Thuận (iv),Công ty CP Đầu tư Phát triển nhà máy điện Sài Gòn - Bình Thuận (iv),90.000,(90.000),"9,00%",90.000,-,"9,00%",90000.0,-90000.0,0.09,90000.0,,0.09
+Tổng cộng,Tên > Tổng cộng,Tổng cộng,919.600,(348.356),,919.600,(64.918),,919600.0,-348356.0,,919600.0,-64918.0,

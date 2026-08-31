@@ -1,0 +1,6 @@
+﻿row_label_raw,row_label_full,Chi tiêu,Số dư đầu kỳ,Phát sinh trong kỳ,Phát sinh trong kỳ_1,Số dư cuối kỳ,numeric__Số dư đầu kỳ,numeric__Phát sinh trong kỳ,numeric__Phát sinh trong kỳ_1,numeric__Số dư cuối kỳ
+Chi tiêu,Chi tiêu,Chi tiêu,Số dư đầu kỳ,Số phải nộp,Số đã nộp,Số dư cuối kỳ,,,,
+1. Thuế GTGT,Chi tiêu > 1. Thuế GTGT,1. Thuế GTGT,758,7.715,7.347,1.126,758.0,7715.0,7347.0,1126.0
+2. Thuế TNDN,Chi tiêu > 2. Thuế TNDN,2. Thuế TNDN,(30.209),2.709,288,(27.788),-30209.0,2709.0,288.0,-27788.0
+3. Các loại thuế khác,Chi tiêu > 3. Các loại thuế khác,3. Các loại thuế khác,367,13.368,13.348,388,367.0,13368.0,13348.0,388.0
+Tổng cộng,Chi tiêu > Tổng cộng,Tổng cộng,(29.084),23.792,20.983,(26.276),-29084.0,23792.0,20983.0,-26276.0

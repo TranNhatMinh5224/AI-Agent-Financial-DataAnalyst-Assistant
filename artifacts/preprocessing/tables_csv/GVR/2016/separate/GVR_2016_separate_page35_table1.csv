@@ -1,0 +1,14 @@
+﻿row_label_raw,row_label_full,Tình trạng hồ sơ,Số hồ sơ,Số dư nợ,Số dư nợ_1,numeric__Số hồ sơ,numeric__Số dư nợ,numeric__Số dư nợ_1
+Tình trạng hồ sơ,Tình trạng hồ sơ,Tình trạng hồ sơ,Số hồ sơ,Nợ gốc,Nợ lãi,,,
+,,,,VND,VND,,,
+"Hồ sơ đã chuyển Tòa án, thi hành án","Tình trạng hồ sơ > Hồ sơ đã chuyển Tòa án, thi hành án","Hồ sơ đã chuyển Tòa án, thi hành án",145,317.631.664.967,399.641.949.123,145.0,317631664967.0,399641949123.0
+- Hồ sơ đã có bản án có hiệu lực,Tình trạng hồ sơ > - Hồ sơ đã có bản án có hiệu lực,- Hồ sơ đã có bản án có hiệu lực,115,205.991.607.893,274.156.807.772,115.0,205991607893.0,274156807772.0
++ Hồ sơ trong giai đoạn tự nguyện trả nợ,Tình trạng hồ sơ > + Hồ sơ trong giai đoạn tự nguyện trả nợ,+ Hồ sơ trong giai đoạn tự nguyện trả nợ,10,26.516.675.000,30.089.962.114,10.0,26516675000.0,30089962114.0
++ Hồ sơ đã chuyển qua cơ quan thi hành án,Tình trạng hồ sơ > + Hồ sơ đã chuyển qua cơ quan thi hành án,+ Hồ sơ đã chuyển qua cơ quan thi hành án,99,179.474.932.893,241.329.824.880,99.0,179474932893.0,241329824880.0
++ Hồ sơ theo dõi tiếp tục thu lãi,Tình trạng hồ sơ > + Hồ sơ theo dõi tiếp tục thu lãi,+ Hồ sơ theo dõi tiếp tục thu lãi,6,-,2.737.020.778,6.0,,2737020778.0
+- Hồ sơ khởi kiện đang trong giai đoạn tại tòa,Tình trạng hồ sơ > - Hồ sơ khởi kiện đang trong giai đoạn tại tòa,- Hồ sơ khởi kiện đang trong giai đoạn tại tòa,30,110.304.306.859,126.337.328.426,30.0,110304306859.0,126337328426.0
+"Hồ sơ trả nợ theo tiến độ, kế hoạch","Tình trạng hồ sơ > Hồ sơ trả nợ theo tiến độ, kế hoạch","Hồ sơ trả nợ theo tiến độ, kế hoạch",13,30.215.953.814,88.301.419.797,13.0,30215953814.0,88301419797.0
+Hồ sơ của đối tượng Trần Quốc Hoàng dang được xét xử (*),Tình trạng hồ sơ > Hồ sơ của đối tượng Trần Quốc Hoàng dang được xét xử (*),Hồ sơ của đối tượng Trần Quốc Hoàng dang được xét xử (*),21,45.246.640.000,49.599.313.308,21.0,45246640000.0,49599313308.0
+Hồ sơ đã chuyển qua cơ quan điều tra,Tình trạng hồ sơ > Hồ sơ đã chuyển qua cơ quan điều tra,Hồ sơ đã chuyển qua cơ quan điều tra,54,770.761.166.102,833.853.845.991,54.0,770761166102.0,833853845991.0
+Hồ sơ tiếp tục truy tìm tài sản,Tình trạng hồ sơ > Hồ sơ tiếp tục truy tìm tài sản,Hồ sơ tiếp tục truy tìm tài sản,2,712.744.313,3.653.842.471,2.0,712744313.0,3653842471.0
+,,,235,1.164.568.169.196,1.375.050.370.690,235.0,1164568169196.0,1375050370690.0

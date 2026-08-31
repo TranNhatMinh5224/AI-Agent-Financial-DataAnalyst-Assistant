@@ -1,0 +1,24 @@
+﻿row_label_raw,row_label_full,col_0,Mã số,Thuyết minh,31/12/2015 VND,1/1/2015 VND Đã điều chỉnh lại,numeric__Mã số,numeric__Thuyết minh,numeric__31/12/2015 VND,numeric__1/1/2015 VND Đã điều chỉnh lại
+NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,,,,
+NỘ PHẢI TRẢ (300 = 310 + 330),NGUỒN VỐN > NỘ PHẢI TRẢ (300 = 310 + 330),NỘ PHẢI TRẢ (300 = 310 + 330),300,,11.477.592.278.042,11.248.352.474.702,300.0,,11477592278042.0,11248352474702.0
+Nợ ngắn hạn,NGUỒN VỐN > Nợ ngắn hạn,Nợ ngắn hạn,310,,6.841.976.024.142,7.222.785.807.932,310.0,,6841976024142.0,7222785807932.0
+Phải trả người bán ngắn hạn,NGUỒN VỐN > Phải trả người bán ngắn hạn,Phải trả người bán ngắn hạn,311,23,1.203.491.557.996,1.331.463.029.833,311.0,23.0,1203491557996.0,1331463029833.0
+Người mua trả tiền trước ngắn hạn,NGUỒN VỐN > Người mua trả tiền trước ngắn hạn,Người mua trả tiền trước ngắn hạn,312,,72.828.899.328,56.575.343.418,312.0,,72828899328.0,56575343418.0
+Thuế và các khoản phải nộp Nhà nước,NGUỒN VỐN > Thuế và các khoản phải nộp Nhà nước,Thuế và các khoản phải nộp Nhà nước,313,24(b),101.968.149.707,97.165.934.654,313.0,,101968149707.0,97165934654.0
+Phải trả người lao động,NGUỒN VỐN > Phải trả người lao động,Phải trả người lao động,314,,561.035.504.008,499.716.279.125,314.0,,561035504008.0,499716279125.0
+Chi phí phải trả ngắn hạn,NGUỒN VỐN > Chi phí phải trả ngắn hạn,Chi phí phải trả ngắn hạn,315,25(a),188.889.816.832,183.044.476.856,315.0,,188889816832.0,183044476856.0
+Doanh thu chưa thực hiện ngắn hạn,NGUỒN VỐN > Doanh thu chưa thực hiện ngắn hạn,Doanh thu chưa thực hiện ngắn hạn,318,26(a),6.833.858.515,9.495.875.465,318.0,,6833858515.0,9495875465.0
+Phải trả ngắn hạn khác,NGUỒN VỐN > Phải trả ngắn hạn khác,Phải trả ngắn hạn khác,319,27(a),684.215.591.558,1.013.600.912.606,319.0,,684215591558.0,1013600912606.0
+Vay và nợ thuê tài chính ngắn hạn,NGUỒN VỐN > Vay và nợ thuê tài chính ngắn hạn,Vay và nợ thuê tài chính ngắn hạn,320,28(a),3.884.716.676.655,3.901.269.718.972,320.0,,3884716676655.0,3901269718972.0
+Dự phòng phải trả ngắn hạn,NGUỒN VỐN > Dự phòng phải trả ngắn hạn,Dự phòng phải trả ngắn hạn,321,29,4.717.381.547,1.063.781.893,321.0,29.0,4717381547.0,1063781893.0
+"Quỹ khen thưởng, phúc lợi","NGUỒN VỐN > Quỹ khen thưởng, phúc lợi","Quỹ khen thưởng, phúc lợi",322,30,133.278.587.996,129.390.455.110,322.0,30.0,133278587996.0,129390455110.0
+Nợ dài hạn,NGUỒN VỐN > Nợ dài hạn,Nợ dài hạn,330,,4.635.616.253.900,4.025.566.666.770,330.0,,4635616253900.0,4025566666770.0
+Phải trả người bán dài hạn,NGUỒN VỐN > Phải trả người bán dài hạn,Phải trả người bán dài hạn,331,23,21.780.241.292,28.388.184.613,331.0,23.0,21780241292.0,28388184613.0
+Người mua trả tiền trước dài hạn,NGUỒN VỐN > Người mua trả tiền trước dài hạn,Người mua trả tiền trước dài hạn,332,,33.983.303.750,-,332.0,,33983303750.0,
+Chi phí phải trả dài hạn,NGUỒN VỐN > Chi phí phải trả dài hạn,Chi phí phải trả dài hạn,333,25(b),28.794.411.822,28.460.160.000,333.0,,28794411822.0,28460160000.0
+Doanh thu chưa thực hiện dài hạn,NGUỒN VỐN > Doanh thu chưa thực hiện dài hạn,Doanh thu chưa thực hiện dài hạn,336,26(b),110.715.995.720,74.452.964.030,336.0,,110715995720.0,74452964030.0
+Phải trả dài hạn khác,NGUỒN VỐN > Phải trả dài hạn khác,Phải trả dài hạn khác,337,27(b),55.439.098.840,506.989.812.546,337.0,,55439098840.0,506989812546.0
+"Vay, trái phiếu phát hành và nợ thuê tài chính dài hạn","NGUỒN VỐN > Vay, trái phiếu phát hành và nợ thuê tài chính dài hạn","Vay, trái phiếu phát hành và nợ thuê tài chính dài hạn",338,28(b),4.221.370.382.990,3.240.084.045.057,338.0,,4221370382990.0,3240084045057.0
+Thuế thu nhập hoãn lại phải trả,NGUỒN VỐN > Thuế thu nhập hoãn lại phải trả,Thuế thu nhập hoãn lại phải trả,341,21,46.007.444.456,26.250.970.855,341.0,21.0,46007444456.0,26250970855.0
+Dự phòng phải trả dài hạn,NGUỒN VỐN > Dự phòng phải trả dài hạn,Dự phòng phải trả dài hạn,342,29,117.290.115.751,119.291.005.625,342.0,29.0,117290115751.0,119291005625.0
+Quỹ phát triển khoa học và công nghệ,NGUỒN VỐN > Quỹ phát triển khoa học và công nghệ,Quỹ phát triển khoa học và công nghệ,343,,235.259.279,1.649.524.044,343.0,,235259279.0,1649524044.0

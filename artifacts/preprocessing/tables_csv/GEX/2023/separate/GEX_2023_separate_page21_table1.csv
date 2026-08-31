@@ -1,0 +1,5 @@
+﻿row_label_raw,row_label_full,STT,Tên công ty con,Trụ sở chính,Tỷ lệ phần sở hữu (%),Tỷ lệ quyền biểu quyết (%),Hoạt động chính,numeric__Tên công ty con,numeric__Trụ sở chính,numeric__Tỷ lệ phần sở hữu (%),numeric__Tỷ lệ quyền biểu quyết (%),numeric__Hoạt động chính
+1.,1.,1.,"Công ty TNHH Điện cơ Hà Nội (""HECO"")",Thành phố Hồ Chí Minh,"100,00%","100,00%",Sản xuất và kinh doanh sản phẩm ngành điện,,,1.0,1.0,
+2.,2.,2.,"Công ty TNHH Sản xuất Thiết bị lưới điện G-Power (""G-Power"")",Hà Nội,"100,00%","100,00%","Sản xuất mô tơ, máy phát, biến thể điện, thiết bị phân phối và điều khiển điện",,,1.0,1.0,
+STT,STT,STT,Tên công ty liên kết,Trụ sở chính,Tỷ lệ phần sở hữu (%),Tỷ lệ quyền biểu quyết (%),Hoạt động chính,,,,,
+1.,STT > 1.,1.,Công ty TNHH S.A.S - CTAMAD,Hà Nội,"35,00%","35,00%",Kinh doanh khách sạn và cho thuê văn phòng,,,0.35,0.35,

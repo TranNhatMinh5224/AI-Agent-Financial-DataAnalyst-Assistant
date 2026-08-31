@@ -1,0 +1,16 @@
+﻿row_label_raw,row_label_full,ITEMS,Notes,Beginning balance,Beginning balance_1,Increase/Decrease,Increase/Decrease_1,Increase/Decrease_2,Increase/Decrease_3,Ending balance,Ending balance_1,numeric__Notes,numeric__Beginning balance,numeric__Beginning balance_1,numeric__Increase/Decrease,numeric__Increase/Decrease_1,numeric__Increase/Decrease_2,numeric__Increase/Decrease_3,numeric__Ending balance,numeric__Ending balance_1
+ITEMS,ITEMS,ITEMS,Notes,01 January 2023,01 January 2024,Previous year,Previous year,Current year,Current year,31 December 2023,31 December 2024,,,,,,,,,
+ITEMS,ITEMS,ITEMS,Notes,01 January 2023,01 January 2024,Increase,Decrease,Increase,Decrease,31 December 2023,31 December 2024,,,,,,,,,
+ITEMS,ITEMS,ITEMS,Notes,VND,VND,VND,VND,VND,VND,VND,VND,,,,,,,,,
+A,ITEMS > A,A,B,1,2,3,4,5,6,7,8,,1.0,2.0,3.0,4.0,5.0,6.0,7.0,8.0
+I.CHANGES IN OWNERS' EQUITY,I.CHANGES IN OWNERS' EQUITY,I.CHANGES IN OWNERS' EQUITY,,,,,,,,,,,,,,,,,,
+1. Share capital,1. Share capital,1. Share capital,,"18,191,406,836,235","18,291,394,836,235","100,000,000,000","(12,000,000)","5,381,907,145,000","(2,960,236,887,127)","18,291,394,836,235","20,713,065,094,108",,,,,,,,,
+1.1. Ordinary share,1.1. Ordinary share,1.1. Ordinary share,,"14,911,301,370,000","15,011,301,370,000","100,000,000,000",-,"4,627,337,810,000",-,"15,011,301,370,000","19,638,639,180,000",,,,,,,,,
+1.2. Share premium,1.2. Share premium,1.2. Share premium,,"3,299,220,472,644","3,299,208,472,644",-,"(12,000,000)","754,569,335,000","(2,960,236,887,127)","3,299,208,472,644","1,093,540,920,517",,,,,,,,,
+1.3. Treasury share,1.3. Treasury share,1.3. Treasury share,,"(19,115,006,409)","(19,115,006,409)",-,-,-,-,"(19,115,006,409)","(19,115,006,409)",,,,,,,,,
+2. Charter capital supplementary reserve,2. Charter capital supplementary reserve,2. Charter capital supplementary reserve,,"58,252,419,507","58,252,419,507",-,-,-,"(58,252,419,507)","58,252,419,507",-,,,,,,,,,
+3. Difference from revaluation of financial assets at fair value,3. Difference from revaluation of financial assets at fair value,3. Difference from revaluation of financial assets at fair value,,"(6,286,385,840)","(3,793,033,106)","38,110,659,605","(35,617,306,871)",-,-,"(3,793,033,106)","(3,793,033,106)",,,,,,,,,
+4. Undistributed profit,4. Undistributed profit,4. Undistributed profit,,"3,615,810,844,894","4,238,605,402,631","2,463,208,594,761","(1,840,414,037,024)","3,339,817,953,038","(2,320,423,303,940)","4,238,605,402,631","5,258,000,051,729",,,,,,,,,
+4.1. Realized profit,4.1. Realized profit,4.1. Realized profit,,"3,741,204,302,563","4,308,154,387,375","2,119,481,684,033","(1,552,531,599,221)","2,794,759,775,438","(1,664,248,807,333)","4,308,154,387,375","5,438,665,355,480",,,,,,,,,
+4.2. Unrealized profit,4.2. Unrealized profit,4.2. Unrealized profit,,"(125,393,457,669)","(69,548,984,744)","343,726,910,728","(287,882,437,803)","545,058,177,600","(656,174,496,607)","(69,548,984,744)","(180,665,303,751)",,,,,,,,,
+TOTAL,4.2. Unrealized profit > TOTAL,TOTAL,27,"21,859,183,714,796","22,584,459,625,267","2,601,319,254,366","(1,876,043,343,895)","8,721,725,098,038","(5,338,912,610,574)","22,584,459,625,267","25,967,272,112,731",27.0,,,,,,,,

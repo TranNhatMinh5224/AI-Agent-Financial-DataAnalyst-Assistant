@@ -1,0 +1,21 @@
+﻿row_label_raw,row_label_full,Tại ngày 31 tháng 12 năm 2019(Triệu VND),Quá hạn > Trên 3tháng,Quá hạn > Dưới 3tháng,Quá hạn > Đến 1 tháng,Trong hạn > Từ 1 đến3 tháng,Trong hạn > Từ 3 đến12 tháng,Trong hạn > Từ 1 đến5 năm,Trong hạn > Trên 5 năm,Trong hạn > Tổng cộng,numeric__Quá hạn > Trên 3tháng,numeric__Quá hạn > Dưới 3tháng,numeric__Quá hạn > Đến 1 tháng,numeric__Trong hạn > Từ 1 đến3 tháng,numeric__Trong hạn > Từ 3 đến12 tháng,numeric__Trong hạn > Từ 1 đến5 năm,numeric__Trong hạn > Trên 5 năm,numeric__Trong hạn > Tổng cộng
+Tải sản,Tải sản,Tải sản,,,,,,,,,,,,,,,,
+Tiền mặt và vàng,Tải sản > Tiền mặt và vàng,Tiền mặt và vàng,-,-,1.289.961,-,-,-,-,1.289.961,,,1289961.0,,,,,1289961.0
+Tiền gửi tại Ngân hàng Nhà nước,Tải sản > Tiền gửi tại Ngân hàng Nhà nước,Tiền gửi tại Ngân hàng Nhà nước,-,-,3.231.775,-,-,-,-,3.231.775,,,3231775.0,,,,,3231775.0
+Tiền gửi và cho vay các TCTD khác,Tải sản > Tiền gửi và cho vay các TCTD khác,Tiền gửi và cho vay các TCTD khác,-,-,18.461.047,6.717.469,221.135,-,-,25.399.651,,,18461047.0,6717469.0,221135.0,,,25399651.0
+Chứng khoán kinh doanh - gộp,Tải sản > Chứng khoán kinh doanh - gộp,Chứng khoán kinh doanh - gộp,-,-,1.202.578,-,-,-,-,1.202.578,,,1202578.0,,,,,1202578.0
+Các công cụ tài chính phải sinh và các tài sản tài chính khác,Tải sản > Các công cụ tài chính phải sinh và các tài sản tài chính khác,Các công cụ tài chính phải sinh và các tài sản tài chính khác,-,-,6.215,223.959,(200.801),4.044,-,33.417,,,6215.0,223959.0,-200801.0,4044.0,,33417.0
+Cho vay khách hàng - gộp,Tải sản > Cho vay khách hàng - gộp,Cho vay khách hàng - gộp,2.280.009,139.245,2.276.478,7.252.890,44.639.950,28.183.182,13.848.484,98.620.238,2280009.0,139245.0,2276478.0,7252890.0,44639950.0,28183182.0,13848484.0,98620238.0
+Chứng khoán đầu tư - gộp,Tải sản > Chứng khoán đầu tư - gộp,Chứng khoán đầu tư - gộp,-,-,7.011.672,1.599.897,1.957.059,9.084.225,950.000,20.602.853,,,7011672.0,1599897.0,1957059.0,9084225.0,950000.0,20602853.0
+"Gộp vốn, đầu tư dài hạn - gộp","Tải sản > Gộp vốn, đầu tư dài hạn - gộp","Gộp vốn, đầu tư dài hạn - gộp",-,-,-,-,-,-,1.867.024,1.867.024,,,,,,,1867024.0,1867024.0
+Tải sản cố định,Tải sản > Tải sản cố định,Tải sản cố định,-,-,-,-,-,-,768.860,768.860,,,,,,,768860.0,768860.0
+Tải sản Có khác - gộp,Tải sản > Tải sản Có khác - gộp,Tải sản Có khác - gộp,-,-,503.379,630.702,1.767.734,3.160.803,-,6.062.618,,,503379.0,630702.0,1767734.0,3160803.0,,6062618.0
+Tổng tài sản,Tải sản > Tổng tài sản,Tổng tài sản,2.280.009,139.245,33.983.105,16.424.917,48.385.077,40.432.254,17.434.368,159.078.975,2280009.0,139245.0,33983105.0,16424917.0,48385077.0,40432254.0,17434368.0,159078975.0
+Nợ phải trả,Nợ phải trả,Nợ phải trả,,,,,,,,,,,,,,,,
+Các khoản nợ Chính phủ và NHNN,Nợ phải trả > Các khoản nợ Chính phủ và NHNN,Các khoản nợ Chính phủ và NHNN,-,-,25.239,60.968,152.385,-,-,238.592,,,25239.0,60968.0,152385.0,,,238592.0
+Tiền gửi và vay các TCTD khác,Nợ phải trả > Tiền gửi và vay các TCTD khác,Tiền gửi và vay các TCTD khác,-,-,25.530.961,6.235.759,70.655,-,-,31.837.375,,,25530961.0,6235759.0,70655.0,,,31837375.0
+Tiền gửi của khách hàng,Nợ phải trả > Tiền gửi của khách hàng,Tiền gửi của khách hàng,-,-,22.852.153,16.146.142,38.123.774,18.600.811,9.890,95.732.770,,,22852153.0,16146142.0,38123774.0,18600811.0,9890.0,95732770.0
+Phát hành giấy tờ có giá,Nợ phải trả > Phát hành giấy tờ có giá,Phát hành giấy tờ có giá,-,-,19.700,99.670,3.828.950,6.774.860,5.100.000,15.823.180,,,19700.0,99670.0,3828950.0,6774860.0,5100000.0,15823180.0
+Các khoản nợ khác,Nợ phải trả > Các khoản nợ khác,Các khoản nợ khác,-,-,245.986,454.574,740.759,1.866.994,-,3.308.313,,,245986.0,454574.0,740759.0,1866994.0,,3308313.0
+,,,-,-,48.674.039,22.997.113,42.916.523,27.242.665,5.109.890,146.940.230,,,48674039.0,22997113.0,42916523.0,27242665.0,5109890.0,146940230.0
+Mức chênh thanh khoản ròng,Nợ phải trả > Mức chênh thanh khoản ròng,Mức chênh thanh khoản ròng,2.280.009,139.245,(14.690.934),(6.572.196),5.468.554,13.189.589,12.324.478,12.138.745,2280009.0,139245.0,-14690934.0,-6572196.0,5468554.0,13189589.0,12324478.0,12138745.0

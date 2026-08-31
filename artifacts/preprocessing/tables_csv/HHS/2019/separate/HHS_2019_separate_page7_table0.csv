@@ -1,0 +1,21 @@
+﻿row_label_raw,row_label_full,NGUỒN VỐN,Mã số,Thuyết minh,Số cuối năm,Số đầu năm,numeric__Mã số,numeric__Thuyết minh,numeric__Số cuối năm,numeric__Số đầu năm
+A - NỘ PHẢI TRẢ,A - NỘ PHẢI TRẢ,A - NỘ PHẢI TRẢ,300,,73.114.331.756,66.102.961.024,300.0,,73114331756.0,66102961024.0
+I. Nợ ngắn hạn,I. Nợ ngắn hạn,I. Nợ ngắn hạn,310,,73.114.331.756,66.102.961.024,310.0,,73114331756.0,66102961024.0
+1. Phải trả người bán ngắn hạn,1. Phải trả người bán ngắn hạn,1. Phải trả người bán ngắn hạn,311,,8.392.782.169,1.186.239.500,311.0,,8392782169.0,1186239500.0
+2. Người mua trả tiền trước ngắn hạn,2. Người mua trả tiền trước ngắn hạn,2. Người mua trả tiền trước ngắn hạn,312,,6.664.389.079,10.555.969.173,312.0,,6664389079.0,10555969173.0
+3. Thuế và các khoản phải nộp Nhà nước,3. Thuế và các khoản phải nộp Nhà nước,3. Thuế và các khoản phải nộp Nhà nước,313,,4.225.203.494,503.608.496,313.0,,4225203494.0,503608496.0
+4. Chi phí phải trả ngắn hạn,4. Chi phí phải trả ngắn hạn,4. Chi phí phải trả ngắn hạn,315,,218.545.455,158.045.454,315.0,,218545455.0,158045454.0
+"5. Phải trả, phải nộp ngắn hạn khác","5. Phải trả, phải nộp ngắn hạn khác","5. Phải trả, phải nộp ngắn hạn khác",319,9,47.077.900.550,47.076.630.950,319.0,9.0,47077900550.0,47076630950.0
+6. Dự phòng phải trả ngắn hạn,6. Dự phòng phải trả ngắn hạn,6. Dự phòng phải trả ngắn hạn,321,,77.207.727,164.164.169,321.0,,77207727.0,164164169.0
+"7. Quỹ khen thưởng, phúc lợi","7. Quỹ khen thưởng, phúc lợi","7. Quỹ khen thưởng, phúc lợi",322,,6.458.303.282,6.458.303.282,322.0,,6458303282.0,6458303282.0
+B - NGUỒN VỐN CHỦ SỞ HỮU,B - NGUỒN VỐN CHỦ SỞ HỮU,B - NGUỒN VỐN CHỦ SỞ HỮU,400,,3.035.504.223.143,2.920.055.185.422,400.0,,3035504223143.0,2920055185422.0
+I. Vốn chủ sở hữu,I. Vốn chủ sở hữu,I. Vốn chủ sở hữu,410,10,3.035.504.223.143,2.920.055.185.422,410.0,10.0,3035504223143.0,2920055185422.0
+1. Vốn đầu tư của chủ sở hữu,1. Vốn đầu tư của chủ sở hữu,1. Vốn đầu tư của chủ sở hữu,411,,2.747.440.630.000,2.747.440.630.000,411.0,,2747440630000.0,2747440630000.0
+- Cổ phiếu phố thông có quyền biểu quyết,- Cổ phiếu phố thông có quyền biểu quyết,- Cổ phiếu phố thông có quyền biểu quyết,411,,2.747.440.630.000,2.747.440.630.000,411.0,,2747440630000.0,2747440630000.0
+2. Thặng dư vốn cổ phần,2. Thặng dư vốn cổ phần,2. Thặng dư vốn cổ phần,412,,139.270.925.591,139.270.925.591,412.0,,139270925591.0,139270925591.0
+3. Cổ phiếu quỹ,3. Cổ phiếu quỹ,3. Cổ phiếu quỹ,415,,(134.681.958.146),(134.681.958.146),415.0,,-134681958146.0,-134681958146.0
+4. Quỹ đầu tư phát triển,4. Quỹ đầu tư phát triển,4. Quỹ đầu tư phát triển,418,,19.572.915.034,19.572.915.034,418.0,,19572915034.0,19572915034.0
+5. Lợi nhuận sau thuế chưa phân phối,5. Lợi nhuận sau thuế chưa phân phối,5. Lợi nhuận sau thuế chưa phân phối,421,,263.901.710.664,148.452.672.943,421.0,,263901710664.0,148452672943.0
+- LNST chưa phân phối lũy kế đến cuối năm trước,- LNST chưa phân phối lũy kế đến cuối năm trước,- LNST chưa phân phối lũy kế đến cuối năm trước,421,,148.452.672.943,103.224.577.716,421.0,,148452672943.0,103224577716.0
+- LNST chưa phân phối năm nay,- LNST chưa phân phối năm nay,- LNST chưa phân phối năm nay,421,,115.449.037.721,45.228.095.227,421.0,,115449037721.0,45228095227.0
+TỔNG CỘNG NGUỒN VỐN (440 = 300 + 400),TỔNG CỘNG NGUỒN VỐN (440 = 300 + 400),TỔNG CỘNG NGUỒN VỐN (440 = 300 + 400),440,,3.108.618.554.899,2.986.158.146.446,440.0,,3108618554899.0,2986158146446.0

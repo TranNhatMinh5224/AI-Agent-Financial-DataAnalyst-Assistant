@@ -1,0 +1,25 @@
+﻿row_label_raw,row_label_full,STT,Chỉ tiêu,Thuyết minh,31/12/2020Triệu VND,31/12/2019Triệu VND(trình bày lại),numeric__Chỉ tiêu,numeric__Thuyết minh,numeric__31/12/2020Triệu VND,numeric__31/12/2019Triệu VND(trình bày lại)
+B,B,B,NỘ PHẢI TRẢ VÀ VỐN CHỦ SỞ HỮU,,,,,,,
+I,B > I,I,Các khoản nợ Chính phủ và Ngân hàng Nhà nước Việt Nam,16,41.176.995,92.365.806,,16.0,41176995.0,92365806.0
+II,B > II,II,Tiền gửi và vay các tổ chức tín dụng khác,17,101.597.542,72.523.993,,17.0,101597542.0,72523993.0
+1,B > 1,1,Tiền gửi của các tổ chức tín dụng khác,,101.597.542,71.213.320,,,101597542.0,71213320.0
+2,B > 2,2,Vay các tổ chức tín dụng khác,,-,1.310.673,,,,1310673.0
+III,B > III,III,Tiền gửi của khách hàng,18,1.032.263.551,928.530.404,,18.0,1032263551.0,928530404.0
+IV,B > IV,IV,Các công cụ tài chính phải sinh và các khoản nợ tài chính khác,8,52.031,-,,8.0,52031.0,
+V,B > V,V,"Vốn tài trợ, ủy thác đầu tư, cho vay tổ chức tín dụng chịu rủi ro",19,14.679,20.431,,19.0,14679.0,20431.0
+VI,B > VI,VI,Phát hành giấy tờ có giá,20,21.369.849,21.371.421,,20.0,21369849.0,21371421.0
+VII,B > VII,VII,Các khoản nợ khác,,32.139.734,25.099.182,,,32139734.0,25099182.0
+1,B > 1,1,"Các khoản lãi, phí phải trả",21(a),9.800.017,10.362.390,,,9800017.0,10362390.0
+3,B > 3,3,Các khoản phải trả và công nợ khác,21(b),22.339.717,14.736.792,,,22339717.0,14736792.0
+,,,TỔNG NỘ PHẢI TRẢ,,1.228.614.381,1.139.911.237,,,1228614381.0,1139911237.0
+VIII,VIII,VIII,Vốn chủ sở hữu,,,,,,,
+1,VIII > 1,1,Vốn của tổ chức tín dụng,,42.084.575,42.084.575,,,42084575.0,42084575.0
+a,VIII > a,a,Vốn điều lệ,,37.088.774,37.088.774,,,37088774.0,37088774.0
+c,VIII > c,c,Thặng dư vốn cổ phần,,4.995.389,4.995.389,,,4995389.0,4995389.0
+g,VIII > g,g,Vốn khác,,412,412,,,412.0,412.0
+2,VIII > 2,2,Quỹ của tổ chức tín dụng,,14.620.338,11.924.768,,,14620338.0,11924768.0
+5,VIII > 5,5,Lợi nhuận chưa phân phối,,35.483.283,25.333.463,,,35483283.0,25333463.0
+a,VIII > a,a,Lợi nhuận để lại năm trước,,22.005.205,11.688.625,,,22005205.0,11688625.0
+b,VIII > b,b,Lợi nhuận để lại năm nay,,13.478.078,13.644.838,,,13478078.0,13644838.0
+,,,TỔNG VỐN CHỦ SỞ HỮU,22(a),92.188.196,79.342.806,,,92188196.0,79342806.0
+,,,TỔNG NỘ PHẢI TRẢ VÀ VỐN CHỦ SỞ HỮU,,1.320.802.577,1.219.254.043,,,1320802577.0,1219254043.0

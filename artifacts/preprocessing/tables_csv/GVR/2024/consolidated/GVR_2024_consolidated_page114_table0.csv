@@ -1,0 +1,3 @@
+﻿row_label_raw,row_label_full,Debt,Debt_1,Status,Provision rate,numeric__Debt_1,numeric__Status,numeric__Provision rate
+4,4,4,Doubtful Debt,- Overdue from 181 to 360 days; or- Rescheduled repayment for the first time into overdue less than 90 days according to the rescheduled repayment term; or- Rescheduled repayment for the second time.,50%,,,0.5
+5,5,5,Loss Potential Debt,- Overdue more than 360 days; or- Rescheduled repayment for the first time into overdue for 90 days or more according to the rescheduled repayment term; or- Rescheduled repayment for the second time and overdue according to the second rescheduled term; or- Rescheduled repayment for the third time; or- Debts being processed or pending resolution.,100%,,,1.0

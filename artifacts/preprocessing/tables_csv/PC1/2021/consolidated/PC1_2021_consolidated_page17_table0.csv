@@ -1,0 +1,12 @@
+﻿row_label_raw,row_label_full,STT,Tên Công ty,Hoạt động chính,Địa chỉ,Tỷ lệ % quyền biểu quyếtvà tỷ lệ % sở hữu,Tỷ lệ % quyền biểu quyếtvà tỷ lệ % sở hữu_1,numeric__Tên Công ty,numeric__Hoạt động chính,numeric__Địa chỉ,numeric__Tỷ lệ % quyền biểu quyếtvà tỷ lệ % sở hữu,numeric__Tỷ lệ % quyền biểu quyếtvà tỷ lệ % sở hữu_1
+STT,STT,STT,Tên Công ty,Hoạt động chính,Địa chỉ,31/12/2021,1/1/2021,,,,,
+Công ty con cấp 1,Công ty con cấp 1,Công ty con cấp 1,Công ty con cấp 1,Công ty con cấp 1,Công ty con cấp 1,Công ty con cấp 1,Công ty con cấp 1,,,,,
+21,Công ty con cấp 1 > 21,21,Công ty Cổ phần Đầu tư và Dịch vụ Công nghệ,Cung cấp vật tư thiết bị và cấu hình hệ thống điện,Hà Nội,"51,00%","51,00%",,,,0.51,0.51
+22,Công ty con cấp 1 > 22,22,Công ty Cổ phần Khoáng sản Tấn Phát,Khai thác khoáng sản,Cao Bằng,"57,27%","33,92%",,,,0.5727,0.3392
+23,Công ty con cấp 1 > 23,23,Công ty Cổ phần Đầu tư Thủy điện Sông Gâm (*),Sản xuất điện,Cao Bằng,"99,00%",-,,,,0.99,
+24,Công ty con cấp 1 > 24,24,Công ty Cổ phần Thiết bị Thương mại (**),Cho thuê nhà xưởng,Hà Nội,"99,75%",-,,,,0.9975,
+Công ty con cấp 2,Công ty con cấp 2,Công ty con cấp 2,Công ty con cấp 2,Công ty con cấp 2,Công ty con cấp 2,Công ty con cấp 2,Công ty con cấp 2,,,,,
+Công ty con của Công ty TNHH Chế tạo Cột thép Đông Anh,Công ty con của Công ty TNHH Chế tạo Cột thép Đông Anh,Công ty con của Công ty TNHH Chế tạo Cột thép Đông Anh,Công ty con của Công ty TNHH Chế tạo Cột thép Đông Anh,Công ty con của Công ty TNHH Chế tạo Cột thép Đông Anh,Công ty con của Công ty TNHH Chế tạo Cột thép Đông Anh,Công ty con của Công ty TNHH Chế tạo Cột thép Đông Anh,Công ty con của Công ty TNHH Chế tạo Cột thép Đông Anh,,,,,
+1,Công ty con của Công ty TNHH Chế tạo Cột thép Đông Anh > 1,1,Công ty Cổ phần Cột thép Mạ kẽm Thái Nguyên,Sản xuất các loại cột thép mạ kẽm,Thái Nguyên,"90,00%","90,00%",,,,0.9,0.9
+Công ty con của Công ty TNHH MTV Xây lắp Điện I - Mỹ Đình,Công ty con của Công ty TNHH MTV Xây lắp Điện I - Mỹ Đình,Công ty con của Công ty TNHH MTV Xây lắp Điện I - Mỹ Đình,Công ty con của Công ty TNHH MTV Xây lắp Điện I - Mỹ Đình,Công ty con của Công ty TNHH MTV Xây lắp Điện I - Mỹ Đình,Công ty con của Công ty TNHH MTV Xây lắp Điện I - Mỹ Đình,Công ty con của Công ty TNHH MTV Xây lắp Điện I - Mỹ Đình,Công ty con của Công ty TNHH MTV Xây lắp Điện I - Mỹ Đình,,,,,
+2,Công ty con của Công ty TNHH MTV Xây lắp Điện I - Mỹ Đình > 2,2,Công ty Cổ phần Thí nghiệm Điện PCI - ETICH (***),"Kiểm định, thử nghiệm, hiệu chỉnh thiết bị dụng cụ điện áp đến 110 kV",Hà Nội,"51,00%",-,,,,0.51,

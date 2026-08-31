@@ -1,0 +1,17 @@
+﻿row_label_raw,row_label_full,Code,ITEMS,Notes,Ending balance,Opening balance,numeric__ITEMS,numeric__Notes,numeric__Ending balance,numeric__Opening balance
+,,,B. ASSETS AND PAYABLES UNDER AGREEMENT WITH INVESTORS (continued),,,,,,,
+022,022,022,Non-traded financial assets deposited at VSD of investors,30.7,"1,174,396,560,000","862,680,390,000",,307.0,,
+022.1,022.1,022.1,Unrestricted and non-traded financial assets deposited at VSD,30.7,"1,150,014,570,000","838,298,400,000",,307.0,,
+022.2,022.2,022.2,Restricted and non-traded financial assets deposited at VSD,30.7,"24,381,000,000","24,381,000,000",,307.0,,
+022.4,022.4,022.4,Non-traded and blocked financial assets deposited at VSD,30.7,"990,000","990,000",,307.0,990.0,990.0
+023,023,023,Awaiting financial assets of investors,30.8,"598,838,030,000","947,743,718,700",,308.0,,
+024b,024b,024b,Financial assets undeposited at VSD of investors,30.9,"10,760,540,000","13,436,620,000",,309.0,,
+025,025,025,Entitled financial assets of investors,30.10,"455,522,080,000","203,534,390,000",,3010.0,,
+026,026,026,Investors' deposits,,"4,941,400,793,936","5,274,737,029,714",,,,
+027,026 > 027,027,Investors' deposits for securities trading activities managed by the Company,30.11,"4,636,518,614,794","4,642,998,819,420",,3011.0,,
+027.1,026 > 027.1,027.1,Investors' deposits at VSD,30.11,"282,505,300,828","523,311,148,651",,3011.0,,
+028,026 > 028,028,Investors' synthesizing deposits for securities trading activities,30.11,"11,079,681,180","9,364,816,809",,3011.0,,
+030,026 > 030,030,Deposits of securities issuers,30.12,"11,297,197,134","99,062,244,834",,3012.0,,
+031,026 > 031,031,Payables to investors - investors' deposits for securities trading activities managed by the Company,30.13,"4,919,023,915,622","5,166,309,968,071",,3013.0,,
+031.1,026 > 031.1,031.1,Payables to domestic investors – investors' deposits for securities trading activities managed by the Company,30.13,"4,712,758,821,651","4,304,562,383,964",,3013.0,,
+031.2,026 > 031.2,031.2,Payables to foreign investors – investors' deposits for securities trading activities managed by the Company,30.13,"206,265,093,971","861,747,584,107",,3013.0,,

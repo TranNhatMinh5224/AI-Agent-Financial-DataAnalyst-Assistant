@@ -1,0 +1,21 @@
+﻿row_label_raw,row_label_full,STT,CHỈ TIÊU,Thuyết minh,Năm nay,Năm trước (Trình bày lại),numeric__CHỈ TIÊU,numeric__Thuyết minh,numeric__Năm nay,numeric__Năm trước (Trình bày lại)
+1.,1.,1.,Thu nhập lãi và các khoản thu nhập tương tự,25,56.052.654,49.481.214,,25.0,56052654.0,49481214.0
+2.,2.,2.,Chi phí lãi và các chi phí tương tự,26,(36.713.480),(28.919.461),,26.0,-36713480.0,-28919461.0
+I.,I.,I.,Thu nhập lãi thuần,,19.339.174,20.561.753,,,19339174.0,20561753.0
+3.,3.,3.,Thu nhập từ hoạt động dịch vụ,,3.390.681,1.500.108,,,3390681.0,1500108.0
+4.,4.,4.,Chi phí hoạt động dịch vụ,,(190.966),(252.508),,,-190966.0,-252508.0
+II.,II.,II.,Lãi thuần từ hoạt động dịch vụ,27,3.199.715,1.247.600,,27.0,3199715.0,1247600.0
+III.,III.,III.,Lãi thuần từ hoạt động kinh doanh ngoại hối,28,257.167,85.849,,28.0,257167.0,85849.0
+IV.,IV.,IV.,Lãi thuần từ mua bán chứng khoán kinh doanh,29.1,42.000,3.847,,291.0,42000.0,3847.0
+V.,V.,V.,Lãi thuần từ mua bán chứng khoán đầu tư,29.2,511.018,(218.061),,292.0,511018.0,-218061.0
+5.,5.,5.,Thu nhập từ hoạt động khác,,4.969.064,1.338.324,,,4969064.0,1338324.0
+6.,6.,6.,Chi phí hoạt động khác,,(141.469),(184.101),,,-141469.0,-184101.0
+VI.,VI.,VI.,Lãi thuần từ hoạt động khác,30,4.827.595,1.154.223,,30.0,4827595.0,1154223.0
+VII.,VII.,VII.,"Thu nhập từ góp vốn, mua cố phần",31,10.986,40.972,,31.0,10986.0,40972.0
+VIII.,VIII.,VIII.,Chi phí hoạt động,32,(6.252.638),(5.591.847),,32.0,-6252638.0,-5591847.0
+IX.,IX.,IX.,Lợi nhuận thuần từ hoạt động kinh doanh trước chi phí dự phòng rủi ro tín dụng,,21.935.017,17.284.336,,,21935017.0,17284336.0
+X.,X.,X.,Chi phí dự phòng rủi ro tín dụng,33,(7.073.042),(5.945.083),,33.0,-7073042.0,-5945083.0
+XI.,XI.,XI.,Tổng lợi nhuận trước thuế,,14.861.975,11.339.253,,,14861975.0,11339253.0
+7.,7.,7.,Chi phí thuế TNDN hiện hành,34,(3.012.447),(2.207.215),,34.0,-3012447.0,-2207215.0
+XII.,XII.,XII.,Chi phí thuế TNDN,,(3.012.447),(2.207.215),,,-3012447.0,-2207215.0
+XIII.,XIII.,XIII.,Lợi nhuận sau thuế TNDN,,11.849.528,9.132.038,,,11849528.0,9132038.0

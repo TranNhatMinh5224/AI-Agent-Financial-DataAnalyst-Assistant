@@ -1,0 +1,20 @@
+﻿row_label_raw,row_label_full,Loại giấy tờ có giá,Kỳ phiếu,Trái phiếu vô danh,Trái phiếu ghi số,Chứng chỉ tiền gửi,Tổng cộng,numeric__Kỳ phiếu,numeric__Trái phiếu vô danh,numeric__Trái phiếu ghi số,numeric__Chứng chỉ tiền gửi,numeric__Tổng cộng
+Loại giấy tờ có giá,Loại giấy tờ có giá,Loại giấy tờ có giá,Triệu VND,Triệu VND,Triệu VND,Triệu VND,Triệu VND,,,,,
+Số dư cuối năm,Số dư cuối năm,Số dư cuối năm,Số dư cuối năm,Số dư cuối năm,Số dư cuối năm,Số dư cuối năm,Số dư cuối năm,,,,,
+Dưới 12 tháng,Số dư cuối năm > Dưới 12 tháng,Dưới 12 tháng,197,-,-,43.000.000,43.000.197,197.0,,,43000000.0,43000197.0
+- Bằng VND,Số dư cuối năm > - Bằng VND,- Bằng VND,197,-,-,43.000.000,43.000.197,197.0,,,43000000.0,43000197.0
+Từ 12 tháng đến dưới5 năm,Số dư cuối năm > Từ 12 tháng đến dưới5 năm,Từ 12 tháng đến dưới5 năm,-,166,-,12.043.826,12.043.992,,166.0,,12043826.0,12043992.0
+- Bằng VND,Số dư cuối năm > - Bằng VND,- Bằng VND,-,166,-,12.043.642,12.043.808,,166.0,,12043642.0,12043808.0
+- Bằng ngoại tệ,Số dư cuối năm > - Bằng ngoại tệ,- Bằng ngoại tệ,-,-,-,184,184,,,,184.0,184.0
+Từ 5 năm trở lên,Số dư cuối năm > Từ 5 năm trở lên,Từ 5 năm trở lên,-,-,36.326.230,-,36.326.230,,,36326230.0,,36326230.0
+- Bằng VND,Số dư cuối năm > - Bằng VND,- Bằng VND,-,-,36.326.230,-,36.326.230,,,36326230.0,,36326230.0
+,,,197,166,36.326.230,55.043.826,91.370.419,197.0,166.0,36326230.0,55043826.0,91370419.0
+Số dư đầu năm,Số dư đầu năm,Số dư đầu năm,Số dư đầu năm,Số dư đầu năm,Số dư đầu năm,Số dư đầu năm,Số dư đầu năm,,,,,
+Dưới 12 tháng,Số dư đầu năm > Dưới 12 tháng,Dưới 12 tháng,197,-,-,2.000.000,2.000.197,197.0,,,2000000.0,2000197.0
+- Bằng VND,Số dư đầu năm > - Bằng VND,- Bằng VND,197,-,-,2.000.000,2.000.197,197.0,,,2000000.0,2000197.0
+Từ 12 tháng đến dưới5 năm,Số dư đầu năm > Từ 12 tháng đến dưới5 năm,Từ 12 tháng đến dưới5 năm,-,166,-,26.400.192,26.400.358,,166.0,,26400192.0,26400358.0
+- Bằng VND,Số dư đầu năm > - Bằng VND,- Bằng VND,-,166,-,26.400.014,26.400.180,,166.0,,26400014.0,26400180.0
+- Bằng ngoại tệ,Số dư đầu năm > - Bằng ngoại tệ,- Bằng ngoại tệ,-,-,-,178,178,,,,178.0,178.0
+Từ 5 năm trở lên,Số dư đầu năm > Từ 5 năm trở lên,Từ 5 năm trở lên,-,-,36.096.230,-,36.096.230,,,36096230.0,,36096230.0
+- Bằng VND,Số dư đầu năm > - Bằng VND,- Bằng VND,-,-,36.096.230,-,36.096.230,,,36096230.0,,36096230.0
+,,,197,166,36.096.230,28.400.192,64.496.785,197.0,166.0,36096230.0,28400192.0,64496785.0

@@ -1,0 +1,14 @@
+﻿row_label_raw,row_label_full,col_0,Số đầu năm,Số phải nộp trong năm,Số đã nộp/cán trừ trong năm,Số cuối năm,numeric__Số đầu năm,numeric__Số phải nộp trong năm,numeric__Số đã nộp/cán trừ trong năm,numeric__Số cuối năm
+Phải nộp,Phải nộp,Phải nộp,Phải nộp,Phải nộp,Phải nộp,Phải nộp,,,,
+Thuế giá trị gia tăng,Phải nộp > Thuế giá trị gia tăng,Thuế giá trị gia tăng,232.541,9.444.864,(1.834.816),7.842.589,232541.0,9444864.0,-1834816.0,7842589.0
+Thuế tiêu thụ đặc biệt,Phải nộp > Thuế tiêu thụ đặc biệt,Thuế tiêu thụ đặc biệt,401.043,2.554.868,(1.787.804),1.168.107,401043.0,2554868.0,-1787804.0,1168107.0
+Thuế thu nhập doanh nghiệp,Phải nộp > Thuế thu nhập doanh nghiệp,Thuế thu nhập doanh nghiệp,3.352.838,10.949.632,(4.458.603),9.843.867,3352838.0,10949632.0,-4458603.0,9843867.0
+Thuế thu nhập cá nhân,Phải nộp > Thuế thu nhập cá nhân,Thuế thu nhập cá nhân,203.488,2.047.675,(1.619.792),631.371,203488.0,2047675.0,-1619792.0,631371.0
+"Tiền sử dụng đất, thuê đất và các nghĩa vụ theo hợp đồng xây dựng – chuyển giao","Phải nộp > Tiền sử dụng đất, thuê đất và các nghĩa vụ theo hợp đồng xây dựng – chuyển giao","Tiền sử dụng đất, thuê đất và các nghĩa vụ theo hợp đồng xây dựng – chuyển giao",1.039.259,32.594.348,(31.577.175),2.056.432,1039259.0,32594348.0,-31577175.0,2056432.0
+Thuế và các khoản phải nộp Nhà nước khác,Phải nộp > Thuế và các khoản phải nộp Nhà nước khác,Thuế và các khoản phải nộp Nhà nước khác,427.853,4.011.159,(3.637.446),801.566,427853.0,4011159.0,-3637446.0,801566.0
+TỔNG CỘNG,Phải nộp > TỔNG CỘNG,TỔNG CỘNG,5.657.022,61.602.546,(44.915.636),22.343.932,5657022.0,61602546.0,-44915636.0,22343932.0
+,,,Số đầu năm,Số phải thu trong năm,Số đã cán trừ trong năm,Số cuối năm,,,,
+Phải thu,Phải thu,Phải thu,Phải thu,Phải thu,Phải thu,Phải thu,,,,
+Thuế thu nhập doanh nghiệp,Phải thu > Thuế thu nhập doanh nghiệp,Thuế thu nhập doanh nghiệp,602.898,45.971,(324.654),324.215,602898.0,45971.0,-324654.0,324215.0
+Thuế và các khoản phải thu Nhà nước khác,Phải thu > Thuế và các khoản phải thu Nhà nước khác,Thuế và các khoản phải thu Nhà nước khác,6.301,34.513,(26.581),14.233,6301.0,34513.0,-26581.0,14233.0
+TỔNG CỘNG,Phải thu > TỔNG CỘNG,TỔNG CỘNG,609.199,80.484,(351.235),338.448,609199.0,80484.0,-351235.0,338448.0

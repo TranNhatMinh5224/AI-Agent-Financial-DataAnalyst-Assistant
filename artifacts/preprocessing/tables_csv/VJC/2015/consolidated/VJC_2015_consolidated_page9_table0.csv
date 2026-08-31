@@ -1,0 +1,25 @@
+﻿row_label_raw,row_label_full,col_0,Mã số,Thuyết minh,31/12/2015 VND,1/1/2015 VNDPhân loại lại,numeric__Mã số,numeric__Thuyết minh,numeric__31/12/2015 VND,numeric__1/1/2015 VNDPhân loại lại
+NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,,,,
+NỘ PHẢI TRẢ (300 = 310 + 330),NGUỒN VỐN > NỘ PHẢI TRẢ (300 = 310 + 330),NỘ PHẢI TRẢ (300 = 310 + 330),300,,9.897.423.484.873,6.710.416.472.291,300.0,,9897423484873.0,6710416472291.0
+Nợ ngắn hạn,NGUỒN VỐN > Nợ ngắn hạn,Nợ ngắn hạn,310,,6.393.867.460.244,4.211.195.391.674,310.0,,6393867460244.0,4211195391674.0
+Phải trả người bán ngắn hạn,NGUỒN VỐN > Phải trả người bán ngắn hạn,Phải trả người bán ngắn hạn,311,18,425.825.498.260,329.424.850.073,311.0,18.0,425825498260.0,329424850073.0
+Người mua trả tiền trước ngắn hạn,NGUỒN VỐN > Người mua trả tiền trước ngắn hạn,Người mua trả tiền trước ngắn hạn,312,,169.271.600.512,137.609.503.395,312.0,,169271600512.0,137609503395.0
+Thuế phải nộp Nhà nước,NGUỒN VỐN > Thuế phải nộp Nhà nước,Thuế phải nộp Nhà nước,313,19(a),62.933.846.915,61.512.261.619,313.0,,62933846915.0,61512261619.0
+Chi phí phải trả ngắn hạn,NGUỒN VỐN > Chi phí phải trả ngắn hạn,Chi phí phải trả ngắn hạn,315,20,396.937.677.585,154.478.731.692,315.0,20.0,396937677585.0,154478731692.0
+Doanh thu chưa thực liệu ngắn hạn,NGUỒN VỐN > Doanh thu chưa thực liệu ngắn hạn,Doanh thu chưa thực liệu ngắn hạn,318,21,662.230.377.199,230.717.936.745,318.0,21.0,662230377199.0,230717936745.0
+Phải trả ngắn hạn khác,NGUỒN VỐN > Phải trả ngắn hạn khác,Phải trả ngắn hạn khác,319,22(a),622.174.879.614,695.204.057.156,319.0,,622174879614.0,695204057156.0
+Vay ngắn hạn,NGUỒN VỐN > Vay ngắn hạn,Vay ngắn hạn,320,23,3.543.467.794.788,2.602.248.050.994,320.0,23.0,3543467794788.0,2602248050994.0
+Dự phòng phải trả ngắn hạn,NGUỒN VỐN > Dự phòng phải trả ngắn hạn,Dự phòng phải trả ngắn hạn,321,24,511.025.785.371,-,321.0,24.0,511025785371.0,
+Nợ dài hạn,NGUỒN VỐN > Nợ dài hạn,Nợ dài hạn,330,,3.503.556.024.629,2.499.221.080.617,330.0,,3503556024629.0,2499221080617.0
+Phải trả dài hạn khác,NGUỒN VỐN > Phải trả dài hạn khác,Phải trả dài hạn khác,337,22(b),8.967.800.380,6.200.000.000,337.0,,8967800380.0,6200000000.0
+Thuế thu nhập hoãn lại phải trả,NGUỒN VỐN > Thuế thu nhập hoãn lại phải trả,Thuế thu nhập hoãn lại phải trả,341,17,31.558.668.102,33.707.854.533,341.0,17.0,31558668102.0,33707854533.0
+Dự phòng phải trả dài hạn,NGUỒN VỐN > Dự phòng phải trả dài hạn,Dự phòng phải trả dài hạn,342,24,3.463.029.556.147,2.459.313.226.084,342.0,24.0,3463029556147.0,2459313226084.0
+VỐN CHỦ SỞ HỮU (400 = 410),NGUỒN VỐN > VỐN CHỦ SỞ HỮU (400 = 410),VỐN CHỦ SỞ HỮU (400 = 410),400,,2.147.440.280.350,966.656.392.108,400.0,,2147440280350.0,966656392108.0
+Vốn chủ sở hữu,NGUỒN VỐN > Vốn chủ sở hữu,Vốn chủ sở hữu,410,25,2.147.440.280.350,966.656.392.108,410.0,25.0,2147440280350.0,966656392108.0
+Vốn cổ phần,NGUỒN VỐN > Vốn cổ phần,Vốn cổ phần,411,26,1.450.000.000.000,800.000.000.000,411.0,26.0,1450000000000.0,800000000000.0
+Chênh lệch tỷ giá hối đoái,NGUỒN VỐN > Chênh lệch tỷ giá hối đoái,Chênh lệch tỷ giá hối đoái,417,,10.578.470.043,459.541.430,417.0,,10578470043.0,459541430.0
+Lợi nhuận sau thuế chưa phân phối,NGUỒN VỐN > Lợi nhuận sau thuế chưa phân phối,Lợi nhuận sau thuế chưa phân phối,421,,685.722.725.515,165.469.371.669,421.0,,685722725515.0,165469371669.0
+- LNST chưa phân phối/(Lỗ) lũy kế đến cuối năm trước,NGUỒN VỐN > - LNST chưa phân phối/(Lỗ) lũy kế đến cuối năm trước,- LNST chưa phân phối/(Lỗ) lũy kế đến cuối năm trước,421a,,165.469.371.669,(194.953.202.979),,,165469371669.0,-194953202979.0
+- LNST chưa phân phối năm nay,NGUỒN VỐN > - LNST chưa phân phối năm nay,- LNST chưa phân phối năm nay,421b,,520.253.353.846,360.422.574.648,,,520253353846.0,360422574648.0
+Lợi ích cổ đông không kiểm soát,NGUỒN VỐN > Lợi ích cổ đông không kiểm soát,Lợi ích cổ đông không kiểm soát,429,,1.139.084.792,727.479.009,429.0,,1139084792.0,727479009.0
+TỔNG NGUỒN VỐN(440 = 300 + 400),NGUỒN VỐN > TỔNG NGUỒN VỐN(440 = 300 + 400),TỔNG NGUỒN VỐN(440 = 300 + 400),440,,12.044.863.765.223,7.677.072.864.399,440.0,,12044863765223.0,7677072864399.0

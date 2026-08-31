@@ -1,0 +1,24 @@
+﻿row_label_raw,row_label_full,Mã số,CHỈ TIÊU,Thuyết minh,Năm 2016,numeric__CHỈ TIÊU,numeric__Thuyết minh,numeric__Năm 2016
+,,,,,VND,,,
+01,01,01,1. Doanh thu bán hàng và cung cấp dịch vụ,19,605.061.783.002,,19.0,605061783002.0
+02,02,02,2. Các khoản giảm trừ doanh thu,,-,,,
+10,02 > 10,10,3. Doanh thu thuần bán hàng và cung cấp dịch vụ,,605.061.783.002,,,605061783002.0
+11,02 > 11,11,4. Giá vốn hàng bán,20,330.052.619.178,,20.0,330052619178.0
+20,02 > 20,20,5. Lợi nhuận gộp về bán hàng và cung cấp dịch vụ,,275.009.163.824,,,275009163824.0
+21,02 > 21,21,6. Doanh thu hoạt động tài chính,21,540.998.886,,21.0,540998886.0
+22,02 > 22,22,7. Chi phí tài chính,22,9.073.340.790,,22.0,9073340790.0
+23,02 > 23,23,Trong đó: Chi phí lãi vay,,9.043.094.215,,,9043094215.0
+24,24,24,"8. Phần lãi hoặc lỗ trong công ty liên doanh, liên kết",,-,,,
+25,24 > 25,25,9. Chi phí bán hàng,23,16.054.010.470,,23.0,16054010470.0
+26,24 > 26,26,10. Chi phí quản lý doanh nghiệp,24,85.849.733.421,,24.0,85849733421.0
+30,24 > 30,30,11. Lợi nhuận thuần từ hoạt động kinh doanh,,164.573.078.029,,,164573078029.0
+31,24 > 31,31,12. Thu nhập khác,25,6.900.693.550,,25.0,6900693550.0
+32,24 > 32,32,13. Chi phí khác,26,3.370.268.604,,26.0,3370268604.0
+40,24 > 40,40,14. Lợi nhuận khác,,3.530.424.946,,,3530424946.0
+50,24 > 50,50,15. Tổng lợi nhuận kế toán trước thuế,,168.103.502.975,,,168103502975.0
+51,24 > 51,51,16. Chi phí thuế thu nhập doanh nghiệp hiện hành,27,32.645.086.635,,27.0,32645086635.0
+52,52,52,17. Chi phí thuế thu nhập doanh nghiệp hoãn lại,,-,,,
+60,52 > 60,60,18. Lợi nhuận sau thuế thu nhập doanh nghiệp,,135.458.416.340,,,135458416340.0
+61,52 > 61,61,19. Lợi nhuận sau thuế của Công ty mẹ,,135.458.416.340,,,135458416340.0
+62,62,62,20. Lợi nhuận sau thuế của cổ đông không kiểm soát,,-,,,
+70,62 > 70,70,21. Lãi cơ bản trên cổ phiếu,28,10.420,,28.0,10420.0

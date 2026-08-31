@@ -1,0 +1,13 @@
+﻿row_label_raw,row_label_full,Mã số,CHỈ TIÊU,Thuyết minh,Năm 2025 > VND,Năm 2024 > VND,numeric__CHỈ TIÊU,numeric__Thuyết minh,numeric__Năm 2025 > VND,numeric__Năm 2024 > VND
+,,,III. LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH,III. LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH,III. LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH,III. LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH,,,,
+31,31,31,"1. Tiền thu từ phát hành cổ phiếu, nhận vốn góp của chủ sở hữu",,62.343.873.206,-,,,62343873206.0,
+32,32,32,"2. Tiền trả lại vốn góp cho các chủ sở hữu, mua lại cổ phiếu của doanh nghiệp đã phát hành",,-,-,,,,
+33,32 > 33,33,3. Tiền thu từ di vay,,3.945.720.539.873,6.577.822.955.117,,,3945720539873.0,6577822955117.0
+34,32 > 34,34,4. Tiền trả nợ gốc vay,,(8.024.442.882.044),(6.118.940.467.694),,,-8024442882044.0,-6118940467694.0
+35,32 > 35,35,5. Tiền trả nợ gốc thuê tài chính,,(407.633.808),-,,,-407633808.0,
+36,32 > 36,36,"6. Cổ tức, lợi nhuận đã trả cho chủ sở hữu",,(2.067.404.555.639),(87.895.463.843),,,-2067404555639.0,-87895463843.0
+40,32 > 40,40,Lưu chuyển tiền thuần từ hoạt động tài chính,,(6.084.190.658.412),370.987.023.580,,,-6084190658412.0,370987023580.0
+50,32 > 50,50,Lưu chuyển tiền thuần trong năm,,2.278.968.550.866,187.670.432.686,,,2278968550866.0,187670432686.0
+60,32 > 60,60,Tiền và tương đương tiền đầu năm,,5.778.855.663.194,5.564.089.010.514,,,5778855663194.0,5564089010514.0
+61,32 > 61,61,Ảnh hưởng của thay đổi tỷ giá hồi đoái quy đổi ngoại tệ,,179.609.152.771,27.096.219.994,,,179609152771.0,27096219994.0
+70,32 > 70,70,Tiền và tương đương tiền cuối năm,03,8.237.433.366.831,5.778.855.663.194,,3.0,8237433366831.0,5778855663194.0

@@ -1,0 +1,23 @@
+﻿row_label_raw,row_label_full,"TĂNG, GIĂM TÀI SĂN CÓ ĐỊNH VỐ HÌNH > Chỉ tiêu","TĂNG, GIĂM TÀI SĂN CÓ ĐỊNH VỐ HÌNH > Quyền sử dụng đất","TĂNG, GIĂM TÀI SĂN CÓ ĐỊNH VỐ HÌNH > Quyền phát hành","TĂNG, GIĂM TÀI SĂN CÓ ĐỊNH VỐ HÌNH > Bản quyền, bằng sáng chế","TĂNG, GIĂM TÀI SĂN CÓ ĐỊNH VỐ HÌNH > Phần mềm vi tính","TĂNG, GIĂM TÀI SĂN CÓ ĐỊNH VỐ HÌNH > TSCĐ vô hình khác",Đơn vị tính: VND > Cộng,"numeric__TĂNG, GIĂM TÀI SĂN CÓ ĐỊNH VỐ HÌNH > Quyền sử dụng đất","numeric__TĂNG, GIĂM TÀI SĂN CÓ ĐỊNH VỐ HÌNH > Quyền phát hành","numeric__TĂNG, GIĂM TÀI SĂN CÓ ĐỊNH VỐ HÌNH > Bản quyền, bằng sáng chế","numeric__TĂNG, GIĂM TÀI SĂN CÓ ĐỊNH VỐ HÌNH > Phần mềm vi tính","numeric__TĂNG, GIĂM TÀI SĂN CÓ ĐỊNH VỐ HÌNH > TSCĐ vô hình khác",numeric__Đơn vị tính: VND > Cộng
+I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,,,,,,
+1. Số dư đầu năm,I. Nguyên giá > 1. Số dư đầu năm,1. Số dư đầu năm,29.584.987.193,,,,,29.584.987.193,29584987193.0,,,,,29584987193.0
+2. Số tăng trong kỳ,I. Nguyên giá > 2. Số tăng trong kỳ,2. Số tăng trong kỳ,4.646.300.895,,,,,4.646.300.895,4646300895.0,,,,,4646300895.0
+- Mua trong kỳ,I. Nguyên giá > - Mua trong kỳ,- Mua trong kỳ,4.646.300.895,,,,,4.646.300.895,4646300895.0,,,,,4646300895.0
+- Tạo ra từ nội bộ DN,- Tạo ra từ nội bộ DN,- Tạo ra từ nội bộ DN,,,,,,,,,,,,
+- Tăng khác,- Tăng khác,- Tăng khác,,,,,,,,,,,,
+3. Số giảm trong kỳ,3. Số giảm trong kỳ,3. Số giảm trong kỳ,,,,,,,,,,,,
+"- Thanh lý, nhượng bán","- Thanh lý, nhượng bán","- Thanh lý, nhượng bán",,,,,,,,,,,,
+- Giảm khác,- Giảm khác,- Giảm khác,,,,,,,,,,,,
+4. Số dư cuối kỳ,- Giảm khác > 4. Số dư cuối kỳ,4. Số dư cuối kỳ,34.231.288.088,,,,,34.231.288.088,34231288088.0,,,,,34231288088.0
+II. Giá trị hao mòn lũy kế,II. Giá trị hao mòn lũy kế,II. Giá trị hao mòn lũy kế,II. Giá trị hao mòn lũy kế,II. Giá trị hao mòn lũy kế,II. Giá trị hao mòn lũy kế,II. Giá trị hao mòn lũy kế,II. Giá trị hao mòn lũy kế,II. Giá trị hao mòn lũy kế,,,,,,
+1. Số dư đầu năm,1. Số dư đầu năm,1. Số dư đầu năm,,,,,,,,,,,,
+2. Khấu hao trong kỳ,2. Khấu hao trong kỳ,2. Khấu hao trong kỳ,,,,,,,,,,,,
+- Khấu hao trong kỳ,- Khấu hao trong kỳ,- Khấu hao trong kỳ,,,,,,,,,,,,
+- Tăng khác,- Tăng khác,- Tăng khác,,,,,,,,,,,,
+3. Giảm trong kỳ,3. Giảm trong kỳ,3. Giảm trong kỳ,,,,,,,,,,,,
+"- Thanh lý, nhượng bán","- Thanh lý, nhượng bán","- Thanh lý, nhượng bán",,,,,,,,,,,,
+- Giảm khác,- Giảm khác,- Giảm khác,,,,,,,,,,,,
+4. Số dư cuối kỳ,4. Số dư cuối kỳ,4. Số dư cuối kỳ,,,,,,,,,,,,
+III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,,,,,,
+1. Tại ngày đầu năm,III. Giá trị còn lại > 1. Tại ngày đầu năm,1. Tại ngày đầu năm,29.584.987.193,,,,,29.584.987.193,29584987193.0,,,,,29584987193.0
+2. Tại ngày cuối kỳ,III. Giá trị còn lại > 2. Tại ngày cuối kỳ,2. Tại ngày cuối kỳ,34.231.288.088,,,,,34.231.288.088,34231288088.0,,,,,34231288088.0

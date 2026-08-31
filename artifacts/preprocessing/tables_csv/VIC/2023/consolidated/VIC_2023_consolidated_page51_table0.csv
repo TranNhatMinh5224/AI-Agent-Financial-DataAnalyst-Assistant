@@ -1,0 +1,13 @@
+﻿row_label_raw,row_label_full,Tên công ty,Số đầu năm (*),Đầu tư thêm/tăng do chuyển từ công ty con trong năm,"Phân chia lãi/(lỗ) từ các công ty liên kết, liên doanh",Thanh lý đầu tư trong năm,Đầu tư giảm do chuyển thành công ty con trong năm,Nhận cổ tức,Số cuối năm (*),numeric__Số đầu năm (*),numeric__Đầu tư thêm/tăng do chuyển từ công ty con trong năm,"numeric__Phân chia lãi/(lỗ) từ các công ty liên kết, liên doanh",numeric__Thanh lý đầu tư trong năm,numeric__Đầu tư giảm do chuyển thành công ty con trong năm,numeric__Nhận cổ tức,numeric__Số cuối năm (*)
+Công ty V-G,Công ty V-G,Công ty V-G,139.450,1.039.033,39.553,-,-,-,1.218.036,139450.0,1039033.0,39553.0,,,,1218036.0
+Công ty Pin Lithium VinFast,Công ty Pin Lithium VinFast,Công ty Pin Lithium VinFast,102.973,-,(102.973),-,-,-,-,102973.0,,-102973.0,,,,
+Công ty Tường Phú,Công ty Tường Phú,Công ty Tường Phú,88.948,-,(1.641),-,-,-,87.307,88948.0,,-1641.0,,,,87307.0
+Công ty Genestory,Công ty Genestory,Công ty Genestory,41.284,-,(4.357),(16.931),-,-,19.996,41284.0,,-4357.0,-16931.0,,,19996.0
+Công ty Giống vật nuôi Hà Nội,Công ty Giống vật nuôi Hà Nội,Công ty Giống vật nuôi Hà Nội,47.236,-,-,-,-,-,47.236,47236.0,,,,,,47236.0
+Công ty Cá Tầm,Công ty Cá Tầm,Công ty Cá Tầm,43.603,44,343,-,(43.990),-,-,43603.0,44.0,343.0,,-43990.0,,
+Công ty Hiệp Thành Công,Công ty Hiệp Thành Công,Công ty Hiệp Thành Công,14.700,-,-,-,(14.700),-,-,14700.0,,,,-14700.0,,
+Công ty In sách Việt Nam,Công ty In sách Việt Nam,Công ty In sách Việt Nam,5.833,-,-,-,-,(342),5.491,5833.0,,,,,-342.0,5491.0
+Công ty VinBrain,Công ty VinBrain,Công ty VinBrain,-,154.007,(27.420),-,-,-,126.587,,154007.0,-27420.0,,,,126587.0
+Công ty Aivicam,Công ty Aivicam,Công ty Aivicam,-,4.158,(1.330),-,-,-,2.828,,4158.0,-1330.0,,,,2828.0
+Công ty VinFA,Công ty VinFA,Công ty VinFA,-,31.608,-,-,-,-,31.608,,31608.0,,,,,31608.0
+TỔNG CỘNG,TỔNG CỘNG,TỔNG CỘNG,484.027,1.228.850,(97.825),(16.931),(58.690),(342),1.539.089,484027.0,1228850.0,-97825.0,-16931.0,-58690.0,-342.0,1539089.0

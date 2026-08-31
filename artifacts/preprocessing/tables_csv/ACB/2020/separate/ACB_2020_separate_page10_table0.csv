@@ -1,0 +1,22 @@
+﻿row_label_raw,row_label_full,col_0,col_1,Thuyết minh,Cho năm tài chính kết thúc ngày 31 tháng 12 năm > 2020 Triệu VND,Cho năm tài chính kết thúc ngày 31 tháng 12 năm > 2019 Triệu VND,numeric__col_1,numeric__Thuyết minh,numeric__Cho năm tài chính kết thúc ngày 31 tháng 12 năm > 2020 Triệu VND,numeric__Cho năm tài chính kết thúc ngày 31 tháng 12 năm > 2019 Triệu VND
+1,1,1,Thu nhập lãi và các khoản thu nhập tương tự,20,31.576.778,28.068.226,,20.0,31576778.0,28068226.0
+2,2,2,Chi phí lãi và các chi phí tương tự,21,(17.228.245),(16.173.827),,21.0,-17228245.0,-16173827.0
+I,I,I,Thu nhập lãi thuần,,14.348.533,11.894.399,,,14348533.0,11894399.0
+3,3,3,Thu nhập từ hoạt động dịch vụ,22,2.597.137,2.583.917,,22.0,2597137.0,2583917.0
+4,4,4,Chi phí hoạt động dịch vụ,23,(1.055.954),(770.499),,23.0,-1055954.0,-770499.0
+II,II,II,Lãi thuần từ hoạt động dịch vụ,,1.541.183,1.813.418,,,1541183.0,1813418.0
+III,III,III,Lãi thuần từ hoạt động kinh doanh ngoại hối,24,687.297,430.425,,24.0,687297.0,430425.0
+IV,IV,IV,Lãi thuần từ mua bán chứng khoán kinh doanh,25,106.469,51.152,,25.0,106469.0,51152.0
+V,V,V,Lãi thuần từ mua bán chứng khoán đầu tư,26,732.115,54.306,,26.0,732115.0,54306.0
+5,5,5,Thu nhập từ hoạt động khác,,461.714,1.545.288,,,461714.0,1545288.0
+6,6,6,Chi phí hoạt động khác,,(186.420),(45.749),,,-186420.0,-45749.0
+VI,VI,VI,Lãi thuần từ hoạt động khác,27,275.294,1.499.539,,27.0,275294.0,1499539.0
+VII,VII,VII,"Thu nhập từ góp vốn, mua cổ phần",28,39.478,33.726,,28.0,39478.0,33726.0
+VIII,VIII,VIII,Chi phí hoạt động,29,(7.423.285),(8.149.168),,29.0,-7423285.0,-8149168.0
+IX,IX,IX,Lợi nhuận thuần từ hoạt động kinh doanh trước chi phí dự phòng rủi ro tín dụng,,10.307.084,7.627.797,,,10307084.0,7627797.0
+X,X,X,Chi phí dự phòng rủi ro tín dụng,30,(949.770),(238.096),,30.0,-949770.0,-238096.0
+XI,XI,XI,Tổng lợi nhuận trước thuế,,9.357.314,7.389.701,,,9357314.0,7389701.0
+7,7,7,Chi phí thuế thu nhập doanh nghiệp hiện hành,,(1.891.715),(1.450.620),,,-1891715.0,-1450620.0
+8,8,8,Chi phí thuế thu nhập doanh nghiệp hoãn lại,,27.762,(21.361),,,27762.0,-21361.0
+XII,XII,XII,Chi phí thuế thu nhập doanh nghiệp,31,(1.863.953),(1.471.981),,31.0,-1863953.0,-1471981.0
+XIII,XIII,XIII,Lợi nhuận sau thuế,,7.493.361,5.917.720,,,7493361.0,5917720.0

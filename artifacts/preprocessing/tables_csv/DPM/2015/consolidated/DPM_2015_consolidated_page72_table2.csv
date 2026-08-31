@@ -1,0 +1,22 @@
+﻿row_label_raw,row_label_full,Chỉ tiêu,Lũy kế từ đầu năm tới cuối năm > 01/01/2015,Lũy kế từ đầu năm tới cuối năm > Số phải nộp,Lũy kế từ đầu năm tới cuối năm > Số đã nộp,Giảm do thoái vốn,31/12/2015,numeric__Lũy kế từ đầu năm tới cuối năm > 01/01/2015,numeric__Lũy kế từ đầu năm tới cuối năm > Số phải nộp,numeric__Lũy kế từ đầu năm tới cuối năm > Số đã nộp,numeric__Giảm do thoái vốn,numeric__31/12/2015
+,,,VND,VND,VND,VND,VND,,,,,
+a) Các khoản phải thu,a) Các khoản phải thu,a) Các khoản phải thu,,,,,,,,,,
+Thuế thu nhập doanh nghiệp,a) Các khoản phải thu > Thuế thu nhập doanh nghiệp,Thuế thu nhập doanh nghiệp,3.152.818.774,-,-,-,3.152.818.774,3152818774.0,,,,3152818774.0
+Thuế thu nhập cá nhân,a) Các khoản phải thu > Thuế thu nhập cá nhân,Thuế thu nhập cá nhân,1.360.021.965,15.827.935.511,15.446.917.863,-,979.004.317,1360021965.0,15827935511.0,15446917863.0,,979004317.0
+Thuế môn bài,a) Các khoản phải thu > Thuế môn bài,Thuế môn bài,3.000.000,3.000.000,-,-,-,3000000.0,3000000.0,,,
+Cộng,a) Các khoản phải thu > Cộng,Cộng,4.515.840.739,15.830.935.511,15.446.917.863,-,4.131.823.091,4515840739.0,15830935511.0,15446917863.0,,4131823091.0
+b) Các khoản phải nộp,b) Các khoản phải nộp,b) Các khoản phải nộp,,,,,,,,,,
+Thuế GTGT hàng bán nội địa,b) Các khoản phải nộp > Thuế GTGT hàng bán nội địa,Thuế GTGT hàng bán nội địa,462.406.107,10.762.073.572,9.552.260.479,(51.041.589),1.621.177.611,462406107.0,10762073572.0,9552260479.0,-51041589.0,1621177611.0
+Thuế GTGT hàng nhập khẩu,b) Các khoản phải nộp > Thuế GTGT hàng nhập khẩu,Thuế GTGT hàng nhập khẩu,-,25.290.085.789,25.290.085.789,-,-,,25290085789.0,25290085789.0,,
+"Thuế xuất, nhập khẩu","b) Các khoản phải nộp > Thuế xuất, nhập khẩu","Thuế xuất, nhập khẩu",-,64.731.936.255,64.731.936.255,-,-,,64731936255.0,64731936255.0,,
+Thuế tiêu thụ đặc biệt,Thuế tiêu thụ đặc biệt,Thuế tiêu thụ đặc biệt,,,,,-,,,,,
+Thuế nhập khẩu,Thuế nhập khẩu,Thuế nhập khẩu,,,,,-,,,,,
+Thuế thu nhập doanh nghiệp,Thuế nhập khẩu > Thuế thu nhập doanh nghiệp,Thuế thu nhập doanh nghiệp,48.951.016.887,309.160.303.969,279.826.182.950,(653.071.846),77.632.066.060,48951016887.0,309160303969.0,279826182950.0,-653071846.0,77632066060.0
+Thuế thu nhập cá nhân,Thuế nhập khẩu > Thuế thu nhập cá nhân,Thuế thu nhập cá nhân,2.615.904.322,26.205.509.127,24.965.035.793,(54.848.079),3.801.529.577,2615904322.0,26205509127.0,24965035793.0,-54848079.0,3801529577.0
+Thuế tài nguyên,Thuế nhập khẩu > Thuế tài nguyên,Thuế tài nguyên,30.299.840,345.331.840,346.190.400,-,29.441.280,30299840.0,345331840.0,346190400.0,,29441280.0
+Thuế bảo vệ môi trường,Thuế nhập khẩu > Thuế bảo vệ môi trường,Thuế bảo vệ môi trường,498.000,49.680.000,43.242.000,-,6.936.000,498000.0,49680000.0,43242000.0,,6936000.0
+Thuế môn bài,Thuế môn bài,Thuế môn bài,,,,,-,,,,,
+Thuế môn bài,Thuế môn bài > Thuế môn bài,Thuế môn bài,-,30.000.000,30.000.000,-,-,,30000000.0,30000000.0,,
+Thuế nhà thầu nước ngoài,Thuế môn bài > Thuế nhà thầu nước ngoài,Thuế nhà thầu nước ngoài,24.822.359,15.124.562.985,15.149.385.344,-,-,24822359.0,15124562985.0,15149385344.0,,
+Các loại thuế khác,Thuế môn bài > Các loại thuế khác,Các loại thuế khác,-,16.779.250,16.779.250,-,-,,16779250.0,16779250.0,,
+Cộng,Thuế môn bài > Cộng,Cộng,52.084.947.515,451.716.262.787,419.951.098.260,(758.961.514),83.091.150.528,52084947515.0,451716262787.0,419951098260.0,-758961514.0,83091150528.0

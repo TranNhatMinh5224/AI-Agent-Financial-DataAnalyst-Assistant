@@ -1,0 +1,15 @@
+﻿row_label_raw,row_label_full,Stt,Tên Công ty,Địa chỉ,Hoạt động chính,Tỷ lệ góp vốn,Tỷ lệ biểu quyết,Tỷ lệ lợi ích,numeric__Tên Công ty,numeric__Địa chỉ,numeric__Hoạt động chính,numeric__Tỷ lệ góp vốn,numeric__Tỷ lệ biểu quyết,numeric__Tỷ lệ lợi ích
+I,I,I,Công ty con,Công ty con,Công ty con,Công ty con,Công ty con,Công ty con,,,,,,
+1,I > 1,1,Công ty TNHH HP Hospitality Nha Trang (*),Khánh Hòa,Phát triển dự án Bất động sản,78%,78%,78%,,,,0.78,0.78,0.78
+2,I > 2,2,Công ty TNHH MTV Hải Phát - Bình Thuận,Bình Thuận,Đầu tư kinh doanh bất động sản; Dịch vụ cho thuê,100%,100%,100%,,,,1.0,1.0,1.0
+3,I > 3,3,Công ty TNHH MTV Địa ốc Heritage Việt Nam,Thừa Thiên Huế,Kinh doanh bất động sản,100%,100%,100%,,,,1.0,1.0,1.0
+4,I > 4,4,Công ty TNHH MTV Địa ốc Ruby,Hà Nội,Kinh doanh phát triển các dự án Bất động sản,100%,100%,100%,,,,1.0,1.0,1.0
+5,I > 5,5,Công ty TNHH MTV Đầu tư Sapphire,Hà Nội,Hỗ trợ dịch vụ tài chính,100%,100%,100%,,,,1.0,1.0,1.0
+6,I > 6,6,Công ty TNHH MTV Đầu tư và Phát triển Topaz PM Việt Nam,Hà Nội,"Hoạt động tư vấn kiến trúc, Tư vấn quản lý dự án",100%,100%,100%,,,,1.0,1.0,1.0
+7,I > 7,7,Công ty TNNN MTV Diamond IC,Hà Nội,Hoạt động tư vấn đầu tư,100%,100%,100%,,,,1.0,1.0,1.0
+8,I > 8,8,Công ty TNHH Maipha PENÍNSULA,Lạng Sơn,Đầu tư kinh doanh bất động sản,70%,70%,70%,,,,0.7,0.7,0.7
+9,I > 9,9,Công ty Cổ phần Hải Phát Retail (Công ty con gián tiếp),Hà Nội,Đầu tư kinh doanh bất động sản,"81,59%","81,59%","81,59%",,,,0.8159000000000001,0.8159000000000001,0.8159000000000001
+10,I > 10,10,Công ty Cổ phần Dịch vụ đô thị PSP (Công ty con gián tiếp),Hà Nội,Quản lý sau đầu tư,"93,87%","93,87%","93,87%",,,,0.9387000000000001,0.9387000000000001,0.9387000000000001
+II,II,II,"Công ty Liên doanh, liên kết","Công ty Liên doanh, liên kết","Công ty Liên doanh, liên kết","Công ty Liên doanh, liên kết","Công ty Liên doanh, liên kết","Công ty Liên doanh, liên kết",,,,,,
+1,II > 1,1,Công ty TNHH BT Hà Đông,Hà Nội,"Xây dựng, hoàn thiện công trình xây dựng",50%,50%,50%,,,,0.5,0.5,0.5
+2,II > 2,2,Công ty Cổ phần Greenland Bắc Giang (***),Bắc Ninh,Đầu tư kinh doanh bất động sản,20%,20%,20%,,,,0.2,0.2,0.2

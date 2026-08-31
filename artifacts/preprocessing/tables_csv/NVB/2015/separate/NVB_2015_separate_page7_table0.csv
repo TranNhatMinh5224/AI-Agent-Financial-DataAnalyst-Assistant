@@ -1,0 +1,25 @@
+﻿row_label_raw,row_label_full,CHỈ TIÊU,Thuyết minh,31/12/2015,01/01/2015,numeric__Thuyết minh,numeric__31/12/2015,numeric__01/01/2015
+A. TÀI SẢN,A. TÀI SẢN,A. TÀI SẢN,A. TÀI SẢN,A. TÀI SẢN,A. TÀI SẢN,,,
+"I. Tiền mặt, vàng bạc, đá quý","A. TÀI SẢN > I. Tiền mặt, vàng bạc, đá quý","I. Tiền mặt, vàng bạc, đá quý",V.01,285.703.627.650,220.380.213.732,,285703627650.0,220380213732.0
+II. Tiền gửi tại ngân hàng nhà nước,A. TÀI SẢN > II. Tiền gửi tại ngân hàng nhà nước,II. Tiền gửi tại ngân hàng nhà nước,V.02,1.812.435.183.917,840.907.145.366,,1812435183917.0,840907145366.0
+III. Tiền gửi và cho vay các TCTD khác,A. TÀI SẢN > III. Tiền gửi và cho vay các TCTD khác,III. Tiền gửi và cho vay các TCTD khác,V.03,6.421.902.450.952,6.656.016.655.436,,6421902450952.0,6656016655436.0
+1. Tiền gửi tại các TCTD khác,A. TÀI SẢN > 1. Tiền gửi tại các TCTD khác,1. Tiền gửi tại các TCTD khác,,6.036.902.450.952,4.160.705.624.186,,6036902450952.0,4160705624186.0
+2. Cho vay các TCTD khác,A. TÀI SẢN > 2. Cho vay các TCTD khác,2. Cho vay các TCTD khác,,385.000.000.000,2.500.000.000.000,,385000000000.0,2500000000000.0
+3. Dự phòng rủi ro,A. TÀI SẢN > 3. Dự phòng rủi ro,3. Dự phòng rủi ro,,-,(4.688.968.750),,,-4688968750.0
+IV. Chứng khoán kinh doanh,IV. Chứng khoán kinh doanh,IV. Chứng khoán kinh doanh,,-,-,,,
+1. Chứng khoán kinh doanh,1. Chứng khoán kinh doanh,1. Chứng khoán kinh doanh,,-,-,,,
+2. Dự phòng rủi ro chứng khoán kinh doanh,2. Dự phòng rủi ro chứng khoán kinh doanh,2. Dự phòng rủi ro chứng khoán kinh doanh,,-,-,,,
+V. Các công cụ tài chính phải sinh và các tài sản tài chính khác,2. Dự phòng rủi ro chứng khoán kinh doanh > V. Các công cụ tài chính phải sinh và các tài sản tài chính khác,V. Các công cụ tài chính phải sinh và các tài sản tài chính khác,,-,3.407.125.092,,,3407125092.0
+VI. Cho vay khách hàng,2. Dự phòng rủi ro chứng khoán kinh doanh > VI. Cho vay khách hàng,VI. Cho vay khách hàng,,20.222.030.678.959,16.445.271.447.449,,20222030678959.0,16445271447449.0
+1. Cho vay khách hàng,2. Dự phòng rủi ro chứng khoán kinh doanh > 1. Cho vay khách hàng,1. Cho vay khách hàng,V.04,20.431.441.471.031,16.640.656.545.729,,20431441471031.0,16640656545729.0
+2. Dự phòng rủi ro cho vay khách hàng,2. Dự phòng rủi ro chứng khoán kinh doanh > 2. Dự phòng rủi ro cho vay khách hàng,2. Dự phòng rủi ro cho vay khách hàng,V.05,(209.410.792.072),(195.385.098.280),,-209410792072.0,-195385098280.0
+VII. Chứng khoán đầu tư,2. Dự phòng rủi ro chứng khoán kinh doanh > VII. Chứng khoán đầu tư,VII. Chứng khoán đầu tư,V.06,10.046.019.311.339,5.158.793.089.638,,10046019311339.0,5158793089638.0
+1. Chứng khoán đầu tư sẵn sáng để bán,2. Dự phòng rủi ro chứng khoán kinh doanh > 1. Chứng khoán đầu tư sẵn sáng để bán,1. Chứng khoán đầu tư sẵn sáng để bán,,4.466.278.487.845,3.687.996.835.756,,4466278487845.0,3687996835756.0
+2. Chứng khoán đầu tư giữ đến ngày đáo hạn,2. Dự phòng rủi ro chứng khoán kinh doanh > 2. Chứng khoán đầu tư giữ đến ngày đáo hạn,2. Chứng khoán đầu tư giữ đến ngày đáo hạn,,5.579.740.823.494,1.470.796.253.882,,5579740823494.0,1470796253882.0
+3. Dự phòng rủi ro chứng khoán đầu tư,3. Dự phòng rủi ro chứng khoán đầu tư,3. Dự phòng rủi ro chứng khoán đầu tư,,,-,,,
+"VIII. Góp vốn, đầu tư dài hạn","3. Dự phòng rủi ro chứng khoán đầu tư > VIII. Góp vốn, đầu tư dài hạn","VIII. Góp vốn, đầu tư dài hạn",V.07,920.049.362.772,1.016.182.944.565,,920049362772.0,1016182944565.0
+1. Đầu tư vào công ty con,3. Dự phòng rủi ro chứng khoán đầu tư > 1. Đầu tư vào công ty con,1. Đầu tư vào công ty con,,50.000.000.000,50.000.000.000,,50000000000.0,50000000000.0
+2. Vốn góp liên doanh,2. Vốn góp liên doanh,2. Vốn góp liên doanh,,,-,,,
+3. Đầu tư vào công ty liên kết,3. Đầu tư vào công ty liên kết,3. Đầu tư vào công ty liên kết,,,-,,,
+4. Đầu tư dài hạn khác,3. Đầu tư vào công ty liên kết > 4. Đầu tư dài hạn khác,4. Đầu tư dài hạn khác,,873.967.000.000,970.855.000.000,,873967000000.0,970855000000.0
+5. Dự phòng giảm giá đầu tư dài hạn,3. Đầu tư vào công ty liên kết > 5. Dự phòng giảm giá đầu tư dài hạn,5. Dự phòng giảm giá đầu tư dài hạn,,(3.917.637.228),(4.672.055.435),,-3917637228.0,-4672055435.0

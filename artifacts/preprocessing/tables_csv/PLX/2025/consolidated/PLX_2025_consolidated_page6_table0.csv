@@ -1,0 +1,24 @@
+﻿row_label_raw,row_label_full,col_0,Mã số,Thuyết minh,31/12/2025 VND,1/1/2025 VND,numeric__Mã số,numeric__Thuyết minh,numeric__31/12/2025 VND,numeric__1/1/2025 VND
+TÀI SẢN,TÀI SẢN,TÀI SẢN,TÀI SẢN,TÀI SẢN,TÀI SẢN,TÀI SẢN,,,,
+Tài sản ngắn hạn(100 = 110 + 120 + 130 + 140 + 150),TÀI SẢN > Tài sản ngắn hạn(100 = 110 + 120 + 130 + 140 + 150),Tài sản ngắn hạn(100 = 110 + 120 + 130 + 140 + 150),100,,59.561.171.811.187,59.543.529.720.085,100.0,,59561171811187.0,59543529720085.0
+Tiền và các khoản tương đương tiền,TÀI SẢN > Tiền và các khoản tương đương tiền,Tiền và các khoản tương đương tiền,110,5,10.675.798.547.805,14.933.068.792.315,110.0,5.0,10675798547805.0,14933068792315.0
+Tiền,TÀI SẢN > Tiền,Tiền,111,,7.700.724.630.475,5.329.158.367.088,111.0,,7700724630475.0,5329158367088.0
+Các khoản tương đương tiền,TÀI SẢN > Các khoản tương đương tiền,Các khoản tương đương tiền,112,,2.975.073.917.330,9.603.910.425.227,112.0,,2975073917330.0,9603910425227.0
+Đầu tư tài chính ngắn hạn,TÀI SẢN > Đầu tư tài chính ngắn hạn,Đầu tư tài chính ngắn hạn,120,,17.857.388.795.085,15.108.762.286.646,120.0,,17857388795085.0,15108762286646.0
+Chứng khoán kinh doanh,TÀI SẢN > Chứng khoán kinh doanh,Chứng khoán kinh doanh,121,,6.641.022.742,6.691.022.742,121.0,,6641022742.0,6691022742.0
+Dự phòng giảm giá chứng khoán kinh doanh,TÀI SẢN > Dự phòng giảm giá chứng khoán kinh doanh,Dự phòng giảm giá chứng khoán kinh doanh,122,,(1.909.000.000),(2.095.304.108),122.0,,-1909000000.0,-2095304108.0
+Đầu tư nắm giữ đến ngày đáo hạn,TÀI SẢN > Đầu tư nắm giữ đến ngày đáo hạn,Đầu tư nắm giữ đến ngày đáo hạn,123,6(a),17.852.656.772.343,15.104.166.568.012,123.0,,17852656772343.0,15104166568012.0
+Các khoản phải thu ngắn hạn,TÀI SẢN > Các khoản phải thu ngắn hạn,Các khoản phải thu ngắn hạn,130,,15.969.900.845.614,12.465.105.480.349,130.0,,15969900845614.0,12465105480349.0
+Phải thu ngắn hạn của khách hàng,TÀI SẢN > Phải thu ngắn hạn của khách hàng,Phải thu ngắn hạn của khách hàng,131,7,15.782.706.609.584,12.232.902.323.561,131.0,7.0,15782706609584.0,12232902323561.0
+Trả trước cho người bán ngắn hạn,TÀI SẢN > Trả trước cho người bán ngắn hạn,Trả trước cho người bán ngắn hạn,132,,532.504.290.962,383.629.822.851,132.0,,532504290962.0,383629822851.0
+Phải thu ngắn hạn khác,TÀI SẢN > Phải thu ngắn hạn khác,Phải thu ngắn hạn khác,136,8,958.916.064.386,654.385.304.273,136.0,8.0,958916064386.0,654385304273.0
+Dự phòng các khoản phải thu ngắn hạn khó đòi,TÀI SẢN > Dự phòng các khoản phải thu ngắn hạn khó đòi,Dự phòng các khoản phải thu ngắn hạn khó đòi,137,9,(1.304.989.454.114),(806.531.504.366),137.0,9.0,-1304989454114.0,-806531504366.0
+Tài sân thiếu chờ xử lý,TÀI SẢN > Tài sân thiếu chờ xử lý,Tài sân thiếu chờ xử lý,139,,763.334.796,719.534.030,139.0,,763334796.0,719534030.0
+Hàng tồn kho,TÀI SẢN > Hàng tồn kho,Hàng tồn kho,140,10,13.861.852.856.196,15.673.039.677.316,140.0,10.0,13861852856196.0,15673039677316.0
+Hàng tồn kho,TÀI SẢN > Hàng tồn kho,Hàng tồn kho,141,,14.032.335.228.444,15.746.686.393.576,141.0,,14032335228444.0,15746686393576.0
+Dự phòng giảm giá hàng tồn kho,TÀI SẢN > Dự phòng giảm giá hàng tồn kho,Dự phòng giảm giá hàng tồn kho,149,,(170.482.372.248),(73.646.716.260),149.0,,-170482372248.0,-73646716260.0
+Tài sân ngắn hạn khác,TÀI SẢN > Tài sân ngắn hạn khác,Tài sân ngắn hạn khác,150,,1.196.230.766.487,1.363.553.483.459,150.0,,1196230766487.0,1363553483459.0
+Chi phí trả trước ngắn hạn,TÀI SẢN > Chi phí trả trước ngắn hạn,Chi phí trả trước ngắn hạn,151,,358.703.338.716,353.345.217.068,151.0,,358703338716.0,353345217068.0
+Thuế giá trị gia tăng được khấu trừ,TÀI SẢN > Thuế giá trị gia tăng được khấu trừ,Thuế giá trị gia tăng được khấu trừ,152,,468.115.179.519,411.308.909.245,152.0,,468115179519.0,411308909245.0
+Thuế và các khoản phải thu Nhà nước,TÀI SẢN > Thuế và các khoản phải thu Nhà nước,Thuế và các khoản phải thu Nhà nước,153,18,368.603.997.624,598.191.162.379,153.0,18.0,368603997624.0,598191162379.0
+Tài sân ngắn hạn khác,TÀI SẢN > Tài sân ngắn hạn khác,Tài sân ngắn hạn khác,155,,808.250.628,708.194.767,155.0,,808250628.0,708194767.0

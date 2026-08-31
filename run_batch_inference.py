@@ -6,6 +6,14 @@ import sys
 from pathlib import Path
 from tqdm import tqdm
 
+# Đảm bảo UTF-8 encoding trên Windows console
+if sys.platform == "win32":
+    try:
+        sys.stdout.reconfigure(encoding="utf-8")
+        sys.stderr.reconfigure(encoding="utf-8")
+    except Exception:
+        pass
+
 # Đảm bảo Python nhận diện được thư mục src
 sys.path.append(str(Path(__file__).parent / "src"))
 
@@ -19,10 +27,11 @@ from financial_text_to_pandas.submission import create_submission_item
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--config", default="config/run_profile.yaml")
+    parser.add_argument("--config", default="config/run_profile_api.yaml")
     parser.add_argument("--questions", default="ViFinQA/questions/questions.jsonl")
     parser.add_argument("--output", default="submission")
-    parser.add_argument("--limit", type=int, default=0, help="Limit number of questions to process (overrides config if > 0)")
+    parser.add_argument("--start", type=int, default=1, help="Start question number (1-indexed, e.g. --start 501)")
+    parser.add_argument("--limit", type=int, default=0, help="Limit number of questions to process (e.g. --limit 500)")
     args = parser.parse_args()
 
     cfg = load_config(Path(args.config))
@@ -82,10 +91,16 @@ def main():
     failed_ids   = set()    # IDs câu đã chạy nhưng LỖI  → sẽ chạy lại
 
     def _is_successful(item: dict) -> bool:
-        """Câu được coi là thành công nếu có kết quả != 0 HOẶC có evidence."""
-        has_answer   = item.get("answer", 0.0) not in (0.0, None, "")
-        has_evidence = bool(item.get("evidence") or item.get("relevant_docs"))
-        return has_answer or has_evidence
+        """Câu được coi là thành công nếu có kết quả số hợp lệ khác 0.0,
+        hoặc là 0.0 nhưng có code gán kết quả thực sự (result = ...)."""
+        ans = item.get("answer")
+        if ans is None or ans == "":
+            return False
+        if ans != 0.0:
+            return True
+        # Nếu là 0.0, kiểm tra xem có code gán biến result thực sự hay không
+        code = item.get("pandas_query", "")
+        return "result =" in code or "result=" in code
 
     if output_json.exists():
         try:
@@ -115,7 +130,10 @@ def main():
             if not line: continue
             questions.append(json.loads(line))
 
-    # Determine limit
+    # Determine start and limit (hỗ trợ chia việc chạy song song trên nhiều máy)
+    start_idx = max(0, args.start - 1)
+    questions = questions[start_idx:]
+
     limit = args.limit
     if limit == 0 and getattr(cfg, 'inference_limit_questions', None):
         limit = cfg.inference_limit_questions
@@ -138,10 +156,8 @@ def main():
             # using BM25 by default here for speed, or hybrid if embedding is ready
             # Fallback to bm25 if hybrid fails
             try:
-                # Sử dụng 'hybrid' để kết hợp cả BM25 và Embedding (Dense)
-                # Nếu bạn của bạn có máy yếu/không có GPU, hãy giữ no_reranker=True.
-                # Nếu có GPU mạnh, đổi no_reranker=False để kết quả tuyệt đối chính xác nhất.
-                tables = run_search(qtext, cfg, method="hybrid", top_k=80, no_reranker=True)
+                # Chạy Hybrid Search kết hợp Reranker Cloud API / RRF
+                tables = run_search(qtext, cfg, method="hybrid", top_k=80, no_reranker=False)
             except Exception as e:
                 logging.warning(f"Search failed: {e}")
                 tables = []
@@ -231,9 +247,11 @@ def main():
 
             results.append(item.to_dict())
 
-            # Save incrementally
-            with open(output_json, "w", encoding="utf-8") as f:
+            # Save incrementally (Atomic write để chống hỏng file nếu bị ngắt điện đột ngột)
+            temp_file = output_json.with_suffix(".tmp")
+            with open(temp_file, "w", encoding="utf-8") as f:
                 json.dump(results, f, ensure_ascii=False, indent=2)
+            temp_file.replace(output_json)
 
             processed_ids.add(qid)
 

@@ -1,0 +1,21 @@
+﻿row_label_raw,row_label_full,col_0,Mã số,Thuyết minh,2018 VND,2017 VND,numeric__Mã số,numeric__Thuyết minh,numeric__2018 VND,numeric__2017 VND
+Doanh thu cung cấp dịch vụ,Doanh thu cung cấp dịch vụ,Doanh thu cung cấp dịch vụ,01,26,1.694.460.145.079,1.302.882.705.987,1.0,26.0,1694460145079.0,1302882705987.0
+Giá vốn dịch vụ cung cấp,Giá vốn dịch vụ cung cấp,Giá vốn dịch vụ cung cấp,11,,1.198.472.433.710,895.119.284.963,11.0,,1198472433710.0,895119284963.0
+Lợi nhuận gộp (20 = 01 - 11),Lợi nhuận gộp (20 = 01 - 11),Lợi nhuận gộp (20 = 01 - 11),20,,495.987.711.369,407.763.421.024,20.0,,495987711369.0,407763421024.0
+Doanh thu hoạt động tài chính,Doanh thu hoạt động tài chính,Doanh thu hoạt động tài chính,21,27,8.650.993.772,10.460.812.513,21.0,27.0,8650993772.0,10460812513.0
+Chi phí tài chính,Chi phí tài chính,Chi phí tài chính,22,28,34.897.894.209,49.909.240.771,22.0,28.0,34897894209.0,49909240771.0
+Trong đó: Chi phí lãi vay,Trong đó: Chi phí lãi vay,Trong đó: Chi phí lãi vay,23,,34.708.326.938,49.628.735.253,23.0,,34708326938.0,49628735253.0
+Phần lãi trong công ty liên kết,Phần lãi trong công ty liên kết,Phần lãi trong công ty liên kết,24,,6.855.017.278,5.851.648.670,24.0,,6855017278.0,5851648670.0
+Chi phí bán hàng,Chi phí bán hàng,Chi phí bán hàng,25,29,26.635.136.731,14.864.655.867,25.0,29.0,26635136731.0,14864655867.0
+Chi phí quản lý doanh nghiệp,Chi phí quản lý doanh nghiệp,Chi phí quản lý doanh nghiệp,26,30,63.187.276.441,60.881.426.069,26.0,30.0,63187276441.0,60881426069.0
+Lợi nhuận thuần từ hoạt động kinh doanh {30 = 20 + (21 - 22) + 24 - (25 + 26)},Lợi nhuận thuần từ hoạt động kinh doanh {30 = 20 + (21 - 22) + 24 - (25 + 26)},Lợi nhuận thuần từ hoạt động kinh doanh {30 = 20 + (21 - 22) + 24 - (25 + 26)},30,,386.773.415.038,298.420.559.500,30.0,,386773415038.0,298420559500.0
+Thu nhập khác,Thu nhập khác,Thu nhập khác,31,31,2.078.652.847,1.290.472.574,31.0,31.0,2078652847.0,1290472574.0
+Chi phí khác,Chi phí khác,Chi phí khác,32,32,686.908.787,1.226.723.031,32.0,32.0,686908787.0,1226723031.0
+Kết quả từ hoạt động khác (40 = 31 - 32),Kết quả từ hoạt động khác (40 = 31 - 32),Kết quả từ hoạt động khác (40 = 31 - 32),40,,1.391.744.060,63.749.543,40.0,,1391744060.0,63749543.0
+Lợi nhuận kế toán trước thuế (50 = 30 + 40),Lợi nhuận kế toán trước thuế (50 = 30 + 40),Lợi nhuận kế toán trước thuế (50 = 30 + 40),50,,388.165.159.098,298.484.309.043,50.0,,388165159098.0,298484309043.0
+Chi phí thuế TNDN hiện hành,Chi phí thuế TNDN hiện hành,Chi phí thuế TNDN hiện hành,51,34,33.920.152.609,34.656.379.200,51.0,34.0,33920152609.0,34656379200.0
+Lợi nhuận sau thuế TNDN (60 = 50 - 51),Lợi nhuận sau thuế TNDN (60 = 50 - 51),Lợi nhuận sau thuế TNDN (60 = 50 - 51),60,,354.245.006.489,263.827.929.843,60.0,,354245006489.0,263827929843.0
+Phân bổ cho:,Phân bổ cho:,Phân bổ cho:,,,,,,,,
+Cổ đông của công ty mẹ,Phân bổ cho: > Cổ đông của công ty mẹ,Cổ đông của công ty mẹ,61,,300.408.605.009,237.278.566.793,61.0,,300408605009.0,237278566793.0
+Cổ đông không kiểm soát,Phân bổ cho: > Cổ đông không kiểm soát,Cổ đông không kiểm soát,62,,53.836.401.480,26.549.363.050,62.0,,53836401480.0,26549363050.0
+Lãi cơ bản trên cổ phiếu,Phân bổ cho: > Lãi cơ bản trên cổ phiếu,Lãi cơ bản trên cổ phiếu,70,35,5.395,4.261,70.0,35.0,5395.0,4261.0

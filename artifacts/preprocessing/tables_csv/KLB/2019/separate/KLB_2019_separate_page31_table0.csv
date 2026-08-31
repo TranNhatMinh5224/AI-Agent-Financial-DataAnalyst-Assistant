@@ -1,0 +1,22 @@
+﻿row_label_raw,row_label_full,col_0,Nhà cửa vật kiến trúc,"Máy móc, thiết bị",Phương tiện vận chuyển,"Thiết bị, dụng cụ quản lý",Tài sản cố định khác,Cộng,numeric__Nhà cửa vật kiến trúc,"numeric__Máy móc, thiết bị",numeric__Phương tiện vận chuyển,"numeric__Thiết bị, dụng cụ quản lý",numeric__Tài sản cố định khác,numeric__Cộng
+Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,,,,,,
+Số đầu năm,Nguyên giá > Số đầu năm,Số đầu năm,678.793,75.318,108.011,113.730,20.482,996.334,678793.0,75318.0,108011.0,113730.0,20482.0,996334.0
+Mua trong năm,Nguyên giá > Mua trong năm,Mua trong năm,823,1.138,-,-,-,1.961,823.0,1138.0,,,,1961.0
+Đầu tư xây dựng cơ bản hoàn thành,Nguyên giá > Đầu tư xây dựng cơ bản hoàn thành,Đầu tư xây dựng cơ bản hoàn thành,43.538,1.738,5.047,8.668,643,59.634,43538.0,1738.0,5047.0,8668.0,643.0,59634.0
+"Thanh lý, nhượng bán","Nguyên giá > Thanh lý, nhượng bán","Thanh lý, nhượng bán",(348),(679),(1.049),(156),-,(2.232),-348.0,-679.0,-1049.0,-156.0,,-2232.0
+Phân loại lại,Nguyên giá > Phân loại lại,Phân loại lại,1.219,(5.277),6.519,(5.668),3.207,-,1219.0,-5277.0,6519.0,-5668.0,3207.0,
+Số cuối năm,Nguyên giá > Số cuối năm,Số cuối năm,724.025,72.238,118.528,116.574,24.332,1.055.697,724025.0,72238.0,118528.0,116574.0,24332.0,1055697.0
+Trong đó:,Trong đó:,Trong đó:,-,-,-,-,-,-,,,,,,
+Đã khấu hao hết nhưng vẫn còn sử dụng,Trong đó: > Đã khấu hao hết nhưng vẫn còn sử dụng,Đã khấu hao hết nhưng vẫn còn sử dụng,3.492,8.660,19.992,21.676,6.759,60.579,3492.0,8660.0,19992.0,21676.0,6759.0,60579.0
+Giá trị hao mòn,Giá trị hao mòn,Giá trị hao mòn,Giá trị hao mòn,Giá trị hao mòn,Giá trị hao mòn,Giá trị hao mòn,Giá trị hao mòn,Giá trị hao mòn,,,,,,
+Số đầu năm,Giá trị hao mòn > Số đầu năm,Số đầu năm,76.205,23.892,51.457,57.663,8.414,217.631,76205.0,23892.0,51457.0,57663.0,8414.0,217631.0
+Khấu hao trong năm,Giá trị hao mòn > Khấu hao trong năm,Khấu hao trong năm,26.914,5.750,9.602,11.521,1.934,55.721,26914.0,5750.0,9602.0,11521.0,1934.0,55721.0
+"Thanh lý, nhượng bán","Giá trị hao mòn > Thanh lý, nhượng bán","Thanh lý, nhượng bán",(347),(679),(811),(156),-,(1.993),-347.0,-679.0,-811.0,-156.0,,-1993.0
+Phân loại lại,Giá trị hao mòn > Phân loại lại,Phân loại lại,1.743,(3.564),5.328,(5.441),1.934,-,1743.0,-3564.0,5328.0,-5441.0,1934.0,
+Số cuối năm,Giá trị hao mòn > Số cuối năm,Số cuối năm,104.515,25.399,65.576,63.587,12.282,271.359,104515.0,25399.0,65576.0,63587.0,12282.0,271359.0
+Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,,,,,,
+Số đầu năm,Giá trị còn lại > Số đầu năm,Số đầu năm,602.588,51.426,56.554,56.067,12.068,778.703,602588.0,51426.0,56554.0,56067.0,12068.0,778703.0
+Số cuối năm,Giá trị còn lại > Số cuối năm,Số cuối năm,619.510,46.839,52.952,52.987,12.050,784.338,619510.0,46839.0,52952.0,52987.0,12050.0,784338.0
+Trong đó:,Trong đó:,Trong đó:,Trong đó:,Trong đó:,Trong đó:,Trong đó:,Trong đó:,Trong đó:,,,,,,
+Tạm thời chưa sử dụng,Tạm thời chưa sử dụng,Tạm thời chưa sử dụng,-,-,-,-,-,-,,,,,,
+Đang chờ thanh lý,Đang chờ thanh lý,Đang chờ thanh lý,-,-,-,-,-,-,,,,,,

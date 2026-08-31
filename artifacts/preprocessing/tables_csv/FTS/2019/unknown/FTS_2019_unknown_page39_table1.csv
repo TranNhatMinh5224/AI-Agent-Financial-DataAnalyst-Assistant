@@ -1,0 +1,17 @@
+﻿row_label_raw,row_label_full,STT,Danh mục các loại tài sản tài chính,Giá trị mua theo số kế toán,Giá thị trường(*),Chênh lệch đánh giá lại kỳ này,Chênh lệch đánh giá lại kỳ trước (**),Chênh lệch điều chỉnh số kế toán kỳ này,numeric__Danh mục các loại tài sản tài chính,numeric__Giá trị mua theo số kế toán,numeric__Giá thị trường(*),numeric__Chênh lệch đánh giá lại kỳ này,numeric__Chênh lệch đánh giá lại kỳ trước (**),numeric__Chênh lệch điều chỉnh số kế toán kỳ này
+A,A,A,B,C,D,E=D-C,F,G=E-F,,,,,,
+I,A > I,I,Loại FVTPL,196.702.133.559,470.351.407.947,273.649.274.388,252.164.874.271,21.484.400.117,,196702133559.0,470351407947.0,273649274388.0,252164874271.0,21484400117.0
+1,A > 1,1,"Cổ phiếu niêm yết, đăng ký GD",14.695.643.726,288.344.918.114,273.649.274.388,252.164.874.271,21.484.400.117,,14695643726.0,288344918114.0,273649274388.0,252164874271.0,21484400117.0
+2,A > 2,2,Cổ phiếu chưa niêm yết,2.006.489.833,2.006.489.833,,,,,2006489833.0,2006489833.0,,,
+3,3,3,Trái phiếu niêm yết,,,,,,,,,,,
+4,4,4,Trái phiếu chưa niêm yết,,,,,,,,,,,
+5,4 > 5,5,Công cụ thị trường tiền tệ,180.000.000.000,180.000.000.000,,,,,180000000000.0,180000000000.0,,,
+6,6,6,Các khoản đầu tư phải sinh niêm yết,,,,,,,,,,,
+7,7,7,Các khoản đầu tư phải sinh chưa niêm yết,,,,,,,,,,,
+8,8,8,Các khoản đầu tư cho vay,,,,,,,,,,,
+9,9,9,Các khoản đầu tư đem thế chấp,,,,,,,,,,,
+10,10,10,Các khoản đầu tư mua chưa chuyển quyền sở hữu,,,,,,,,,,,
+II,II,II,Loại HTM,,,,,,,,,,,
+III,III,III,Loại các khoản cho vay và phải thu,,,,,,,,,,,
+IV,IV,IV,Loại AFS,,,,,,,,,,,
+,,,Cộng,196.702.133.559,470.351.407.947,273.649.274.388,252.164.874.271,21.484.400.117,,196702133559.0,470351407947.0,273649274388.0,252164874271.0,21484400117.0

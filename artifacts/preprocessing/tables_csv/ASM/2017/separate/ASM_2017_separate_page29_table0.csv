@@ -1,0 +1,22 @@
+﻿row_label_raw,row_label_full,Chỉ tiêu,"Nhà cửa, vật kiến trúc","Máy móc, thiết bị","Phương tiện vận tải, truyền dẫn",Thiết bị quản lý,TSCĐ khác,Cộng,"numeric__Nhà cửa, vật kiến trúc","numeric__Máy móc, thiết bị","numeric__Phương tiện vận tải, truyền dẫn",numeric__Thiết bị quản lý,numeric__TSCĐ khác,numeric__Cộng
+I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,,,,,,
+1. Số dư đầu năm,I. Nguyên giá > 1. Số dư đầu năm,1. Số dư đầu năm,30.807.949.062,1.534.170.609,15.114.986.694,2.868.088.151,,50.325.194.516,30807949062.0,1534170609.0,15114986694.0,2868088151.0,,50325194516.0
+2. Số tăng trong năm,I. Nguyên giá > 2. Số tăng trong năm,2. Số tăng trong năm,373.088.000,,4.453.978.817,,,4.827.066.817,373088000.0,,4453978817.0,,,4827066817.0
+- Mua trong năm,I. Nguyên giá > - Mua trong năm,- Mua trong năm,373.088.000,,4.453.978.817,,,4.827.066.817,373088000.0,,4453978817.0,,,4827066817.0
+- Tăng khác,- Tăng khác,- Tăng khác,,,,,,,,,,,,
+3. Số giảm trong năm,- Tăng khác > 3. Số giảm trong năm,3. Số giảm trong năm,,1.027.752.727,1.348.882.967,640.315.685,,3.016.951.379,,1027752727.0,1348882967.0,640315685.0,,3016951379.0
+- Chuyển sang BDS đầu tư,- Chuyển sang BDS đầu tư,- Chuyển sang BDS đầu tư,,,,,,,,,,,,
+"- Thanh lý, nhượng bán","- Chuyển sang BDS đầu tư > - Thanh lý, nhượng bán","- Thanh lý, nhượng bán",,1.027.752.727,1.348.882.967,640.315.685,,3.016.951.379,,1027752727.0,1348882967.0,640315685.0,,3016951379.0
+- Giảm khác,- Giảm khác,- Giảm khác,,,,,,,,,,,,
+4. Số dư cuối năm,- Giảm khác > 4. Số dư cuối năm,4. Số dư cuối năm,31.181.037.062,506.417.882,18.220.082.544,2.227.772.466,,52.135.309.954,31181037062.0,506417882.0,18220082544.0,2227772466.0,,52135309954.0
+II. Giá trị hao mòn luỹ kế,II. Giá trị hao mòn luỹ kế,II. Giá trị hao mòn luỹ kế,II. Giá trị hao mòn luỹ kế,II. Giá trị hao mòn luỹ kế,II. Giá trị hao mòn luỹ kế,II. Giá trị hao mòn luỹ kế,II. Giá trị hao mòn luỹ kế,II. Giá trị hao mòn luỹ kế,,,,,,
+1. Số dư đầu năm,II. Giá trị hao mòn luỹ kế > 1. Số dư đầu năm,1. Số dư đầu năm,4.607.624.569,1.138.476.981,4.570.254.436,1.186.491.533,,11.502.847.519,4607624569.0,1138476981.0,4570254436.0,1186491533.0,,11502847519.0
+2. Khấu hao trong năm,II. Giá trị hao mòn luỹ kế > 2. Khấu hao trong năm,2. Khấu hao trong năm,1.059.757.939,144.600.673,2.494.238.735,445.070.843,,4.143.668.190,1059757939.0,144600673.0,2494238735.0,445070843.0,,4143668190.0
+- Khấu hao trong năm,II. Giá trị hao mòn luỹ kế > - Khấu hao trong năm,- Khấu hao trong năm,1.059.757.939,144.600.673,2.494.238.735,445.070.843,,4.143.668.190,1059757939.0,144600673.0,2494238735.0,445070843.0,,4143668190.0
+3. Giảm trong năm,II. Giá trị hao mòn luỹ kế > 3. Giảm trong năm,3. Giảm trong năm,,1.027.752.727,1.348.882.967,640.315.685,,3.016.951.379,,1027752727.0,1348882967.0,640315685.0,,3016951379.0
+- Chuyển sang BDS đầu tư,- Chuyển sang BDS đầu tư,- Chuyển sang BDS đầu tư,,,,,,,,,,,,
+"- Thanh lý, nhượng bán","- Chuyển sang BDS đầu tư > - Thanh lý, nhượng bán","- Thanh lý, nhượng bán",,1.027.752.727,1.348.882.967,640.315.685,,3.016.951.379,,1027752727.0,1348882967.0,640315685.0,,3016951379.0
+4. Số dư cuối năm,- Chuyển sang BDS đầu tư > 4. Số dư cuối năm,4. Số dư cuối năm,5.667.382.508,255.324.927,5.715.610.204,991.246.691,,12.629.564.330,5667382508.0,255324927.0,5715610204.0,991246691.0,,12629564330.0
+III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,,,,,,
+1. Tại ngày đầu năm,III. Giá trị còn lại > 1. Tại ngày đầu năm,1. Tại ngày đầu năm,26.200.324.493,395.693.628,10.544.732.258,1.681.596.618,,38.822.346.997,26200324493.0,395693628.0,10544732258.0,1681596618.0,,38822346997.0
+2. Tại ngày cuối năm,III. Giá trị còn lại > 2. Tại ngày cuối năm,2. Tại ngày cuối năm,25.513.654.554,251.092.955,12.504.472.340,1.236.525.775,,39.505.745.624,25513654554.0,251092955.0,12504472340.0,1236525775.0,,39505745624.0

@@ -1,0 +1,23 @@
+﻿row_label_raw,row_label_full,"TĂNG, GIĂM TÀI SĂN CÓ ĐỊNH VÔ HÌNH > Chỉ tiêu","TĂNG, GIĂM TÀI SĂN CÓ ĐỊNH VÔ HÌNH > Quyền sử dụng đất","TĂNG, GIĂM TÀI SĂN CÓ ĐỊNH VÔ HÌNH > Quyền phát hành","TĂNG, GIĂM TÀI SĂN CÓ ĐỊNH VÔ HÌNH > Bản quyền, bằng sáng chế","TĂNG, GIĂM TÀI SĂN CÓ ĐỊNH VÔ HÌNH > Phần mềm vi tính","TĂNG, GIĂM TÀI SĂN CÓ ĐỊNH VÔ HÌNH > TSCĐ vô hình khác",Đơn vị tính: VND > Cộng,"numeric__TĂNG, GIĂM TÀI SĂN CÓ ĐỊNH VÔ HÌNH > Quyền sử dụng đất","numeric__TĂNG, GIĂM TÀI SĂN CÓ ĐỊNH VÔ HÌNH > Quyền phát hành","numeric__TĂNG, GIĂM TÀI SĂN CÓ ĐỊNH VÔ HÌNH > Bản quyền, bằng sáng chế","numeric__TĂNG, GIĂM TÀI SĂN CÓ ĐỊNH VÔ HÌNH > Phần mềm vi tính","numeric__TĂNG, GIĂM TÀI SĂN CÓ ĐỊNH VÔ HÌNH > TSCĐ vô hình khác",numeric__Đơn vị tính: VND > Cộng
+I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,,,,,,
+1. Số dư đầu năm,I. Nguyên giá > 1. Số dư đầu năm,1. Số dư đầu năm,218.989.868.830,,,,,218.989.868.830,218989868830.0,,,,,218989868830.0
+2. Số tăng trong năm,I. Nguyên giá > 2. Số tăng trong năm,2. Số tăng trong năm,2.868.606.000,,,53.515.000,,2.922.121.000,2868606000.0,,,53515000.0,,2922121000.0
+- Mua trong năm,I. Nguyên giá > - Mua trong năm,- Mua trong năm,2.868.606.000,,,53.515.000,,2.922.121.000,2868606000.0,,,53515000.0,,2922121000.0
+- Tăng khác,- Tăng khác,- Tăng khác,,,,,,,,,,,,
+3. Số giảm trong năm,3. Số giảm trong năm,3. Số giảm trong năm,,,,,,,,,,,,
+"- Thanh lý, nhượng bán","- Thanh lý, nhượng bán","- Thanh lý, nhượng bán",,,,,,,,,,,,
+- Chuyển sang BĐS đầu tư,- Chuyển sang BĐS đầu tư,- Chuyển sang BĐS đầu tư,,,,,,,,,,,,
+- Giảm khác,- Giảm khác,- Giảm khác,,,,,,,,,,,,
+4. Số dư cuối năm,- Giảm khác > 4. Số dư cuối năm,4. Số dư cuối năm,221.858.474.830,,,53.515.000,,221.911.989.830,221858474830.0,,,53515000.0,,221911989830.0
+II. Giá trị hao mòn lũy kế,II. Giá trị hao mòn lũy kế,II. Giá trị hao mòn lũy kế,II. Giá trị hao mòn lũy kế,II. Giá trị hao mòn lũy kế,II. Giá trị hao mòn lũy kế,II. Giá trị hao mòn lũy kế,II. Giá trị hao mòn lũy kế,II. Giá trị hao mòn lũy kế,,,,,,
+1. Số dư đầu năm,1. Số dư đầu năm,1. Số dư đầu năm,,,,,,,,,,,,
+2. Khấu hao trong năm,1. Số dư đầu năm > 2. Khấu hao trong năm,2. Khấu hao trong năm,,,,3.002.787,,3.002.787,,,,3002787.0,,3002787.0
+- Khấu hao trong năm,1. Số dư đầu năm > - Khấu hao trong năm,- Khấu hao trong năm,,,,3.002.787,,3.002.787,,,,3002787.0,,3002787.0
+- Tăng khác,- Tăng khác,- Tăng khác,,,,,,,,,,,,
+3. Giảm trong năm,3. Giảm trong năm,3. Giảm trong năm,,,,,,,,,,,,
+"- Thanh lý, nhượng bán","- Thanh lý, nhượng bán","- Thanh lý, nhượng bán",,,,,,,,,,,,
+- Giảm khác,- Giảm khác,- Giảm khác,,,,,,,,,,,,
+4. Số dư cuối năm,- Giảm khác > 4. Số dư cuối năm,4. Số dư cuối năm,,,,3.002.787,,3.002.787,,,,3002787.0,,3002787.0
+III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,,,,,,
+1. Tại ngày đầu năm,III. Giá trị còn lại > 1. Tại ngày đầu năm,1. Tại ngày đầu năm,218.989.868.830,,,,,218.989.868.830,218989868830.0,,,,,218989868830.0
+2. Tại ngày cuối năm,III. Giá trị còn lại > 2. Tại ngày cuối năm,2. Tại ngày cuối năm,221.858.474.830,,,50.512.213,,221.908.987.043,221858474830.0,,,50512213.0,,221908987043.0

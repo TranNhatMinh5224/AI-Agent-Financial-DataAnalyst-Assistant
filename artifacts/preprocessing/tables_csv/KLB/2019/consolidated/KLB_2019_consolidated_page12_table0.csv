@@ -1,0 +1,28 @@
+﻿row_label_raw,row_label_full,STT,CHỈ TIÊU,Thuyết minh,Năm nay,Năm trước,numeric__CHỈ TIÊU,numeric__Thuyết minh,numeric__Năm nay,numeric__Năm trước
+LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH,LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH,LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH,LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH,LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH,LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH,LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH,,,,
+01.,LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH > 01.,01.,Thu nhập lãi và các khoản thu nhập tương tự nhận được,,4.188.971,3.152.407,,,4188971.0,3152407.0
+02.,LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH > 02.,02.,Chi phí lãi và các chi phí tương tự đã trả,,(2.750.964),(2.128.766),,,-2750964.0,-2128766.0
+03.,LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH > 03.,03.,Thu nhập hoạt động dịch vụ nhận được,,76.456,50.895,,,76456.0,50895.0
+04.,LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH > 04.,04.,"Chênh lệch số tiền thực thu/thực chi từ hoạt động kinh doanh (ngoại tệ, vàng bạc, chứng khoán)",,90.569,113.343,,,90569.0,113343.0
+05.,LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH > 05.,05.,Thu nhập khác,,1.870,74.706,,,1870.0,74706.0
+06.,LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH > 06.,06.,"Tiền thu các khoản nợ đã được xử lý xóa, bù đáp bằng nguồn rủi ro",VI.6,16.637,11.121,,,16637.0,11121.0
+07.,LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH > 07.,07.,"Tiền chi trả cho nhân viên và hoạt động quản lý, công vụ",,(972.867),(856.523),,,-972867.0,-856523.0
+08.,LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH > 08.,08.,Tiền thuế thực nộp trong kỳ,VIII.2,(48.257),(54.673),,,-48257.0,-54673.0
+Lưu chuyển tiền thuần từ hoạt động kinh doanh trước thay đổi về tài sản và vốn lưu động,LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH > Lưu chuyển tiền thuần từ hoạt động kinh doanh trước thay đổi về tài sản và vốn lưu động,Lưu chuyển tiền thuần từ hoạt động kinh doanh trước thay đổi về tài sản và vốn lưu động,Lưu chuyển tiền thuần từ hoạt động kinh doanh trước thay đổi về tài sản và vốn lưu động,Lưu chuyển tiền thuần từ hoạt động kinh doanh trước thay đổi về tài sản và vốn lưu động,602.415,362.510,,,602415.0,362510.0
+Những thay đổi về tài sản hoạt động,Những thay đổi về tài sản hoạt động,Những thay đổi về tài sản hoạt động,Những thay đổi về tài sản hoạt động,Những thay đổi về tài sản hoạt động,Những thay đổi về tài sản hoạt động,Những thay đổi về tài sản hoạt động,,,,
+09.,09.,09.,(Tăng)/Giảm tiền vàng gửi và cho vay các TCTD khác,,-,-,,,,
+10.,09. > 10.,10.,(Tăng)/Giảm các khoản về kinh doanh chứng khoán,,723.199,757.308,,,723199.0,757308.0
+11.,09. > 11.,11.,(Tăng)/Giảm các công cụ tài chính phải sinh và các tài sản tài chính khác,,134,(987),,,134.0,-987.0
+12.,09. > 12.,12.,(Tăng)/Giảm các khoản cho vay khách hàng,,(4.007.651),(4.786.491),,,-4007651.0,-4786491.0
+13.,09. > 13.,13.,(Giảm)/Tăng nguồn dự phòng để bù đáp tổn thất các khoản,,(127.984),(50.369),,,-127984.0,-50369.0
+14.,09. > 14.,14.,(Tăng)/Giảm khác về tài sản hoạt động,,74.182,(7.518),,,74182.0,-7518.0
+Những thay đổi về công nợ hoạt động,Những thay đổi về công nợ hoạt động,Những thay đổi về công nợ hoạt động,Những thay đổi về công nợ hoạt động,Những thay đổi về công nợ hoạt động,Những thay đổi về công nợ hoạt động,Những thay đổi về công nợ hoạt động,,,,
+15.,Những thay đổi về công nợ hoạt động > 15.,15.,Tăng/(Giảm) các khoản nợ Chính phủ và Ngân hàng Nhà nước,,(255.545),255.545,,,-255545.0,255545.0
+16.,Những thay đổi về công nợ hoạt động > 16.,16.,"Tăng/(Giảm) tiền gửi, tiền vay các TCTD",,4.288.435,964.464,,,4288435.0,964464.0
+17.,Những thay đổi về công nợ hoạt động > 17.,17.,Tăng/(Giảm) tiền gửi của khách hàng (bao gồm cả Kho bạc Nhà nước),,3.714.615,3.081.965,,,3714615.0,3081965.0
+18.,Những thay đổi về công nợ hoạt động > 18.,18.,Tăng/(Giảm) phát hành giấy tờ có giá (ngoại trừ giấy tờ có giá được tính vào hoạt động tài chính),,900.000,300.000,,,900000.0,300000.0
+19.,19.,19.,"Tăng/(Giảm) vốn tài trợ, ủy thác, đầu tư, cho vay mà TCTD phải chịu rủi ro",,-,-,,,,
+20.,20.,20.,Tăng/(Giảm) các công cụ tài chính phải sinh và các khoản nợ tài chính khác,,-,-,,,,
+21.,20. > 21.,21.,Tăng/(Giảm) khác về công nợ hoạt động,,(15.849),110.261,,,-15849.0,110261.0
+22.,20. > 22.,22.,Chi từ các quỹ của TCTD,V.18,(16.043),(32.642),,,-16043.0,-32642.0
+I. Lưu chuyển tiền thuần từ hoạt động kinh doanh,20. > I. Lưu chuyển tiền thuần từ hoạt động kinh doanh,I. Lưu chuyển tiền thuần từ hoạt động kinh doanh,I. Lưu chuyển tiền thuần từ hoạt động kinh doanh,I. Lưu chuyển tiền thuần từ hoạt động kinh doanh,5.879.908,954.046,,,5879908.0,954046.0

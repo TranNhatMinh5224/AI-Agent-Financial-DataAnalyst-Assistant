@@ -1,0 +1,11 @@
+﻿row_label_raw,row_label_full,Tiền gửi tại các TCTD khác,31/12/2023,01/01/2023,numeric__31/12/2023,numeric__01/01/2023
+Tiền gửi không kỳ han,Tiền gửi không kỳ han,Tiền gửi không kỳ han,5.460 903,4.349 603,,
+Bằng VND,Bằng VND,Bằng VND,5 078 502,4 022 431,,
+Bằng ngoại hối,Bằng VND > Bằng ngoại hối,Bằng ngoại hối,382.401,327 172,382401.0,
+Tiền gửi co kỳ han,Bằng VND > Tiền gửi co kỳ han,Tiền gửi co kỳ han,3.000 000,7.309.050,,7309050.0
+Bằng VND,Bằng VND,Bằng VND,3 000 000,7 050 000,,
+Bằng ngoại hối,Bằng ngoại hối,Bằng ngoại hối,-,259 050,,
+Cộng,Bằng ngoại hối > Cộng,Cộng,8.460.903,11.658.653,8460903.0,11658653.0
+"Phân tích chất lượng dư nợ cho vay, tiền gửi các TCTD khác","Phân tích chất lượng dư nợ cho vay, tiền gửi các TCTD khác","Phân tích chất lượng dư nợ cho vay, tiền gửi các TCTD khác",31/12/2023,01/01/2023,,
+- Nơ dù tiêu chuẩn,"Phân tích chất lượng dư nợ cho vay, tiền gửi các TCTD khác > - Nơ dù tiêu chuẩn",- Nơ dù tiêu chuẩn,8.460 903,11.658.653,,11658653.0
+Cộng,"Phân tích chất lượng dư nợ cho vay, tiền gửi các TCTD khác > Cộng",Cộng,8.460.903,11.658.653,8460903.0,11658653.0

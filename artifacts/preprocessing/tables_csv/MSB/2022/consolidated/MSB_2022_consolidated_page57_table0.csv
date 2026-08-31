@@ -1,0 +1,24 @@
+﻿row_label_raw,row_label_full,col_0,Năm 2022 triệu đồng,Năm 2021 triệu đồng,numeric__Năm 2022 triệu đồng,numeric__Năm 2021 triệu đồng
+Thu nhập từ hoạt động kinh doanh trước thuế,Thu nhập từ hoạt động kinh doanh trước thuế,Thu nhập từ hoạt động kinh doanh trước thuế,5.787.203,5.088.463,5787203.0,5088463.0
+Các khoản điều chỉnh,Các khoản điều chỉnh,Các khoản điều chỉnh,,,,
+- Chi phí không được khấu trừ thuế,Các khoản điều chỉnh > - Chi phí không được khấu trừ thuế,- Chi phí không được khấu trừ thuế,10.475,4.642,10475.0,4642.0
+- Thu nhập không chịu thuế,Các khoản điều chỉnh > - Thu nhập không chịu thuế,- Thu nhập không chịu thuế,(904),-,-904.0,
+- Biến động các chênh lệch tạm thời,Các khoản điều chỉnh > - Biến động các chênh lệch tạm thời,- Biến động các chênh lệch tạm thời,(203.028),(45.823),-203028.0,-45823.0
+"- Điều chỉnh hợp nhất không chịu thuế (Lợi thế thương mại, thanh lý TSCĐ, thanh lý công ty con)","Các khoản điều chỉnh > - Điều chỉnh hợp nhất không chịu thuế (Lợi thế thương mại, thanh lý TSCĐ, thanh lý công ty con)","- Điều chỉnh hợp nhất không chịu thuế (Lợi thế thương mại, thanh lý TSCĐ, thanh lý công ty con)",9.929,133.929,9929.0,133929.0
+Thu nhập tính thuế,Các khoản điều chỉnh > Thu nhập tính thuế,Thu nhập tính thuế,5.603.675,5.181.211,5603675.0,5181211.0
+Trong đó:,Trong đó:,Trong đó:,,,,
+- Thu nhập từ hoạt động kinh doanh,Trong đó: > - Thu nhập từ hoạt động kinh doanh,- Thu nhập từ hoạt động kinh doanh,5.603.675,5.179.403,5603675.0,5179403.0
+- Thu nhập từ chuyển nhượng bất động sản,Trong đó: > - Thu nhập từ chuyển nhượng bất động sản,- Thu nhập từ chuyển nhượng bất động sản,-,1.808,,1808.0
+Thuế suất,Trong đó: > Thuế suất,Thuế suất,20%,20%,0.2,0.2
+Chi phí thuế TNDN hiện hành,Trong đó: > Chi phí thuế TNDN hiện hành,Chi phí thuế TNDN hiện hành,1.120.735,1.036.241,1120735.0,1036241.0
+Trong đó:,Trong đó:,Trong đó:,,,,
+- Chi phí thuế TNDN từ hoạt động kinh doanh,Trong đó: > - Chi phí thuế TNDN từ hoạt động kinh doanh,- Chi phí thuế TNDN từ hoạt động kinh doanh,1.120.735,1.035.879,1120735.0,1035879.0
+- Chi phí thuế TNDN từ hoạt động chuyển nhượng bất động sản,Trong đó: > - Chi phí thuế TNDN từ hoạt động chuyển nhượng bất động sản,- Chi phí thuế TNDN từ hoạt động chuyển nhượng bất động sản,-,362,,362.0
+Điều chỉnh chi phí thuế TNDN của các năm trước,Trong đó: > Điều chỉnh chi phí thuế TNDN của các năm trước,Điều chỉnh chi phí thuế TNDN của các năm trước,50.244,17.497,50244.0,17497.0
+Thuế TNDN trong năm,Trong đó: > Thuế TNDN trong năm,Thuế TNDN trong năm,1.170.979,1.053.738,1170979.0,1053738.0
+Thuế TNDN phải trả đầu năm,Trong đó: > Thuế TNDN phải trả đầu năm,Thuế TNDN phải trả đầu năm,222.834,168.248,222834.0,168248.0
+Điều chỉnh chi phí thuế TNDN của các năm trước vào lợi nhuận năm trước (AMC),Trong đó: > Điều chỉnh chi phí thuế TNDN của các năm trước vào lợi nhuận năm trước (AMC),Điều chỉnh chi phí thuế TNDN của các năm trước vào lợi nhuận năm trước (AMC),-,3.460,,3460.0
+Thuế TNDN đã trả trong năm,Trong đó: > Thuế TNDN đã trả trong năm,Thuế TNDN đã trả trong năm,(573.278),(990.807),-573278.0,-990807.0
+Giảm do thanh lý công ty con,Trong đó: > Giảm do thanh lý công ty con,Giảm do thanh lý công ty con,-,(11.805),,-11805.0
+Thuế TNDN phải trả cuối năm,Trong đó: > Thuế TNDN phải trả cuối năm,Thuế TNDN phải trả cuối năm,820.535,222.834,820535.0,222834.0
+Tổng chi phí thuế TNDN hoãn lại,Trong đó: > Tổng chi phí thuế TNDN hoãn lại,Tổng chi phí thuế TNDN hoãn lại,11,(15),11.0,-15.0

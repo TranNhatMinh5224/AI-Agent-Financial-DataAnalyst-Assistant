@@ -1,0 +1,28 @@
+﻿row_label_raw,row_label_full,(Triệu VND),Hoạt động ngân hàng,Hoạt động công ty tài chính,Hoạt động quản lý nợ và khai thác tài sản,Loại trừ các giao dịch nội bộ khi hợp nhất,Cộng hợp nhất,numeric__Hoạt động ngân hàng,numeric__Hoạt động công ty tài chính,numeric__Hoạt động quản lý nợ và khai thác tài sản,numeric__Loại trừ các giao dịch nội bộ khi hợp nhất,numeric__Cộng hợp nhất
+Doanh thu,Doanh thu,Doanh thu,Doanh thu,Doanh thu,Doanh thu,Doanh thu,Doanh thu,,,,,
+Doanh thu lãi,Doanh thu > Doanh thu lãi,Doanh thu lãi,11.653.018,133.512,36.190,(18.232),11.804.488,11653018.0,133512.0,36190.0,-18232.0,11804488.0
+Thu nhập từ hoạt động dịch vụ,Doanh thu > Thu nhập từ hoạt động dịch vụ,Thu nhập từ hoạt động dịch vụ,1.287.986,27.057,208.336,(4.260),1.519.119,1287986.0,27057.0,208336.0,-4260.0,1519119.0
+Thu nhập từ các hoạt động khác,Doanh thu > Thu nhập từ các hoạt động khác,Thu nhập từ các hoạt động khác,2.909.290,9.943,387,(20.807),2.898.813,2909290.0,9943.0,387.0,-20807.0,2898813.0
+,,,15.850.294,170.512,244.913,(43.299),16.222.420,15850294.0,170512.0,244913.0,-43299.0,16222420.0
+Chi phí,Chi phí,Chi phí,Chi phí,Chi phí,Chi phí,Chi phí,Chi phí,,,,,
+Chi phí lãi,Chi phí > Chi phí lãi,Chi phí lãi,6.622.912,9.377,4.338,(18.232),6.618.395,6622912.0,9377.0,4338.0,-18232.0,6618395.0
+Chi phí từ hoạt động dịch vụ,Chi phí > Chi phí từ hoạt động dịch vụ,Chi phí từ hoạt động dịch vụ,175.629,4.704,192.899,-,373.232,175629.0,4704.0,192899.0,,373232.0
+Chi phí liên quan trực tiếp đến hoạt động kinh doanh,Chi phí > Chi phí liên quan trực tiếp đến hoạt động kinh doanh,Chi phí liên quan trực tiếp đến hoạt động kinh doanh,2.184.252,17.308,225,(6.782),2.195.003,2184252.0,17308.0,225.0,-6782.0,2195003.0
+Chi phí hoạt động,Chi phí > Chi phí hoạt động,Chi phí hoạt động,2.385.726,72.031,4.711,66.946,2.529.414,2385726.0,72031.0,4711.0,66946.0,2529414.0
+,,,11.368.519,103.420,202.173,41.932,11.716.044,11368519.0,103420.0,202173.0,41932.0,11716044.0
+Kết quả kinh doanh trước chi phí dự phòng rủi ro,Chi phí > Kết quả kinh doanh trước chi phí dự phòng rủi ro,Kết quả kinh doanh trước chi phí dự phòng rủi ro,4.481.775,67.092,42.740,(85.231),4.506.376,4481775.0,67092.0,42740.0,-85231.0,4506376.0
+Chi phí dự phòng rủi ro,Chi phí > Chi phí dự phòng rủi ro,Chi phí dự phòng rủi ro,1.198.952,38.886,-,-,1.237.838,1198952.0,38886.0,,,1237838.0
+Kết quả kinh doanh bộ phận,Chi phí > Kết quả kinh doanh bộ phận,Kết quả kinh doanh bộ phận,3.282.823,28.206,42.740,(85.231),3.268.538,3282823.0,28206.0,42740.0,-85231.0,3268538.0
+Tài sản,Tài sản,Tài sản,Tài sản,Tài sản,Tài sản,Tài sản,Tài sản,,,,,
+Tiền mặt,Tài sản > Tiền mặt,Tiền mặt,1.075.997,-,31,-,1.076.028,1075997.0,,31.0,,1076028.0
+Tài sản cố định,Tài sản > Tài sản cố định,Tài sản cố định,880.990,1.513,-,-,882.503,880990.0,1513.0,,,882503.0
+Tài sản khác,Tài sản > Tài sản khác,Tài sản khác,210.090.429,3.082.419,604.691,(4.072.555),209.704.984,210090429.0,3082419.0,604691.0,-4072555.0,209704984.0
+Tổng tài sản,Tài sản > Tổng tài sản,Tổng tài sản,212.047.416,3.083.932,604.722,(4.072.555),211.663.515,212047416.0,3083932.0,604722.0,-4072555.0,211663515.0
+Nợ phải trả,Nợ phải trả,Nợ phải trả,Nợ phải trả,Nợ phải trả,Nợ phải trả,Nợ phải trả,Nợ phải trả,,,,,
+Các khoản nợ Chính phủ và NHNN,Nợ phải trả > Các khoản nợ Chính phủ và NHNN,Các khoản nợ Chính phủ và NHNN,2.172.763,-,-,-,2.172.763,2172763.0,,,,2172763.0
+Tiền gửi và vay TCTD khác,Nợ phải trả > Tiền gửi và vay TCTD khác,Tiền gửi và vay TCTD khác,58.611.446,2.100.000,-,(2.345.448),58.365.998,58611446.0,2100000.0,,-2345448.0,58365998.0
+Tiền gửi của khách hàng,Nợ phải trả > Tiền gửi của khách hàng,Tiền gửi của khách hàng,109.814.519,653,-,(30.535),109.784.637,109814519.0,653.0,,-30535.0,109784637.0
+"Vốn tài trợ, ủy thác đầu tư","Nợ phải trả > Vốn tài trợ, ủy thác đầu tư","Vốn tài trợ, ủy thác đầu tư",-,1.020,-,,1.020,,1020.0,,,1020.0
+Phát hành giấy tờ có giá,Nợ phải trả > Phát hành giấy tờ có giá,Phát hành giấy tờ có giá,19.053.200,400.000,-,(400.000),19.053.200,19053200.0,400000.0,,-400000.0,19053200.0
+Các khoản nợ khác,Nợ phải trả > Các khoản nợ khác,Các khoản nợ khác,3.565.296,41.423,33.123,(17.209),3.622.633,3565296.0,41423.0,33123.0,-17209.0,3622633.0
+Tổng nợ phải trả,Nợ phải trả > Tổng nợ phải trả,Tổng nợ phải trả,193.217.224,2.543.096,33.123,(2.793.192),193.000.251,193217224.0,2543096.0,33123.0,-2793192.0,193000251.0

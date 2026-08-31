@@ -1,0 +1,14 @@
+﻿row_label_raw,row_label_full,col_0,Vốn góp của chủ sở hữu VND,Thặng dư vốn cổ phần VND,Chênh lệch đánh giá lại TS VND,Quỹ đầu tư phát triển VND,Lợi nhuận sau thuế chưa phân phối VND,Tổng cộng VND,numeric__Vốn góp của chủ sở hữu VND,numeric__Thặng dư vốn cổ phần VND,numeric__Chênh lệch đánh giá lại TS VND,numeric__Quỹ đầu tư phát triển VND,numeric__Lợi nhuận sau thuế chưa phân phối VND,numeric__Tổng cộng VND
+Số dư đầu năm trước,Số dư đầu năm trước,Số dư đầu năm trước,6.800.000.000.000,(3.640.600.000),-,-,(354.030.919.308),6.442.328.480.692,6800000000000.0,-3640600000.0,,,-354030919308.0,6442328480692.0
+Tăng vốn trong năm trước,Tăng vốn trong năm trước,Tăng vốn trong năm trước,-,-,-,-,-,-,,,,,,
+Tăng khác,Tăng vốn trong năm trước > Tăng khác,Tăng khác,-,3.640.600.000,-,-,-,3.640.600.000,,3640600000.0,,,,3640600000.0
+Lãi trong năm trước,Tăng vốn trong năm trước > Lãi trong năm trước,Lãi trong năm trước,-,-,-,-,671.712.803.455,671.712.803.455,,,,,671712803455.0,671712803455.0
+Giảm khác,Giảm khác,Giảm khác,-,-,-,-,-,-,,,,,,
+Số dư cuối năm trước/ đầu năm nay,Giảm khác > Số dư cuối năm trước/ đầu năm nay,Số dư cuối năm trước/ đầu năm nay,6.800.000.000.000,-,-,-,317.681.884.147,7.117.681.884.147,6800000000000.0,,,,317681884147.0,7117681884147.0
+Tăng vốn trong năm nay,Tăng vốn trong năm nay,Tăng vốn trong năm nay,-,-,-,-,-,-,,,,,,
+Tăng khác,Tăng vốn trong năm nay > Tăng khác,Tăng khác,-,-,-,3.269.425.647,-,3.269.425.647,,,,3269425647.0,,3269425647.0
+Lãi trong năm nay,Tăng vốn trong năm nay > Lãi trong năm nay,Lãi trong năm nay,-,-,-,-,501.605.914.527,501.605.914.527,,,,,501605914527.0,501605914527.0
+Giảm vốn trong năm nay,Giảm vốn trong năm nay,Giảm vốn trong năm nay,-,-,-,-,-,-,,,,,,
+Phân phối lợi nhuận (*),Giảm vốn trong năm nay > Phân phối lợi nhuận (*),Phân phối lợi nhuận (*),-,-,-,-,(222.694.256.477),(222.694.256.477),,,,,-222694256477.0,-222694256477.0
+Giảm khác,Giảm khác,Giảm khác,-,-,-,-,-,-,,,,,,
+Số dư cuối năm,Giảm khác > Số dư cuối năm,Số dư cuối năm,6.800.000.000.000,-,-,3.269.425.647,596.593.542.197,7.399.862.967.844,6800000000000.0,,,3269425647.0,596593542197.0,7399862967844.0

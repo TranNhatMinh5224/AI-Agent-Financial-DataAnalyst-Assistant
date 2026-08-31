@@ -1,0 +1,11 @@
+﻿row_label_raw,row_label_full,Chỉ tiêu,Thuyết minh,Số cuối năm,Số đầu năm,numeric__Thuyết minh,numeric__Số cuối năm,numeric__Số đầu năm
+1. Bảo lãnh vay vốn,1. Bảo lãnh vay vốn,1. Bảo lãnh vay vốn,,-,-,,,
+2. Cam kết giao dịch hối đoái,1. Bảo lãnh vay vốn > 2. Cam kết giao dịch hối đoái,2. Cam kết giao dịch hối đoái,VIII.4,4.161.600,926.800,,4161600.0,926800.0
+Cam kết mua ngoại tệ,Cam kết mua ngoại tệ,Cam kết mua ngoại tệ,,-,-,,,
+Cam kết bán ngoại tệ,Cam kết bán ngoại tệ,Cam kết bán ngoại tệ,,-,-,,,
+Cam kết giao dịch hoán đổi,Cam kết bán ngoại tệ > Cam kết giao dịch hoán đổi,Cam kết giao dịch hoán đổi,VIII.4,4.161.600,926.800,,4161600.0,926800.0
+Cam kết giao dịch tương lai,Cam kết giao dịch tương lai,Cam kết giao dịch tương lai,,-,-,,,
+3. Cam kết cho vay không hủy ngang,3. Cam kết cho vay không hủy ngang,3. Cam kết cho vay không hủy ngang,,-,-,,,
+4. Cam kết trong nghiệp vụ L/C,3. Cam kết cho vay không hủy ngang > 4. Cam kết trong nghiệp vụ L/C,4. Cam kết trong nghiệp vụ L/C,VIII.4,128.805,91.729,,128805.0,91729.0
+5. Bảo lãnh khác,3. Cam kết cho vay không hủy ngang > 5. Bảo lãnh khác,5. Bảo lãnh khác,VIII.4,168.203,162.980,,168203.0,162980.0
+6. Các cam kết khác,6. Các cam kết khác,6. Các cam kết khác,,-,-,,,

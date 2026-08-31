@@ -1,0 +1,8 @@
+﻿row_label_raw,row_label_full,Mã số,CHỈ TIÊU,Diễn giải,Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2021 (số liệu đã trình bày),Điều chỉnh,Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2021 (trình bày lại),numeric__CHỈ TIÊU,numeric__Diễn giải,numeric__Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2021 (số liệu đã trình bày),numeric__Điều chỉnh,numeric__Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2021 (trình bày lại)
+01,01,01,I. LƯU CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH,,,,,,,,,
+01,01 > 01,01,1. Lợi nhuận trước thuế,[10],2.376.488.714.496,21.545.610.913,2.398.034.325.409,,,2376488714496.0,21545610913.0,2398034325409.0
+01,01 > 01,01,2. Điều chỉnh cho các khoản,[11],11.317.060.867.464,(12.957.147.381),11.304.103.720.083,,,11317060867464.0,-12957147381.0,11304103720083.0
+03,01 > 03,03,- Các khoản dự phòng,,19.764.343.443.495,(12.957.147.381),19.751.386.296.114,,,19764343443495.0,-12957147381.0,19751386296114.0
+08,01 > 08,08,3. Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động,,13.693.549.581.960,8.588.463.532,13.702.138.045.492,,,13693549581960.0,8588463532.0,13702138045492.0
+11,01 > 11,11,"- Tăng các khoản phải trả (không kể lãi vay phải trả, thuế thu nhập doanh nghiệp phải nộp)",[12],710.225.094.428,(9.699.670.768),700.525.423.660,,,710225094428.0,-9699670768.0,700525423660.0
+12,01 > 12,12,- Giảm các khoản chi phí trả trước,,211.478.069.525,1.111.207.236,212.589.276.761,,,211478069525.0,1111207236.0,212589276761.0

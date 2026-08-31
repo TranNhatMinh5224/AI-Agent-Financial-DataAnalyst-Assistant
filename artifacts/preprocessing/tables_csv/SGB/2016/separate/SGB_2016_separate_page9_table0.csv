@@ -1,0 +1,22 @@
+﻿row_label_raw,row_label_full,CHỈ TIÊU,Thuyết minh,31/12/2016,31/12/2015,numeric__Thuyết minh,numeric__31/12/2016,numeric__31/12/2015
+X. Tài sản cố định,X. Tài sản cố định,X. Tài sản cố định,,958.367,947.693,,958367.0,947693.0
+1. Tài sản cố định hữu hình,1. Tài sản cố định hữu hình,1. Tài sản cố định hữu hình,V.10,601.852,587.722,,601852.0,587722.0
+a. Nguyên giá tài sản cố định hữu hình,a. Nguyên giá tài sản cố định hữu hình,a. Nguyên giá tài sản cố định hữu hình,,924.677,879.394,,924677.0,879394.0
+b. Hao mòn tài sản cố định hữu hình,b. Hao mòn tài sản cố định hữu hình,b. Hao mòn tài sản cố định hữu hình,,(322.825),(291.672),,-322825.0,-291672.0
+2. Tài sản cố định thuê tài chính,2. Tài sản cố định thuê tài chính,2. Tài sản cố định thuê tài chính,V.11,-,-,,,
+a. Nguyên giá tài sản cố định thuê tài chính,a. Nguyên giá tài sản cố định thuê tài chính,a. Nguyên giá tài sản cố định thuê tài chính,,-,-,,,
+b. Hao mòn tài sản cố định thuê tài chính,b. Hao mòn tài sản cố định thuê tài chính,b. Hao mòn tài sản cố định thuê tài chính,,-,-,,,
+3. Tài sản cố định vô hình,b. Hao mòn tài sản cố định thuê tài chính > 3. Tài sản cố định vô hình,3. Tài sản cố định vô hình,V.12,356.515,359.971,,356515.0,359971.0
+a. Nguyên giá tài sản cố định vô hình,b. Hao mòn tài sản cố định thuê tài chính > a. Nguyên giá tài sản cố định vô hình,a. Nguyên giá tài sản cố định vô hình,,429.425,412.150,,429425.0,412150.0
+b. Hao mòn tài sản cố định vô hình,b. Hao mòn tài sản cố định thuê tài chính > b. Hao mòn tài sản cố định vô hình,b. Hao mòn tài sản cố định vô hình,,(72.910),(52.179),,-72910.0,-52179.0
+XI. Bất động sản đầu tư,XI. Bất động sản đầu tư,XI. Bất động sản đầu tư,V.13,-,-,,,
+a. Nguyên giá bất động sản đầu tư,a. Nguyên giá bất động sản đầu tư,a. Nguyên giá bất động sản đầu tư,,-,-,,,
+b. Hao mòn bất động sản đầu tư,b. Hao mòn bất động sản đầu tư,b. Hao mòn bất động sản đầu tư,,-,-,,,
+XII. Tài sản có khác,b. Hao mòn bất động sản đầu tư > XII. Tài sản có khác,XII. Tài sản có khác,V.14,585.771,591.755,,585771.0,591755.0
+1. Các khoản phải thu,b. Hao mòn bất động sản đầu tư > 1. Các khoản phải thu,1. Các khoản phải thu,"V.14.1,2,3",221.487,226.385,,221487.0,226385.0
+"2. Các khoản lãi, phí phải thu","b. Hao mòn bất động sản đầu tư > 2. Các khoản lãi, phí phải thu","2. Các khoản lãi, phí phải thu",,201.191,198.844,,201191.0,198844.0
+3. Tài sản thuế TNDN hoãn lại,3. Tài sản thuế TNDN hoãn lại,3. Tài sản thuế TNDN hoãn lại,,-,-,,,
+4. Tài sản Có khác,3. Tài sản thuế TNDN hoãn lại > 4. Tài sản Có khác,4. Tài sản Có khác,V.14.4,163.093,166.526,,163093.0,166526.0
+- Trong đó: Lợi thế thương mại,- Trong đó: Lợi thế thương mại,- Trong đó: Lợi thế thương mại,,-,-,,,
+5. Các khoản dự phòng rủi ro cho các tài sản Có nội bảng khác,5. Các khoản dự phòng rủi ro cho các tài sản Có nội bảng khác,5. Các khoản dự phòng rủi ro cho các tài sản Có nội bảng khác,,-,-,,,
+TỔNG TÀI SẢN CÓ,5. Các khoản dự phòng rủi ro cho các tài sản Có nội bảng khác > TỔNG TÀI SẢN CÓ,TỔNG TÀI SẢN CÓ,,19.658.115,18.359.429,,19658115.0,18359429.0

@@ -1,0 +1,17 @@
+﻿row_label_raw,row_label_full,col_0,Năm nay,Năm trước,numeric__Năm nay,numeric__Năm trước
+,,,Triệu VND,Triệu VND,,
+Thu nhập từ hoạt động kinh doanh trước thuế,Thu nhập từ hoạt động kinh doanh trước thuế,Thu nhập từ hoạt động kinh doanh trước thuế,22.506.202,12.543.293,22506202.0,12543293.0
+Trừ:,Trừ:,Trừ:,,,,
+Thu nhập từ cổ tức không chịu thuế,Trừ: > Thu nhập từ cổ tức không chịu thuế,Thu nhập từ cổ tức không chịu thuế,(304.005),(288.045),-304005.0,-288045.0
+Cộng:,Cộng:,Cộng:,,,,
+Chi phí khác không được khấu trừ thuế,Cộng: > Chi phí khác không được khấu trừ thuế,Chi phí khác không được khấu trừ thuế,9.690,99.264,9690.0,99264.0
+Chênh lệch tạm thời chi phí dự phòng đầu tư dài hạn theo quy định tại Thông tư 48,Cộng: > Chênh lệch tạm thời chi phí dự phòng đầu tư dài hạn theo quy định tại Thông tư 48,Chênh lệch tạm thời chi phí dự phòng đầu tư dài hạn theo quy định tại Thông tư 48,(9.421),7.478,-9421.0,7478.0
+Thu nhập chịu thuế TNDN,Cộng: > Thu nhập chịu thuế TNDN,Thu nhập chịu thuế TNDN,22.202.466,12.361.990,22202466.0,12361990.0
+Thuế suất thuế TNDN,Cộng: > Thuế suất thuế TNDN,Thuế suất thuế TNDN,20%,20%,0.2,0.2
+Chi phí thuế TNDN theo thuế suất,Cộng: > Chi phí thuế TNDN theo thuế suất,Chi phí thuế TNDN theo thuế suất,4.440.493,2.472.398,4440493.0,2472398.0
+Thuế TNDN trong năm,Cộng: > Thuế TNDN trong năm,Thuế TNDN trong năm,4.440.493,2.472.398,4440493.0,2472398.0
+Thuế TNDN phải trả đầu năm,Cộng: > Thuế TNDN phải trả đầu năm,Thuế TNDN phải trả đầu năm,512.584,362.893,512584.0,362893.0
+(Giảm)/Tăng khác,Cộng: > (Giảm)/Tăng khác,(Giảm)/Tăng khác,(19),17,-19.0,17.0
+Thuế TNDN đã nộp ở nước ngoài trong năm,Cộng: > Thuế TNDN đã nộp ở nước ngoài trong năm,Thuế TNDN đã nộp ở nước ngoài trong năm,(11.663),(7.796),-11663.0,-7796.0
+Thuế TNDN đã nộp trong nước trong năm,Cộng: > Thuế TNDN đã nộp trong nước trong năm,Thuế TNDN đã nộp trong nước trong năm,(2.598.079),(2.314.928),-2598079.0,-2314928.0
+Thuế TNDN phải trả thuần cuối năm,Cộng: > Thuế TNDN phải trả thuần cuối năm,Thuế TNDN phải trả thuần cuối năm,2.343.316,512.584,2343316.0,512584.0

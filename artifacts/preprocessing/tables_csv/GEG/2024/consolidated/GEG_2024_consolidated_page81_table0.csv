@@ -1,0 +1,17 @@
+﻿row_label_raw,row_label_full,col_0,Hoạt động sản xuất và bán điện VND,Hoạt động xây lắp VND,Hoạt động cung cấp dịch vụ VND,Hoạt động bán hàng hóa VND,Loại trừ VND,Tổng cộng VND,numeric__Hoạt động sản xuất và bán điện VND,numeric__Hoạt động xây lắp VND,numeric__Hoạt động cung cấp dịch vụ VND,numeric__Hoạt động bán hàng hóa VND,numeric__Loại trừ VND,numeric__Tổng cộng VND
+Doanh thu,Doanh thu,Doanh thu,Doanh thu,Doanh thu,Doanh thu,Doanh thu,Doanh thu,Doanh thu,,,,,,
+Bán hàng và cung cấp dịch vụ ra bên ngoài,Doanh thu > Bán hàng và cung cấp dịch vụ ra bên ngoài,Bán hàng và cung cấp dịch vụ ra bên ngoài,2.147.820.922.776,3.038.303.749,11.837.671.170,759.250.001,-,2.163.456.147.696,2147820922776.0,3038303749.0,11837671170.0,759250001.0,,2163456147696.0
+Trong nội bộ Tập đoàn,Doanh thu > Trong nội bộ Tập đoàn,Trong nội bộ Tập đoàn,-,38.546.566.434,39.571.458.900,31.709.218.000,(109.827.243.334),-,,38546566434.0,39571458900.0,31709218000.0,-109827243334.0,
+Tổng doanh thu,Doanh thu > Tổng doanh thu,Tổng doanh thu,2.147.820.922.776,41.584.870.183,51.409.130.070,32.468.468.001,(109.827.243.334),2.163.456.147.696,2147820922776.0,41584870183.0,51409130070.0,32468468001.0,-109827243334.0,2163456147696.0
+Chi phí khấu hao TSCĐ,Doanh thu > Chi phí khấu hao TSCĐ,Chi phí khấu hao TSCĐ,692.949.560.024,4.208.908.876,-,-,-,697.158.468.900,692949560024.0,4208908876.0,,,,697158468900.0
+Kết quả hoạt động kinh doanh,Kết quả hoạt động kinh doanh,Kết quả hoạt động kinh doanh,Kết quả hoạt động kinh doanh,Kết quả hoạt động kinh doanh,Kết quả hoạt động kinh doanh,Kết quả hoạt động kinh doanh,Kết quả hoạt động kinh doanh,Kết quả hoạt động kinh doanh,,,,,,
+Lợi nhuận/(lỗ) gộp của bộ phận,Kết quả hoạt động kinh doanh > Lợi nhuận/(lỗ) gộp của bộ phận,Lợi nhuận/(lỗ) gộp của bộ phận,1.089.652.736.380,2.156.468.548,36.102.607.182,1.873.142.811,(8.857.377.179),1.120.927.577.742,1089652736380.0,2156468548.0,36102607182.0,1873142811.0,-8857377179.0,1120927577742.0
+Chi phí không phân bổ,Kết quả hoạt động kinh doanh > Chi phí không phân bổ,Chi phí không phân bổ,,,,,,(159.464.304.253),,,,,,-159464304253.0
+Doanh thu hoạt động tài chính,Kết quả hoạt động kinh doanh > Doanh thu hoạt động tài chính,Doanh thu hoạt động tài chính,,,,,,100.599.754.753,,,,,,100599754753.0
+Chi phí tài chính,Kết quả hoạt động kinh doanh > Chi phí tài chính,Chi phí tài chính,,,,,,(870.734.223.835),,,,,,-870734223835.0
+Lãi từ hoạt động liên kết,Kết quả hoạt động kinh doanh > Lãi từ hoạt động liên kết,Lãi từ hoạt động liên kết,,,,,,5.210.379.437,,,,,,5210379437.0
+Lỗ khác,Kết quả hoạt động kinh doanh > Lỗ khác,Lỗ khác,,,,,,(1.525.440.120),,,,,,-1525440120.0
+Lợi nhuận kế toán trước thuế TNDN,Kết quả hoạt động kinh doanh > Lợi nhuận kế toán trước thuế TNDN,Lợi nhuận kế toán trước thuế TNDN,,,,,,195.013.743.724,,,,,,195013743724.0
+Chi phí thuế TNDN hiện hành,Kết quả hoạt động kinh doanh > Chi phí thuế TNDN hiện hành,Chi phí thuế TNDN hiện hành,,,,,,(46.864.367.463),,,,,,-46864367463.0
+Thu nhập thuế TNDN hoãn lại,Kết quả hoạt động kinh doanh > Thu nhập thuế TNDN hoãn lại,Thu nhập thuế TNDN hoãn lại,,,,,,(4.825.429.149),,,,,,-4825429149.0
+Lợi nhuận sau thuế TNDN,Kết quả hoạt động kinh doanh > Lợi nhuận sau thuế TNDN,Lợi nhuận sau thuế TNDN,,,,,,143.323.947.112,,,,,,143323947112.0

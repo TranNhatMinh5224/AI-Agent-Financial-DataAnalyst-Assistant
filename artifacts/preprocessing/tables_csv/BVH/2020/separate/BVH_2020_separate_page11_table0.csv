@@ -1,0 +1,20 @@
+﻿row_label_raw,row_label_full,Mã số,CHỈ TIÊU,Thuyết minh,Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2020,Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2019,numeric__CHỈ TIÊU,numeric__Thuyết minh,numeric__Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2020,numeric__Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2019
+,,,I. LƯU CHUYÊN TIỀN TỪ HOẠT ĐỘNG KINH DOANH,,,,,,,
+01,01,01,"1. Tiền thu bán hàng, cung cấp dịch vụ và doanh thu khác- Thu lãi tiền gửi, lãi trái phiếu, lãi bán chứng khoán, cổ tức và lợi nhuận được chia- Tiền thu từ cung cấp dịch vụ khác",,1.372.549.631.597,1.751.875.279.653,,,1372549631597.0,1751875279653.0
+02,02,02,"2. Tiền chi trả cho người cung cấp hàng hoá, dịch vụ",,1.065.847.991.080,1.430.682.841.719,,,1065847991080.0,1430682841719.0
+03,03,03,3. Tiền chi trả cho người lao động,,306.701.640.517,321.192.437.934,,,306701640517.0,321192437934.0
+04,04,04,4. Tiền chi trả lãi vay,,(140.172.291.446),(109.043.657.350),,,-140172291446.0,-109043657350.0
+05,05,05,5. Thuế thu nhập doanh nghiệp đã nộp,,(117.618.794.051),(116.586.255.985),,,-117618794051.0,-116586255985.0
+06,06,06,6. Tiền thu khác từ hoạt động kinh doanh,,(12.508.071.470),-,,,-12508071470.0,
+07,07,07,7. Tiền chi khác cho hoạt động kinh doanh,,(32.001.600.000),(19.042.101.993),,,-32001600000.0,-19042101993.0
+20,20,20,Lưu chuyển tiền thuần từ hoạt động kinh doanh,,25.191.578.523,34.239.919.870,,,25191578523.0,34239919870.0
+20,20,20,Lưu chuyển tiền thuần từ hoạt động kinh doanh,,(136.493.245.768),(164.199.852.682),,,-136493245768.0,-164199852682.0
+20,20,20,Lưu chuyển tiền thuần từ hoạt động kinh doanh,,958.947.207.385,1.377.243.331.513,,,958947207385.0,1377243331513.0
+20,20,20,II. LƯU CHUYÊN TIỀN TỪ HOẠT ĐỘNG ĐẦU TỪ,,,,,,,
+21,20 > 21,21,"1. Tiền chi đề mua sắm, xây dựng TSCĐ và các tài sản dài hạn khác",,(59.641.462.036),(141.571.487.906),,,-59641462036.0,-141571487906.0
+22,20 > 22,22,"2. Tiền thu từ thanh lý, nhượng bán TSCĐ và các tài sản dài hạn khác",,15.850.000,207.500.000,,,15850000.0,207500000.0
+23,20 > 23,23,"3. Tiền chi cho vay, mua các công cụ nợ của đơn vị khác",,(2.735.000.000.000),(1.560.000.000.000),,,-2735000000000.0,-1560000000000.0
+24,20 > 24,24,"4. Tiền thu hồi cho vay, bán lại các công cụ nợ của đơn vị khác",,1.043.000.000.000,845.441.141.448,,,1043000000000.0,845441141448.0
+25,20 > 25,25,5. Tiền chi đầu tư góp vốn vào đơn vị khác,,(850.000.000.000),(1.450.000.000.000),,,-850000000000.0,-1450000000000.0
+26,20 > 26,26,6. Tiền thu đầu tư góp vốn vào đơn vị khác,,-,19.800.000.000,,,,19800000000.0
+30,20 > 30,30,Lưu chuyển tiền thuần sử dụng vào hoạt động đầu tư,,(2.601.625.612.036),(2.286.122.846.458),,,-2601625612036.0,-2286122846458.0

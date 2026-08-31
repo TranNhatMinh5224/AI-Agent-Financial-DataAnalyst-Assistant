@@ -1,0 +1,17 @@
+﻿row_label_raw,row_label_full,NGUỒN VỐN,Mã số,Thuyết minh,31/12/2025,01/01/2025,numeric__Mã số,numeric__Thuyết minh,numeric__31/12/2025,numeric__01/01/2025
+C. NỘ PHẢI TRẢ,C. NỘ PHẢI TRẢ,C. NỘ PHẢI TRẢ,300,,5.631.624.062.732,5.575.406.832.856,300.0,,5631624062732.0,5575406832856.0
+I. Nợ ngắn hạn,I. Nợ ngắn hạn,I. Nợ ngắn hạn,310,,2.987.443.761.161,3.836.138.567.354,310.0,,2987443761161.0,3836138567354.0
+1. Phải trả cho người bán ngắn hạn,1. Phải trả cho người bán ngắn hạn,1. Phải trả cho người bán ngắn hạn,311,V.14,107.000.627.669,312.402.127.111,311.0,,107000627669.0,312402127111.0
+2. Người mua trả tiền trước ngắn hạn,2. Người mua trả tiền trước ngắn hạn,2. Người mua trả tiền trước ngắn hạn,312,V.15,562.473.485.053,809.078.088.530,312.0,,562473485053.0,809078088530.0
+3. Thuế và các khoản phải nộp Nhà nước,3. Thuế và các khoản phải nộp Nhà nước,3. Thuế và các khoản phải nộp Nhà nước,313,V.16a,18.874.882.811,17.669.658.624,313.0,,18874882811.0,17669658624.0
+4. Phải trả người lao động,4. Phải trả người lao động,4. Phải trả người lao động,314,,2.015.311.395,1.954.541.980,314.0,,2015311395.0,1954541980.0
+5. Chi phí phải trả ngắn hạn,5. Chi phí phải trả ngắn hạn,5. Chi phí phải trả ngắn hạn,315,V.17a,322.361.866.872,317.629.757.437,315.0,,322361866872.0,317629757437.0
+6. Doanh thu chưa thực hiện ngắn hạn,6. Doanh thu chưa thực hiện ngắn hạn,6. Doanh thu chưa thực hiện ngắn hạn,318,V.18a,121.010.378.494,92.484.087.626,318.0,,121010378494.0,92484087626.0
+7. Phải trả ngắn hạn khác,7. Phải trả ngắn hạn khác,7. Phải trả ngắn hạn khác,319,V.19a,663.837.693.247,705.926.202.803,319.0,,663837693247.0,705926202803.0
+8. Vay và nợ thuê tài chính ngắn hạn,8. Vay và nợ thuê tài chính ngắn hạn,8. Vay và nợ thuê tài chính ngắn hạn,320,"V.20a,b",1.154.572.772.830,1.543.098.322.850,320.0,,1154572772830.0,1543098322850.0
+"9. Quỹ khen thưởng, phúc lợi","9. Quỹ khen thưởng, phúc lợi","9. Quỹ khen thưởng, phúc lợi",322,,35.296.742.790,35.895.780.393,322.0,,35296742790.0,35895780393.0
+II. Nợ dài hạn,II. Nợ dài hạn,II. Nợ dài hạn,330,,2.644.180.301.571,1.739.268.265.502,330.0,,2644180301571.0,1739268265502.0
+1. Chi phí phải trả dài hạn,1. Chi phí phải trả dài hạn,1. Chi phí phải trả dài hạn,333,V.17b,69.487.059.998,86.016.987.675,333.0,,69487059998.0,86016987675.0
+2. Doanh thu chưa thực hiện dài hạn,2. Doanh thu chưa thực hiện dài hạn,2. Doanh thu chưa thực hiện dài hạn,336,V.18b,562.454.316.159,178.184.337.691,336.0,,562454316159.0,178184337691.0
+3. Phải trả dài hạn khác,3. Phải trả dài hạn khác,3. Phải trả dài hạn khác,337,V.19b,62.516.244.752,58.644.109.794,337.0,,62516244752.0,58644109794.0
+4. Vay và nợ thuê tài chính dài hạn,4. Vay và nợ thuê tài chính dài hạn,4. Vay và nợ thuê tài chính dài hạn,338,V.20c,1.949.722.680.662,1.416.422.830.342,338.0,,1949722680662.0,1416422830342.0

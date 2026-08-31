@@ -1,0 +1,17 @@
+﻿row_label_raw,row_label_full,ITEMS,ITEMS_1,Codes,Notes,Current year,Prior year,numeric__ITEMS_1,numeric__Codes,numeric__Notes,numeric__Current year,numeric__Prior year
+1.,1.,1.,Gross revenue from goods sold and services rendered,01,21,"1,365,944,919,705","2,312,065,348,262",,1.0,21.0,,
+2.,2.,2.,Net revenue from goods sold and services rendered (10=01),10,,"1,365,944,919,705","2,312,065,348,262",,10.0,,,
+3.,3.,3.,Cost of goods sold and services rendered,11,22,"1,349,390,574,698","2,286,565,452,879",,11.0,22.0,,
+4.,4.,4.,Gross profit from goods sold and services rendered (20=10-11),20,,"16,554,345,007","25,499,895,383",,20.0,,,
+5.,5.,5.,Financial income,21,23,"965,988,573,740","1,456,876,578,369",,21.0,23.0,,
+6.,6.,6.,Financial expenses,22,24,"94,130,369,461","182,183,543,264",,22.0,24.0,,
+,,,- In which: Interest expense and bond issuance cost,23,,"94,644,147,806","171,236,022,854",,23.0,,,
+7.,7.,7.,Selling expenses,25,25,"4,831,841,304","7,124,166,717",,25.0,25.0,,
+8.,8.,8.,General and administration expenses,26,25,"29,782,557,603","38,978,413,805",,26.0,25.0,,
+9.,9.,9.,Operating profit (30=20+(21-22)-(25+26)),30,,"853,798,150,379","1,254,090,349,966",,30.0,,,
+10.,10.,10.,Other income,31,,"21,416,754",481,,31.0,,,481.0
+11.,11.,11.,Other expenses,32,,"7,226","35,193,866",,32.0,,7.226,
+12.,12.,12.,(Loss)/profit from other activities (40=31-32),40,,"21,409,528","(35,193,385)",,40.0,,,
+13.,13.,13.,Accounting profit before tax (50=30+40),50,,"853,819,559,907","1,254,055,156,581",,50.0,,,
+14.,14.,14.,Current corporate income tax expense,51,27,,,,51.0,27.0,,
+15.,15.,15.,Net profit after corporate income tax (60=50-51),60,,"853,819,559,907","1,254,055,156,581",,60.0,,,

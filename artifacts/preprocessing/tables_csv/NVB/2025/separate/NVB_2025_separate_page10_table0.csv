@@ -1,0 +1,17 @@
+﻿row_label_raw,row_label_full,CHỈ TIÊU,Thuyết minh,31/12/2025,31/12/2024,numeric__Thuyết minh,numeric__31/12/2025,numeric__31/12/2024
+X. Tài sản cố định,X. Tài sản cố định,X. Tài sản cố định,,798.874,920.869,,798874.0,920869.0
+1. Tài sản cố định hữu hình,1. Tài sản cố định hữu hình,1. Tài sản cố định hữu hình,V.9,232.715,207.326,,232715.0,207326.0
+a. Nguyên giá tài sản cố định,a. Nguyên giá tài sản cố định,a. Nguyên giá tài sản cố định,,425.195,395.430,,425195.0,395430.0
+b. Khấu hao tài sản cố định,b. Khấu hao tài sản cố định,b. Khấu hao tài sản cố định,,(192.480),(188.104),,-192480.0,-188104.0
+2. Tài sản cố định thuê tài chính,2. Tài sản cố định thuê tài chính,2. Tài sản cố định thuê tài chính,,-,-,,,
+3. Tài sản cố định vô hình,2. Tài sản cố định thuê tài chính > 3. Tài sản cố định vô hình,3. Tài sản cố định vô hình,V.10,566.159,713.543,,566159.0,713543.0
+a. Nguyên giá tài sản cố định,2. Tài sản cố định thuê tài chính > a. Nguyên giá tài sản cố định,a. Nguyên giá tài sản cố định,,639.777,849.287,,639777.0,849287.0
+b. Khấu hao tài sản cố định,2. Tài sản cố định thuê tài chính > b. Khấu hao tài sản cố định,b. Khấu hao tài sản cố định,,(73.618),(135.744),,-73618.0,-135744.0
+XI. Bất động sản đầu tư,XI. Bất động sản đầu tư,XI. Bất động sản đầu tư,,-,-,,,
+XII. Tài sản có khác,XI. Bất động sản đầu tư > XII. Tài sản có khác,XII. Tài sản có khác,V.11,5.567.146,9.491.802,,5567146.0,9491802.0
+1. Các khoản phải thu,XI. Bất động sản đầu tư > 1. Các khoản phải thu,1. Các khoản phải thu,,2.896.658,8.081.790,,2896658.0,8081790.0
+"2. Các khoản lãi, phí phải thu","XI. Bất động sản đầu tư > 2. Các khoản lãi, phí phải thu","2. Các khoản lãi, phí phải thu",,1.189.396,499.530,,1189396.0,499530.0
+3. Tài sản thuê TNDN hoãn lại,3. Tài sản thuê TNDN hoãn lại,3. Tài sản thuê TNDN hoãn lại,,-,-,,,
+4. Tài sản Có khác,3. Tài sản thuê TNDN hoãn lại > 4. Tài sản Có khác,4. Tài sản Có khác,,3.109.492,2.566.555,,3109492.0,2566555.0
+5. Các khoản dự phòng rủi ro cho các tài sản Có nội bằng khác,3. Tài sản thuê TNDN hoãn lại > 5. Các khoản dự phòng rủi ro cho các tài sản Có nội bằng khác,5. Các khoản dự phòng rủi ro cho các tài sản Có nội bằng khác,,(1.628.400),(1.656.073),,-1628400.0,-1656073.0
+TỔNG TÀI SẢN,3. Tài sản thuê TNDN hoãn lại > TỔNG TÀI SẢN,TỔNG TÀI SẢN,,163.729.529,118.558.502,,163729529.0,118558502.0

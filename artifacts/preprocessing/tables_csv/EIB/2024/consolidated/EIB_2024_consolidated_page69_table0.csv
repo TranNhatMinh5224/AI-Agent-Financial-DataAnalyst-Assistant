@@ -1,0 +1,11 @@
+﻿row_label_raw,row_label_full,col_0,Tiền gửi tại các TCTD khác,Chứng khoán kinh doanh,Công cụ tài chính phải sinh,Cho vay khách hàng,Hoạt động mua nợ,Chứng khoán đầu tư,Các tài sản tài chính khác,Tổng cộng,numeric__Tiền gửi tại các TCTD khác,numeric__Chứng khoán kinh doanh,numeric__Công cụ tài chính phải sinh,numeric__Cho vay khách hàng,numeric__Hoạt động mua nợ,numeric__Chứng khoán đầu tư,numeric__Các tài sản tài chính khác,numeric__Tổng cộng
+Chưa quá hạn và chưa bị giảm giá,Chưa quá hạn và chưa bị giảm giá,Chưa quá hạn và chưa bị giảm giá,29.829.638,1.035.642,291.886,157.889.922,800.000,16.900.212,1.970.598,208.717.898,29829638.0,1035642.0,291886.0,157889922.0,800000.0,16900212.0,1970598.0,208717898.0
+Đã quá hạn nhưng chưa bị giảm giá,Đã quá hạn nhưng chưa bị giảm giá,Đã quá hạn nhưng chưa bị giảm giá,-,-,-,3.329.127,-,-,-,3.329.127,,,,3329127.0,,,,3329127.0
+Bị giảm giá,Bị giảm giá,Bị giảm giá,-,-,-,3.935.848,-,75.000,465.980,4.476.828,,,,3935848.0,,75000.0,465980.0,4476828.0
+,,,29.829.638,1.035.642,291.886,165.154.897,800.000,16.975.212,2.436.578,216.523.853,29829638.0,1035642.0,291886.0,165154897.0,800000.0,16975212.0,2436578.0,216523853.0
+Trừ: dự phòng rủi ro,Trừ: dự phòng rủi ro,Trừ: dự phòng rủi ro,,,,,,,,,,,,,,,,
+Dự phòng chung,Trừ: dự phòng rủi ro > Dự phòng chung,Dự phòng chung,-,-,-,(1.213.191),(6.000),(16.501),-,(1.235.692),,,,-1213191.0,-6000.0,-16501.0,,-1235692.0
+Dự phòng cụ thể,Trừ: dự phòng rủi ro > Dự phòng cụ thể,Dự phòng cụ thể,-,-,-,(555.962),-,(75.000),-,(630.962),,,,-555962.0,,-75000.0,,-630962.0
+Dự phòng rủi ro khác,Trừ: dự phòng rủi ro > Dự phòng rủi ro khác,Dự phòng rủi ro khác,-,-,-,-,-,-,(465.980),(465.980),,,,,,,-465980.0,-465980.0
+,,,-,-,-,(1.769.153),(6.000),(91.501),(465.980),(2.332.634),,,,-1769153.0,-6000.0,-91501.0,-465980.0,-2332634.0
+Giá trị thuần,Trừ: dự phòng rủi ro > Giá trị thuần,Giá trị thuần,29.829.638,1.035.642,291.886,163.385.744,794.000,16.883.711,1.970.598,214.191.219,29829638.0,1035642.0,291886.0,163385744.0,794000.0,16883711.0,1970598.0,214191219.0

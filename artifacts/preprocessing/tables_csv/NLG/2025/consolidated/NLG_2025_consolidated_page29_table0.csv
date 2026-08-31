@@ -1,0 +1,16 @@
+﻿row_label_raw,row_label_full,Bên vay,col_1,Số cuối năm VND,Ngày đảo hạn Lãi suất %/năm,Ngày đảo hạn Lãi suất %/năm_1,numeric__col_1,numeric__Số cuối năm VND,numeric__Ngày đảo hạn Lãi suất %/năm,numeric__Ngày đảo hạn Lãi suất %/năm_1
+Cá nhân 1,Cá nhân 1,Cá nhân 1,,,,,,,,
+Khoản vay 1,Cá nhân 1 > Khoản vay 1,Khoản vay 1,,16.800.000.000,Ngày 22 tháng 4 năm 2026,"6,0",,16800000000.0,,6.0
+Cá nhân 2,Cá nhân 2,Cá nhân 2,,,,,,,,
+Khoản vay 1,Cá nhân 2 > Khoản vay 1,Khoản vay 1,14.000.000.000,,Ngày 1 tháng 4 năm 2026,"8,0",14000000000.0,,,8.0
+Khoản vay 2,Cá nhân 2 > Khoản vay 2,Khoản vay 2,12.500.000.000,,Ngày 24 tháng 3 năm 2026,"8,0",12500000000.0,,,8.0
+Cộng,Cá nhân 2 > Cộng,Cộng,,26.500.000.000,,,,26500000000.0,,
+Cá nhân 3,Cá nhân 3,Cá nhân 3,,,,,,,,
+Khoản vay 1,Cá nhân 3 > Khoản vay 1,Khoản vay 1,,17.670.964.170,Ngày 22 tháng 4 năm 2026,"6,0",,17670964170.0,,6.0
+Cá nhân 4,Cá nhân 4,Cá nhân 4,,,,,,,,
+Khoản vay 1,Cá nhân 4 > Khoản vay 1,Khoản vay 1,9.500.000.000,,Ngày 30 tháng 6 năm 2026,"6,0",9500000000.0,,,6.0
+Khoản vay 2,Cá nhân 4 > Khoản vay 2,Khoản vay 2,5.000.000.000,,Ngày 30 tháng 6 năm 2026,"6,0",5000000000.0,,,6.0
+Cộng,Cá nhân 4 > Cộng,Cộng,,14.500.000.000,,,,14500000000.0,,
+TỔNG CỘNG,Cá nhân 4 > TỔNG CỘNG,TỔNG CỘNG,,75.470.964.170,,,,75470964170.0,,
+Dự phòng cho vay ngắn hạn,Cá nhân 4 > Dự phòng cho vay ngắn hạn,Dự phòng cho vay ngắn hạn,,(34.470.964.170),,,,-34470964170.0,,
+GIÁ TRỊ THUÀN,Cá nhân 4 > GIÁ TRỊ THUÀN,GIÁ TRỊ THUÀN,,41.000.000.000,,,,41000000000.0,,

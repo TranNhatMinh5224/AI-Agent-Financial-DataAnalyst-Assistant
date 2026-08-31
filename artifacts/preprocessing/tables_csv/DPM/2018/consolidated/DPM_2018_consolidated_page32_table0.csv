@@ -1,0 +1,10 @@
+﻿row_label_raw,row_label_full,Chi tiêu,Số đầu năm > Giá trị,Số đầu năm > Số có khả năng trả nợ,Phát sinh trong năm > Tăng,Phát sinh trong năm > Giảm,Số cuối năm > Giá trị,Số cuối năm > Số có khả năng trả nợ,numeric__Số đầu năm > Giá trị,numeric__Số đầu năm > Số có khả năng trả nợ,numeric__Phát sinh trong năm > Tăng,numeric__Phát sinh trong năm > Giảm,numeric__Số cuối năm > Giá trị,numeric__Số cuối năm > Số có khả năng trả nợ
+Chi tiêu,Chi tiêu,Chi tiêu,VND,VND,VND,VND,VND,VND,,,,,,
+Vay dài hạn,Vay dài hạn,Vay dài hạn,Vay dài hạn,Vay dài hạn,Vay dài hạn,Vay dài hạn,Vay dài hạn,Vay dài hạn,,,,,,
+Ngân hàng TMCP Đại chúng Việt Nam - Chi nhánh TP. Hồ Chí Minh (i),Vay dài hạn > Ngân hàng TMCP Đại chúng Việt Nam - Chi nhánh TP. Hồ Chí Minh (i),Ngân hàng TMCP Đại chúng Việt Nam - Chi nhánh TP. Hồ Chí Minh (i),629.383.072.193,629.383.072.193,574.466.327.718,-,1.203.849.399.911,1.203.849.399.911,629383072193.0,629383072193.0,574466327718.0,,1203849399911.0,1203849399911.0
+Vay ngắn hạn,Vay ngắn hạn,Vay ngắn hạn,Vay ngắn hạn,Vay ngắn hạn,Vay ngắn hạn,Vay ngắn hạn,Vay ngắn hạn,Vay ngắn hạn,,,,,,
+Ngân hàng TMCP Đầu tư và phát triển Việt Nam – Chi nhánh Bình Định (ii),Vay ngắn hạn > Ngân hàng TMCP Đầu tư và phát triển Việt Nam – Chi nhánh Bình Định (ii),Ngân hàng TMCP Đầu tư và phát triển Việt Nam – Chi nhánh Bình Định (ii),-,-,63.370.000.000,33.370.000.000,30.000.000.000,30.000.000.000,,,63370000000.0,33370000000.0,30000000000.0,30000000000.0
+Cộng,Vay ngắn hạn > Cộng,Cộng,629.383.072.193,629.383.072.193,637.836.327.718,33.370.000.000,1.233.849.399.911,1.233.849.399.911,629383072193.0,629383072193.0,637836327718.0,33370000000.0,1233849399911.0,1233849399911.0
+Trong đó:,Trong đó:,Trong đó:,Trong đó:,Trong đó:,Trong đó:,Trong đó:,Trong đó:,Trong đó:,,,,,,
+Số phải trả trong vòng 12 tháng,Trong đó: > Số phải trả trong vòng 12 tháng,Số phải trả trong vòng 12 tháng,-,-,,,201.978.485.702,201.978.485.702,,,,,201978485702.0,201978485702.0
+Số phải trả sau 12 tháng,Trong đó: > Số phải trả sau 12 tháng,Số phải trả sau 12 tháng,629.383.072.193,629.383.072.193,,,1.031.870.914.209,1.031.870.914.209,629383072193.0,629383072193.0,,,1031870914209.0,1031870914209.0

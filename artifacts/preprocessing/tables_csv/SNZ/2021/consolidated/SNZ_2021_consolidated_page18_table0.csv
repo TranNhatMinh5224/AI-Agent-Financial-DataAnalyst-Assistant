@@ -1,0 +1,11 @@
+﻿row_label_raw,row_label_full,STT,Tên công ty,Địa chỉ,Ngành nghề chính,Tỷ lệ quyền biểu quyết,Tỷ lệ vốn góp trực tiếp,Tỷ lệ lợi ích,numeric__Tên công ty,numeric__Địa chỉ,numeric__Ngành nghề chính,numeric__Tỷ lệ quyền biểu quyết,numeric__Tỷ lệ vốn góp trực tiếp,numeric__Tỷ lệ lợi ích
+1.,1.,1.,Công ty Cổ phầnCấp nước Đồng Nai,"48 Cách Mạng Tháng Tám, P. QuyếtThắng, TP. Biên Hòa, Tĩnh Đồng Nai",Khai thác nước sạch,"63,99%","63,99%","63,99%",,,,0.6399,0.6399,0.6399
+2.,2.,2.,Công ty Cổ phầnMôi trường Sonadezi,"12 Huỳnh Văn Nghệ, P. Bửu Long,TP. Biên Hòa, Tĩnh Đồng Nai",Dịch vụ đô thị môi trường,"64,04%","64,04%","64,04%",,,,0.6404000000000001,0.6404000000000001,0.6404000000000001
+3.,3.,3.,Công ty Cổ phầnCảng Đồng Nai,"1B-D3 Khu phố Bình Dương, P. LongBình Tân, TP. Biên Hòa, Tĩnh Đồng Nai",Kinh doanh dịch vụ cảng biển,"51,00%","51,00%","51,00%",,,,0.51,0.51,0.51
+4.,4.,4.,Công ty Cổ phần Đầu tưXây dựng và Vật liệuĐồng Nai,"138 Nguyễn Ái Quốc, P. Trăng Dải,TP. Biên Hoà, Tĩnh Đồng Nai",Sản xuất công nghiệp và dịch vụ,"52,29%","52,29%","52,29%",,,,0.5229,0.5229,0.5229
+5.,5.,5.,Công ty Cổ phần Phát triểnĐô thị Công nghiệp Số 2,"H22 Võ Thị Sáu, P. Thống Nhất,TP. Biên Hòa, Tĩnh Đồng Nai","Đầu tư xây dựng, kinh doanh bấtđộng sản, cho thuê khu công nghiệp","57,95%","57,86%","57,95%",,,,0.5795,0.5786,0.5795
+6.,6.,6.,Công ty Cổ phầnSonadezi Long Thành,"Đường 5, KCN Long Thành, Xã Tam An,Huyện Long Thành, Tĩnh Đồng Nai","Đầu tư xây dựng, kinh doanh bấtđộng sản, cho thuê khu công nghiệp","56,28%","51,19%","56,28%",,,,0.5628,0.5119,0.5628
+Các công ty con gián tiếp:,Các công ty con gián tiếp:,Các công ty con gián tiếp:,Các công ty con gián tiếp:,Các công ty con gián tiếp:,Các công ty con gián tiếp:,Các công ty con gián tiếp:,Các công ty con gián tiếp:,Các công ty con gián tiếp:,,,,,,
+STT,STT,STT,Tên công ty,Địa chỉ,Ngành nghề chính,Tỷ lệ quyền biểu quyết,Tỷ lệ vốn góp trực tiếp,Tỷ lệ lợi ích,,,,,,
+1.,STT > 1.,1.,Công ty Cổ phầnSonadezi Giang Điền,"Số 1, Đường 1, KCN Biên Hòa 1,P. An Bình, TP. Biên Hòa","Đầu tư xây dựng, kinh doanh bấtđộng sản, cho thuê khu công nghiệp","46,45%","46,45%","46,45%",,,,0.4645,0.4645,0.4645
+2.,STT > 2.,2.,Công ty Cổ phầnSonadezi Long Bình,"Số 1, Đường 3A, KCN Biên Hòa 2,TP. Biên Hòa, Tĩnh Đồng Nai","Đầu tư xây dựng, kinh doanh bấtđộng sản, cho thuê khu công nghiệp","60,65%","46,22%","53,21%",,,,0.6065,0.4622,0.5321

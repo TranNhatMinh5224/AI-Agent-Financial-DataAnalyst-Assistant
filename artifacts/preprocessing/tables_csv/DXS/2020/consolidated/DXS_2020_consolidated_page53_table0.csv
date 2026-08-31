@@ -1,0 +1,11 @@
+﻿row_label_raw,row_label_full,Bên liên quan,Mối quan hệ,Nội dung nghiệp vụ,Số cuối năm,Số đầu năm,numeric__Mối quan hệ,numeric__Nội dung nghiệp vụ,numeric__Số cuối năm,numeric__Số đầu năm
+Phải trả ngắn hạn khác,Phải trả ngắn hạn khác,Phải trả ngắn hạn khác,Phải trả ngắn hạn khác,Phải trả ngắn hạn khác,Phải trả ngắn hạn khác,Phải trả ngắn hạn khác,,,,
+DXG,Phải trả ngắn hạn khác > DXG,DXG,Công ty mẹ,Góp vốn theo HĐHTKD Cổ tức,140.179.184.000,203.116.960.400 2.125.818.182,,,140179184000.0,
+LDG,Phải trả ngắn hạn khác > LDG,LDG,Công ty liên kết trước đây,Ký quỹ Góp vốn theo HĐHTKD Thu hộ,-,316.250.000.000,,,,316250000000.0
+LDG,LDG,LDG,Công ty liên kết trước đây,Ký quỹ Góp vốn theo HĐHTKD Thu hộ,-,30.866.645.000 2.623.000.008,,,,
+DXI,LDG > DXI,DXI,Công ty trong Tập đoàn,Nhận tạm ứng góp vốn,-,12.468.879.000,,,,12468879000.0
+Hà Thuận Hùng,LDG > Hà Thuận Hùng,Hà Thuận Hùng,Công ty trong Tập đoàn,Góp vốn theo HĐHTKD,10.000.000.000,10.000.000.000,,,10000000000.0,10000000000.0
+Đất Xanh Premium,LDG > Đất Xanh Premium,Đất Xanh Premium,Bên liên quan,Khác,-,1.200.000.000,,,,1200000000.0
+,,,,,150.179.184.000,578.651.302.590,,,150179184000.0,578651302590.0
+Vay,Vay,Vay,Vay,Vay,Vay,Vay,,,,
+Xây dựng FBV,Vay > Xây dựng FBV,Xây dựng FBV,Công ty trong Tập đoàn,Đi vay,,5.000.000.000,,,,5000000000.0

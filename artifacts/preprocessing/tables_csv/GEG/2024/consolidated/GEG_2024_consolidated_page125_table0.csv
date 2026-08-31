@@ -1,0 +1,13 @@
+﻿row_label_raw,row_label_full,col_0,col_1,As at beginning of year VND,Payables/receivables during the year VND,Payment/Refund during the year VND,Net-off/ reclassification during the year VND,Disposal of a subsidiary VND,Others VND,As at end of year VND,numeric__col_1,numeric__As at beginning of year VND,numeric__Payables/receivables during the year VND,numeric__Payment/Refund during the year VND,numeric__Net-off/ reclassification during the year VND,numeric__Disposal of a subsidiary VND,numeric__Others VND,numeric__As at end of year VND
+(a),(a),(a),Receivables,Receivables,Receivables,Receivables,Receivables,Receivables,Receivables,Receivables,,,,,,,,
+(a),(a),(a),VAT to be reclaimed,"28,788,627,746","39,113,624,018",-,"(47,557,843,276)","(5,468,379,906)",-,"14,876,028,582",,,,,,,,
+(a),(a),(a),CIT,"71,045,591",-,-,"(71,045,591)",-,-,-,,,,,,,,
+(a),(a),(a),Other taxes and fees,"530,090,321","(265,994,736)",-,"(129,889,936)",-,-,"134,205,649",,,,,,,,
+(a),(a),(a),,"29,389,763,658","38,847,629,282",-,"(47,758,778,803)","(5,468,379,906)",-,"15,010,234,231",,,,,,,,
+(b),(b),(b),Payables,Payables,Payables,Payables,Payables,Payables,Payables,Payables,,,,,,,,
+(b),(b),(b),CIT,"35,936,325,108","55,371,388,939","(61,496,640,337)","(71,045,591)","(339,977,468)","52,069,024","29,452,119,675",,,,,,,,
+(b),(b),(b),VAT,"13,312,575,560","205,439,219,107","(158,233,844,339)","(47,557,843,276)",-,-,"12,960,107,052",,,,,,,,
+(b),(b),(b),Natural resource tax,"5,734,405,755","32,290,011,470","(34,483,221,752)",-,"(28,714,135)",-,"3,512,481,338",,,,,,,,
+(b),(b),(b),Personal income tax,"2,441,735,113","9,824,050,721","(10,239,520,352)",-,-,-,"2,026,265,482",,,,,,,,
+(b),(b) > (b),(b),Other taxes and fees,"755,550,752","14,336,640,881","(14,962,211,929)","(129,889,936)",-,-,"89,768",,,,,,,,89.768
+(b),(b),(b),,"58,180,592,288","317,261,311,118","(279,415,438,709)","(47,758,778,803)","(368,691,603)","52,069,024","47,951,063,315",,,,,,,,

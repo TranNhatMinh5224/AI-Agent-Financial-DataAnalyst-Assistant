@@ -1,0 +1,24 @@
+﻿row_label_raw,row_label_full,CHỈ TIÊU,Thuyết minh,Năm 2025,Năm 2024,numeric__Thuyết minh,numeric__Năm 2025,numeric__Năm 2024
+1. Thu nhập lãi và các khoản thu nhập tương tự,1. Thu nhập lãi và các khoản thu nhập tương tự,1. Thu nhập lãi và các khoản thu nhập tương tự,VI.19,8.777.352,2.928.691,,8777352.0,2928691.0
+2. Chi phí lãi và các chi phí tương tự,2. Chi phí lãi và các chi phí tương tự,2. Chi phí lãi và các chi phí tương tự,VI.20,6.405.963,4.710.884,,6405963.0,4710884.0
+I. Thu nhập lãi thuần,I. Thu nhập lãi thuần,I. Thu nhập lãi thuần,,2.371.389,(1.782.193),,2371389.0,-1782193.0
+3. Thu nhập từ hoạt động dịch vụ,3. Thu nhập từ hoạt động dịch vụ,3. Thu nhập từ hoạt động dịch vụ,,363.374,165.438,,363374.0,165438.0
+4. Chi phí hoạt động dịch vụ,4. Chi phí hoạt động dịch vụ,4. Chi phí hoạt động dịch vụ,,174.585,90.470,,174585.0,90470.0
+II. Lãi/lỗ thuần từ hoạt động dịch vụ,II. Lãi/lỗ thuần từ hoạt động dịch vụ,II. Lãi/lỗ thuần từ hoạt động dịch vụ,VI.21,188.789,74.968,,188789.0,74968.0
+III. Lãi/lỗ thuần từ hoạt động kinh doanh ngoại hối,III. Lãi/lỗ thuần từ hoạt động kinh doanh ngoại hối,III. Lãi/lỗ thuần từ hoạt động kinh doanh ngoại hối,VI.22,102.084,125.512,,102084.0,125512.0
+IV. Lãi/lỗ thuần từ mua bán chứng khoán kinh doanh,IV. Lãi/lỗ thuần từ mua bán chứng khoán kinh doanh,IV. Lãi/lỗ thuần từ mua bán chứng khoán kinh doanh,,-,-,,,
+V. Lãi/lỗ thuần từ mua bán chứng khoán đầu tư,IV. Lãi/lỗ thuần từ mua bán chứng khoán kinh doanh > V. Lãi/lỗ thuần từ mua bán chứng khoán đầu tư,V. Lãi/lỗ thuần từ mua bán chứng khoán đầu tư,VI.23,36.736,131.422,,36736.0,131422.0
+5. Thu nhập từ hoạt động khác,IV. Lãi/lỗ thuần từ mua bán chứng khoán kinh doanh > 5. Thu nhập từ hoạt động khác,5. Thu nhập từ hoạt động khác,,270.252,67.669,,270252.0,67669.0
+6. Chi phí hoạt động khác,IV. Lãi/lỗ thuần từ mua bán chứng khoán kinh doanh > 6. Chi phí hoạt động khác,6. Chi phí hoạt động khác,,221.524,89.876,,221524.0,89876.0
+VI. Lãi/lỗ thuần từ hoạt động khác,IV. Lãi/lỗ thuần từ mua bán chứng khoán kinh doanh > VI. Lãi/lỗ thuần từ hoạt động khác,VI. Lãi/lỗ thuần từ hoạt động khác,VI.24,48.728,(22.207),,48728.0,-22207.0
+"VII. Thu nhập từ góp vốn, mua cổ phần","VII. Thu nhập từ góp vốn, mua cổ phần","VII. Thu nhập từ góp vốn, mua cổ phần",,-,-,,,
+VIII. Chi phí hoạt động,"VII. Thu nhập từ góp vốn, mua cổ phần > VIII. Chi phí hoạt động",VIII. Chi phí hoạt động,VI.25,2.043.777,3.392.048,,2043777.0,3392048.0
+IX. Lợi nhuận thuần từ hoạt động kinh doanh trước chi phí dự phòng rủi ro tín dụng,"VII. Thu nhập từ góp vốn, mua cổ phần > IX. Lợi nhuận thuần từ hoạt động kinh doanh trước chi phí dự phòng rủi ro tín dụng",IX. Lợi nhuận thuần từ hoạt động kinh doanh trước chi phí dự phòng rủi ro tín dụng,,703.949,(4.864.546),,703949.0,-4864546.0
+X. Chi phí dự phòng rủi ro tín dụng,"VII. Thu nhập từ góp vốn, mua cổ phần > X. Chi phí dự phòng rủi ro tín dụng",X. Chi phí dự phòng rủi ro tín dụng,VI.26,702.380,263.544,,702380.0,263544.0
+XI. Tổng lợi nhuận trước thuế,"VII. Thu nhập từ góp vốn, mua cổ phần > XI. Tổng lợi nhuận trước thuế",XI. Tổng lợi nhuận trước thuế,,1.569,(5.128.090),,1569.0,-5128090.0
+7. Chi phí thuế TNDN hiện hành,"VII. Thu nhập từ góp vốn, mua cổ phần > 7. Chi phí thuế TNDN hiện hành",7. Chi phí thuế TNDN hiện hành,,1.491,848,,1491.0,848.0
+8. Chi phí thuế TNDN hoãn lại,8. Chi phí thuế TNDN hoãn lại,8. Chi phí thuế TNDN hoãn lại,,-,-,,,
+XII. Chi phí thuế Thu nhập doanh nghiệp,8. Chi phí thuế TNDN hoãn lại > XII. Chi phí thuế Thu nhập doanh nghiệp,XII. Chi phí thuế Thu nhập doanh nghiệp,VI.27,1.491,848,,1491.0,848.0
+XIII. Lợi nhuận sau thuế Thu nhập doanh nghiệp,8. Chi phí thuế TNDN hoãn lại > XIII. Lợi nhuận sau thuế Thu nhập doanh nghiệp,XIII. Lợi nhuận sau thuế Thu nhập doanh nghiệp,,78,(5.128.938),,78.0,-5128938.0
+XIV. Lợi ích của cổ đông không kiểm soát,XIV. Lợi ích của cổ đông không kiểm soát,XIV. Lợi ích của cổ đông không kiểm soát,,-,-,,,
+XV. Lãi cơ bản trên cổ phiếu (VND/1 cổ phiếu),XIV. Lợi ích của cổ đông không kiểm soát > XV. Lãi cơ bản trên cổ phiếu (VND/1 cổ phiếu),XV. Lãi cơ bản trên cổ phiếu (VND/1 cổ phiếu),V.18.2,"0,06",(8.394),,0.06,-8394.0

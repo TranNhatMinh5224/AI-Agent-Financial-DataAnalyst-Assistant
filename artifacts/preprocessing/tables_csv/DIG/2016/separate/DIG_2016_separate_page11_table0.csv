@@ -1,0 +1,15 @@
+﻿row_label_raw,row_label_full,Mã số,NGUỒN VỐN,Thuyết minh,Số cuối năm,Số đầu năm,numeric__NGUỒN VỐN,numeric__Thuyết minh,numeric__Số cuối năm,numeric__Số đầu năm
+415,415,415,Cổ phiếu quỹ (*),,-,-,,,,
+416,416,416,Chênh lệch đánh giá lại tài sản,,-,-,,,,
+417,417,417,Chênh lệch tỷ giá hối đoái,,-,-,,,,
+418,417 > 418,418,Quỹ đầu tư phát triển,V.21,159.220.864.853,159.220.864.853,,,159220864853.0,159220864853.0
+419,419,419,Quỹ hỗ trợ sắp xếp doanh nghiệp,,-,-,,,,
+420,420,420,Quỹ khác thuộc vốn chủ sở hữu,,-,-,,,,
+421,420 > 421,421,Lợi nhuận sau thuế chưa phân phối,V.21,301.442.386.964,200.665.821.928,,,301442386964.0,200665821928.0
+421a,420 > 421a,421a,Lợi nhuận sau thuế lũy kế đến cuối kỳ trước,,195.565.821.928,183.360.088.191,,,195565821928.0,183360088191.0
+421b,420 > 421b,421b,Lợi nhuận sau thuế chưa phân phối kỳ này,,105.876.565.036,17.305.733.737,,,105876565036.0,17305733737.0
+422,422,422,Nguồn vốn đầu tư xây dựng cơ bản,,-,-,,,,
+430,430,430,Nguồn kinh phí,,-,-,,,,
+431,431,431,Nguồn kinh phí,,-,-,,,,
+432,432,432,Nguồn kinh phí đã hình thành tài sản cố định,,-,-,,,,
+440,432 > 440,440,TỔNG CỘNG NGUỒN VỐN,,5.574.570.919.435,4.767.496.924.217,,,5574570919435.0,4767496924217.0

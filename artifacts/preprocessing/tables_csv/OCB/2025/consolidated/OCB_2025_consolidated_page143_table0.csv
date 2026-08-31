@@ -1,0 +1,9 @@
+﻿row_label_raw,row_label_full,col_0,The compulsory deposit rates,The compulsory deposit rates_1,numeric__The compulsory deposit rates,numeric__The compulsory deposit rates_1
+,,,31/12/2025,31/12/2024,,
+Customers' deposits:,Customers' deposits:,Customers' deposits:,Customers' deposits:,Customers' deposits:,,
+Demand deposits and deposits in VND with term of less than 12 months,Customers' deposits: > Demand deposits and deposits in VND with term of less than 12 months,Demand deposits and deposits in VND with term of less than 12 months,3.00,3.00,300.0,300.0
+Deposits in VND with term of 12 months and above,Customers' deposits: > Deposits in VND with term of 12 months and above,Deposits in VND with term of 12 months and above,1.00,1.00,100.0,100.0
+Demand deposits and deposits in foreign currencies with term of less than 12 months,Customers' deposits: > Demand deposits and deposits in foreign currencies with term of less than 12 months,Demand deposits and deposits in foreign currencies with term of less than 12 months,8.00,8.00,800.0,800.0
+Deposits in foreign currencies with term of 12 months and above,Customers' deposits: > Deposits in foreign currencies with term of 12 months and above,Deposits in foreign currencies with term of 12 months and above,6.00,6.00,600.0,600.0
+Overseas credit institutions' deposits:,Overseas credit institutions' deposits:,Overseas credit institutions' deposits:,Overseas credit institutions' deposits:,Overseas credit institutions' deposits:,,
+Deposits in foreign currencies,Overseas credit institutions' deposits: > Deposits in foreign currencies,Deposits in foreign currencies,1.00,1.00,100.0,100.0

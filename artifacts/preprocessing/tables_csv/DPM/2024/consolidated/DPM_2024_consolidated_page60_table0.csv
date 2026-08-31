@@ -1,0 +1,13 @@
+﻿row_label_raw,row_label_full,col_0,RESOURCES,Codes,Notes,Closing balance,Opening balance,numeric__RESOURCES,numeric__Codes,numeric__Notes,numeric__Closing balance,numeric__Opening balance
+D.,D.,D.,EQUITY,400,,"11,179,836,420,269","11,545,199,773,844",,400.0,,,
+I.,I.,I.,Owners' equity,410,25,"11,179,836,420,269","11,545,199,773,844",,410.0,25.0,,
+1.,1.,1.,Owners' contributed capital,411,,"3,914,000,000,000","3,914,000,000,000",,411.0,,,
+1.,1.,1.,- Ordinary shares carrying voting rights,411a,,"3,914,000,000,000","3,914,000,000,000",,,,,
+2.,1. > 2.,2.,Share premium,412,,"21,179,913,858","21,179,913,858",,412.0,,,
+3.,1. > 3.,3.,Treasury shares,415,,"(2,296,824,120)","(2,296,824,120)",,415.0,,,
+4.,1. > 4.,4.,Investment and development fund,418,,"4,599,179,502,370","4,599,179,502,370",,418.0,,,
+5.,1. > 5.,5.,Retained earnings,421,,"2,470,369,047,680","2,838,340,934,833",,421.0,,,
+5.,5.,5.,- Retained earnings accumulated to the prior year end,421a,,"2,048,700,696,050","2,435,451,267,470",,,,,
+5.,5.,5.,- Retained earnings of the current year,421b,,"421,668,351,630","402,889,667,363",,,,,
+6.,5. > 6.,6.,Non-controlling interests,429,,"177,404,780,481","174,796,246,903",,429.0,,,
+,,,TOTAL RESOURCES (440=300+400),440,,"16,552,286,447,507","13,309,260,029,583",,440.0,,,

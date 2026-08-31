@@ -1,0 +1,23 @@
+﻿row_label_raw,row_label_full,col_0,Giá trị hợp lý được xác địnhtạm thời tại ngày mua,Điều chỉnh giá trị hợp lý,Đơn vị tính: VND > Giá trị hợp lý,numeric__Giá trị hợp lý được xác địnhtạm thời tại ngày mua,numeric__Điều chỉnh giá trị hợp lý,numeric__Đơn vị tính: VND > Giá trị hợp lý
+Tài sản,Tài sản,Tài sản,Tài sản,Tài sản,Tài sản,,,
+Tiền và các khoản đương tiền,Tài sản > Tiền và các khoản đương tiền,Tiền và các khoản đương tiền,189.156.985.761,-,189.156.985.761,189156985761.0,,189156985761.0
+Các khoản phải thu ngắn hạn,Tài sản > Các khoản phải thu ngắn hạn,Các khoản phải thu ngắn hạn,79.252.497.266,-,79.252.497.266,79252497266.0,,79252497266.0
+Hàng tồn kho,Tài sản > Hàng tồn kho,Hàng tồn kho,61.456.794.458,-,61.456.794.458,61456794458.0,,61456794458.0
+Tài sản ngắn hạn khác,Tài sản > Tài sản ngắn hạn khác,Tài sản ngắn hạn khác,354.426.458,-,354.426.458,354426458.0,,354426458.0
+Tài sản cố định,Tài sản > Tài sản cố định,Tài sản cố định,654.838.913.953,695.670.579.670,1.350.509.493.623,654838913953.0,695670579670.0,1350509493623.0
+Chi phí xây dựng cơ bản dở dang,Tài sản > Chi phí xây dựng cơ bản dở dang,Chi phí xây dựng cơ bản dở dang,131.289.287.618,-,131.289.287.618,131289287618.0,,131289287618.0
+Tài sản dài hạn khác,Tài sản > Tài sản dài hạn khác,Tài sản dài hạn khác,6.333.489.031,-,6.333.489.031,6333489031.0,,6333489031.0
+,,,1.122.682.394.545,695.670.579.670,1.818.352.974.215,1122682394545.0,695670579670.0,1818352974215.0
+Nợ phải trả,Nợ phải trả,Nợ phải trả,Nợ phải trả,Nợ phải trả,Nợ phải trả,,,
+Phải trả người bán,Nợ phải trả > Phải trả người bán,Phải trả người bán,8.556.275.788,-,8.556.275.788,8556275788.0,,8556275788.0
+Vay và nợ,Nợ phải trả > Vay và nợ,Vay và nợ,201.961.192.022,-,201.961.192.022,201961192022.0,,201961192022.0
+Phải trả khác,Nợ phải trả > Phải trả khác,Phải trả khác,20.876.170.438,-,20.876.170.438,20876170438.0,,20876170438.0
+Thuế thu nhập hoãn lại phải trả,Nợ phải trả > Thuế thu nhập hoãn lại phải trả,Thuế thu nhập hoãn lại phải trả,-,127.972.347.353,127.972.347.353,,127972347353.0,127972347353.0
+,,,231.393.638.248,127.972.347.353,359.365.985.601,231393638248.0,127972347353.0,359365985601.0
+Tổng tài sản thuần theo giá trị hợp lý [a],Nợ phải trả > Tổng tài sản thuần theo giá trị hợp lý [a],Tổng tài sản thuần theo giá trị hợp lý [a],891.288.756.297,567.698.232.317,1.458.986.988.614,891288756297.0,567698232317.0,1458986988614.0
+Cổ đông không kiểm soát [b],Nợ phải trả > Cổ đông không kiểm soát [b],Cổ đông không kiểm soát [b],433.522.851.065,276.128.420.199,709.651.271.264,433522851065.0,276128420199.0,709651271264.0
+Lợi thế thương mại từ hợp nhất kinh doanh(Thuyết minh số 17) [c],Nợ phải trả > Lợi thế thương mại từ hợp nhất kinh doanh(Thuyết minh số 17) [c],Lợi thế thương mại từ hợp nhất kinh doanh(Thuyết minh số 17) [c],795.574.010.768,(291.569.812.118),504.004.198.650,795574010768.0,-291569812118.0,504004198650.0
+Tổng giá phí hợp nhất kinh doanh [d] = [a - b + c],Nợ phải trả > Tổng giá phí hợp nhất kinh doanh [d] = [a - b + c],Tổng giá phí hợp nhất kinh doanh [d] = [a - b + c],1.253.339.916.000,-,1.253.339.916.000,1253339916000.0,,1253339916000.0
+Trong đó:,Trong đó:,Trong đó:,Trong đó:,Trong đó:,Trong đó:,,,
+Giá phí thanh toán bằng tiền tại ngày mua,Trong đó: > Giá phí thanh toán bằng tiền tại ngày mua,Giá phí thanh toán bằng tiền tại ngày mua,104.099.916.000,-,104.099.916.000,104099916000.0,,104099916000.0
+Giá trị hợp lý của khoản đầu tư nằm giữ trước ngàymua chi phối,Trong đó: > Giá trị hợp lý của khoản đầu tư nằm giữ trước ngàymua chi phối,Giá trị hợp lý của khoản đầu tư nằm giữ trước ngàymua chi phối,1.149.240.000.000,-,1.149.240.000.000,1149240000000.0,,1149240000000.0

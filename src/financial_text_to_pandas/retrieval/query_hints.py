@@ -17,8 +17,22 @@ from financial_text_to_pandas.retrieval.dictionary import normalize_query_langua
 
 # ── Keywords & Patterns ───────────────────────────────────────────────────────
 
-# Ticker pattern: 3 uppercase letters (in Vietnam, tickers are 3 chars like FPT, VNM, AAA)
-_TICKER_RE = re.compile(r"\b[A-Z]{3}\b")
+# Ticker pattern: 3 alphanumeric characters
+_TICKER_RE = re.compile(r"\b[A-Za-z0-9]{3}\b")
+
+# Danh sách 100 mã cổ phiếu chính thức trong cuộc thi ViFinQA
+_KNOWN_TICKERS = {
+    'AAA', 'ABB', 'ACB', 'ACV', 'ASM', 'BAB', 'BAF', 'BID', 'BSR', 'BVH', 
+    'CEO', 'CRE', 'CTG', 'DBC', 'DCM', 'DIG', 'DLG', 'DNH', 'DPM', 'DTK', 
+    'DXG', 'DXS', 'EIB', 'EVF', 'FIT', 'FOX', 'FPT', 'FTS', 'GAS', 'GEE', 
+    'GEG', 'GEX', 'GVR', 'HAG', 'HBC', 'HDB', 'HDG', 'HHS', 'HHV', 'HND', 
+    'HNG', 'HPG', 'HPX', 'HSG', 'HT1', 'HUT', 'IJC', 'KBC', 'KHG', 'KLB', 
+    'MBB', 'MBS', 'MCH', 'MML', 'MPC', 'MSB', 'MSN', 'MSR', 'MWG', 'NAB', 
+    'NKG', 'NLG', 'NVB', 'NVL', 'OCB', 'OGC', 'PC1', 'PDR', 'PLX', 'PNJ', 
+    'POW', 'PRT', 'PVT', 'QNS', 'SAB', 'SAM', 'SCR', 'SGB', 'SHB', 'SJG', 
+    'SNZ', 'SSB', 'SSH', 'SSI', 'STB', 'TTF', 'VAB', 'VCB', 'VGC', 'VGT', 
+    'VIB', 'VIC', 'VIF', 'VJC', 'VNM', 'VPB', 'VPI', 'VRE', 'VSC', 'VSF'
+}
 
 # Year pattern: 4 digits starting with 20 (e.g. 2015..2024)
 _YEAR_RE = re.compile(r"\b(20[0-3]\d)\b")
@@ -118,9 +132,16 @@ def extract_query_hints(question: str) -> QueryHints:
     normalized_q = normalize_query_language(question)
     q_lower = normalized_q.lower()
     
-    # 1. Ticker: thử regex trước, fallback sang tra tên công ty
-    tickers = _TICKER_RE.findall(question)
-    ticker = tickers[0] if tickers else None
+    # 1. Ticker: tra danh sách 100 mã CK chuẩn trước, fallback sang regex và tên công ty
+    words = re.findall(r"\b[A-Za-z0-9]+\b", question)
+    ticker = None
+    for w in words:
+        if w.upper() in _KNOWN_TICKERS:
+            ticker = w.upper()
+            break
+    if not ticker:
+        tickers = _TICKER_RE.findall(question)
+        ticker = tickers[0].upper() if tickers else None
     if not ticker:
         ticker = _lookup_ticker_by_company_name(question)
     

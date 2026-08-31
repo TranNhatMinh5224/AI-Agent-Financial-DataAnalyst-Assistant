@@ -1,0 +1,15 @@
+﻿row_label_raw,row_label_full,col_0,Số đầu năm,Tăng trong năm,Giảm trong năm,VND Số cuối năm,numeric__Số đầu năm,numeric__Tăng trong năm,numeric__Giảm trong năm,numeric__VND Số cuối năm
+Phải thu,Phải thu,Phải thu,Phải thu,Phải thu,Phải thu,Phải thu,,,,
+Thuế giá trị gia tăng,Phải thu > Thuế giá trị gia tăng,Thuế giá trị gia tăng,240.817.577.520,545.608.415.878,(480.905.840.846),305.520.152.552,240817577520.0,545608415878.0,-480905840846.0,305520152552.0
+"Thuế thu nhập doanh nghiệp (""TNDN"")","Phải thu > Thuế thu nhập doanh nghiệp (""TNDN"")","Thuế thu nhập doanh nghiệp (""TNDN"")",83.646.694,-,-,83.646.694,83646694.0,,,83646694.0
+Các loại thuế khác,Phải thu > Các loại thuế khác,Các loại thuế khác,1.455.896.970,-,(510.089.347),945.807.623,1455896970.0,,-510089347.0,945807623.0
+TỔNG CỘNG,Phải thu > TỔNG CỘNG,TỔNG CỘNG,242.357.121.184,545.608.415.878,(481.415.930.193),306.549.606.869,242357121184.0,545608415878.0,-481415930193.0,306549606869.0
+Phải trả,Phải trả,Phải trả,Phải trả,Phải trả,Phải trả,Phải trả,,,,
+Thuế thu nhập doanh nghiệp,Phải trả > Thuế thu nhập doanh nghiệp,Thuế thu nhập doanh nghiệp,197.144.826.513,254.842.232.455,(210.651.122.587),241.335.936.381,197144826513.0,254842232455.0,-210651122587.0,241335936381.0
+Trong đó:,Trong đó:,Trong đó:,Trong đó:,Trong đó:,Trong đó:,Trong đó:,,,,
+Thuế TNDN hiện hành,Trong đó: > Thuế TNDN hiện hành,Thuế TNDN hiện hành,173.091.692.375,247.580.081.762,(205.863.643.323),214.808.130.814,173091692375.0,247580081762.0,-205863643323.0,214808130814.0
+Trả trước thuế TNDN theo tiến độ thanh toán của khách hàng,Trong đó: > Trả trước thuế TNDN theo tiến độ thanh toán của khách hàng,Trả trước thuế TNDN theo tiến độ thanh toán của khách hàng,24.053.134.138,7.262.150.693,(4.787.479.264),26.527.805.567,24053134138.0,7262150693.0,-4787479264.0,26527805567.0
+Thuế thu nhập cá nhân,Trong đó: > Thuế thu nhập cá nhân,Thuế thu nhập cá nhân,43.496.649.011,97.006.792.336,(98.223.715.934),42.279.725.413,43496649011.0,97006792336.0,-98223715934.0,42279725413.0
+Thuế giá trị gia tăng (*),Trong đó: > Thuế giá trị gia tăng (*),Thuế giá trị gia tăng (*),122.564.447.840,225.740.916.589,(305.425.154.136),42.880.210.293,122564447840.0,225740916589.0,-305425154136.0,42880210293.0
+Các loại thuế khác,Trong đó: > Các loại thuế khác,Các loại thuế khác,371.398.923,15.559.333.033,(15.629.009.162),301.722.794,371398923.0,15559333033.0,-15629009162.0,301722794.0
+TỔNG CỘNG,Trong đó: > TỔNG CỘNG,TỔNG CỘNG,363.577.322.287,593.149.274.413,(629.929.001.819),326.797.594.881,363577322287.0,593149274413.0,-629929001819.0,326797594881.0

@@ -1,0 +1,10 @@
+﻿row_label_raw,row_label_full,col_0,CHỈ TIÊU,Mã số,Thuyết minh,Năm nay,Năm trước,numeric__CHỈ TIÊU,numeric__Mã số,numeric__Thuyết minh,numeric__Năm nay,numeric__Năm trước
+III.,III.,III.,Lưu chuyển tiền từ hoạt động tài chính,Lưu chuyển tiền từ hoạt động tài chính,Lưu chuyển tiền từ hoạt động tài chính,Lưu chuyển tiền từ hoạt động tài chính,Lưu chuyển tiền từ hoạt động tài chính,,,,,
+1.,III. > 1.,1.,"Tiền thu từ phát hành cổ phiếu, nhận vốn góp của chủ sở hữu",31,,-,800.000.000.000,,31.0,,,800000000000.0
+2.,III. > 2.,2.,Tiền thu từ đi vay,33,,57.358.850.926,55.832.486.425,,33.0,,57358850926.0,55832486425.0
+3.,III. > 3.,3.,Tiền trả nợ gốc vay,34,,(151.181.276.519),(292.335.164.841),,34.0,,-151181276519.0,-292335164841.0
+4.,III. > 4.,4.,"Cổ tức, lợi nhuận đã trả cho chủ sở hữu",36,,(1.108.620.200),-,,36.0,,-1108620200.0,
+,,,Lưu chuyển tiền thuần từ hoạt động tài chính,40,,(94.931.045.793),563.497.321.584,,40.0,,-94931045793.0,563497321584.0
+,,,Lưu chuyển tiền thuần trong năm,50,,(317.610.808.235),326.776.537.680,,50.0,,-317610808235.0,326776537680.0
+,,,Tiền và tương đương tiền đầu năm,60,V.1,381.325.460.207,54.548.922.527,,60.0,,381325460207.0,54548922527.0
+,,,Tiền và tương đương tiền cuối năm,70,V.1,63.714.651.972,381.325.460.207,,70.0,,63714651972.0,381325460207.0

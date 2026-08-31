@@ -1,0 +1,30 @@
+﻿row_label_raw,row_label_full,CHỈ TIÊU,Mã số,Thuyết minh,Năm nay,Năm trước,numeric__Mã số,numeric__Thuyết minh,numeric__Năm nay,numeric__Năm trước
+AIII. DOANH THU HOẠT ĐỘNG TÀI CHÍNH,AIII. DOANH THU HOẠT ĐỘNG TÀI CHÍNH,AIII. DOANH THU HOẠT ĐỘNG TÀI CHÍNH,B,C,1,2,,,1.0,2.0
+3.1. Chênh lệch lãi tỷ giá hối đoái đã và chưa thực hiện,3.1. Chênh lệch lãi tỷ giá hối đoái đã và chưa thực hiện,3.1. Chênh lệch lãi tỷ giá hối đoái đã và chưa thực hiện,41,,,,41.0,,,
+"3.2. Doanh thu, dự thu cổ tức, lãi tiền gửi không cố định","3.2. Doanh thu, dự thu cổ tức, lãi tiền gửi không cố định","3.2. Doanh thu, dự thu cổ tức, lãi tiền gửi không cố định",42,B7.33,9.261.788.347,8.827.691.678,42.0,,9261788347.0,8827691678.0
+Cộng doanh thu hoạt động tài chính (50 = 41->44),Cộng doanh thu hoạt động tài chính (50 = 41->44),Cộng doanh thu hoạt động tài chính (50 = 41->44),50,,9.261.788.347,8.827.691.678,50.0,,9261788347.0,8827691678.0
+IV. CHI PHÍ TÀI CHÍNH,IV. CHI PHÍ TÀI CHÍNH,IV. CHI PHÍ TÀI CHÍNH,,,,,,,,
+4.1. Chênh lệch lỗ tỷ giá hối đoái đã và chưa thực hiện,IV. CHI PHÍ TÀI CHÍNH > 4.1. Chênh lệch lỗ tỷ giá hối đoái đã và chưa thực hiện,4.1. Chênh lệch lỗ tỷ giá hối đoái đã và chưa thực hiện,51,,,,51.0,,,
+4.2. Chi phí lãi vay,IV. CHI PHÍ TÀI CHÍNH > 4.2. Chi phí lãi vay,4.2. Chi phí lãi vay,52,,,,52.0,,,
+4.4. Chi phí tài chính khác,IV. CHI PHÍ TÀI CHÍNH > 4.4. Chi phí tài chính khác,4.4. Chi phí tài chính khác,55,,,,55.0,,,
+Cộng chi phí tài chính (60 = 51->55),IV. CHI PHÍ TÀI CHÍNH > Cộng chi phí tài chính (60 = 51->55),Cộng chi phí tài chính (60 = 51->55),60,,,,60.0,,,
+V. CHI PHÍ BÁN HÀNG,IV. CHI PHÍ TÀI CHÍNH > V. CHI PHÍ BÁN HÀNG,V. CHI PHÍ BÁN HÀNG,61,,,,61.0,,,
+VI. CHI PHÍ QUẢN LÝ CÔNG TY CHỨNG KHOÁN,IV. CHI PHÍ TÀI CHÍNH > VI. CHI PHÍ QUẢN LÝ CÔNG TY CHỨNG KHOÁN,VI. CHI PHÍ QUẢN LÝ CÔNG TY CHỨNG KHOÁN,62,B7.35,85.552.355.407,89.837.818.690,62.0,,85552355407.0,89837818690.0
+VII. KẾT QUẢ HOẠT ĐỘNG (70= 20+50-40 - 60-61-62),IV. CHI PHÍ TÀI CHÍNH > VII. KẾT QUẢ HOẠT ĐỘNG (70= 20+50-40 - 60-61-62),VII. KẾT QUẢ HOẠT ĐỘNG (70= 20+50-40 - 60-61-62),70,,509.413.933.636,661.173.665.835,70.0,,509413933636.0,661173665835.0
+VIII. THU NHẬP KHÁC VÀ CHI PHÍ KHÁC,VIII. THU NHẬP KHÁC VÀ CHI PHÍ KHÁC,VIII. THU NHẬP KHÁC VÀ CHI PHÍ KHÁC,,,,,,,,
+8.1. Thu nhập khác,VIII. THU NHẬP KHÁC VÀ CHI PHÍ KHÁC > 8.1. Thu nhập khác,8.1. Thu nhập khác,71,B7.36,69.911.509.456,58.101.747.592,71.0,,69911509456.0,58101747592.0
+8.2. Chi phí khác,VIII. THU NHẬP KHÁC VÀ CHI PHÍ KHÁC > 8.2. Chi phí khác,8.2. Chi phí khác,72,B7.37,68.631.862.267,56.102.146.282,72.0,,68631862267.0,56102146282.0
+Cộng kết quả hoạt động khác (80= 71-72),VIII. THU NHẬP KHÁC VÀ CHI PHÍ KHÁC > Cộng kết quả hoạt động khác (80= 71-72),Cộng kết quả hoạt động khác (80= 71-72),80,,1.279.647.189,1.999.601.310,80.0,,1279647189.0,1999601310.0
+IX. TỔNG LỢI NHUẬN KẾ TOÁN TRƯỚC THUẾ (90=70 + 80),VIII. THU NHẬP KHÁC VÀ CHI PHÍ KHÁC > IX. TỔNG LỢI NHUẬN KẾ TOÁN TRƯỚC THUẾ (90=70 + 80),IX. TỔNG LỢI NHUẬN KẾ TOÁN TRƯỚC THUẾ (90=70 + 80),90,,510.693.580.825,663.173.267.145,90.0,,510693580825.0,663173267145.0
+9.1. Lợi nhuận đã thực hiện,VIII. THU NHẬP KHÁC VÀ CHI PHÍ KHÁC > 9.1. Lợi nhuận đã thực hiện,9.1. Lợi nhuận đã thực hiện,91,,617.304.580.480,512.667.977.198,91.0,,617304580480.0,512667977198.0
+9.2. Lợi nhuận chưa thực hiện,VIII. THU NHẬP KHÁC VÀ CHI PHÍ KHÁC > 9.2. Lợi nhuận chưa thực hiện,9.2. Lợi nhuận chưa thực hiện,92,,(106.610.999.655),150.505.289.947,92.0,,-106610999655.0,150505289947.0
+X. CHI PHÍ THUẾ TNDN,VIII. THU NHẬP KHÁC VÀ CHI PHÍ KHÁC > X. CHI PHÍ THUẾ TNDN,X. CHI PHÍ THUẾ TNDN,100,,113.939.306.003,95.855.772.808,100.0,,113939306003.0,95855772808.0
+10.1. Chi phí thuế TNDN hiện hành,VIII. THU NHẬP KHÁC VÀ CHI PHÍ KHÁC > 10.1. Chi phí thuế TNDN hiện hành,10.1. Chi phí thuế TNDN hiện hành,100.1,B7.38,113.939.306.003,95.855.772.808,1001.0,,113939306003.0,95855772808.0
+10.2. Chi phí thuế TNDN hoãn lại,VIII. THU NHẬP KHÁC VÀ CHI PHÍ KHÁC > 10.2. Chi phí thuế TNDN hoãn lại,10.2. Chi phí thuế TNDN hoãn lại,100.2,,,,1002.0,,,
+XI. LỢI NHUẬN KẾ TOÁN SAU THUẾ TNDN (200 = 90 - 100),VIII. THU NHẬP KHÁC VÀ CHI PHÍ KHÁC > XI. LỢI NHUẬN KẾ TOÁN SAU THUẾ TNDN (200 = 90 - 100),XI. LỢI NHUẬN KẾ TOÁN SAU THUẾ TNDN (200 = 90 - 100),200,,396.754.274.822,567.317.494.337,200.0,,396754274822.0,567317494337.0
+XII. THU NHẬP (Lỗ) TOÀN DIỆN KHÁC SAU THUẾ TNDN,VIII. THU NHẬP KHÁC VÀ CHI PHÍ KHÁC > XII. THU NHẬP (Lỗ) TOÀN DIỆN KHÁC SAU THUẾ TNDN,XII. THU NHẬP (Lỗ) TOÀN DIỆN KHÁC SAU THUẾ TNDN,300,,,,300.0,,,
+12.1. Lãi/(Lỗ) từ đánh giá lại các tài sản tài chính sẵn sàng để bán,VIII. THU NHẬP KHÁC VÀ CHI PHÍ KHÁC > 12.1. Lãi/(Lỗ) từ đánh giá lại các tài sản tài chính sẵn sàng để bán,12.1. Lãi/(Lỗ) từ đánh giá lại các tài sản tài chính sẵn sàng để bán,301,,,,301.0,,,
+12.2. Lãi/(Lỗ) chênh lệch tỷ giá của hoạt động tại nước ngoài,VIII. THU NHẬP KHÁC VÀ CHI PHÍ KHÁC > 12.2. Lãi/(Lỗ) chênh lệch tỷ giá của hoạt động tại nước ngoài,12.2. Lãi/(Lỗ) chênh lệch tỷ giá của hoạt động tại nước ngoài,302,,,,302.0,,,
+12.3. Lãi (lỗ) đánh giá lại tài sản cố định theo mô hình giá trị hợp lý công ty,VIII. THU NHẬP KHÁC VÀ CHI PHÍ KHÁC > 12.3. Lãi (lỗ) đánh giá lại tài sản cố định theo mô hình giá trị hợp lý công ty,12.3. Lãi (lỗ) đánh giá lại tài sản cố định theo mô hình giá trị hợp lý công ty,303,,,,303.0,,,
+12.4. Lãi/(Lỗ) toàn diện khác,VIII. THU NHẬP KHÁC VÀ CHI PHÍ KHÁC > 12.4. Lãi/(Lỗ) toàn diện khác,12.4. Lãi/(Lỗ) toàn diện khác,304,,,,304.0,,,
+Tổng thu nhập toàn diện,VIII. THU NHẬP KHÁC VÀ CHI PHÍ KHÁC > Tổng thu nhập toàn diện,Tổng thu nhập toàn diện,400,,,,400.0,,,

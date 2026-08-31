@@ -1,0 +1,37 @@
+﻿row_label_raw,row_label_full,Bên liên quan,Phải thu/(phải trả),Số cuối năm VND,Số đầu năm VND,numeric__Phải thu/(phải trả),numeric__Số cuối năm VND,numeric__Số đầu năm VND
+Công ty con,Công ty con,Công ty con,Công ty con,Công ty con,Công ty con,,,
+Bảo Việt Nhân thọ,Công ty con > Bảo Việt Nhân thọ,Bảo Việt Nhân thọ,Phải thu về lợi nhuận,40.702.836.703,208.334.219.954,,40702836703.0,208334219954.0
+Bảo Việt Nhân thọ,Công ty con > Bảo Việt Nhân thọ,Bảo Việt Nhân thọ,Phải thu chi phí CNTT,18.091.299.910,24.234.744.400,,18091299910.0,24234744400.0
+Bảo Việt Nhân thọ,Công ty con > Bảo Việt Nhân thọ,Bảo Việt Nhân thọ,Phải trả hoạt động đầu tư,(4.095.419.481),(9.776.227.281),,-4095419481.0,-9776227281.0
+Bảo Việt Nhân thọ,Công ty con > Bảo Việt Nhân thọ,Bảo Việt Nhân thọ,Phải trả khác,(779.576.389),(941.079.542),,-779576389.0,-941079542.0
+Bảo hiểm Bảo Việt,Công ty con > Bảo hiểm Bảo Việt,Bảo hiểm Bảo Việt,Phải thu về lợi nhuận,175.391.746.699,48.821.640.860,,175391746699.0,48821640860.0
+Bảo hiểm Bảo Việt,Công ty con > Bảo hiểm Bảo Việt,Bảo hiểm Bảo Việt,Phải thu chi phí CNTT,37.986.149.925,21.052.608.257,,37986149925.0,21052608257.0
+Bảo hiểm Bảo Việt,Bảo hiểm Bảo Việt,Bảo hiểm Bảo Việt,Phải thu công trình Bảo Việt,,,,,
+Bảo hiểm Bảo Việt,Bảo hiểm Bảo Việt > Bảo hiểm Bảo Việt,Bảo hiểm Bảo Việt,Thái Nguyên,-,19.917.161.261,,,19917161261.0
+Bảo hiểm Bảo Việt,Bảo hiểm Bảo Việt > Bảo hiểm Bảo Việt,Bảo hiểm Bảo Việt,Phải thu hoạt động đầu tư,-,18.217.692.129,,,18217692129.0
+Bảo hiểm Bảo Việt,Bảo hiểm Bảo Việt > Bảo hiểm Bảo Việt,Bảo hiểm Bảo Việt,Phải thu khoản an sinh xã hội,13.385.968.908,-,,13385968908.0,
+Bảo hiểm Bảo Việt,Bảo hiểm Bảo Việt > Bảo hiểm Bảo Việt,Bảo hiểm Bảo Việt,Phải thu dịch vụ đào tạo,-,2.894.442.000,,,2894442000.0
+Bảo hiểm Bảo Việt,Bảo hiểm Bảo Việt > Bảo hiểm Bảo Việt,Bảo hiểm Bảo Việt,Phải thu khác,-,229.126.749,,,229126749.0
+Bảo hiểm Bảo Việt,Bảo hiểm Bảo Việt > Bảo hiểm Bảo Việt,Bảo hiểm Bảo Việt,Các khoản phải trả,(927.297.504),(826.392.780),,-927297504.0,-826392780.0
+BVF,Bảo hiểm Bảo Việt > BVF,BVF,Phải thu về lợi nhuận,10.346.837.429,4.098.568.788,,10346837429.0,4098568788.0
+BVF,BVF,BVF,Phải thu tiền cho thuê văn phòng,-,-,,,
+BVF,BVF > BVF,BVF,Phải thu chi phí CNTT,213.379.685,450.101.027,,213379685.0,450101027.0
+BVF,BVF > BVF,BVF,Phải thu khoản an sinh xã hội,916.500.000,-,,916500000.0,
+BVF,BVF > BVF,BVF,Các khoản phải trả,(126.910.184),(123.728.828),,-126910184.0,-123728828.0
+BVSC,BVF > BVSC,BVSC,Tiền gửi giao dịch chứng khoán,112.583.101,2.677.950.131,,112583101.0,2677950131.0
+BVSC,BVF > BVSC,BVSC,Phải thu chi phí CNTT,821.215.545,2.694.231.519,,821215545.0,2694231519.0
+BVSC,BVF > BVSC,BVSC,Phải thu khác,-,155.106.492,,,155106492.0
+BVSC,BVF > BVSC,BVSC,Các khoản phải trả,(550.596.640),(848.276.541),,-550596640.0,-848276541.0
+BVInvest,BVF > BVInvest,BVInvest,Phải thu cổ tức được chia,-,1.100.000.000,,,1100000000.0
+BVInvest,BVF > BVInvest,BVInvest,Phải thu chi phí CNTT,54.334.382,84.316.240,,54334382.0,84316240.0
+BVInvest,BVF > BVInvest,BVInvest,Phải thu tiền cho thuê văn phòng và phí giữ xe,1.776.171.562,7.936.609.316,,1776171562.0,7936609316.0
+BVInvest,BVF > BVInvest,BVInvest,Phải thu khác,203.206.590,501.588.597,,203206590.0,501588597.0
+BVInvest,BVF > BVInvest,BVInvest,Phải trả phí quản lý tòa nhà và thủ lao ủy thác,(980.311.642),(4.196.895.535),,-980311642.0,-4196895535.0
+BVInvest,BVF > BVInvest,BVInvest,Phải trả khác,(1.732.594.949),(2.626.561.252),,-1732594949.0,-2626561252.0
+"Các công ty liên doanh, liên kết","Các công ty liên doanh, liên kết","Các công ty liên doanh, liên kết","Các công ty liên doanh, liên kết","Các công ty liên doanh, liên kết","Các công ty liên doanh, liên kết",,,
+Bảo Việt Bank,"Các công ty liên doanh, liên kết > Bảo Việt Bank",Bảo Việt Bank,Số dư tiền gửi thanh toán,275.690.554.711,97.250.045.188,,275690554711.0,97250045188.0
+Bảo Việt Bank,"Các công ty liên doanh, liên kết > Bảo Việt Bank",Bảo Việt Bank,Số dư tiền gửi có kỳ hạn,283.000.000.000,470.000.000.000,,283000000000.0,470000000000.0
+Bảo Việt Bank,"Các công ty liên doanh, liên kết > Bảo Việt Bank",Bảo Việt Bank,Số dư trái phiếu,810.000.000.000,900.000.000.000,,810000000000.0,900000000000.0
+Bảo Việt Bank,"Các công ty liên doanh, liên kết > Bảo Việt Bank",Bảo Việt Bank,Phải thu từ hoạt động đầu tư tiên gửi và trái phiếu,6.144.388.185,24.864.729.524,,6144388185.0,24864729524.0
+Bảo Việt Bank,"Các công ty liên doanh, liên kết > Bảo Việt Bank",Bảo Việt Bank,Phải thu chi phí CNTT,686.193.451,2.047.020.900,,686193451.0,2047020900.0
+Bảo Việt Bank,"Các công ty liên doanh, liên kết > Bảo Việt Bank",Bảo Việt Bank,Phải trả tiền đặt cọc thuê văn phòng,(979.696.380),(583.927.840),,-979696380.0,-583927840.0

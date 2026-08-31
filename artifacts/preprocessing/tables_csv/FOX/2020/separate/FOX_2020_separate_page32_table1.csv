@@ -1,0 +1,14 @@
+﻿row_label_raw,row_label_full,col_0,Năm nay,Năm trước,numeric__Năm nay,numeric__Năm trước
+,,,VND,VND,,
+Lợi nhuận trước thuế,Lợi nhuận trước thuế,Lợi nhuận trước thuế,1.834.345.605.750,1.633.443.437.901,1834345605750.0,1633443437901.0
+Điều chỉnh cho thu nhập chịu thuế,Điều chỉnh cho thu nhập chịu thuế,Điều chỉnh cho thu nhập chịu thuế,,,,
+Trừ,Trừ,Trừ,,,,
+- Thu nhập không chịu thuế (i),Trừ > - Thu nhập không chịu thuế (i),- Thu nhập không chịu thuế (i),(178.798.009.614),(377.005.809.443),-178798009614.0,-377005809443.0
+- Thu nhập loại ra khi tính thuế năm nay,Trừ > - Thu nhập loại ra khi tính thuế năm nay,- Thu nhập loại ra khi tính thuế năm nay,(34.274.894),(19.453.737),-34274894.0,-19453737.0
+- Các khoản điều chỉnh giảm lợi nhuận trước thuế,Trừ > - Các khoản điều chỉnh giảm lợi nhuận trước thuế,- Các khoản điều chỉnh giảm lợi nhuận trước thuế,(84.779.431.710),(85.928.117.675),-84779431710.0,-85928117675.0
+Cộng,Cộng,Cộng,,,,
+- Chi phí không được khấu trừ,Cộng > - Chi phí không được khấu trừ,- Chi phí không được khấu trừ,129.702.594.828,-,129702594828.0,
+- Lãi năm trước chuyển sang,Cộng > - Lãi năm trước chuyển sang,- Lãi năm trước chuyển sang,19.453.737,14.926.002,19453737.0,14926002.0
+Thu nhập chịu thuế năm hiện hành,Cộng > Thu nhập chịu thuế năm hiện hành,Thu nhập chịu thuế năm hiện hành,1.700.455.938.097,1.170.504.983.048,1700455938097.0,1170504983048.0
+Thuế suất,Cộng > Thuế suất,Thuế suất,20%,20%,0.2,0.2
+Chi phí thuế thu nhập doanh nghiệp tính trên thu nhập chịu thuế năm hiện hành,Cộng > Chi phí thuế thu nhập doanh nghiệp tính trên thu nhập chịu thuế năm hiện hành,Chi phí thuế thu nhập doanh nghiệp tính trên thu nhập chịu thuế năm hiện hành,340.091.187.619,234.100.996.610,340091187619.0,234100996610.0

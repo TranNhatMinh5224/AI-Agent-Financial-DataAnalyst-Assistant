@@ -1,0 +1,23 @@
+﻿row_label_raw,row_label_full,STT,CHỈ TIỀU,Thuyết minh,Năm nay,Năm trước,numeric__CHỈ TIỀU,numeric__Thuyết minh,numeric__Năm nay,numeric__Năm trước
+1.,1.,1.,Thu nhập lãi và các khoản thu nhập tương tự,VI.1,8.397.136,7.111.246,,,8397136.0,7111246.0
+2.,2.,2.,Chi phí lãi và các khoản chi phí tương tự,VI.2,4.629.566,3.920.020,,,4629566.0,3920020.0
+I.,I.,I.,Thu nhập lãi thuần,,3.767.570,3.191.226,,,3767570.0,3191226.0
+3.,3.,3.,Thu nhập từ hoạt động dịch vụ,VI.3,952.219,574.628,,,952219.0,574628.0
+4.,4.,4.,Chi phí từ hoạt động dịch vụ,VI.3,74.373,94.153,,,74373.0,94153.0
+II.,II.,II.,Lãi/lỗ thuần từ hoạt động dịch vụ,VI.3,877.846,480.475,,,877846.0,480475.0
+III.,III.,III.,Lãi/lỗ thuần từ hoạt động kinh doanh ngoại hối,VI.4,88.418,42.009,,,88418.0,42009.0
+IV.,IV.,IV.,Lãi/lỗ thuần từ mua bán chứng khoán kinh doanh,VI.5,63.241,22.565,,,63241.0,22565.0
+V.,V.,V.,Lãi/lỗ thuần từ mua bán chứng khoán đầu tư,VI.6,1.186,3.043,,,1186.0,3043.0
+5.,5.,5.,Thu nhập từ hoạt động khác,VI.7,426.942,224.596,,,426942.0,224596.0
+6.,6.,6.,Chi phí từ hoạt động khác,VI.7,17.778,7.333,,,17778.0,7333.0
+VI.,VI.,VI.,Lãi/lỗ thuần từ hoạt động khác,VI.7,409.164,217.263,,,409164.0,217263.0
+VII.,VII.,VII.,"Thu nhập từ góp vốn, mua cổ phần",,-,-,,,,
+VIII.,VII. > VIII.,VIII.,Chi phí hoạt động,VI.8,2.061.000,2.021.575,,,2061000.0,2021575.0
+IX.,VII. > IX.,IX.,Lợi nhuận thuần từ hoạt động kinh doanh trước chi phí dự phòng rủi ro tín dụng,,3.146.425,1.935.006,,,3146425.0,1935006.0
+X.,VII. > X.,X.,Chi phí dự phòng rủi ro tín dụng,VI.9,823.729,822.948,,,823729.0,822948.0
+XI.,VII. > XI.,XI.,Tổng lợi nhuận trước thuế,,2.322.696,1.112.058,,,2322696.0,1112058.0
+7.,VII. > 7.,7.,Chi phí thuế TNDN hiện hành,VIII.2,466.518,224.444,,,466518.0,224444.0
+8.,VII. > 8.,8.,Chi phí thuế TNDN hoãn lại,,-,120,,,,120.0
+XII.,VII. > XII.,XII.,Chi phí thuế TNDN,,466.518,224.564,,,466518.0,224564.0
+XIII.,VII. > XIII.,XIII.,Lợi nhuận sau thuế,,1.856.178,887.494,,,1856178.0,887494.0
+XIV.,VII. > XIV.,XIV.,Lãi cơ bản trên cổ phiếu,VI.10,3.209,1.457,,,3209.0,1457.0

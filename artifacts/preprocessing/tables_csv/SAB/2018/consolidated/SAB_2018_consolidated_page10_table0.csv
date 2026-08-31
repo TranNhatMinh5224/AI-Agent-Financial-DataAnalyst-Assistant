@@ -1,0 +1,21 @@
+﻿row_label_raw,row_label_full,col_0,Mã số,Thuyết minh,31/12/2018 VND,1/1/2018 VND,numeric__Mã số,numeric__Thuyết minh,numeric__31/12/2018 VND,numeric__1/1/2018 VND
+NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,,,,
+NỘ PHẢI TRẢ (300 = 310 + 330),NGUỒN VỐN > NỘ PHẢI TRẢ (300 = 310 + 330),NỘ PHẢI TRẢ (300 = 310 + 330),300,,6.254.837.224.044,7.593.162.674.962,300.0,,6254837224044.0,7593162674962.0
+Nợ ngắn hạn,NGUỒN VỐN > Nợ ngắn hạn,Nợ ngắn hạn,310,,5.925.696.932.383,7.401.584.603.555,310.0,,5925696932383.0,7401584603555.0
+Phải trả người bán ngắn hạn,NGUỒN VỐN > Phải trả người bán ngắn hạn,Phải trả người bán ngắn hạn,311,18,2.027.262.167.712,2.020.399.662.484,311.0,18.0,2027262167712.0,2020399662484.0
+Người mua trả tiền trước ngắn hạn,NGUỒN VỐN > Người mua trả tiền trước ngắn hạn,Người mua trả tiền trước ngắn hạn,312,,110.463.408.413,89.250.848.970,312.0,,110463408413.0,89250848970.0
+Thuế phải nộp Nhà nước,NGUỒN VỐN > Thuế phải nộp Nhà nước,Thuế phải nộp Nhà nước,313,19(a),1.100.614.318.513,1.209.757.064.447,313.0,,1100614318513.0,1209757064447.0
+Phải trả người lao động,NGUỒN VỐN > Phải trả người lao động,Phải trả người lao động,314,,308.694.031.650,222.226.205.331,314.0,,308694031650.0,222226205331.0
+Chi phí phải trả ngắn hạn,NGUỒN VỐN > Chi phí phải trả ngắn hạn,Chi phí phải trả ngắn hạn,315,20,473.169.060.350,196.525.953.248,315.0,20.0,473169060350.0,196525953248.0
+Doanh thu chưa thực hiện ngắn hạn,NGUỒN VỐN > Doanh thu chưa thực hiện ngắn hạn,Doanh thu chưa thực hiện ngắn hạn,318,,1.739.369.694,606.060.605,318.0,,1739369694.0,606060605.0
+Phải trả ngắn hạn khác,NGUỒN VỐN > Phải trả ngắn hạn khác,Phải trả ngắn hạn khác,319,21(a),1.079.538.511.465,2.630.180.684.051,319.0,,1079538511465.0,2630180684051.0
+Vay ngắn hạn,NGUỒN VỐN > Vay ngắn hạn,Vay ngắn hạn,320,22(a),594.242.788.680,722.903.981.780,320.0,,594242788680.0,722903981780.0
+Dự phòng phải trả ngắn hạn,NGUỒN VỐN > Dự phòng phải trả ngắn hạn,Dự phòng phải trả ngắn hạn,321,23(a),7.668.228.740,12.991.411.679,321.0,,7668228740.0,12991411679.0
+"Quỹ khen thưởng, phúc lợi","NGUỒN VỐN > Quỹ khen thưởng, phúc lợi","Quỹ khen thưởng, phúc lợi",322,24,222.305.047.166,296.742.730.960,322.0,24.0,222305047166.0,296742730960.0
+Nợ dài hạn,NGUỒN VỐN > Nợ dài hạn,Nợ dài hạn,330,,329.140.291.661,191.578.071.407,330.0,,329140291661.0,191578071407.0
+Người mua trả tiền trước dài hạn,NGUỒN VỐN > Người mua trả tiền trước dài hạn,Người mua trả tiền trước dài hạn,332,,22.183.449,22.183.449,332.0,,22183449.0,22183449.0
+Phải trả dài hạn khác,NGUỒN VỐN > Phải trả dài hạn khác,Phải trả dài hạn khác,337,21(b),53.149.616.000,53.632.516.000,337.0,,53149616000.0,53632516000.0
+Vay dài hạn,NGUỒN VỐN > Vay dài hạn,Vay dài hạn,338,22(b),14.618.022.047,1.941.629.834,338.0,,14618022047.0,1941629834.0
+Thuế thu nhập hoãn lại phải trả,NGUỒN VỐN > Thuế thu nhập hoãn lại phải trả,Thuế thu nhập hoãn lại phải trả,341,17,31.483.891.699,17.217.198.238,341.0,17.0,31483891699.0,17217198238.0
+Dự phòng phải trả dài hạn,NGUỒN VỐN > Dự phòng phải trả dài hạn,Dự phòng phải trả dài hạn,342,23(b),145.868.448.336,64.493.890.463,342.0,,145868448336.0,64493890463.0
+Quỹ phát triển khoa học và công nghệ,NGUỒN VỐN > Quỹ phát triển khoa học và công nghệ,Quỹ phát triển khoa học và công nghệ,343,,83.998.130.130,54.270.653.423,343.0,,83998130130.0,54270653423.0

@@ -1,0 +1,23 @@
+﻿row_label_raw,row_label_full,Khoản mục,"Nhà cửa, vật kiến trúc",Máy móc thiết bị,Phương tiện vận tải truyền dẫn,Thiết bị dụng cụ quản lý,Tài sản cố định khác,Tổng cộng,"numeric__Nhà cửa, vật kiến trúc",numeric__Máy móc thiết bị,numeric__Phương tiện vận tải truyền dẫn,numeric__Thiết bị dụng cụ quản lý,numeric__Tài sản cố định khác,numeric__Tổng cộng
+Nguyên giá TSCĐ hữu hình,Nguyên giá TSCĐ hữu hình,Nguyên giá TSCĐ hữu hình,Nguyên giá TSCĐ hữu hình,Nguyên giá TSCĐ hữu hình,Nguyên giá TSCĐ hữu hình,Nguyên giá TSCĐ hữu hình,Nguyên giá TSCĐ hữu hình,Nguyên giá TSCĐ hữu hình,,,,,,
+Số dư đầu năm,Nguyên giá TSCĐ hữu hình > Số dư đầu năm,Số dư đầu năm,721.483,63.042,48.355,36.832,10.231,879.943,721483.0,63042.0,48355.0,36832.0,10231.0,879943.0
+- Mua trong năm,Nguyên giá TSCĐ hữu hình > - Mua trong năm,- Mua trong năm,48.214,6.687,3.817,438,1.316,60.472,48214.0,6687.0,3817.0,438.0,1316.0,60472.0
+- Tăng do điều chuyển,Nguyên giá TSCĐ hữu hình > - Tăng do điều chuyển,- Tăng do điều chuyển,-,91,1.633,-,-,1.724,,91.0,1633.0,,,1724.0
+- Tăng do điều chỉnh,Nguyên giá TSCĐ hữu hình > - Tăng do điều chỉnh,- Tăng do điều chỉnh,-,393,-,8,12,413,,393.0,,8.0,12.0,413.0
+"- Thanh lý, nhượng bán","Nguyên giá TSCĐ hữu hình > - Thanh lý, nhượng bán","- Thanh lý, nhượng bán",(35),(606),(650),(34),(236),(1.561),-35.0,-606.0,-650.0,-34.0,-236.0,-1561.0
+- Giảm do điều chuyển,Nguyên giá TSCĐ hữu hình > - Giảm do điều chuyển,- Giảm do điều chuyển,-,-,(1.633),(91),-,(1.724),,,-1633.0,-91.0,,-1724.0
+- Giảm do điều chỉnh,Nguyên giá TSCĐ hữu hình > - Giảm do điều chỉnh,- Giảm do điều chỉnh,(12.591),(395),-,(10),(12),(13.008),-12591.0,-395.0,,-10.0,-12.0,-13008.0
+Số dư cuối năm,Nguyên giá TSCĐ hữu hình > Số dư cuối năm,Số dư cuối năm,757.071,69.212,51.522,37.143,11.311,926.259,757071.0,69212.0,51522.0,37143.0,11311.0,926259.0
+Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,,,,,,
+Số dư đầu năm,Giá trị hao mòn lũy kế > Số dư đầu năm,Số dư đầu năm,166.798,57.697,39.433,19.228,8.922,292.078,166798.0,57697.0,39433.0,19228.0,8922.0,292078.0
+- Hao mòn trong năm,Giá trị hao mòn lũy kế > - Hao mòn trong năm,- Hao mòn trong năm,28.510,2.806,2.532,3.099,640,37.587,28510.0,2806.0,2532.0,3099.0,640.0,37587.0
+- Hao mòn trong năm (công ty con),Giá trị hao mòn lũy kế > - Hao mòn trong năm (công ty con),- Hao mòn trong năm (công ty con),-,6,89,-,9,104,,6.0,89.0,,9.0,104.0
+- Tăng do điều chuyển,Giá trị hao mòn lũy kế > - Tăng do điều chuyển,- Tăng do điều chuyển,-,91,1.633,-,-,1.724,,91.0,1633.0,,,1724.0
+- Tăng do điều chỉnh,Giá trị hao mòn lũy kế > - Tăng do điều chỉnh,- Tăng do điều chỉnh,3,21,10,66,9,109,3.0,21.0,10.0,66.0,9.0,109.0
+"- Thanh lý, nhượng bán","Giá trị hao mòn lũy kế > - Thanh lý, nhượng bán","- Thanh lý, nhượng bán",(3),(606),(650),-,(236),(1.495),-3.0,-606.0,-650.0,,-236.0,-1495.0
+- Giảm do điều chuyển,Giá trị hao mòn lũy kế > - Giảm do điều chuyển,- Giảm do điều chuyển,-,-,(1.633),(91),-,(1.724),,,-1633.0,-91.0,,-1724.0
+- Giảm do điều chỉnh,Giá trị hao mòn lũy kế > - Giảm do điều chỉnh,- Giảm do điều chỉnh,(4.945),(20),(10),(64),(9),(5.048),-4945.0,-20.0,-10.0,-64.0,-9.0,-5048.0
+Số dư cuối năm,Giá trị hao mòn lũy kế > Số dư cuối năm,Số dư cuối năm,190.363,59.995,41.404,22.238,9.335,323.335,190363.0,59995.0,41404.0,22238.0,9335.0,323335.0
+Giá trị còn lại của TSCĐ hữu hình,Giá trị còn lại của TSCĐ hữu hình,Giá trị còn lại của TSCĐ hữu hình,Giá trị còn lại của TSCĐ hữu hình,Giá trị còn lại của TSCĐ hữu hình,Giá trị còn lại của TSCĐ hữu hình,Giá trị còn lại của TSCĐ hữu hình,Giá trị còn lại của TSCĐ hữu hình,Giá trị còn lại của TSCĐ hữu hình,,,,,,
+Số dư đầu năm,Giá trị còn lại của TSCĐ hữu hình > Số dư đầu năm,Số dư đầu năm,554.685,5.345,8.922,17.604,1.309,587.865,554685.0,5345.0,8922.0,17604.0,1309.0,587865.0
+Số dư cuối năm,Giá trị còn lại của TSCĐ hữu hình > Số dư cuối năm,Số dư cuối năm,566.708,9.217,10.118,14.905,1.976,602.924,566708.0,9217.0,10118.0,14905.0,1976.0,602924.0

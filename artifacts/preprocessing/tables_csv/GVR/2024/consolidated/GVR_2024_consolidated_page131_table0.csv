@@ -1,0 +1,12 @@
+﻿row_label_raw,row_label_full,Status of the records,Number,Outstanding debt balance,Outstanding debt balance_1,numeric__Number,numeric__Outstanding debt balance,numeric__Outstanding debt balance_1
+Status of the records,Status of the records,Status of the records,Number,Principal Debt,Interest Debt,,,
+"The case has been filed, transferred to the Court","Status of the records > The case has been filed, transferred to the Court","The case has been filed, transferred to the Court",28,"385,703,507,982","888,923,735,941",28.0,,
+"The credit case is under court review, no verdict yet","Status of the records > The credit case is under court review, no verdict yet","The credit case is under court review, no verdict yet",22,"338,553,737,199","833,844,435,437",22.0,,
+"The credit case is under court review, with a verdict","Status of the records > The credit case is under court review, with a verdict","The credit case is under court review, with a verdict",2,"12,217,850,582","49,548,037,474",2.0,,
+The credit case has been dismissed due to expiration of validity - debt collection lawsuit,Status of the records > The credit case has been dismissed due to expiration of validity - debt collection lawsuit,The credit case has been dismissed due to expiration of validity - debt collection lawsuit,4,"34,931,920,201","5,531,263,030",4.0,,
+The case is with the enforcement agency,Status of the records > The case is with the enforcement agency,The case is with the enforcement agency,149,"336,757,243,169","1,192,895,316,901",149.0,,
+The case is under enforcement with collateral (executed and being executed),Status of the records > The case is under enforcement with collateral (executed and being executed),The case is under enforcement with collateral (executed and being executed),8,"42,890,764,794","115,770,259,820",8.0,,
+The case is under enforcement with collateral (executed),Status of the records > The case is under enforcement with collateral (executed),The case is under enforcement with collateral (executed),40,"282,812,808,055","698,662,187,200",40.0,,
+The enforcement case has no collateral,Status of the records > The enforcement case has no collateral,The enforcement case has no collateral,101,"11,053,670,320","378,462,869,881",101.0,,
+The case has not been filed yet,Status of the records > The case has not been filed yet,The case has not been filed yet,2,"1,340,000,000","1,241,177,770",2.0,,
+,,,179,"723,800,751,151","2,083,060,230,612",179.0,,

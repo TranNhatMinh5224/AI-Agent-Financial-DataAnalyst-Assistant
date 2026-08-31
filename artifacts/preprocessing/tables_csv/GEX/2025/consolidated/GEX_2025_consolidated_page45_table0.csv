@@ -1,0 +1,24 @@
+﻿row_label_raw,row_label_full,col_0,Giá trị hợp lý xác định tại ngày mua,numeric__Giá trị hợp lý xác định tại ngày mua
+Tài sản,Tài sản,Tài sản,VND,
+Tiền và các khoản tương đương tiền,Tài sản > Tiền và các khoản tương đương tiền,Tiền và các khoản tương đương tiền,134.152.241.257,134152241257.0
+Các khoản phải thu ngắn hạn,Tài sản > Các khoản phải thu ngắn hạn,Các khoản phải thu ngắn hạn,28.571.236.341,28571236341.0
+Hàng tồn kho,Tài sản > Hàng tồn kho,Hàng tồn kho,285.005.051.819,285005051819.0
+Tài sản ngắn hạn khác,Tài sản > Tài sản ngắn hạn khác,Tài sản ngắn hạn khác,4.627.258.905,4627258905.0
+Tài sản cố định,Tài sản > Tài sản cố định,Tài sản cố định,183.305.906.641,183305906641.0
+Tài sản dài hạn khác,Tài sản > Tài sản dài hạn khác,Tài sản dài hạn khác,9.569.988.904,9569988904.0
+Tổng tài sản,Tài sản > Tổng tài sản,Tổng tài sản,645.231.683.867,645231683867.0
+Nợ phải trả,Nợ phải trả,Nợ phải trả,Nợ phải trả,
+Phải trả người bán ngắn hạn,Nợ phải trả > Phải trả người bán ngắn hạn,Phải trả người bán ngắn hạn,91.592.533.942,91592533942.0
+Người mua trả tiền trước ngắn hạn,Nợ phải trả > Người mua trả tiền trước ngắn hạn,Người mua trả tiền trước ngắn hạn,29.226.054.009,29226054009.0
+Thuế và các khoản phải nộp nhà nước,Nợ phải trả > Thuế và các khoản phải nộp nhà nước,Thuế và các khoản phải nộp nhà nước,769.457.584,769457584.0
+Phải trả người lao động,Nợ phải trả > Phải trả người lao động,Phải trả người lao động,8.697.484.958,8697484958.0
+Chi phí phải trả ngắn hạn,Nợ phải trả > Chi phí phải trả ngắn hạn,Chi phí phải trả ngắn hạn,17.480.803.522,17480803522.0
+Phải trả ngắn hạn khác,Nợ phải trả > Phải trả ngắn hạn khác,Phải trả ngắn hạn khác,11.717.040.702,11717040702.0
+Vay và nợ thuê tài chính ngắn hạn,Nợ phải trả > Vay và nợ thuê tài chính ngắn hạn,Vay và nợ thuê tài chính ngắn hạn,30.000.000.000,30000000000.0
+Tổng nợ phải trả,Nợ phải trả > Tổng nợ phải trả,Tổng nợ phải trả,189.483.374.717,189483374717.0
+Tổng tài sản thuần [a],Nợ phải trả > Tổng tài sản thuần [a],Tổng tài sản thuần [a],455.748.309.150,455748309150.0
+Lợi thế thương mại [b],Nợ phải trả > Lợi thế thương mại [b],Lợi thế thương mại [b],11.841.691.790,11841691790.0
+Cổ đông không kiểm soát [c],Nợ phải trả > Cổ đông không kiểm soát [c],Cổ đông không kiểm soát [c],13.954.199.455,13954199455.0
+Tổng giá phí hợp nhất kinh doanh [d]=[a]+[b]+[c],Nợ phải trả > Tổng giá phí hợp nhất kinh doanh [d]=[a]+[b]+[c],Tổng giá phí hợp nhất kinh doanh [d]=[a]+[b]+[c],481.544.200.395,481544200395.0
+Trong đó:,Trong đó:,Trong đó:,Trong đó:,
+Giá phí thanh toán bằng tiền tại ngày mua,Trong đó: > Giá phí thanh toán bằng tiền tại ngày mua,Giá phí thanh toán bằng tiền tại ngày mua,310.589.000.000,310589000000.0

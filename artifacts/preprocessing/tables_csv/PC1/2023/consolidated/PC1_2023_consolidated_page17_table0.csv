@@ -1,0 +1,15 @@
+﻿row_label_raw,row_label_full,STT,Tên Công ty,Hoạt động chính,Địa chỉ,Mẫu B 09 – DN/HN(Ban hành theo Thông tư số 202/2014/TT-BTCngày 22/12/2014 của Bộ Tài chính) > Tỷ lệ % quyền biểu quyếtvà tỷ lệ % sở hữu31/12/2023,Mẫu B 09 – DN/HN(Ban hành theo Thông tư số 202/2014/TT-BTCngày 22/12/2014 của Bộ Tài chính) > 1/1/2023,numeric__Tên Công ty,numeric__Hoạt động chính,numeric__Địa chỉ,numeric__Mẫu B 09 – DN/HN(Ban hành theo Thông tư số 202/2014/TT-BTCngày 22/12/2014 của Bộ Tài chính) > Tỷ lệ % quyền biểu quyếtvà tỷ lệ % sở hữu31/12/2023,numeric__Mẫu B 09 – DN/HN(Ban hành theo Thông tư số 202/2014/TT-BTCngày 22/12/2014 của Bộ Tài chính) > 1/1/2023
+Công ty con cấp 1,Công ty con cấp 1,Công ty con cấp 1,Công ty con cấp 1,Công ty con cấp 1,Công ty con cấp 1,Công ty con cấp 1,Công ty con cấp 1,,,,,
+22,Công ty con cấp 1 > 22,22,Công ty Cổ phần Thiết bị Thương mại,Cho thuê nhà xưởng,Hà Nội,"99,75%","99,75%",,,,0.9975,0.9975
+23,Công ty con cấp 1 > 23,23,Asia Dragon Trading Pte. Ltd. (trước dây là“PC1 Global Trading Pte. Ltd.”),Bán buôn kim loại và quặng kim loại,Singapore,"100,00%","100,00%",,,,1.0,1.0
+24,Công ty con cấp 1 > 24,24,Công ty Cổ phần KCN Quốc tế Hải Phòng (*),Kinh doanh cơ sở hạ tầng của khu công nghiệp,Hải Phòng,"99,00%",-,,,,0.99,
+25,Công ty con cấp 1 > 25,25,Công ty Phát triển Khu Công nghiệp Nhật Bản - Hải Phòng(**),"Đầu tư, xây dựng và kinh doanh cơ sở hạ tầng, tiện ích, dịch vụ của khu công nghiệp",Hải Phòng,"70,00%","70,00%",,,,0.7,0.7
+26,Công ty con cấp 1 > 26,26,PC1 Australia Pty Ltd (***),Kinh doanh sản phẩm thép,Australia,"100,00%",-,,,,1.0,
+Công ty con cấp 2,Công ty con cấp 2,Công ty con cấp 2,Công ty con cấp 2,Công ty con cấp 2,Công ty con cấp 2,Công ty con cấp 2,Công ty con cấp 2,,,,,
+1,1,1,Công ty con của Công ty TNHH Chế tạo Cột thép Đông Anh,,,,,,,,,
+1,1 > 1,1,Công ty Cổ phần Cột thép Mạ kẽm Thái Nguyên,Sản xuất các loại cột thép mạ kẽm,Thái Nguyên,"81,00%","81,00%",,,,0.81,0.81
+2,2,2,Công ty con của Công ty TNHH MTV Xây lắp Điện 1 - Mỹ Đình,,,,,,,,,
+2,2 > 2,2,Công ty Cổ phần Thí nghiệm Điện ETIK,"Kiểm định, thử nghiệm, hiệu chỉnh thiết bị dụng cụ điện áp đến 110 kV",Hà Nội,"51,00%","51,00%",,,,0.51,0.51
+3,2 > 3,3,Công ty TNHH MTV Xây lắp Điện 1 - Ninh Bình,Xây lắp điện,Ninh Bình,"100,00%","100,00%",,,,1.0,1.0
+4,4,4,Công ty con của Công ty TNHH MTV Xây lắp Điện 1 - Miền Nam,,,,,,,,,
+4,4 > 4,4,Công ty TNHH MTV Xây lắp Điện 1 - Từ Liêm,Xây lắp điện,Hà Nội,"100,00%","100,00%",,,,1.0,1.0

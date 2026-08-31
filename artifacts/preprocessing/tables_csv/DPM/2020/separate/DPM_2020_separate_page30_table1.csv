@@ -1,0 +1,21 @@
+﻿row_label_raw,row_label_full,col_0,Số đầu nămVND,Số phải nộp/thu trong nămVND,Số đã thực nộp/thu trong nămVND,Số cuối nămVND,numeric__Số đầu nămVND,numeric__Số phải nộp/thu trong nămVND,numeric__Số đã thực nộp/thu trong nămVND,numeric__Số cuối nămVND
+a. Các khoản phải thu,a. Các khoản phải thu,a. Các khoản phải thu,a. Các khoản phải thu,a. Các khoản phải thu,a. Các khoản phải thu,a. Các khoản phải thu,,,,
+Thuế thu nhập doanh nghiệp,a. Các khoản phải thu > Thuế thu nhập doanh nghiệp,Thuế thu nhập doanh nghiệp,3.152.818.774,-,-,3.152.818.774,3152818774.0,,,3152818774.0
+Thuế thu nhập cá nhân,a. Các khoản phải thu > Thuế thu nhập cá nhân,Thuế thu nhập cá nhân,1.684.975.381,3.756.286.972,1.684.975.381,3.756.286.972,1684975381.0,3756286972.0,1684975381.0,3756286972.0
+,,,4.837.794.155,3.756.286.972,1.684.975.381,6.909.105.746,4837794155.0,3756286972.0,1684975381.0,6909105746.0
+b. Các khoản phải trả,b. Các khoản phải trả,b. Các khoản phải trả,b. Các khoản phải trả,b. Các khoản phải trả,b. Các khoản phải trả,b. Các khoản phải trả,,,,
+Thuế giá trị gia tăng,b. Các khoản phải trả > Thuế giá trị gia tăng,Thuế giá trị gia tăng,1.495.194.632,37.204.738.354,34.956.531.256,3.743.401.730,1495194632.0,37204738354.0,34956531256.0,3743401730.0
+- Thuế GTGT hàng bán nội địa,b. Các khoản phải trả > - Thuế GTGT hàng bán nội địa,- Thuế GTGT hàng bán nội địa,1.495.194.632,24.786.075.499,22.537.868.401,3.743.401.730,1495194632.0,24786075499.0,22537868401.0,3743401730.0
+- Thuế GTGT hàng nhập khẩu,b. Các khoản phải trả > - Thuế GTGT hàng nhập khẩu,- Thuế GTGT hàng nhập khẩu,-,12.418.662.855,12.418.662.855,-,,12418662855.0,12418662855.0,
+"Thuế xuất, nhập khẩu","b. Các khoản phải trả > Thuế xuất, nhập khẩu","Thuế xuất, nhập khẩu",-,29.893.588.765,29.531.740.075,361.848.690,,29893588765.0,29531740075.0,361848690.0
+Thuế thu nhập doanh nghiệp,b. Các khoản phải trả > Thuế thu nhập doanh nghiệp,Thuế thu nhập doanh nghiệp,56.121.938.970,156.370.815.715,168.787.153.507,43.705.601.178,56121938970.0,156370815715.0,168787153507.0,43705601178.0
+Thuế thu nhập cá nhân,b. Các khoản phải trả > Thuế thu nhập cá nhân,Thuế thu nhập cá nhân,766.009.136,30.682.622.692,27.956.764.280,3.491.867.548,766009136.0,30682622692.0,27956764280.0,3491867548.0
+Thuế tài nguyên,b. Các khoản phải trả > Thuế tài nguyên,Thuế tài nguyên,242.223.360,3.736.560.000,3.652.950.120,325.833.240,242223360.0,3736560000.0,3652950120.0,325833240.0
+Thuế bảo vệ môi trường và các loại,Thuế bảo vệ môi trường và các loại,Thuế bảo vệ môi trường và các loại,Thuế bảo vệ môi trường và các loại,Thuế bảo vệ môi trường và các loại,Thuế bảo vệ môi trường và các loại,Thuế bảo vệ môi trường và các loại,,,,
+thuế khác,Thuế bảo vệ môi trường và các loại > thuế khác,thuế khác,477.445.800,154.074.702.666,154.302.770.215,249.378.251,477445800.0,154074702666.0,154302770215.0,249378251.0
+- Thuế bảo vệ môi trường,Thuế bảo vệ môi trường và các loại > - Thuế bảo vệ môi trường,- Thuế bảo vệ môi trường,477.445.800,1.026.647.351,1.254.714.900,249.378.251,477445800.0,1026647351.0,1254714900.0,249378251.0
+- Thuế nhà đất và tiền thuê đất,Thuế bảo vệ môi trường và các loại > - Thuế nhà đất và tiền thuê đất,- Thuế nhà đất và tiền thuê đất,-,1.138.228.931,1.138.228.931,-,,1138228931.0,1138228931.0,
+- Thuế môn bài,Thuế bảo vệ môi trường và các loại > - Thuế môn bài,- Thuế môn bài,-,6.000.000,6.000.000,-,,6000000.0,6000000.0,
+- Thuế nhà thầu nước ngoài,Thuế bảo vệ môi trường và các loại > - Thuế nhà thầu nước ngoài,- Thuế nhà thầu nước ngoài,-,220.922.134,220.922.134,-,,220922134.0,220922134.0,
+- Các loại thuế khác,Thuế bảo vệ môi trường và các loại > - Các loại thuế khác,- Các loại thuế khác,-,151.682.904.250,151.682.904.250,-,,151682904250.0,151682904250.0,
+,,,59.102.811.898,411.963.028.192,419.187.909.453,51.877.930.637,59102811898.0,411963028192.0,419187909453.0,51877930637.0

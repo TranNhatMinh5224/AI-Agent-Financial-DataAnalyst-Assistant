@@ -1,0 +1,17 @@
+﻿row_label_raw,row_label_full,col_0,Mã số,Thuyết minh,2019Triệu VND,2018Triệu VND,numeric__Mã số,numeric__Thuyết minh,numeric__2019Triệu VND,numeric__2018Triệu VND
+Doanh thu bán hàng,Doanh thu bán hàng,Doanh thu bán hàng,01,25,38.818.747,39.378.747,1.0,25.0,38818747.0,39378747.0
+Các khoản giảm trừ doanh thu,Các khoản giảm trừ doanh thu,Các khoản giảm trừ doanh thu,02,25,1.464.660,1.191.130,2.0,25.0,1464660.0,1191130.0
+Doanh thu thuần (10 = 01 - 02),Doanh thu thuần (10 = 01 - 02),Doanh thu thuần (10 = 01 - 02),10,25,37.354.087,38.187.617,10.0,25.0,37354087.0,38187617.0
+Giá vốn hàng bán,Giá vốn hàng bán,Giá vốn hàng bán,11,26,26.412.939,26.306.208,11.0,26.0,26412939.0,26306208.0
+Lợi nhuận gộp (20 = 10 - 11),Lợi nhuận gộp (20 = 10 - 11),Lợi nhuận gộp (20 = 10 - 11),20,,10.941.148,11.881.409,20.0,,10941148.0,11881409.0
+Doanh thu hoạt động tài chính,Doanh thu hoạt động tài chính,Doanh thu hoạt động tài chính,21,27,1.188.183,1.901.793,21.0,27.0,1188183.0,1901793.0
+Chi phí tài chính,Chi phí tài chính,Chi phí tài chính,22,28,2.200.562,3.090.914,22.0,28.0,2200562.0,3090914.0
+Trong đó: Chi phí lãi vay,Trong đó: Chi phí lãi vay,Trong đó: Chi phí lãi vay,23,,1.866.015,2.667.531,23.0,,1866015.0,2667531.0
+Phần lãi trong các công ty liên kết,Phần lãi trong các công ty liên kết,Phần lãi trong các công ty liên kết,24,,2.182.410,1.914.340,24.0,,2182410.0,1914340.0
+Chi phí bán hàng,Chi phí bán hàng,Chi phí bán hàng,25,29,3.994.895,4.314.253,25.0,29.0,3994895.0,4314253.0
+Chi phí quản lý doanh nghiệp,Chi phí quản lý doanh nghiệp,Chi phí quản lý doanh nghiệp,26,30,2.103.408,2.015.388,26.0,30.0,2103408.0,2015388.0
+Lợi nhuận thuần từ hoạt động kinh doanh{30 = 20 + (21 - 22) + 24 - (25 + 26)},Lợi nhuận thuần từ hoạt động kinh doanh{30 = 20 + (21 - 22) + 24 - (25 + 26)},Lợi nhuận thuần từ hoạt động kinh doanh{30 = 20 + (21 - 22) + 24 - (25 + 26)},30,,6.012.876,6.276.987,30.0,,6012876.0,6276987.0
+Thu nhập khác,Thu nhập khác,Thu nhập khác,31,31,1.325.350,14.708,31.0,31.0,1325350.0,14708.0
+Chi phí khác,Chi phí khác,Chi phí khác,32,,233.136,47.871,32.0,,233136.0,47871.0
+Kết quả từ các hoạt động khác (40 = 31 - 32),Kết quả từ các hoạt động khác (40 = 31 - 32),Kết quả từ các hoạt động khác (40 = 31 - 32),40,,1.092.214,(33.163),40.0,,1092214.0,-33163.0
+Lợi nhuận kế toán trước thuế(50 = 30 + 40) (mang sang trang sau),Lợi nhuận kế toán trước thuế(50 = 30 + 40) (mang sang trang sau),Lợi nhuận kế toán trước thuế(50 = 30 + 40) (mang sang trang sau),50,,7.105.090,6.243.824,50.0,,7105090.0,6243824.0

@@ -1,0 +1,43 @@
+﻿row_label_raw,row_label_full,col_0,Thuyết minh,Số cuối năm Triệu đồng,Số đầu năm Triệu đồng,numeric__Thuyết minh,numeric__Số cuối năm Triệu đồng,numeric__Số đầu năm Triệu đồng
+TÀI SẢN,TÀI SẢN,TÀI SẢN,TÀI SẢN,TÀI SẢN,TÀI SẢN,,,
+"Tiền mặt, vàng bạc và đá quý","TÀI SẢN > Tiền mặt, vàng bạc và đá quý","Tiền mặt, vàng bạc và đá quý",6,6.586.478,4.815.942,6.0,6586478.0,4815942.0
+Tiền gửi tại Ngân hàng Nhà nước,TÀI SẢN > Tiền gửi tại Ngân hàng Nhà nước,Tiền gửi tại Ngân hàng Nhà nước,7,7.497.267,4.289.757,7.0,7497267.0,4289757.0
+"Tiền gửi tại và cho vay các tổ chức tín dụng (""TCTD"") khác","TÀI SẢN > Tiền gửi tại và cho vay các tổ chức tín dụng (""TCTD"") khác","Tiền gửi tại và cho vay các tổ chức tín dụng (""TCTD"") khác",,2.207.868,3.630.099,,2207868.0,3630099.0
+Tiền gửi tại các TCTD khác,TÀI SẢN > Tiền gửi tại các TCTD khác,Tiền gửi tại các TCTD khác,8.1,2.207.868,2.894.719,81.0,2207868.0,2894719.0
+Cho vay các TCTD khác,TÀI SẢN > Cho vay các TCTD khác,Cho vay các TCTD khác,8.2,552,735.380,82.0,552.0,735380.0
+Dự phòng rủi ro,TÀI SẢN > Dự phòng rủi ro,Dự phòng rủi ro,12,(552),-,12.0,-552.0,
+Chứng khoán kinh doanh,TÀI SẢN > Chứng khoán kinh doanh,Chứng khoán kinh doanh,9,95.334,7.683.341,9.0,95334.0,7683341.0
+Chứng khoán kinh doanh,TÀI SẢN > Chứng khoán kinh doanh,Chứng khoán kinh doanh,,124.841,7.732.428,,124841.0,7732428.0
+Dự phòng rủi ro chứng khoán kinh doanh,TÀI SẢN > Dự phòng rủi ro chứng khoán kinh doanh,Dự phòng rủi ro chứng khoán kinh doanh,,(29.507),(49.087),,-29507.0,-49087.0
+Các công cụ tài chính phải sinh và các tài sản tài chính khác,TÀI SẢN > Các công cụ tài chính phải sinh và các tài sản tài chính khác,Các công cụ tài chính phải sinh và các tài sản tài chính khác,10,-,12.151,10.0,,12151.0
+Cho vay và cho thuê tài chính khách hàng,TÀI SẢN > Cho vay và cho thuê tài chính khách hàng,Cho vay và cho thuê tài chính khách hàng,,183.660.021,126.646.093,,183660021.0,126646093.0
+Cho vay và cho thuê tài chính khách hàng,TÀI SẢN > Cho vay và cho thuê tài chính khách hàng,Cho vay và cho thuê tài chính khách hàng,11,185.916.813,128.015.011,11.0,185916813.0,128015011.0
+Dự phòng rủi ro cho vay và cho thuê tài chính khách hàng,TÀI SẢN > Dự phòng rủi ro cho vay và cho thuê tài chính khách hàng,Dự phòng rủi ro cho vay và cho thuê tài chính khách hàng,12,(2.256.792),(1.368.918),12.0,-2256792.0,-1368918.0
+Hoạt động mua nợ,Hoạt động mua nợ,Hoạt động mua nợ,,-,-,,,
+Mua nợ,Hoạt động mua nợ > Mua nợ,Mua nợ,,300,-,,300.0,
+Dự phòng rủi ro hoạt động mua nợ,Hoạt động mua nợ > Dự phòng rủi ro hoạt động mua nợ,Dự phòng rủi ro hoạt động mua nợ,,(300),-,,-300.0,
+Chứng khoán đầu tư,Hoạt động mua nợ > Chứng khoán đầu tư,Chứng khoán đầu tư,13,39.678.056,25.925.440,13.0,39678056.0,25925440.0
+Chứng khoán đầu tư sẵn sàng để bán,Hoạt động mua nợ > Chứng khoán đầu tư sẵn sàng để bán,Chứng khoán đầu tư sẵn sàng để bán,13.1,25.109.203,20.250.805,131.0,25109203.0,20250805.0
+Chứng khoán đầu tư giữ đến ngày đáo hạn,Hoạt động mua nợ > Chứng khoán đầu tư giữ đến ngày đáo hạn,Chứng khoán đầu tư giữ đến ngày đáo hạn,13.2,16.148.253,5.935.128,132.0,16148253.0,5935128.0
+Dự phòng rủi ro chứng khoán đầu tư,Hoạt động mua nợ > Dự phòng rủi ro chứng khoán đầu tư,Dự phòng rủi ro chứng khoán đầu tư,13.4,(1.579.400),(260.493),134.0,-1579400.0,-260493.0
+"Góp vốn, đầu tư dài hạn","Hoạt động mua nợ > Góp vốn, đầu tư dài hạn","Góp vốn, đầu tư dài hạn",,594.542,264.513,,594542.0,264513.0
+Đầu tư dài hạn khác,Hoạt động mua nợ > Đầu tư dài hạn khác,Đầu tư dài hạn khác,14.1,897.843,400.749,141.0,897843.0,400749.0
+Dự phòng giảm giá đầu tư dài hạn,Hoạt động mua nợ > Dự phòng giảm giá đầu tư dài hạn,Dự phòng giảm giá đầu tư dài hạn,14.2,(303.301),(136.236),142.0,-303301.0,-136236.0
+Tài sản cố định,Hoạt động mua nợ > Tài sản cố định,Tài sản cố định,,7.967.719,5.198.975,,7967719.0,5198975.0
+Tài sản cố định hữu hình,Hoạt động mua nợ > Tài sản cố định hữu hình,Tài sản cố định hữu hình,15.1,4.530.436,2.831.507,151.0,4530436.0,2831507.0
+Nguyên giá tài sản cố định,Hoạt động mua nợ > Nguyên giá tài sản cố định,Nguyên giá tài sản cố định,,6.553.671,4.105.565,,6553671.0,4105565.0
+Khẩu hao tài sản cố định,Hoạt động mua nợ > Khẩu hao tài sản cố định,Khẩu hao tài sản cố định,,(2.023.235),(1.274.058),,-2023235.0,-1274058.0
+Tài sản cố định thuê tài chính,Hoạt động mua nợ > Tài sản cố định thuê tài chính,Tài sản cố định thuê tài chính,15.2,70,188,152.0,70.0,188.0
+Nguyên giá tài sản cố định,Hoạt động mua nợ > Nguyên giá tài sản cố định,Nguyên giá tài sản cố định,,596,596,,596.0,596.0
+Khẩu hao tài sản cố định,Hoạt động mua nợ > Khẩu hao tài sản cố định,Khẩu hao tài sản cố định,,(526),(408),,-526.0,-408.0
+Tài sản cố định vô hình,Hoạt động mua nợ > Tài sản cố định vô hình,Tài sản cố định vô hình,15.3,3.437.213,2.367.280,153.0,3437213.0,2367280.0
+Nguyên giá tài sản cố định,Hoạt động mua nợ > Nguyên giá tài sản cố định,Nguyên giá tài sản cố định,,4.089.239,2.868.438,,4089239.0,2868438.0
+Hao mòn tài sản cố định,Hoạt động mua nợ > Hao mòn tài sản cố định,Hao mòn tài sản cố định,,(652.026),(501.158),,-652026.0,-501158.0
+Tài sản có khác,Hoạt động mua nợ > Tài sản có khác,Tài sản có khác,,43.745.451,11.336.316,,43745451.0,11336316.0
+Các khoản phải thu,Hoạt động mua nợ > Các khoản phải thu,Các khoản phải thu,16.1,17.175.891,4.864.718,161.0,17175891.0,4864718.0
+"Các khoản lãi, phí phải thu","Hoạt động mua nợ > Các khoản lãi, phí phải thu","Các khoản lãi, phí phải thu",16.2,25.207.349,5.149.188,162.0,25207349.0,5149188.0
+Tài sản thuê thu nhập doanh nghiệp hoãn lại,Hoạt động mua nợ > Tài sản thuê thu nhập doanh nghiệp hoãn lại,Tài sản thuê thu nhập doanh nghiệp hoãn lại,21,94.588,60.607,21.0,94588.0,60607.0
+Tài sản cố khác,Hoạt động mua nợ > Tài sản cố khác,Tài sản cố khác,16.3,1.853.427,1.695.385,163.0,1853427.0,1695385.0
+- Trong đó: Lợi thế thương mại,Hoạt động mua nợ > - Trong đó: Lợi thế thương mại,- Trong đó: Lợi thế thương mại,,-,15.120,,,15120.0
+Dự phòng rủi ro cho các tài sản cố khác,Hoạt động mua nợ > Dự phòng rủi ro cho các tài sản cố khác,Dự phòng rủi ro cho các tài sản cố khác,16.4,(585.804),(433.582),164.0,-585804.0,-433582.0
+TỔNG TÀI SẢN,Hoạt động mua nợ > TỔNG TÀI SẢN,TỔNG TÀI SẢN,,292.032.736,189.802.627,,292032736.0,189802627.0

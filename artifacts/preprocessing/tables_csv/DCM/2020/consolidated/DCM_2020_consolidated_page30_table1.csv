@@ -1,0 +1,15 @@
+﻿row_label_raw,row_label_full,col_0,Số đầu năm,Số phải thu/nộptrong năm,Số đã thực thu/nộptrong năm,Số cuối năm,numeric__Số đầu năm,numeric__Số phải thu/nộptrong năm,numeric__Số đã thực thu/nộptrong năm,numeric__Số cuối năm
+,,,VND,VND,VND,VND,,,,
+a. Các khoản phải thu,a. Các khoản phải thu,a. Các khoản phải thu,a. Các khoản phải thu,a. Các khoản phải thu,a. Các khoản phải thu,a. Các khoản phải thu,,,,
+Thuế giá trị gia tăng,a. Các khoản phải thu > Thuế giá trị gia tăng,Thuế giá trị gia tăng,104.855.724,-,-,104.855.724,104855724.0,,,104855724.0
+Tiền thuê đất,a. Các khoản phải thu > Tiền thuê đất,Tiền thuê đất,397.346.605,80.190.633,80.190.633,397.346.605,397346605.0,80190633.0,80190633.0,397346605.0
+Thuế nhập khẩu,a. Các khoản phải thu > Thuế nhập khẩu,Thuế nhập khẩu,66.807.775,3.417.368.182,3.484.175.957,-,66807775.0,3417368182.0,3484175957.0,
+,,,569.010.104,3.497.558.815,3.564.366.590,502.202.329,569010104.0,3497558815.0,3564366590.0,502202329.0
+b. Các khoản phải nộp,b. Các khoản phải nộp,b. Các khoản phải nộp,b. Các khoản phải nộp,b. Các khoản phải nộp,b. Các khoản phải nộp,b. Các khoản phải nộp,,,,
+Thuế giá trị gia tăng,b. Các khoản phải nộp > Thuế giá trị gia tăng,Thuế giá trị gia tăng,1.121.819.011,8.488.902.340,7.815.339.744,1.795.381.607,1121819011.0,8488902340.0,7815339744.0,1795381607.0
+Thuế thu nhập doanh nghiệp,b. Các khoản phải nộp > Thuế thu nhập doanh nghiệp,Thuế thu nhập doanh nghiệp,16.445.694.693,52.561.609.356,42.053.571.588,26.953.732.461,16445694693.0,52561609356.0,42053571588.0,26953732461.0
+Thuế tài nguyên,b. Các khoản phải nộp > Thuế tài nguyên,Thuế tài nguyên,229.003.200,2.632.834.950,2.632.834.950,229.003.200,229003200.0,2632834950.0,2632834950.0,229003200.0
+Tiền thuê đất,b. Các khoản phải nộp > Tiền thuê đất,Tiền thuê đất,-,80.190.633,80.190.633,-,,80190633.0,80190633.0,
+Thuế thu nhập cá nhân,b. Các khoản phải nộp > Thuế thu nhập cá nhân,Thuế thu nhập cá nhân,4.333.992.295,18.307.443.089,20.569.432.421,2.072.002.963,4333992295.0,18307443089.0,20569432421.0,2072002963.0
+Thuế khác,b. Các khoản phải nộp > Thuế khác,Thuế khác,281.843.015,1.524.181.132,1.789.350.147,16.674.000,281843015.0,1524181132.0,1789350147.0,16674000.0
+,,,22.412.352.214,83.595.161.500,74.940.719.483,31.066.794.231,22412352214.0,83595161500.0,74940719483.0,31066794231.0

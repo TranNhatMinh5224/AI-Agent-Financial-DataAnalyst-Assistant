@@ -1,0 +1,10 @@
+﻿row_label_raw,row_label_full,col_0,Code,Note,2021 VND'000,2020 VND'000,numeric__Code,numeric__Note,numeric__2021 VND'000,numeric__2020 VND'000
+Financial income,Financial income,Financial income,21,13,"280,995,953","306,449,356",21.0,13.0,,
+Financial expenses,Financial expenses,Financial expenses,22,14,"272,008,141","299,550,094",22.0,14.0,,
+General and administration expenses,General and administration expenses,General and administration expenses,26,,"8,148,738","5,428,920",26.0,,,
+Net operating profit (30 = 21 - 22 - 26),Net operating profit (30 = 21 - 22 - 26),Net operating profit (30 = 21 - 22 - 26),30,,"839,074","1,470,342",30.0,,839.074,
+Other income,Other income,Other income,31,,-,"501,547",31.0,,,501.547
+Results of other activities (40 = 31),Results of other activities (40 = 31),Results of other activities (40 = 31),,,-,"501,547",,,,501.547
+Accounting profit before tax (50 = 30 + 40),Accounting profit before tax (50 = 30 + 40),Accounting profit before tax (50 = 30 + 40),50,,"839,074","1,971,889",50.0,,839.074,
+Income tax expense - current,Income tax expense - current,Income tax expense - current,51,15,"328,916","(5,953,260)",51.0,15.0,328.916,
+Net profit after tax (60 = 50 - 51),Net profit after tax (60 = 50 - 51),Net profit after tax (60 = 50 - 51),60,,"510,158","7,925,149",60.0,,510.158,

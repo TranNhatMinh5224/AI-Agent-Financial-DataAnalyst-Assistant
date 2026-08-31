@@ -1,0 +1,12 @@
+﻿row_label_raw,row_label_full,col_0,Số đầu năm,Số tăng trong năm,Số giảm trong năm,VND Số cuối năm,numeric__Số đầu năm,numeric__Số tăng trong năm,numeric__Số giảm trong năm,numeric__VND Số cuối năm
+Phải thu,Phải thu,Phải thu,Phải thu,Phải thu,Phải thu,Phải thu,,,,
+Thuế thu nhập cá nhân,Phải thu > Thuế thu nhập cá nhân,Thuế thu nhập cá nhân,500.000,-,(292.380.075),292.880.075,500000.0,,-292380075.0,292880075.0
+Thuế thu nhập doanh nghiệp (Thuyết minh số 30.2),Phải thu > Thuế thu nhập doanh nghiệp (Thuyết minh số 30.2),Thuế thu nhập doanh nghiệp (Thuyết minh số 30.2),53.618.241,-,-,53.618.241,53618241.0,,,53618241.0
+,,,54.118.241,-,(292.380.075),346.498.316,54118241.0,,-292380075.0,346498316.0
+Phải trả,Phải trả,Phải trả,Phải trả,Phải trả,Phải trả,Phải trả,,,,
+Thuế thu nhập doanh nghiệp (Thuyết minh số 30.2),Phải trả > Thuế thu nhập doanh nghiệp (Thuyết minh số 30.2),Thuế thu nhập doanh nghiệp (Thuyết minh số 30.2),18.744.455.503,39.245.452.892,(38.095.548.900),19.894.359.495,18744455503.0,39245452892.0,-38095548900.0,19894359495.0
+Thuế giá trị gia tăng,Phải trả > Thuế giá trị gia tăng,Thuế giá trị gia tăng,35.524.275.081,584.589.270.424,(604.986.038.821),15.127.506.684,35524275081.0,584589270424.0,-604986038821.0,15127506684.0
+Thuế thu nhập cá nhân,Phải trả > Thuế thu nhập cá nhân,Thuế thu nhập cá nhân,538.587.501,17.911.136.625,(16.748.109.022),1.701.615.104,538587501.0,17911136625.0,-16748109022.0,1701615104.0
+Thuế khác,Phải trả > Thuế khác,Thuế khác,593.363,6.531.923.033,(6.398.976.420),133.539.976,593363.0,6531923033.0,-6398976420.0,133539976.0
+,,,54.807.911.448,648.277.782.974,(666.228.673.163),36.857.021.259,54807911448.0,648277782974.0,-666228673163.0,36857021259.0
+TỔNG CỘNG,Phải trả > TỔNG CỘNG,TỔNG CỘNG,54.753.793.207,648.277.782.974,(666.521.053.238),36.510.522.943,54753793207.0,648277782974.0,-666521053238.0,36510522943.0

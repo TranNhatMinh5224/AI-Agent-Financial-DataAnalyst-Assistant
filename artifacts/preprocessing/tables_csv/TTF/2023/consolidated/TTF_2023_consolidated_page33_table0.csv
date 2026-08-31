@@ -1,0 +1,13 @@
+﻿row_label_raw,row_label_full,col_0,Số đầu năm,Tăng trong năm,Giảm trong năm,VND Số cuối năm,numeric__Số đầu năm,numeric__Tăng trong năm,numeric__Giảm trong năm,numeric__VND Số cuối năm
+Phải thu,Phải thu,Phải thu,Phải thu,Phải thu,Phải thu,Phải thu,,,,
+Thuế giá trị gia tăng,Phải thu > Thuế giá trị gia tăng,Thuế giá trị gia tăng,128.412.453.749,231.398.422.457,(326.995.575.381),32.815.300.825,128412453749.0,231398422457.0,-326995575381.0,32815300825.0
+Thuế thu nhập doanh nghiệp nộp dư,Phải thu > Thuế thu nhập doanh nghiệp nộp dư,Thuế thu nhập doanh nghiệp nộp dư,-,44.295.795,-,44.295.795,,44295795.0,,44295795.0
+Thuế nhập khẩu,Phải thu > Thuế nhập khẩu,Thuế nhập khẩu,359.459.976,147.927.066,(339.173.220),168.213.822,359459976.0,147927066.0,-339173220.0,168213822.0
+TỔNG CỘNG,Phải thu > TỔNG CỘNG,TỔNG CỘNG,128.771.913.725,231.590.645.318,(327.334.748.601),33.027.810.442,128771913725.0,231590645318.0,-327334748601.0,33027810442.0
+Phải nộp,Phải nộp,Phải nộp,Phải nộp,Phải nộp,Phải nộp,Phải nộp,,,,
+Phạt thuế,Phải nộp > Phạt thuế,Phạt thuế,-,65.113.694.843,(39.325.286.087),25.788.408.756,,65113694843.0,-39325286087.0,25788408756.0
+Thuế thu nhập cá nhân,Phải nộp > Thuế thu nhập cá nhân,Thuế thu nhập cá nhân,5.621.403.726,9.078.453.816,(3.631.676.110),11.068.181.432,5621403726.0,9078453816.0,-3631676110.0,11068181432.0
+Thuế giá trị gia tăng,Phải nộp > Thuế giá trị gia tăng,Thuế giá trị gia tăng,14.003.173.546,93.379.371.755,(98.984.854.009),8.397.691.292,14003173546.0,93379371755.0,-98984854009.0,8397691292.0
+Thuế thu nhập doanh nghiệp,Phải nộp > Thuế thu nhập doanh nghiệp,Thuế thu nhập doanh nghiệp,10.540.355.304,32.876.990.209,(41.364.596.576),2.052.748.937,10540355304.0,32876990209.0,-41364596576.0,2052748937.0
+Khác,Phải nộp > Khác,Khác,691.008.617,2.358.177.238,(394.517.678),2.654.668.177,691008617.0,2358177238.0,-394517678.0,2654668177.0
+TỔNG CỘNG,Phải nộp > TỔNG CỘNG,TỔNG CỘNG,30.855.941.193,202.806.687.861,(183.700.930.460),49.961.698.594,30855941193.0,202806687861.0,-183700930460.0,49961698594.0

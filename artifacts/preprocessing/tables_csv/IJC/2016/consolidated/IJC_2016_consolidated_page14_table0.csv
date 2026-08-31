@@ -1,0 +1,13 @@
+﻿row_label_raw,row_label_full,CHỈ TIÊU,CHỈ TIÊU_1,Mã số,Thuyết minh,Năm nay,Năm trước,numeric__CHỈ TIÊU_1,numeric__Mã số,numeric__Thuyết minh,numeric__Năm nay,numeric__Năm trước
+III. Lưu chuyển tiền từ hoạt động tài chính,III. Lưu chuyển tiền từ hoạt động tài chính,III. Lưu chuyển tiền từ hoạt động tài chính,III. Lưu chuyển tiền từ hoạt động tài chính,,,,,,,,,
+1.,III. Lưu chuyển tiền từ hoạt động tài chính > 1.,1.,"Tiền thu từ phát hành cổ phiếu, nhận vốn góp của chủ sở hữu",31,,-,-,,31.0,,,
+2.,III. Lưu chuyển tiền từ hoạt động tài chính > 2.,2.,"Tiền trả lại vốn góp cho các chủ sở hữu, mua lại cổ phiếu của doanh nghiệp đã phát hành",32,,-,-,,32.0,,,
+3.,III. Lưu chuyển tiền từ hoạt động tài chính > 3.,3.,Tiền thu từ đi vay,33,V.22,432.176.897.263,681.177.113.912,,33.0,,432176897263.0,681177113912.0
+4.,III. Lưu chuyển tiền từ hoạt động tài chính > 4.,4.,Tiền trả nợ gốc vay,34,V.22,(486.419.374.506),(793.541.027.562),,34.0,,-486419374506.0,-793541027562.0
+5.,III. Lưu chuyển tiền từ hoạt động tài chính > 5.,5.,Tiền trả nợ gốc thuê tài chính,35,,-,-,,35.0,,,
+6.,III. Lưu chuyển tiền từ hoạt động tài chính > 6.,6.,"Cổ tức, lợi nhuận đã trả cho chủ sở hữu",36,V.21; V.25,(55.699.697.298),(112.376.023.800),,36.0,,-55699697298.0,-112376023800.0
+,,,Lưu chuyển tiền thuần từ hoạt động tài chính,40,,(109.942.174.541),(224.739.937.450),,40.0,,-109942174541.0,-224739937450.0
+,,,Lưu chuyển tiền thuần trong năm,50,,(4.770.141.572),(37.173.553.664),,50.0,,-4770141572.0,-37173553664.0
+,,,Tiền và tương đương tiền đầu năm,60,V.I,76.631.571.631,113.801.624.400,,60.0,,76631571631.0,113801624400.0
+,,,Ảnh hưởng của thay đổi tỷ giá hối đoái quy đổi ngoại tệ,61,,8.444.445,3.500.895,,61.0,,8444445.0,3500895.0
+,,,Tiền và tương đương tiền cuối năm,70,V.I,71.869.874.504,76.631.571.631,,70.0,,71869874504.0,76631571631.0

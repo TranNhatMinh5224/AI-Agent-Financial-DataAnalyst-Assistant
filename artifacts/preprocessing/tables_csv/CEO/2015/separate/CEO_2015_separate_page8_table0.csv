@@ -1,0 +1,26 @@
+﻿row_label_raw,row_label_full,NGUỒN VỐN,Mã số,Thuyết minh,31/12/2015,01/01/2015,numeric__Mã số,numeric__Thuyết minh,numeric__31/12/2015,numeric__01/01/2015
+C. NỘ PHẢI TRẢ,C. NỘ PHẢI TRẢ,C. NỘ PHẢI TRẢ,300,,532.915.067.132,611.306.230.921,300.0,,532915067132.0,611306230921.0
+I. Nợ ngắn hạn,I. Nợ ngắn hạn,I. Nợ ngắn hạn,310,,120.989.745.237,254.129.885.627,310.0,,120989745237.0,254129885627.0
+1. Phải trả người bán ngắn hạn,1. Phải trả người bán ngắn hạn,1. Phải trả người bán ngắn hạn,311,V.13,20.228.743.521,76.041.470.324,311.0,,20228743521.0,76041470324.0
+2. Người mua trả tiền trước ngắn hạn,2. Người mua trả tiền trước ngắn hạn,2. Người mua trả tiền trước ngắn hạn,312,V.14,18.397.738.415,11.039.500,312.0,,18397738415.0,11039500.0
+3. Thuế và các khoản phải nộp Nhà nước,3. Thuế và các khoản phải nộp Nhà nước,3. Thuế và các khoản phải nộp Nhà nước,313,V.15,3.272.397.030,28.807.192.501,313.0,,3272397030.0,28807192501.0
+4. Phải trả người lao động,4. Phải trả người lao động,4. Phải trả người lao động,314,,3.707.856.407,1.301.461.693,314.0,,3707856407.0,1301461693.0
+5. Chi phí phải trả ngắn hạn,5. Chi phí phải trả ngắn hạn,5. Chi phí phải trả ngắn hạn,315,V.16,19.918.629.256,21.998.220.037,315.0,,19918629256.0,21998220037.0
+6. Doanh thu chưa thực hiện ngắn hạn,6. Doanh thu chưa thực hiện ngắn hạn,6. Doanh thu chưa thực hiện ngắn hạn,318,V.17a,605.921.410,24.142.541.715,318.0,,605921410.0,24142541715.0
+7. Phải trả ngắn hạn khác,7. Phải trả ngắn hạn khác,7. Phải trả ngắn hạn khác,319,V.18,762.744.882,143.933.883,319.0,,762744882.0,143933883.0
+8. Vay và nợ thuê tài chính ngắn hạn,8. Vay và nợ thuê tài chính ngắn hạn,8. Vay và nợ thuê tài chính ngắn hạn,320,V.19,45.610.888.815,99.128.000.000,320.0,,45610888815.0,99128000000.0
+"9. Quỹ khen thưởng, phúc lợi","9. Quỹ khen thưởng, phúc lợi","9. Quỹ khen thưởng, phúc lợi",322,,8.484.825.501,2.556.025.974,322.0,,8484825501.0,2556025974.0
+II. Nợ dài hạn,II. Nợ dài hạn,II. Nợ dài hạn,330,,411.925.321.895,357.176.345.294,330.0,,411925321895.0,357176345294.0
+1. Doanh thu chưa thực hiện dài hạn,1. Doanh thu chưa thực hiện dài hạn,1. Doanh thu chưa thực hiện dài hạn,336,V.17b,140.314.922.385,174.010.683.851,336.0,,140314922385.0,174010683851.0
+2. Phải trả dài hạn khác,2. Phải trả dài hạn khác,2. Phải trả dài hạn khác,337,V.18,92.548.263.353,105.859.745.299,337.0,,92548263353.0,105859745299.0
+3. Vay và nợ thuê tài chính dài hạn,3. Vay và nợ thuê tài chính dài hạn,3. Vay và nợ thuê tài chính dài hạn,338,V.20,179.062.136.157,75.997.369.091,338.0,,179062136157.0,75997369091.0
+4. Dự phòng phải trả dài hạn,4. Dự phòng phải trả dài hạn,4. Dự phòng phải trả dài hạn,342,,-,1.308.547.053,342.0,,,1308547053.0
+D. VỐN CHỦ SỞ HỮU,D. VỐN CHỦ SỞ HỮU,D. VỐN CHỦ SỞ HỮU,400,,830.740.392.923,466.137.561.542,400.0,,830740392923.0,466137561542.0
+I. Vốn chủ sở hữu,I. Vốn chủ sở hữu,I. Vốn chủ sở hữu,410,V.21,830.740.392.923,466.137.561.542,410.0,,830740392923.0,466137561542.0
+1. Vốn góp của chủ sở hữu,1. Vốn góp của chủ sở hữu,1. Vốn góp của chủ sở hữu,411,,686.239.960.000,343.119.980.000,411.0,,686239960000.0,343119980000.0
+- Cổ phiếu phổ thông có quyền biểu quyết,- Cổ phiếu phổ thông có quyền biểu quyết,- Cổ phiếu phổ thông có quyền biểu quyết,411a,,686.239.960.000,343.119.980.000,,,686239960000.0,343119980000.0
+2. Quỹ đầu tư phát triển,2. Quỹ đầu tư phát triển,2. Quỹ đầu tư phát triển,418,,30.268.893.071,29.043.990.689,418.0,,30268893071.0,29043990689.0
+3. Lợi nhuận sau thuế chưa phân phối,3. Lợi nhuận sau thuế chưa phân phối,3. Lợi nhuận sau thuế chưa phân phối,421,,114.231.539.852,93.973.590.853,421.0,,114231539852.0,93973590853.0
+- LNST chưa phân phối lũy kế đến cuối kỳ trước,- LNST chưa phân phối lũy kế đến cuối kỳ trước,- LNST chưa phân phối lũy kế đến cuối kỳ trước,421a,,24.137.530.996,19.289.275.564,,,24137530996.0,19289275564.0
+- LNST chưa phân phối kỳ này,- LNST chưa phân phối kỳ này,- LNST chưa phân phối kỳ này,421b,,90.094.008.856,74.684.315.289,,,90094008856.0,74684315289.0
+TỔNG CỘNG NGUỒN VỐN,TỔNG CỘNG NGUỒN VỐN,TỔNG CỘNG NGUỒN VỐN,440,,1.363.655.460.055,1.077.443.792.463,440.0,,1363655460055.0,1077443792463.0

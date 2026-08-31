@@ -1,0 +1,15 @@
+﻿row_label_raw,row_label_full,col_0,Land VND'000,Software VND'000,Mining rights VND'000,Development cost (*) VND'000,Brand name VND'000,Customer Relationship VND'000,Technologies VND'000,Other intangible assets VND'000,Total VND'000,numeric__Land VND'000,numeric__Software VND'000,numeric__Mining rights VND'000,numeric__Development cost (*) VND'000,numeric__Brand name VND'000,numeric__Customer Relationship VND'000,numeric__Technologies VND'000,numeric__Other intangible assets VND'000,numeric__Total VND'000
+Cost,Cost,Cost,Cost,Cost,Cost,Cost,Cost,Cost,Cost,Cost,Cost,,,,,,,,,
+Opening balance,Opening balance,Opening balance,"31,680,480","401,281,221","792,655,211","622,125,055","1,016,396,767","208,741,491","1,402,017,279","25,515,615","4,500,413,119",,,,,,,,,
+Transfer from construction in progress (Note 13),Opening balance > Transfer from construction in progress (Note 13),Transfer from construction in progress (Note 13),-,"94,079",-,-,-,-,-,-,"94,079",,94.079,,,,,,,94.079
+Write-off,Opening balance > Write-off,Write-off,"(51,770)",-,-,-,-,-,-,-,"(51,770)",-51.77,,,,,,,,-51.77
+Currency translation differences,Opening balance > Currency translation differences,Currency translation differences,"(732,570)","(6,597,846)",-,"(13,972,653)","(22,827,821)","(4,688,241)","(31,488,687)","(886,828)","(81,194,646)",-732.57,,,,,,,-886.828,
+Closing balance,Closing balance,Closing balance,"30,896,140","394,777,454","792,655,211","608,152,402","993,568,946","204,053,250","1,370,528,592","24,628,787","4,419,260,782",,,,,,,,,
+Accumulated amortisation,Accumulated amortisation,Accumulated amortisation,Accumulated amortisation,Accumulated amortisation,Accumulated amortisation,Accumulated amortisation,Accumulated amortisation,Accumulated amortisation,Accumulated amortisation,Accumulated amortisation,Accumulated amortisation,,,,,,,,,
+Opening balance,Opening balance,Opening balance,-,"376,062,493","235,734,415","121,396,847","54,090,753","9,305,674","108,179,644","4,915,883","909,685,709",,,,,,,,,
+Charge for the year,Charge for the year,Charge for the year,-,"11,977,537","47,063,729","34,659,720","33,235,082","5,717,703","66,469,020","1,675,775","200,798,566",,,,,,,,,
+Currency translation differences,Charge for the year > Currency translation differences,Currency translation differences,-,"(6,324,148)",-,"(2,624,591)","(1,117,116)","(192,187)","(2,234,192)","(139,443)","(12,631,677)",,,,,,-192.187,,-139.443,
+Closing balance,Closing balance,Closing balance,-,"381,715,882","282,798,144","153,431,976","86,208,719","14,831,190","172,414,472","6,452,215","1,097,852,598",,,,,,,,,
+Net book value,Net book value,Net book value,Net book value,Net book value,Net book value,Net book value,Net book value,Net book value,Net book value,Net book value,Net book value,,,,,,,,,
+Opening balance,Opening balance,Opening balance,"31,680,480","25,218,728","556,920,796","500,728,208","962,306,014","199,435,817","1,293,837,635","20,599,732","3,590,727,410",,,,,,,,,
+Closing balance,Closing balance,Closing balance,"30,896,140","13,061,572","509,857,067","454,720,426","907,360,227","189,222,060","1,198,114,120","18,176,572","3,321,408,184",,,,,,,,,

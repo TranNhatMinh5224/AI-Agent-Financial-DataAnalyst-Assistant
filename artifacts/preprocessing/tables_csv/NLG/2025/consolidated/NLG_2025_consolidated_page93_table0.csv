@@ -1,0 +1,16 @@
+﻿row_label_raw,row_label_full,Borrowers,Borrowers_1,Ending balance VND,Maturity date,Interest rate % p.a,numeric__Borrowers_1,numeric__Ending balance VND,numeric__Maturity date,numeric__Interest rate % p.a
+Individual 1,Individual 1,Individual 1,Individual 1,,,,,,,
+Loan 1,Individual 1 > Loan 1,Loan 1,,"16,800,000,000",22 April 2026,6.0,,,,60.0
+Individual 2,Individual 2,Individual 2,Individual 2,,,,,,,
+Loan 1,Individual 2 > Loan 1,Loan 1,"14,000,000,000",,1 April 2026,8.0,,,,80.0
+Loan 2,Individual 2 > Loan 2,Loan 2,"12,500,000,000",,24 March 2026,8.0,,,,80.0
+Subtotal,Subtotal,Subtotal,,"26,500,000,000",,,,,,
+Individual 3,Individual 3,Individual 3,Individual 3,,,,,,,
+Loan 1,Individual 3 > Loan 1,Loan 1,,"17,670,964,170",22 April 2026,6.0,,,,60.0
+Individual 4,Individual 4,Individual 4,Individual 4,,,,,,,
+Loan 1,Individual 4 > Loan 1,Loan 1,"9,500,000,000",,30 June 2026,6.0,,,,60.0
+Loan 2,Individual 4 > Loan 2,Loan 2,"5,000,000,000",,30 June 2026,6.0,,,,60.0
+Subtotal,Subtotal,Subtotal,,"14,500,000,000",,,,,,
+TOTAL,TOTAL,TOTAL,,"75,470,964,170",,,,,,
+Provision for short-term loan receivables,Provision for short-term loan receivables,Provision for short-term loan receivables,Provision for short-term loan receivables,"(34,470,964,170)",,,,,,
+NET,NET,NET,,"41,000,000,000",,,,,,

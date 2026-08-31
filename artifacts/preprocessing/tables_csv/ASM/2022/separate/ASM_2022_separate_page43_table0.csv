@@ -1,0 +1,14 @@
+﻿row_label_raw,row_label_full,THUẾ VÀ CÁC KHOẢN PHẢI NỘP NHÀ NƯỚC,THUẾ VÀ CÁC KHOẢN PHẢI NỘP NHÀ NƯỚC_1,THUẾ VÀ CÁC KHOẢN PHẢI NỘP NHÀ NƯỚC_2,THUẾ VÀ CÁC KHOẢN PHẢI NỘP NHÀ NƯỚC_3,THUẾ VÀ CÁC KHOẢN PHẢI NỘP NHÀ NƯỚC_4,numeric__THUẾ VÀ CÁC KHOẢN PHẢI NỘP NHÀ NƯỚC_1,numeric__THUẾ VÀ CÁC KHOẢN PHẢI NỘP NHÀ NƯỚC_2,numeric__THUẾ VÀ CÁC KHOẢN PHẢI NỘP NHÀ NƯỚC_3,numeric__THUẾ VÀ CÁC KHOẢN PHẢI NỘP NHÀ NƯỚC_4
+a) Phải nộp,a) Phải nộp,a) Phải nộp,Số cuối năm,Số phải nộp trong năm,Số đã thực nộp trong năm,Số đầu năm,,,,
+Thuế GTGT,a) Phải nộp > Thuế GTGT,Thuế GTGT,35.549.493.867,32.205.130.684,71.133.269.890,74.477.633.073,35549493867.0,32205130684.0,71133269890.0,74477633073.0
+Thuế GTGT hàng nhập khẩu,a) Phải nộp > Thuế GTGT hàng nhập khẩu,Thuế GTGT hàng nhập khẩu,,282.944.255,282.944.255,,,282944255.0,282944255.0,
+Thuế thu nhập doanh nghiệp,a) Phải nộp > Thuế thu nhập doanh nghiệp,Thuế thu nhập doanh nghiệp,47.497.918.610,13.713.410.923,22.374.665.095,56.159.172.782,47497918610.0,13713410923.0,22374665095.0,56159172782.0
+Thuế thu nhập cá nhân,a) Phải nộp > Thuế thu nhập cá nhân,Thuế thu nhập cá nhân,33.728.249.465,29.737.811.287,333.638.200,4.324.076.378,33728249465.0,29737811287.0,333638200.0,4324076378.0
+Thuế nhập khẩu,a) Phải nộp > Thuế nhập khẩu,Thuế nhập khẩu,,1.111.328.693,1.111.328.693,,,1111328693.0,1111328693.0,
+"Các khoản phí, lệ phí, thuế khác","a) Phải nộp > Các khoản phí, lệ phí, thuế khác","Các khoản phí, lệ phí, thuế khác",,926.000.000,926.000.000,,,926000000.0,926000000.0,
+Cộng,a) Phải nộp > Cộng,Cộng,116.775.661.942,77.976.625.842,96.161.846.133,134.960.882.233,116775661942.0,77976625842.0,96161846133.0,134960882233.0
+b) Phải thu,b) Phải thu,b) Phải thu,Số cuối năm,Số phải thu trong năm,Số đã thực thu trong năm,Số đầu năm,,,,
+Thuế thu nhập cá nhân,b) Phải thu > Thuế thu nhập cá nhân,Thuế thu nhập cá nhân,,,1.143.430.225,1.143.430.225,,,1143430225.0,1143430225.0
+"Các khoản phí, lệ phí, thuế khác","b) Phải thu > Các khoản phí, lệ phí, thuế khác","Các khoản phí, lệ phí, thuế khác",,,64.000.000,64.000.000,,,64000000.0,64000000.0
+Cộng,b) Phải thu > Cộng,Cộng,,,1.207.430.225,1.207.430.225,,,1207430225.0,1207430225.0
+Ghi chú:,Ghi chú:,Ghi chú:,,,,,,,,

@@ -1,0 +1,31 @@
+﻿row_label_raw,row_label_full,col_0,Mã số,Thuyết minh,31/12/2015 VND,1/1/2015 VND Đã phân loại lại,numeric__Mã số,numeric__Thuyết minh,numeric__31/12/2015 VND,numeric__1/1/2015 VND Đã phân loại lại
+TÀI SẢN,TÀI SẢN,TÀI SẢN,TÀI SẢN,TÀI SẢN,TÀI SẢN,TÀI SẢN,,,,
+Tài sản ngắn hạn(100 = 110 + 130 + 140 + 150),TÀI SẢN > Tài sản ngắn hạn(100 = 110 + 130 + 140 + 150),Tài sản ngắn hạn(100 = 110 + 130 + 140 + 150),100,,20.137.430.366.005,23.575.168.818.225,100.0,,20137430366005.0,23575168818225.0
+Tiền và các khoản tương đương tiền,TÀI SẢN > Tiền và các khoản tương đương tiền,Tiền và các khoản tương đương tiền,110,5,7.778.553.550.138,6.401.720.318.395,110.0,5.0,7778553550138.0,6401720318395.0
+Tiền,TÀI SẢN > Tiền,Tiền,111,,3.145.452.550.138,3.247.042.160.933,111.0,,3145452550138.0,3247042160933.0
+Các khoản tương đương tiền,TÀI SẢN > Các khoản tương đương tiền,Các khoản tương đương tiền,112,,4.633.101.000.000,3.154.678.157.462,112.0,,4633101000000.0,3154678157462.0
+Các khoản phải thu ngắn hạn,TÀI SẢN > Các khoản phải thu ngắn hạn,Các khoản phải thu ngắn hạn,130,,6.533.661.859.378,9.333.159.833.459,130.0,,6533661859378.0,9333159833459.0
+Phải thu ngắn hạn của khách hàng,TÀI SẢN > Phải thu ngắn hạn của khách hàng,Phải thu ngắn hạn của khách hàng,131,6,4.905.852.906.726,6.306.057.029.505,131.0,6.0,4905852906726.0,6306057029505.0
+Trả trước cho người bán ngắn hạn,TÀI SẢN > Trả trước cho người bán ngắn hạn,Trả trước cho người bán ngắn hạn,132,,5.235.252.028,88.127.606.145,132.0,,5235252028.0,88127606145.0
+Phải thu ngắn hạn khác,TÀI SẢN > Phải thu ngắn hạn khác,Phải thu ngắn hạn khác,136,7,1.622.573.700.624,2.938.975.197.809,136.0,7.0,1622573700624.0,2938975197809.0
+Hàng tồn kho,TÀI SẢN > Hàng tồn kho,Hàng tồn kho,140,8,4.993.502.030.695,7.369.652.736.494,140.0,8.0,4993502030695.0,7369652736494.0
+Hàng tồn kho,TÀI SẢN > Hàng tồn kho,Hàng tồn kho,141,,5.075.325.654.209,7.369.652.736.494,141.0,,5075325654209.0,7369652736494.0
+Dự phòng giảm giá hàng tồn kho,TÀI SẢN > Dự phòng giảm giá hàng tồn kho,Dự phòng giảm giá hàng tồn kho,149,,(81.823.623.514),-,149.0,,-81823623514.0,
+Tài sản ngắn hạn khác,TÀI SẢN > Tài sản ngắn hạn khác,Tài sản ngắn hạn khác,150,,831.712.925.794,470.635.929.877,150.0,,831712925794.0,470635929877.0
+Chi phí trả trước ngắn hạn,TÀI SẢN > Chi phí trả trước ngắn hạn,Chi phí trả trước ngắn hạn,151,,87.404.266.200,120.383.048.393,151.0,,87404266200.0,120383048393.0
+Thuế giá trị gia tăng được khấu trừ,TÀI SẢN > Thuế giá trị gia tăng được khấu trừ,Thuế giá trị gia tăng được khấu trừ,152,,173.752.093.745,160.433.734.366,152.0,,173752093745.0,160433734366.0
+Thuế và các khoản khác phải thu,TÀI SẢN > Thuế và các khoản khác phải thu,Thuế và các khoản khác phải thu,153,16,521.865.661.137,69.088.680.130,153.0,16.0,521865661137.0,69088680130.0
+Nhà nước,Nhà nước,Nhà nước,,,,,,,,
+Tài sản ngắn hạn khác,Nhà nước > Tài sản ngắn hạn khác,Tài sản ngắn hạn khác,155,9,48.690.904.712,120.730.466.988,155.0,9.0,48690904712.0,120730466988.0
+Tài sản dài hạn(200 = 210 + 220 + 240 + 250 + 260),Nhà nước > Tài sản dài hạn(200 = 210 + 220 + 240 + 250 + 260),Tài sản dài hạn(200 = 210 + 220 + 240 + 250 + 260),200,,8.832.264.458.106,9.875.573.738.534,200.0,,8832264458106.0,9875573738534.0
+Các khoản phải thu dài hạn,Nhà nước > Các khoản phải thu dài hạn,Các khoản phải thu dài hạn,210,,191.790.000,191.790.000,210.0,,191790000.0,191790000.0
+Phải thu dài hạn khác,Nhà nước > Phải thu dài hạn khác,Phải thu dài hạn khác,216,,191.790.000,191.790.000,216.0,,191790000.0,191790000.0
+Tài sản cố định,Nhà nước > Tài sản cố định,Tài sản cố định,220,,365.115.469.343,401.653.771.306,220.0,,365115469343.0,401653771306.0
+Tài sản cố định hữu hình,Nhà nước > Tài sản cố định hữu hình,Tài sản cố định hữu hình,221,10,49.171.858.261,52.137.236.470,221.0,10.0,49171858261.0,52137236470.0
+Nguyên giá,Nhà nước > Nguyên giá,Nguyên giá,222,,195.997.085.457,188.543.436.844,222.0,,195997085457.0,188543436844.0
+Giá trị hao mòn lũy kế,Nhà nước > Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,223,,(146.825.227.196),(136.406.200.374),223.0,,-146825227196.0,-136406200374.0
+Tài sản cố định vô hình,Nhà nước > Tài sản cố định vô hình,Tài sản cố định vô hình,227,11,315.943.611.082,349.516.534.836,227.0,11.0,315943611082.0,349516534836.0
+Nguyên giá,Nhà nước > Nguyên giá,Nguyên giá,228,,479.355.329.753,470.903.041.753,228.0,,479355329753.0,470903041753.0
+Giá trị hao mòn lũy kế,Nhà nước > Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,229,,(163.411.718.671),(121.386.506.917),229.0,,-163411718671.0,-121386506917.0
+Tài sản dở dang dài hạn,Nhà nước > Tài sản dở dang dài hạn,Tài sản dở dang dài hạn,240,,3.701.899.091,-,240.0,,3701899091.0,
+Chỉ phí xây dựng cơ bản dở dang,Nhà nước > Chỉ phí xây dựng cơ bản dở dang,Chỉ phí xây dựng cơ bản dở dang,242,,3.701.899.091,-,242.0,,3701899091.0,

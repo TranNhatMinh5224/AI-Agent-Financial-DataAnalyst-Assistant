@@ -1,0 +1,24 @@
+﻿row_label_raw,row_label_full,col_0,Mã số,Thuyết minh,31/12/2018 VND,1/1/2018 VND,numeric__Mã số,numeric__Thuyết minh,numeric__31/12/2018 VND,numeric__1/1/2018 VND
+NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,,,,
+NỘ PHẢI TRẢ (300 = 310 + 330),NGUỒN VỐN > NỘ PHẢI TRẢ (300 = 310 + 330),NỘ PHẢI TRẢ (300 = 310 + 330),300,,4.353.797.152.149,5.370.277.081.680,300.0,,4353797152149.0,5370277081680.0
+Nợ ngắn hạn,NGUỒN VỐN > Nợ ngắn hạn,Nợ ngắn hạn,310,,4.118.949.860.019,5.239.437.665.215,310.0,,4118949860019.0,5239437665215.0
+Phải trả người bán ngắn hạn,NGUỒN VỐN > Phải trả người bán ngắn hạn,Phải trả người bán ngắn hạn,311,18,2.370.788.454.823,2.017.620.399.768,311.0,18.0,2370788454823.0,2017620399768.0
+Người mua trả tiền trước ngắn hạn,NGUỒN VỐN > Người mua trả tiền trước ngắn hạn,Người mua trả tiền trước ngắn hạn,312,,239.402.546,3.366.746.525,312.0,,239402546.0,3366746525.0
+Thuế phải nộp Nhà nước,NGUỒN VỐN > Thuế phải nộp Nhà nước,Thuế phải nộp Nhà nước,313,19,490.139.152.871,574.189.634.734,313.0,19.0,490139152871.0,574189634734.0
+Phải trả người lao động,NGUỒN VỐN > Phải trả người lao động,Phải trả người lao động,314,,114.397.611.496,53.540.955.885,314.0,,114397611496.0,53540955885.0
+Chi phí phải trả ngắn hạn,NGUỒN VỐN > Chi phí phải trả ngắn hạn,Chi phí phải trả ngắn hạn,315,20,186.052.510.853,53.169.977.301,315.0,20.0,186052510853.0,53169977301.0
+Phải trả ngắn hạn khác,NGUỒN VỐN > Phải trả ngắn hạn khác,Phải trả ngắn hạn khác,319,21(a),883.626.808.228,2.440.537.137.922,319.0,,883626808228.0,2440537137922.0
+"Quỹ khen thưởng, phúc lợi","NGUỒN VỐN > Quỹ khen thưởng, phúc lợi","Quỹ khen thưởng, phúc lợi",322,22,73.705.919.202,97.012.813.080,322.0,22.0,73705919202.0,97012813080.0
+Nợ dài hạn,NGUỒN VỐN > Nợ dài hạn,Nợ dài hạn,330,,234.847.292.130,130.839.416.465,330.0,,234847292130.0,130839416465.0
+Phải trả dài hạn khác,NGUỒN VỐN > Phải trả dài hạn khác,Phải trả dài hạn khác,337,21(b),51.602.316.000,51.602.316.000,337.0,,51602316000.0,51602316000.0
+Dự phòng phải trả dài hạn,NGUỒN VỐN > Dự phòng phải trả dài hạn,Dự phòng phải trả dài hạn,342,23,99.246.846.000,24.966.447.042,342.0,23.0,99246846000.0,24966447042.0
+Quỹ phát triển khoa học và công nghệ,NGUỒN VỐN > Quỹ phát triển khoa học và công nghệ,Quỹ phát triển khoa học và công nghệ,343,,83.998.130.130,54.270.653.423,343.0,,83998130130.0,54270653423.0
+VỐN CHỦ SỞ HỮU (400 = 410),NGUỒN VỐN > VỐN CHỦ SỞ HỮU (400 = 410),VỐN CHỦ SỞ HỮU (400 = 410),400,,13.106.511.213.498,12.109.566.550.740,400.0,,13106511213498.0,12109566550740.0
+Vốn chủ sở hữu,NGUỒN VỐN > Vốn chủ sở hữu,Vốn chủ sở hữu,410,24,13.106.511.213.498,12.109.566.550.740,410.0,24.0,13106511213498.0,12109566550740.0
+Vốn cổ phần,NGUỒN VỐN > Vốn cổ phần,Vốn cổ phần,411,25,6.412.811.860.000,6.412.811.860.000,411.0,25.0,6412811860000.0,6412811860000.0
+- Cổ phiếu phổ thông có quyền biểu quyết,NGUỒN VỐN > - Cổ phiếu phổ thông có quyền biểu quyết,- Cổ phiếu phổ thông có quyền biểu quyết,411a,,6.412.811.860.000,6.412.811.860.000,,,6412811860000.0,6412811860000.0
+Quỹ đầu tư phát triển,NGUỒN VỐN > Quỹ đầu tư phát triển,Quỹ đầu tư phát triển,418,26,760.819.802.040,760.819.802.040,418.0,26.0,760819802040.0,760819802040.0
+Lợi nhuận sau thuế chưa phân phối,NGUỒN VỐN > Lợi nhuận sau thuế chưa phân phối,Lợi nhuận sau thuế chưa phân phối,421,,5.932.879.551.458,4.935.934.888.700,421.0,,5932879551458.0,4935934888700.0
+- Lợi nhậu sau thuế chưa phân phối lũy kế đến cuối năm trước,NGUỒN VỐN > - Lợi nhậu sau thuế chưa phân phối lũy kế đến cuối năm trước,- Lợi nhậu sau thuế chưa phân phối lũy kế đến cuối năm trước,421a,,4.909.158.361.575,2.790.638.035.073,,,4909158361575.0,2790638035073.0
+- Lợi nhậu sau thuế chưa phân phối năm nay,NGUỒN VỐN > - Lợi nhậu sau thuế chưa phân phối năm nay,- Lợi nhậu sau thuế chưa phân phối năm nay,421b,,1.023.721.189.883,2.145.296.853.627,,,1023721189883.0,2145296853627.0
+TỔNG NGUỒN VỐN(440 = 300 + 400),NGUỒN VỐN > TỔNG NGUỒN VỐN(440 = 300 + 400),TỔNG NGUỒN VỐN(440 = 300 + 400),440,,17.460.308.365.647,17.479.843.632.420,440.0,,17460308365647.0,17479843632420.0

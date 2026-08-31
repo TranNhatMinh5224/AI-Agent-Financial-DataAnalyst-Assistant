@@ -1,0 +1,31 @@
+﻿row_label_raw,row_label_full,Mã số CHỈ TIÊU,Mã số CHỈ TIÊU_1,Thuyết minh,Năm 2016 > VND,Năm 2015 > VND,numeric__Mã số CHỈ TIÊU_1,numeric__Thuyết minh,numeric__Năm 2016 > VND,numeric__Năm 2015 > VND
+I. LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG KINH DOANH,I. LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG KINH DOANH,I. LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG KINH DOANH,I. LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG KINH DOANH,I. LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG KINH DOANH,I. LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG KINH DOANH,I. LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG KINH DOANH,,,,
+01,I. LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG KINH DOANH > 01,01,Lợi nhuận trước thuế,,(767.549.293.334),713.788.392.454,,,-767549293334.0,713788392454.0
+01,01,01,Điều chỉnh cho các khoản,,,,,,,
+02,01 > 02,02,- Khấu hao tài sản cố định và bất động sản đầu tư,,8.580.244.250,904.917.816,,,8580244250.0,904917816.0
+03,01 > 03,03,- Các khoản dự phòng,,781.537.323.231,522.463.463.522,,,781537323231.0,522463463522.0
+05,01 > 05,05,- Lãi/lỗ từ hoạt động đầu tư,,(53.756.463.304),(1.596.969.073.284),,,-53756463304.0,-1596969073284.0
+06,01 > 06,06,- Chi phí lãi vay,,61.708.258.826,139.617.693.562,,,61708258826.0,139617693562.0
+08,01 > 08,08,Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động,,30.520.069.669,(220.194.605.930),,,30520069669.0,-220194605930.0
+09,01 > 09,09,- Tăng/giảm các khoản phải thu,,135.385.601.392,234.076.168.595,,,135385601392.0,234076168595.0
+10,01 > 10,10,- Tăng/giảm hàng tồn kho,,3.082.784.684,1.037.841.685,,,3082784684.0,1037841685.0
+11,01 > 11,11,"- Tăng/giảm các khoản phải trả (không kể lãi vay phải trả, thuế TNDN phải nộp)",,(166.198.459.037),(830.074.636.923),,,-166198459037.0,-830074636923.0
+12,01 > 12,12,- Tăng/giảm chi phí trả trước,,550.278.830,9.459.685.767,,,550278830.0,9459685767.0
+14,01 > 14,14,- Tiền lãi vay đã trả,,(3.588.783.333),(146.130.993.377),,,-3588783333.0,-146130993377.0
+16,01 > 16,16,- Tiền thu khác từ hoạt động kinh doanh,,73.540.000,-,,,73540000.0,
+17,01 > 17,17,- Tiền chi khác cho hoạt động kinh doanh,,(562.567.452),(163.508.222.740),,,-562567452.0,-163508222740.0
+20,01 > 20,20,Lưu chuyển tiền thuần từ hoạt động kinh doanh,,(737.535.247),(1.115.334.762.923),,,-737535247.0,-1115334762923.0
+II. LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG ĐẦU TỪ,II. LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG ĐẦU TỪ,II. LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG ĐẦU TỪ,II. LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG ĐẦU TỪ,II. LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG ĐẦU TỪ,II. LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG ĐẦU TỪ,II. LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG ĐẦU TỪ,,,,
+21,II. LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG ĐẦU TỪ > 21,21,"1. Tiền chi để mua sắm, xây dựng TSCĐ và các tài sản dài hạn khác",,(16.219.319.832),(1.968.298.134),,,-16219319832.0,-1968298134.0
+23,II. LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG ĐẦU TỪ > 23,23,"3. Tiền chi cho vay, mua các công cụ nợ của đơn vị khác",,(41.694.000.000),(4.000.000.000),,,-41694000000.0,-4000000000.0
+24,II. LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG ĐẦU TỪ > 24,24,"4. Tiền thu hồi cho vay, bán lại các công cụ nợ của đơn vị khác",,47.044.000.000,55.159.900.000,,,47044000000.0,55159900000.0
+25,II. LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG ĐẦU TỪ > 25,25,5. Tiền chi đầu tư góp vốn vào đơn vị khác,,(100.000.000),(11.578.000.000),,,-100000000.0,-11578000000.0
+26,II. LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG ĐẦU TỪ > 26,26,6. Tiền thu hồi đầu tư góp vốn vào đơn vị khác,,41.655.500.000,1.952.713.000.000,,,41655500000.0,1952713000000.0
+27,II. LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG ĐẦU TỪ > 27,27,"7. Tiền thu lãi cho vay, cổ tức và lợi nhuận được chia",,1.101.063.304,705.113.187,,,1101063304.0,705113187.0
+30,II. LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG ĐẦU TỪ > 30,30,Lưu chuyển tiền thuần từ hoạt động đầu tư,,31.787.243.472,1.991.031.715.053,,,31787243472.0,1991031715053.0
+III. LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH,III. LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH,III. LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH,III. LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH,III. LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH,III. LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH,III. LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH,,,,
+34,III. LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH > 34,34,4. Tiền trả nợ gốc vay,,(37.996.270.000),(895.000.000.000),,,-37996270000.0,-895000000000.0
+40,III. LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH > 40,40,Lưu chuyển tiền thuần từ hoạt động tài chính,,(37.996.270.000),(895.000.000.000),,,-37996270000.0,-895000000000.0
+50,III. LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH > 50,50,Lưu chuyển tiền thuần trong năm,,(6.946.561.775),(19.303.047.870),,,-6946561775.0,-19303047870.0
+60,III. LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH > 60,60,Tiền và tương đương tiền đầu năm,,23.244.347.477,42.547.395.347,,,23244347477.0,42547395347.0
+70,III. LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH > 70,70,Tiền và tương đương tiền cuối năm,,16.297.785.702,23.244.347.477,,,16297785702.0,23244347477.0

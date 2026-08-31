@@ -1,0 +1,16 @@
+﻿row_label_raw,row_label_full,17. Thuế và các khoản phảinộp/phải thu Nhà nước,01/01/2025,Số phải nộptrong năm,Số đã thựcnộp trong kỳ/khẩutrừ trong năm,31/12/2025,numeric__01/01/2025,numeric__Số phải nộptrong năm,numeric__Số đã thựcnộp trong kỳ/khẩutrừ trong năm,numeric__31/12/2025
+a. Phải nộp,a. Phải nộp,a. Phải nộp,a. Phải nộp,a. Phải nộp,a. Phải nộp,a. Phải nộp,,,,
+Thuế giá trị gia tăng,a. Phải nộp > Thuế giá trị gia tăng,Thuế giá trị gia tăng,2.802.051.123,9.980.842.575,10.916.233.014,1.866.660.684,2802051123.0,9980842575.0,10916233014.0,1866660684.0
+Thuế thu nhập doanh nghiệp,a. Phải nộp > Thuế thu nhập doanh nghiệp,Thuế thu nhập doanh nghiệp,25.191.256.306,26.354.653.454,26.952.772.524,24.593.137.236,25191256306.0,26354653454.0,26952772524.0,24593137236.0
+Thuế thu nhập cá nhân,a. Phải nộp > Thuế thu nhập cá nhân,Thuế thu nhập cá nhân,2.382.391.706,7.806.610.315,8.382.995.119,1.806.006.902,2382391706.0,7806610315.0,8382995119.0,1806006902.0
+"Thuế nhà đất, tiền thuê đất","a. Phải nộp > Thuế nhà đất, tiền thuê đất","Thuế nhà đất, tiền thuê đất",-,9.742.373.351,9.742.373.351,-,,9742373351.0,9742373351.0,
+Các loại thuế khác,a. Phải nộp > Các loại thuế khác,Các loại thuế khác,765.694.197,906.241.882,1.642.510.940,29.425.139,765694197.0,906241882.0,1642510940.0,29425139.0
+Cộng,a. Phải nộp > Cộng,Cộng,31.141.393.332,54.790.721.577,57.636.884.948,28.295.229.961,31141393332.0,54790721577.0,57636884948.0,28295229961.0
+b. Phải thu,b. Phải thu,b. Phải thu,b. Phải thu,b. Phải thu,b. Phải thu,b. Phải thu,,,,
+Thuế thu nhập cá nhân nộpthừa,b. Phải thu > Thuế thu nhập cá nhân nộpthừa,Thuế thu nhập cá nhân nộpthừa,693.191,-,-,693.191,693191.0,,,693191.0
+Thuế thu nhập doanhnghiệp nộp thừa,b. Phải thu > Thuế thu nhập doanhnghiệp nộp thừa,Thuế thu nhập doanhnghiệp nộp thừa,-,-,91.000.000,91.000.000,,,91000000.0,91000000.0
+"Thuế nhà đất, tiền thuê đất","b. Phải thu > Thuế nhà đất, tiền thuê đất","Thuế nhà đất, tiền thuê đất",3.709.786.900,18.123.886.852,15.852.092.854,1.437.992.902,3709786900.0,18123886852.0,15852092854.0,1437992902.0
+Cộng,b. Phải thu > Cộng,Cộng,3.710.480.091,18.123.886.852,15.943.092.854,1.529.686.093,3710480091.0,18123886852.0,15943092854.0,1529686093.0
+c. Khẩu trừ,c. Khẩu trừ,c. Khẩu trừ,01/01/2025,Tăng trong năm,Giảm trong năm,31/12/2025,,,,
+Thuế giá trị gia tăng,c. Khẩu trừ > Thuế giá trị gia tăng,Thuế giá trị gia tăng,156.637.350.337,73.285.730.366,91.956.755.240,137.966.325.463,156637350337.0,73285730366.0,91956755240.0,137966325463.0
+Cộng,c. Khẩu trừ > Cộng,Cộng,156.637.350.337,73.285.730.366,91.956.755.240,137.966.325.463,156637350337.0,73285730366.0,91956755240.0,137966325463.0

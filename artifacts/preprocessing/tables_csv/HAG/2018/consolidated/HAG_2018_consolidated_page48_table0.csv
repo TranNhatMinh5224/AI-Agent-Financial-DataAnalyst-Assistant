@@ -1,0 +1,14 @@
+﻿row_label_raw,row_label_full,col_0,Số đầu năm,Tăng trong năm,Giảm trong năm,Ngàn VND Số cuối năm,numeric__Số đầu năm,numeric__Tăng trong năm,numeric__Giảm trong năm,numeric__Ngàn VND Số cuối năm
+Vay ngắn hạn,Vay ngắn hạn,Vay ngắn hạn,Vay ngắn hạn,Vay ngắn hạn,Vay ngắn hạn,Vay ngắn hạn,,,,
+Trái phiếu chuyển đổi (TM số 24.1),Vay ngắn hạn > Trái phiếu chuyển đổi (TM số 24.1),Trái phiếu chuyển đổi (TM số 24.1),-,2.217.226.167,(64.013.464),2.153.212.703,,2217226167.0,-64013464.0,2153212703.0
+Vay ngắn hạn ngân hàng (TM số 24.2),Vay ngắn hạn > Vay ngắn hạn ngân hàng (TM số 24.2),Vay ngắn hạn ngân hàng (TM số 24.2),728.781.281,2.093.544.819,(1.909.457.572),912.868.528,728781281.0,2093544819.0,-1909457572.0,912868528.0
+Vay dài hạn ngân hàng đến hạn trả (TM số 24.4),Vay ngắn hạn > Vay dài hạn ngân hàng đến hạn trả (TM số 24.4),Vay dài hạn ngân hàng đến hạn trả (TM số 24.4),579.091.847,1.712.502.908,(753.622.229),1.537.972.526,579091847.0,1712502908.0,-753622229.0,1537972526.0
+Vay dài hạn trái phiếu thường đến hạn trả (TM số 24.3),Vay ngắn hạn > Vay dài hạn trái phiếu thường đến hạn trả (TM số 24.3),Vay dài hạn trái phiếu thường đến hạn trả (TM số 24.3),401.099.073,914.041.578,(401.147.738),913.992.913,401099073.0,914041578.0,-401147738.0,913992913.0
+Vay ngắn hạn khác (TM số 24.5),Vay ngắn hạn > Vay ngắn hạn khác (TM số 24.5),Vay ngắn hạn khác (TM số 24.5),819.891.655,1.535.018.806,(923.153.804),1.431.756.657,819891655.0,1535018806.0,-923153804.0,1431756657.0
+,,,2.528.863.856,8.472.334.278,(4.051.394.807),6.949.803.327,2528863856.0,8472334278.0,-4051394807.0,6949803327.0
+Vay dài hạn,Vay dài hạn,Vay dài hạn,Vay dài hạn,Vay dài hạn,Vay dài hạn,Vay dài hạn,,,,
+Trái phiếu thường (TM số 24.3),Vay dài hạn > Trái phiếu thường (TM số 24.3),Trái phiếu thường (TM số 24.3),10.965.896.345,104.280.528,(1.000.856.014),10.069.320.859,10965896345.0,104280528.0,-1000856014.0,10069320859.0
+Vay dài hạn ngân hàng (TM số 24.4),Vay dài hạn > Vay dài hạn ngân hàng (TM số 24.4),Vay dài hạn ngân hàng (TM số 24.4),9.308.802.300,377.704.706,(5.081.797.835),4.604.709.171,9308802300.0,377704706.0,-5081797835.0,4604709171.0
+Vay dài hạn khác (TM số 24.5),Vay dài hạn > Vay dài hạn khác (TM số 24.5),Vay dài hạn khác (TM số 24.5),21.511.204,131.978.503,(23.780.107),129.709.600,21511204.0,131978503.0,-23780107.0,129709600.0
+,,,20.296.209.849,613.963.737,(6.106.433.956),14.803.739.630,20296209849.0,613963737.0,-6106433956.0,14803739630.0
+TỔNG CỘNG,Vay dài hạn > TỔNG CỘNG,TỔNG CỘNG,22.825.073.705,9.086.298.015,(10.157.828.763),21.753.542.957,22825073705.0,9086298015.0,-10157828763.0,21753542957.0

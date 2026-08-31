@@ -1,0 +1,15 @@
+﻿row_label_raw,row_label_full,col_0,Quyền sử dụng đất,Phần mềm máy tính,Cộng,numeric__Quyền sử dụng đất,numeric__Phần mềm máy tính,numeric__Cộng
+,,,VND,VND,VND,,,
+Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,,,
+Số dư đầu kỳ,Nguyên giá > Số dư đầu kỳ,Số dư đầu kỳ,11.109.585.388,12.101.275.376,23.210.860.764,11109585388.0,12101275376.0,23210860764.0
+- Mua trong kỳ,Nguyên giá > - Mua trong kỳ,- Mua trong kỳ,-,493.000.000,493.000.000,,493000000.0,493000000.0
+- Giảm do quyết toán công trình 177 Hai Bà Trung,Nguyên giá > - Giảm do quyết toán công trình 177 Hai Bà Trung,- Giảm do quyết toán công trình 177 Hai Bà Trung,-,(3.998.719.894),(3.998.719.894),,-3998719894.0,-3998719894.0
+Số dư cuối kỳ,Nguyên giá > Số dư cuối kỳ,Số dư cuối kỳ,11.109.585.388,8.595.555.482,19.705.140.870,11109585388.0,8595555482.0,19705140870.0
+Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,,,
+Số dư đầu kỳ,Giá trị hao mòn lũy kế > Số dư đầu kỳ,Số dư đầu kỳ,-,8.082.371.489,8.082.371.489,,8082371489.0,8082371489.0
+- Khấu hao trong kỳ,Giá trị hao mòn lũy kế > - Khấu hao trong kỳ,- Khấu hao trong kỳ,-,1.303.285.539,1.303.285.539,,1303285539.0,1303285539.0
+- Giảm do quyết toán công trình 177 Hai Bà Trung,Giá trị hao mòn lũy kế > - Giảm do quyết toán công trình 177 Hai Bà Trung,- Giảm do quyết toán công trình 177 Hai Bà Trung,-,(3.998.719.894),(3.998.719.894),,-3998719894.0,-3998719894.0
+Số dư cuối kỳ,Giá trị hao mòn lũy kế > Số dư cuối kỳ,Số dư cuối kỳ,-,5.386.937.134,5.386.937.134,,5386937134.0,5386937134.0
+Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,,,
+Tại ngày đầu kỳ,Giá trị còn lại > Tại ngày đầu kỳ,Tại ngày đầu kỳ,11.109.585.388,4.018.903.887,15.128.489.275,11109585388.0,4018903887.0,15128489275.0
+Tại ngày cuối kỳ,Giá trị còn lại > Tại ngày cuối kỳ,Tại ngày cuối kỳ,11.109.585.388,3.208.618.348,14.318.203.736,11109585388.0,3208618348.0,14318203736.0

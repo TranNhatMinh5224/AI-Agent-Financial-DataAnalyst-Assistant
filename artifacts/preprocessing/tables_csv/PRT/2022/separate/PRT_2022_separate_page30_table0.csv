@@ -1,0 +1,13 @@
+﻿row_label_raw,row_label_full,col_0,Phần mềm máy tính,Khác,Cộng,numeric__Phần mềm máy tính,numeric__Khác,numeric__Cộng
+,,,VND,VND,VND,,,
+Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,,,
+Số dư đầu kỳ,Nguyên giá > Số dư đầu kỳ,Số dư đầu kỳ,369.475.237,-,369.475.237,369475237.0,,369475237.0
+- Mua trong kỳ,Nguyên giá > - Mua trong kỳ,- Mua trong kỳ,-,87.000.000,87.000.000,,87000000.0,87000000.0
+Số dư cuối kỳ,Nguyên giá > Số dư cuối kỳ,Số dư cuối kỳ,369.475.237,87.000.000,456.475.237,369475237.0,87000000.0,456475237.0
+Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,,,
+Số dư đầu kỳ,Giá trị hao mòn lũy kế > Số dư đầu kỳ,Số dư đầu kỳ,216.062.043,-,216.062.043,216062043.0,,216062043.0
+- Khấu hao trong kỳ,Giá trị hao mòn lũy kế > - Khấu hao trong kỳ,- Khấu hao trong kỳ,40.210.078,13.096.774,53.306.852,40210078.0,13096774.0,53306852.0
+Số dư cuối kỳ,Giá trị hao mòn lũy kế > Số dư cuối kỳ,Số dư cuối kỳ,256.272.121,13.096.774,269.368.895,256272121.0,13096774.0,269368895.0
+Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,,,
+Tại ngày đầu kỳ,Giá trị còn lại > Tại ngày đầu kỳ,Tại ngày đầu kỳ,153.413.194,-,153.413.194,153413194.0,,153413194.0
+Tại ngày cuối kỳ,Giá trị còn lại > Tại ngày cuối kỳ,Tại ngày cuối kỳ,113.203.116,73.903.226,187.106.342,113203116.0,73903226.0,187106342.0

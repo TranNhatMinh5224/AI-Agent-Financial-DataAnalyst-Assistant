@@ -1,0 +1,16 @@
+﻿row_label_raw,row_label_full,col_0,Mã số,Thuyết minh,2024 VND,2023 VND,numeric__Mã số,numeric__Thuyết minh,numeric__2024 VND,numeric__2023 VND
+Doanh thu cung cấp dịch vụ,Doanh thu cung cấp dịch vụ,Doanh thu cung cấp dịch vụ,01,19,161.828.085.340,100.518.000.000,1.0,19.0,161828085340.0,100518000000.0
+Giá vốn dịch vụ cung cấp,Giá vốn dịch vụ cung cấp,Giá vốn dịch vụ cung cấp,11,,154.121.986.039,95.731.428.571,11.0,,154121986039.0,95731428571.0
+Lợi nhuận gộp (20 = 01 - 11),Lợi nhuận gộp (20 = 01 - 11),Lợi nhuận gộp (20 = 01 - 11),20,,7.706.099.301,4.786.571.429,20.0,,7706099301.0,4786571429.0
+Doanh thu hoạt động tài chính,Doanh thu hoạt động tài chính,Doanh thu hoạt động tài chính,21,20,522.472.903.218,196.048.379.009,21.0,20.0,522472903218.0,196048379009.0
+Chi phí tài chính,Chi phí tài chính,Chi phí tài chính,22,21,555.413.198.132,640.313.645.513,22.0,21.0,555413198132.0,640313645513.0
+Trong đó: Chi phí lãi vay,Trong đó: Chi phí lãi vay,Trong đó: Chi phí lãi vay,23,,177.986.160.410,216.787.488.549,23.0,,177986160410.0,216787488549.0
+Chi phí quản lý doanh nghiệp,Chi phí quản lý doanh nghiệp,Chi phí quản lý doanh nghiệp,26,22,4.339.532.509,13.324.035.945,26.0,22.0,4339532509.0,13324035945.0
+Lỗ thuần từ hoạt động kinh doanh {30 = 20 + (21 - 22) - 26},Lỗ thuần từ hoạt động kinh doanh {30 = 20 + (21 - 22) - 26},Lỗ thuần từ hoạt động kinh doanh {30 = 20 + (21 - 22) - 26},30,,(29.573.728.122),(452.802.731.020),30.0,,-29573728122.0,-452802731020.0
+Thu nhập khác,Thu nhập khác,Thu nhập khác,31,,-,865.234.102,31.0,,,865234102.0
+Chi phí khác,Chi phí khác,Chi phí khác,32,,2.078.926,13.381.300,32.0,,2078926.0,13381300.0
+Kết quả từ các hoạt động khác (40 = 31 - 32),Kết quả từ các hoạt động khác (40 = 31 - 32),Kết quả từ các hoạt động khác (40 = 31 - 32),40,,(2.078.926),851.852.802,40.0,,-2078926.0,851852802.0
+Lỗ kế toán trước thuế (50 = 30 + 40),Lỗ kế toán trước thuế (50 = 30 + 40),Lỗ kế toán trước thuế (50 = 30 + 40),50,,(29.575.807.048),(451.950.878.218),50.0,,-29575807048.0,-451950878218.0
+Chi phí thuế TNDN hiện hành,Chi phí thuế TNDN hiện hành,Chi phí thuế TNDN hiện hành,51,24,-,-,51.0,24.0,,
+Chi phí thuế TNDN hoãn lại,Chi phí thuế TNDN hoãn lại,Chi phí thuế TNDN hoãn lại,52,24,-,-,52.0,24.0,,
+Lỗ sau thuế TNDN (60 = 50 - 51 - 52),Lỗ sau thuế TNDN (60 = 50 - 51 - 52),Lỗ sau thuế TNDN (60 = 50 - 51 - 52),60,,(29.575.807.048),(451.950.878.218),60.0,,-29575807048.0,-451950878218.0

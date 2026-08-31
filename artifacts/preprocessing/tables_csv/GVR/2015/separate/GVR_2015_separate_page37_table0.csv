@@ -1,0 +1,15 @@
+﻿row_label_raw,row_label_full,col_0,Quyền sử dụng đất,Phần mềm máy tính,Cộng,numeric__Quyền sử dụng đất,numeric__Phần mềm máy tính,numeric__Cộng
+,,,VND,VND,VND,,,
+Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,,,
+Số dư đầu năm,Nguyên giá > Số dư đầu năm,Số dư đầu năm,-,1.615.539.600,1.615.539.600,,1615539600.0,1615539600.0
+- Mua trong năm,Nguyên giá > - Mua trong năm,- Mua trong năm,-,4.157.941.600,4.157.941.600,,4157941600.0,4157941600.0
+- Tăng do sáp nhập doanh nghiệp (*),Nguyên giá > - Tăng do sáp nhập doanh nghiệp (*),- Tăng do sáp nhập doanh nghiệp (*),15.036.260.388,1.084.703.226,16.120.963.614,15036260388.0,1084703226.0,16120963614.0
+Số dư cuối năm,Nguyên giá > Số dư cuối năm,Số dư cuối năm,15.036.260.388,6.858.184.426,21.894.444.814,15036260388.0,6858184426.0,21894444814.0
+Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,,,
+Số dư đầu năm,Giá trị hao mòn lũy kế > Số dư đầu năm,Số dư đầu năm,-,1.327.492.311,1.327.492.311,,1327492311.0,1327492311.0
+- Khấu hao trong năm,Giá trị hao mòn lũy kế > - Khấu hao trong năm,- Khấu hao trong năm,-,811.799.476,811.799.476,,811799476.0,811799476.0
+- Tăng do sáp nhập doanh nghiệp,Giá trị hao mòn lũy kế > - Tăng do sáp nhập doanh nghiệp,- Tăng do sáp nhập doanh nghiệp,-,632.922.138,632.922.138,,632922138.0,632922138.0
+Số dư cuối năm,Giá trị hao mòn lũy kế > Số dư cuối năm,Số dư cuối năm,-,2.772.213.925,2.772.213.925,,2772213925.0,2772213925.0
+Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,,,
+Tại ngày đầu năm,Giá trị còn lại > Tại ngày đầu năm,Tại ngày đầu năm,-,288.047.289,288.047.289,,288047289.0,288047289.0
+Tại ngày cuối năm,Giá trị còn lại > Tại ngày cuối năm,Tại ngày cuối năm,15.036.260.388,4.085.970.501,19.122.230.889,15036260388.0,4085970501.0,19122230889.0

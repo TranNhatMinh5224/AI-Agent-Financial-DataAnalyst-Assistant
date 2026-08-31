@@ -1,0 +1,10 @@
+﻿row_label_raw,row_label_full,Loại tài sản bảo đảm,Loại tài sản bảo đảm_1,Tỷ lệ khẩu trừ tối đa,numeric__Loại tài sản bảo đảm_1,numeric__Tỷ lệ khẩu trừ tối đa
+(i),(i),(i),"Số dư tiền gửi, chứng chỉ tiên gửi bằng Đồng Việt Nam tại chính Ngân hàng",100%,,1.0
+(ii),(ii),(ii),"Trái phiếu Chính phủ, vàng miếng theo quy định của pháp luật về hoạt động kinh doanh vàng; số dư tiền gửi, chứng chỉ tiên gửi bằng ngoại tệ tại chính Ngân hàng",95%,,0.95
+(iii),(iii),(iii),"Trái phiếu chính quyền địa phương, trái phiếu được Chính phủ bảo lãnh; công cụ chuyển nhượng, trái phiếu do chính Ngân hàng phát hành; số dư tiền gửi, chứng chỉ tiên gửi, do TCTD, chỉ nhánh ngân hàng nước ngoài khác phát hành:Co thời hạn còn lại dưới 1 nămCó thời hạn còn lại từ 1 năm đến 5 nămCó thời hạn còn lại trên 5 năm",95%85%80%,,
+(iv),(iii) > (iv),(iv),Chứng khoán do các TCTD khác phát hành được niêm yết trên Sở giao dịch chứng khoán.,70%,,0.7
+(v),(iii) > (v),(v),Chứng khoán được niêm yết trên Sở giao dịch chứng khoán do doanh nghiệp (trừ TCTD) phát hành,65%,,0.65
+(vi),(vi),(vi),"Chứng khoán chưa được niêm yết trên Sở giao dịch chứng khoán, giấy tờ có giá, trừ các khoản quy định tại điểm (iii) khoản này, do TCTD khác có niêm yết cổ phiếu trên Sở giao dịch chứng khoán phát hành;Chứng khoán chưa được niêm yết trên Sở giao dịch chứng khoán, giấy tờ có giá, trừ các khoản quy định tại điểm (iii) khoản này, do TCTD khác chưa uniêm yết cổ phiếu trên Sở giao dịch chứng khoán phát hành",50%30%,,
+(vii),(vii),(vii),"Chứng khoán chưa được niêm yết trên Sở giao dịch chứng khoán, giấy tờ có giá do doanh nghiệp có đăng ký niêm yết cổ phiếu trên Sở giao dịch chứng khoán phát hành;Chứng khoán chưa được niêm yết trên Sở giao dịch chứng khoán, giấy tờ có giá do doanh nghiệp chưa uniêm yết cổ phiếu trên Sở giao dịch chứng khoán phát hành",30%10%,,
+(viii),(vii) > (viii),(viii),Bất động sản,50%,,0.5
+(ix),(vii) > (ix),(ix),Các loại tài sản bảo đảm khác,30%,,0.3

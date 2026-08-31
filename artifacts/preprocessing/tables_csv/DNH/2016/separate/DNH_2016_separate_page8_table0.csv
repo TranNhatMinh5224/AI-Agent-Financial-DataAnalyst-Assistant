@@ -1,0 +1,25 @@
+﻿row_label_raw,row_label_full,col_0,Mã số,Thuyết minh,31/12/2016 VND,1/1/2016 VND,numeric__Mã số,numeric__Thuyết minh,numeric__31/12/2016 VND,numeric__1/1/2016 VND
+NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,,,,
+NỘ PHẢI TRẢ (300 = 310 + 330),NGUỒN VỐN > NỘ PHẢI TRẢ (300 = 310 + 330),NỘ PHẢI TRẢ (300 = 310 + 330),300,,2.280.531.555.036,2.559.538.268.258,300.0,,2280531555036.0,2559538268258.0
+Nợ ngắn hạn,NGUỒN VỐN > Nợ ngắn hạn,Nợ ngắn hạn,310,,671.263.762.165,830.490.146.551,310.0,,671263762165.0,830490146551.0
+Phải trả người bán ngắn hạn,NGUỒN VỐN > Phải trả người bán ngắn hạn,Phải trả người bán ngắn hạn,311,14,18.568.997.082,4.505.927.798,311.0,14.0,18568997082.0,4505927798.0
+Người mua trả tiền trước ngắn hạn,NGUỒN VỐN > Người mua trả tiền trước ngắn hạn,Người mua trả tiền trước ngắn hạn,312,,1.758.448.904,281.144.424,312.0,,1758448904.0,281144424.0
+Thuế và các khoản khác phải nộp,Thuế và các khoản khác phải nộp,Thuế và các khoản khác phải nộp,,,,,,,,
+Nhà nước,Thuế và các khoản khác phải nộp > Nhà nước,Nhà nước,313,15(a),122.595.926.914,102.840.092.020,313.0,,122595926914.0,102840092020.0
+Phải trả người lao động,Thuế và các khoản khác phải nộp > Phải trả người lao động,Phải trả người lao động,314,,33.698.586.341,28.830.201.061,314.0,,33698586341.0,28830201061.0
+Chi phí phải trả ngắn hạn,Thuế và các khoản khác phải nộp > Chi phí phải trả ngắn hạn,Chi phí phải trả ngắn hạn,315,16,25.527.301.691,32.721.476.542,315.0,16.0,25527301691.0,32721476542.0
+Phải trả ngắn hạn khác,Thuế và các khoản khác phải nộp > Phải trả ngắn hạn khác,Phải trả ngắn hạn khác,319,17,2.954.388.458,211.413.605.800,319.0,17.0,2954388458.0,211413605800.0
+Vay ngắn hạn,Thuế và các khoản khác phải nộp > Vay ngắn hạn,Vay ngắn hạn,320,18(a),461.428.186.083,441.768.927.926,320.0,,461428186083.0,441768927926.0
+Quỹ khen thưởng và phúc lợi,Thuế và các khoản khác phải nộp > Quỹ khen thưởng và phúc lợi,Quỹ khen thưởng và phúc lợi,322,,4.731.926.692,8.128.770.980,322.0,,4731926692.0,8128770980.0
+Nợ dài hạn,Thuế và các khoản khác phải nộp > Nợ dài hạn,Nợ dài hạn,330,,1.609.267.792.871,1.729.048.121.707,330.0,,1609267792871.0,1729048121707.0
+Vay dài hạn,Thuế và các khoản khác phải nộp > Vay dài hạn,Vay dài hạn,338,18(b),1.609.267.792.871,1.729.048.121.707,338.0,,1609267792871.0,1729048121707.0
+VỐN CHỦ SỞ HỮU (400 = 410),Thuế và các khoản khác phải nộp > VỐN CHỦ SỞ HỮU (400 = 410),VỐN CHỦ SỞ HỮU (400 = 410),400,,5.326.969.042.531,5.162.149.610.324,400.0,,5326969042531.0,5162149610324.0
+Vốn chủ sở hữu,Thuế và các khoản khác phải nộp > Vốn chủ sở hữu,Vốn chủ sở hữu,410,19,5.326.969.042.531,5.162.149.610.324,410.0,19.0,5326969042531.0,5162149610324.0
+Vốn cổ phần,Thuế và các khoản khác phải nộp > Vốn cổ phần,Vốn cổ phần,411,20,4.224.000.000.000,4.224.000.000.000,411.0,20.0,4224000000000.0,4224000000000.0
+Vốn khác của chủ sở hữu,Thuế và các khoản khác phải nộp > Vốn khác của chủ sở hữu,Vốn khác của chủ sở hữu,414,,67.787.710.660,41.344.567.181,414.0,,67787710660.0,41344567181.0
+Chênh lệch tỷ giá hối đoái,Thuế và các khoản khác phải nộp > Chênh lệch tỷ giá hối đoái,Chênh lệch tỷ giá hối đoái,417,21,7.331.138.455,-,417.0,21.0,7331138455.0,
+Quỹ đầu tư phát triển,Thuế và các khoản khác phải nộp > Quỹ đầu tư phát triển,Quỹ đầu tư phát triển,418,,20.480.114.976,29.710.795.559,418.0,,20480114976.0,29710795559.0
+Lợi nhuận sau thuế chưa phân phối,Thuế và các khoản khác phải nộp > Lợi nhuận sau thuế chưa phân phối,Lợi nhuận sau thuế chưa phân phối,421,,1.007.370.078.440,867.094.247.584,421.0,,1007370078440.0,867094247584.0
+- LNST chưa phân phối lũy kế đến cuối năm trước,Thuế và các khoản khác phải nộp > - LNST chưa phân phối lũy kế đến cuối năm trước,- LNST chưa phân phối lũy kế đến cuối năm trước,421a,,535.454.564.938,399.289.618.621,,,535454564938.0,399289618621.0
+- LNST chưa phân phối năm nay,Thuế và các khoản khác phải nộp > - LNST chưa phân phối năm nay,- LNST chưa phân phối năm nay,421b,,471.915.513.502,467.804.628.963,,,471915513502.0,467804628963.0
+TỔNG NGUỒN VỐN(440 = 300 + 400),Thuế và các khoản khác phải nộp > TỔNG NGUỒN VỐN(440 = 300 + 400),TỔNG NGUỒN VỐN(440 = 300 + 400),440,,7.607.500.597.567,7.721.687.878.582,440.0,,7607500597567.0,7721687878582.0

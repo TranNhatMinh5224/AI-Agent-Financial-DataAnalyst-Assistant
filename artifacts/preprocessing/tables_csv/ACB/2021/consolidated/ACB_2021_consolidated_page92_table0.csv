@@ -1,0 +1,17 @@
+﻿row_label_raw,row_label_full,col_0,Năm 2020,Năm 2020_1,Năm 2020_2,Năm 2020_3,Năm 2020_4,Năm 2020_5,Năm 2020_6,numeric__Năm 2020,numeric__Năm 2020_1,numeric__Năm 2020_2,numeric__Năm 2020_3,numeric__Năm 2020_4,numeric__Năm 2020_5,numeric__Năm 2020_6
+,,,Ngân hàng Triệu VND,Chứng khoán Triệu VND,Quản lý nợ Triệu VND,Cho thuê tài chính Triệu VND,Quản lý quỹ Triệu VND,Loại trừ Triệu VND,Tổng cộng Triệu VND,,,,,,,
+Doanh thu,Doanh thu,Doanh thu,Doanh thu,Doanh thu,Doanh thu,Doanh thu,Doanh thu,Doanh thu,Doanh thu,,,,,,,
+Doanh thu lãi,Doanh thu > Doanh thu lãi,Doanh thu lãi,31.576.778,239.840,25,98.732,3.439,(63.066),31.855.748,31576778.0,239840.0,25.0,98732.0,3439.0,-63066.0,31855748.0
++ Doanh thu lãi từ khách hàng bên ngoài,Doanh thu > + Doanh thu lãi từ khách hàng bên ngoài,+ Doanh thu lãi từ khách hàng bên ngoài,31.536.651,220.437,2,98.658,-,-,31.855.748,31536651.0,220437.0,2.0,98658.0,,,31855748.0
++ Doanh thu lãi từ nội bộ,Doanh thu > + Doanh thu lãi từ nội bộ,+ Doanh thu lãi từ nội bộ,40.127,19.403,23,74,3.439,(63.066),-,40127.0,19403.0,23.0,74.0,3439.0,-63066.0,
+Doanh thu từ hoạt động dịch vụ,Doanh thu > Doanh thu từ hoạt động dịch vụ,Doanh thu từ hoạt động dịch vụ,2.597.137,209.740,-,-,-,(3.393),2.803.484,2597137.0,209740.0,,,,-3393.0,2803484.0
+Doanh thu từ hoạt động kinh doanh khác,Doanh thu > Doanh thu từ hoạt động kinh doanh khác,Doanh thu từ hoạt động kinh doanh khác,2.027.073,78.388,21.969,10.609,3.535,(41.233),2.100.341,2027073.0,78388.0,21969.0,10609.0,3535.0,-41233.0,2100341.0
+Chi phí,Chi phí,Chi phí,Chi phí,Chi phí,Chi phí,Chi phí,Chi phí,Chi phí,Chi phí,,,,,,,
+Chi phí lãi,Chi phí > Chi phí lãi,Chi phí lãi,(17.228.245),(78.240),-,(41.032),-,73.892,(17.273.625),-17228245.0,-78240.0,,-41032.0,,73892.0,-17273625.0
++ Chi phí lãi khách hàng bên ngoài,Chi phí > + Chi phí lãi khách hàng bên ngoài,+ Chi phí lãi khách hàng bên ngoài,(17.206.555),(76.991),-,(905),-,10.826,(17.273.625),-17206555.0,-76991.0,,-905.0,,10826.0,-17273625.0
++ Chi phí lãi nội bộ,Chi phí > + Chi phí lãi nội bộ,+ Chi phí lãi nội bộ,(21.690),(1.249),-,(40.127),-,63.066,-,-21690.0,-1249.0,,-40127.0,,63066.0,
+Chi phí khấu hao tài sản cố định,Chi phí > Chi phí khấu hao tài sản cố định,Chi phí khấu hao tài sản cố định,(353.556),(12.495),(6.880),(171),-,-,(373.102),-353556.0,-12495.0,-6880.0,-171.0,,,-373102.0
+Chi phí liên quan trực tiếp đến hoạt động kinh doanh,Chi phí > Chi phí liên quan trực tiếp đến hoạt động kinh doanh,Chi phí liên quan trực tiếp đến hoạt động kinh doanh,(8.312.103),(230.437),(14.173),(31.361),(1.819),14.088,(8.575.805),-8312103.0,-230437.0,-14173.0,-31361.0,-1819.0,14088.0,-8575805.0
+Kết quả kinh doanh trước chi phí dự phòng rủi ro,Chi phí > Kết quả kinh doanh trước chi phí dự phòng rủi ro,Kết quả kinh doanh trước chi phí dự phòng rủi ro,10.307.084,206.796,941,36.777,5.155,(19.712),10.537.041,10307084.0,206796.0,941.0,36777.0,5155.0,-19712.0,10537041.0
+Chi phí dự phòng rủi ro,Chi phí > Chi phí dự phòng rủi ro,Chi phí dự phòng rủi ro,(949.770),8.737,-,(120),-,-,(941.153),-949770.0,8737.0,,-120.0,,,-941153.0
+Kết quả kinh doanh bộ phận,Chi phí > Kết quả kinh doanh bộ phận,Kết quả kinh doanh bộ phận,9.357.314,215.533,941,36.657,5.155,(19.712),9.595.888,9357314.0,215533.0,941.0,36657.0,5155.0,-19712.0,9595888.0

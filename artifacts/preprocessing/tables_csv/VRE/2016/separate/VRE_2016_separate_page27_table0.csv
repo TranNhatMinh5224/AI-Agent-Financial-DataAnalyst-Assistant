@@ -1,0 +1,11 @@
+﻿row_label_raw,row_label_full,STT,Tên đơn vị,Số cuối năm > Số lượng cổ phiếu,Số cuối năm > Giá trị ghi số,Số cuối năm > Giá trị hợp lý,Số cuối năm > Tỷ lệ sở hữu (%),Số đầu năm > Số lượng cổ phiếu,Số đầu năm > Giá trị ghi số,Số đầu năm > Giá trị hợp lý,Số đầu năm > Tỷ lệ sở hữu (%),Thuyết minh,numeric__Tên đơn vị,numeric__Số cuối năm > Số lượng cổ phiếu,numeric__Số cuối năm > Giá trị ghi số,numeric__Số cuối năm > Giá trị hợp lý,numeric__Số cuối năm > Tỷ lệ sở hữu (%),numeric__Số đầu năm > Số lượng cổ phiếu,numeric__Số đầu năm > Giá trị ghi số,numeric__Số đầu năm > Giá trị hợp lý,numeric__Số đầu năm > Tỷ lệ sở hữu (%),numeric__Thuyết minh
+1,1,1,Công ty Vincom Retail Miền Bắc,(*),3.358.780.000.000,(**),"100,00",(*),3.358.780.000.000,(**),"100,00",,,,3358780000000.0,,100.0,,3358780000000.0,,100.0,
+2,2,2,"Công ty TNHH Thương mại Dịch vụ Vin Tây (""Công ty Vin Tây"")",-,-,-,-,50.000,2.615.234.719,(**),"1,00",(i),,,,,,50000.0,2615234719.0,,1.0,
+3,3,3,Công ty Vincom Retail Miền Nam,(*),779.000.000.000,(**),"100,00",(*),779.000.000.000,(**),"100,00",,,,779000000000.0,,100.0,,779000000000.0,,100.0,
+4,4,4,Công ty Suối Hoa,34.240.000,562.008.928.000,(**),"97,83",528.000,224.888.928.000,(**),"88,00",(ii),,34240000.0,562008928000.0,,97.83,528000.0,224888928000.0,,88.0,
+5,5,5,"Công ty Cổ phần Đầu tư Kinh doanh và Phát triển đô thị Ngôi Sao Xanh (""Công ty Ngôi Sao Xanh"")",-,-,-,-,91.884.000,2.586.997.106.680,(**),"74,10",(iii),,,,,,91884000.0,2586997106680.0,,74.1,
+6,6,6,"Công ty Cổ phần Trung tâm Văn hóa Thẻ thao Giải trí Hà Nội (""Công ty Starbowl"")",-,-,-,-,80.000,3.740.647.826,(**),"1,00",(iv),,,,,,80000.0,3740647826.0,,1.0,
+7,7,7,Công ty An Phong,12.347.000,1.846.424.894.000,(**),"97,99",12.600.000,1.798.671.140.000,(**),"98,00",(v),,12347000.0,1846424894000.0,,97.99,12600000.0,1798671140000.0,,98.0,
+8,8,8,"Công ty TNHH Riverview Complex Đà Nẵng (""Công ty Riverview Đà Nẵng"")",-,-,-,-,(*),466.711.484.875,(*),"97,11",(vi),,,,,,,466711484875.0,,97.11,
+9,9,9,"Công ty TNHH Metropolis (""Công ty Metropolis"")",-,-,-,-,(*),1.621.970.350.000,(*),"100,00",(vii),,,,,,,1621970350000.0,,100.0,
+,,,TỔNG CỘNG,,6.546.213.822.000,,,,10.843.374.892.100,,,,,,6546213822000.0,,,,10843374892100.0,,,

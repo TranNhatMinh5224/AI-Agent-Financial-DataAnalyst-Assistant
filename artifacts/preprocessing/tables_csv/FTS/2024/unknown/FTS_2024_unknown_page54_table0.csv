@@ -1,0 +1,38 @@
+﻿row_label_raw,row_label_full,Items,Codes,Notes,Ending balance,Opening balance,numeric__Codes,numeric__Notes,numeric__Ending balance,numeric__Opening balance
+A,A,A,B,C,1,2,,,1.0,2.0
+C. LIABILITIES (300 = 310 + 340),C. LIABILITIES (300 = 310 + 340),C. LIABILITIES (300 = 310 + 340),300,,5.641.592.000.542,4.590.747.359.986,300.0,,5641592000542.0,4590747359986.0
+I. Current liabilities,I. Current liabilities,I. Current liabilities,310,,5.641.592.000.542,4.590.747.359.986,310.0,,5641592000542.0,4590747359986.0
+1. Borrowings and short-term financial liabilities,1. Borrowings and short-term financial liabilities,1. Borrowings and short-term financial liabilities,311,A.7.27,5.475.933.586.028,3.148.101.835.693,311.0,,5475933586028.0,3148101835693.0
+1.1. Short-term borrowings,1.1. Short-term borrowings,1.1. Short-term borrowings,312,,5.475.933.586.028,3.148.101.835.693,312.0,,5475933586028.0,3148101835693.0
+1.2. Short-term financial liabilities,1.2. Short-term financial liabilities,1.2. Short-term financial liabilities,313,,,,313.0,,,
+6. Payables to securities transaction,6. Payables to securities transaction,6. Payables to securities transaction,318,,7.371.171.602,,318.0,,7371171602.0,
+8. Short-term payment to suppliers,8. Short-term payment to suppliers,8. Short-term payment to suppliers,320,A.7.25,971.133.640,442.083.967,320.0,,971133640.0,442083967.0
+9. Short-term advance to customers,9. Short-term advance to customers,9. Short-term advance to customers,321,,4.079.400.000,4.107.218.000,321.0,,4079400000.0,4107218000.0
+10. Taxes and payables to the State,10. Taxes and payables to the State,10. Taxes and payables to the State,322,A.7.23,30.681.520.777,32.533.739.831,322.0,,30681520777.0,32533739831.0
+11. Payables to employees,11. Payables to employees,11. Payables to employees,323,,21.214.075.313,20.687.018.572,323.0,,21214075313.0,20687018572.0
+12. Employee benefits deductions,12. Employee benefits deductions,12. Employee benefits deductions,324,,2.031.858.427,1.747.928.245,324.0,,2031858427.0,1747928245.0
+13. Short-term accrued expenses,13. Short-term accrued expenses,13. Short-term accrued expenses,325,A.7.24,9.246.767.305,11.635.008.140,325.0,,9246767305.0,11635008140.0
+17. Other short-term payables,17. Other short-term payables,17. Other short-term payables,329,A.7.26,6.242.575.206,1.306.139.631.095,329.0,,6242575206.0,1306139631095.0
+18. Provisions for short-term payables,18. Provisions for short-term payables,18. Provisions for short-term payables,330,,,,330.0,,,
+19. Bonus and welfare fund,19. Bonus and welfare fund,19. Bonus and welfare fund,331,,83.819.912.244,65.352.896.443,331.0,,83819912244.0,65352896443.0
+II. Non-current liabilities,II. Non-current liabilities,II. Non-current liabilities,340,,,,340.0,,,
+D. OWNERS' EQUITY(400 = 410 + 420),D. OWNERS' EQUITY(400 = 410 + 420),D. OWNERS' EQUITY(400 = 410 + 420),400,,4.117.969.099.891,3.643.935.758.855,400.0,,4117969099891.0,3643935758855.0
+I. Owners' equity,I. Owners' equity,I. Owners' equity,410,,4.117.969.099.891,3.643.935.758.855,410.0,,4117969099891.0,3643935758855.0
+1. Paid-in capital,1. Paid-in capital,1. Paid-in capital,411,,3.059.276.408.150,2.145.732.618.150,411.0,,3059276408150.0,2145732618150.0
+1.1. Owners equity,1.1. Owners equity,1.1. Owners equity,411.1,,3.059.193.660.000,2.145.649.870.000,4111.0,,3059193660000.0,2145649870000.0
+a. Common stock with voting rights,a. Common stock with voting rights,a. Common stock with voting rights,411.1a,,3.059.193.660.000,2.145.649.870.000,,,3059193660000.0,2145649870000.0
+b. Preferred stock,b. Preferred stock,b. Preferred stock,411.1b,,,,,,,
+1.2. Share premium,b. Preferred stock > 1.2. Share premium,1.2. Share premium,411.2,,82.748.150,82.748.150,4112.0,,82748150.0,82748150.0
+1.3. Convertible bond - Equity component,b. Preferred stock > 1.3. Convertible bond - Equity component,1.3. Convertible bond - Equity component,411.3,,,,4113.0,,,
+1.4. Owners' other equity,b. Preferred stock > 1.4. Owners' other equity,1.4. Owners' other equity,411.4,,,,4114.0,,,
+1.5. Treasury shares (*),b. Preferred stock > 1.5. Treasury shares (*),1.5. Treasury shares (*),411.5,,,,4115.0,,,
+2. Difference from revaluation of assets at fair value,b. Preferred stock > 2. Difference from revaluation of assets at fair value,2. Difference from revaluation of assets at fair value,412,,,,412.0,,,
+3. Foreign exchange differences,b. Preferred stock > 3. Foreign exchange differences,3. Foreign exchange differences,413,,,,413.0,,,
+4. Authorized capital reserve fund,b. Preferred stock > 4. Authorized capital reserve fund,4. Authorized capital reserve fund,414,,,,414.0,,,
+5. Financial reserve fund and operational risk,b. Preferred stock > 5. Financial reserve fund and operational risk,5. Financial reserve fund and operational risk,415,,,,415.0,,,
+6. Other funds under the owner's equity,b. Preferred stock > 6. Other funds under the owner's equity,6. Other funds under the owner's equity,416,,,,416.0,,,
+7. Undistributed profits,b. Preferred stock > 7. Undistributed profits,7. Undistributed profits,417,A.7.31,1.058.692.691.741,1.498.203.140.705,417.0,,1058692691741.0,1498203140705.0
+7.1. Realized profits,b. Preferred stock > 7.1. Realized profits,7.1. Realized profits,417.1,,573.193.957.927,1.163.209.696.838,4171.0,,573193957927.0,1163209696838.0
+7.2. Unrealized profits,b. Preferred stock > 7.2. Unrealized profits,7.2. Unrealized profits,417.2,,485.498.733.814,334.993.443.867,4172.0,,485498733814.0,334993443867.0
+II. Funding sources and other funds,b. Preferred stock > II. Funding sources and other funds,II. Funding sources and other funds,420,,,,420.0,,,
+TOTAL LIABILITIES AND OWNERS' EQUITY(440 = 300 + 400),b. Preferred stock > TOTAL LIABILITIES AND OWNERS' EQUITY(440 = 300 + 400),TOTAL LIABILITIES AND OWNERS' EQUITY(440 = 300 + 400),440,,9.759.561.100.433,8.234.683.118.841,440.0,,9759561100433.0,8234683118841.0

@@ -1,0 +1,14 @@
+﻿row_label_raw,row_label_full,col_0,Quyền sử dụng đất,Chương trình phần mềm máy tính,Tài sản cố định khác,Cộng,numeric__Quyền sử dụng đất,numeric__Chương trình phần mềm máy tính,numeric__Tài sản cố định khác,numeric__Cộng
+Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,,,,
+Số đầu năm,Nguyên giá > Số đầu năm,Số đầu năm,686.287,97.500,10.691,794.478,686287.0,97500.0,10691.0,794478.0
+Mua trong năm,Nguyên giá > Mua trong năm,Mua trong năm,-,-,175,175,,,175.0,175.0
+Đầu tư xây dựng cơ bản hoàn thành,Nguyên giá > Đầu tư xây dựng cơ bản hoàn thành,Đầu tư xây dựng cơ bản hoàn thành,-,25.223,-,25.223,,25223.0,,25223.0
+Phân loại lại,Nguyên giá > Phân loại lại,Phân loại lại,-,(9.148),9.148,-,,-9148.0,9148.0,
+Số cuối năm,Nguyên giá > Số cuối năm,Số cuối năm,686.287,113.575,20.014,819.876,686287.0,113575.0,20014.0,819876.0
+Trong đó:,Trong đó:,Trong đó:,Trong đó:,Trong đó:,Trong đó:,Trong đó:,,,,
+Đã khấu hao hết nhưng vẫn còn sử dụng,Trong đó: > Đã khấu hao hết nhưng vẫn còn sử dụng,Đã khấu hao hết nhưng vẫn còn sử dụng,-,50.990,7.618,58.608,,50990.0,7618.0,58608.0
+Giá trị hao mòn,Giá trị hao mòn,Giá trị hao mòn,Giá trị hao mòn,Giá trị hao mòn,Giá trị hao mòn,Giá trị hao mòn,,,,
+Số đầu năm,Giá trị hao mòn > Số đầu năm,Số đầu năm,8.662,67.710,7.527,83.899,8662.0,67710.0,7527.0,83899.0
+Khấu hao trong năm,Giá trị hao mòn > Khấu hao trong năm,Khấu hao trong năm,1.821,7.928,1.153,10.902,1821.0,7928.0,1153.0,10902.0
+Phân loại lại,Giá trị hao mòn > Phân loại lại,Phân loại lại,-,(6.496),6.496,-,,-6496.0,6496.0,
+Số cuối năm,Giá trị hao mòn > Số cuối năm,Số cuối năm,10.483,69.142,15.176,94.801,10483.0,69142.0,15176.0,94801.0

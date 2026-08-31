@@ -1,0 +1,23 @@
+﻿row_label_raw,row_label_full,Mã số,col_1,Thuyết minh,Năm tài chính kết thúc ngày 31 tháng 12 năm > 2022 VND,Năm tài chính kết thúc ngày 31 tháng 12 năm > 2021 VND,numeric__col_1,numeric__Thuyết minh,numeric__Năm tài chính kết thúc ngày 31 tháng 12 năm > 2022 VND,numeric__Năm tài chính kết thúc ngày 31 tháng 12 năm > 2021 VND
+,,,LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH,LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH,LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH,LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH,,,,
+01,01,01,Lợi nhuận kế toán trước thuế Điều chỉnh cho các khoản:,,353.930.960.221,333.187.953.158,,,353930960221.0,333187953158.0
+02,02,02,Khấu hao tài sản cố định,,283.718.402.007,262.008.692.262,,,283718402007.0,262008692262.0
+03,03,03,Các khoản dự phòng,,-,(161.854.500),,,,-161854500.0
+05,05,05,Lãi từ hoạt động đầu tư,,(58.166.950.392),(56.308.557.339),,,-58166950392.0,-56308557339.0
+06,06,06,Chi phí lãi vay,,647.600.236.079,550.795.413.210,,,647600236079.0,550795413210.0
+08,08,08,Lợi nhuận từ hoạt động kinh doanh trước những thay đổi vốn lưu động,,1.227.082.647.915,1.089.521.646.791,,,1227082647915.0,1089521646791.0
+09,09,09,Giảm/(tăng) các khoản phải thu,,54.698.195.030,(136.557.326.662),,,54698195030.0,-136557326662.0
+10,10,10,(Tăng)/giảm hàng tồn kho,,(122.462.046.710),34.439.454.665,,,-122462046710.0,34439454665.0
+11,11,11,"Tăng/(giảm) các khoản phải trả [không kể lãi vay phải trả, thuế TNDN phải nộp]",,72.942.930.052,(172.773.084.602),,,72942930052.0,-172773084602.0
+12,12,12,(Tăng)/giảm chi phí trả trước,,(3.447.703.216),5.145.105.837,,,-3447703216.0,5145105837.0
+14,14,14,Tiền lãi vay đã trả,,(827.555.226.137),(641.036.577.482),,,-827555226137.0,-641036577482.0
+15,15,15,Thuế thu nhập doanh nghiệp đã nộp,,(36.138.362.996),(17.553.062.468),,,-36138362996.0,-17553062468.0
+16,16,16,Tiền thu khác từ hoạt động kinh doanh,,-,1.036.000.000,,,,1036000000.0
+20,20,20,Lưu chuyển tiền thuần từ hoạt động kinh doanh,,365.120.433.938,162.222.156.079,,,365120433938.0,162222156079.0
+,,,LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TƯ,LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TƯ,LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TƯ,LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TƯ,,,,
+21,21,21,"Chi để mua sắm, xây dựng TSCĐ và các tài sản dài hạn khác",,(196.901.788.609),(238.841.815.462),,,-196901788609.0,-238841815462.0
+22,22,22,"Thu từ thanh lý, nhượng bán TSCĐ và tài sản dài hạn khác",,(2.700.000.000),38.171.000.000,,,-2700000000.0,38171000000.0
+23,23,23,"Chi cho vay, mua các công cụ nợ của đơn vị khác",,-,(1.000.000.000),,,,-1000000000.0
+25,25,25,Chi đầu tư góp vốn vào đơn vị khác,,-,(19.000.000.000),,,,-19000000000.0
+27,27,27,"Thu lãi cho vay, cổ tức và lợi nhuận được chia",,5.444.505.906,21.826.327.951,,,5444505906.0,21826327951.0
+30,30,30,Lưu chuyển tiền thuần từ hoạt động đầu tư,,(194.157.282.703),(198.844.487.511),,,-194157282703.0,-198844487511.0

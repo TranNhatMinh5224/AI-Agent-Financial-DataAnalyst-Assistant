@@ -1,0 +1,10 @@
+﻿row_label_raw,row_label_full,col_0,Tiền gửi tại Ngân hàng Nhà nước Triệu VND,Tiền gửi và cho vay các TCTD khác Triệu VND,Chứng khoán nợ kinh doanh Triệu VND,Cho vay khách hàng Triệu VND,Chứng khoán nợ đầu tư Triệu VND,Các tài sản tài chính khác Triệu VND,Tổng cộng Triệu VND,numeric__Tiền gửi tại Ngân hàng Nhà nước Triệu VND,numeric__Tiền gửi và cho vay các TCTD khác Triệu VND,numeric__Chứng khoán nợ kinh doanh Triệu VND,numeric__Cho vay khách hàng Triệu VND,numeric__Chứng khoán nợ đầu tư Triệu VND,numeric__Các tài sản tài chính khác Triệu VND,numeric__Tổng cộng Triệu VND
+Chưa quả hạn và chưa bị suy giảm giá trị,Chưa quả hạn và chưa bị suy giảm giá trị,Chưa quả hạn và chưa bị suy giảm giá trị,18.504.709,111.175.983,5.879.766,468.832.278,73.450.686,7.135.909,684.979.331,18504709.0,111175983.0,5879766.0,468832278.0,73450686.0,7135909.0,684979331.0
+Đã quả hạn nhưng chưa bị suy giảm giá trị,Đã quả hạn nhưng chưa bị suy giảm giá trị,Đã quả hạn nhưng chưa bị suy giảm giá trị,-,-,-,2.582.603,-,249,2.582.852,,,,2582603.0,,249.0,2582852.0
+Đã quả hạn và bị suy giảm giá trị,Đã quả hạn và bị suy giảm giá trị,Đã quả hạn và bị suy giảm giá trị,-,50.000,-,9.861.257,-,176.450,10.087.707,,50000.0,,9861257.0,,176450.0,10087707.0
+Trừ: Dự phòng rủi ro,Trừ: Dự phòng rủi ro,Trừ: Dự phòng rủi ro,-,(50.000),-,(5.213.620),-,(172.693),(5.436.313),,-50000.0,,-5213620.0,,-172693.0,-5436313.0
+Giá trị ròng,Giá trị ròng,Giá trị ròng,18.504.709,111.175.983,5.879.766,476.062.518,73.450.686,7.139.915,692.213.577,18504709.0,111175983.0,5879766.0,476062518.0,73450686.0,7139915.0,692213577.0
+Dự phòng rủi ro,Dự phòng rủi ro,Dự phòng rủi ro,,,,,,,,,,,,,,
+Dự phòng cụ thể,Dự phòng rủi ro > Dự phòng cụ thể,Dự phòng cụ thể,-,(50.000),-,(1.634.223),-,-,(1.684.223),,-50000.0,,-1634223.0,,,-1684223.0
+Dự phòng chung,Dự phòng rủi ro > Dự phòng chung,Dự phòng chung,-,-,-,(3.579.397),-,-,(3.579.397),,,,-3579397.0,,,-3579397.0
+Dự phòng rủi ro khác,Dự phòng rủi ro > Dự phòng rủi ro khác,Dự phòng rủi ro khác,-,-,-,-,-,(172.693),(172.693),,,,,,-172693.0,-172693.0

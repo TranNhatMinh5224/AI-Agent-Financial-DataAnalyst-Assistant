@@ -1,0 +1,15 @@
+﻿row_label_raw,row_label_full,col_0,Opening balance,Payables during the year,Paid during the year,Closing balance,numeric__Opening balance,numeric__Payables during the year,numeric__Paid during the year,numeric__Closing balance
+,,,VND,VND,VND,VND,,,,
+a. Receivables,a. Receivables,a. Receivables,a. Receivables,a. Receivables,a. Receivables,a. Receivables,,,,
+Import duty,Import duty,Import duty,"34,802,628",-,-,"34,802,628",,,,
+,,,"34,802,628",-,-,"34,802,628",,,,
+b. Payables,b. Payables,b. Payables,b. Payables,b. Payables,b. Payables,b. Payables,,,,
+Value added tax (VAT),Value added tax (VAT),Value added tax (VAT),"2,843,172","28,308,089,081","28,308,639,081","2,293,172",,,,
+- Output VAT,Value added tax (VAT) > - Output VAT,- Output VAT,"551,000","28,308,089,081","28,308,639,081","1,000",551.0,,,1.0
+- VAT on imported goods,- VAT on imported goods,- VAT on imported goods,"2,292,172",-,-,"2,292,172",,,,
+Corporate income tax,Corporate income tax,Corporate income tax,"(695,276,425)","8,808,174,070","5,000,000,001","3,112,897,644",,,,
+Other taxes,Other taxes,Other taxes,"1,708,667,965","80,716,246,176","81,182,882,718","1,242,031,423",,,,
+License tax,License tax,License tax,-,"4,000,000","4,000,000",-,,,,
+Personal income tax,Personal income tax,Personal income tax,"1,652,648,182","43,356,018,742","43,820,562,793","1,188,104,131",,,,
+Other taxes,Other taxes,Other taxes,"56,019,783","37,356,227,434","37,358,319,925","53,927,292",,,,
+,,,"1,016,234,712","117,832,509,327","114,491,521,800","4,357,222,239",,,,

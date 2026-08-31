@@ -1,0 +1,15 @@
+﻿row_label_raw,row_label_full,Chi tiêu,Chi tiêu_1,Quá hạn,Quá hạn_1,Trong hạn,Trong hạn_1,Trong hạn_2,Trong hạn_3,Trong hạn_4,Tổng,numeric__Chi tiêu_1,numeric__Quá hạn,numeric__Quá hạn_1,numeric__Trong hạn,numeric__Trong hạn_1,numeric__Trong hạn_2,numeric__Trong hạn_3,numeric__Trong hạn_4,numeric__Tổng
+Chi tiêu,Chi tiêu,Chi tiêu,Chi tiêu,Trên 03 tháng,Đến 03 tháng,Đến 01 tháng,Từ trên 01 đến 03 tháng,Từ trên 03 đến 12 tháng,Từ trên 01 đến 05 năm,Trên 05 năm,Tổng,,,,,,,,,
+Chi tiêu,Chi tiêu,Chi tiêu,Chi tiêu,Triệu VND,Triệu VND,Triệu VND,Triệu VND,Triệu VND,Triệu VND,Triệu VND,Triệu VND,,,,,,,,,
+TÀI SẢN,TÀI SẢN,TÀI SẢN,TÀI SẢN,TÀI SẢN,TÀI SẢN,TÀI SẢN,TÀI SẢN,TÀI SẢN,TÀI SẢN,TÀI SẢN,TÀI SẢN,,,,,,,,,
+I,TÀI SẢN > I,I,"Tiền mặt, vàng bạc, đá quý",-,-,638.946,-,-,-,-,638.946,,,,638946.0,,,,,638946.0
+II,TÀI SẢN > II,II,Tiền gửi tại NHNN,-,-,730.267,-,-,-,-,730.267,,,,730267.0,,,,,730267.0
+III,TÀI SẢN > III,III,"Tiền, vàng gửi và cho vay các TCTD khác (*)",-,-,9.778.379,2.000.000,-,-,600.996,12.379.375,,,,9778379.0,2000000.0,,,600996.0,12379375.0
+IV,TÀI SẢN > IV,IV,Chứng khoán kinh doanh (*),-,-,1.036.500,850.000,3.030.000,2.920.000,-,7.836.500,,,,1036500.0,850000.0,3030000.0,2920000.0,,7836500.0
+V,TÀI SẢN > V,V,Các công cụ tài chính phải sinh và các tài sản tài chính khác (*),-,-,9.739,-,-,-,-,9.739,,,,9739.0,,,,,9739.0
+VI,TÀI SẢN > VI,VI,Cho vay khách hàng (*),268.964,403.446,8.912.660,10.338.685,15.726.885,32.296.004,11.493.779,79.440.423,,268964.0,403446.0,8912660.0,10338685.0,15726885.0,32296004.0,11493779.0,79440423.0
+VII,TÀI SẢN > VII,VII,Chứng khoán đầu tư (*),-,-,100.023,2.549.901,3.388.131,2.645.812,4.548.578,13.232.445,,,,100023.0,2549901.0,3388131.0,2645812.0,4548578.0,13232445.0
+VIII,TÀI SẢN > VIII,VIII,"Góp vốn, đầu tư dài hạn (*)",-,-,-,-,-,195.660,,195.660,,,,,,,195660.0,,195660.0
+IX,TÀI SẢN > IX,IX,Tài sản cố định và bất động sản đầu tư,-,-,-,-,-,199.426,530.271,729.697,,,,,,,199426.0,530271.0,729697.0
+X,TÀI SẢN > X,X,Tài sản có khác (*),-,-,294.224,1.128.789,1.410.986,-,-,2.833.999,,,,294224.0,1128789.0,1410986.0,,,2833999.0
+Tổng tài sản,TÀI SẢN > Tổng tài sản,Tổng tài sản,Tổng tài sản,268.964,403.446,21.500.738,16.867.375,23.556.002,38.256.902,17.173.624,118.027.051,,268964.0,403446.0,21500738.0,16867375.0,23556002.0,38256902.0,17173624.0,118027051.0

@@ -1,0 +1,24 @@
+﻿row_label_raw,row_label_full,col_0,Mã số,Thuyết minh,31/12/2016 VND,1/1/2016 VND Đã điều chỉnh lại,numeric__Mã số,numeric__Thuyết minh,numeric__31/12/2016 VND,numeric__1/1/2016 VND Đã điều chỉnh lại
+NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,,,,
+NỘ PHẢI TRẢ (300 = 310 + 330),NGUỒN VỐN > NỘ PHẢI TRẢ (300 = 310 + 330),NỘ PHẢI TRẢ (300 = 310 + 330),300,,12.199.952.761.421,11.456.227.312.864,300.0,,12199952761421.0,11456227312864.0
+Nợ ngắn hạn,NGUỒN VỐN > Nợ ngắn hạn,Nợ ngắn hạn,310,,6.882.415.310.550,6.856.189.696.058,310.0,,6882415310550.0,6856189696058.0
+Phải trả người bán ngắn hạn,NGUỒN VỐN > Phải trả người bán ngắn hạn,Phải trả người bán ngắn hạn,311,21,1.271.169.240.648,1.203.491.557.996,311.0,21.0,1271169240648.0,1203491557996.0
+Người mua trả tiền trước ngắn hạn,NGUỒN VỐN > Người mua trả tiền trước ngắn hạn,Người mua trả tiền trước ngắn hạn,312,,88.424.737.403,83.310.603.078,312.0,,88424737403.0,83310603078.0
+Thuế và các khoản phải nộp Nhà nước,NGUỒN VỐN > Thuế và các khoản phải nộp Nhà nước,Thuế và các khoản phải nộp Nhà nước,313,22(b),93.848.959.150,105.700.117.873,313.0,,93848959150.0,105700117873.0
+Phải trả người lao động,NGUỒN VỐN > Phải trả người lao động,Phải trả người lao động,314,,486.933.807.748,561.035.504.008,314.0,,486933807748.0,561035504008.0
+Chi phí phải trả ngắn hạn,NGUỒN VỐN > Chi phí phải trả ngắn hạn,Chi phí phải trả ngắn hạn,315,23(a),175.649.205.078,188.889.816.832,315.0,,175649205078.0,188889816832.0
+Doanh thu chưa thực hiện ngắn hạn,NGUỒN VỐN > Doanh thu chưa thực hiện ngắn hạn,Doanh thu chưa thực hiện ngắn hạn,318,,818.362.962,6.833.858.515,318.0,,818362962.0,6833858515.0
+Phải trả ngắn hạn khác,NGUỒN VỐN > Phải trả ngắn hạn khác,Phải trả ngắn hạn khác,319,24(a),604.454.028.623,684.215.591.558,319.0,,604454028623.0,684215591558.0
+Vay và nợ thuê tài chính ngắn hạn,NGUỒN VỐN > Vay và nợ thuê tài chính ngắn hạn,Vay và nợ thuê tài chính ngắn hạn,320,26(a),4.021.595.561.126,3.884.716.676.655,320.0,,4021595561126.0,3884716676655.0
+Dự phòng phải trả ngắn hạn,NGUỒN VỐN > Dự phòng phải trả ngắn hạn,Dự phòng phải trả ngắn hạn,321,27,,4.717.381.547,321.0,27.0,,4717381547.0
+"Quỹ khen thưởng, phúc lợi","NGUỒN VỐN > Quỹ khen thưởng, phúc lợi","Quỹ khen thưởng, phúc lợi",322,28,139.521.407.812,133.278.587.996,322.0,28.0,139521407812.0,133278587996.0
+Nợ dài hạn,NGUỒN VỐN > Nợ dài hạn,Nợ dài hạn,330,,5.317.537.450.871,4.600.037.616.806,330.0,,5317537450871.0,4600037616806.0
+Phải trả người bán dài hạn,NGUỒN VỐN > Phải trả người bán dài hạn,Phải trả người bán dài hạn,331,21,15.920.738.161,21.780.241.292,331.0,21.0,15920738161.0,21780241292.0
+Người mua trả tiền trước dài hạn,NGUỒN VỐN > Người mua trả tiền trước dài hạn,Người mua trả tiền trước dài hạn,332,,22.844.764.105,23.501.600.000,332.0,,22844764105.0,23501600000.0
+Chi phí phải trả dài hạn,NGUỒN VỐN > Chi phí phải trả dài hạn,Chi phí phải trả dài hạn,333,23(b),26.562.816.000,28.794.411.822,333.0,,26562816000.0,28794411822.0
+Doanh thu chưa thực hiện dài hạn,NGUỒN VỐN > Doanh thu chưa thực hiện dài hạn,Doanh thu chưa thực hiện dài hạn,336,25,140.636.004.076,85.619.062.376,336.0,25.0,140636004076.0,85619062376.0
+Phải trả dài hạn khác,NGUỒN VỐN > Phải trả dài hạn khác,Phải trả dài hạn khác,337,24(b),138.799.092.807,55.439.098.840,337.0,,138799092807.0,55439098840.0
+"Vay, trái phiếu phát hành và nợ thuê tài chính dài hạn","NGUỒN VỐN > Vay, trái phiếu phát hành và nợ thuê tài chính dài hạn","Vay, trái phiếu phát hành và nợ thuê tài chính dài hạn",338,26(b),4.818.025.937.605,4.221.370.382.990,338.0,,4818025937605.0,4221370382990.0
+Thuế thu nhập hoãn lại phải trả,NGUỒN VỐN > Thuế thu nhập hoãn lại phải trả,Thuế thu nhập hoãn lại phải trả,341,19,64.896.986.719,46.007.444.456,341.0,19.0,64896986719.0,46007444456.0
+Dự phòng phải trả dài hạn,NGUỒN VỐN > Dự phòng phải trả dài hạn,Dự phòng phải trả dài hạn,342,27,89.675.918.318,117.290.115.751,342.0,27.0,89675918318.0,117290115751.0
+Quỹ phát triển khoa học và công nghệ,NGUỒN VỐN > Quỹ phát triển khoa học và công nghệ,Quỹ phát triển khoa học và công nghệ,343,,175.193.080,235.259.279,343.0,,175193080.0,235259279.0

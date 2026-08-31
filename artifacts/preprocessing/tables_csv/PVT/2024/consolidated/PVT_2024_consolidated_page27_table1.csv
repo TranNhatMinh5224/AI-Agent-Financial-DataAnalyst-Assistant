@@ -1,0 +1,14 @@
+﻿row_label_raw,row_label_full,col_0,Số đầu nămVND,Số phàinộp/thu trong nămVND,Số đã thựcnộp/thu trong nămVND,Số cuối nămVND,numeric__Số đầu nămVND,numeric__Số phàinộp/thu trong nămVND,numeric__Số đã thựcnộp/thu trong nămVND,numeric__Số cuối nămVND
+a. Các khoản phải thu,a. Các khoản phải thu,a. Các khoản phải thu,a. Các khoản phải thu,a. Các khoản phải thu,a. Các khoản phải thu,a. Các khoản phải thu,,,,
+Thuế giá trị gia tăng,a. Các khoản phải thu > Thuế giá trị gia tăng,Thuế giá trị gia tăng,18.995.773,-,-,18.995.773,18995773.0,,,18995773.0
+Thuế thu nhập doanh nghiệp,a. Các khoản phải thu > Thuế thu nhập doanh nghiệp,Thuế thu nhập doanh nghiệp,12.508.007.181,(12.508.007.181),-,-,12508007181.0,-12508007181.0,,
+Các loại thuế khác,a. Các khoản phải thu > Các loại thuế khác,Các loại thuế khác,365.951.349,(365.451.349),-,500.000,365951349.0,-365451349.0,,500000.0
+,,,12.892.954.303,(12.873.458.530),-,19.495.773,12892954303.0,-12873458530.0,,19495773.0
+b. Các khoản phải trả,b. Các khoản phải trả,b. Các khoản phải trả,b. Các khoản phải trả,b. Các khoản phải trả,b. Các khoản phải trả,b. Các khoản phải trả,,,,
+Thuế giá trị gia tăng,b. Các khoản phải trả > Thuế giá trị gia tăng,Thuế giá trị gia tăng,21.373.152.850,178.526.397.891,185.448.352.323,14.451.198.418,21373152850.0,178526397891.0,185448352323.0,14451198418.0
+"Thuế xuất, nhập khẩu","b. Các khoản phải trả > Thuế xuất, nhập khẩu","Thuế xuất, nhập khẩu",-,30.805.182.940,30.805.182.940,-,,30805182940.0,30805182940.0,
+Thuế thu nhập doanh nghiệp,b. Các khoản phải trả > Thuế thu nhập doanh nghiệp,Thuế thu nhập doanh nghiệp,61.241.367.677,384.396.420.736,299.108.048.875,146.529.739.538,61241367677.0,384396420736.0,299108048875.0,146529739538.0
+Thuế thu nhập cá nhân,b. Các khoản phải trả > Thuế thu nhập cá nhân,Thuế thu nhập cá nhân,5.844.213.828,39.634.883.983,37.439.742.791,8.039.355.020,5844213828.0,39634883983.0,37439742791.0,8039355020.0
+Thuế nhà thầu,b. Các khoản phải trả > Thuế nhà thầu,Thuế nhà thầu,1.428.108,9.212.965.185,9.210.969.252,3.424.041,1428108.0,9212965185.0,9210969252.0,3424041.0
+Các loại thuế khác,b. Các khoản phải trả > Các loại thuế khác,Các loại thuế khác,-,2.476.299.956,2.433.006.432,43.293.524,,2476299956.0,2433006432.0,43293524.0
+,,,88.460.162.463,645.052.150.691,564.445.302.613,169.067.010.541,88460162463.0,645052150691.0,564445302613.0,169067010541.0

@@ -1,0 +1,34 @@
+﻿row_label_raw,row_label_full,col_0,CHỈ TIÊU,Mã số,Năm nay,Năm trước,numeric__CHỈ TIÊU,numeric__Mã số,numeric__Năm nay,numeric__Năm trước
+I.,I.,I.,LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH,LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH,LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH,LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH,,,,
+1.,I. > 1.,1.,Lợi nhuận trước thuế,01,1.389.275.799.408,1.827.539.442.110,,1.0,1389275799408.0,1827539442110.0
+2.,2.,2.,Điều chỉnh cho các khoản:,Điều chỉnh cho các khoản:,Điều chỉnh cho các khoản:,Điều chỉnh cho các khoản:,,,,
+2.,2. > 2.,2.,Khấu hao tài sản cố định,02,377.150.438.511,363.833.020.615,,2.0,377150438511.0,363833020615.0
+2.,2. > 2.,2.,Các khoản dự phòng,03,93.295.585,623.661.077,,3.0,93295585.0,623661077.0
+2.,2. > 2.,2.,Lãi chênh lệch tỷ giá hối đoái do đánh giá lạicác khoản mục tiền tệ có gốc ngoại tệ,04,(24.661.703.217),(68.180.248.328),,4.0,-24661703217.0,-68180248328.0
+2.,2. > 2.,2.,Lãi từ hoạt động đầu tư,05,(133.226.493.159),(138.562.433.794),,5.0,-133226493159.0,-138562433794.0
+2.,2. > 2.,2.,Chi phí lãi vay,06,58.729.852.906,64.139.997.242,,6.0,58729852906.0,64139997242.0
+3.,2. > 3.,3.,Lợi nhuận từ hoạt động kinh doanh trướcthay đổi vốn lưu động,08,1.667.361.190.034,2.049.393.438.922,,8.0,1667361190034.0,2049393438922.0
+3.,2. > 3.,3.,"Tăng, giảm các khoản phải thu",09,(661.224.774.417),9.849.707.305,,9.0,-661224774417.0,9849707305.0
+3.,2. > 3.,3.,"Tăng, giảm hàng tồn kho",10,2.604.095.302,(3.595.337.503),,10.0,2604095302.0,-3595337503.0
+3.,2. > 3.,3.,"Tăng, giảm các khoản phải trả (Không kể lãi vayphải trả, thuế thu nhập doanh nghiệp phải nộp)",11,(68.951.483.588),7.308.474.237,,11.0,-68951483588.0,7308474237.0
+3.,2. > 3.,3.,"Tăng, giảm chi phí trả trước",12,(10.960.659.551),(22.283.254.349),,12.0,-10960659551.0,-22283254349.0
+3.,2. > 3.,3.,Tiền lãi vay đã trả,14,(59.333.213.769),(74.238.317.737),,14.0,-59333213769.0,-74238317737.0
+3.,2. > 3.,3.,Thuế thu nhập doanh nghiệp đã nộp,15,(242.444.687.961),(392.493.477.328),,15.0,-242444687961.0,-392493477328.0
+3.,2. > 3.,3.,Tiền chi khác cho hoạt động kinh doanh,17,(48.819.069.037),(28.875.148.383),,17.0,-48819069037.0,-28875148383.0
+3.,2. > 3.,3.,Lưu chuyển tiền thuần từ hoạt động kinh doanh,20,578.231.397.013,1.545.066.085.164,,20.0,578231397013.0,1545066085164.0
+II.,II.,II.,LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TƯ,LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TƯ,LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TƯ,LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TƯ,,,,
+1.,II. > 1.,1.,"Tiền chi mua sắm, xây dựng TSCĐ vàcác tài sản dài hạn khác",21,(26.891.035.150),(11.645.858.986),,21.0,-26891035150.0,-11645858986.0
+2.,II. > 2.,2.,"Tiền thu thanh lý, nhượng bán TSCĐ vàcác tài sản dài hạn khác",22,-,223.782.561,,22.0,,223782561.0
+3.,II. > 3.,3.,"Tiền chi cho vay, mua công cụ nợ của đơn vị khác",23,(100.000.000.000),(300.000.000.000),,23.0,-100000000000.0,-300000000000.0
+4.,II. > 4.,4.,"Tiền thu hồi cho vay, bán lại các công cụ nợ củadơn vị khác",24,402.980.000.000,812.620.748.152,,24.0,402980000000.0,812620748152.0
+5.,II. > 5.,5.,"Tiền thu lãi cho vay, cổ tức và lợi nhuận được chiaLưu chuyển tiền thuần từ hoạt động đầu tư",27,135.509.044.545,57.788.571.215,,27.0,135509044545.0,57788571215.0
+5.,II. > 5.,5.,"Tiền thu lãi cho vay, cổ tức và lợi nhuận được chiaLưu chuyển tiền thuần từ hoạt động đầu tư",30,411.598.009.395,558.987.242.942,,30.0,411598009395.0,558987242942.0
+III.,III.,III.,LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG TÀI CHÍNH,LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG TÀI CHÍNH,LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG TÀI CHÍNH,LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG TÀI CHÍNH,,,,
+1.,III. > 1.,1.,Tiền trả nợ gốc vay,34,(221.295.679.292),(206.679.219.305),,34.0,-221295679292.0,-206679219305.0
+2.,III. > 2.,2.,"Cổ tức, lợi nhuận đã trả cho chủ sở hữu",36,(1.440.960.000.000),(1.423.130.860.277),,36.0,-1440960000000.0,-1423130860277.0
+2.,III. > 2.,2.,Lưu chuyển tiền thuần từ hoạt động tài chính,40,(1.662.255.679.292),(1.629.810.079.582),,40.0,-1662255679292.0,-1629810079582.0
+2.,III. > 2.,2.,Lưu chuyển tiền thuần trong năm (50=20+30+40),50,(672.426.272.884),474.243.248.524,,50.0,-672426272884.0,474243248524.0
+2.,III. > 2.,2.,Tiền và tương đương tiền đầu năm,60,1.208.606.920.989,734.363.672.465,,60.0,1208606920989.0,734363672465.0
+2.,III. > 2.,2.,Ảnh hưởng của thay đổi tỷ giá hối đoáiquy đối ngoại tệ,61,5.643.258,-,,61.0,5643258.0,
+2.,III. > 2.,2.,Tiền và tương đương tiền cuối năm(70=50+60 + 61),70,536.186.291.363,1.208.606.920.989,,70.0,536186291363.0,1208606920989.0
+Lê Xuân PhongNgười lập biểu,Lê Xuân PhongNgười lập biểu,Lê Xuân PhongNgười lập biểu,Lê Xuân PhongNgười lập biểu,Phạm Thị Hồng HàKế toán trường,Động Văn CườngTổng Giám đốc,Động Văn CườngTổng Giám đốc,,,,

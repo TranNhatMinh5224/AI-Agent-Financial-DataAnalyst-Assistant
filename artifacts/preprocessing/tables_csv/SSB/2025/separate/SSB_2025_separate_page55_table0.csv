@@ -1,0 +1,12 @@
+﻿row_label_raw,row_label_full,col_0,Năm tài chính kết thúc ngày,Năm tài chính kết thúc ngày_1,numeric__Năm tài chính kết thúc ngày,numeric__Năm tài chính kết thúc ngày_1
+,,,31.12.2025Triệu đồng,31.12.2024Triệu đồng,,
+Lợi nhuận kế toán trước thuế TNDN,Lợi nhuận kế toán trước thuế TNDN,Lợi nhuận kế toán trước thuế TNDN,6.742.185,5.909.471,6742185.0,5909471.0
+Thuế tính ở thuế suất 20%,Thuế tính ở thuế suất 20%,Thuế tính ở thuế suất 20%,1.348.437,1.181.894,1348437.0,1181894.0
+Điều chỉnh:,Điều chỉnh:,Điều chỉnh:,,,,
+Thu nhập không chịu thuế,Điều chỉnh: > Thu nhập không chịu thuế,Thu nhập không chịu thuế,(2.742),(279),-2742.0,-279.0
+Chi phí không được khấu trừ,Điều chỉnh: > Chi phí không được khấu trừ,Chi phí không được khấu trừ,134,346,134.0,346.0
+Chi phí thuế TNDN,Điều chỉnh: > Chi phí thuế TNDN,Chi phí thuế TNDN,1.345.829,1.181.961,1345829.0,1181961.0
+Chi phí thuế TNDN ghi nhận trong báo cáo kết quả hoạt động riêng:,Chi phí thuế TNDN ghi nhận trong báo cáo kết quả hoạt động riêng:,Chi phí thuế TNDN ghi nhận trong báo cáo kết quả hoạt động riêng:,,,,
+Chi phí thuế TNDN - hiện hành,Chi phí thuế TNDN ghi nhận trong báo cáo kết quả hoạt động riêng: > Chi phí thuế TNDN - hiện hành,Chi phí thuế TNDN - hiện hành,1.345.829,1.181.961,1345829.0,1181961.0
+Thu nhập thuế TNDN - hoãn lại,Thu nhập thuế TNDN - hoãn lại,Thu nhập thuế TNDN - hoãn lại,-,-,,
+Chi phí thuế TNDN (*),Thu nhập thuế TNDN - hoãn lại > Chi phí thuế TNDN (*),Chi phí thuế TNDN (*),1.345.829,1.181.961,1345829.0,1181961.0

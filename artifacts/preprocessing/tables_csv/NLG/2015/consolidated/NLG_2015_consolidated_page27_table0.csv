@@ -1,0 +1,22 @@
+﻿row_label_raw,row_label_full,col_0,VNDGiá trị hợp lý ghi nhận tại ngày mua,numeric__VNDGiá trị hợp lý ghi nhận tại ngày mua
+Tải sản,Tải sản,Tải sản,Tải sản,
+Tiền và các khoản tương đương tiền,Tải sản > Tiền và các khoản tương đương tiền,Tiền và các khoản tương đương tiền,37.084.874.436,37084874436.0
+Hàng tồn kho,Tải sản > Hàng tồn kho,Hàng tồn kho,354.563.500.000,354563500000.0
+Tải sản khác,Tải sản > Tải sản khác,Tải sản khác,1.653.157.888,1653157888.0
+Nợ phải trả,Nợ phải trả,Nợ phải trả,Nợ phải trả,
+Phải trả người bán,Nợ phải trả > Phải trả người bán,Phải trả người bán,3.255.000.000,3255000000.0
+Thuế thu nhập hoãn lại phải trả,Nợ phải trả > Thuế thu nhập hoãn lại phải trả,Thuế thu nhập hoãn lại phải trả,7.869.500.000,7869500000.0
+Phải trả khác,Nợ phải trả > Phải trả khác,Phải trả khác,604.000.000,604000000.0
+Nợ vay ngắn hạn,Nợ phải trả > Nợ vay ngắn hạn,Nợ vay ngắn hạn,1.632.000.000,1632000000.0
+Nợ vay dài hạn,Nợ phải trả > Nợ vay dài hạn,Nợ vay dài hạn,20.036.000.000,20036000000.0
+Phải trả khác,Nợ phải trả > Phải trả khác,Phải trả khác,40.270.937.324,40270937324.0
+Tổng tài sản thuần theo giá trị hợp lý,Nợ phải trả > Tổng tài sản thuần theo giá trị hợp lý,Tổng tài sản thuần theo giá trị hợp lý,319.634.095.000,319634095000.0
+Lãi từ giao dịch mua giả rê,Nợ phải trả > Lãi từ giao dịch mua giả rê,Lãi từ giao dịch mua giả rê,(1.421.206.235),-1421206235.0
+Tổng giá phi hợp nhất kinh doanh đã thanh toán,Nợ phải trả > Tổng giá phi hợp nhất kinh doanh đã thanh toán,Tổng giá phi hợp nhất kinh doanh đã thanh toán,318.212.888.765,318212888765.0
+Trong đó:,Trong đó:,Trong đó:,Trong đó:,
+- Giá trị của khoản đầu tư trong ASPL đến ngày mua,Trong đó: > - Giá trị của khoản đầu tư trong ASPL đến ngày mua,- Giá trị của khoản đầu tư trong ASPL đến ngày mua,133.047.209.351,133047209351.0
+- Tiến chỉ để mua công ty con,Trong đó: > - Tiến chỉ để mua công ty con,- Tiến chỉ để mua công ty con,185.165.679.414,185165679414.0
+Thông tin lưu chuyển tiền tệ từ việc mua công ty con,Thông tin lưu chuyển tiền tệ từ việc mua công ty con,Thông tin lưu chuyển tiền tệ từ việc mua công ty con,Thông tin lưu chuyển tiền tệ từ việc mua công ty con,
+Tiền thu về từ công ty con,Thông tin lưu chuyển tiền tệ từ việc mua công ty con > Tiền thu về từ công ty con,Tiền thu về từ công ty con,37.084.874.436,37084874436.0
+Tiền chỉ để mua công ty con,Thông tin lưu chuyển tiền tệ từ việc mua công ty con > Tiền chỉ để mua công ty con,Tiền chỉ để mua công ty con,(185.165.679.414),-185165679414.0
+Tổng tiền thuần đã thanh toán cho nghiệp vụ mua,Thông tin lưu chuyển tiền tệ từ việc mua công ty con > Tổng tiền thuần đã thanh toán cho nghiệp vụ mua,Tổng tiền thuần đã thanh toán cho nghiệp vụ mua,(148.080.804.978),-148080804978.0

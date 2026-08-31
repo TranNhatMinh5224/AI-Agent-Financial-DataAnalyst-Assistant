@@ -1,0 +1,11 @@
+﻿row_label_raw,row_label_full,col_0,Tăng/ giảm điểm cơ bản,VNDẢnh hưởng đến lợi nhuận trước thuế,numeric__Tăng/ giảm điểm cơ bản,numeric__VNDẢnh hưởng đến lợi nhuận trước thuế
+Năm nay,Năm nay,Năm nay,Năm nay,Năm nay,,
+USD,Năm nay > USD,USD,+50,(15.502.726.948),50.0,-15502726948.0
+VND,Năm nay > VND,VND,+100,(22.210.677.763),100.0,-22210677763.0
+USD,Năm nay > USD,USD,-50,15.502.726.948,-50.0,15502726948.0
+VND,Năm nay > VND,VND,-100,22.210.677.763,-100.0,22210677763.0
+Năm trước,Năm trước,Năm trước,Năm trước,Năm trước,,
+USD,Năm trước > USD,USD,+50,(15.876.483.184),50.0,-15876483184.0
+VND,Năm trước > VND,VND,+100,(12.853.892.608),100.0,-12853892608.0
+USD,Năm trước > USD,USD,-50,15.876.483.184,-50.0,15876483184.0
+VND,Năm trước > VND,VND,-100,12.853.892.608,-100.0,12853892608.0

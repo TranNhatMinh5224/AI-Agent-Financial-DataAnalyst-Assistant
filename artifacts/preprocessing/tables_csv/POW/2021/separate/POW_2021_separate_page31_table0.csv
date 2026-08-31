@@ -1,0 +1,14 @@
+﻿row_label_raw,row_label_full,col_0,Số đầu năm,Số phải nộp/bù trừ trong năm,Số đã nộp trong năm,Số cuối năm,numeric__Số đầu năm,numeric__Số phải nộp/bù trừ trong năm,numeric__Số đã nộp trong năm,numeric__Số cuối năm
+,,,VND,VND,VND,VND,,,,
+a. Các khoản phải thu,a. Các khoản phải thu,a. Các khoản phải thu,a. Các khoản phải thu,a. Các khoản phải thu,a. Các khoản phải thu,a. Các khoản phải thu,,,,
+Thuế giá trị gia tăng,a. Các khoản phải thu > Thuế giá trị gia tăng,Thuế giá trị gia tăng,-,-,30.033.095.271,30.033.095.271,,,30033095271.0,30033095271.0
+Thuế thu nhập doanh nghiệp,a. Các khoản phải thu > Thuế thu nhập doanh nghiệp,Thuế thu nhập doanh nghiệp,-,-,104.986.260.843,104.986.260.843,,,104986260843.0,104986260843.0
+Các loại thuế khác,a. Các khoản phải thu > Các loại thuế khác,Các loại thuế khác,-,-,13.550.965,13.550.965,,,13550965.0,13550965.0
+,,,-,-,135.019.356.114,135.032.907.079,,,135019356114.0,135032907079.0
+b. Các khoản phải trả,b. Các khoản phải trả,b. Các khoản phải trả,b. Các khoản phải trả,b. Các khoản phải trả,b. Các khoản phải trả,b. Các khoản phải trả,,,,
+Thuế giá trị gia tăng,b. Các khoản phải trả > Thuế giá trị gia tăng,Thuế giá trị gia tăng,16.779.390.294,373.792.663.042,390.572.053.336,-,16779390294.0,373792663042.0,390572053336.0,
+Thuế xuất nhập khẩu,b. Các khoản phải trả > Thuế xuất nhập khẩu,Thuế xuất nhập khẩu,-,14.649.810.975,14.649.810.975,-,,14649810975.0,14649810975.0,
+Thuế thu nhập doanh nghiệp (*),b. Các khoản phải trả > Thuế thu nhập doanh nghiệp (*),Thuế thu nhập doanh nghiệp (*),75.586.747.364,103.229.390.673,178.816.138.037,-,75586747364.0,103229390673.0,178816138037.0,
+Thuế thu nhập cá nhân,b. Các khoản phải trả > Thuế thu nhập cá nhân,Thuế thu nhập cá nhân,7.214.985.501,40.345.719.324,42.099.766.018,5.460.938.807,7214985501.0,40345719324.0,42099766018.0,5460938807.0
+Các loại thuế khác,b. Các khoản phải trả > Các loại thuế khác,Các loại thuế khác,7.873.832.580,78.434.122.210,85.696.388.050,611.566.740,7873832580.0,78434122210.0,85696388050.0,611566740.0
+,,,107.454.955.739,610.451.706.224,711.834.156.416,6.072.505.547,107454955739.0,610451706224.0,711834156416.0,6072505547.0

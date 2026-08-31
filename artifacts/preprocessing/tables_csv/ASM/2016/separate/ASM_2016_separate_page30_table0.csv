@@ -1,0 +1,14 @@
+﻿row_label_raw,row_label_full,Chỉ tiêu,Số đầu năm,Tăng trong kỳ,Giảm trong kỳ,Số cuối kỳ,numeric__Số đầu năm,numeric__Tăng trong kỳ,numeric__Giảm trong kỳ,numeric__Số cuối kỳ
+I. Nguyên giá BĐS đầu tư cho thuê,I. Nguyên giá BĐS đầu tư cho thuê,I. Nguyên giá BĐS đầu tư cho thuê,52.489.956.454,98.166.427.801,,150.656.384.255,52489956454.0,98166427801.0,,150656384255.0
+- Quyền sử dụng đất,- Quyền sử dụng đất,- Quyền sử dụng đất,46.881.856.194,7.878.946.189,,54.760.802.383,46881856194.0,7878946189.0,,54760802383.0
+- Nhà,- Nhà,- Nhà,5.608.100.260,90.287.481.612,,95.895.581.872,5608100260.0,90287481612.0,,95895581872.0
+- Nhà và quyền sử dụng đất,- Nhà và quyền sử dụng đất,- Nhà và quyền sử dụng đất,,,,,,,,
+- Cơ sở hạ tầng,- Cơ sở hạ tầng,- Cơ sở hạ tầng,,,,,,,,
+II. Giá trị hao mòn luỹ kế,- Cơ sở hạ tầng > II. Giá trị hao mòn luỹ kế,II. Giá trị hao mòn luỹ kế,4.605.503.317,21.020.260.441,,25.625.763.758,4605503317.0,21020260441.0,,25625763758.0
+- Quyền sử dụng đất,- Quyền sử dụng đất,- Quyền sử dụng đất,,,,,,,,
+- Nhà,- Quyền sử dụng đất > - Nhà,- Nhà,4.605.503.317,21.020.260.441,,25.625.763.758,4605503317.0,21020260441.0,,25625763758.0
+- Nhà và quyền sử dụng đất,- Nhà và quyền sử dụng đất,- Nhà và quyền sử dụng đất,,,,,,,,
+- Cơ sở hạ tầng,- Cơ sở hạ tầng,- Cơ sở hạ tầng,,,,,,,,
+III. Giá trị còn lại,- Cơ sở hạ tầng > III. Giá trị còn lại,III. Giá trị còn lại,47.884.453.137,,,125.030.620.497,47884453137.0,,,125030620497.0
+- Quyền sử dụng đất,- Cơ sở hạ tầng > - Quyền sử dụng đất,- Quyền sử dụng đất,46.881.856.194,,,54.760.802.383,46881856194.0,,,54760802383.0
+- Nhà,- Cơ sở hạ tầng > - Nhà,- Nhà,1.002.596.943,,,70.269.818.114,1002596943.0,,,70269818114.0

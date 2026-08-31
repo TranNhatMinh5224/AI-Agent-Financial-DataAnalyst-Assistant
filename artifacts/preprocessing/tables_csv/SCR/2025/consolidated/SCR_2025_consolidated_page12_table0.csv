@@ -1,0 +1,24 @@
+﻿row_label_raw,row_label_full,CHỈ TIÊU,Mã số,Thuyết minh,Năm 2025,Năm 2024,numeric__Mã số,numeric__Thuyết minh,numeric__Năm 2025,numeric__Năm 2024
+1. Doanh thu bán hàng và cung cấp dịch vụ,1. Doanh thu bán hàng và cung cấp dịch vụ,1. Doanh thu bán hàng và cung cấp dịch vụ,01,VI.1,1.227.505.495.228,800.166.459.850,1.0,,1227505495228.0,800166459850.0
+2. Các khoản giảm trừ doanh thu,2. Các khoản giảm trừ doanh thu,2. Các khoản giảm trừ doanh thu,02,VI.2,123.724.120,1.049.691.125,2.0,,123724120.0,1049691125.0
+3. Doanh thu thuần về bán hàng và cung cấp dịch vụ,3. Doanh thu thuần về bán hàng và cung cấp dịch vụ,3. Doanh thu thuần về bán hàng và cung cấp dịch vụ,10,VI.3,1.227.381.771.108,799.116.768.725,10.0,,1227381771108.0,799116768725.0
+4. Giá vốn hàng bán,4. Giá vốn hàng bán,4. Giá vốn hàng bán,11,VI.4,830.883.633.735,848.470.332.493,11.0,,830883633735.0,848470332493.0
+5. Lợi nhuận gộp về bán hàng và cung cấp dịch vụ (20 = 10 -11),5. Lợi nhuận gộp về bán hàng và cung cấp dịch vụ (20 = 10 -11),5. Lợi nhuận gộp về bán hàng và cung cấp dịch vụ (20 = 10 -11),20,,396.498.137.373,(49.353.563.768),20.0,,396498137373.0,-49353563768.0
+6. Doanh thu hoạt động tài chính,6. Doanh thu hoạt động tài chính,6. Doanh thu hoạt động tài chính,21,VI.5,353.845.557.176,477.829.554.381,21.0,,353845557176.0,477829554381.0
+7. Chi phí tài chính,7. Chi phí tài chính,7. Chi phí tài chính,22,VI.6,335.759.985.140,311.900.965.337,22.0,,335759985140.0,311900965337.0
+Trong đó: Chi phí lãi vay,Trong đó: Chi phí lãi vay,Trong đó: Chi phí lãi vay,23,,273.007.108.729,303.551.771.148,23.0,,273007108729.0,303551771148.0
+"8. Phần lãi (/hoặc lỗ) trong công ty liên doanh, liên kết","8. Phần lãi (/hoặc lỗ) trong công ty liên doanh, liên kết","8. Phần lãi (/hoặc lỗ) trong công ty liên doanh, liên kết",24,,(50.035.108.992),(10.326.940.056),24.0,,-50035108992.0,-10326940056.0
+9. Chi phí bán hàng,9. Chi phí bán hàng,9. Chi phí bán hàng,25,VI.7a,10.654.548.750,18.754.748.514,25.0,,10654548750.0,18754748514.0
+10. Chi phí quản lý doanh nghiệp,10. Chi phí quản lý doanh nghiệp,10. Chi phí quản lý doanh nghiệp,26,VI.7b,208.364.594.775,57.517.780.792,26.0,,208364594775.0,57517780792.0
+11. Lợi nhuận thuần từ hoạt động kinh doanh (30 = 20 + (21 - 22) + 24 - (25 + 26)),11. Lợi nhuận thuần từ hoạt động kinh doanh (30 = 20 + (21 - 22) + 24 - (25 + 26)),11. Lợi nhuận thuần từ hoạt động kinh doanh (30 = 20 + (21 - 22) + 24 - (25 + 26)),30,,145.529.456.893,29.975.555.914,30.0,,145529456893.0,29975555914.0
+12. Thu nhập khác,12. Thu nhập khác,12. Thu nhập khác,31,VI.8,10.674.904.128,16.742.086.938,31.0,,10674904128.0,16742086938.0
+13. Chi phí khác,13. Chi phí khác,13. Chi phí khác,32,VI.9,59.261.696.312,13.060.493.612,32.0,,59261696312.0,13060493612.0
+14. Lợi nhuận khác (40 = 31 - 32),14. Lợi nhuận khác (40 = 31 - 32),14. Lợi nhuận khác (40 = 31 - 32),40,,(48.586.792.184),3.681.593.326,40.0,,-48586792184.0,3681593326.0
+15. Tổng lợi nhuận kế toán trước thuế (50 = 30 + 40),15. Tổng lợi nhuận kế toán trước thuế (50 = 30 + 40),15. Tổng lợi nhuận kế toán trước thuế (50 = 30 + 40),50,,96.942.664.709,33.657.149.240,50.0,,96942664709.0,33657149240.0
+16. Chi phí thuế TNDN hiện hành,16. Chi phí thuế TNDN hiện hành,16. Chi phí thuế TNDN hiện hành,51,VI.10,26.354.653.454,25.867.195.300,51.0,,26354653454.0,25867195300.0
+17. Chi phí thuế TNDN hoãn lại,17. Chi phí thuế TNDN hoãn lại,17. Chi phí thuế TNDN hoãn lại,52,VI.11,3.205.747.017,3.542.071.672,52.0,,3205747017.0,3542071672.0
+18. Lợi nhuận sau thuế thu nhập doanh nghiệp (60 = 50 - 51 -52),18. Lợi nhuận sau thuế thu nhập doanh nghiệp (60 = 50 - 51 -52),18. Lợi nhuận sau thuế thu nhập doanh nghiệp (60 = 50 - 51 -52),60,,67.382.264.238,4.247.882.268,60.0,,67382264238.0,4247882268.0
+Cổ đông của Công ty mẹ,Cổ đông của Công ty mẹ,Cổ đông của Công ty mẹ,61,,76.330.105.485,2.936.733.122,61.0,,76330105485.0,2936733122.0
+Cổ đông không kiểm soát,Cổ đông không kiểm soát,Cổ đông không kiểm soát,62,,(8.947.841.247),1.311.149.146,62.0,,-8947841247.0,1311149146.0
+19. Lãi cơ bản trên cổ phiếu,19. Lãi cơ bản trên cổ phiếu,19. Lãi cơ bản trên cổ phiếu,70,VI.12,177,7,70.0,,177.0,7.0
+20. Lãi suy giảm trên cổ phiếu,20. Lãi suy giảm trên cổ phiếu,20. Lãi suy giảm trên cổ phiếu,71,VI.13,177,7,71.0,,177.0,7.0

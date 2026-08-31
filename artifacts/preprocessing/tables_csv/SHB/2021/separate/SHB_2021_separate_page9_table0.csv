@@ -1,0 +1,19 @@
+﻿row_label_raw,row_label_full,col_0,col_1,Thuyết minh,2021 Triệu VND,2020 Triệu VND,numeric__col_1,numeric__Thuyết minh,numeric__2021 Triệu VND,numeric__2020 Triệu VND
+1,1,1,Thu nhập lãi và các khoản thu nhập tương tự,,33.279.748,29.604.959,,,33279748.0,29604959.0
+2,2,2,Chi phí lãi và các chi phí tương tự,,(19.310.911),(21.033.430),,,-19310911.0,-21033430.0
+I,I,I,Thu nhập lãi thuần,27,13.968.837,8.571.529,,27.0,13968837.0,8571529.0
+3,3,3,Thu nhập từ hoạt động dịch vụ,,679.003,553.592,,,679003.0,553592.0
+4,4,4,Chi phí hoạt động dịch vụ,,(195.762),(142.741),,,-195762.0,-142741.0
+II,II,II,Lãi thuần từ hoạt động dịch vụ,28,483.241,410.851,,28.0,483241.0,410851.0
+III,III,III,Lãi thuần từ hoạt động kinh doanh ngoại hối,29,153.795,124.819,,29.0,153795.0,124819.0
+V,V,V,Lãi thuần từ mua bán chứng khoán đầu tư,30,936.951,1.292.653,,30.0,936951.0,1292653.0
+5,5,5,Thu nhập từ hoạt động khác,,1.084.168,425.192,,,1084168.0,425192.0
+6,6,6,Chi phí hoạt động khác,,(248.918),(91.471),,,-248918.0,-91471.0
+VI,VI,VI,Lãi thuần từ hoạt động khác,31,835.250,333.721,,31.0,835250.0,333721.0
+VII,VII,VII,"Thu nhập từ góp vốn, mua cổ phần",,19.342,66.293,,,19342.0,66293.0
+VIII,VIII,VIII,Chi phí hoạt động,32,(3.827.113),(3.747.988),,32.0,-3827113.0,-3747988.0
+IX,IX,IX,Lợi nhuận thuần từ hoạt động kinh doanh trước chi phí dự phòng rủi ro tín dụng,,12.570.303,7.051.878,,,12570303.0,7051878.0
+X,X,X,Chi phí dự phòng rủi ro tín dụng,,(6.659.683),(4.025.365),,,-6659683.0,-4025365.0
+X,X,X,▪ Chi phí dự phòng tín dụng,33,(6.659.683),(3.954.413),,33.0,-6659683.0,-3954413.0
+X,X,X,▪ Trích lập bổ sung dự phòng cho các khoản nợ thuộc Tổng Công ty Công nghiệp Tàu thủy do lợi nhuận thực hiện vượt quá lợi nhuận kế hoạch,,-,(70.952),,,,-70952.0
+XI,XI,XI,Tổng lợi nhuận trước thuế (mang sang trang sau),,5.910.620,3.026.513,,,5910620.0,3026513.0

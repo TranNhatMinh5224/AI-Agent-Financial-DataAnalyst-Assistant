@@ -1,0 +1,6 @@
+﻿row_label_raw,row_label_full,Disbursement date,Overdue status,Overdue date,Principle of loan classification retention,numeric__Overdue status,numeric__Overdue date,numeric__Principle of loan classification retention
+Before 1/8/2021,Before 1/8/2021,Before 1/8/2021,Current or overdue for a period of 10 days,From 30/3/2020 to 30/6/2022,Retain the latest loan classification as before 23 January 2020 or as before the first-time restructuring date,,,
+Before 23/1/2020,Before 23/1/2020,Before 23/1/2020,Overdue,From 23/1/2020 to 29/3/2020,Retain the latest loan classification as before 23 January 2020,,,
+From 23/1/2020 to 10/6/2020,From 23/1/2020 to 10/6/2020,From 23/1/2020 to 10/6/2020,Overdue,From 23/1/2020 to 17/5/2021,Retain the latest loan classification as before overdue transferring date,,,
+From 10/6/2020 to 1/8/2021,From 10/6/2020 to 1/8/2021,From 10/6/2020 to 1/8/2021,Overdue,From 17/7/2021 to 7/9/2021,Retain the latest loan classification as before overdue transferring date,,,
+Before 24/4/2023,Before 24/4/2023,Before 24/4/2023,Current or overdue for a period of 10 days,From 24/4/2023 to 31/12/2024,Retain the latest loan classification as before the restructuring date,,,

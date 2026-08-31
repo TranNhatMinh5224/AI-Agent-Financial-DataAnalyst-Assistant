@@ -12,6 +12,7 @@ import re
 from rapidfuzz import fuzz
 
 from financial_text_to_pandas.types import Intent, GroundedCell, CellGroundingResult
+from financial_text_to_pandas.reasoning.tools import parse_vn_number
 
 
 def _normalize_text(text: str) -> str:
@@ -298,6 +299,49 @@ def ground_cells(
                         )
                     )
                     symbol_counter += 1
+
+    if not found_any_row or not grounded_cells:
+        # Fallback thông minh: Quét các ô số trong các dòng có từ khóa ngữ cảnh từ câu hỏi
+        q_tokens = [t for t in _normalize_text(raw_question).split() if len(t) >= 3]
+        for var_name, df in dfs.items():
+            if not isinstance(df, pd.DataFrame) or df.empty:
+                continue
+            table_id = getattr(df, "_table_id", var_name)
+            for r_idx, row in df.iterrows():
+                row_str = " ".join(str(val) for val in row.values)
+                row_norm = _normalize_text(row_str)
+                # Kiểm tra xem dòng có chứa từ khóa khớp với câu hỏi không
+                if any(t in row_norm for t in q_tokens):
+                    for col_name in df.columns:
+                        val_str = str(row[col_name]).strip()
+                        parsed_val = None
+                        try:
+                            parsed_val = parse_vn_number(val_str)
+                        except Exception:
+                            pass
+                        if parsed_val is not None:
+                            found_any_row = True
+                            grounded_cells.append(
+                                GroundedCell(
+                                    table_id=table_id,
+                                    csv_path="",
+                                    page_number=0,
+                                    row_label=str(row.iloc[0]) if len(row) > 0 else "",
+                                    column_label=str(col_name),
+                                    raw_value=val_str,
+                                    parsed_value=parsed_val,
+                                    unit=intent.unit_requested,
+                                    confidence=0.6,
+                                    grounding_method="fallback_keyword_scan",
+                                    error_type=None,
+                                    symbol_name=f"NUM_{symbol_counter}",
+                                )
+                            )
+                            symbol_counter += 1
+                            if len(grounded_cells) >= 30:
+                                break
+                    if len(grounded_cells) >= 30:
+                        break
 
     if not found_any_row or not grounded_cells:
         return CellGroundingResult([], "E_NUMERICAL_EXTRACTION")

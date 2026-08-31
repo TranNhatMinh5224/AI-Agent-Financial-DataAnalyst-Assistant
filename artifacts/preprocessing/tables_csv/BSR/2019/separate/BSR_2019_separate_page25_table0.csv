@@ -1,0 +1,26 @@
+﻿row_label_raw,row_label_full,col_0,Số đầu nămVND,Số phải nộp trong nămVND,Số đã thực nộp trong nămVND,Số cuối nămVND,numeric__Số đầu nămVND,numeric__Số phải nộp trong nămVND,numeric__Số đã thực nộp trong nămVND,numeric__Số cuối nămVND
+a. Các khoản phải thu,a. Các khoản phải thu,a. Các khoản phải thu,a. Các khoản phải thu,a. Các khoản phải thu,a. Các khoản phải thu,a. Các khoản phải thu,,,,
+"Thuế xuất, nhập khẩu","a. Các khoản phải thu > Thuế xuất, nhập khẩu","Thuế xuất, nhập khẩu",17.528.596.489,105.318.864.515,88.455.362.283,665.094.257,17528596489.0,105318864515.0,88455362283.0,665094257.0
+Thuế thu nhập doanh nghiệp,a. Các khoản phải thu > Thuế thu nhập doanh nghiệp,Thuế thu nhập doanh nghiệp,34.395.479.244,34.395.479.244,-,-,34395479244.0,34395479244.0,,
+Thuế nhà thầu,a. Các khoản phải thu > Thuế nhà thầu,Thuế nhà thầu,2.095.094.815,58.153.342.552,58.170.974.041,2.112.726.304,2095094815.0,58153342552.0,58170974041.0,2112726304.0
+- Thuế GTGT nộp thay nhà thầu,a. Các khoản phải thu > - Thuế GTGT nộp thay nhà thầu,- Thuế GTGT nộp thay nhà thầu,2.095.094.815,32.023.277.683,32.023.277.683,2.095.094.815,2095094815.0,32023277683.0,32023277683.0,2095094815.0
+- Thuế TNDN nộp thay nhà thầu,a. Các khoản phải thu > - Thuế TNDN nộp thay nhà thầu,- Thuế TNDN nộp thay nhà thầu,-,26.130.064.869,26.147.696.358,17.631.489,,26130064869.0,26147696358.0,17631489.0
+Tiền thuê đất,a. Các khoản phải thu > Tiền thuê đất,Tiền thuê đất,-,391.779.592,420.562.692,28.783.100,,391779592.0,420562692.0,28783100.0
+,,,54.019.170.548,198.259.465.903,147.046.899.016,2.806.603.661,54019170548.0,198259465903.0,147046899016.0,2806603661.0
+b. Các khoản phải trả,b. Các khoản phải trả,b. Các khoản phải trả,b. Các khoản phải trả,b. Các khoản phải trả,b. Các khoản phải trả,b. Các khoản phải trả,,,,
+Thuế giả trị gia tàng,b. Các khoản phải trả > Thuế giả trị gia tàng,Thuế giả trị gia tàng,358.244.408.972,5.437.304.189.628,5.116.988.085.451,678.560.513.149,358244408972.0,5437304189628.0,5116988085451.0,678560513149.0
+- Thuế GTGT đầu ra,b. Các khoản phải trả > - Thuế GTGT đầu ra,- Thuế GTGT đầu ra,358.244.408.972,4.215.389.431.091,3.895.084.003.724,678.549.836.329,358244408972.0,4215389431091.0,3895084003724.0,678549836329.0
+- Thuế GTGT hàng nhập khẩu,b. Các khoản phải trả > - Thuế GTGT hàng nhập khẩu,- Thuế GTGT hàng nhập khẩu,-,1.221.914.758.537,1.221.904.081.717,10.676.820,,1221914758537.0,1221904081717.0,10676820.0
+Thuế tiêu thụ đặc biết,b. Các khoản phải trả > Thuế tiêu thụ đặc biết,Thuế tiêu thụ đặc biết,410.182.624.354,4.368.705.672.651,4.208.554.142.857,570.334.154.148,410182624354.0,4368705672651.0,4208554142857.0,570334154148.0
+Thuế thu nhập doanh nghiệp,b. Các khoản phải trả > Thuế thu nhập doanh nghiệp,Thuế thu nhập doanh nghiệp,-,140.698.772.418,84.201.965.721,56.496.806.697,,140698772418.0,84201965721.0,56496806697.0
+Thuế thu nhập cả nhân,b. Các khoản phải trả > Thuế thu nhập cả nhân,Thuế thu nhập cả nhân,1.950.899.845,47.847.136.901,45.820.036.332,3.978.000.414,1950899845.0,47847136901.0,45820036332.0,3978000414.0
+Thuế nhà thầu,b. Các khoản phải trả > Thuế nhà thầu,Thuế nhà thầu,1.917.717.917,-,1.917.717.917,-,1917717917.0,,1917717917.0,
+- Thuế TNDN nộp thay nhà thầu,b. Các khoản phải trả > - Thuế TNDN nộp thay nhà thầu,- Thuế TNDN nộp thay nhà thầu,1.917.717.917,-,1.917.717.917,-,1917717917.0,,1917717917.0,
+Thuế nhà đất,b. Các khoản phải trả > Thuế nhà đất,Thuế nhà đất,697.818.500,(687.403.309),10.415.191,-,697818500.0,-687403309.0,10415191.0,
+Thuế món bài,b. Các khoản phải trả > Thuế món bài,Thuế món bài,-,4.000.000,4.000.000,-,,4000000.0,4000000.0,
+Thuế bảo vệ môi trường,b. Các khoản phải trả > Thuế bảo vệ môi trường,Thuế bảo vệ môi trường,5.267.517.900,118.779.290.000,110.121.165.900,13.925.642.000,5267517900.0,118779290000.0,110121165900.0,13925642000.0
+"Các khoản phí, lệ phí khác","b. Các khoản phải trả > Các khoản phí, lệ phí khác","Các khoản phí, lệ phí khác",1.366.779.128,575.024.856,1.941.803.984,-,1366779128.0,575024856.0,1941803984.0,
+,,,779.627.766.616,10.113.226.683.145,9.569.559.333.353,1.323.295.116.408,779627766616.0,10113226683145.0,9569559333353.0,1323295116408.0
+Trong đó:,Trong đó:,Trong đó:,Trong đó:,Trong đó:,Trong đó:,Trong đó:,,,,
+Thuế và các khoản phải thu Nhà nước,Trong đó: > Thuế và các khoản phải thu Nhà nước,Thuế và các khoản phải thu Nhà nước,54.019.170.548,,,2.806.603.661,54019170548.0,,,2806603661.0
+Thuế và các khoản phải nộp Nhà nước,Trong đó: > Thuế và các khoản phải nộp Nhà nước,Thuế và các khoản phải nộp Nhà nước,779.627.766.616,,,1.323.295.116.408,779627766616.0,,,1323295116408.0

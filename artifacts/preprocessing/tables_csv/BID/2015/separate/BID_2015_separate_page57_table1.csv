@@ -1,0 +1,16 @@
+﻿row_label_raw,row_label_full,Bên liên quan,Số dư,Phải thu,(Phải trả),numeric__Số dư,numeric__Phải thu,numeric__(Phải trả)
+Bên liên quan,Bên liên quan,Bên liên quan,Số dư,Triệu VND,Triệu VND,,,
+Cơ quan quản lý Nhà nước,Bên liên quan > Cơ quan quản lý Nhà nước,Cơ quan quản lý Nhà nước,- Tiền gửi tại cơ quan quản lý,21.718.717,-,,21718717.0,
+Cơ quan quản lý Nhà nước,Bên liên quan > Cơ quan quản lý Nhà nước,Cơ quan quản lý Nhà nước,- Tiền gửi của cơ quan quản lý,-,(11.439.645),,,-11439645.0
+Cơ quan quản lý Nhà nước,Bên liên quan > Cơ quan quản lý Nhà nước,Cơ quan quản lý Nhà nước,- Các khoản vay từ cơ quan quản lý,-,(33.961.954),,,-33961954.0
+Các công ty con,Bên liên quan > Các công ty con,Các công ty con,- Tiền gửi tại BIDV của các công ty con,-,(1.983.794),,,-1983794.0
+Các công ty con,Bên liên quan > Các công ty con,Các công ty con,- Tiền vay từ BIDV của các công ty con,1.455.832,-,,1455832.0,
+Các công ty con,Bên liên quan > Các công ty con,Các công ty con,- Tiền BIDV vay của các công ty con,-,(283.319),,,-283319.0
+Các công ty con,Các công ty con,Các công ty con,- Trái phiếu của BIDV do các công ty con nấm,-,-,,,
+Các công ty con,Các công ty con > Các công ty con,Các công ty con,- Phải thu các công ty con,272.000,-,,272000.0,
+Các công ty liên doanh,Các công ty con > Các công ty liên doanh,Các công ty liên doanh,- Tiền gửi của các công ty liên doanh,-,(1.076.508),,,-1076508.0
+Các công ty liên doanh,Các công ty con > Các công ty liên doanh,Các công ty liên doanh,- Tiền gửi của BIDV tại các công ty liên doanh,2.093.527,-,,2093527.0,
+Các công ty liên doanh,Các công ty con > Các công ty liên doanh,Các công ty liên doanh,- Tiền vay từ BIDV của các công ty liên doanh,147.040,-,,147040.0,
+Các công ty liên doanh,Các công ty liên doanh,Các công ty liên doanh,- Tiền BIDV vay của các công ty liên doanh,-,-,,,
+Các công ty liên kết,Các công ty liên doanh > Các công ty liên kết,Các công ty liên kết,- Tiền gửi tại BIDV của các công ty liên kết,-,(640.968),,,-640968.0
+Các công ty liên kết,Các công ty liên doanh > Các công ty liên kết,Các công ty liên kết,- Tiền vay từ BIDV của các công ty liên kết,909.225,-,,909225.0,

@@ -1,0 +1,11 @@
+﻿row_label_raw,row_label_full,Chi tiêu,Số đầu năm,Số phải nộp/thu trong năm,Số đã thực nộp/thu/được khẩu trừ trong năm,Số cuối năm,numeric__Số đầu năm,numeric__Số phải nộp/thu trong năm,numeric__Số đã thực nộp/thu/được khẩu trừ trong năm,numeric__Số cuối năm
+Chi tiêu,Chi tiêu,Chi tiêu,VND,VND,VND,VND,,,,
+Thuế giá trị gia tăng,Chi tiêu > Thuế giá trị gia tăng,Thuế giá trị gia tăng,205.731.834.271,2.960.341.819.453,2.971.277.451.202,194.796.202.522,205731834271.0,2960341819453.0,2971277451202.0,194796202522.0
+- Thuế giá trị gia tăng đầu ra,Chi tiêu > - Thuế giá trị gia tăng đầu ra,- Thuế giá trị gia tăng đầu ra,205.296.996.133,2.699.803.669.337,2.710.306.029.109,194.794.636.361,205296996133.0,2699803669337.0,2710306029109.0,194794636361.0
+- Thuế giá trị gia tăng hàng nhập khẩu,Chi tiêu > - Thuế giá trị gia tăng hàng nhập khẩu,- Thuế giá trị gia tăng hàng nhập khẩu,434.838.138,260.538.150.116,260.971.422.093,1.566.161,434838138.0,260538150116.0,260971422093.0,1566161.0
+Thuế nhập khẩu,Chi tiêu > Thuế nhập khẩu,Thuế nhập khẩu,(148.371.838),17.600.754.145,17.633.780.125,(181.397.818),-148371838.0,17600754145.0,17633780125.0,-181397818.0
+Thuế thu nhập doanh nghiệp,Chi tiêu > Thuế thu nhập doanh nghiệp,Thuế thu nhập doanh nghiệp,107.316.989.319,685.618.811.254,638.639.276.041,154.296.524.532,107316989319.0,685618811254.0,638639276041.0,154296524532.0
+Thuế thu nhập cá nhân,Chi tiêu > Thuế thu nhập cá nhân,Thuế thu nhập cá nhân,44.845.769.937,554.585.266.661,543.297.287.822,56.133.748.776,44845769937.0,554585266661.0,543297287822.0,56133748776.0
+Thuế nhà thầu,Chi tiêu > Thuế nhà thầu,Thuế nhà thầu,7.816.582.210,60.073.789.676,48.746.097.962,19.144.273.924,7816582210.0,60073789676.0,48746097962.0,19144273924.0
+Các loại thuế và phí khác,Chi tiêu > Các loại thuế và phí khác,Các loại thuế và phí khác,2.847.343.780,38.684.551.126,39.361.823.307,2.170.071.599,2847343780.0,38684551126.0,39361823307.0,2170071599.0
+Cộng,Chi tiêu > Cộng,Cộng,368.410.147.679,4.316.904.992.315,4.258.955.716.459,426.359.423.535,368410147679.0,4316904992315.0,4258955716459.0,426359423535.0

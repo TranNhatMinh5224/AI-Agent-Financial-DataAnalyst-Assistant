@@ -1,0 +1,21 @@
+﻿row_label_raw,row_label_full,STT,CHỈ TIÊU,Thuyết minh,Năm nay,Năm trước (Trình bày lại),numeric__CHỈ TIÊU,numeric__Thuyết minh,numeric__Năm nay,numeric__Năm trước (Trình bày lại)
+1.,1.,1.,Thu nhập lãi và các khoản thu nhập tương tự,25,130.963.092,103.386.321,,25.0,130963092.0,103386321.0
+2.,2.,2.,Chi phí lãi và các chi phí tương tự,26,(79.194.658),(56.536.426),,26.0,-79194658.0,-56536426.0
+I.,I.,I.,Thu nhập lãi thuần,,51.768.434,46.849.895,,,51768434.0,46849895.0
+3.,3.,3.,Thu nhập từ hoạt động dịch vụ,,9.506.879,8.381.799,,,9506879.0,8381799.0
+4.,4.,4.,Chi phí hoạt động dịch vụ,,(3.598.992),(3.359.322),,,-3598992.0,-3359322.0
+II.,II.,II.,Lãi thuần từ hoạt động dịch vụ,27,5.907.887,5.022.477,,27.0,5907887.0,5022477.0
+III.,III.,III.,Lãi thuần từ hoạt động kinh doanh ngoại hồi,28,4.262.766,3.580.681,,28.0,4262766.0,3580681.0
+IV.,IV.,IV.,(Lỗ) thuần từ mua bán chứng khoán kinh doanh,29.1,(4.460),(39.764),,291.0,-4460.0,-39764.0
+V.,V.,V.,(Lỗ) thuần từ mua bán chứng khoán đầu tư,29.2,(18.962),(38.103),,292.0,-18962.0,-38103.0
+5.,5.,5.,Thu nhập từ hoạt động khác,,7.000.462,7.320.838,,,7000462.0,7320838.0
+6.,6.,6.,Chi phí hoạt động khác,,(1.168.796),(897.863),,,-1168796.0,-897863.0
+VI.,VI.,VI.,Lãi thuần từ hoạt động khác,30,5.831.666,6.422.975,,30.0,5831666.0,6422975.0
+VII.,VII.,VII.,"Thu nhập từ góp vốn, mua cổ phần",31,627.606,540.491,,31.0,627606.0,540491.0
+VIII.,VIII.,VIII.,Chi phí hoạt động,32,(19.188.990),(18.076.282),,32.0,-19188990.0,-18076282.0
+IX.,IX.,IX.,Lợi nhuận thuần từ hoạt động kinh doanh trước chi phí dự phòng rủi ro tín dụng,,49.185.947,44.262.370,,,49185947.0,44262370.0
+X.,X.,X.,Chi phí dự phòng rủi ro tín dụng,,(24.991.748),(23.723.874),,,-24991748.0,-23723874.0
+XI.,XI.,XI.,Tổng lợi nhuận trước thuế,,24.194.199,20.538.496,,,24194199.0,20538496.0
+7.,7.,7.,Chi phí thuế TNDN hiện hành,33,(4.737.411),(4.010.837),,33.0,-4737411.0,-4010837.0
+XII.,XII.,XII.,Chi phí thuế TNDN,,(4.737.411),(4.010.837),,,-4737411.0,-4010837.0
+XIII.,XIII.,XIII.,Lợi nhuận sau thuế TNDN,,19.456.788,16.527.659,,,19456788.0,16527659.0

@@ -1,0 +1,20 @@
+﻿row_label_raw,row_label_full,col_0,col_1,Thuyết minh,2015Triệu VND,2014Triệu VND,numeric__col_1,numeric__Thuyết minh,numeric__2015Triệu VND,numeric__2014Triệu VND
+1,1,1,Thu nhập lãi và các khoản thu nhập tương tự,24,13.410.950,13.538.323,,24.0,13410950.0,13538323.0
+2,2,2,Chi phí lãi và các chi phí tương tự,24,(6.136.598),(6.562.487),,24.0,-6136598.0,-6562487.0
+I,I,I,Thu nhập lãi thuần,24,7.274.352,6.975.836,,24.0,7274352.0,6975836.0
+3,3,3,Thu nhập từ hoạt động dịch vụ,25,428.151,355.763,,25.0,428151.0,355763.0
+4,4,4,Chi phí hoạt động dịch vụ,25,(113.868),(101.919),,25.0,-113868.0,-101919.0
+II,II,II,Lãi thuần từ hoạt động dịch vụ,25,314.283,253.844,,25.0,314283.0,253844.0
+III,III,III,Lãi thuần từ hoạt động kinh doanh ngoại hối,26,159.004,89.928,,26.0,159004.0,89928.0
+IV,IV,IV,"Lãi thuần từ mua bán chứng khoán kinh doanh,chứng khoán đầu tư và góp vốn đầu tư dài hạn",27,125.516,233.424,,27.0,125516.0,233424.0
+5,5,5,Thu nhập từ hoạt động khác,,552.972,322.935,,,552972.0,322935.0
+6,6,6,Chi phí hoạt động khác,,(72.887),(14.722),,,-72887.0,-14722.0
+VI,VI,VI,Lãi thuần từ hoạt động khác,28,480.085,308.213,,28.0,480085.0,308213.0
+VII,VII,VII,"Thu nhập từ góp vốn, mua cổ phần",29,61.658,72.847,,29.0,61658.0,72847.0
+VIII,VIII,VIII,Chi phí hoạt động,30,(3.252.184),(2.970.815),,30.0,-3252184.0,-2970815.0
+IX,IX,IX,Lợi nhuận thuần từ hoạt động kinh doanhtrước chi phí dự phòng rủi ro tín dụng,,5.162.714,4.963.277,,,5162714.0,4963277.0
+X,X,X,Chi phí dự phòng rủi ro tín dụng,31,(2.011.676),(1.960.720),,31.0,-2011676.0,-1960720.0
+XI,XI,XI,Tổng lợi nhuận trước thuế,,3.151.038,3.002.557,,,3151038.0,3002557.0
+7,7,7,Chi phí thuế thu nhập doanh nghiệp hiện hành,32,(682.442),(648.414),,32.0,-682442.0,-648414.0
+XII,XII,XII,Chi phí thuế thu nhập doanh nghiệp,,(682.442),(648.414),,,-682442.0,-648414.0
+XIII,XIII,XIII,Lợi nhuận sau thuế,,2.468.596,2.354.143,,,2468596.0,2354143.0

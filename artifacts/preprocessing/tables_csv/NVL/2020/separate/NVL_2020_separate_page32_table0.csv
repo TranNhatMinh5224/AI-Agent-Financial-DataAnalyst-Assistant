@@ -1,0 +1,6 @@
+﻿row_label_raw,row_label_full,STT,Tên công ty,Địa điểm,Ngành nghề,31.12.2020,31.12.2020_1,31.12.2020_2,31.12.2020_3,31.12.2019,31.12.2019_1,31.12.2019_2,31.12.2019_3,numeric__Tên công ty,numeric__Địa điểm,numeric__Ngành nghề,numeric__31.12.2020,numeric__31.12.2020_1,numeric__31.12.2020_2,numeric__31.12.2020_3,numeric__31.12.2019,numeric__31.12.2019_1,numeric__31.12.2019_2,numeric__31.12.2019_3
+STT,STT,STT,Tên công ty,Địa điểm,Ngành nghề,Tỷ lệ sở hữu %,Giá gốc VND,Giá thị trường VND,Dự phòng VND,Tỷ lệ sở hữu %,Giá gốc VND,Giá thị trường VND,Dự phòng VND,,,,,,,,,,,
+1,STT > 1,1,Công ty Cổ phần Phát triển và Dịch vụ Nhà Bến Thành,TP. Hồ Chí Minh,Kinh doanh bắt động sản,"25,00",60.600.000.000,(*),-,"25,00",60.600.000.000,(*),-,,,,25.0,60600000000.0,,,25.0,60600000000.0,,
+2,STT > 2,2,Công ty Cổ phần Điện tử và Dịch vụ Công nghiệp Sài Gòn,TP. Hồ Chí Minh,"Kinh doanh buôn bán thiết bị, linh kiện điện tử, viễn thông","33,31",14.792.060.000,(*),-,"33,31",14.792.060.000,(*),-,,,,33.31,14792060000.0,,,33.31,14792060000.0,,
+3,STT > 3,3,Công ty Cổ phần Căng Phú Định (**),TP. Hồ Chí Minh,"Hoạt động hỗ trợ liên quan đến vận tải, kinh doanh bắt động sản","19,73",310.972.157.694,(*),-,-,-,(*),-,,,,19.73,310972157694.0,,,,,,
+,,,,,,,386.364.217.694,,-,,75.392.060.000,,-,,,,,386364217694.0,,,,75392060000.0,,

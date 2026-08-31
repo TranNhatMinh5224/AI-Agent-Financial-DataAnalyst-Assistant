@@ -1,0 +1,18 @@
+﻿row_label_raw,row_label_full,col_0,Code,Note,2025VND'000,2024VND'000,numeric__Code,numeric__Note,numeric__2025VND'000,numeric__2024VND'000
+CASH FLOWS FROM OPERATING ACTIVITIES,CASH FLOWS FROM OPERATING ACTIVITIES,CASH FLOWS FROM OPERATING ACTIVITIES,CASH FLOWS FROM OPERATING ACTIVITIES,CASH FLOWS FROM OPERATING ACTIVITIES,CASH FLOWS FROM OPERATING ACTIVITIES,CASH FLOWS FROM OPERATING ACTIVITIES,,,,
+Profit before tax,CASH FLOWS FROM OPERATING ACTIVITIES > Profit before tax,Profit before tax,01,,"552,937","562,749",1.0,,552.937,562.749
+Adjustments for Profits from investing activities,CASH FLOWS FROM OPERATING ACTIVITIES > Adjustments for Profits from investing activities,Adjustments for Profits from investing activities,05,,"(169,990,462)","(245,434,562)",5.0,,,
+Interest expense and borrowing fees,CASH FLOWS FROM OPERATING ACTIVITIES > Interest expense and borrowing fees,Interest expense and borrowing fees,06,,"164,703,847","240,863,927",6.0,,,
+Operating loss before changes in working capital,CASH FLOWS FROM OPERATING ACTIVITIES > Operating loss before changes in working capital,Operating loss before changes in working capital,08,,"(4,733,678)","(4,007,886)",8.0,,,
+Change in receivables and other assets,CASH FLOWS FROM OPERATING ACTIVITIES > Change in receivables and other assets,Change in receivables and other assets,09,,"10,775,855","28,329,471",9.0,,,
+Change in payables and other liabilities,CASH FLOWS FROM OPERATING ACTIVITIES > Change in payables and other liabilities,Change in payables and other liabilities,11,,"11,251,729","(2,539,964)",11.0,,,
+Change in prepaid expenses,CASH FLOWS FROM OPERATING ACTIVITIES > Change in prepaid expenses,Change in prepaid expenses,12,,"(14,055,481)",-,12.0,,,
+,,,,,"3,238,425","21,781,621",,,,
+Interest paid,CASH FLOWS FROM OPERATING ACTIVITIES > Interest paid,Interest paid,14,,"(154,672,318)","(276,826,716)",14.0,,,
+Income tax paid,CASH FLOWS FROM OPERATING ACTIVITIES > Income tax paid,Income tax paid,15,,"(107,902)","(55,652)",15.0,,-107.902,-55.652
+Net cash flows from operating activities,CASH FLOWS FROM OPERATING ACTIVITIES > Net cash flows from operating activities,Net cash flows from operating activities,20,,"(151,541,795)","(255,100,747)",20.0,,,
+CASH FLOWS FROM INVESTING ACTIVITIES,CASH FLOWS FROM INVESTING ACTIVITIES,CASH FLOWS FROM INVESTING ACTIVITIES,CASH FLOWS FROM INVESTING ACTIVITIES,CASH FLOWS FROM INVESTING ACTIVITIES,CASH FLOWS FROM INVESTING ACTIVITIES,CASH FLOWS FROM INVESTING ACTIVITIES,,,,
+"Payments for granting loans, purchase of debt instruments of other entities","CASH FLOWS FROM INVESTING ACTIVITIES > Payments for granting loans, purchase of debt instruments of other entities","Payments for granting loans, purchase of debt instruments of other entities",23,,-,"(1,500,000,000)",23.0,,,
+"Receipts from collecting loans, sales of debt instruments of other entities","CASH FLOWS FROM INVESTING ACTIVITIES > Receipts from collecting loans, sales of debt instruments of other entities","Receipts from collecting loans, sales of debt instruments of other entities",24,,-,"3,000,000,000",24.0,,,
+Receipts of interests,CASH FLOWS FROM INVESTING ACTIVITIES > Receipts of interests,Receipts of interests,27,,"163,785,529","271,493,189",27.0,,,
+Net cash flows from investing activities,CASH FLOWS FROM INVESTING ACTIVITIES > Net cash flows from investing activities,Net cash flows from investing activities,30,,"163,785,529","1,771,493,189",30.0,,,

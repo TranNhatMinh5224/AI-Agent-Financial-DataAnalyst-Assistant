@@ -1,0 +1,23 @@
+﻿row_label_raw,row_label_full,Code,col_1,Note,Year ended 31 December,Year ended 31 December_1,numeric__col_1,numeric__Note,numeric__Year ended 31 December,numeric__Year ended 31 December_1
+Code,Code,Code,,Note,2025VND,2024VND,,,,
+01,01,01,Revenue from sales of goods and rendering of services,,"35,410,589,612,616","38,232,401,184,050",,,,
+02,02,02,Less deduction,,"434,546,683,224","409,564,012,665",,,,
+10,02 > 10,10,Net revenue from sales of goods and rendering of services (10 = 01 - 02),28,"34,976,042,929,392","37,822,837,171,385",,28.0,,
+11,02 > 11,11,Cost of goods sold and services rendered,29,"27,292,194,621,378","31,149,334,531,193",,29.0,,
+20,20,20,Gross profit from sales of goods and rendering of services (20 = 10 - 11),,"7,683,848,308,014","6,673,502,640,192",,,,
+21,20 > 21,21,Financial income,30,"136,303,226,388","75,567,438,524",,30.0,,
+22,20 > 22,22,Financial expenses,31,"153,168,770,819","93,616,780,951",,31.0,,
+23,23,23,- Including: Interest expense,,"119,082,599,327","46,775,305,829",,,,
+25,23 > 25,25,Selling expenses,32,"3,322,701,974,507","3,207,574,691,174",,32.0,,
+26,23 > 26,26,General and administration expenses,33,"824,395,851,865","795,749,355,922",,33.0,,
+30,30,30,Net operating profit(30 = 20 + 21 - 22 - 25 - 26),,"3,519,884,937,211","2,652,129,250,669",,,,
+31,31,31,Other income,,"41,188,910,080","10,013,781,125",,,,
+32,32,32,Other expenses,,"13,234,356,500","11,130,582,486",,,,
+40,40,40,Net other income/(expenses) (40 = 31 - 32),,"27,954,553,580","(1,116,801,361)",,,,
+50,50,50,Net accounting profit before tax(50 = 30 + 40),,"3,547,839,490,791","2,651,012,449,308",,,,
+51,50 > 51,51,"Corporate income tax (""CIT"") - current",34,"849,656,975,908","615,476,890,636",,34.0,,
+52,50 > 52,52,CIT - deferred,34,"(130,314,948,007)","(77,380,724,274)",,34.0,,
+60,60,60,Net profit after tax (60 = 50 - 51 - 52),,"2,828,497,462,890","2,112,916,282,946",,,,
+61,61,61,Attributable to:Owners of the parent company,,"2,828,497,462,890","2,112,916,282,946",,,,
+70,61 > 70,70,Basic earnings per share,26(a),"7,652","5,713",,,7.652,5.713
+71,61 > 71,71,Diluted earnings per share,26(b),"7,652","5,713",,,7.652,5.713

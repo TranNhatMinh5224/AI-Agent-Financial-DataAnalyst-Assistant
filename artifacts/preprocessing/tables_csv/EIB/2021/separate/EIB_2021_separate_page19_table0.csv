@@ -1,0 +1,3 @@
+﻿row_label_raw,row_label_full,Nhóm nợ,Nhóm nợ_1,Diễn giải,Tỷ lệ dự phòng cụ thể,numeric__Nhóm nợ_1,numeric__Diễn giải,numeric__Tỷ lệ dự phòng cụ thể
+1,1,1,Nợ đủ tiêu chuẩn,(a) Nợ trong hạn và được đánh giá là có khả năng thu hồi đầy đủ cả nợ gốc và lãi đúng hạn; hoặc(b) Nợ quá hạn dưới 10 ngày và được đánh giá là có khả năng thu hồi đầy đủ nợ gốc và lãi bị quá hạn và thu hồi đầy đủ nợ gốc và lãi còn lại đúng thời hạn.,0%,,,0.0
+2,2,2,Nợ cần chủ ý,(a) Nợ quá hạn từ 10 ngày đến 90 ngày; hoặc(b) Nợ điều chỉnh kỳ hạn trả nợ lần đầu.,5%,,,0.05

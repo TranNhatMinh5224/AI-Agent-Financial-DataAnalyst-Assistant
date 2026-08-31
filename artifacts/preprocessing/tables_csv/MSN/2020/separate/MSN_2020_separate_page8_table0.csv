@@ -1,0 +1,10 @@
+﻿row_label_raw,row_label_full,col_0,Mã số,Thuyết minh,2020 VND,2019 VND,numeric__Mã số,numeric__Thuyết minh,numeric__2020 VND,numeric__2019 VND
+Doanh thu hoạt động tài chính,Doanh thu hoạt động tài chính,Doanh thu hoạt động tài chính,21,18,463.728.321.981,1.826.702.478.751,21.0,18.0,463728321981.0,1826702478751.0
+Chi phí tài chính,Chi phí tài chính,Chi phí tài chính,22,19,1.560.433.586.679,251.905.894.617,22.0,19.0,1560433586679.0,251905894617.0
+Trong đó: Chi phí lãi vay,Trong đó: Chi phí lãi vay,Trong đó: Chi phí lãi vay,23,,1.450.677.577.025,237.099.657.535,23.0,,1450677577025.0,237099657535.0
+Chi phí quản lý doanh nghiệp,Chi phí quản lý doanh nghiệp,Chi phí quản lý doanh nghiệp,26,20,226.080.051.894,224.772.875.252,26.0,20.0,226080051894.0,224772875252.0
+(Lỗ)/lợi nhuận thuần từ hoạt động kinh doanh (30 = 21 - 22 - 26),(Lỗ)/lợi nhuận thuần từ hoạt động kinh doanh (30 = 21 - 22 - 26),(Lỗ)/lợi nhuận thuần từ hoạt động kinh doanh (30 = 21 - 22 - 26),30,,(1.322.785.316.592),1.350.023.708.882,30.0,,-1322785316592.0,1350023708882.0
+(Lỗ)/lợi nhuận kế toán trước thuế (50 = 30),(Lỗ)/lợi nhuận kế toán trước thuế (50 = 30),(Lỗ)/lợi nhuận kế toán trước thuế (50 = 30),50,,(1.322.785.316.592),1.350.023.708.882,50.0,,-1322785316592.0,1350023708882.0
+Chi phí thuế TNDN hiện hành,Chi phí thuế TNDN hiện hành,Chi phí thuế TNDN hiện hành,51,21,-,-,51.0,21.0,,
+Chi phí thuế TNDN hoãn lại,Chi phí thuế TNDN hoãn lại,Chi phí thuế TNDN hoãn lại,52,21,-,-,52.0,21.0,,
+(Lỗ)/lợi nhuận sau thuế TNDN (60 = 50 - 51 - 52),(Lỗ)/lợi nhuận sau thuế TNDN (60 = 50 - 51 - 52),(Lỗ)/lợi nhuận sau thuế TNDN (60 = 50 - 51 - 52),60,,(1.322.785.316.592),1.350.023.708.882,60.0,,-1322785316592.0,1350023708882.0

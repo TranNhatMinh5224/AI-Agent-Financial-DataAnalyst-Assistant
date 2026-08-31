@@ -1,0 +1,12 @@
+﻿row_label_raw,row_label_full,col_0,01/01/2025,Số phải nộp trong năm,Số đã thực nộp trong năm,Đơn vị tính: VND 31/12/2025,numeric__01/01/2025,numeric__Số phải nộp trong năm,numeric__Số đã thực nộp trong năm,numeric__Đơn vị tính: VND 31/12/2025
+a) Phải nộp,a) Phải nộp,a) Phải nộp,a) Phải nộp,a) Phải nộp,a) Phải nộp,a) Phải nộp,,,,
+Thuế GTGT,a) Phải nộp > Thuế GTGT,Thuế GTGT,-,4.691.750.167,4.691.750.167,-,,4691750167.0,4691750167.0,
+Thuế thu nhập cá nhân,a) Phải nộp > Thuế thu nhập cá nhân,Thuế thu nhập cá nhân,224.948.071,8.456.532.655,8.521.284.381,160.196.345,224948071.0,8456532655.0,8521284381.0,160196345.0
+"Thuế nhà đất, tiền thuê đất","a) Phải nộp > Thuế nhà đất, tiền thuê đất","Thuế nhà đất, tiền thuê đất",-,6.546.026.179,6.546.026.179,-,,6546026179.0,6546026179.0,
+Thuế phí lệ phí và các khoản phải nộp khác,a) Phải nộp > Thuế phí lệ phí và các khoản phải nộp khác,Thuế phí lệ phí và các khoản phải nộp khác,-,1.472.768.662,1.472.768.662,-,,1472768662.0,1472768662.0,
+Cộng,a) Phải nộp > Cộng,Cộng,224.948.071,21.167.077.663,21.231.829.389,160.196.345,224948071.0,21167077663.0,21231829389.0,160196345.0
+b) Phải thu,b) Phải thu,b) Phải thu,b) Phải thu,b) Phải thu,b) Phải thu,b) Phải thu,,,,
+Thuế GTGT,b) Phải thu > Thuế GTGT,Thuế GTGT,4.002,4.002,12.085.909,12.085.909,4002.0,4002.0,12085909.0,12085909.0
+Thuế thu nhập doanh nghiệp,b) Phải thu > Thuế thu nhập doanh nghiệp,Thuế thu nhập doanh nghiệp,818.011.432,-,-,818.011.432,818011432.0,,,818011432.0
+"Thuế nhà đất, tiền thuê đất","b) Phải thu > Thuế nhà đất, tiền thuê đất","Thuế nhà đất, tiền thuê đất",66.141.987,-,359.076.969,425.218.956,66141987.0,,359076969.0,425218956.0
+Cộng,b) Phải thu > Cộng,Cộng,884.157.421,4.002,371.162.878,1.255.316.297,884157421.0,4002.0,371162878.0,1255316297.0

@@ -1,0 +1,24 @@
+﻿row_label_raw,row_label_full,col_0,col_1,Thuyết minh,2022 Triệu VND,2021 Triệu VND,numeric__col_1,numeric__Thuyết minh,numeric__2022 Triệu VND,numeric__2021 Triệu VND
+1,1,1,Thu nhập lãi và các khoản thu nhập tương tự,26,15.149.800,11.804.488,,26.0,15149800.0,11804488.0
+2,2,2,Chi phí lãi và các chi phí tương tự,27,(8.143.873),(6.618.395),,27.0,-8143873.0,-6618395.0
+I,I,I,Thu nhập lãi thuần,,7.005.927,5.186.093,,,7005927.0,5186093.0
+3,3,3,Thu nhập từ hoạt động dịch vụ,,1.642.698,1.519.119,,,1642698.0,1519119.0
+4,4,4,Chi phí hoạt động dịch vụ,,(275.381),(373.232),,,-275381.0,-373232.0
+II,II,II,Lãi thuần từ hoạt động dịch vụ,28,1.367.317,1.145.887,,28.0,1367317.0,1145887.0
+III,III,III,Lãi thuần từ hoạt động kinh doanh ngoại hối,29,223.886,148.886,,29.0,223886.0,148886.0
+IV,IV,IV,Lãi thuần từ mua bán chứng khoán kinh doanh,30,228.111,58.462,,30.0,228111.0,58462.0
+V,V,V,Lãi thuần từ mua bán chứng khoán đầu tư,31,621.173,306.197,,31.0,621173.0,306197.0
+5,5,5,Thu nhập từ hoạt động khác,,415.516,437.554,,,415516.0,437554.0
+6,6,6,Chi phí hoạt động khác,,(222.620),(257.040),,,-222620.0,-257040.0
+VI,VI,VI,Lãi thuần từ hoạt động khác,32,192.896,180.514,,32.0,192896.0,180514.0
+VII,VII,VII,Thu nhập từ góp vốn mua cổ phần,33,7.937,9.751,,33.0,7937.0,9751.0
+VIII,VIII,VIII,Chi phí hoạt động,34,(3.403.523),(2.529.414),,34.0,-3403523.0,-2529414.0
+IX,IX,IX,Lợi nhuận thuần từ hoạt động kinh doanh trước chi phí dự phòng rủi ro tín dụng,,6.243.724,4.506.376,,,6243724.0,4506376.0
+X,X,X,Chi phí dự phòng rủi ro tín dụng,,(1.174.738),(1.237.838),,,-1174738.0,-1237838.0
+XI,XI,XI,Tổng lợi nhuận trước thuế,,5.068.986,3.268.538,,,5068986.0,3268538.0
+7,7,7,Chi phí thuế thu nhập doanh nghiệp hiện hành,,(1.016.058),(662.020),,,-1016058.0,-662020.0
+XII,XII,XII,Chi phí thuế thu nhập doanh nghiệp,36,(1.016.058),(662.020),,36.0,-1016058.0,-662020.0
+XIII,XIII,XIII,Lợi nhuận sau thuế,,4.052.928,2.606.518,,,4052928.0,2606518.0
+XIV,XIV,XIV,Lợi ích của cổ đông không kiểm soát,,-,-,,,,
+,,,,,,(dã trình bày lại),,,,
+XV,XIV > XV,XV,Lãi cơ bản trên cổ phiếu (VND/cổ phiếu),37,1.889,1.408,,37.0,1889.0,1408.0

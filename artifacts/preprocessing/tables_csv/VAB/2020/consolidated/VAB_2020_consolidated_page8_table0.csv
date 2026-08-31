@@ -1,0 +1,28 @@
+﻿row_label_raw,row_label_full,CHỈ TIÊU,Thuyết minh,31/12/2020,01/01/2020,numeric__Thuyết minh,numeric__31/12/2020,numeric__01/01/2020
+A. TÀI SẢN,A. TÀI SẢN,A. TÀI SẢN,A. TÀI SẢN,A. TÀI SẢN,A. TÀI SẢN,,,
+"I. Tiền mặt, vàng bạc, đá quý","A. TÀI SẢN > I. Tiền mặt, vàng bạc, đá quý","I. Tiền mặt, vàng bạc, đá quý",V.01,295.746.112.695,266.475.949.276,,295746112695.0,266475949276.0
+II. Tiền gửi tại ngân hàng nhà nước,A. TÀI SẢN > II. Tiền gửi tại ngân hàng nhà nước,II. Tiền gửi tại ngân hàng nhà nước,V.02,2.200.651.682.348,2.941.222.700.590,,2200651682348.0,2941222700590.0
+III. Tiền gửi và cho vay các TCTD khác,A. TÀI SẢN > III. Tiền gửi và cho vay các TCTD khác,III. Tiền gửi và cho vay các TCTD khác,V.03,15.223.083.833.362,11.627.382.764.646,,15223083833362.0,11627382764646.0
+1. Tiền gửi tại các TCTD khác,A. TÀI SẢN > 1. Tiền gửi tại các TCTD khác,1. Tiền gửi tại các TCTD khác,,15.223.083.833.362,11.627.382.764.646,,15223083833362.0,11627382764646.0
+2. Cho vay các TCTD khác,2. Cho vay các TCTD khác,2. Cho vay các TCTD khác,,-,-,,,
+3. Dự phòng rủi ro,3. Dự phòng rủi ro,3. Dự phòng rủi ro,,-,-,,,
+IV. Chứng khoán kinh doanh,IV. Chứng khoán kinh doanh,IV. Chứng khoán kinh doanh,,-,-,,,
+1. Chứng khoán kinh doanh,1. Chứng khoán kinh doanh,1. Chứng khoán kinh doanh,,-,-,,,
+2. Dự phòng rủi ro chứng khoán kinh doanh,2. Dự phòng rủi ro chứng khoán kinh doanh,2. Dự phòng rủi ro chứng khoán kinh doanh,,-,-,,,
+V. Các công cụ tài chính phải sinh và các tài sản tài chính khác,2. Dự phòng rủi ro chứng khoán kinh doanh > V. Các công cụ tài chính phải sinh và các tài sản tài chính khác,V. Các công cụ tài chính phải sinh và các tài sản tài chính khác,V.4,5.554.449.516,49.127.120.000,,5554449516.0,49127120000.0
+VI. Cho vay khách hàng,2. Dự phòng rủi ro chứng khoán kinh doanh > VI. Cho vay khách hàng,VI. Cho vay khách hàng,,47.808.005.549.421,42.158.036.315.716,,47808005549421.0,42158036315716.0
+1. Cho vay khách hàng,2. Dự phòng rủi ro chứng khoán kinh doanh > 1. Cho vay khách hàng,1. Cho vay khách hàng,V.5.1,48.378.542.968.777,42.623.753.622.624,,48378542968777.0,42623753622624.0
+2. Dự phòng rủi ro cho vay khách hàng,2. Dự phòng rủi ro chứng khoán kinh doanh > 2. Dự phòng rủi ro cho vay khách hàng,2. Dự phòng rủi ro cho vay khách hàng,V.5.2,(570.537.419.356),(465.717.306.908),,-570537419356.0,-465717306908.0
+VII. Hoạt động mua nợ,2. Dự phòng rủi ro chứng khoán kinh doanh > VII. Hoạt động mua nợ,VII. Hoạt động mua nợ,V.06,-,1.518.946.560,,,1518946560.0
+1. Mua nợ,2. Dự phòng rủi ro chứng khoán kinh doanh > 1. Mua nợ,1. Mua nợ,,-,1.518.946.560,,,1518946560.0
+2. Dự phòng rủi ro hoạt động mua nợ,2. Dự phòng rủi ro hoạt động mua nợ,2. Dự phòng rủi ro hoạt động mua nợ,,-,-,,,
+VIII. Chứng khoán đầu tư,2. Dự phòng rủi ro hoạt động mua nợ > VIII. Chứng khoán đầu tư,VIII. Chứng khoán đầu tư,V.07,12.399.950.665.898,13.442.438.356.158,,12399950665898.0,13442438356158.0
+1. Chứng khoán đầu tư sẵn sàng để bán,2. Dự phòng rủi ro hoạt động mua nợ > 1. Chứng khoán đầu tư sẵn sàng để bán,1. Chứng khoán đầu tư sẵn sàng để bán,,11.216.122.161.812,10.218.379.052.113,,11216122161812.0,10218379052113.0
+2. Chứng khoán đầu tư giữ đến ngày đáo hạn,2. Dự phòng rủi ro hoạt động mua nợ > 2. Chứng khoán đầu tư giữ đến ngày đáo hạn,2. Chứng khoán đầu tư giữ đến ngày đáo hạn,,1.199.999.287.624,4.062.797.278.819,,1199999287624.0,4062797278819.0
+3. Dự phòng rủi ro chứng khoán đầu tư,2. Dự phòng rủi ro hoạt động mua nợ > 3. Dự phòng rủi ro chứng khoán đầu tư,3. Dự phòng rủi ro chứng khoán đầu tư,,(16.170.783.538),(838.737.974.774),,-16170783538.0,-838737974774.0
+"IX. Góp vốn, đầu tư dài hạn","2. Dự phòng rủi ro hoạt động mua nợ > IX. Góp vốn, đầu tư dài hạn","IX. Góp vốn, đầu tư dài hạn",V.08,113.873.630.000,313.373.630.000,,113873630000.0,313373630000.0
+1. Đầu tư vào công ty con,1. Đầu tư vào công ty con,1. Đầu tư vào công ty con,,-,-,,,
+2. Vốn góp liên doanh,2. Vốn góp liên doanh,2. Vốn góp liên doanh,,-,-,,,
+3. Đầu tư vào công ty liên kết,3. Đầu tư vào công ty liên kết,3. Đầu tư vào công ty liên kết,,-,-,,,
+4. Đầu tư dài hạn khác,3. Đầu tư vào công ty liên kết > 4. Đầu tư dài hạn khác,4. Đầu tư dài hạn khác,,113.873.630.000,313.373.630.000,,113873630000.0,313373630000.0
+5. Dự phòng giảm giá đầu tư dài hạn,5. Dự phòng giảm giá đầu tư dài hạn,5. Dự phòng giảm giá đầu tư dài hạn,,-,-,,,

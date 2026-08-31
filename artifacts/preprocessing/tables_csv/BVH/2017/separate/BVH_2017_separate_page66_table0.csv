@@ -1,0 +1,19 @@
+﻿row_label_raw,row_label_full,Chỉ tiêu,Đơn vị tính,Năm nay,Năm trước,numeric__Đơn vị tính,numeric__Năm nay,numeric__Năm trước
+1. Bố trí cơ cấu tài sản và cơ cấu nguồn vốn,1. Bố trí cơ cấu tài sản và cơ cấu nguồn vốn,1. Bố trí cơ cấu tài sản và cơ cấu nguồn vốn,1. Bố trí cơ cấu tài sản và cơ cấu nguồn vốn,1. Bố trí cơ cấu tài sản và cơ cấu nguồn vốn,1. Bố trí cơ cấu tài sản và cơ cấu nguồn vốn,,,
+1.1 Bố trí cơ cấu tài sản,1.1 Bố trí cơ cấu tài sản,1.1 Bố trí cơ cấu tài sản,,,,,,
+- Tài sản ngắn hạn/Tổng tài sản,1.1 Bố trí cơ cấu tài sản > - Tài sản ngắn hạn/Tổng tài sản,- Tài sản ngắn hạn/Tổng tài sản,%,"19,05","24,24",,19.05,24.24
+- Tài sản dài hạn/Tổng tài sản,1.1 Bố trí cơ cấu tài sản > - Tài sản dài hạn/Tổng tài sản,- Tài sản dài hạn/Tổng tài sản,%,"80,95","75,76",,80.95,75.76
+1.2 Bố trí cơ cấu nguồn vốn,1.2 Bố trí cơ cấu nguồn vốn,1.2 Bố trí cơ cấu nguồn vốn,,,,,,
+- Nợ phải trả/Tổng Nguồn vốn,1.2 Bố trí cơ cấu nguồn vốn > - Nợ phải trả/Tổng Nguồn vốn,- Nợ phải trả/Tổng Nguồn vốn,%,"3,26","3,72",,3.26,3.72
+- Nguồn vốn chủ sở hữu/Tổng Nguồn vốn,1.2 Bố trí cơ cấu nguồn vốn > - Nguồn vốn chủ sở hữu/Tổng Nguồn vốn,- Nguồn vốn chủ sở hữu/Tổng Nguồn vốn,%,"96,74","96,28",,96.74,96.28
+2. Khả năng thanh toán,2. Khả năng thanh toán,2. Khả năng thanh toán,2. Khả năng thanh toán,2. Khả năng thanh toán,2. Khả năng thanh toán,,,
+2.1 Khả năng thanh toán hiện hành,2. Khả năng thanh toán > 2.1 Khả năng thanh toán hiện hành,2.1 Khả năng thanh toán hiện hành,Lần,"5,84","6,52",,5.84,6.52
+2.2 Khả năng thanh toán nhanh,2. Khả năng thanh toán > 2.2 Khả năng thanh toán nhanh,2.2 Khả năng thanh toán nhanh,Lần,"5,84","6,52",,5.84,6.52
+3. Tỷ suất sinh lời,3. Tỷ suất sinh lời,3. Tỷ suất sinh lời,3. Tỷ suất sinh lời,3. Tỷ suất sinh lời,3. Tỷ suất sinh lời,,,
+3.1 Tỷ suất lợi nhuận/Doanh thu,3.1 Tỷ suất lợi nhuận/Doanh thu,3.1 Tỷ suất lợi nhuận/Doanh thu,,,,,,
+- Tỷ suất lợi nhuận trước thuế/Doanh thu thuần,3.1 Tỷ suất lợi nhuận/Doanh thu > - Tỷ suất lợi nhuận trước thuế/Doanh thu thuần,- Tỷ suất lợi nhuận trước thuế/Doanh thu thuần,%,"76,32","74,53",,76.32,74.53
+- Tỷ suất lợi nhuận sau thuế/Doanh thu thuần,3.1 Tỷ suất lợi nhuận/Doanh thu > - Tỷ suất lợi nhuận sau thuế/Doanh thu thuần,- Tỷ suất lợi nhuận sau thuế/Doanh thu thuần,%,"74,17","72,98",,74.17,72.98
+3.2 Tỷ suất lợi nhuận/Tổng tài sản,3.2 Tỷ suất lợi nhuận/Tổng tài sản,3.2 Tỷ suất lợi nhuận/Tổng tài sản,,,,,,
+- Tỷ suất lợi nhuận trước thuế/Tổng tài sản,3.2 Tỷ suất lợi nhuận/Tổng tài sản > - Tỷ suất lợi nhuận trước thuế/Tổng tài sản,- Tỷ suất lợi nhuận trước thuế/Tổng tài sản,%,"8,21","8,26",,8.21,8.26
+- Tỷ suất lợi nhuận sau thuế/Tổng tài sản,3.2 Tỷ suất lợi nhuận/Tổng tài sản > - Tỷ suất lợi nhuận sau thuế/Tổng tài sản,- Tỷ suất lợi nhuận sau thuế/Tổng tài sản,%,"7,98","8,09",,7.98,8.09
+3.3 Tỷ suất lợi nhuận sau thuế/Nguồn vốn chủ sở hữu,3.2 Tỷ suất lợi nhuận/Tổng tài sản > 3.3 Tỷ suất lợi nhuận sau thuế/Nguồn vốn chủ sở hữu,3.3 Tỷ suất lợi nhuận sau thuế/Nguồn vốn chủ sở hữu,%,"8,25","8,40",,8.25,8.4

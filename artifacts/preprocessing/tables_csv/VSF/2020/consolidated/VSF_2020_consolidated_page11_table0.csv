@@ -1,0 +1,32 @@
+﻿row_label_raw,row_label_full,CHỈ TIÊU,CHỈ TIÊU_1,Thuyết minh,Từ ngày 01/01/2020đến ngày 31/12/2020VND,Từ ngày 01/01/2019đến ngày 31/12/2019VND,numeric__CHỈ TIÊU_1,numeric__Thuyết minh,numeric__Từ ngày 01/01/2020đến ngày 31/12/2020VND,numeric__Từ ngày 01/01/2019đến ngày 31/12/2019VND
+I.,I.,I.,LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH,,,,,,,
+1.,I. > 1.,1.,Lợi nhuận trước thuế,,(210.109.338.631),(143.401.801.123),,,-210109338631.0,-143401801123.0
+2.,2.,2.,Điều chỉnh cho các khoản,,,,,,,
+-,2. > -,-,Khấu hao tài sản cố định và bất động sản đầu tư,,329.465.432.600,351.358.989.596,,,329465432600.0,351358989596.0
+-,2. > -,-,Các khoản dự phòng,,34.704.150.820,(4.580.475.225),,,34704150820.0,-4580475225.0
+-,2. > -,-,"Lãi, lỗ chênh lệch tỷ giá hối đoái do đánh giá lại các khoản mục tiền tệ có gốc ngoại tệ",,(410.100.943),1.396.272.095,,,-410100943.0,1396272095.0
+-,2. > -,-,"Lãi, lỗ từ hoạt động đầu tư",,(6.001.790.016),(39.133.526.306),,,-6001790016.0,-39133526306.0
+-,2. > -,-,Chi phí lãi vay,,114.239.406.853,176.673.267.377,,,114239406853.0,176673267377.0
+3.,2. > 3.,3.,Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động,,261.887.760.683,342.312.726.414,,,261887760683.0,342312726414.0
+-,2. > -,-,"Tăng, giảm các khoản phải thu",,347.149.759.148,(480.011.796.328),,,347149759148.0,-480011796328.0
+-,2. > -,-,"Tăng, giảm hàng tồn kho",,(85.598.090.483),1.577.917.885.366,,,-85598090483.0,1577917885366.0
+-,2. > -,-,"Tăng, giảm các khoản phải trả (không kể lãi vay phải trả, thuế thu nhập doanh nghiệp phải nộp)",,400.642.814.693,(265.323.323.170),,,400642814693.0,-265323323170.0
+-,2. > -,-,"Tăng, giảm chi phí trả trước",,30.284.842.156,189.989.371.768,,,30284842156.0,189989371768.0
+-,2. > -,-,Tiền lãi vay đã trả,,(99.843.090.357),(141.880.343.534),,,-99843090357.0,-141880343534.0
+-,2. > -,-,Thuế thu nhập doanh nghiệp đã nộp,,(24.418.131.091),(18.472.670.350),,,-24418131091.0,-18472670350.0
+-,-,-,Tiền thu khác từ hoạt động kinh doanh,,,-,,,,
+-,- > -,-,Tiền chi khác cho hoạt động kinh doanh,,(1.127.460.193),(1.329.378.470),,,-1127460193.0,-1329378470.0
+Lưu chuyển tiền thuần từ hoạt động kinh doanh,- > Lưu chuyển tiền thuần từ hoạt động kinh doanh,Lưu chuyển tiền thuần từ hoạt động kinh doanh,Lưu chuyển tiền thuần từ hoạt động kinh doanh,,828.978.404.556,1.203.202.471.696,,,828978404556.0,1203202471696.0
+II.,II.,II.,LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TƯ,,,,,,,
+1.,II. > 1.,1.,"Tiền chi đề mua sắm, xây dựng tài sản cố định và các tài sản dài hạn khác",,(41.189.064.648),(46.498.898.145),,,-41189064648.0,-46498898145.0
+2.,II. > 2.,2.,"Tiền thu từ thanh lý, nhượng bán tài sản cố định và các tài sản dài hạn khác",,14.754.333.821,30.574.650.403,,,14754333821.0,30574650403.0
+3.,II. > 3.,3.,"Tiền chi cho vay, mua các công cụ nợ của đơn vị khác",,(44.000.000.000),(26.180.000.000),,,-44000000000.0,-26180000000.0
+4.,II. > 4.,4.,"Tiền thu hồi cho vay, bán lại các công cụ nợ của đơn vị khác",,28.180.000.000,27.500.000.000,,,28180000000.0,27500000000.0
+5.,II. > 5.,5.,"Tiền thu lãi cho vay, cổ tức và lợi nhuận được chia",,11.711.532.982,3.792.215.946,,,11711532982.0,3792215946.0
+Lưu chuyển tiền thuần từ hoạt động đầu tư,II. > Lưu chuyển tiền thuần từ hoạt động đầu tư,Lưu chuyển tiền thuần từ hoạt động đầu tư,Lưu chuyển tiền thuần từ hoạt động đầu tư,,(30.543.197.845),(10.812.031.796),,,-30543197845.0,-10812031796.0
+III.,III.,III.,LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG TÀI CHÍNH,,,,,,,
+1.,III. > 1.,1.,Tiền thu từ đi vay,,8.237.271.674.978,9.441.188.189.882,,,8237271674978.0,9441188189882.0
+2.,III. > 2.,2.,Tiền trả nợ gốc vay,,(9.052.019.452.142),(10.494.825.145.236),,,-9052019452142.0,-10494825145236.0
+3.,III. > 3.,3.,"Cổ tức, lợi nhuận đã trả cho chủ sở hữu",,(16.457.338.702),(18.433.116.314),,,-16457338702.0,-18433116314.0
+Lưu chuyển tiền thuần từ hoạt động tài chính,III. > Lưu chuyển tiền thuần từ hoạt động tài chính,Lưu chuyển tiền thuần từ hoạt động tài chính,Lưu chuyển tiền thuần từ hoạt động tài chính,,(831.205.115.866),(1.072.070.071.668),,,-831205115866.0,-1072070071668.0
+Lưu chuyển tiền thuần trong kỳ,III. > Lưu chuyển tiền thuần trong kỳ,Lưu chuyển tiền thuần trong kỳ,Lưu chuyển tiền thuần trong kỳ,,(32.769.909.155),120.320.368.232,,,-32769909155.0,120320368232.0

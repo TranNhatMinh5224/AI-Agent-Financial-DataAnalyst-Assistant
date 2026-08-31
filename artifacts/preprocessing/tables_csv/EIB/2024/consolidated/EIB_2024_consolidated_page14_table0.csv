@@ -1,0 +1,12 @@
+﻿row_label_raw,row_label_full,col_0,col_1,Thuyết minh,Năm tài chính kết thúc ngày 31 tháng 12 năm > 2024Triệu đồng,Năm tài chính kết thúc ngày 31 tháng 12 năm > 2023Triệu đồng,numeric__col_1,numeric__Thuyết minh,numeric__Năm tài chính kết thúc ngày 31 tháng 12 năm > 2024Triệu đồng,numeric__Năm tài chính kết thúc ngày 31 tháng 12 năm > 2023Triệu đồng
+01,01,01,LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TƯ,,,,,,,
+01,01 > 01,01,"Mua sắm tài sản cố định (""TSCĐ"") và tài sản dài hạn khác",,(300.268),(660.423),,,-300268.0,-660423.0
+02,01 > 02,02,"Tiền thu từ thanh lý, nhượng bán TSCĐ",,5.194,19.009,,,5194.0,19009.0
+09,01 > 09,09,"Tiền thu cổ tức và lợi nhuận được chia từ các khoản đầu tư, góp vốn dài hạn",,1.385,1.148,,,1385.0,1148.0
+II,01 > II,II,LU'U CHUYÊN TIÊN THUÀN TỪ HOẠT ĐỘNG ĐẦU TƯ,,(293.689),(640.266),,,-293689.0,-640266.0
+04,04,04,LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG TÀI CHÍNH,,,,,,,
+04,04 > 04,04,Cổ tức trả cho cổ đông,19.1,(522.260),-,,191.0,-522260.0,
+III,04 > III,III,LU'U CHUYÊN TIÊN THUÀN TỪ HOẠT ĐỘNG TÀI CHÍNH,,(522.260),-,,,-522260.0,
+IV,04 > IV,IV,LU'U CHUYÊN TIÊN THUÀN TRONG NĂM,,(12.046.059),8.585.640,,,-12046059.0,8585640.0
+V,04 > V,V,TIÊN VÀ CÁC KHOÀN TƯƠNG ĐƯƠNG TIÊN TẠI THỜI ĐIỂM ĐẦU NĂM,30,49.342.846,40.757.206,,30.0,49342846.0,40757206.0
+VII,04 > VII,VII,TIÊN VÀ CÁC KHOÀN TƯƠNG ĐƯƠNG TIÊN TẠI THỜI ĐIỂM CUỐI NĂM,30,37.296.787,49.342.846,,30.0,37296787.0,49342846.0

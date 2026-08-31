@@ -1,0 +1,14 @@
+﻿row_label_raw,row_label_full,col_0,Số đầu năm,Số phải nộp trong năm,Số đã nộp trong năm,Đơn vị tính: VND > Số cuối năm,numeric__Số đầu năm,numeric__Số phải nộp trong năm,numeric__Số đã nộp trong năm,numeric__Đơn vị tính: VND > Số cuối năm
+Phải nộp,Phải nộp,Phải nộp,Phải nộp,Phải nộp,Phải nộp,Phải nộp,,,,
+Thuế giá trị gia tăng,Phải nộp > Thuế giá trị gia tăng,Thuế giá trị gia tăng,72.706.300.357,18.588.890.831,(54.948.503.065),36.346.688.123,72706300357.0,18588890831.0,-54948503065.0,36346688123.0
+Thuế thu nhập doanh nghiệp(Thuyết minh số 29),Phải nộp > Thuế thu nhập doanh nghiệp(Thuyết minh số 29),Thuế thu nhập doanh nghiệp(Thuyết minh số 29),172.866.673.533,252.330.651.691,(321.939.769.128),103.257.556.096,172866673533.0,252330651691.0,-321939769128.0,103257556096.0
+Thuế thu nhập cá nhân,Phải nộp > Thuế thu nhập cá nhân,Thuế thu nhập cá nhân,3.893.726.183,17.389.758.343,(20.846.306.250),437.178.276,3893726183.0,17389758343.0,-20846306250.0,437178276.0
+Các khoản phải nộp Nhà nước khác,Phải nộp > Các khoản phải nộp Nhà nước khác,Các khoản phải nộp Nhà nước khác,204.876.917.481,28.665.288.083,(224.281.701.962),9.260.503.602,204876917481.0,28665288083.0,-224281701962.0,9260503602.0
+TỔNG CỘNG,Phải nộp > TỔNG CỘNG,TỔNG CỘNG,454.343.617.554,316.974.588.948,(622.016.280.405),149.301.926.097,454343617554.0,316974588948.0,-622016280405.0,149301926097.0
+,,,Số đầu năm,Số phải thu trong nămtrong năm,Số cán trừ trong năm,Số cuối năm,,,,
+Phải thu,Phải thu,Phải thu,Phải thu,Phải thu,Phải thu,Phải thu,,,,
+Thuế giá trị gia tăng được khấu trừ,Phải thu > Thuế giá trị gia tăng được khấu trừ,Thuế giá trị gia tăng được khấu trừ,162.365.406.594,81.799.434.470,(107.580.568.705),136.584.272.359,162365406594.0,81799434470.0,-107580568705.0,136584272359.0
+Thuế khác,Phải thu > Thuế khác,Thuế khác,1.449.594.958,28.061.610.773,-,29.511.205.731,1449594958.0,28061610773.0,,29511205731.0
+TỔNG CỘNG,Phải thu > TỔNG CỘNG,TỔNG CỘNG,163.815.001.552,109.861.045.243,(107.580.568.705),166.095.478.090,163815001552.0,109861045243.0,-107580568705.0,166095478090.0
+Trong đó:,Trong đó:,Trong đó:,Trong đó:,Trong đó:,Trong đó:,Trong đó:,,,,
+Thuế và các khoản phải thu Nhà nước,Trong đó: > Thuế và các khoản phải thu Nhà nước,Thuế và các khoản phải thu Nhà nước,1.449.594.958,,,29.511.205.731,1449594958.0,,,29511205731.0

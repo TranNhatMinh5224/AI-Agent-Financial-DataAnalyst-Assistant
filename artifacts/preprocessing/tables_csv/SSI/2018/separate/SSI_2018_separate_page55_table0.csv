@@ -1,0 +1,17 @@
+﻿row_label_raw,row_label_full,Thuế giá trị gia tăng,Thuế giá trị gia tăng_1,Số cuối nămVND > 815.853.250,Số đầu nămVND > 8.686.432.893,col_4,col_5,numeric__Thuế giá trị gia tăng_1,numeric__Số cuối nămVND > 815.853.250,numeric__Số đầu nămVND > 8.686.432.893,numeric__col_4,numeric__col_5
+Thuế thu nhập doanh nghiệp,Thuế thu nhập doanh nghiệp,Thuế thu nhập doanh nghiệp,Thuế thu nhập doanh nghiệp,39.931.475.009,77.357.405.990,,,,39931475009.0,77357405990.0,,
+Thuế thu nhập cá nhân,Thuế thu nhập cá nhân,Thuế thu nhập cá nhân,Thuế thu nhập cá nhân,23.473.229.577,33.792.597.188,,,,23473229577.0,33792597188.0,,
+Thuế nhà thầu,Thuế nhà thầu,Thuế nhà thầu,Thuế nhà thầu,3.884.243.799,3.822.281.152,,,,3884243799.0,3822281152.0,,
+Tổng cộng,Tổng cộng,Tổng cộng,Tổng cộng,68.104.801.635,123.658.717.223,,,,68104801635.0,123658717223.0,,
+Chi tiết thuế và các khoản phải nộp nhà nước:,Chi tiết thuế và các khoản phải nộp nhà nước:,Chi tiết thuế và các khoản phải nộp nhà nước:,Chi tiết thuế và các khoản phải nộp nhà nước:,Chi tiết thuế và các khoản phải nộp nhà nước:,Chi tiết thuế và các khoản phải nộp nhà nước:,Chi tiết thuế và các khoản phải nộp nhà nước:,Chi tiết thuế và các khoản phải nộp nhà nước:,,,,,
+STT,STT,STT,Chỉ tiêu,Số đầu nămVND,Số phải nộptrong nămVND,Số đã nộptrong nămVND,Số cuối nămVND,,,,,
+I,STT > I,I,Thuế,123.658.717.223,742.851.638.971,798.405.554.559,68.104.801.635,,123658717223.0,742851638971.0,798405554559.0,68104801635.0
+1,STT > 1,1,Thuế giá trị gia tăng hàng bán nội địa,8.686.432.893,26.257.330.752,34.127.910.395,815.853.250,,8686432893.0,26257330752.0,34127910395.0,815853250.0
+2,STT > 2,2,Thuế thu nhập doanh nghiệp(Thuyết minh số 39.1),77.357.405.990,311.328.839.663,348.754.770.644,39.931.475.009,,77357405990.0,311328839663.0,348754770644.0,39931475009.0
+3,STT > 3,3,Các loại thuế khác,37.614.878.340,405.265.468.556,415.522.873.520,27.357.473.376,,37614878340.0,405265468556.0,415522873520.0,27357473376.0
+3,STT > 3,3,Thuế thu nhập cá nhân,10.985.605.196,65.531.392.901,70.861.017.515,5.655.980.582,,10985605196.0,65531392901.0,70861017515.0,5655980582.0
+3,STT > 3,3,Thuế thu nhập cá nhân nộp hộ nhà đầu tư,22.806.991.992,276.660.165.747,281.649.908.744,17.817.248.995,,22806991992.0,276660165747.0,281649908744.0,17817248995.0
+3,STT > 3,3,Thuế môn bài,-,17.000.000,17.000.000,-,,,17000000.0,17000000.0,
+3,STT > 3,3,Thuế khác,3.822.281.152,63.056.909.908,62.994.947.261,3.884.243.799,,3822281152.0,63056909908.0,62994947261.0,3884243799.0
+II,STT > II,II,Các khoản phải nộp khác,-,1.687.258.028,1.687.258.028,-,,,1687258028.0,1687258028.0,
+II,STT > II,II,Tổng cộng,123.658.717.223,744.538.896.999,800.092.812.587,68.104.801.635,,123658717223.0,744538896999.0,800092812587.0,68104801635.0

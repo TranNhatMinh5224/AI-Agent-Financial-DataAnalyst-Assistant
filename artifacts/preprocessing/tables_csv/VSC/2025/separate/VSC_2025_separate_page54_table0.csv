@@ -1,0 +1,23 @@
+﻿row_label_raw,row_label_full,(i),Phải thu ngắn hạn của khách hàng(Thuyết minh 4),31/12/2025VND,31/12/2024VND,numeric__Phải thu ngắn hạn của khách hàng(Thuyết minh 4),numeric__31/12/2025VND,numeric__31/12/2024VND
+(i),(i),(i),Công ty Cổ phần Cảng Xanh VIP,1.887.029.171,-,,1887029171.0,
+(i),(i),(i),Công ty Cổ phần Cảng VIMC Đình Vũ,5.087.822.486,-,,5087822486.0,
+(i),(i),(i),Công ty Cổ phần Cảng cạn Quảng Bình - Đình Vũ,78.858.360,-,,78858360.0,
+(i),(i),(i),Công ty TNHH Cảng Nam Hải Đình Vũ,776.666.976,-,,776666976.0,
+(i),(i),(i),Công ty Cổ phần VSC Green Logistics,691.363.080,-,,691363080.0,
+(i),(i),(i),Công ty TNHH Một thành viên Trung tâmLogistics Xanh,2.048.894.246,1.071.280.040,,2048894246.0,1071280040.0
+(i),(i),(i),Công ty TNHH Một thành viên Dịch vụ Cảng Xanh,5.444.886.354,4.975.977.458,,5444886354.0,4975977458.0
+(i),(i),(i),Công ty TNHH Một thành viên ViconshipHồ Chí Minh,38.500.000,-,,38500000.0,
+(i),(i),(i),Công ty TNHH Một thành viên Vận tải biểnNgôi sao Xanh,4.278.317.782,506.995.528,,4278317782.0,506995528.0
+(i),(i),(i),,20.332.338.455,6.554.253.026,,20332338455.0,6554253026.0
+(ii),(ii),(ii),Phải thu về cho vay ngắn hạn (Thuyết minh 5),,,,,
+(ii),(ii) > (ii),(ii),Công ty Cổ phần Cảng cạn Quảng Bình - Đình Vũ,3.500.000.000,-,,3500000000.0,
+(ii),(ii) > (ii),(ii),Công ty TNHH Cảng Nam Hải Đình Vũ,-,44.666.666.668,,,44666666668.0
+(ii),(ii) > (ii),(ii),,3.500.000.000,44.666.666.668,,3500000000.0,44666666668.0
+(iii),(iii),(iii),Phải thu ngắn hạn khác (Thuyết minh 6),,,,,
+(iii),(iii) > (iii),(iii),Công ty TNHH Một thành viên Trung tâmLogistics Xanh,38.243.691.203,-,,38243691203.0,
+(iii),(iii) > (iii),(iii),Công ty TNHH Một thành viên ViconshipHồ Chí Minh,24.164.000.000,14.750.000.000,,24164000000.0,14750000000.0
+(iii),(iii) > (iii),(iii),Công ty Cổ phần Cảng cạn Quảng Bình - Đình Vũ,41.136.986,-,,41136986.0,
+(iii),(iii) > (iii),(iii),Công ty TNHH Cảng Nam Hải Đình Vũ,-,93.534.247,,,93534247.0
+(iii),(iii) > (iii),(iii),,62.448.828.189,14.843.534.247,,62448828189.0,14843534247.0
+(iv),(iv),(iv),Phải trả người bán ngắn hạn,,,,,
+(iv),(iv) > (iv),(iv),Công ty Cổ phần Container Miền Trung,-,25.130.000,,,25130000.0

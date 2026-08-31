@@ -1,0 +1,13 @@
+﻿row_label_raw,row_label_full,col_0,Mã số,Thuyết minh,2016 VND,2015 VND,numeric__Mã số,numeric__Thuyết minh,numeric__2016 VND,numeric__2015 VND
+Doanh thu hoạt động tài chính,Doanh thu hoạt động tài chính,Doanh thu hoạt động tài chính,21,20,1.861.035.493.591,678.579.992.280,21.0,20.0,1861035493591.0,678579992280.0
+Chi phí tài chính,Chi phí tài chính,Chi phí tài chính,22,21,670.689.135.928,626.778.867.195,22.0,21.0,670689135928.0,626778867195.0
+Trong đó: Chi phí lãi vay,Trong đó: Chi phí lãi vay,Trong đó: Chi phí lãi vay,23,,613.355.184.493,623.114.710.033,23.0,,613355184493.0,623114710033.0
+Chi phí quản lý doanh nghiệp,Chi phí quản lý doanh nghiệp,Chi phí quản lý doanh nghiệp,26,22,388.854.380.252,583.219.079.380,26.0,22.0,388854380252.0,583219079380.0
+Lợi nhuận/(lỗ) thuần từ hoạt động kinh doanh (30 = 21 - 22 - 26),Lợi nhuận/(lỗ) thuần từ hoạt động kinh doanh (30 = 21 - 22 - 26),Lợi nhuận/(lỗ) thuần từ hoạt động kinh doanh (30 = 21 - 22 - 26),30,,801.491.977.411,(531.417.954.295),30.0,,801491977411.0,-531417954295.0
+Thu nhập khác,Thu nhập khác,Thu nhập khác,31,,122.230,9.113.127.889,31.0,,122230.0,9113127889.0
+Chi phí khác,Chi phí khác,Chi phí khác,32,,3.434.314.707,50.327.521,32.0,,3434314707.0,50327521.0
+Kết quả từ các hoạt động khác (40 = 31 - 32),Kết quả từ các hoạt động khác (40 = 31 - 32),Kết quả từ các hoạt động khác (40 = 31 - 32),40,,(3.434.192.477),9.062.800.368,40.0,,-3434192477.0,9062800368.0
+Lợi nhuận/(lỗ) kế toán trước thuế (50 = 30 + 40),Lợi nhuận/(lỗ) kế toán trước thuế (50 = 30 + 40),Lợi nhuận/(lỗ) kế toán trước thuế (50 = 30 + 40),50,,798.057.784.934,(522.355.153.927),50.0,,798057784934.0,-522355153927.0
+Chi phí thuế TNDN hiện hành,Chi phí thuế TNDN hiện hành,Chi phí thuế TNDN hiện hành,51,23,-,-,51.0,23.0,,
+Chi phí thuế TNDN hoãn lại,Chi phí thuế TNDN hoãn lại,Chi phí thuế TNDN hoãn lại,52,23,-,-,52.0,23.0,,
+Lợi nhuận/(lỗ) sau thuế TNDN (60 = 50 - 51 - 52),Lợi nhuận/(lỗ) sau thuế TNDN (60 = 50 - 51 - 52),Lợi nhuận/(lỗ) sau thuế TNDN (60 = 50 - 51 - 52),60,,798.057.784.934,(522.355.153.927),60.0,,798057784934.0,-522355153927.0

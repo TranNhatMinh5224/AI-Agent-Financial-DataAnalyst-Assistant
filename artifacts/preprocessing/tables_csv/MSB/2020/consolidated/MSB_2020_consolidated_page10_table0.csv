@@ -1,0 +1,23 @@
+﻿row_label_raw,row_label_full,col_0,col_1,Thuyết minh,2020 Triệu VND,2019 Triệu VND,numeric__col_1,numeric__Thuyết minh,numeric__2020 Triệu VND,numeric__2019 Triệu VND
+1,1,1,Thu nhập lãi và các khoản thu nhập tương tự,24,10.019.692,8.594.805,,24.0,10019692.0,8594805.0
+2,2,2,Chi phí lãi và các khoản chi phí tương tự,25,(5.197.303),(5.532.701),,25.0,-5197303.0,-5532701.0
+I,I,I,Thu nhập lãi thuần,,4.822.389,3.062.104,,,4822389.0,3062104.0
+3,3,3,Thu nhập từ hoạt động dịch vụ,,1.139.289,801.506,,,1139289.0,801506.0
+4,4,4,Chi phí hoạt động dịch vụ,,(318.619),(279.253),,,-318619.0,-279253.0
+II,II,II,Lãi thuần từ hoạt động dịch vụ,26,820.670,522.253,,26.0,820670.0,522253.0
+III,III,III,Lãi thuần từ hoạt động kinh doanh ngoại hối,27,269.999,155.449,,27.0,269999.0,155449.0
+IV,IV,IV,(Lỗ)/lãi thuần từ mua bán chứng khoán kinh doanh,28,(8.433),3.447,,28.0,-8433.0,3447.0
+V,V,V,Lãi thuần từ mua bán chứng khoán đầu tư,29,560.927,150.457,,29.0,560927.0,150457.0
+5,5,5,Thu nhập từ hoạt động khác,,921.833,930.058,,,921833.0,930058.0
+6,6,6,Chi phí hoạt động khác,,(205.094),(151.220),,,-205094.0,-151220.0
+VI,VI,VI,Lãi thuần từ hoạt động khác,30,716.739,778.838,,30.0,716739.0,778838.0
+VII,VII,VII,"Thu nhập từ góp vốn, mua cổ phần",,189,42.606,,,189.0,42606.0
+VIII,VIII,VIII,Chi phí hoạt động,31,(3.585.922),(2.502.184),,31.0,-3585922.0,-2502184.0
+IX,IX,IX,Lợi nhuận thuần từ hoạt động kinh doanh trước chỉ phí dự phòng rủi ro tín dụng,,3.596.558,2.212.970,,,3596558.0,2212970.0
+X,X,X,Chi phí dự phòng rủi ro tín dụng,32,(1.073.244),(925.148),,32.0,-1073244.0,-925148.0
+XI,XI,XI,Tổng lợi nhuận trước thuế,,2.523.314,1.287.822,,,2523314.0,1287822.0
+7,7,7,Chi phí thuế thu nhập doanh nghiệp hiện hành,,(512.216),(244.262),,,-512216.0,-244262.0
+8,8,8,Thu nhập thuế thu nhập doanh nghiệp hoãn lại,,46,-,,,46.0,
+XII,XII,XII,Chi phí thuế thu nhập doanh nghiệp (“TNDN”),33,(512.170),(244.262),,33.0,-512170.0,-244262.0
+XIII,XIII,XIII,Lợi nhuận sau thuế,,2.011.144,1.043.560,,,2011144.0,1043560.0
+XV,XV,XV,Lãi cơ bản trên cổ phiếu (VND/cổ phiếu),34,1.872,971,,34.0,1872.0,971.0

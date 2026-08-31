@@ -1,0 +1,12 @@
+﻿row_label_raw,row_label_full,col_0,Số dư đầu năm(Trình bày lại),Phát sinh trong năm > Số phải nộp,Phát sinh trong năm > Số đã nộp,Số dư cuối năm,numeric__Số dư đầu năm(Trình bày lại),numeric__Phát sinh trong năm > Số phải nộp,numeric__Phát sinh trong năm > Số đã nộp,numeric__Số dư cuối năm
+,,,Triệu VND,Triệu VND,Triệu VND,Triệu VND,,,,
+a. Các khoản phải thu,a. Các khoản phải thu,a. Các khoản phải thu,a. Các khoản phải thu,a. Các khoản phải thu,a. Các khoản phải thu,a. Các khoản phải thu,,,,
+Thuế GTGT,a. Các khoản phải thu > Thuế GTGT,Thuế GTGT,-,-,3.077,3.077,,,3077.0,3077.0
+Thuế TNDN,a. Các khoản phải thu > Thuế TNDN,Thuế TNDN,2.344,2.322,879,901,2344.0,2322.0,879.0,901.0
+Các loại thuế khác,Các loại thuế khác,Các loại thuế khác,-,-,-,-,,,,
+,,,2.344,2.322,3.956,3.978,2344.0,2322.0,3956.0,3978.0
+b. Các khoản phải trả,b. Các khoản phải trả,b. Các khoản phải trả,b. Các khoản phải trả,b. Các khoản phải trả,b. Các khoản phải trả,b. Các khoản phải trả,,,,
+Thuế GTGT,b. Các khoản phải trả > Thuế GTGT,Thuế GTGT,277.177,867.720,767.877,377.020,277177.0,867720.0,767877.0,377020.0
+Thuế TNDN,b. Các khoản phải trả > Thuế TNDN,Thuế TNDN,2.959.719,4.949.526,4.789.563,3.119.682,2959719.0,4949526.0,4789563.0,3119682.0
+Các loại thuế khác,b. Các khoản phải trả > Các loại thuế khác,Các loại thuế khác,193.169,1.179.073,1.277.946,94.296,193169.0,1179073.0,1277946.0,94296.0
+,,,3.430.065,6.996.319,6.835.386,3.590.998,3430065.0,6996319.0,6835386.0,3590998.0

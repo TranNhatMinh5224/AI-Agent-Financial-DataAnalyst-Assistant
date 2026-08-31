@@ -1,0 +1,6 @@
+﻿row_label_raw,row_label_full,Nhóm,Nhóm dư Nợ,Tỷ lệ dự phòng cụ thể,numeric__Nhóm dư Nợ,numeric__Tỷ lệ dự phòng cụ thể
+1,1,1,Nợ đủ tiêu chuẩn,0%,,0.0
+2,2,2,Nợ cần chú ý,5%,,0.05
+3,3,3,Nợ dưới tiêu chuẩn,20%,,0.2
+4,4,4,Nợ nghi ngờ,50%,,0.5
+5,5,5,Nợ có khả năng mất vốn,100%,,1.0

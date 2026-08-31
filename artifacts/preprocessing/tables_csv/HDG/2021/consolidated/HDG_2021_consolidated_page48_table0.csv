@@ -1,0 +1,13 @@
+﻿row_label_raw,row_label_full,col_0,Số đầu năm,Tăng/(giảm) do các giao dịch hợp nhất kinh doanh,Số phải nộp trong năm,Số đã nộp/cán trừ trong năm,Đơn vị tính: VND,numeric__Số đầu năm,numeric__Tăng/(giảm) do các giao dịch hợp nhất kinh doanh,numeric__Số phải nộp trong năm,numeric__Số đã nộp/cán trừ trong năm,numeric__Đơn vị tính: VND
+Phải nộp,Phải nộp,Phải nộp,Phải nộp,Phải nộp,Phải nộp,Phải nộp,Phải nộp,,,,,
+Thuế giá trị gia tăng,Phải nộp > Thuế giá trị gia tăng,Thuế giá trị gia tăng,17.432.895.649,(2.134.025.674),500.180.834.156,(503.745.888.569),11.733.815.562,17432895649.0,-2134025674.0,500180834156.0,-503745888569.0,11733815562.0
+Thuế thu nhập doanh nghiệp,Phải nộp > Thuế thu nhập doanh nghiệp,Thuế thu nhập doanh nghiệp,246.577.831.330,-,294.865.513.198,(434.043.634.344),107.399.710.184,246577831330.0,,294865513198.0,-434043634344.0,107399710184.0
+Thuế thu nhập cá nhân,Phải nộp > Thuế thu nhập cá nhân,Thuế thu nhập cá nhân,3.572.158.419,(324.573.467),19.085.758.219,(19.831.561.071),2.501.782.100,3572158419.0,-324573467.0,19085758219.0,-19831561071.0,2501782100.0
+Thuế và các khoản phải nộp Nhà nước khác,Phải nộp > Thuế và các khoản phải nộp Nhà nước khác,Thuế và các khoản phải nộp Nhà nước khác,4.495.319.673,-,87.235.949.481,(78.213.843.920),13.517.425.234,4495319673.0,,87235949481.0,-78213843920.0,13517425234.0
+TỔNG CỘNG,Phải nộp > TỔNG CỘNG,TỔNG CỘNG,272.078.205.071,(2.458.599.141),901.368.055.054,(1.035.834.927.904),135.152.733.080,272078205071.0,-2458599141.0,901368055054.0,-1035834927904.0,135152733080.0
+,,,,Tăng/(giảm) do các giao dịch hợp nhất kinh doanh,Số phải thu trong năm,Số đã thu/cán trừ trong năm,Số cuối năm,,,,,
+Phải thu,Phải thu,Phải thu,Phải thu,Phải thu,Phải thu,Phải thu,Phải thu,,,,,
+Thuế giá trị gia tăng,Phải thu > Thuế giá trị gia tăng,Thuế giá trị gia tăng,121.986.703.943,(2.116.388.866),300.266.144.751,(294.908.359.418),125.228.100.410,121986703943.0,-2116388866.0,300266144751.0,-294908359418.0,125228100410.0
+Thuế thu nhập doanh nghiệp,Phải thu > Thuế thu nhập doanh nghiệp,Thuế thu nhập doanh nghiệp,20.438.829.691,-,-,(19.833.648.202),605.181.489,20438829691.0,,,-19833648202.0,605181489.0
+Thuế và các khoản phải thu Nhà nước khác,Phải thu > Thuế và các khoản phải thu Nhà nước khác,Thuế và các khoản phải thu Nhà nước khác,98.946.579,-,1.240.704.568,(28.671.536),1.310.979.611,98946579.0,,1240704568.0,-28671536.0,1310979611.0
+TỔNG CỘNG,Phải thu > TỔNG CỘNG,TỔNG CỘNG,142.524.480.213,(2.116.388.866),301.506.849.319,(314.770.679.156),127.144.261.510,142524480213.0,-2116388866.0,301506849319.0,-314770679156.0,127144261510.0

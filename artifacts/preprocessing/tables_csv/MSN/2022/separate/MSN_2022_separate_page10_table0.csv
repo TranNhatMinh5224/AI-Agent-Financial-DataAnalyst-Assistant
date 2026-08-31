@@ -1,0 +1,13 @@
+﻿row_label_raw,row_label_full,col_0,Mã số,Thuyết minh,2022 VND,2021 VND,numeric__Mã số,numeric__Thuyết minh,numeric__2022 VND,numeric__2021 VND
+Doanh thu hoạt động tài chính,Doanh thu hoạt động tài chính,Doanh thu hoạt động tài chính,21,18,2.118.483.763.229,5.271.261.693.608,21.0,18.0,2118483763229.0,5271261693608.0
+Chi phí tài chính,Chi phí tài chính,Chi phí tài chính,22,19,2.780.871.786.007,2.933.473.829.813,22.0,19.0,2780871786007.0,2933473829813.0
+Trong đó: Chi phí lãi vay,Trong đó: Chi phí lãi vay,Trong đó: Chi phí lãi vay,23,,2.035.765.715.561,2.427.396.695.049,23.0,,2035765715561.0,2427396695049.0
+Chi phí quản lý doanh nghiệp,Chi phí quản lý doanh nghiệp,Chi phí quản lý doanh nghiệp,26,20,322.099.246.913,290.861.162.773,26.0,20.0,322099246913.0,290861162773.0
+(Lỗ)/lợi nhuận thuần từ hoạt động kinh doanh (30 = 21 - 22 - 26),(Lỗ)/lợi nhuận thuần từ hoạt động kinh doanh (30 = 21 - 22 - 26),(Lỗ)/lợi nhuận thuần từ hoạt động kinh doanh (30 = 21 - 22 - 26),30,,(984.487.269.691),2.046.926.701.022,30.0,,-984487269691.0,2046926701022.0
+Thu nhập khác,Thu nhập khác,Thu nhập khác,31,,1.817.800.000,-,31.0,,1817800000.0,
+Chi phí khác,Chi phí khác,Chi phí khác,32,,-,65.000.000.000,32.0,,,65000000000.0
+Kết quả từ hoạt động khác (40 = 31 - 32),Kết quả từ hoạt động khác (40 = 31 - 32),Kết quả từ hoạt động khác (40 = 31 - 32),40,,1.817.800.000,(65.000.000.000),40.0,,1817800000.0,-65000000000.0
+(Lỗ)/lợi nhuận kế toán trước thuế (50 = 30 + 40),(Lỗ)/lợi nhuận kế toán trước thuế (50 = 30 + 40),(Lỗ)/lợi nhuận kế toán trước thuế (50 = 30 + 40),50,,(982.669.469.691),1.981.926.701.022,50.0,,-982669469691.0,1981926701022.0
+(Lợi ích)/chi phí thuế TNDN hiện hành,(Lợi ích)/chi phí thuế TNDN hiện hành,(Lợi ích)/chi phí thuế TNDN hiện hành,51,21,(111.281.489.547),256.000.000.000,51.0,21.0,-111281489547.0,256000000000.0
+Chi phí thuế TNDN hoãn lại,Chi phí thuế TNDN hoãn lại,Chi phí thuế TNDN hoãn lại,52,21,-,-,52.0,21.0,,
+(Lỗ)/lợi nhuận sau thuế TNDN (60 = 50 - 51 - 52),(Lỗ)/lợi nhuận sau thuế TNDN (60 = 50 - 51 - 52),(Lỗ)/lợi nhuận sau thuế TNDN (60 = 50 - 51 - 52),60,,(871.387.980.144),1.725.926.701.022,60.0,,-871387980144.0,1725926701022.0

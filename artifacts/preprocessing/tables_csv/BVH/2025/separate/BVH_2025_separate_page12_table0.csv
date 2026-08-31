@@ -1,0 +1,17 @@
+﻿row_label_raw,row_label_full,Mã số,CHỈ TIÊU,Thuyết minh,Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2025,Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2024,numeric__CHỈ TIÊU,numeric__Thuyết minh,numeric__Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2025,numeric__Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2024
+01,01,01,I. LƯU CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH,,,,,,,
+01,01 > 01,01,"1. Tiền thu từ bán hàng, cung cấp dịch vụ và doanh thu khác",,1.756.665.227.884,1.200.263.202.574,,,1756665227884.0,1200263202574.0
+01,01 > 01,01,"- Thu lãi tiền gửi, lãi trái phiếu, thu từ bán chứng khoán kinh doanh, cổ tức và lợi nhuận được chia",,1.347.602.101.222,812.453.539.015,,,1347602101222.0,812453539015.0
+01,01 > 01,01,- Tiền thu từ cung cấp dịch vụ khác,,409.063.126.662,387.809.663.559,,,409063126662.0,387809663559.0
+02,01 > 02,02,"2. Tiền chỉ trả cho người cung cấp hàng hoá, dịch vụ",,(228.949.085.635),(172.037.024.903),,,-228949085635.0,-172037024903.0
+03,01 > 03,03,3. Tiền chỉ trả cho người lao động,,(150.556.711.687),(157.358.963.658),,,-150556711687.0,-157358963658.0
+04,01 > 04,04,4. Tiền lãi vay đã trả,,(42.300.549),(659.175.312),,,-42300549.0,-659175312.0
+06,01 > 06,06,5. Tiền thu khác từ hoạt động kinh doanh,,19.419.235.157,13.051.908.006,,,19419235157.0,13051908006.0
+07,01 > 07,07,6. Tiền chỉ khác cho hoạt động kinh doanh,,(140.496.916.886),(134.230.592.143),,,-140496916886.0,-134230592143.0
+20,01 > 20,20,Lưu chuyển tiền thuần từ hoạt động kinh doanh,,1.256.039.448.284,749.029.354.564,,,1256039448284.0,749029354564.0
+II. LƯU CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TỪ,II. LƯU CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TỪ,II. LƯU CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TỪ,II. LƯU CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TỪ,,,,,,,
+21,II. LƯU CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TỪ > 21,21,"1. Tiền chỉ để mua sắm, xây dựng TSCĐ và các tài sản dài hạn khác",,(1.235.785.294),(21.715.945.616),,,-1235785294.0,-21715945616.0
+23,II. LƯU CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TỪ > 23,23,"2. Tiền chỉ cho vay, mua các công cụ nợ của đơn vị khác",,(1.095.000.000.000),(4.148.000.000.000),,,-1095000000000.0,-4148000000000.0
+24,II. LƯU CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TỪ > 24,24,"3. Tiền thu hồi cho vay, bán lại các công cụ nợ của đơn vị khác",,568.000.000.000,1.545.000.000.000,,,568000000000.0,1545000000000.0
+26,II. LƯU CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TỪ > 26,26,4. Tiền thu hồi đầu tư góp vốn vào đơn vị khác,,13.381.179.750,-,,,13381179750.0,
+30,II. LƯU CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TỪ > 30,30,Lưu chuyển tiền thuần từ hoạt động đầu tư,,(514.854.605.544),(2.624.715.945.616),,,-514854605544.0,-2624715945616.0

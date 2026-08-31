@@ -1,0 +1,15 @@
+﻿row_label_raw,row_label_full,col_0,Giá trị sổ sách > Số cuối năm > Giá trị ghi sổ,Giá trị sổ sách > Số cuối năm > Dự phòng,Giá trị sổ sách > Số đầu năm > Giá trị ghi sổ,Giá trị sổ sách > Số đầu năm > Dự phòng,Giá trị hợp lý > Số cuối năm,Giá trị hợp lý > Số đầu năm,numeric__Giá trị sổ sách > Số cuối năm > Giá trị ghi sổ,numeric__Giá trị sổ sách > Số cuối năm > Dự phòng,numeric__Giá trị sổ sách > Số đầu năm > Giá trị ghi sổ,numeric__Giá trị sổ sách > Số đầu năm > Dự phòng,numeric__Giá trị hợp lý > Số cuối năm,numeric__Giá trị hợp lý > Số đầu năm
+Tài sản tài chính,Tài sản tài chính,Tài sản tài chính,,,,,,,,,,,,
+Tiền và các khoản tương đương tiền,Tài sản tài chính > Tiền và các khoản tương đương tiền,Tiền và các khoản tương đương tiền,22.944.111.995,-,28.624.299.444,-,22.944.111.995,28.624.299.444,22944111995.0,,28624299444.0,,22944111995.0,28624299444.0
+Phải thu khách hàng và phải thu khác,Tài sản tài chính > Phải thu khách hàng và phải thu khác,Phải thu khách hàng và phải thu khác,6.585.599.662,-,25.631.760.601,(2.837.914.019),(*),(*),6585599662.0,,25631760601.0,-2837914019.0,,
+Đầu tư tài chính ngắn hạn,Tài sản tài chính > Đầu tư tài chính ngắn hạn,Đầu tư tài chính ngắn hạn,21.755.491.533,(15.476.816.533),21.755.491.533,(14.043.566.533),(*),(*),21755491533.0,-15476816533.0,21755491533.0,-14043566533.0,,
+Đầu tư tài chính dài hạn,Tài sản tài chính > Đầu tư tài chính dài hạn,Đầu tư tài chính dài hạn,104.228.000.000,-,104.228.000.000,-,(*),(*),104228000000.0,,104228000000.0,,,
+Cộng,Tài sản tài chính > Cộng,Cộng,155.513.203.190,(15.476.816.533),180.239.551.578,(16.881.480.552),22.944.111.995,28.624.299.444,155513203190.0,-15476816533.0,180239551578.0,-16881480552.0,22944111995.0,28624299444.0
+,,,,Giá trị sổ sách,Giá trị sổ sách,Giá trị hợp lý,Giá trị hợp lý,,,,,,,
+,,,,Số cuối năm,Số đầu năm,Số cuối năm,Số đầu năm,,,,,,,
+Nợ phải trả tài chính,Nợ phải trả tài chính,Nợ phải trả tài chính,,,,,,,,,,,,
+Phải trả cho người bán,Nợ phải trả tài chính > Phải trả cho người bán,Phải trả cho người bán,,2.872.844.461,6.700.119.519,(*),(*),,,2872844461.0,6700119519.0,,,
+Vay và nợ thuê tài chính,Nợ phải trả tài chính > Vay và nợ thuê tài chính,Vay và nợ thuê tài chính,,34.727.733.073,34.727.733.073,(*),(*),,,34727733073.0,34727733073.0,,,
+Chi phí phải trả,Nợ phải trả tài chính > Chi phí phải trả,Chi phí phải trả,,-,24.440.577.507,(*),(*),,,,24440577507.0,,,
+Các khoản phải trả khác,Nợ phải trả tài chính > Các khoản phải trả khác,Các khoản phải trả khác,,94.810.239.225,81.478.369.220,(*),(*),,,94810239225.0,81478369220.0,,,
+Cộng,Nợ phải trả tài chính > Cộng,Cộng,,132.410.816.759,147.346.799.319,,,,,132410816759.0,147346799319.0,,,

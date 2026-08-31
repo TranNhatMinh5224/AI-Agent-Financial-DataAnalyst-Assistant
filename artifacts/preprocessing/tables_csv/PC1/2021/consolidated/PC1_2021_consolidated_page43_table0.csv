@@ -1,0 +1,17 @@
+﻿row_label_raw,row_label_full,col_0,Quyền khai thác khoáng sản VND,Quyền sử dụng đất VND,Phần mềm máy vi tính VND,Khác VND,Tổng cộng VND,numeric__Quyền khai thác khoáng sản VND,numeric__Quyền sử dụng đất VND,numeric__Phần mềm máy vi tính VND,numeric__Khác VND,numeric__Tổng cộng VND
+Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,,,,,
+Số dư đầu năm,Nguyên giá > Số dư đầu năm,Số dư đầu năm,-,1.108.070.000,1.773.806.000,105.331.819,2.987.207.819,,1108070000.0,1773806000.0,105331819.0,2987207819.0
+Tăng trong năm,Nguyên giá > Tăng trong năm,Tăng trong năm,-,-,758.500.000,-,758.500.000,,,758500000.0,,758500000.0
+Tăng do chuyển công ty liên kết thành công ty con,Nguyên giá > Tăng do chuyển công ty liên kết thành công ty con,Tăng do chuyển công ty liên kết thành công ty con,977.536.296.866,-,-,-,977.536.296.866,977536296866.0,,,,977536296866.0
+Tăng do mua công ty con,Nguyên giá > Tăng do mua công ty con,Tăng do mua công ty con,-,-,-,41.894.545,41.894.545,,,,41894545.0,41894545.0
+Xóa số,Nguyên giá > Xóa số,Xóa số,-,-,(50.000.000),-,(50.000.000),,,-50000000.0,,-50000000.0
+Số dư cuối năm,Nguyên giá > Số dư cuối năm,Số dư cuối năm,977.536.296.866,1.108.070.000,2.482.306.000,147.226.364,981.273.899.230,977536296866.0,1108070000.0,2482306000.0,147226364.0,981273899230.0
+Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,,,,,
+Số dư đầu năm,Giá trị hao mòn lũy kế > Số dư đầu năm,Số dư đầu năm,-,-,1.032.667.983,62.140.966,1.094.808.949,,,1032667983.0,62140966.0,1094808949.0
+Khấu hao trong năm,Giá trị hao mòn lũy kế > Khấu hao trong năm,Khấu hao trong năm,24.627.852.440,-,409.272.303,25.683.647,25.062.808.390,24627852440.0,,409272303.0,25683647.0,25062808390.0
+Tăng do mua công ty con,Giá trị hao mòn lũy kế > Tăng do mua công ty con,Tăng do mua công ty con,-,-,-,41.894.545,41.894.545,,,,41894545.0,41894545.0
+Xóa số,Giá trị hao mòn lũy kế > Xóa số,Xóa số,-,-,(16.666.660),-,(16.666.660),,,-16666660.0,,-16666660.0
+Số dư cuối năm,Giá trị hao mòn lũy kế > Số dư cuối năm,Số dư cuối năm,24.627.852.440,-,1.425.273.626,129.719.158,26.182.845.224,24627852440.0,,1425273626.0,129719158.0,26182845224.0
+Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,,,,,
+Số dư đầu năm,Giá trị còn lại > Số dư đầu năm,Số dư đầu năm,-,1.108.070.000,741.138.017,43.190.853,1.892.398.870,,1108070000.0,741138017.0,43190853.0,1892398870.0
+Số dư cuối năm,Giá trị còn lại > Số dư cuối năm,Số dư cuối năm,952.908.444.426,1.108.070.000,1.057.032.374,17.507.206,955.091.054.006,952908444426.0,1108070000.0,1057032374.0,17507206.0,955091054006.0

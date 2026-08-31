@@ -1,0 +1,6 @@
+﻿row_label_raw,row_label_full,Nhóm,Nhóm_1,Tiêu chí,numeric__Nhóm_1,numeric__Tiêu chí
+1,1,1,Cam kết đủ tiêu chuẩn,▪ Các cam kết mà Ngân hàng đánh giá là khách hàng có khả năng thực hiện đầy đủ các nghĩa vụ theo cam kết khi đến hạn.,,
+2,2,2,Cam kết cần chú ý,▪ Các cam kết mà Ngân hàng đánh giá là khách hàng có khả năng thực hiện nghĩa vụ theo cam kết nhưng có dấu hiệu suy giảm khả năng thực hiện cam kết.,,
+3,3,3,Cam kết dưới tiêu chuẩn,▪ Các cam kết mà Ngân hàng đánh giá là khách hàng không có khả năng thực hiện đầy đủ nghĩa vụ theo cam kết.,,
+4,4,4,Cam kết nghi ngờ,▪ Các cam kết mà Ngân hàng đánh giá là khả năng khách hàng không thực hiện cam kết là rất cao.,,
+5,5,5,Cam kết có khả năng mất vốn,▪ Các cam kết mà Ngân hàng đánh giá là khách hàng không còn khả năng thực hiện nghĩa vụ theo cam kết.,,

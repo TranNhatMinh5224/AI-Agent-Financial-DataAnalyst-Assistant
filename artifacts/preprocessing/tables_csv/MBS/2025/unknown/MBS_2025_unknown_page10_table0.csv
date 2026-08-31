@@ -1,0 +1,12 @@
+﻿row_label_raw,row_label_full,col_0,col_1,Mã số,Thuyết minh,31/12/2025 VND,31/12/2024 VND,numeric__col_1,numeric__Mã số,numeric__Thuyết minh,numeric__31/12/2025 VND,numeric__31/12/2024 VND
+5.,5.,5.,Tài sản tài chính chưa lưu ký tại VSDC của Nhà đầu tư,024.b,31(i),855.440.000,858.240.000,,,,855440000.0,858240000.0
+7.,7.,7.,Tiền gửi của khách hàng,026,,4.632.778.248.863,3.358.932.288.854,,26.0,,4632778248863.0,3358932288854.0
+7.1.,7.1.,7.1.,Tiền gửi của Nhà đầu tư về giao dịch chứng khoán theo phương thức công ty chứng khoán quản lý,027,31(j),4.249.811.256.637,2.910.908.869.249,,27.0,,4249811256637.0,2910908869249.0
+7.1.a,7.1.a,7.1.a,Tiền gửi ký quỹ của Nhà đầu tư tại VSDC,027.1,31(j),182.797.580.852,270.501.223.230,,271.0,,182797580852.0,270501223230.0
+7.2,7.2,7.2,Tiền gửi tổng hợp giao dịch chứng khoán cho khách hàng,028,31(j),101.605.089.728,171.589.439.729,,28.0,,101605089728.0,171589439729.0
+7.4.,7.4.,7.4.,Tiền gửi của Tổ chức phát hành chứng khoán,030,31(k),98.564.321.646,5.932.756.646,,30.0,,98564321646.0,5932756646.0
+8.,8.,8.,Phải trả của Nhà đầu tư về tiền gửi giao dịch chứng khoán theo phương thức công ty chứng khoán quản lý,031,31(l),4.534.213.927.217,3.352.999.532.208,,31.0,,4534213927217.0,3352999532208.0
+8.1.,8.1.,8.1.,Phải trả của Nhà đầu tư trong nước về tiền gửi giao dịch chứng khoán theo phương thức công ty chứng khoán quản lý,031.1,,4.485.760.517.620,3.307.745.085.493,,311.0,,4485760517620.0,3307745085493.0
+8.2.,8.2.,8.2.,Phải trả của Nhà đầu tư nước ngoài về tiền gửi giao dịch chứng khoán theo phương thức công ty chứng khoán quản lý,031.2,,48.453.409.597,45.254.446.715,,312.0,,48453409597.0,45254446715.0
+9.,9.,9.,Phải trả của Tổ chức phát hành chứng khoán,032,31(m),98.438.803.364,5.807.238.364,,32.0,,98438803364.0,5807238364.0
+12.,12.,12.,"Phải trả cổ tức, gốc và lãi trái phiếu",035,31(n),125.518.282,125.518.282,,35.0,,125518282.0,125518282.0

@@ -1,0 +1,12 @@
+﻿row_label_raw,row_label_full,col_0,Số đầu năm,Số phải thu trong năm,Đơn vị tính: triệu VND > Số cán trừ trong năm,Đơn vị tính: triệu VND > Số cuối năm,numeric__Số đầu năm,numeric__Số phải thu trong năm,numeric__Đơn vị tính: triệu VND > Số cán trừ trong năm,numeric__Đơn vị tính: triệu VND > Số cuối năm
+Phải thu,Phải thu,Phải thu,Phải thu,Phải thu,Phải thu,Phải thu,,,,
+Thuế giá trị gia tăng,Phải thu > Thuế giá trị gia tăng,Thuế giá trị gia tăng,-,257.263,(125.142),132.121,,257263.0,-125142.0,132121.0
+Thuế thu nhập doanh nghiệp nộp thừa,Phải thu > Thuế thu nhập doanh nghiệp nộp thừa,Thuế thu nhập doanh nghiệp nộp thừa,166.607,-,-,166.607,166607.0,,,166607.0
+TỔNG CỘNG,Phải thu > TỔNG CỘNG,TỔNG CỘNG,166.607,257.263,(125.142),298.728,166607.0,257263.0,-125142.0,298728.0
+,,,Số đầu năm,Số phải nộp trong năm,Số đã nộp/cấn trừ trong năm,Số cuối năm,,,,
+Phải nộp,Phải nộp,Phải nộp,Phải nộp,Phải nộp,Phải nộp,Phải nộp,,,,
+Thuế giá trị gia tăng,Phải nộp > Thuế giá trị gia tăng,Thuế giá trị gia tăng,126.374,633.607,(759.981),-,126374.0,633607.0,-759981.0,
+Thuế thu nhập doanh nghiệp,Phải nộp > Thuế thu nhập doanh nghiệp,Thuế thu nhập doanh nghiệp,23.972,295.150,(148.219),170.903,23972.0,295150.0,-148219.0,170903.0
+Thuế thu nhập cá nhân,Phải nộp > Thuế thu nhập cá nhân,Thuế thu nhập cá nhân,41.643,145.405,(154.538),32.510,41643.0,145405.0,-154538.0,32510.0
+Thuế khác,Phải nộp > Thuế khác,Thuế khác,53.575,241.846,(183.064),112.357,53575.0,241846.0,-183064.0,112357.0
+TỔNG CỘNG,Phải nộp > TỔNG CỘNG,TỔNG CỘNG,245.564,1.316.008,(1.245.802),315.770,245564.0,1316008.0,-1245802.0,315770.0

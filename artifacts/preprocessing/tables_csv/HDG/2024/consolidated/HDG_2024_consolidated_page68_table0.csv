@@ -1,0 +1,17 @@
+﻿row_label_raw,row_label_full,col_0,Kinh doanh bất động sản,Sản xuất và kinh doanh điện,"Kinh doanh hoạt động xây lắp, cho thuê và các hoạt động khác",Điều chỉnh và loại trừ,Đơn vị tính: VND Tổng cộng,numeric__Kinh doanh bất động sản,numeric__Sản xuất và kinh doanh điện,"numeric__Kinh doanh hoạt động xây lắp, cho thuê và các hoạt động khác",numeric__Điều chỉnh và loại trừ,numeric__Đơn vị tính: VND Tổng cộng
+Doanh thu,Doanh thu,Doanh thu,Doanh thu,Doanh thu,Doanh thu,Doanh thu,Doanh thu,,,,,
+Doanh thu bán hàng nội bộ,Doanh thu > Doanh thu bán hàng nội bộ,Doanh thu bán hàng nội bộ,-,-,101.105.900.052,(101.105.900.052),-,,,101105900052.0,-101105900052.0,
+Doanh thu từ bán hàng ra bên ngoài,Doanh thu > Doanh thu từ bán hàng ra bên ngoài,Doanh thu từ bán hàng ra bên ngoài,281.840.836.617,1.938.918.451.034,668.624.679.924,-,2.889.383.967.575,281840836617.0,1938918451034.0,668624679924.0,,2889383967575.0
+Tổng doanh thu,Doanh thu > Tổng doanh thu,Tổng doanh thu,281.840.836.617,1.938.918.451.034,769.730.579.976,(101.105.900.052),2.889.383.967.575,281840836617.0,1938918451034.0,769730579976.0,-101105900052.0,2889383967575.0
+Kết quả,Kết quả,Kết quả,Kết quả,Kết quả,Kết quả,Kết quả,Kết quả,,,,,
+Lợi nhuận trước thuế,Kết quả > Lợi nhuận trước thuế,Lợi nhuận trước thuế,89.185.510.212,1.273.853.273.046,162.979.153.942,(562.628.921.305),963.389.015.895,89185510212.0,1273853273046.0,162979153942.0,-562628921305.0,963389015895.0
+Chi phí không phân bổ (i),Kết quả > Chi phí không phân bổ (i),Chi phí không phân bổ (i),,,,,(526.988.810.780),,,,,-526988810780.0
+Chi phí thuế TNDN,Kết quả > Chi phí thuế TNDN,Chi phí thuế TNDN,,,,,(97.097.653.951),,,,,-97097653951.0
+Lợi nhuận/(lỗ) thuần sau thuế,Kết quả > Lợi nhuận/(lỗ) thuần sau thuế,Lợi nhuận/(lỗ) thuần sau thuế,89.185.510.212,1.273.853.273.046,162.979.153.942,(659.726.575.256),866.291.361.944,89185510212.0,1273853273046.0,162979153942.0,-659726575256.0,866291361944.0
+Tài sản và công nợ,Tài sản và công nợ,Tài sản và công nợ,Tài sản và công nợ,Tài sản và công nợ,Tài sản và công nợ,Tài sản và công nợ,Tài sản và công nợ,,,,,
+Tài sản bộ phận,Tài sản và công nợ > Tài sản bộ phận,Tài sản bộ phận,1.759.245.745.120,9.810.528.181.130,1.752.503.526.033,-,13.322.277.452.283,1759245745120.0,9810528181130.0,1752503526033.0,,13322277452283.0
+Tài sản không phân bổ (ii),Tài sản và công nợ > Tài sản không phân bổ (ii),Tài sản không phân bổ (ii),,,,,1.116.074.315.809,,,,,1116074315809.0
+Tổng tài sản,Tài sản và công nợ > Tổng tài sản,Tổng tài sản,1.759.245.745.120,9.810.528.181.130,1.752.503.526.033,-,14.438.351.768.092,1759245745120.0,9810528181130.0,1752503526033.0,,14438351768092.0
+Công nợ bộ phận,Tài sản và công nợ > Công nợ bộ phận,Công nợ bộ phận,1.275.233.512.985,64.710.214.029,70.859.372.922,-,1.410.803.099.936,1275233512985.0,64710214029.0,70859372922.0,,1410803099936.0
+Công nợ không phân bổ (iii),Tài sản và công nợ > Công nợ không phân bổ (iii),Công nợ không phân bổ (iii),,,,,5.798.800.534.711,,,,,5798800534711.0
+Tổng công nợ,Tài sản và công nợ > Tổng công nợ,Tổng công nợ,1.275.233.512.985,64.710.214.029,70.859.372.922,-,7.209.603.634.647,1275233512985.0,64710214029.0,70859372922.0,,7209603634647.0

@@ -1,0 +1,29 @@
+﻿row_label_raw,row_label_full,CHỈ TIỀU,Thuyết minh,31/12/2024,01/01/2024,numeric__Thuyết minh,numeric__31/12/2024,numeric__01/01/2024
+A. TÀI SẢN,A. TÀI SẢN,A. TÀI SẢN,A. TÀI SẢN,A. TÀI SẢN,A. TÀI SẢN,,,
+"I. Tiền mặt, vàng bạc, đá quý","A. TÀI SẢN > I. Tiền mặt, vàng bạc, đá quý","I. Tiền mặt, vàng bạc, đá quý",V.01,332.682.411.624,361.839.512.670,,332682411624.0,361839512670.0
+II. Tiền gửi tại Ngân hàng Nhà nước,A. TÀI SẢN > II. Tiền gửi tại Ngân hàng Nhà nước,II. Tiền gửi tại Ngân hàng Nhà nước,V.02,1.307.943.260.441,2.149.614.440.113,,1307943260441.0,2149614440113.0
+III. Tiền gửi và cho vay các TCTD khác,A. TÀI SẢN > III. Tiền gửi và cho vay các TCTD khác,III. Tiền gửi và cho vay các TCTD khác,V.03,17.688.962.745.317,21.982.244.913.487,,17688962745317.0,21982244913487.0
+1. Tiền gửi tại các TCTD khác,A. TÀI SẢN > 1. Tiền gửi tại các TCTD khác,1. Tiền gửi tại các TCTD khác,,11.888.962.745.317,18.732.244.913.487,,11888962745317.0,18732244913487.0
+2. Cho vay các TCTD khác,A. TÀI SẢN > 2. Cho vay các TCTD khác,2. Cho vay các TCTD khác,,5.800.000.000.000,3.250.000.000.000,,5800000000000.0,3250000000000.0
+IV. Cho vay khách hàng,A. TÀI SẢN > IV. Cho vay khách hàng,IV. Cho vay khách hàng,,79.157.063.600.968,68.312.370.572.824,,79157063600968.0,68312370572824.0
+1. Cho vay khách hàng,A. TÀI SẢN > 1. Cho vay khách hàng,1. Cho vay khách hàng,V.5.1,79.915.536.116.174,69.059.040.694.653,,79915536116174.0,69059040694653.0
+2. Dự phòng rủi ro cho vay khách hàng,A. TÀI SẢN > 2. Dự phòng rủi ro cho vay khách hàng,2. Dự phòng rủi ro cho vay khách hàng,V.5.2,(758.472.515.206),(746.670.121.829),,-758472515206.0,-746670121829.0
+V. Chứng khoán đầu tư,A. TÀI SẢN > V. Chứng khoán đầu tư,V. Chứng khoán đầu tư,V.06,14.132.542.068.014,7.416.315.961.425,,14132542068014.0,7416315961425.0
+1. Chứng khoán đầu tư sẵn sàng để bán,A. TÀI SẢN > 1. Chứng khoán đầu tư sẵn sàng để bán,1. Chứng khoán đầu tư sẵn sàng để bán,,14.146.614.968.014,7.431.411.470.963,,14146614968014.0,7431411470963.0
+2. Dự phòng rủi ro chứng khoán đầu tư,A. TÀI SẢN > 2. Dự phòng rủi ro chứng khoán đầu tư,2. Dự phòng rủi ro chứng khoán đầu tư,,(14.072.900.000),(15.095.509.538),,-14072900000.0,-15095509538.0
+"VI. Góp vốn, đầu tư dài hạn","A. TÀI SẢN > VI. Góp vốn, đầu tư dài hạn","VI. Góp vốn, đầu tư dài hạn",V.07,82.610.010.000,82.610.010.000,,82610010000.0,82610010000.0
+1. Đầu tư dài hạn khác,A. TÀI SẢN > 1. Đầu tư dài hạn khác,1. Đầu tư dài hạn khác,,82.610.010.000,82.610.010.000,,82610010000.0,82610010000.0
+VII. Tài sản cố định,A. TÀI SẢN > VII. Tài sản cố định,VII. Tài sản cố định,,235.920.702.325,243.920.503.501,,235920702325.0,243920503501.0
+1. Tài sản cố định hữu hình,A. TÀI SẢN > 1. Tài sản cố định hữu hình,1. Tài sản cố định hữu hình,V.08,79.492.173.316,77.571.834.265,,79492173316.0,77571834265.0
+a. Nguyên giá TSCĐ,A. TÀI SẢN > a. Nguyên giá TSCĐ,a. Nguyên giá TSCĐ,,319.125.415.705,307.401.197.342,,319125415705.0,307401197342.0
+b. Hao mòn TSCĐ,A. TÀI SẢN > b. Hao mòn TSCĐ,b. Hao mòn TSCĐ,,(239.633.242.389),(229.829.363.077),,-239633242389.0,-229829363077.0
+2. Tài sản cố định vô hình,A. TÀI SẢN > 2. Tài sản cố định vô hình,2. Tài sản cố định vô hình,V.09,156.428.529.009,166.348.669.236,,156428529009.0,166348669236.0
+a. Nguyên giá TSCĐ,A. TÀI SẢN > a. Nguyên giá TSCĐ,a. Nguyên giá TSCĐ,,268.564.701.169,262.560.680.465,,268564701169.0,262560680465.0
+b. Hao mòn TSCĐ,A. TÀI SẢN > b. Hao mòn TSCĐ,b. Hao mòn TSCĐ,,(112.136.172.160),(96.212.011.229),,-112136172160.0,-96212011229.0
+VIII. Tài sản Có khác,A. TÀI SẢN > VIII. Tài sản Có khác,VIII. Tài sản Có khác,V.10,6.894.311.893.838,11.646.947.894.274,,6894311893838.0,11646947894274.0
+1. Các khoản phải thu,A. TÀI SẢN > 1. Các khoản phải thu,1. Các khoản phải thu,,1.858.916.690.044,3.858.416.302.591,,1858916690044.0,3858416302591.0
+"2. Các khoản lãi, phí phải thu","A. TÀI SẢN > 2. Các khoản lãi, phí phải thu","2. Các khoản lãi, phí phải thu",,4.676.753.561.658,7.928.169.513.441,,4676753561658.0,7928169513441.0
+3. Tài sản Có khác,A. TÀI SẢN > 3. Tài sản Có khác,3. Tài sản Có khác,,726.652.741.577,124.040.677.683,,726652741577.0,124040677683.0
+- Trong đó: Lợi thế thương mại,- Trong đó: Lợi thế thương mại,- Trong đó: Lợi thế thương mại,,-,-,,,
+4. Các khoản dự phòng rủi ro cho các tài sản Có nội bảng khác,- Trong đó: Lợi thế thương mại > 4. Các khoản dự phòng rủi ro cho các tài sản Có nội bảng khác,4. Các khoản dự phòng rủi ro cho các tài sản Có nội bảng khác,,(368.011.099.441),(263.678.599.441),,-368011099441.0,-263678599441.0
+TỔNG TÀI SẢN CÓ,- Trong đó: Lợi thế thương mại > TỔNG TÀI SẢN CÓ,TỔNG TÀI SẢN CÓ,,119.832.036.692.527,112.195.863.808.294,,119832036692527.0,112195863808294.0

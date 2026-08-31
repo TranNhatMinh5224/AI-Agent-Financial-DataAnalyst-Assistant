@@ -1,0 +1,32 @@
+﻿row_label_raw,row_label_full,NGUỒN VỐN,Mã số,Thuyết minh,31/12/2025VND,01/01/2025VND,numeric__Mã số,numeric__Thuyết minh,numeric__31/12/2025VND,numeric__01/01/2025VND
+NỘ PHẢI TRẢ,NỘ PHẢI TRẢ,NỘ PHẢI TRẢ,300,,12.288.517.141.267,13.145.317.451.774,300.0,,12288517141267.0,13145317451774.0
+Nợ ngắn hạn,Nợ ngắn hạn,Nợ ngắn hạn,310,,8.158.745.811.560,8.579.387.706.058,310.0,,8158745811560.0,8579387706058.0
+Phải trả người bán ngắn hạn,Phải trả người bán ngắn hạn,Phải trả người bán ngắn hạn,311,17,1.009.970.398.141,1.154.916.716.339,311.0,17.0,1009970398141.0,1154916716339.0
+Người mua trả tiền trước ngắn hạn,Người mua trả tiền trước ngắn hạn,Người mua trả tiền trước ngắn hạn,312,18,696.408.052.185,881.290.704.116,312.0,18.0,696408052185.0,881290704116.0
+Thuế và các khoản phải nộp,Thuế và các khoản phải nộp,Thuế và các khoản phải nộp,313,19,341.717.010.219,239.483.450.674,313.0,19.0,341717010219.0,239483450674.0
+Nhà nước,Nhà nước,Nhà nước,,,,,,,,
+Phải trả người lao động,Nhà nước > Phải trả người lao động,Phải trả người lao động,314,,186.112.159.098,155.279.630.251,314.0,,186112159098.0,155279630251.0
+Chi phí phải trả ngắn hạn,Nhà nước > Chi phí phải trả ngắn hạn,Chi phí phải trả ngắn hạn,315,20,1.307.707.805.948,1.333.738.904.236,315.0,20.0,1307707805948.0,1333738904236.0
+Phải trả nội bộ ngắn hạn,Nhà nước > Phải trả nội bộ ngắn hạn,Phải trả nội bộ ngắn hạn,316,,-,-,316.0,,,
+Phải trả theo tiến độ kế hoạch hợp đồng xây dựng,Nhà nước > Phải trả theo tiến độ kế hoạch hợp đồng xây dựng,Phải trả theo tiến độ kế hoạch hợp đồng xây dựng,317,,-,-,317.0,,,
+Doanh thu chưa thực hiện ngắn hạn,Nhà nước > Doanh thu chưa thực hiện ngắn hạn,Doanh thu chưa thực hiện ngắn hạn,318,21,142.078.683.368,216.671.514.532,318.0,21.0,142078683368.0,216671514532.0
+Phải trả ngắn hạn khác,Nhà nước > Phải trả ngắn hạn khác,Phải trả ngắn hạn khác,319,22,1.371.275.008.351,1.338.073.109.371,319.0,22.0,1371275008351.0,1338073109371.0
+Vay và nợ thuê tài chính ngắn hạn,Nhà nước > Vay và nợ thuê tài chính ngắn hạn,Vay và nợ thuê tài chính ngắn hạn,320,23,3.058.007.616.715,3.220.915.297.845,320.0,23.0,3058007616715.0,3220915297845.0
+Dự phòng phải trả ngắn hạn,Nhà nước > Dự phòng phải trả ngắn hạn,Dự phòng phải trả ngắn hạn,321,,-,-,321.0,,,
+"Quỹ khen thưởng, phúc lợi","Nhà nước > Quỹ khen thưởng, phúc lợi","Quỹ khen thưởng, phúc lợi",322,,45.469.077.535,39.018.378.694,322.0,,45469077535.0,39018378694.0
+Quỹ bình ổn giá,Nhà nước > Quỹ bình ổn giá,Quỹ bình ổn giá,323,,-,-,323.0,,,
+Giao dịch mua bán lại trái phiếu Chính phủ,Nhà nước > Giao dịch mua bán lại trái phiếu Chính phủ,Giao dịch mua bán lại trái phiếu Chính phủ,324,,-,-,324.0,,,
+Nợ dài hạn,Nhà nước > Nợ dài hạn,Nợ dài hạn,330,,4.129.771.329.707,4.565.929.745.716,330.0,,4129771329707.0,4565929745716.0
+Phải trả người bán dài hạn,Nhà nước > Phải trả người bán dài hạn,Phải trả người bán dài hạn,331,17,272.087.103.263,286.130.495.889,331.0,17.0,272087103263.0,286130495889.0
+Người mua trả tiền trước dài hạn,Nhà nước > Người mua trả tiền trước dài hạn,Người mua trả tiền trước dài hạn,332,18,1.194.875.190,2.389.750.380,332.0,18.0,1194875190.0,2389750380.0
+Chi phí phải trả dài hạn,Nhà nước > Chi phí phải trả dài hạn,Chi phí phải trả dài hạn,333,20,387.854.304.843,532.854.304.843,333.0,20.0,387854304843.0,532854304843.0
+Phải trả nội bộ về vốn kinh doanh,Nhà nước > Phải trả nội bộ về vốn kinh doanh,Phải trả nội bộ về vốn kinh doanh,334,,-,-,334.0,,,
+Phải trả nội bộ dài hạn,Nhà nước > Phải trả nội bộ dài hạn,Phải trả nội bộ dài hạn,335,,-,-,335.0,,,
+Doanh thu chưa thực hiện dài hạn,Nhà nước > Doanh thu chưa thực hiện dài hạn,Doanh thu chưa thực hiện dài hạn,336,21,78.744.983.284,91.160.583.537,336.0,21.0,78744983284.0,91160583537.0
+Phải trả dài hạn khác,Nhà nước > Phải trả dài hạn khác,Phải trả dài hạn khác,337,22,82.216.519.869,78.478.210.481,337.0,22.0,82216519869.0,78478210481.0
+Vay và nợ thuê tài chính dài hạn,Nhà nước > Vay và nợ thuê tài chính dài hạn,Vay và nợ thuê tài chính dài hạn,338,23,3.029.688.325.776,3.395.044.263.387,338.0,23.0,3029688325776.0,3395044263387.0
+Trái phiếu chuyển đổi,Nhà nước > Trái phiếu chuyển đổi,Trái phiếu chuyển đổi,339,,-,-,339.0,,,
+Cổ phiếu ưu đãi,Nhà nước > Cổ phiếu ưu đãi,Cổ phiếu ưu đãi,340,,-,-,340.0,,,
+Thuế thu nhập doanh nghiệp hoãn lại phải trả,Nhà nước > Thuế thu nhập doanh nghiệp hoãn lại phải trả,Thuế thu nhập doanh nghiệp hoãn lại phải trả,341,,277.888.335.504,179.872.137.199,341.0,,277888335504.0,179872137199.0
+Dự phòng phải trả dài hạn,Nhà nước > Dự phòng phải trả dài hạn,Dự phòng phải trả dài hạn,342,,96.881.978,-,342.0,,96881978.0,
+Quỹ phát triển khoa học và công nghệ,Nhà nước > Quỹ phát triển khoa học và công nghệ,Quỹ phát triển khoa học và công nghệ,343,,-,-,343.0,,,

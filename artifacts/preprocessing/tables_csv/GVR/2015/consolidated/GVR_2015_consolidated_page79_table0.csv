@@ -1,0 +1,23 @@
+﻿row_label_raw,row_label_full,Mã số,Tên khoản mục,Số trước điều chỉnh,numeric__Tên khoản mục,numeric__Số trước điều chỉnh
+BẢNG CẦN ĐỐI KẾ TOÁN HỢP NHẤT,BẢNG CẦN ĐỐI KẾ TOÁN HỢP NHẤT,BẢNG CẦN ĐỐI KẾ TOÁN HỢP NHẤT,BẢNG CẦN ĐỐI KẾ TOÁN HỢP NHẤT,BẢNG CẦN ĐỐI KẾ TOÁN HỢP NHẤT,,
+100,BẢNG CẦN ĐỐI KẾ TOÁN HỢP NHẤT > 100,100,A. TÀI SẢN NGẮN HẠN,17.205.097.901.932,,17205097901932.0
+110,BẢNG CẦN ĐỐI KẾ TOÁN HỢP NHẤT > 110,110,I. Tiền và các khoản tương đương tiền,6.832.590.357.344,,6832590357344.0
+111,BẢNG CẦN ĐỐI KẾ TOÁN HỢP NHẤT > 111,111,1. Tiền,2.407.694.095.002,,2407694095002.0
+112,BẢNG CẦN ĐỐI KẾ TOÁN HỢP NHẤT > 112,112,2. Các khoản tương đương tiền,4.424.896.262.342,,4424896262342.0
+120,BẢNG CẦN ĐỐI KẾ TOÁN HỢP NHẤT > 120,120,II. Các khoản đầu tư tài chính ngắn hạn,2.706.935.228.968,,2706935228968.0
+121,BẢNG CẦN ĐỐI KẾ TOÁN HỢP NHẤT > 121,121,1. Đầu tư ngắn hạn,3.676.119.444.044,,3676119444044.0
+129,BẢNG CẦN ĐỐI KẾ TOÁN HỢP NHẤT > 129,129,2. Dự phòng giảm giá đầu tư ngắn hạn,(969.184.215.076),,-969184215076.0
+130,BẢNG CẦN ĐỐI KẾ TOÁN HỢP NHẤT > 130,130,III. Các khoản phải thu ngắn hạn,3.079.275.953.396,,3079275953396.0
+131,BẢNG CẦN ĐỐI KẾ TOÁN HỢP NHẤT > 131,131,1. Phải thu khách hàng,1.130.295.233.082,,1130295233082.0
+132,BẢNG CẦN ĐỐI KẾ TOÁN HỢP NHẤT > 132,132,2. Trả trước cho người bán,1.255.519.599.471,,1255519599471.0
+133,133,133,3. Phải thu nội bộ ngắn hạn,,,
+134,134,134,4. Phải thu theo tiến độ kế hoạch hợp đồng xây dựng,,,
+135,134 > 135,135,5. Các khoản phải thu khác,830.744.153.004,,830744153004.0
+139,134 > 139,139,6. Dự phòng phải thu ngắn hạn khó đòi,(137.283.032.161),,-137283032161.0
+140,134 > 140,140,IV. Hàng tồn kho,3.801.893.173.167,,3801893173167.0
+141,134 > 141,141,1. Hàng tồn kho,3.911.778.009.490,,3911778009490.0
+149,134 > 149,149,2. Dự phòng giảm giá hàng tồn kho,(109.884.836.323),,-109884836323.0
+150,134 > 150,150,V.. Tài sản ngắn hạn khác,784.403.189.057,,784403189057.0
+151,134 > 151,151,1. Chi phí trả trước ngắn hạn,13.501.035.696,,13501035696.0
+152,134 > 152,152,2. Thuế GTGT được khấu trừ,419.936.280.010,,419936280010.0
+154,134 > 154,154,3. Thuế và các khoản khác phải thu Nhà nước,188.779.131.373,,188779131373.0

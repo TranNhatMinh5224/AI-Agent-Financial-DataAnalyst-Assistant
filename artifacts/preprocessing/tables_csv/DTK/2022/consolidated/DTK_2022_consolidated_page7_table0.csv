@@ -1,0 +1,27 @@
+﻿row_label_raw,row_label_full,TÀI SẢN,Mã số,Thuyết minh,Số cuối năm,Số đầu năm,numeric__Mã số,numeric__Thuyết minh,numeric__Số cuối năm,numeric__Số đầu năm
+A - TÀI SẢN NGẮN HẠN,A - TÀI SẢN NGẮN HẠN,A - TÀI SẢN NGẮN HẠN,100,,4.034.114.771.196,4.190.004.720.980,100.0,,4034114771196.0,4190004720980.0
+I. Tiền và các khoản tương đương tiền,I. Tiền và các khoản tương đương tiền,I. Tiền và các khoản tương đương tiền,110,V.1,258.299.274.385,146.498.638.651,110.0,,258299274385.0,146498638651.0
+1. Tiền,1. Tiền,1. Tiền,111,,187.544.479.864,146.498.638.651,111.0,,187544479864.0,146498638651.0
+2. Các khoản tương đương tiền,2. Các khoản tương đương tiền,2. Các khoản tương đương tiền,112,,70.754.794.521,-,112.0,,70754794521.0,
+II. Đầu tư tài chính ngắn hạn,II. Đầu tư tài chính ngắn hạn,II. Đầu tư tài chính ngắn hạn,120,,425.000.000.000,14.700.000.000,120.0,,425000000000.0,14700000000.0
+1. Chứng khoán kinh doanh,1. Chứng khoán kinh doanh,1. Chứng khoán kinh doanh,121,,-,-,121.0,,,
+2. Dự phòng giảm giá chứng khoán kinh doanh,2. Dự phòng giảm giá chứng khoán kinh doanh,2. Dự phòng giảm giá chứng khoán kinh doanh,122,,-,-,122.0,,,
+3. Đầu tư nắm giữ đến ngày đáo hạn,3. Đầu tư nắm giữ đến ngày đáo hạn,3. Đầu tư nắm giữ đến ngày đáo hạn,123,V.2.1,425.000.000.000,14.700.000.000,123.0,,425000000000.0,14700000000.0
+III. Các khoản phải thu ngắn hạn,III. Các khoản phải thu ngắn hạn,III. Các khoản phải thu ngắn hạn,130,,2.890.059.030.958,3.542.322.105.470,130.0,,2890059030958.0,3542322105470.0
+1. Phải thu ngắn hạn của khách hàng,1. Phải thu ngắn hạn của khách hàng,1. Phải thu ngắn hạn của khách hàng,131,V.3,2.829.814.868.104,3.517.563.549.527,131.0,,2829814868104.0,3517563549527.0
+2. Trả trước cho người bán ngắn hạn,2. Trả trước cho người bán ngắn hạn,2. Trả trước cho người bán ngắn hạn,132,,6.920.570.135,8.396.729.926,132.0,,6920570135.0,8396729926.0
+3. Phải thu nội bộ ngắn hạn,3. Phải thu nội bộ ngắn hạn,3. Phải thu nội bộ ngắn hạn,133,,-,-,133.0,,,
+4. Phải thu theo tiến độ kế hoạch hợp đồng xây dựng,4. Phải thu theo tiến độ kế hoạch hợp đồng xây dựng,4. Phải thu theo tiến độ kế hoạch hợp đồng xây dựng,134,,-,-,134.0,,,
+5. Phải thu về cho vay ngắn hạn,5. Phải thu về cho vay ngắn hạn,5. Phải thu về cho vay ngắn hạn,135,,-,-,135.0,,,
+6. Phải thu ngắn hạn khác,6. Phải thu ngắn hạn khác,6. Phải thu ngắn hạn khác,136,V.4,52.778.444.141,16.878.031.550,136.0,,52778444141.0,16878031550.0
+7. Dự phòng phải thu ngắn hạn khó đòi,7. Dự phòng phải thu ngắn hạn khó đòi,7. Dự phòng phải thu ngắn hạn khó đòi,137,,(29.788.422),(516.205.533),137.0,,-29788422.0,-516205533.0
+8. Tài sản thiếu chờ xử lý,8. Tài sản thiếu chờ xử lý,8. Tài sản thiếu chờ xử lý,139,,574.937.000,-,139.0,,574937000.0,
+IV. Hàng tồn kho,IV. Hàng tồn kho,IV. Hàng tồn kho,140,V.5,328.718.980.565,347.470.138.608,140.0,,328718980565.0,347470138608.0
+1. Hàng tồn kho,1. Hàng tồn kho,1. Hàng tồn kho,141,,328.738.348.401,347.676.062.897,141.0,,328738348401.0,347676062897.0
+2. Dự phòng giảm giá hàng tồn kho,2. Dự phòng giảm giá hàng tồn kho,2. Dự phòng giảm giá hàng tồn kho,149,,(19.367.836),(205.924.289),149.0,,-19367836.0,-205924289.0
+V. Tài sản ngắn hạn khác,V. Tài sản ngắn hạn khác,V. Tài sản ngắn hạn khác,150,,132.037.485.288,139.013.838.251,150.0,,132037485288.0,139013838251.0
+1. Chi phí trả trước ngắn hạn,1. Chi phí trả trước ngắn hạn,1. Chi phí trả trước ngắn hạn,151,V.9,6.395.672.791,2.010.674.855,151.0,,6395672791.0,2010674855.0
+2. Thuế giá trị gia tăng được khấu trừ,2. Thuế giá trị gia tăng được khấu trừ,2. Thuế giá trị gia tăng được khấu trừ,152,,123.296.749.206,97.203.395.227,152.0,,123296749206.0,97203395227.0
+3. Thuế và các khoản khác phải thu Nhà nước,3. Thuế và các khoản khác phải thu Nhà nước,3. Thuế và các khoản khác phải thu Nhà nước,153,V.11.2,2.345.063.291,39.799.768.169,153.0,,2345063291.0,39799768169.0
+4. Giao dịch mua bán lại trái phiếu Chính phủ,4. Giao dịch mua bán lại trái phiếu Chính phủ,4. Giao dịch mua bán lại trái phiếu Chính phủ,154,,-,-,154.0,,,
+5. Tài sản ngắn hạn khác,5. Tài sản ngắn hạn khác,5. Tài sản ngắn hạn khác,155,,-,-,155.0,,,

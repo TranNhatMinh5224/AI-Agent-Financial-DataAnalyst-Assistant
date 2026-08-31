@@ -1,0 +1,22 @@
+﻿row_label_raw,row_label_full,NGUỒN VỐN,Mã số,TM,Tại ngày 31/12/2024,Tại ngày 01/01/2024,numeric__Mã số,numeric__TM,numeric__Tại ngày 31/12/2024,numeric__Tại ngày 01/01/2024
+C. NỘ PHẢI TRẢ,C. NỘ PHẢI TRẢ,C. NỘ PHẢI TRẢ,300,,65.848.565.042,88.657.049.633,300.0,,65848565042.0,88657049633.0
+I. Nợ ngắn hạn,I. Nợ ngắn hạn,I. Nợ ngắn hạn,310,,27.758.053.810,53.668.563.617,310.0,,27758053810.0,53668563617.0
+1. Nợ phải trả người bán ngắn hạn,1. Nợ phải trả người bán ngắn hạn,1. Nợ phải trả người bán ngắn hạn,311,4.12,4.061.056.610,6.754.892.454,311.0,412.0,4061056610.0,6754892454.0
+2. Người mua trả tiền trước ngắn hạn,2. Người mua trả tiền trước ngắn hạn,2. Người mua trả tiền trước ngắn hạn,312,,338.750.635,3.691.318.617,312.0,,338750635.0,3691318617.0
+3. Thuế và các khoản phải nộp Nhà nước,3. Thuế và các khoản phải nộp Nhà nước,3. Thuế và các khoản phải nộp Nhà nước,313,4.13,6.405.738.113,10.583.143.540,313.0,413.0,6405738113.0,10583143540.0
+4. Phải trả người lao động,4. Phải trả người lao động,4. Phải trả người lao động,314,4.14,4.295.865.050,3.988.970.305,314.0,414.0,4295865050.0,3988970305.0
+5. Chi phí phải trả ngắn hạn,5. Chi phí phải trả ngắn hạn,5. Chi phí phải trả ngắn hạn,315,,248.599.740,270.708.915,315.0,,248599740.0,270708915.0
+6. Phải trả ngắn hạn khác,6. Phải trả ngắn hạn khác,6. Phải trả ngắn hạn khác,319,4.15,1.351.524.852,6.737.296.807,319.0,415.0,1351524852.0,6737296807.0
+"7. Quỹ khen thưởng, phúc lợi","7. Quỹ khen thưởng, phúc lợi","7. Quỹ khen thưởng, phúc lợi",322,4.16,11.056.518.810,21.642.232.979,322.0,416.0,11056518810.0,21642232979.0
+II. Nợ dài hạn,II. Nợ dài hạn,II. Nợ dài hạn,330,,38.090.511.232,34.988.486.016,330.0,,38090511232.0,34988486016.0
+1. Phải trả dài hạn khác,1. Phải trả dài hạn khác,1. Phải trả dài hạn khác,337,4.15,38.090.511.232,34.988.486.016,337.0,415.0,38090511232.0,34988486016.0
+D. VỐN CHỦ SỞ HỮU,D. VỐN CHỦ SỞ HỮU,D. VỐN CHỦ SỞ HỮU,400,,4.466.122.049.501,4.402.263.711.414,400.0,,4466122049501.0,4402263711414.0
+I. Vốn chủ sở hữu,I. Vốn chủ sở hữu,I. Vốn chủ sở hữu,410,4.17,4.466.122.049.501,4.402.263.711.414,410.0,417.0,4466122049501.0,4402263711414.0
+1. Vốn góp của chủ sở hữu,1. Vốn góp của chủ sở hữu,1. Vốn góp của chủ sở hữu,411,,3.765.000.000.000,3.765.000.000.000,411.0,,3765000000000.0,3765000000000.0
+Cổ phiếu phổ thông có quyền biểu quyết,Cổ phiếu phổ thông có quyền biểu quyết,Cổ phiếu phổ thông có quyền biểu quyết,411a,,3.765.000.000.000,3.765.000.000.000,,,3765000000000.0,3765000000000.0
+2. Cổ phiếu quỹ,2. Cổ phiếu quỹ,2. Cổ phiếu quỹ,415,,(90.100.000),(90.100.000),415.0,,-90100000.0,-90100000.0
+3. Quỹ đầu tư phát triển,3. Quỹ đầu tư phát triển,3. Quỹ đầu tư phát triển,418,,140.512.711.153,117.972.591.153,418.0,,140512711153.0,117972591153.0
+4. Lợi nhuận sau thuế chưa phân phối,4. Lợi nhuận sau thuế chưa phân phối,4. Lợi nhuận sau thuế chưa phân phối,421,,560.699.438.348,519.381.220.261,421.0,,560699438348.0,519381220261.0
+LNST chưa phân phối lũy kế đến CK trước,LNST chưa phân phối lũy kế đến CK trước,LNST chưa phân phối lũy kế đến CK trước,421a,,48.926.553.011,68.560.361.519,,,48926553011.0,68560361519.0
+LNST chưa phân phối kỳ này,LNST chưa phân phối kỳ này,LNST chưa phân phối kỳ này,421b,,511.772.885.337,450.820.858.742,,,511772885337.0,450820858742.0
+TỔNG CỘNG NGUỒN VỐN (440 = 300 + 400),TỔNG CỘNG NGUỒN VỐN (440 = 300 + 400),TỔNG CỘNG NGUỒN VỐN (440 = 300 + 400),440,,4.531.970.614.543,4.490.920.761.047,440.0,,4531970614543.0,4490920761047.0

@@ -1,0 +1,11 @@
+﻿row_label_raw,row_label_full,col_0,Current year,Prior year,numeric__Current year,numeric__Prior year
+,,,VND,VND,,
+Profit before tax,Profit before tax,Profit before tax,"2,893,129,946,816","1,926,773,727,997",,
+Adjustments for taxable profit,Adjustments for taxable profit,Adjustments for taxable profit,Adjustments for taxable profit,Adjustments for taxable profit,,
+Less: non-taxable income,Less: non-taxable income,Less: non-taxable income,,,,
+Dividends and profit received,Dividends and profit received,Dividends and profit received,"(2,839,659,411,707)","(1,874,586,646,500)",,
+Others,Others,Others,"(23,628,772,233)","(5,472,133,249)",,
+Add back: non-deductible expenses,Add back: non-deductible expenses,Add back: non-deductible expenses,"14,199,107,475","6,709,563,205",,
+Taxable profit,Taxable profit,Taxable profit,"44,040,870,351","53,424,511,453",,
+Normal tax rate,Taxable profit > Normal tax rate,Normal tax rate,20%,20%,0.2,0.2
+Corporate income tax expense based on taxable profit in the current year,Corporate income tax expense based on taxable profit in the current year,Corporate income tax expense based on taxable profit in the current year,"8,808,174,070","10,684,902,291",,

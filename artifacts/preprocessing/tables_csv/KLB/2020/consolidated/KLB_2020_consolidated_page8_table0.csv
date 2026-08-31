@@ -1,0 +1,48 @@
+﻿row_label_raw,row_label_full,Đơn vị tính: triệu VND > A - TÀI SẢN,Đơn vị tính: triệu VND > Thuyết minh,Đơn vị tính: triệu VND > Số cuối năm,Đơn vị tính: triệu VND > Số đầu năm,numeric__Đơn vị tính: triệu VND > Thuyết minh,numeric__Đơn vị tính: triệu VND > Số cuối năm,numeric__Đơn vị tính: triệu VND > Số đầu năm
+"I. Tiền mặt, vàng bạc, đá quý","I. Tiền mặt, vàng bạc, đá quý","I. Tiền mặt, vàng bạc, đá quý",V.1,755.932,694.761,,755932.0,694761.0
+II. Tiền gửi tại Ngân hàng Nhà nước,II. Tiền gửi tại Ngân hàng Nhà nước,II. Tiền gửi tại Ngân hàng Nhà nước,V.2,3.500.995,2.998.548,,3500995.0,2998548.0
+"III. Tiền, vàng gửi tại các TCTD khác và cho vay các TCTD","III. Tiền, vàng gửi tại các TCTD khác và cho vay các TCTD","III. Tiền, vàng gửi tại các TCTD khác và cho vay các TCTD",,11.911.947,9.877.201,,11911947.0,9877201.0
+"1. Tiền, vàng gửi tại các TCTD khác","1. Tiền, vàng gửi tại các TCTD khác","1. Tiền, vàng gửi tại các TCTD khác",V.3,11.911.947,9.877.201,,11911947.0,9877201.0
+2. Cho vay các TCTD khác,2. Cho vay các TCTD khác,2. Cho vay các TCTD khác,,-,-,,,
+3. Dự phòng rủi ro,3. Dự phòng rủi ro,3. Dự phòng rủi ro,,-,-,,,
+IV. Chứng khoán kinh doanh,IV. Chứng khoán kinh doanh,IV. Chứng khoán kinh doanh,,-,-,,,
+1. Chứng khoán kinh doanh,1. Chứng khoán kinh doanh,1. Chứng khoán kinh doanh,,-,-,,,
+2. Dự phòng rủi ro chứng khoán kinh doanh,2. Dự phòng rủi ro chứng khoán kinh doanh,2. Dự phòng rủi ro chứng khoán kinh doanh,,-,-,,,
+V. Công cụ tài chính phải sinh và các tài sản tài chính khác,2. Dự phòng rủi ro chứng khoán kinh doanh > V. Công cụ tài chính phải sinh và các tài sản tài chính khác,V. Công cụ tài chính phải sinh và các tài sản tài chính khác,V.4,-,853,,,853.0
+VI. Cho vay khách hàng,2. Dự phòng rủi ro chứng khoán kinh doanh > VI. Cho vay khách hàng,VI. Cho vay khách hàng,,34.423.044,33.183.657,,34423044.0,33183657.0
+1. Cho vay khách hàng,2. Dự phòng rủi ro chứng khoán kinh doanh > 1. Cho vay khách hàng,1. Cho vay khách hàng,V.5,34.716.197,33.479.645,,34716197.0,33479645.0
+2. Dự phòng rủi ro cho vay khách hàng,2. Dự phòng rủi ro chứng khoán kinh doanh > 2. Dự phòng rủi ro cho vay khách hàng,2. Dự phòng rủi ro cho vay khách hàng,V.6,(293.153),(295.988),,-293153.0,-295988.0
+VII. Hoạt động mua nợ,VII. Hoạt động mua nợ,VII. Hoạt động mua nợ,,-,-,,,
+1. Mua nợ,1. Mua nợ,1. Mua nợ,,-,-,,,
+2. Dự phòng rủi ro hoạt động mua nợ,2. Dự phòng rủi ro hoạt động mua nợ,2. Dự phòng rủi ro hoạt động mua nợ,,-,-,,,
+VIII. Chứng khoán đầu tư,2. Dự phòng rủi ro hoạt động mua nợ > VIII. Chứng khoán đầu tư,VIII. Chứng khoán đầu tư,V.7,3.381.781,830.764,,3381781.0,830764.0
+1. Chứng khoán đầu tư sẵn sàng để bán,1. Chứng khoán đầu tư sẵn sàng để bán,1. Chứng khoán đầu tư sẵn sàng để bán,,-,-,,,
+2. Chứng khoán đầu tư giữ đến ngày đáo hạn,1. Chứng khoán đầu tư sẵn sàng để bán > 2. Chứng khoán đầu tư giữ đến ngày đáo hạn,2. Chứng khoán đầu tư giữ đến ngày đáo hạn,V.7,3.381.781,830.764,,3381781.0,830764.0
+3. Dự phòng rủi ro chứng khoán đầu tư,3. Dự phòng rủi ro chứng khoán đầu tư,3. Dự phòng rủi ro chứng khoán đầu tư,,-,-,,,
+"IX. Góp vốn, đầu tư dài hạn","3. Dự phòng rủi ro chứng khoán đầu tư > IX. Góp vốn, đầu tư dài hạn","IX. Góp vốn, đầu tư dài hạn",,14.521,14.521,,14521.0,14521.0
+1. Đầu tư vào công ty con,1. Đầu tư vào công ty con,1. Đầu tư vào công ty con,,-,-,,,
+2. Vốn góp liên doanh,2. Vốn góp liên doanh,2. Vốn góp liên doanh,,-,-,,,
+3. Đầu tư vào công ty liên kết,3. Đầu tư vào công ty liên kết,3. Đầu tư vào công ty liên kết,,-,-,,,
+4. Đầu tư dài hạn khác,3. Đầu tư vào công ty liên kết > 4. Đầu tư dài hạn khác,4. Đầu tư dài hạn khác,V.8,14.521,14.521,,14521.0,14521.0
+5. Dự phòng giảm giá đầu tư dài hạn,5. Dự phòng giảm giá đầu tư dài hạn,5. Dự phòng giảm giá đầu tư dài hạn,,-,-,,,
+X. Tài sản cố định,5. Dự phòng giảm giá đầu tư dài hạn > X. Tài sản cố định,X. Tài sản cố định,,1.477.785,1.528.792,,1477785.0,1528792.0
+1. Tài sản cố định hữu hình,5. Dự phòng giảm giá đầu tư dài hạn > 1. Tài sản cố định hữu hình,1. Tài sản cố định hữu hình,V.9,741.936,786.352,,741936.0,786352.0
+a. Nguyên giá tài sản cố định,5. Dự phòng giảm giá đầu tư dài hạn > a. Nguyên giá tài sản cố định,a. Nguyên giá tài sản cố định,,1.071.740,1.058.357,,1071740.0,1058357.0
+b. Hao mòn tài sản cố định,5. Dự phòng giảm giá đầu tư dài hạn > b. Hao mòn tài sản cố định,b. Hao mòn tài sản cố định,,(329.804),(272.005),,-329804.0,-272005.0
+2. Tài sản cố định thuê tài chính,2. Tài sản cố định thuê tài chính,2. Tài sản cố định thuê tài chính,,-,-,,,
+a. Nguyên giá tài sản cố định,a. Nguyên giá tài sản cố định,a. Nguyên giá tài sản cố định,,-,-,,,
+b. Hao mòn tài sản cố định,b. Hao mòn tài sản cố định,b. Hao mòn tài sản cố định,,-,-,,,
+3. Tài sản cố định vô hình,b. Hao mòn tài sản cố định > 3. Tài sản cố định vô hình,3. Tài sản cố định vô hình,V.10,735.849,742.440,,735849.0,742440.0
+a. Nguyên giá tài sản cố định,b. Hao mòn tài sản cố định > a. Nguyên giá tài sản cố định,a. Nguyên giá tài sản cố định,,811.031,808.435,,811031.0,808435.0
+b. Hao mòn tài sản cố định,b. Hao mòn tài sản cố định > b. Hao mòn tài sản cố định,b. Hao mòn tài sản cố định,,(75.182),(65.995),,-75182.0,-65995.0
+XI. Bất động sản đầu tư,b. Hao mòn tài sản cố định > XI. Bất động sản đầu tư,XI. Bất động sản đầu tư,V.11,-,94.310,,,94310.0
+a. Nguyên giá bất động sản đầu tư,b. Hao mòn tài sản cố định > a. Nguyên giá bất động sản đầu tư,a. Nguyên giá bất động sản đầu tư,,-,98.921,,,98921.0
+b. Hao mòn bất động sản đầu tư,b. Hao mòn tài sản cố định > b. Hao mòn bất động sản đầu tư,b. Hao mòn bất động sản đầu tư,,-,(4.611),,,-4611.0
+XII. Tài sản có khác,b. Hao mòn tài sản cố định > XII. Tài sản có khác,XII. Tài sản có khác,,1.815.982,1.878.714,,1815982.0,1878714.0
+1. Các khoản phải thu,b. Hao mòn tài sản cố định > 1. Các khoản phải thu,1. Các khoản phải thu,V.12,348.049,245.786,,348049.0,245786.0
+"2. Các khoản lãi, phí phải thu","b. Hao mòn tài sản cố định > 2. Các khoản lãi, phí phải thu","2. Các khoản lãi, phí phải thu",V.13,1.066.409,1.270.241,,1066409.0,1270241.0
+3. Tài sản thuế thu nhập doanh nghiệp hoãn lại,3. Tài sản thuế thu nhập doanh nghiệp hoãn lại,3. Tài sản thuế thu nhập doanh nghiệp hoãn lại,,-,-,,,
+4. Tài sản có khác,3. Tài sản thuế thu nhập doanh nghiệp hoãn lại > 4. Tài sản có khác,4. Tài sản có khác,V.14,405.649,366.812,,405649.0,366812.0
+Trong đó: lợi thế thương mại,Trong đó: lợi thế thương mại,Trong đó: lợi thế thương mại,,-,-,,,
+5. Các khoản dự phòng rủi ro cho,Trong đó: lợi thế thương mại > 5. Các khoản dự phòng rủi ro cho,5. Các khoản dự phòng rủi ro cho,,(4.125),(4.125),,-4125.0,-4125.0
+TỔNG TÀI SẢN CÓ,Trong đó: lợi thế thương mại > TỔNG TÀI SẢN CÓ,TỔNG TÀI SẢN CÓ,,57.281.987,51.102.121,,57281987.0,51102121.0

@@ -1,0 +1,10 @@
+﻿row_label_raw,row_label_full,Mã số,col_1,Thuyết minh,Năm tài chính kết thúc ngày 31 tháng 12 năm > 2022 VND,Năm tài chính kết thúc ngày 31 tháng 12 năm > 2021 VND,numeric__col_1,numeric__Thuyết minh,numeric__Năm tài chính kết thúc ngày 31 tháng 12 năm > 2022 VND,numeric__Năm tài chính kết thúc ngày 31 tháng 12 năm > 2021 VND
+,,,LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG TÀI CHÍNH,,,,,,,
+31,31,31,"Thu từ phát hành cổ phiếu, nhận vốn góp của chủ sở hữu",,403.873.700.000,-,,,403873700000.0,
+33,33,33,"Thu từ vay ngắn hạn, dài hạn",,499.241.081.047,799.719.015.674,,,499241081047.0,799719015674.0
+34,34,34,Chi trả nợ gốc vay,,(954.200.304.573),(777.669.815.754),,,-954200304573.0,-777669815754.0
+40,40,40,Lưu chuyển thuần từ hoạt động tài chính,,(51.085.523.526),22.049.199.920,,,-51085523526.0,22049199920.0
+50,50,50,Lưu chuyển tiền thuần trong năm,,119.877.627.709,(14.573.131.512),,,119877627709.0,-14573131512.0
+60,60,60,Tiền và các khoản tương đương tiền đầu năm,V.1,262.383.481.328,276.956.612.840,,,262383481328.0,276956612840.0
+61,61,61,Ảnh hưởng của thay đổi tỷ giá hối đoái quy đổi ngoại tệ,,-,-,,,,
+70,61 > 70,70,Tiền và các khoản tương đương tiền cuối năm,V.1,382.261.109.037,262.383.481.328,,,382261109037.0,262383481328.0

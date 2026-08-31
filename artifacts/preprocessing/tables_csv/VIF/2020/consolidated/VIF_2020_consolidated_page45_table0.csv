@@ -1,0 +1,15 @@
+﻿row_label_raw,row_label_full,col_0,Số đầu năm,Số phải nộp trong năm,Số đã nộp trong năm,Đơn vị tính: VND,numeric__Số đầu năm,numeric__Số phải nộp trong năm,numeric__Số đã nộp trong năm,numeric__Đơn vị tính: VND
+Phải nộp,Phải nộp,Phải nộp,Phải nộp,Phải nộp,Phải nộp,Phải nộp,,,,
+Thuế giá trị gia tăng,Phải nộp > Thuế giá trị gia tăng,Thuế giá trị gia tăng,2.693.841.651,76.275.096.055,(76.065.671.353),2.903.266.353,2693841651.0,76275096055.0,-76065671353.0,2903266353.0
+Thuế thu nhập doanh nghiệp,Phải nộp > Thuế thu nhập doanh nghiệp,Thuế thu nhập doanh nghiệp,8.609.554.508,34.398.750.466,(34.806.195.284),8.202.109.690,8609554508.0,34398750466.0,-34806195284.0,8202109690.0
+Thuế thu nhập cá nhân,Phải nộp > Thuế thu nhập cá nhân,Thuế thu nhập cá nhân,1.285.970.619,12.348.448.110,(12.527.474.607),1.106.944.122,1285970619.0,12348448110.0,-12527474607.0,1106944122.0
+"Thuế nhà đất, tiền thuê đất","Phải nộp > Thuế nhà đất, tiền thuê đất","Thuế nhà đất, tiền thuê đất",911.409.533,14.492.117.029,(14.811.965.884),591.560.678,911409533.0,14492117029.0,-14811965884.0,591560678.0
+Các loại thuế khác,Phải nộp > Các loại thuế khác,Các loại thuế khác,5.958.390.152,3.689.182.035,(3.864.013.802),5.783.558.385,5958390152.0,3689182035.0,-3864013802.0,5783558385.0
+TỔNG CỘNG,Phải nộp > TỔNG CỘNG,TỔNG CỘNG,19.459.166.463,141.203.593.695,(142.075.320.930),18.587.439.228,19459166463.0,141203593695.0,-142075320930.0,18587439228.0
+,,,Số đầu năm,Số phải thu trong năm,Số đã thu trong năm,Đơn vị tính: VND,,,,
+Phải thu,Phải thu,Phải thu,Phải thu,Phải thu,Phải thu,Phải thu,,,,
+Thuế thu nhập doanh nghiệp,Phải thu > Thuế thu nhập doanh nghiệp,Thuế thu nhập doanh nghiệp,385.796.982,46.164.930,-,431.961.912,385796982.0,46164930.0,,431961912.0
+Thuế thu nhập cá nhân,Phải thu > Thuế thu nhập cá nhân,Thuế thu nhập cá nhân,387.119.200,1.508.332.812,(1.150.368.743),745.083.269,387119200.0,1508332812.0,-1150368743.0,745083269.0
+"Thuế nhà đất, tiền thuê đất","Phải thu > Thuế nhà đất, tiền thuê đất","Thuế nhà đất, tiền thuê đất",41.048.755,331.990.285,(31.501.765),341.537.275,41048755.0,331990285.0,-31501765.0,341537275.0
+Các loại thuế khác,Phải thu > Các loại thuế khác,Các loại thuế khác,-,20.459.520,-,20.459.520,,20459520.0,,20459520.0
+TỔNG CỘNG,Phải thu > TỔNG CỘNG,TỔNG CỘNG,813.964.937,1.906.947.547,(1.181.870.508),1.539.041.976,813964937.0,1906947547.0,-1181870508.0,1539041976.0

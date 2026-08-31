@@ -1,0 +1,15 @@
+﻿row_label_raw,row_label_full,col_0,Quyền sử dụng đất,Phần mềm máy tính,Cộng,numeric__Quyền sử dụng đất,numeric__Phần mềm máy tính,numeric__Cộng
+,,,VND,VND,VND,,,
+Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,,,
+Số dư đầu năm,Nguyên giá > Số dư đầu năm,Số dư đầu năm,71.458.770,130.850.237,202.309.007,71458770.0,130850237.0,202309007.0
+- Mua mới trong năm,Nguyên giá > - Mua mới trong năm,- Mua mới trong năm,-,238.625.000,238.625.000,,238625000.0,238625000.0
+"- Thanh lý, nhượng bán","Nguyên giá > - Thanh lý, nhượng bán","- Thanh lý, nhượng bán",(71.458.770),-,(71.458.770),-71458770.0,,-71458770.0
+Số dư cuối năm,Nguyên giá > Số dư cuối năm,Số dư cuối năm,-,369.475.237,369.475.237,,369475237.0,369475237.0
+Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,,,
+Số dư đầu năm,Giá trị hao mòn lũy kế > Số dư đầu năm,Số dư đầu năm,24.449.444,130.850.237,155.299.681,24449444.0,130850237.0,155299681.0
+- Khấu hao trong năm,Giá trị hao mòn lũy kế > - Khấu hao trong năm,- Khấu hao trong năm,-,1.597.222,1.597.222,,1597222.0,1597222.0
+"- Thanh lý, nhượng bán","Giá trị hao mòn lũy kế > - Thanh lý, nhượng bán","- Thanh lý, nhượng bán",(24.449.444),-,(24.449.444),-24449444.0,,-24449444.0
+Số dư cuối năm,Giá trị hao mòn lũy kế > Số dư cuối năm,Số dư cuối năm,-,132.447.459,132.447.459,,132447459.0,132447459.0
+Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,,,
+Tại ngày đầu năm,Giá trị còn lại > Tại ngày đầu năm,Tại ngày đầu năm,47.009.326,-,47.009.326,47009326.0,,47009326.0
+Tại ngày cuối năm,Giá trị còn lại > Tại ngày cuối năm,Tại ngày cuối năm,-,237.027.778,237.027.778,,237027778.0,237027778.0

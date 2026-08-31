@@ -1,0 +1,29 @@
+﻿row_label_raw,row_label_full,col_0,Giá trị hợp lý tại ngày hợp nhất kinh doanh,numeric__Giá trị hợp lý tại ngày hợp nhất kinh doanh
+Tài sản,Tài sản,Tài sản,VND,
+Tiền và các khoản tương đương tiền,Tài sản > Tiền và các khoản tương đương tiền,Tiền và các khoản tương đương tiền,215.663.729.323,215663729323.0
+Đầu tư tài chính ngắn hạn,Tài sản > Đầu tư tài chính ngắn hạn,Đầu tư tài chính ngắn hạn,54.000.000.000,54000000000.0
+Các khoản phải thu ngắn hạn,Tài sản > Các khoản phải thu ngắn hạn,Các khoản phải thu ngắn hạn,42.112.457.138,42112457138.0
+Hàng tồn kho,Tài sản > Hàng tồn kho,Hàng tồn kho,337.901.442.770,337901442770.0
+Tài sản ngắn hạn khác,Tài sản > Tài sản ngắn hạn khác,Tài sản ngắn hạn khác,16.459.720.028,16459720028.0
+Các khoản phải thu dài hạn,Tài sản > Các khoản phải thu dài hạn,Các khoản phải thu dài hạn,15.050.000.000,15050000000.0
+Tài sản cố định,Tài sản > Tài sản cố định,Tài sản cố định,1.898.223.815.133,1898223815133.0
+Tài sản dở dang dài hạn,Tài sản > Tài sản dở dang dài hạn,Tài sản dở dang dài hạn,14.727.109.082,14727109082.0
+Tài sản dài hạn khác,Tài sản > Tài sản dài hạn khác,Tài sản dài hạn khác,466.450.924.887,466450924887.0
+,,,3.060.589.198.361,3060589198361.0
+Nợ phải trả,Nợ phải trả,Nợ phải trả,Nợ phải trả,
+Phải trả người bán,Nợ phải trả > Phải trả người bán,Phải trả người bán,217.835.118.298,217835118298.0
+Vay và nợ,Nợ phải trả > Vay và nợ,Vay và nợ,1.401.714.015.895,1401714015895.0
+Thuế và các khoản phải nộp Nhà nước,Nợ phải trả > Thuế và các khoản phải nộp Nhà nước,Thuế và các khoản phải nộp Nhà nước,353.473.451,353473451.0
+Phải trả khác,Nợ phải trả > Phải trả khác,Phải trả khác,162.674.367.924,162674367924.0
+,,,1.782.576.975.568,1782576975568.0
+Tổng tài sản thuần [a],Nợ phải trả > Tổng tài sản thuần [a],Tổng tài sản thuần [a],1.278.012.222.793,1278012222793.0
+Cổ đông không kiểm soát [b],Nợ phải trả > Cổ đông không kiểm soát [b],Cổ đông không kiểm soát [b],447.304.277.978,447304277978.0
+Lợi thế thương mại [c],Nợ phải trả > Lợi thế thương mại [c],Lợi thế thương mại [c],10.342.055.185,10342055185.0
+Tổng giá phí hợp nhất kinh doanh đã thanh toán [d] = [a] - [b] + [c],Nợ phải trả > Tổng giá phí hợp nhất kinh doanh đã thanh toán [d] = [a] - [b] + [c],Tổng giá phí hợp nhất kinh doanh đã thanh toán [d] = [a] - [b] + [c],841.050.000.000,841050000000.0
+Trong đó:,Trong đó:,Trong đó:,Trong đó:,
+Giá phí thanh toán bằng tiền tại ngày mua,Trong đó: > Giá phí thanh toán bằng tiền tại ngày mua,Giá phí thanh toán bằng tiền tại ngày mua,350.000.000.000,350000000000.0
+Giá trị hợp lý của khoản đầu tư nằm giữ trước ngày mua chi phối,Trong đó: > Giá trị hợp lý của khoản đầu tư nằm giữ trước ngày mua chi phối,Giá trị hợp lý của khoản đầu tư nằm giữ trước ngày mua chi phối,491.050.000.000,491050000000.0
+Thông tin lưu chuyển tiền tệ từ việc hợp nhất công ty con,Thông tin lưu chuyển tiền tệ từ việc hợp nhất công ty con,Thông tin lưu chuyển tiền tệ từ việc hợp nhất công ty con,Thông tin lưu chuyển tiền tệ từ việc hợp nhất công ty con,
+Tiền thu về từ công ty con,Thông tin lưu chuyển tiền tệ từ việc hợp nhất công ty con > Tiền thu về từ công ty con,Tiền thu về từ công ty con,215.663.729.323,215663729323.0
+Tiền chi để hợp nhất công ty con,Thông tin lưu chuyển tiền tệ từ việc hợp nhất công ty con > Tiền chi để hợp nhất công ty con,Tiền chi để hợp nhất công ty con,(350.000.000.000),-350000000000.0
+Tổng tiền thuần đã thu về từ nghiệp vụ hợp nhất công ty con,Thông tin lưu chuyển tiền tệ từ việc hợp nhất công ty con > Tổng tiền thuần đã thu về từ nghiệp vụ hợp nhất công ty con,Tổng tiền thuần đã thu về từ nghiệp vụ hợp nhất công ty con,(134.336.270.677),-134336270677.0

@@ -1,0 +1,25 @@
+﻿row_label_raw,row_label_full,Chỉ tiêu,USD được quy đổi,EUR được quy đổi,Giá trị vàng tiền tệ được quy đổi,Các ngoại tệ khác được quy đổi,Tổng,numeric__USD được quy đổi,numeric__EUR được quy đổi,numeric__Giá trị vàng tiền tệ được quy đổi,numeric__Các ngoại tệ khác được quy đổi,numeric__Tổng
+Tải sản,Tải sản,Tải sản,,,,,,,,,,
+"Tiền mặt, vàng học, đã quý","Tải sản > Tiền mặt, vàng học, đã quý","Tiền mặt, vàng học, đã quý",44.735,98,1.048,279,46.160,44735.0,98.0,1048.0,279.0,46160.0
+Tiền gối tại ngân hàng Nhà nước,Tải sản > Tiền gối tại ngân hàng Nhà nước,Tiền gối tại ngân hàng Nhà nước,264.076,-,-,-,264.076,264076.0,,,,264076.0
+"Tiền, vàng gối tại và cho vay các TCTD khác (*)","Tải sản > Tiền, vàng gối tại và cho vay các TCTD khác (*)","Tiền, vàng gối tại và cho vay các TCTD khác (*)",123.349,2.634,-,545,126.528,123349.0,2634.0,,545.0,126528.0
+Chứng khoán kinh doanh (*),Chứng khoán kinh doanh (*),Chứng khoán kinh doanh (*),-,-,-,-,-,,,,,
+Các công cụ tài chính phải sinh và các tài sản tài chính khác (*),Chứng khoán kinh doanh (*) > Các công cụ tài chính phải sinh và các tài sản tài chính khác (*),Các công cụ tài chính phải sinh và các tài sản tài chính khác (*),271.532,-,-,-,271.532,271532.0,,,,271532.0
+Cho vay khách hàng (*),Chứng khoán kinh doanh (*) > Cho vay khách hàng (*),Cho vay khách hàng (*),1.282.932,-,5.284,-,1.288.216,1282932.0,,5284.0,,1288216.0
+Chứng khoán đầu tư (*),Chứng khoán đầu tư (*),Chứng khoán đầu tư (*),-,-,-,-,-,,,,,
+"Góp vốn, đầu tư dài hạn (*)","Góp vốn, đầu tư dài hạn (*)","Góp vốn, đầu tư dài hạn (*)",-,-,-,-,-,,,,,
+Tải sản cố định và Bất động sản đầu tư,Tải sản cố định và Bất động sản đầu tư,Tải sản cố định và Bất động sản đầu tư,-,-,-,-,-,,,,,
+Tải sản Có khác (*),Tải sản cố định và Bất động sản đầu tư > Tải sản Có khác (*),Tải sản Có khác (*),239.970,-,3,-,239.972,239970.0,,3.0,,239972.0
+Tổng Tài sản,Tải sản cố định và Bất động sản đầu tư > Tổng Tài sản,Tổng Tài sản,2.226.593,2.732,6.334,824,2.236.483,2226593.0,2732.0,6334.0,824.0,2236483.0
+Nợ phải trả và Vốn chủ sở hữu,Nợ phải trả và Vốn chủ sở hữu,Nợ phải trả và Vốn chủ sở hữu,,,,,,,,,,
+Tiền gửi của và vay từ NHNN và các TCTD khác,Tiền gửi của và vay từ NHNN và các TCTD khác,Tiền gửi của và vay từ NHNN và các TCTD khác,-,-,-,-,-,,,,,
+Tiền gửi của khách hàng,Tiền gửi của và vay từ NHNN và các TCTD khác > Tiền gửi của khách hàng,Tiền gửi của khách hàng,1.930.212,945,-,7,1.931.164,1930212.0,945.0,,7.0,1931164.0
+Các công cụ tài chính phải sinh và các khoản nợ tài chính khác,Các công cụ tài chính phải sinh và các khoản nợ tài chính khác,Các công cụ tài chính phải sinh và các khoản nợ tài chính khác,-,-,-,-,-,,,,,
+"Vốn tài trợ, ủy thác đầu tư, cho vay TCTD chịu rủi ro","Vốn tài trợ, ủy thác đầu tư, cho vay TCTD chịu rủi ro","Vốn tài trợ, ủy thác đầu tư, cho vay TCTD chịu rủi ro",-,-,-,-,-,,,,,
+Phát hành giấy tờ có giá,Phát hành giấy tờ có giá,Phát hành giấy tờ có giá,-,-,-,-,-,,,,,
+Các khoản nợ khác,Phát hành giấy tờ có giá > Các khoản nợ khác,Các khoản nợ khác,2.508,4,-,-,2.512,2508.0,4.0,,,2512.0
+Vốn và các quỹ,Vốn và các quỹ,Vốn và các quỹ,-,-,-,,-,,,,,
+Tổng Nợ phải trả và Vốn chủ sở hữu,Vốn và các quỹ > Tổng Nợ phải trả và Vốn chủ sở hữu,Tổng Nợ phải trả và Vốn chủ sở hữu,1.932.720,949,-,7,1.933.676,1932720.0,949.0,,7.0,1933676.0
+Trạng thái tiền tệ nội bảng,Vốn và các quỹ > Trạng thái tiền tệ nội bảng,Trạng thái tiền tệ nội bảng,293.873,1.783,6.334,817,302.808,293873.0,1783.0,6334.0,817.0,302808.0
+Trạng thái tiền tệ ngoại bảng,Trạng thái tiền tệ ngoại bảng,Trạng thái tiền tệ ngoại bảng,-,-,-,-,-,,,,,
+"Trạng thái tiền tệ nội, ngoại bảng","Trạng thái tiền tệ ngoại bảng > Trạng thái tiền tệ nội, ngoại bảng","Trạng thái tiền tệ nội, ngoại bảng",293.873,1.783,6.334,817,302.808,293873.0,1783.0,6334.0,817.0,302808.0

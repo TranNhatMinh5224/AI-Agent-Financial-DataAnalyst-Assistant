@@ -1,0 +1,23 @@
+﻿row_label_raw,row_label_full,STT,Chỉ tiêu,Thuyết minh,Năm 2022 > Triệu VND,Năm 2021 > Triệu VND,numeric__Chỉ tiêu,numeric__Thuyết minh,numeric__Năm 2022 > Triệu VND,numeric__Năm 2021 > Triệu VND
+1,1,1,Thu nhập lãi và các khoản thu nhập tương tự,25,10.342.019,9.458.828,,25.0,10342019.0,9458828.0
+2,2,2,Chi phí lãi và các chi phí tương tự,26,(7.828.820),(7.341.600),,26.0,-7828820.0,-7341600.0
+I,I,I,Thu nhập lãi thuần,,2.513.199,2.117.228,,,2513199.0,2117228.0
+3,3,3,Thu nhập từ hoạt động dịch vụ,,126.936,90.073,,,126936.0,90073.0
+4,4,4,Chi phí hoạt động dịch vụ,,(35.806),(25.214),,,-35806.0,-25214.0
+II,II,II,Lãi thuần từ hoạt động dịch vụ,27,91.130,64.859,,27.0,91130.0,64859.0
+III,III,III,Lãi thuần từ hoạt động kinh doanh ngoại hối,28,51.640,29.597,,28.0,51640.0,29597.0
+V,V,V,Lãi thuần từ mua bán chứng khoán đầu tư,29,107.476,169.409,,29.0,107476.0,169409.0
+5,5,5,Thu nhập từ hoạt động khác,,156.698,160.252,,,156698.0,160252.0
+6,6,6,Chi phí hoạt động khác,,(59.374),(79.235),,,-59374.0,-79235.0
+VI,VI,VI,Lãi thuần từ hoạt động khác,30,97.324,81.017,,30.0,97324.0,81017.0
+VII,VII,VII,"Thu nhập từ góp vốn, mua cổ phần",31,6.907,1.978,,31.0,6907.0,1978.0
+VIII,VIII,VIII,Chi phí hoạt động,32,(1.716.333),(1.312.134),,32.0,-1716333.0,-1312134.0
+IX,IX,IX,Lợi nhuận thuần từ hoạt động kinh doanh trước chi phí dự phòng rủi ro tín dụng,,1.151.343,1.151.954,,,1151343.0,1151954.0
+X,X,X,Chi phí dự phòng rủi ro tín dụng,,(112.384),(243.589),,,-112384.0,-243589.0
+XI,XI,XI,Tổng lợi nhuận trước thuế,,1.038.959,908.365,,,1038959.0,908365.0
+7,7,7,Chi phí thuế TNDN hiện hành,33,(206.439),(181.276),,33.0,-206439.0,-181276.0
+8,8,8,Chi phí thuế TNDN hoãn lại,,(1),(750),,,-1.0,-750.0
+XII,XII,XII,Chi phí thuế thu nhập doanh nghiệp,,(206.440),(182.026),,,-206440.0,-182026.0
+XIII,XIII,XIII,Lợi nhuận sau thuế,,832.519,726.339,,,832519.0,726339.0
+,,,Lợi nhuận sau thuế của cổ đông Ngân hàng,,832.519,726.339,,,832519.0,726339.0
+XV,XV,XV,Lãi cơ bản trên cổ phiếu (VND),34,1.024,893,,34.0,1024.0,893.0

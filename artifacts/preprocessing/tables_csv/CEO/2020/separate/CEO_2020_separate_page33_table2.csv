@@ -1,0 +1,8 @@
+﻿row_label_raw,row_label_full,Khoản mục,01/01/2020,Số phải nộp trong năm,Số đã thực nộp trong năm,31/12/2020,numeric__01/01/2020,numeric__Số phải nộp trong năm,numeric__Số đã thực nộp trong năm,numeric__31/12/2020
+Phải nộp,Phải nộp,Phải nộp,Phải nộp,Phải nộp,Phải nộp,Phải nộp,,,,
+Thuế GTGT,Phải nộp > Thuế GTGT,Thuế GTGT,637.447.378,36.207.519.974,31.921.861.859,4.923.105.493,637447378.0,36207519974.0,31921861859.0,4923105493.0
+Thuế TNDN (*),Phải nộp > Thuế TNDN (*),Thuế TNDN (*),26.286.511.422,26.001.322.451,30.155.426.011,22.132.407.862,26286511422.0,26001322451.0,30155426011.0,22132407862.0
+Thuế thu nhập cá nhân,Phải nộp > Thuế thu nhập cá nhân,Thuế thu nhập cá nhân,794.200.184,3.101.074.484,3.227.489.418,667.785.250,794200184.0,3101074484.0,3227489418.0,667785250.0
+Thuế nhà đất và tiền thuê đất,Phải nộp > Thuế nhà đất và tiền thuê đất,Thuế nhà đất và tiền thuê đất,-,227.407.174,227.407.174,-,,227407174.0,227407174.0,
+Các loại thuế khác,Phải nộp > Các loại thuế khác,Các loại thuế khác,-,28.079.020,28.079.020,-,,28079020.0,28079020.0,
+Cộng,Phải nộp > Cộng,Cộng,27.718.158.984,65.565.403.103,65.560.263.482,27.723.298.605,27718158984.0,65565403103.0,65560263482.0,27723298605.0

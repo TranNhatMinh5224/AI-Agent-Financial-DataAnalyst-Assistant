@@ -1,0 +1,7 @@
+﻿row_label_raw,row_label_full,col_0,Số dấu năm,Tăng trong năm,Giảm trong năm,VND Số cuối năm,numeric__Số dấu năm,numeric__Tăng trong năm,numeric__Giảm trong năm,numeric__VND Số cuối năm
+Phải thu,Phải thu,Phải thu,Phải thu,Phải thu,Phải thu,Phải thu,,,,
+Thuế TNDN,Phải thu > Thuế TNDN,Thuế TNDN,404.353.134,1.138.353.324,-,1.542.706.458,404353134.0,1138353324.0,,1542706458.0
+Phải nộp,Phải nộp,Phải nộp,Phải nộp,Phải nộp,Phải nộp,Phải nộp,,,,
+Thuế thu nhậpcả nhân,Phải nộp > Thuế thu nhậpcả nhân,Thuế thu nhậpcả nhân,88.192.241,1.222.845.905,(1.223.276.508),87.761.638,88192241.0,1222845905.0,-1223276508.0,87761638.0
+Thuế GTGT,Phải nộp > Thuế GTGT,Thuế GTGT,-,668.939.249,(668.939.249),-,,668939249.0,-668939249.0,
+TỔNG CỘNG,Phải nộp > TỔNG CỘNG,TỔNG CỘNG,88.192.241,1.891.785.154,(1.892.215.757),87.761.638,88192241.0,1891785154.0,-1892215757.0,87761638.0

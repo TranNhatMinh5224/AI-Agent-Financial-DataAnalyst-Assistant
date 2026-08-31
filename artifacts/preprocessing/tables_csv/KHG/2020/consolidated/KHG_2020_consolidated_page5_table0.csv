@@ -1,0 +1,27 @@
+﻿row_label_raw,row_label_full,CHỈ TIÊU,Mã số,Thuyết minh,31/12/2020,01/01/2020,numeric__Mã số,numeric__Thuyết minh,numeric__31/12/2020,numeric__01/01/2020
+A - TÀI SẢN NGẮN HẠN,A - TÀI SẢN NGẮN HẠN,A - TÀI SẢN NGẮN HẠN,100,,838.339.960.162,668.970.368.279,100.0,,838339960162.0,668970368279.0
+I. Tiền và các khoản tương đương tiền,I. Tiền và các khoản tương đương tiền,I. Tiền và các khoản tương đương tiền,110,,161.891.071.672,19.293.115.973,110.0,,161891071672.0,19293115973.0
+1. Tiền,1. Tiền,1. Tiền,111,5,161.891.071.672,19.293.115.973,111.0,5.0,161891071672.0,19293115973.0
+II. Các khoản phải thu ngắn hạn,II. Các khoản phải thu ngắn hạn,II. Các khoản phải thu ngắn hạn,130,,675.493.478.583,649.130.332.629,130.0,,675493478583.0,649130332629.0
+1. Phải thu ngắn hạn của khách hàng,1. Phải thu ngắn hạn của khách hàng,1. Phải thu ngắn hạn của khách hàng,131,6,178.615.945.043,13.162.340.265,131.0,6.0,178615945043.0,13162340265.0
+2. Trả trước cho người bán ngắn hạn,2. Trả trước cho người bán ngắn hạn,2. Trả trước cho người bán ngắn hạn,132,7,261.338.112.986,599.206.686.754,132.0,7.0,261338112986.0,599206686754.0
+3. Phải thu ngắn hạn khác,3. Phải thu ngắn hạn khác,3. Phải thu ngắn hạn khác,136,8,235.539.420.554,36.761.305.610,136.0,8.0,235539420554.0,36761305610.0
+III. Tài sản ngắn hạn khác,III. Tài sản ngắn hạn khác,III. Tài sản ngắn hạn khác,150,,955.409.907,546.919.677,150.0,,955409907.0,546919677.0
+1. Chi phí trả trước ngắn hạn,1. Chi phí trả trước ngắn hạn,1. Chi phí trả trước ngắn hạn,151,9,954.017.907,545.527.677,151.0,9.0,954017907.0,545527677.0
+2. Thuế GTGT được khấu trừ,2. Thuế GTGT được khấu trừ,2. Thuế GTGT được khấu trừ,152,,1.392.000,1.392.000,152.0,,1392000.0,1392000.0
+B - TÀI SẢN DÀI HẠN,B - TÀI SẢN DÀI HẠN,B - TÀI SẢN DÀI HẠN,200,,1.532.183.350.977,730.775.484.255,200.0,,1532183350977.0,730775484255.0
+I. Các khoản phải thu dài hạn,I. Các khoản phải thu dài hạn,I. Các khoản phải thu dài hạn,210,,1.316.156.437.000,516.656.437.000,210.0,,1316156437000.0,516656437000.0
+1. Phải thu dài hạn khác,1. Phải thu dài hạn khác,1. Phải thu dài hạn khác,216,8,1.316.156.437.000,516.656.437.000,216.0,8.0,1316156437000.0,516656437000.0
+II. Tài sản cố định,II. Tài sản cố định,II. Tài sản cố định,220,,-,72.730.052,220.0,,,72730052.0
+1. Tài sản cố định hữu hình,1. Tài sản cố định hữu hình,1. Tài sản cố định hữu hình,221,10,-,11.281.302,221.0,10.0,,11281302.0
+- Nguyên giá,- Nguyên giá,- Nguyên giá,222,,2.985.914.820,2.985.914.820,222.0,,2985914820.0,2985914820.0
+- Giá trị hao mòn luỹ kế,- Giá trị hao mòn luỹ kế,- Giá trị hao mòn luỹ kế,223,,(2.985.914.820),(2.974.633.518),223.0,,-2985914820.0,-2974633518.0
+2. Tài sản cố định vô hình,2. Tài sản cố định vô hình,2. Tài sản cố định vô hình,227,11,-,61.448.750,227.0,11.0,,61448750.0
+- Nguyên giá,- Nguyên giá,- Nguyên giá,228,,221.215.500,221.215.500,228.0,,221215500.0,221215500.0
+- Giá trị hao mòn luỹ kế,- Giá trị hao mòn luỹ kế,- Giá trị hao mòn luỹ kế,229,,(221.215.500),(159.766.750),229.0,,-221215500.0,-159766750.0
+III. Tài sản dở dang dài hạn,III. Tài sản dở dang dài hạn,III. Tài sản dở dang dài hạn,240,,213.679.143.054,213.726.643.054,240.0,,213679143054.0,213726643054.0
+"1. Chi phí sản xuất, KD dở dang dài hạn","1. Chi phí sản xuất, KD dở dang dài hạn","1. Chi phí sản xuất, KD dở dang dài hạn",241,,599.989.498,599.989.498,241.0,,599989498.0,599989498.0
+2. Chi phí xây dựng cơ bản dở dang,2. Chi phí xây dựng cơ bản dở dang,2. Chi phí xây dựng cơ bản dở dang,242,12,213.079.153.556,213.126.653.556,242.0,12.0,213079153556.0,213126653556.0
+IV. Tài sản dài hạn khác,IV. Tài sản dài hạn khác,IV. Tài sản dài hạn khác,260,,2.347.770.923,319.674.149,260.0,,2347770923.0,319674149.0
+1. Chi phí trả trước dài hạn,1. Chi phí trả trước dài hạn,1. Chi phí trả trước dài hạn,261,9,2.347.770.923,319.674.149,261.0,9.0,2347770923.0,319674149.0
+TỔNG CỘNG TÀI SẢN,TỔNG CỘNG TÀI SẢN,TỔNG CỘNG TÀI SẢN,270,,2.370.523.311.139,1.399.745.852.534,270.0,,2370523311139.0,1399745852534.0

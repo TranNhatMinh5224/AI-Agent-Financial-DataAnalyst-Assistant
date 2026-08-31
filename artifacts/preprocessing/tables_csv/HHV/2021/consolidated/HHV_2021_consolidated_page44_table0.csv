@@ -1,0 +1,23 @@
+﻿row_label_raw,row_label_full,Chỉ tiêu,Quyền sử dụng đất,Phần mềm vi tính,TSCĐ vô hình khác,Cộng,numeric__Quyền sử dụng đất,numeric__Phần mềm vi tính,numeric__TSCĐ vô hình khác,numeric__Cộng
+I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,,,,
+1. Số dư đầu năm,I. Nguyên giá > 1. Số dư đầu năm,1. Số dư đầu năm,618.292.634,584.500.850,183.403.472,1.386.196.956,618292634.0,584500850.0,183403472.0,1386196956.0
+2. Số tăng trong năm,2. Số tăng trong năm,2. Số tăng trong năm,-,-,-,-,,,,
+- Mua trong năm,- Mua trong năm,- Mua trong năm,-,-,-,-,,,,
+- Tạo ra từ nội bộ DN,- Tạo ra từ nội bộ DN,- Tạo ra từ nội bộ DN,-,-,-,-,,,,
+- Tăng khác,- Tăng khác,- Tăng khác,-,-,-,-,,,,
+3. Số giảm trong năm,3. Số giảm trong năm,3. Số giảm trong năm,-,-,-,-,,,,
+"- Thanh lý, nhượng bán","- Thanh lý, nhượng bán","- Thanh lý, nhượng bán",-,-,-,-,,,,
+- Giảm khác,- Giảm khác,- Giảm khác,-,-,-,-,,,,
+4. Số dư cuối năm,- Giảm khác > 4. Số dư cuối năm,4. Số dư cuối năm,618.292.634,584.500.850,183.403.472,1.386.196.956,618292634.0,584500850.0,183403472.0,1386196956.0
+II. Giá trị hao mòn lũy kế,II. Giá trị hao mòn lũy kế,II. Giá trị hao mòn lũy kế,II. Giá trị hao mòn lũy kế,II. Giá trị hao mòn lũy kế,II. Giá trị hao mòn lũy kế,II. Giá trị hao mòn lũy kế,,,,
+1. Số dư đầu năm,II. Giá trị hao mòn lũy kế > 1. Số dư đầu năm,1. Số dư đầu năm,51.560.137,401.190.096,-,452.750.233,51560137.0,401190096.0,,452750233.0
+2. Khấu hao trong năm,II. Giá trị hao mòn lũy kế > 2. Khấu hao trong năm,2. Khấu hao trong năm,12.881.088,78.310.765,73.361.388,164.553.241,12881088.0,78310765.0,73361388.0,164553241.0
+- Khấu hao trong năm,II. Giá trị hao mòn lũy kế > - Khấu hao trong năm,- Khấu hao trong năm,12.881.088,78.310.765,73.361.388,164.553.241,12881088.0,78310765.0,73361388.0,164553241.0
+- Tăng khác,- Tăng khác,- Tăng khác,-,-,-,-,,,,
+3. Giảm trong năm,3. Giảm trong năm,3. Giảm trong năm,-,-,-,-,,,,
+"- Thanh lý, nhượng bán","- Thanh lý, nhượng bán","- Thanh lý, nhượng bán",-,-,-,-,,,,
+- Giảm khác,- Giảm khác,- Giảm khác,-,-,-,-,,,,
+4. Số dư cuối năm,- Giảm khác > 4. Số dư cuối năm,4. Số dư cuối năm,64.441.225,479.500.861,73.361.388,617.303.474,64441225.0,479500861.0,73361388.0,617303474.0
+III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,,,,
+1. Tại ngày đầu năm,III. Giá trị còn lại > 1. Tại ngày đầu năm,1. Tại ngày đầu năm,566.732.497,183.310.754,183.403.472,933.446.723,566732497.0,183310754.0,183403472.0,933446723.0
+2. Tại ngày cuối năm,III. Giá trị còn lại > 2. Tại ngày cuối năm,2. Tại ngày cuối năm,553.851.409,104.999.989,110.042.084,768.893.482,553851409.0,104999989.0,110042084.0,768893482.0

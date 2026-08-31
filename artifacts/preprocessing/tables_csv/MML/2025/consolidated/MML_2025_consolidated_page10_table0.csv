@@ -1,0 +1,26 @@
+﻿row_label_raw,row_label_full,col_0,Mã số,Thuyết minh,31/12/2025 VND,1/1/2025 VND,numeric__Mã số,numeric__Thuyết minh,numeric__31/12/2025 VND,numeric__1/1/2025 VND
+NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,,,,
+NỘ PHẢI TRẢ (300 = 310 + 330),NGUỒN VỐN > NỘ PHẢI TRẢ (300 = 310 + 330),NỘ PHẢI TRẢ (300 = 310 + 330),300,,6.166.967.344.173,6.759.367.390.408,300.0,,6166967344173.0,6759367390408.0
+Nợ ngắn hạn,NGUỒN VỐN > Nợ ngắn hạn,Nợ ngắn hạn,310,,5.242.484.260.684,3.245.113.653.042,310.0,,5242484260684.0,3245113653042.0
+Phải trả người bán,NGUỒN VỐN > Phải trả người bán,Phải trả người bán,311,20,771.573.380.375,635.842.642.820,311.0,20.0,771573380375.0,635842642820.0
+Người mua trả tiền trước,NGUỒN VỐN > Người mua trả tiền trước,Người mua trả tiền trước,312,,7.809.986.047,6.609.593.951,312.0,,7809986047.0,6609593951.0
+Thuế và các khoản phải nộp Nhà nước,NGUỒN VỐN > Thuế và các khoản phải nộp Nhà nước,Thuế và các khoản phải nộp Nhà nước,313,21,25.423.016.396,16.531.567.443,313.0,21.0,25423016396.0,16531567443.0
+Chi phí phải trả,NGUỒN VỐN > Chi phí phải trả,Chi phí phải trả,315,22,841.873.067.470,704.341.672.675,315.0,22.0,841873067470.0,704341672675.0
+Phải trả ngắn hạn khác,NGUỒN VỐN > Phải trả ngắn hạn khác,Phải trả ngắn hạn khác,319,23(a),52.884.037.563,140.353.611.328,319.0,,52884037563.0,140353611328.0
+"Vay, trái phiếu phát hành và nợ thuê tài chính ngắn hạn","NGUỒN VỐN > Vay, trái phiếu phát hành và nợ thuê tài chính ngắn hạn","Vay, trái phiếu phát hành và nợ thuê tài chính ngắn hạn",320,24(a),3.541.954.982.869,1.740.468.774.861,320.0,,3541954982869.0,1740468774861.0
+"Quỹ khen thưởng, phúc lợi","NGUỒN VỐN > Quỹ khen thưởng, phúc lợi","Quỹ khen thưởng, phúc lợi",322,,965.789.964,965.789.964,322.0,,965789964.0,965789964.0
+Nợ dài hạn,NGUỒN VỐN > Nợ dài hạn,Nợ dài hạn,330,,924.483.083.489,3.514.253.737.366,330.0,,924483083489.0,3514253737366.0
+Phải trả dài hạn khác,NGUỒN VỐN > Phải trả dài hạn khác,Phải trả dài hạn khác,337,23(b),43.881.640.006,267.065.299.997,337.0,,43881640006.0,267065299997.0
+"Vay, trái phiếu phát hành và nợ thuê tài chính dài hạn","NGUỒN VỐN > Vay, trái phiếu phát hành và nợ thuê tài chính dài hạn","Vay, trái phiếu phát hành và nợ thuê tài chính dài hạn",338,24(b),546.341.973.914,2.907.565.937.254,338.0,,546341973914.0,2907565937254.0
+Thuế thu nhập hoãn lại phải trả,NGUỒN VỐN > Thuế thu nhập hoãn lại phải trả,Thuế thu nhập hoãn lại phải trả,341,18,323.534.491.105,328.553.651.446,341.0,18.0,323534491105.0,328553651446.0
+Dự phòng phải trả dài hạn,NGUỒN VỐN > Dự phòng phải trả dài hạn,Dự phòng phải trả dài hạn,342,25,10.724.978.464,11.068.848.669,342.0,25.0,10724978464.0,11068848669.0
+VỐN CHỦ SỞ HỮU (400 = 410),NGUỒN VỐN > VỐN CHỦ SỞ HỮU (400 = 410),VỐN CHỦ SỞ HỮU (400 = 410),400,,5.200.691.008.445,4.469.137.482.292,400.0,,5200691008445.0,4469137482292.0
+Vốn chủ sở hữu,NGUỒN VỐN > Vốn chủ sở hữu,Vốn chủ sở hữu,410,26,5.200.691.008.445,4.469.137.482.292,410.0,26.0,5200691008445.0,4469137482292.0
+Vốn cổ phần,NGUỒN VỐN > Vốn cổ phần,Vốn cổ phần,411,27,3.403.168.580.000,3.290.525.930.000,411.0,27.0,3403168580000.0,3290525930000.0
+- Cổ phiếu phổ thông có quyền biểu quyết,NGUỒN VỐN > - Cổ phiếu phổ thông có quyền biểu quyết,- Cổ phiếu phổ thông có quyền biểu quyết,411a,,3.403.168.580.000,3.290.525.930.000,,,3403168580000.0,3290525930000.0
+Thặng dư vốn cổ phần,NGUỒN VỐN > Thặng dư vốn cổ phần,Thặng dư vốn cổ phần,412,,2.137.052.965.149,2.137.102.965.149,412.0,,2137052965149.0,2137102965149.0
+Lỗ lũy kế,NGUỒN VỐN > Lỗ lũy kế,Lỗ lũy kế,421,,(478.783.291.655),(1.041.805.283.872),421.0,,-478783291655.0,-1041805283872.0
+- Lỗ lũy kế đến cuối năm trước,NGUỒN VỐN > - Lỗ lũy kế đến cuối năm trước,- Lỗ lũy kế đến cuối năm trước,421a,,(1.041.805.283.872),(398.879.312.744),,,-1041805283872.0,-398879312744.0
+- Lợi nhuận sau thuế năm nay/(Lỗ sau thuế năm trước),NGUỒN VỐN > - Lợi nhuận sau thuế năm nay/(Lỗ sau thuế năm trước),- Lợi nhuận sau thuế năm nay/(Lỗ sau thuế năm trước),421b,,563.021.992.217,(642.925.971.128),,,563021992217.0,-642925971128.0
+Lợi ích cổ đông không kiểm soát,NGUỒN VỐN > Lợi ích cổ đông không kiểm soát,Lợi ích cổ đông không kiểm soát,429,,139.252.754.951,83.313.871.015,429.0,,139252754951.0,83313871015.0
+TỔNG NGUỒN VỐN (440 = 300 + 400),NGUỒN VỐN > TỔNG NGUỒN VỐN (440 = 300 + 400),TỔNG NGUỒN VỐN (440 = 300 + 400),440,,11.367.658.352.618,11.228.504.872.700,440.0,,11367658352618.0,11228504872700.0

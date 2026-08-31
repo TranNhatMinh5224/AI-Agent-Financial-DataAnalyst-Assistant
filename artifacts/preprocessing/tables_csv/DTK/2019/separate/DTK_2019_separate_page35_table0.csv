@@ -1,0 +1,15 @@
+﻿row_label_raw,row_label_full,col_0,01/01/2019(VND),Số phải nộptrong năm,Số đã thực nộptrong năm,31/12/2019(VND),numeric__01/01/2019(VND),numeric__Số phải nộptrong năm,numeric__Số đã thực nộptrong năm,numeric__31/12/2019(VND)
+Phải nộp,Phải nộp,Phải nộp,Phải nộp,Phải nộp,Phải nộp,Phải nộp,,,,
+Thuế giá trị gia tăng,Phải nộp > Thuế giá trị gia tăng,Thuế giá trị gia tăng,47.440.831.585,292.813.838.628,328.213.270.614,12.041.399.599,47440831585.0,292813838628.0,328213270614.0,12041399599.0
+Thuế thu nhập doanh nghiệp,Phải nộp > Thuế thu nhập doanh nghiệp,Thuế thu nhập doanh nghiệp,38.884.463.483,144.308.635.301,69.871.256.632,113.321.842.152,38884463483.0,144308635301.0,69871256632.0,113321842152.0
+Thuế thu nhập cá nhân,Phải nộp > Thuế thu nhập cá nhân,Thuế thu nhập cá nhân,719.168.973,2.777.849.271,2.879.927.472,617.090.772,719168973.0,2777849271.0,2879927472.0,617090772.0
+Thuế tài nguyên,Phải nộp > Thuế tài nguyên,Thuế tài nguyên,6.306.931.049,52.616.411.552,54.280.034.654,4.643.307.947,6306931049.0,52616411552.0,54280034654.0,4643307947.0
+Thuế đất và tiền thuê đất,Phải nộp > Thuế đất và tiền thuê đất,Thuế đất và tiền thuê đất,-,1.832.775.388,1.832.775.388,-,,1832775388.0,1832775388.0,
+Các loại thuế khác,Phải nộp > Các loại thuế khác,Các loại thuế khác,-,6.869.247.227,6.836.179.099,33.068.128,,6869247227.0,6836179099.0,33068128.0
+"Các khoản phí, lệ phí và các khoản phải nộp khác","Phải nộp > Các khoản phí, lệ phí và các khoản phải nộp khác","Các khoản phí, lệ phí và các khoản phải nộp khác",6.252.523.977,33.160.903.880,34.855.889.337,4.557.538.520,6252523977.0,33160903880.0,34855889337.0,4557538520.0
+Cộng,Phải nộp > Cộng,Cộng,99.603.919.067,534.379.661.247,498.769.333.196,135.214.247.118,99603919067.0,534379661247.0,498769333196.0,135214247118.0
+Phải thu,Phải thu,Phải thu,Phải thu,Phải thu,Phải thu,Phải thu,,,,
+Thuế giá trị gia tăng,Phải thu > Thuế giá trị gia tăng,Thuế giá trị gia tăng,-,-,10.361.102.704,10.361.102.704,,,10361102704.0,10361102704.0
+Thuế thu nhập cá nhân,Phải thu > Thuế thu nhập cá nhân,Thuế thu nhập cá nhân,-,-,10.568.511,10.568.511,,,10568511.0,10568511.0
+Thuế đất và tiền thuê đất,Thuế đất và tiền thuê đất,Thuế đất và tiền thuê đất,-,-,-,-,,,,
+Cộng,Thuế đất và tiền thuê đất > Cộng,Cộng,-,-,10.371.671.215,10.371.671.215,,,10371671215.0,10371671215.0

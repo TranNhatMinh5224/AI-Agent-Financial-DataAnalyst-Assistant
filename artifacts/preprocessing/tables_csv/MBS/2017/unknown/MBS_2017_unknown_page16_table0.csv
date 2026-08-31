@@ -1,0 +1,19 @@
+﻿row_label_raw,row_label_full,col_0,col_1,Mã số,2017 VND,2016 VND,numeric__col_1,numeric__Mã số,numeric__2017 VND,numeric__2016 VND
+I,I,I,"Lưu chuyển tiền hoạt động môi giới, ủy thác của khách hàng",,,,,,,
+1,I > 1,1,Tiền thu bán chứng khoán môi giới cho khách hàng,01,77.875.997.520.430,40.760.623.833.390,,1.0,77875997520430.0,40760623833390.0
+2,I > 2,2,Tiền chi mua chứng khoán môi giới cho khách hàng,02,(76.305.652.357.470),(42.607.574.771.290),,2.0,-76305652357470.0,-42607574771290.0
+7,I > 7,7,Tiền thu/(chi) về thanh toán giao dịch chứng khoán của khách hàng,07,(242.343.956.495),2.382.489.694.692,,7.0,-242343956495.0,2382489694692.0
+11,I > 11,11,Chi trả phí lưu ký chứng khoán của khách hàng,11,(8.658.177.450),(6.123.022.871),,11.0,-8658177450.0,-6123022871.0
+12,I > 12,12,Tiền thu của Tổ chức phát hành chứng khoán,12,191.808.754.033,-,,12.0,191808754033.0,
+13,I > 13,13,Tiền chi trả Tổ chức phát hành chứng khoán,13,(381.453.403.275),(465.992.775.281),,13.0,-381453403275.0,-465992775281.0
+,,,Tăng tiền thuần trong năm,20,1.129.698.379.773,63.422.958.640,,20.0,1129698379773.0,63422958640.0
+II,I > II,II,Tiền và các khoản tương đương tiền đầu năm của khách hàng,30,,,,30.0,,
+II,I > II,II,Tiền gửi ngân hàng đầu năm:,31,652.273.966.146,588.851.007.506,,31.0,652273966146.0,588851007506.0
+II,I > II,II,- Tiền gửi của Nhà đầu tư về giao dịch chứng khoán theo phương thức CTCK quản lý,32,627.098.409.624,531.240.245.780,,32.0,627098409624.0,531240245780.0
+II,I > II,II,- Tiền gửi tổng hợp giao dịch chứng khoán cho khách hàng,33,21.303.151.549,55.512.030.988,,33.0,21303151549.0,55512030988.0
+II,I > II,II,- Tiền gửi của Tổ chức phát hành chứng khoán,35,3.872.404.973,2.098.730.738,,35.0,3872404973.0,2098730738.0
+III,I > III,III,Tiền và các khoản tương đương tiền cuối năm của khách hàng,40,,,,40.0,,
+III,I > III,III,Tiền gửi ngân hàng cuối năm:,41,1.781.972.345.919,652.273.966.146,,41.0,1781972345919.0,652273966146.0
+III,I > III,III,- Tiền gửi của Nhà đầu tư về giao dịch chứng khoán theo phương thức CTCK quản lý,42,1.720.500.354.967,627.098.409.624,,42.0,1720500354967.0,627098409624.0
+III,I > III,III,- Tiền gửi tổng hợp giao dịch chứng khoán cho khách hàng,43,60.864.158.377,21.303.151.549,,43.0,60864158377.0,21303151549.0
+III,I > III,III,- Tiền gửi của Tổ chức phát hành chứng khoán,45,607.832.575,3.872.404.973,,45.0,607832575.0,3872404973.0

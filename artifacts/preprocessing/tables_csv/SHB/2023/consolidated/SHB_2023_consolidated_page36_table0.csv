@@ -1,0 +1,22 @@
+﻿row_label_raw,row_label_full,col_0,"Nhà cửa, vật kiến trúc","Máy móc, thiết bị",Phương tiện vận tải,Thiết bị dụng cụ quản lý,Tài sản cố định hữu hình khác,Tổng,"numeric__Nhà cửa, vật kiến trúc","numeric__Máy móc, thiết bị",numeric__Phương tiện vận tải,numeric__Thiết bị dụng cụ quản lý,numeric__Tài sản cố định hữu hình khác,numeric__Tổng
+,,,Triệu VND,Triệu VND,Triệu VND,Triệu VND,Triệu VND,Triệu VND,,,,,,
+Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,Nguyên giá,,,,,,
+Số dư đầu năm,Nguyên giá > Số dư đầu năm,Số dư đầu năm,470.570,297.936,198.048,318.428,2.167,1.287.149,470570.0,297936.0,198048.0,318428.0,2167.0,1287149.0
+Mua sắm trong năm,Nguyên giá > Mua sắm trong năm,Mua sắm trong năm,26.324,11.881,15.853,108.667,607,163.332,26324.0,11881.0,15853.0,108667.0,607.0,163332.0
+Xây dựng CBDD chuyển sang,Nguyên giá > Xây dựng CBDD chuyển sang,Xây dựng CBDD chuyển sang,176.933,-,-,-,-,176.933,176933.0,,,,,176933.0
+Chênh lệch tỷ giá,Nguyên giá > Chênh lệch tỷ giá,Chênh lệch tỷ giá,928,(425),(419),8,(65),27,928.0,-425.0,-419.0,8.0,-65.0,27.0
+"Thanh lý, nhượng bán","Nguyên giá > Thanh lý, nhượng bán","Thanh lý, nhượng bán",(7.460),(5.023),(7.244),(12.700),-,(32.427),-7460.0,-5023.0,-7244.0,-12700.0,,-32427.0
+Giảm do thoái vốn SHBFC,Nguyên giá > Giảm do thoái vốn SHBFC,Giảm do thoái vốn SHBFC,-,(63.651),(2.516),-,(613),(66.780),,-63651.0,-2516.0,,-613.0,-66780.0
+Tăng/(Giảm) khác,Nguyên giá > Tăng/(Giảm) khác,Tăng/(Giảm) khác,(114),48,-,335,-,269,-114.0,48.0,,335.0,,269.0
+Số dư cuối năm,Nguyên giá > Số dư cuối năm,Số dư cuối năm,667.181,240.766,203.722,414.738,2.096,1.528.503,667181.0,240766.0,203722.0,414738.0,2096.0,1528503.0
+Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,,,,,,
+Số dư đầu năm,Giá trị hao mòn lũy kế > Số dư đầu năm,Số dư đầu năm,188.460,243.276,139.299,212.245,1.015,784.295,188460.0,243276.0,139299.0,212245.0,1015.0,784295.0
+Khấu hao trong năm,Giá trị hao mòn lũy kế > Khấu hao trong năm,Khấu hao trong năm,24.950,7.597,11.120,35.536,627,79.830,24950.0,7597.0,11120.0,35536.0,627.0,79830.0
+Chênh lệch tỷ giá,Giá trị hao mòn lũy kế > Chênh lệch tỷ giá,Chênh lệch tỷ giá,768,(393),(363),10,(47),(25),768.0,-393.0,-363.0,10.0,-47.0,-25.0
+"Thanh lý, nhượng bán","Giá trị hao mòn lũy kế > Thanh lý, nhượng bán","Thanh lý, nhượng bán",(6.402),(4.992),(6.946),(12.296),(591),(31.227),-6402.0,-4992.0,-6946.0,-12296.0,-591.0,-31227.0
+Giảm do thoái vốn SHBFC,Giá trị hao mòn lũy kế > Giảm do thoái vốn SHBFC,Giảm do thoái vốn SHBFC,-,(37.281),(2.092),-,(433),(39.806),,-37281.0,-2092.0,,-433.0,-39806.0
+Tăng/(Giảm) khác,Giá trị hao mòn lũy kế > Tăng/(Giảm) khác,Tăng/(Giảm) khác,141,7,23,282,5,458,141.0,7.0,23.0,282.0,5.0,458.0
+Số dư cuối năm,Giá trị hao mòn lũy kế > Số dư cuối năm,Số dư cuối năm,207.917,208.214,141.041,235.777,576,793.525,207917.0,208214.0,141041.0,235777.0,576.0,793525.0
+Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,Giá trị còn lại,,,,,,
+Tại ngày đầu năm,Giá trị còn lại > Tại ngày đầu năm,Tại ngày đầu năm,282.110,54.660,58.749,106.183,1.152,502.854,282110.0,54660.0,58749.0,106183.0,1152.0,502854.0
+Tại ngày cuối năm,Giá trị còn lại > Tại ngày cuối năm,Tại ngày cuối năm,459.264,32.552,62.681,178.961,1.520,734.978,459264.0,32552.0,62681.0,178961.0,1520.0,734978.0

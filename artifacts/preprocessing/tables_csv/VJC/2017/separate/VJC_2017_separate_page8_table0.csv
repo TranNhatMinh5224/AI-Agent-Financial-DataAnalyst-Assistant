@@ -1,0 +1,23 @@
+﻿row_label_raw,row_label_full,col_0,Mã số,Thayết m/nh,31/12/2017 VND,11/2017 VND,numeric__Mã số,numeric__Thayết m/nh,numeric__31/12/2017 VND,numeric__11/2017 VND
+NGLÔN VÔN,NGLÔN VÔN,NGLÔN VÔN,NGLÔN VÔN,NGLÔN VÔN,NGLÔN VÔN,NGLÔN VÔN,,,,
+NỘ PHẢI TRẢ (300 = 310 + 350),NGLÔN VÔN > NỘ PHẢI TRẢ (300 = 310 + 350),NỘ PHẢI TRẢ (300 = 310 + 350),300,,23.484.832.353.462,15.439.746.114.451,300.0,,23484832353462.0,15439746114451.0
+Nợ ngắc hạn,NGLÔN VÔN > Nợ ngắc hạn,Nợ ngắc hạn,310,,16.340.000.178.511,10.692.674.531.581,310.0,,16340000178511.0,10692674531581.0
+Phải trả người bán ngắn hạn,NGLÔN VÔN > Phải trả người bán ngắn hạn,Phải trả người bán ngắn hạn,311,15,593.067.305.745,281.433.708.156,311.0,15.0,593067305745.0,281433708156.0
+Người minus lẻ liêu trước ag Indo hạn,NGLÔN VÔN > Người minus lẻ liêu trước ag Indo hạn,Người minus lẻ liêu trước ag Indo hạn,312,,440.186.208.976,291.656.427.709,312.0,,440186208976.0,291656427709.0
+Thuế phiếu nộp Nhà raínc,NGLÔN VÔN > Thuế phiếu nộp Nhà raínc,Thuế phiếu nộp Nhà raínc,213,16(p),93.692.334.950,196.853.480.072,213.0,,93692334950.0,196853480072.0
+Chi phí phải trả ngắn hạn,NGLÔN VÔN > Chi phí phải trả ngắn hạn,Chi phí phải trả ngắn hạn,315,17,1.343.336.413.171,478.918.435.087,315.0,17.0,1343336413171.0,478918435087.0
+Doanh đều plasma Lợrc hiểm ngắn hạn,NGLÔN VÔN > Doanh đều plasma Lợrc hiểm ngắn hạn,Doanh đều plasma Lợrc hiểm ngắn hạn,318,18,1.964.462.207.817,1.306.856.624.360,318.0,18.0,1964462207817.0,1306856624360.0
+Đivá trả ngắn hạn khác,NGLÔN VÔN > Đivá trả ngắn hạn khác,Đivá trả ngắn hạn khác,319,19,3.582.015.475.690,690.910.035.875,319.0,19.0,3582015475690.0,690910035875.0
+Vary ngắn hạn,NGLÔN VÔN > Vary ngắn hạn,Vary ngắn hạn,320,20(p),6.897.226.897.293,6.103.586.845.285,320.0,,6897226897293.0,6103586845285.0
+Dự phòng phải trả ngắn hạn,NGLÔN VÔN > Dự phòng phải trả ngắn hạn,Dự phòng phải trả ngắn hạn,321,21,1.467.013.337.869,1.243.688.989.137,321.0,21.0,1467013337869.0,1243688989137.0
+Nợ đài hạn,NGLÔN VÔN > Nợ đài hạn,Nợ đài hạn,330,,7.144.823.173.951,4.247.071.582.870,330.0,,7144823173951.0,4247071582870.0
+Phải trả đài hạn khấu,NGLÔN VÔN > Phải trả đài hạn khấu,Phải trả đài hạn khấu,337,,3.995.373.020,5.903.375.020,337.0,,3995373020.0,5903375020.0
+Vay đài hạn,NGLÔN VÔN > Vay đài hạn,Vay đài hạn,338,20(b),626.905.284.322,694.840.399.641,338.0,,626905284322.0,694840399641.0
+Thuế chu nhập hoạt lại phải trả,NGLÔN VÔN > Thuế chu nhập hoạt lại phải trả,Thuế chu nhập hoạt lại phải trả,341,22,147.546.321.044,82.471.339.722,341.0,22.0,147546321044.0,82471339722.0
+Dự phòng phải trả đài hạn,NGLÔN VÔN > Dự phòng phải trả đài hạn,Dự phòng phải trả đài hạn,342,21,6.364.465.195.565,3.963.854.570.484,342.0,21.0,6364465195565.0,3963854570484.0
+VỐN CHỦ SỐ HỒU (400 = 410),NGLÔN VÔN > VỐN CHỦ SỐ HỒU (400 = 410),VỐN CHỦ SỐ HỒU (400 = 410),400,,5.680.969.720.546,3.071.972.404.979,400.0,,5680969720546.0,3071972404979.0
+Vốn chủ sở hữu,NGLÔN VÔN > Vốn chủ sở hữu,Vốn chủ sở hữu,410,23,5.688.969.720.546,3.071.972.404.970,410.0,23.0,5688969720546.0,3071972404970.0
+Vốn cỡ phân,NGLÔN VÔN > Vốn cỡ phân,Vốn cỡ phân,411,24,4.513.432.848.099,3.600.000.000.003,411.0,24.0,4513432848099.0,3600000000003.0
+Thăng dư vốn cỡ pião,NGLÔN VÔN > Thăng dư vốn cỡ pião,Thăng dư vốn cỡ pião,412,,245.919.192.805,,412.0,,245919192805.0,
+Lợi nhuậnzhou multiples common phân phối,NGLÔN VÔN > Lợi nhuậnzhou multiples common phân phối,Lợi nhuậnzhou multiples common phân phối,421,,921.587.387.741,71.972.404.979,421.0,,921587387741.0,71972404979.0
+TỔNG NGƯƠN VỐN(440 = 300 + 400),NGLÔN VÔN > TỔNG NGƯƠN VỐN(440 = 300 + 400),TỔNG NGƯƠN VỐN(440 = 300 + 400),440,,29.165.792.073.008,18.511.718.519.421,440.0,,29165792073008.0,18511718519421.0

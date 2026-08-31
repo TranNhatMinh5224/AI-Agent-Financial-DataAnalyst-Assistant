@@ -1,0 +1,16 @@
+﻿row_label_raw,row_label_full,c) Các khoản nợ thuê tài chính đã thanh toán,c) Các khoản nợ thuê tài chính đã thanh toán_1,c) Các khoản nợ thuê tài chính đã thanh toán_2,c) Các khoản nợ thuê tài chính đã thanh toán_3,c) Các khoản nợ thuê tài chính đã thanh toán_4,c) Các khoản nợ thuê tài chính đã thanh toán_5,c) Các khoản nợ thuê tài chính đã thanh toán_6,numeric__c) Các khoản nợ thuê tài chính đã thanh toán_1,numeric__c) Các khoản nợ thuê tài chính đã thanh toán_2,numeric__c) Các khoản nợ thuê tài chính đã thanh toán_3,numeric__c) Các khoản nợ thuê tài chính đã thanh toán_4,numeric__c) Các khoản nợ thuê tài chính đã thanh toán_5,numeric__c) Các khoản nợ thuê tài chính đã thanh toán_6
+,,,Năm nay,Năm nay,Năm nay,Năm trước,Năm trước,Năm trước,,,,,,
+Thời hạn,Thời hạn,Thời hạn,Tổng khoản thanh toán tiền thuê tài chính,Trà tiền lãi thuê,Trà nợ gốc,Tổng khoản thanh toán tiền thuê tài chính,Trà tiền lãi thuê,Trà nợ gốc,,,,,,
+Từ 1 năm trở xuống,Thời hạn > Từ 1 năm trở xuống,Từ 1 năm trở xuống,148.954.425.562,14.719.746.367,134.234.679.195,19.641.178.665,964.077.127,18.677.101.538,148954425562.0,14719746367.0,134234679195.0,19641178665.0,964077127.0,18677101538.0
+Trên 1 năm đến 5 năm,Thời hạn > Trên 1 năm đến 5 năm,Trên 1 năm đến 5 năm,42.333.111.540,8.865.448.504,33.467.663.036,55.530.188.033,10.305.560.035,45.224.627.998,42333111540.0,8865448504.0,33467663036.0,55530188033.0,10305560035.0,45224627998.0
+Trên 5 năm,Trên 5 năm,Trên 5 năm,,,,,,,,,,,,
+Cộng,Trên 5 năm > Cộng,Cộng,191.287.537.102,23.585.194.871,167.702.342.231,75.171.366.698,11.269.637.162,63.901.729.536,191287537102.0,23585194871.0,167702342231.0,75171366698.0,11269637162.0,63901729536.0
+d) Giá trị nợ thuê tài chính,d) Giá trị nợ thuê tài chính,d) Giá trị nợ thuê tài chính,,,Số cuối năm,Số cuối năm,Số đầu năm,Số đầu năm,,,,,,
+d) Giá trị nợ thuê tài chính,d) Giá trị nợ thuê tài chính,d) Giá trị nợ thuê tài chính,,,Giá đánh giá lại,Giá gốc,Giá đánh giá lại,Giá gốc,,,,,,
+Ngắn hạn,d) Giá trị nợ thuê tài chính > Ngắn hạn,Ngắn hạn,,,62.954.037.552,62.954.037.552,24.957.922.871,24.957.922.871,,,62954037552.0,62954037552.0,24957922871.0,24957922871.0
+Gốc nợ thuê tài chính,d) Giá trị nợ thuê tài chính > Gốc nợ thuê tài chính,Gốc nợ thuê tài chính,,,62.954.037.552,62.954.037.552,24.957.922.871,24.957.922.871,,,62954037552.0,62954037552.0,24957922871.0,24957922871.0
+Lãi thuê tài chính phải trả,Lãi thuê tài chính phải trả,Lãi thuê tài chính phải trả,,,,,,,,,,,,
+Dài hạn,Lãi thuê tài chính phải trả > Dài hạn,Dài hạn,,,220.905.206.011,220.905.206.011,117.030.247.622,117.030.247.622,,,220905206011.0,220905206011.0,117030247622.0,117030247622.0
+Gốc nợ thuê tài chính,Lãi thuê tài chính phải trả > Gốc nợ thuê tài chính,Gốc nợ thuê tài chính,,,220.905.206.011,220.905.206.011,117.030.247.622,117.030.247.622,,,220905206011.0,220905206011.0,117030247622.0,117030247622.0
+Lãi thuê tài chính phải trả,Lãi thuê tài chính phải trả,Lãi thuê tài chính phải trả,,,,,,,,,,,,
+Cộng,Lãi thuê tài chính phải trả > Cộng,Cộng,,,283.859.243.563,283.859.243.563,141.988.170.493,141.988.170.493,,,283859243563.0,283859243563.0,141988170493.0,141988170493.0

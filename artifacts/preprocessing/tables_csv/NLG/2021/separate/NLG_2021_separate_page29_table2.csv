@@ -1,0 +1,12 @@
+﻿row_label_raw,row_label_full,col_0,Số đầu năm,Tăng trong năm,Giảm trong năm,VND Số cuối năm,numeric__Số đầu năm,numeric__Tăng trong năm,numeric__Giảm trong năm,numeric__VND Số cuối năm
+Phải thu,Phải thu,Phải thu,Phải thu,Phải thu,Phải thu,Phải thu,,,,
+Thuế giá trị gia tăng,Phải thu > Thuế giá trị gia tăng,Thuế giá trị gia tăng,29.649.449.689,145.363.587.140,(175.013.036.829),-,29649449689.0,145363587140.0,-175013036829.0,
+Phải trả,Phải trả,Phải trả,Phải trả,Phải trả,Phải trả,Phải trả,,,,
+"Thuế thu nhập doanh nghiệp (""TNDN"")","Phải trả > Thuế thu nhập doanh nghiệp (""TNDN"")","Thuế thu nhập doanh nghiệp (""TNDN"")",84.471.002.691,125.776.548.600,(90.402.934.914),119.844.616.377,84471002691.0,125776548600.0,-90402934914.0,119844616377.0
+Trong đó:,Trong đó:,Trong đó:,Trong đó:,Trong đó:,Trong đó:,Trong đó:,,,,
+Thuế TNDN hiện hành,Trong đó: > Thuế TNDN hiện hành,Thuế TNDN hiện hành,72.748.610.675,117.475.909.697,(71.837.291.179),118.387.229.193,72748610675.0,117475909697.0,-71837291179.0,118387229193.0
+Trả trước thuế TNDN theo tiến độ thanh toán của khách hàng,Trong đó: > Trả trước thuế TNDN theo tiến độ thanh toán của khách hàng,Trả trước thuế TNDN theo tiến độ thanh toán của khách hàng,11.722.392.016,8.300.638.903,(18.565.643.735),1.457.387.184,11722392016.0,8300638903.0,-18565643735.0,1457387184.0
+Thuế giá trị gia tăng (*),Trong đó: > Thuế giá trị gia tăng (*),Thuế giá trị gia tăng (*),-,378.127.340.557,(263.587.997.642),114.539.342.915,,378127340557.0,-263587997642.0,114539342915.0
+Thuế thu nhập cá nhân,Trong đó: > Thuế thu nhập cá nhân,Thuế thu nhập cá nhân,9.965.299.899,89.559.346.474,(60.990.297.232),38.534.349.141,9965299899.0,89559346474.0,-60990297232.0,38534349141.0
+Các loại thuế khác,Trong đó: > Các loại thuế khác,Các loại thuế khác,-,3.946.129.558,(3.946.129.558),-,,3946129558.0,-3946129558.0,
+TỔNG CỘNG,Trong đó: > TỔNG CỘNG,TỔNG CỘNG,94.436.302.590,597.409.365.189,(418.927.359.346),272.918.308.433,94436302590.0,597409365189.0,-418927359346.0,272918308433.0

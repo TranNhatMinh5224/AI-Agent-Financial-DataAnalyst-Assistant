@@ -1,0 +1,11 @@
+﻿row_label_raw,row_label_full,CHỈ TIÊU,Thuyết minh,31/12/2020,01/01/2020,numeric__Thuyết minh,numeric__31/12/2020,numeric__01/01/2020
+1. Bảo lãnh vay vốn,1. Bảo lãnh vay vốn,1. Bảo lãnh vay vốn,VIII.28,-,-,,,
+2. Cam kết giao dịch hối đoái,1. Bảo lãnh vay vốn > 2. Cam kết giao dịch hối đoái,2. Cam kết giao dịch hối đoái,VIII.28,6.628.265,9.291.170,,6628265.0,9291170.0
+2.1 Cam kết mua ngoại tệ,1. Bảo lãnh vay vốn > 2.1 Cam kết mua ngoại tệ,2.1 Cam kết mua ngoại tệ,,115.475,-,,115475.0,
+2.2 Cam kết bán ngoại tệ,1. Bảo lãnh vay vốn > 2.2 Cam kết bán ngoại tệ,2.2 Cam kết bán ngoại tệ,,854.515,115.850,,854515.0,115850.0
+2.3 Cam kết giao dịch hoán đối,1. Bảo lãnh vay vốn > 2.3 Cam kết giao dịch hoán đối,2.3 Cam kết giao dịch hoán đối,,5.658.275,9.175.320,,5658275.0,9175320.0
+2.4 Cam kết giao dịch tương lai,2.4 Cam kết giao dịch tương lai,2.4 Cam kết giao dịch tương lai,,-,-,,,
+3. Cam kết cho vay không hủy ngang,3. Cam kết cho vay không hủy ngang,3. Cam kết cho vay không hủy ngang,,-,-,,,
+4. Cam kết trong nghiệp vụ L/C,3. Cam kết cho vay không hủy ngang > 4. Cam kết trong nghiệp vụ L/C,4. Cam kết trong nghiệp vụ L/C,VIII.28,158.347,145.719,,158347.0,145719.0
+5. Bảo lãnh khác,3. Cam kết cho vay không hủy ngang > 5. Bảo lãnh khác,5. Bảo lãnh khác,VIII.28,1.976.388,2.411.802,,1976388.0,2411802.0
+6. Các cam kết khác,3. Cam kết cho vay không hủy ngang > 6. Các cam kết khác,6. Các cam kết khác,VIII.28,112.898,205.000,,112898.0,205000.0

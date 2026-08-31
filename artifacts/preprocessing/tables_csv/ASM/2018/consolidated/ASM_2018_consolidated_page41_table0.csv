@@ -1,0 +1,21 @@
+﻿row_label_raw,row_label_full,col_0,Vốn góp của CSH,Thặng dư vốn cổ phần,Vốn khác của chủ sở hữu,Cổ phiếu quỹ,Các quỹ thuộc vốn chủ sở hữu (*),Lợi nhuận chưa phân phối,Lợi ích cổ đông không kiểm soát,Cộng,numeric__Vốn góp của CSH,numeric__Thặng dư vốn cổ phần,numeric__Vốn khác của chủ sở hữu,numeric__Cổ phiếu quỹ,numeric__Các quỹ thuộc vốn chủ sở hữu (*),numeric__Lợi nhuận chưa phân phối,numeric__Lợi ích cổ đông không kiểm soát,numeric__Cộng
+Số dư đầu kỳ trước,Số dư đầu kỳ trước,Số dư đầu kỳ trước,2.199.398.670.000,45.104.200.000,,,58.651.172.452,302.083.146.925,39.336.694.876,2.644.573.884.253,2199398670000.0,45104200000.0,,,58651172452.0,302083146925.0,39336694876.0,2644573884253.0
+Tăng vốn trong kỳ trước,Tăng vốn trong kỳ trước,Tăng vốn trong kỳ trước,219.939.860.000,,,,,,,219.939.860.000,219939860000.0,,,,,,,219939860000.0
+Lợi ích cổ đông không kiểm soát,Lợi ích cổ đông không kiểm soát,Lợi ích cổ đông không kiểm soát,,,,,,,,,,,,,,,,
+Lãi trong kỳ trước,Lợi ích cổ đông không kiểm soát > Lãi trong kỳ trước,Lãi trong kỳ trước,,,,,,174.211.874.253,(6.475.801.817),167.736.072.436,,,,,,174211874253.0,-6475801817.0,167736072436.0
+Tăng khác,Lợi ích cổ đông không kiểm soát > Tăng khác,Tăng khác,2.555.126.000,,,,,1.200.000,32.529.254.144,35.085.580.144,2555126000.0,,,,,1200000.0,32529254144.0,35085580144.0
+Trích quỹ từ lợi nhuận,Lợi ích cổ đông không kiểm soát > Trích quỹ từ lợi nhuận,Trích quỹ từ lợi nhuận,,,,,12.677.188.351,(15.986.268.344),(26.504.823),(3.335.584.816),,,,,12677188351.0,-15986268344.0,-26504823.0,-3335584816.0
+Chia cổ tức,Lợi ích cổ đông không kiểm soát > Chia cổ tức,Chia cổ tức,(2.555.126.000),,,,,(219.939.860.000),,(222.494.986.000),-2555126000.0,,,,,-219939860000.0,,-222494986000.0
+Giảm khác,Giảm khác,Giảm khác,,,,,,,,,,,,,,,,
+Số dư đầu kỳ này,Giảm khác > Số dư đầu kỳ này,Số dư đầu kỳ này,2.419.338.530.000,45.104.200.000,,,71.328.360.803,240.370.092.834,65.363.642.380,2.841.504.826.017,2419338530000.0,45104200000.0,,,71328360803.0,240370092834.0,65363642380.0,2841504826017.0
+Tăng vốn trong kỳ này,Tăng vốn trong kỳ này,Tăng vốn trong kỳ này,,,,,,,,,,,,,,,,
+Góp vốn từ cổ đông không kiểm soát,Tăng vốn trong kỳ này > Góp vốn từ cổ đông không kiểm soát,Góp vốn từ cổ đông không kiểm soát,,,,,,,68.613.028.700,68.613.028.700,,,,,,,68613028700.0,68613028700.0
+Lãi trong kỳ này,Tăng vốn trong kỳ này > Lãi trong kỳ này,Lãi trong kỳ này,,,,,,1.038.543.511.315,159.332.161.245,1.197.875.672.560,,,,,,1038543511315.0,159332161245.0,1197875672560.0
+Tăng do trích từ lợi nhuận,Tăng vốn trong kỳ này > Tăng do trích từ lợi nhuận,Tăng do trích từ lợi nhuận,,,,,13.936.949.940,,,13.936.949.940,,,,,13936949940.0,,,13936949940.0
+Tăng khác,Tăng vốn trong kỳ này > Tăng khác,Tăng khác,,,97.609.361.300,,519.476.815,,1.796.425.479.613,1.894.554.317.728,,,97609361300.0,,519476815.0,,1796425479613.0,1894554317728.0
+Trích quỹ từ lợi nhuận,Tăng vốn trong kỳ này > Trích quỹ từ lợi nhuận,Trích quỹ từ lợi nhuận,,,,,,(17.421.187.425),,(17.421.187.425),,,,,,-17421187425.0,,-17421187425.0
+Giảm vốn trong kỳ nay,Giảm vốn trong kỳ nay,Giảm vốn trong kỳ nay,,,,,,,,,,,,,,,,
+Lỗ trong kỳ nay,Lỗ trong kỳ nay,Lỗ trong kỳ nay,,,,,,,,,,,,,,,,
+Chia cổ tức,Lỗ trong kỳ nay > Chia cổ tức,Chia cổ tức,,,,,,(261.046.851.300),,(261.046.851.300),,,,,,-261046851300.0,,-261046851300.0
+Giảm khác,Lỗ trong kỳ nay > Giảm khác,Giảm khác,,,,,,(624.000.000),,(624.000.000),,,,,,-624000000.0,,-624000000.0
+Số dư cuối kỳ này,Lỗ trong kỳ nay > Số dư cuối kỳ này,Số dư cuối kỳ này,2.419.338.530.000,45.104.200.000,97.609.361.300,,85.784.787.558,999.821.565.424,2.089.734.311.938,5.737.392.756.220,2419338530000.0,45104200000.0,97609361300.0,,85784787558.0,999821565424.0,2089734311938.0,5737392756220.0

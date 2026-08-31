@@ -1,0 +1,11 @@
+﻿row_label_raw,row_label_full,col_0,Mã số,Thuyết minh,2016 Triệu VND,2015 Triệu VND,numeric__Mã số,numeric__Thuyết minh,numeric__2016 Triệu VND,numeric__2015 Triệu VND
+Lợi nhuận kế toán trước thuế(50 = 30 + 40) (mang sang từ trang trước),Lợi nhuận kế toán trước thuế(50 = 30 + 40) (mang sang từ trang trước),Lợi nhuận kế toán trước thuế(50 = 30 + 40) (mang sang từ trang trước),50,,4.446.403,3.226.729,50.0,,4446403.0,3226729.0
+Chi phí thuế TNDN hiện hành,Chi phí thuế TNDN hiện hành,Chi phí thuế TNDN hiện hành,51,33,892.321,817.534,51.0,33.0,892321.0,817534.0
+Lợi ích thuế TNDN hoãn lại,Lợi ích thuế TNDN hoãn lại,Lợi ích thuế TNDN hoãn lại,52,33,(218.415),(118.055),52.0,33.0,-218415.0,-118055.0
+Lợi nhuận sau thuế TNDN(60 = 50 - 51 - 52),Lợi nhuận sau thuế TNDN(60 = 50 - 51 - 52),Lợi nhuận sau thuế TNDN(60 = 50 - 51 - 52),60,,3.772.497,2.527.250,60.0,,3772497.0,2527250.0
+Phân bổ:,Phân bổ:,Phân bổ:,Phân bổ:,Phân bổ:,Phân bổ:,Phân bổ:,,,,
+Cổ đông của Công ty,Phân bổ: > Cổ đông của Công ty,Cổ đông của Công ty,61,,2.791.444,1.478.292,61.0,,2791444.0,1478292.0
+Lợi ích cổ đông không kiểm soát,Phân bổ: > Lợi ích cổ đông không kiểm soát,Lợi ích cổ đông không kiểm soát,62,,981.053,1.048.958,62.0,,981053.0,1048958.0
+Lãi trên cổ phiếu,Lãi trên cổ phiếu,Lãi trên cổ phiếu,Lãi trên cổ phiếu,Lãi trên cổ phiếu,Lãi trên cổ phiếu,Lãi trên cổ phiếu,,,,
+Lãi cơ bản trên cổ phiếu (đã điều chỉnh lại) (VND),Lãi trên cổ phiếu > Lãi cơ bản trên cổ phiếu (đã điều chỉnh lại) (VND),Lãi cơ bản trên cổ phiếu (đã điều chỉnh lại) (VND),70,35,2.462,1.317,70.0,35.0,2462.0,1317.0
+Lãi suy giảm trên cổ phiếu (đã điều chỉnh lại) (VND),Lãi trên cổ phiếu > Lãi suy giảm trên cổ phiếu (đã điều chỉnh lại) (VND),Lãi suy giảm trên cổ phiếu (đã điều chỉnh lại) (VND),71,35,2.462,1.316,71.0,35.0,2462.0,1316.0

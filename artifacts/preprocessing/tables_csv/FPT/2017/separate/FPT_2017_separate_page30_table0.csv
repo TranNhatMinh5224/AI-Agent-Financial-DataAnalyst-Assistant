@@ -1,0 +1,14 @@
+﻿row_label_raw,row_label_full,col_0,Năm nayVND,Năm trướcVND,numeric__Năm nayVND,numeric__Năm trướcVND
+Chi phí thuế thu nhập doanh nghiệp hiện hànhLợi nhuận trước thuế,Chi phí thuế thu nhập doanh nghiệp hiện hànhLợi nhuận trước thuế,Chi phí thuế thu nhập doanh nghiệp hiện hànhLợi nhuận trước thuế,3.182.365.691.101,1.149.905.294.454,3182365691101.0,1149905294454.0
+Điều chỉnh cho thu nhập chịu thuế,Điều chỉnh cho thu nhập chịu thuế,Điều chỉnh cho thu nhập chịu thuế,,,,
+Trừ:,Trừ:,Trừ:,,,,
+"Cổ tức, lợi nhuận được chia","Trừ: > Cổ tức, lợi nhuận được chia","Cổ tức, lợi nhuận được chia",(2.171.040.308.579),(1.104.189.617.000),-2171040308579.0,-1104189617000.0
+Khác,Trừ: > Khác,Khác,(929.033.877),(891.257.707),-929033877.0,-891257707.0
+Cộng:,Cộng:,Cộng:,,,,
+Các khoản chi phí không được khấu trừ,Cộng: > Các khoản chi phí không được khấu trừ,Các khoản chi phí không được khấu trừ,6.359.637.745,5.034.941.004,6359637745.0,5034941004.0
+Thu nhập chịu thuế,Cộng: > Thu nhập chịu thuế,Thu nhập chịu thuế,1.016.755.986.390,49.859.360.751,1016755986390.0,49859360751.0
+Chuyễn sie,Chuyễn sie,Chuyễn sie,-,-,,
+Thu nhập tính thuế,Chuyễn sie > Thu nhập tính thuế,Thu nhập tính thuế,1.016.755.986.390,49.859.360.751,1016755986390.0,49859360751.0
+Thuế suất thông thường,Chuyễn sie > Thuế suất thông thường,Thuế suất thông thường,20%,20%,0.2,0.2
+Điều chỉnh theo quyết toán của cơ quan thuế,Điều chỉnh theo quyết toán của cơ quan thuế,Điều chỉnh theo quyết toán của cơ quan thuế,-,-,,
+Chỉ phí thuế thu nhập doanh nghiệp,Điều chỉnh theo quyết toán của cơ quan thuế > Chỉ phí thuế thu nhập doanh nghiệp,Chỉ phí thuế thu nhập doanh nghiệp,203.351.197.278,9.971.872.150,203351197278.0,9971872150.0

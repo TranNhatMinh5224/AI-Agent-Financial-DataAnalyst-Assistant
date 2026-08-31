@@ -1,0 +1,21 @@
+﻿row_label_raw,row_label_full,Chỉ tiêu,Mã số,Thuyết minh,Năm nay,Năm trước,numeric__Mã số,numeric__Thuyết minh,numeric__Năm nay,numeric__Năm trước
+Doanh thu bán hàng và cung cấp dịch vụ,Doanh thu bán hàng và cung cấp dịch vụ,Doanh thu bán hàng và cung cấp dịch vụ,01,VI.1,8.941.884.348.847,5.756.159.900.856,1.0,,8941884348847.0,5756159900856.0
+Các khoản giảm trừ doanh thu,Các khoản giảm trừ doanh thu,Các khoản giảm trừ doanh thu,02,VI.2,5.368.504.419,5.401.579.338,2.0,,5368504419.0,5401579338.0
+Doanh thu thuần về bán hàng và cung cấp dịch vụ,Doanh thu thuần về bán hàng và cung cấp dịch vụ,Doanh thu thuần về bán hàng và cung cấp dịch vụ,10,,8.936.515.844.428,5.750.758.321.518,10.0,,8936515844428.0,5750758321518.0
+Giá vốn hàng bán,Giá vốn hàng bán,Giá vốn hàng bán,11,VI.3,7.924.544.709.039,5.304.227.056.790,11.0,,7924544709039.0,5304227056790.0
+Lợi nhuận gộp về bán hàng và cung cấp dịch vụ,Lợi nhuận gộp về bán hàng và cung cấp dịch vụ,Lợi nhuận gộp về bán hàng và cung cấp dịch vụ,20,,1.011.971.135.389,446.531.264.728,20.0,,1011971135389.0,446531264728.0
+Doanh thu hoạt động tài chính,Doanh thu hoạt động tài chính,Doanh thu hoạt động tài chính,21,VI.4,110.474.565.308,41.703.842.517,21.0,,110474565308.0,41703842517.0
+Chi phí tài chính,Chi phí tài chính,Chi phí tài chính,22,VI.5,299.466.412.884,195.368.256.758,22.0,,299466412884.0,195368256758.0
+- Trong đó: chi phí lãi vay,- Trong đó: chi phí lãi vay,- Trong đó: chi phí lãi vay,23,,141.639.235.578,81.783.660.055,23.0,,141639235578.0,81783660055.0
+Chi phí bán hàng,Chi phí bán hàng,Chi phí bán hàng,25,VI.8,161.720.090.541,95.146.880.656,25.0,,161720090541.0,95146880656.0
+Chi phí quản lý doanh nghiệp,Chi phí quản lý doanh nghiệp,Chi phí quản lý doanh nghiệp,26,VI.8,53.835.662.972,41.652.340.108,26.0,,53835662972.0,41652340108.0
+Lợi nhuận thuần từ hoạt động kinh doanh,Lợi nhuận thuần từ hoạt động kinh doanh,Lợi nhuận thuần từ hoạt động kinh doanh,30,,607.423.534.300,156.067.629.723,30.0,,607423534300.0,156067629723.0
+Thu nhập khác,Thu nhập khác,Thu nhập khác,31,VI.6,3.479.939.182,1.623.700.352,31.0,,3479939182.0,1623700352.0
+Chi phí khác,Chi phí khác,Chi phí khác,32,VI.7,3.131.486.085,1.272.772.490,32.0,,3131486085.0,1272772490.0
+Lợi nhuận khác (40=31-32),Lợi nhuận khác (40=31-32),Lợi nhuận khác (40=31-32),40,,348.453.097,350.927.862,40.0,,348453097.0,350927862.0
+Tổng lợi nhuận kế toán trước thuế (50=30+40),Tổng lợi nhuận kế toán trước thuế (50=30+40),Tổng lợi nhuận kế toán trước thuế (50=30+40),50,,607.771.987.397,156.418.557.585,50.0,,607771987397.0,156418557585.0
+Chi phí thuế TNDN hiện hành,Chi phí thuế TNDN hiện hành,Chi phí thuế TNDN hiện hành,51,VI.9,89.995.715.745,30.357.792.393,51.0,,89995715745.0,30357792393.0
+Chi phí thuế TNDN hoãn lại,Chi phí thuế TNDN hoãn lại,Chi phí thuế TNDN hoãn lại,52,,,,52.0,,,
+Lợi nhuận kế toán sau thuế TNDN (60=50-51-52),Lợi nhuận kế toán sau thuế TNDN (60=50-51-52),Lợi nhuận kế toán sau thuế TNDN (60=50-51-52),60,,517.776.271.652,126.060.765.192,60.0,,517776271652.0,126060765192.0
+Lãi cơ bản trên cổ phiếu,Lãi cơ bản trên cổ phiếu,Lãi cơ bản trên cổ phiếu,70,VI.10,,,70.0,,,
+Lãi suy giảm trên cổ phiếu,Lãi suy giảm trên cổ phiếu,Lãi suy giảm trên cổ phiếu,71,VI.11,,,71.0,,,

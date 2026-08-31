@@ -1,0 +1,14 @@
+﻿row_label_raw,row_label_full,col_0,Số đầu năm,Số phải nộp trong năm,Số đã nộp trong năm,Đơn vị tính: VND,numeric__Số đầu năm,numeric__Số phải nộp trong năm,numeric__Số đã nộp trong năm,numeric__Đơn vị tính: VND
+Phải nộp,Phải nộp,Phải nộp,Phải nộp,Phải nộp,Phải nộp,Phải nộp,,,,
+Thuế giá trị gia tăng,Phải nộp > Thuế giá trị gia tăng,Thuế giá trị gia tăng,2.026.123.043,26.816.147.653,(28.047.373.153),794.897.543,2026123043.0,26816147653.0,-28047373153.0,794897543.0
+Thuế thu nhập doanh nghiệp,Phải nộp > Thuế thu nhập doanh nghiệp,Thuế thu nhập doanh nghiệp,5.757.946.822,18.577.241.579,(21.230.868.466),3.104.319.935,5757946822.0,18577241579.0,-21230868466.0,3104319935.0
+Thuế thu nhập cá nhân,Phải nộp > Thuế thu nhập cá nhân,Thuế thu nhập cá nhân,892.513.168,36.097.123.970,(36.337.590.097),652.047.041,892513168.0,36097123970.0,-36337590097.0,652047041.0
+"Thuế nhà đất, tiền thuê đất","Phải nộp > Thuế nhà đất, tiền thuê đất","Thuế nhà đất, tiền thuê đất",-,7.623.673.598,(7.569.501.824),54.171.774,,7623673598.0,-7569501824.0,54171774.0
+"Các khoản phí, lệ phí và các khoản phải nộp khác","Phải nộp > Các khoản phí, lệ phí và các khoản phải nộp khác","Các khoản phí, lệ phí và các khoản phải nộp khác",4.854.440.742,875.393.075,(875.393.075),4.854.440.742,4854440742.0,875393075.0,-875393075.0,4854440742.0
+TỔNG CỘNG,Phải nộp > TỔNG CỘNG,TỔNG CỘNG,13.531.023.775,89.989.579.875,(94.060.726.615),9.459.877.035,13531023775.0,89989579875.0,-94060726615.0,9459877035.0
+,,,,,Đơn vị tính: VND,Đơn vị tính: VND,,,,
+,,,Số đầu năm,Số phải thu trong năm,Số đã thu trong năm,Số cuối năm,,,,
+Phải thu,Phải thu,Phải thu,Phải thu,Phải thu,Phải thu,Phải thu,,,,
+"Thuế nhà đất, tiền thuê đất","Phải thu > Thuế nhà đất, tiền thuê đất","Thuế nhà đất, tiền thuê đất",114.232.800,2.049.343.429,(117.437.006),2.046.139.223,114232800.0,2049343429.0,-117437006.0,2046139223.0
+Thuế khác,Phải thu > Thuế khác,Thuế khác,701.924,8.955.898,(5.283.760),4.374.062,701924.0,8955898.0,-5283760.0,4374062.0
+TỔNG CỘNG,Phải thu > TỔNG CỘNG,TỔNG CỘNG,114.934.724,2.058.299.327,(122.720.766),2.050.513.285,114934724.0,2058299327.0,-122720766.0,2050513285.0

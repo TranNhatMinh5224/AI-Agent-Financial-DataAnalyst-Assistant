@@ -1,0 +1,13 @@
+﻿row_label_raw,row_label_full,col_0,1/10/2021VND,Số phải nộpVND,Số đã nộpVND,Số đã cán trừVND,Số phân loại lạiVND,30/9/2022VND,numeric__1/10/2021VND,numeric__Số phải nộpVND,numeric__Số đã nộpVND,numeric__Số đã cán trừVND,numeric__Số phân loại lạiVND,numeric__30/9/2022VND
+Thuế giá trị gia tăng,Thuế giá trị gia tăng,Thuế giá trị gia tăng,171.521.480.386,7.065.581.782.480,(1.212.089.778.311),(6.022.256.270.095),-,2.757.214.460,171521480386.0,7065581782480.0,-1212089778311.0,-6022256270095.0,,2757214460.0
+Thuế xuất nhập khẩu,Thuế xuất nhập khẩu,Thuế xuất nhập khẩu,165.867.784,1.516.375.380,(1.602.669.055),-,-,79.574.109,165867784.0,1516375380.0,-1602669055.0,,,79574109.0
+Thuế thu nhập doanh nghiệp,Thuế thu nhập doanh nghiệp,Thuế thu nhập doanh nghiệp,136.065.227.788,23.681.645.484,(288.320.745.818),-,128.573.872.546,-,136065227788.0,23681645484.0,-288320745818.0,,128573872546.0,
+Thuế thu nhập cá nhân,Thuế thu nhập cá nhân,Thuế thu nhập cá nhân,1.399.044.497,41.436.356.103,(39.291.639.304),(1.095.867.295),(8.814.295),2.439.079.706,1399044497.0,41436356103.0,-39291639304.0,-1095867295.0,-8814295.0,2439079706.0
+Các loại thuế khác,Các loại thuế khác,Các loại thuế khác,88.800.000,2.013.998.477,(2.103.747.846),-,949.369,-,88800000.0,2013998477.0,-2103747846.0,,949369.0,
+,,,309.240.420.455,7.134.230.157.924,(1.543.408.580.334),(6.023.352.137.390),128.566.007.620,5.275.868.275,309240420455.0,7134230157924.0,-1543408580334.0,-6023352137390.0,128566007620.0,5275868275.0
+(b) Thuế phải thu Nhà nước,(b) Thuế phải thu Nhà nước,(b) Thuế phải thu Nhà nước,(b) Thuế phải thu Nhà nước,(b) Thuế phải thu Nhà nước,(b) Thuế phải thu Nhà nước,(b) Thuế phải thu Nhà nước,(b) Thuế phải thu Nhà nước,(b) Thuế phải thu Nhà nước,,,,,,
+,,,,,1/10/2021VND,Số đã cán trừVND,Số phân loại lạiVND,30/9/2022VND,,,,,,
+Thuế thu nhập doanh nghiệp,(b) Thuế phải thu Nhà nước > Thuế thu nhập doanh nghiệp,Thuế thu nhập doanh nghiệp,,,-,-,128.573.872.546,128.573.872.546,,,,,128573872546.0,128573872546.0
+Thuế thu nhập cá nhân,(b) Thuế phải thu Nhà nước > Thuế thu nhập cá nhân,Thuế thu nhập cá nhân,,,13.619.717,-,(8.814.295),4.805.422,,,13619717.0,,-8814295.0,4805422.0
+Các loại thuế khác,(b) Thuế phải thu Nhà nước > Các loại thuế khác,Các loại thuế khác,,,-,-,949.369,949.369,,,,,949369.0,949369.0
+,,,,,13.619.717,-,128.566.007.620,128.579.627.337,,,13619717.0,,128566007620.0,128579627337.0

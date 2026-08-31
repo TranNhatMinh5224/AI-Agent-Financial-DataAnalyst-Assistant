@@ -1,0 +1,19 @@
+﻿row_label_raw,row_label_full,col_0,Mã số,Thuyết minh,31/12/2019 VND,1/1/2019 VND,numeric__Mã số,numeric__Thuyết minh,numeric__31/12/2019 VND,numeric__1/1/2019 VND
+NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,,,,
+NỘ PHẢI TRẢ (300 = 310 + 330),NGUỒN VỐN > NỘ PHẢI TRẢ (300 = 310 + 330),NỘ PHẢI TRẢ (300 = 310 + 330),300,,15.480.242.870.484,3.130.547.276.519,300.0,,15480242870484.0,3130547276519.0
+Nợ ngắn hạn,NGUỒN VỐN > Nợ ngắn hạn,Nợ ngắn hạn,310,,13.995.566.205.907,3.130.547.276.519,310.0,,13995566205907.0,3130547276519.0
+Phải trả người bán,NGUỒN VỐN > Phải trả người bán,Phải trả người bán,311,,3.063.940.380,-,311.0,,3063940380.0,
+Chi phí phải trả,NGUỒN VỐN > Chi phí phải trả,Chi phí phải trả,315,10,151.290.455.298,115.286.104.269,315.0,10.0,151290455298.0,115286104269.0
+Phải trả ngắn hạn khác,NGUỒN VỐN > Phải trả ngắn hạn khác,Phải trả ngắn hạn khác,319,11,12.841.211.810.229,25.261.172.250,319.0,11.0,12841211810229.0,25261172250.0
+Vay và trái phiếu ngắn hạn,NGUỒN VỐN > Vay và trái phiếu ngắn hạn,Vay và trái phiếu ngắn hạn,320,12,1.000.000.000.000,2.990.000.000.000,320.0,12.0,1000000000000.0,2990000000000.0
+Nợ dài hạn,NGUỒN VỐN > Nợ dài hạn,Nợ dài hạn,330,,1.484.676.664.577,-,330.0,,1484676664577.0,
+Trái phiếu dài hạn,NGUỒN VỐN > Trái phiếu dài hạn,Trái phiếu dài hạn,338,12,1.484.676.664.577,-,338.0,12.0,1484676664577.0,
+VỐN CHỦ SỐ HỮU (400 = 410),NGUỒN VỐN > VỐN CHỦ SỐ HỮU (400 = 410),VỐN CHỦ SỐ HỮU (400 = 410),400,,25.648.695.080.121,24.240.762.381.239,400.0,,25648695080121.0,24240762381239.0
+Vốn chủ sở hữu,NGUỒN VỐN > Vốn chủ sở hữu,Vốn chủ sở hữu,410,13,25.648.695.080.121,24.240.762.381.239,410.0,13.0,25648695080121.0,24240762381239.0
+Vốn cổ phần,NGUỒN VỐN > Vốn cổ phần,Vốn cổ phần,411,14,11.689.464.470.000,11.631.495.480.000,411.0,14.0,11689464470000.0,11631495480000.0
+Thặng dư vốn cổ phần,NGUỒN VỐN > Thặng dư vốn cổ phần,Thặng dư vốn cổ phần,412,14,11.084.356.541.079,11.084.416.541.079,412.0,14.0,11084356541079.0,11084416541079.0
+Vốn khác của chủ sở hữu,NGUỒN VỐN > Vốn khác của chủ sở hữu,Vốn khác của chủ sở hữu,414,,(1.695.338.182.568),(1.695.338.182.568),414.0,,-1695338182568.0,-1695338182568.0
+Lợi nhuận sau thuế chưa phân phối,NGUỒN VỐN > Lợi nhuận sau thuế chưa phân phối,Lợi nhuận sau thuế chưa phân phối,421,,4.570.212.251.610,3.220.188.542.728,421.0,,4570212251610.0,3220188542728.0
+- Lợi nhuận sau thuế chưa phân phối lũy kế đến cuối năm trước,NGUỒN VỐN > - Lợi nhuận sau thuế chưa phân phối lũy kế đến cuối năm trước,- Lợi nhuận sau thuế chưa phân phối lũy kế đến cuối năm trước,421a,,3.220.188.542.728,1.383.417.646.444,,,3220188542728.0,1383417646444.0
+- Lợi nhuận thuần trong năm,NGUỒN VỐN > - Lợi nhuận thuần trong năm,- Lợi nhuận thuần trong năm,421b,,1.350.023.708.882,1.836.770.896.284,,,1350023708882.0,1836770896284.0
+TỔNG NGUỒN VỐN (440 = 300 + 400),NGUỒN VỐN > TỔNG NGUỒN VỐN (440 = 300 + 400),TỔNG NGUỒN VỐN (440 = 300 + 400),440,,41.128.937.950.605,27.371.309.657.758,440.0,,41128937950605.0,27371309657758.0

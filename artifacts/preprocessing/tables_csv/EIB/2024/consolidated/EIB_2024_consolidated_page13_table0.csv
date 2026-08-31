@@ -1,0 +1,26 @@
+﻿row_label_raw,row_label_full,col_0,col_1,Thuyết minh,Năm tài chính kết thúc ngày 31 tháng 12 năm > 2024Triệu đồng,Năm tài chính kết thúc ngày 31 tháng 12 năm > 2023Triệu đồng,numeric__col_1,numeric__Thuyết minh,numeric__Năm tài chính kết thúc ngày 31 tháng 12 năm > 2024Triệu đồng,numeric__Năm tài chính kết thúc ngày 31 tháng 12 năm > 2023Triệu đồng
+,,,LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH,,,,,,,
+01,01,01,Thu nhập lãi và các khoản thu nhập tương tự nhận được,,12.911.207,14.882.415,,,12911207.0,14882415.0
+02,02,02,Chi phí lãi và các chi phí tương tự đã trả,,(7.731.193),(9.957.447),,,-7731193.0,-9957447.0
+03,03,03,Thu nhập từ hoạt động dịch vụ nhận được,,680.300,514.300,,,680300.0,514300.0
+04,04,04,"Chênh lệch số tiền thực thu từ hoạt động kinh doanh (ngoại tệ, vàng bạc và chứng khoán)",,649.959,543.415,,,649959.0,543415.0
+05,05,05,Thu nhập/(chi phí) khác,,346.806,(21.703),,,346806.0,-21703.0
+06,06,06,"Tiền thu các khoản nợ đã được xử lý, bù đáp bằng nguồn dự phòng rủi ro",26,834.202,854.461,,26.0,834202.0,854461.0
+07,07,07,"Tiền chi trả cho nhân viên và hoạt động quản lý, công vụ",,(3.147.755),(3.237.111),,,-3147755.0,-3237111.0
+08,08,08,Tiền thuế TNDN thực nộp trong năm,32,(690.214),(488.166),,32.0,-690214.0,-488166.0
+,,,LU'U CHUYÊN TIÊN THUẦN TỪ HOẠT ĐỘNG KINH DOANH TRƯỚC NHỮNG THAY ĐỒI VỀ TÀI SẢN VÀ VỐN LU'U ĐỘNG,,3.853.312,3.090.164,,,3853312.0,3090164.0
+,,,Những thay đổi về tài sản hoạt động,,,,,,,
+10,10,10,(Tăng)/giảm các khoản về kinh doanh chứng khoán,,(24.200.443),2.067.087,,,-24200443.0,2067087.0
+11,11,11,(Tăng)/giảm các công cụ tài chính phải sinh và các tài sản tài chính khác,,(291.886),120.182,,,-291886.0,120182.0
+12,12,12,Tăng các khoản cho vay khách hàng và hoạt động mua nợ,,(25.505.973),(9.943.310),,,-25505973.0,-9943310.0
+13,13,13,Giảm nguồn dự phòng để bù đáp tổn thất các khoản,8.8,(729.693),(468.071),,88.0,-729693.0,-468071.0
+14,14,14,(Tăng)/giảm khác về tài sản hoạt động,,(122.779),2.023,,,-122779.0,2023.0
+,,,Những thay đổi về công nợ hoạt động,,,,,,,
+15,15,15,Tăng/(giảm) các khoản nợ Chính phủ và NHNN,,2.059.640,(4.391),,,2059640.0,-4391.0
+16,16,16,Tăng các khoản tiền gửi và vay các TCTD khác,,13.306.461,4.470.843,,,13306461.0,4470843.0
+17,17,17,Tăng tiền gửi của khách hàng,,11.118.476,7.714.597,,,11118476.0,7714597.0
+18,18,18,Tăng phát hành giấy tờ có giá,,8.864.503,2.000.000,,,8864503.0,2000000.0
+20,20,20,(Giảm)/tăng các công cụ tài chính phải sinh và các khoản nợ tài chính khác,,(230.822),230.822,,,-230822.0,230822.0
+21,21,21,Tăng/(giảm) khác về công nợ hoạt động,,649.231,(54.040),,,649231.0,-54040.0
+22,22,22,Chi từ các quỹ của TCTD,,(137),-,,,-137.0,
+I,I,I,LU'U CHUYÊN TIÊN THUẦN TỪ HOẠT ĐỘNG KINH DOANH,,(11.230.110),9.225.906,,,-11230110.0,9225906.0

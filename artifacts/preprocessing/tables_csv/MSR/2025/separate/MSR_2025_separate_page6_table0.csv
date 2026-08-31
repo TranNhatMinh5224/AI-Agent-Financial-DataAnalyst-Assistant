@@ -1,0 +1,22 @@
+﻿row_label_raw,row_label_full,col_0,Mã số,Thuyết minh,31/12/2025 Nghìn VND,1/1/2025 Nghìn VND,numeric__Mã số,numeric__Thuyết minh,numeric__31/12/2025 Nghìn VND,numeric__1/1/2025 Nghìn VND
+TÀI SẢN,TÀI SẢN,TÀI SẢN,TÀI SẢN,TÀI SẢN,TÀI SẢN,TÀI SẢN,,,,
+Tài sản ngắn hạn(100 = 110 + 130 + 150),TÀI SẢN > Tài sản ngắn hạn(100 = 110 + 130 + 150),Tài sản ngắn hạn(100 = 110 + 130 + 150),100,,81.571.308,43.896.742,100.0,,81571308.0,43896742.0
+Tiền và các khoản tương đương tiền,TÀI SẢN > Tiền và các khoản tương đương tiền,Tiền và các khoản tương đương tiền,110,4,799.820,4.701.798,110.0,4.0,799820.0,4701798.0
+Tiền,TÀI SẢN > Tiền,Tiền,111,,799.820,4.701.798,111.0,,799820.0,4701798.0
+Các khoản phải thu ngắn hạn,TÀI SẢN > Các khoản phải thu ngắn hạn,Các khoản phải thu ngắn hạn,130,,52.507.964,34.224.532,130.0,,52507964.0,34224532.0
+Trả trước cho người bán ngắn hạn,TÀI SẢN > Trả trước cho người bán ngắn hạn,Trả trước cho người bán ngắn hạn,132,,137.500,14.238.716,132.0,,137500.0,14238716.0
+Phải thu ngắn hạn khác,TÀI SẢN > Phải thu ngắn hạn khác,Phải thu ngắn hạn khác,136,5,52.370.464,19.985.816,136.0,5.0,52370464.0,19985816.0
+Tài sản ngắn hạn khác,TÀI SẢN > Tài sản ngắn hạn khác,Tài sản ngắn hạn khác,150,,28.263.524,4.970.412,150.0,,28263524.0,4970412.0
+Chi phí trả trước ngắn hạn,TÀI SẢN > Chi phí trả trước ngắn hạn,Chi phí trả trước ngắn hạn,151,6,21.088.563,-,151.0,6.0,21088563.0,
+Thuế giá trị gia tăng được khấu trừ,TÀI SẢN > Thuế giá trị gia tăng được khấu trừ,Thuế giá trị gia tăng được khấu trừ,152,,7.174.961,4.970.412,152.0,,7174961.0,4970412.0
+Tài sản dài hạn(200 = 210 + 220 + 250),TÀI SẢN > Tài sản dài hạn(200 = 210 + 220 + 250),Tài sản dài hạn(200 = 210 + 220 + 250),200,,13.656.476.389,13.681.535.293,200.0,,13656476389.0,13681535293.0
+Các khoản phải thu dài hạn,TÀI SẢN > Các khoản phải thu dài hạn,Các khoản phải thu dài hạn,210,,1.500.000.000,1.525.058.904,210.0,,1500000000.0,1525058904.0
+Phải thu về cho vay dài hạn,TÀI SẢN > Phải thu về cho vay dài hạn,Phải thu về cho vay dài hạn,215,7,1.500.000.000,1.500.000.000,215.0,7.0,1500000000.0,1500000000.0
+Phải thu dài hạn khác,TÀI SẢN > Phải thu dài hạn khác,Phải thu dài hạn khác,216,5,-,25.058.904,216.0,5.0,,25058904.0
+Tài sản cố định,TÀI SẢN > Tài sản cố định,Tài sản cố định,220,,-,-,220.0,,,
+Tài sản cố định vô hình,TÀI SẢN > Tài sản cố định vô hình,Tài sản cố định vô hình,227,,-,-,227.0,,,
+Nguyên giá,TÀI SẢN > Nguyên giá,Nguyên giá,228,,137.950,137.950,228.0,,137950.0,137950.0
+Giá trị hao mòn lũy kế,TÀI SẢN > Giá trị hao mòn lũy kế,Giá trị hao mòn lũy kế,229,,(137.950),(137.950),229.0,,-137950.0,-137950.0
+Đầu tư tài chính dài hạn,TÀI SẢN > Đầu tư tài chính dài hạn,Đầu tư tài chính dài hạn,250,8,12.156.476.389,12.156.476.389,250.0,8.0,12156476389.0,12156476389.0
+Đầu tư vào công ty con,TÀI SẢN > Đầu tư vào công ty con,Đầu tư vào công ty con,251,,12.156.476.389,12.156.476.389,251.0,,12156476389.0,12156476389.0
+TỔNG TÀI SẢN (270 = 100 + 200),TÀI SẢN > TỔNG TÀI SẢN (270 = 100 + 200),TỔNG TÀI SẢN (270 = 100 + 200),270,,13.738.047.697,13.725.432.035,270.0,,13738047697.0,13725432035.0

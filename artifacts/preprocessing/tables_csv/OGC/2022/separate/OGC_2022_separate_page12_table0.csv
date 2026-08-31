@@ -1,0 +1,27 @@
+﻿row_label_raw,row_label_full,col_0,Chỉ tiêu,MS,Năm 2022VND,Năm 2021VND,numeric__Chỉ tiêu,numeric__MS,numeric__Năm 2022VND,numeric__Năm 2021VND
+I.,I.,I.,Lưu chuyển tiền từ hoạt động kinh doanh,Lưu chuyển tiền từ hoạt động kinh doanh,Lưu chuyển tiền từ hoạt động kinh doanh,Lưu chuyển tiền từ hoạt động kinh doanh,,,,
+1.,I. > 1.,1.,Lợi nhuận trước thuế,01,23.462.167.779,(74.236.999.148),,1.0,23462167779.0,-74236999148.0
+2.,2.,2.,Điều chỉnh cho các khoản,Điều chỉnh cho các khoản,Điều chỉnh cho các khoản,Điều chỉnh cho các khoản,,,,
+-,2. > -,-,Khấu hao TSCĐ và BĐSĐT,02,53.622.911,193.143.107,,2.0,53622911.0,193143107.0
+-,2. > -,-,Các khoản dự phòng,03,(36.878.969.161),87.390.282.764,,3.0,-36878969161.0,87390282764.0
+-,2. > -,-,"Lãi, lỗ từ hoạt động đầu tư",05,(754.196.782),7.628.492.258,,5.0,-754196782.0,7628492258.0
+-,2. > -,-,Chi phí lãi vay,06,2.640.754.703,3.694.104.536,,6.0,2640754703.0,3694104536.0
+3.,2. > 3.,3.,Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động,08,(11.476.620.550),24.669.023.517,,8.0,-11476620550.0,24669023517.0
+-,2. > -,-,"Tăng, giảm các khoản phải thu",09,2.410.901.663,400.511.926.573,,9.0,2410901663.0,400511926573.0
+-,2. > -,-,"Tăng, giảm hàng tồn kho",10,9.876.578.580,(511.363.636),,10.0,9876578580.0,-511363636.0
+-,2. > -,-,"Tăng, giảm các khoản phải trả (không kể lãi vay phải trả, thuế TNDN phải nộp)",11,(17.566.345.205),(541.341.774.230),,11.0,-17566345205.0,-541341774230.0
+-,2. > -,-,"Tăng, giảm chi phí trả trước",12,10.033.035.619,30.565.941.363,,12.0,10033035619.0,30565941363.0
+-,2. > -,-,Tăng giảm chứng khoán kinh doanh,13,10.676.359.314,21.566.574.153,,13.0,10676359314.0,21566574153.0
+-,2. > -,-,Lưu chuyển tiền thuần từ hoạt động kinh doanh,20,3.953.909.421,(64.539.672.260),,20.0,3953909421.0,-64539672260.0
+II.,II.,II.,Lưu chuyển tiền từ hoạt động đầu tư,Lưu chuyển tiền từ hoạt động đầu tư,Lưu chuyển tiền từ hoạt động đầu tư,Lưu chuyển tiền từ hoạt động đầu tư,,,,
+1.,II. > 1.,1.,"Tiền chỉ đề mua sắm, xây dựng TSCĐ và các tài sản dài hạn khác",21,(222.000.000),-,,21.0,-222000000.0,
+2..,II. > 2..,2..,"Tiền thu từ thanh lý, nhượng bán TSCĐ và các tài sản dài hạn khác",22,-,63.636.364,,22.0,,63636364.0
+3.,II. > 3.,3.,"Tiền thu hồi cho vay, bán lại công cụ nợ của đơn vị khác",24,-,1.000.000,,24.0,,1000000.0
+4.,II. > 4.,4.,Tiền thu hồi đầu tư góp vốn vào đơn vị khác,26,-,75.713.565.472,,26.0,,75713565472.0
+5.,II. > 5.,5.,"Tiền thu lãi cho vay, cổ tức và lợi nhuận được chia",27,607.560.166,821.211.026,,27.0,607560166.0,821211026.0
+5.,II. > 5.,5.,Lưu chuyển tiền thuần từ hoạt động đầu tư,30,385.560.166,76.599.412.862,,30.0,385560166.0,76599412862.0
+III.,III.,III.,Lưu chuyển tiền từ hoạt động tài chính,Lưu chuyển tiền từ hoạt động tài chính,Lưu chuyển tiền từ hoạt động tài chính,Lưu chuyển tiền từ hoạt động tài chính,,,,
+III.,III. > III.,III.,Lưu chuyển tiền thuần từ hoạt động tài chính,40,-,-,,40.0,,
+III.,III. > III.,III.,Lưu chuyển tiền thuần trong năm,50,4.339.469.587,12.059.740.602,,50.0,4339469587.0,12059740602.0
+III.,III. > III.,III.,Tiền và tương đương tiền đầu năm,60,24.284.829.857,12.225.089.255,,60.0,24284829857.0,12225089255.0
+III.,III. > III.,III.,Tiền và tương đương tiền cuối năm,70,28.624.299.444,24.284.829.857,,70.0,28624299444.0,24284829857.0

@@ -1,0 +1,44 @@
+﻿row_label_raw,row_label_full,TÀI SẢN,Mã số,Thuyết minh,Số cuối năm,Số đầu năm,numeric__Mã số,numeric__Thuyết minh,numeric__Số cuối năm,numeric__Số đầu năm
+A. TÀI SẢN NGĂN HẠN,A. TÀI SẢN NGĂN HẠN,A. TÀI SẢN NGĂN HẠN,100,,5.815.897.194.459,8.082.320.730.170,100.0,,5815897194459.0,8082320730170.0
+I. Tiên và các khoản tương đương tiền,I. Tiên và các khoản tương đương tiền,I. Tiên và các khoản tương đương tiền,110,5,4.098.557.036.080,5.690.048.266.789,110.0,5.0,4098557036080.0,5690048266789.0
+1. Tiền,1. Tiền,1. Tiền,111,,212.637.546.024,251.548.266.789,111.0,,212637546024.0,251548266789.0
+2. Các khoản tương đương tiền,2. Các khoản tương đương tiền,2. Các khoản tương đương tiền,112,,3.885.919.490.056,5.438.500.000.300,112.0,,3885919490056.0,5438500000300.0
+II. Đầu tư tài chính ngắn hạn,II. Đầu tư tài chính ngắn hạn,II. Đầu tư tài chính ngắn hạn,120,6,55.000.000.000,80.950.000.000,120.0,6.0,55000000000.0,80950000000.0
+1. Đầu tư nằm giữ đến ngày đáo hạn,1. Đầu tư nằm giữ đến ngày đáo hạn,1. Đầu tư nằm giữ đến ngày đáo hạn,123,,55.000.000.000,80.950.000.000,123.0,,55000000000.0,80950000000.0
+III. Các khoản phải thu ngắn hạn,III. Các khoản phải thu ngắn hạn,III. Các khoản phải thu ngắn hạn,130,,512.570.440.907,821.016.395.013,130.0,,512570440907.0,821016395013.0
+1. Phải thu ngắn hạn của khách hàng,1. Phải thu ngắn hạn của khách hàng,1. Phải thu ngắn hạn của khách hàng,131,7,113.770.688.184,110.593.516.567,131.0,7.0,113770688184.0,110593516567.0
+2. Trả trước cho người bán ngắn hạn,2. Trả trước cho người bán ngắn hạn,2. Trả trước cho người bán ngắn hạn,132,8,357.298.450.604,599.720.730.490,132.0,8.0,357298450604.0,599720730490.0
+3. Phải thu ngắn hạn khác,3. Phải thu ngắn hạn khác,3. Phải thu ngắn hạn khác,136,9,263.116.484.099,331.619.897.623,136.0,9.0,263116484099.0,331619897623.0
+4. Dự phòng phải thu ngắn hạn khó đòi,4. Dự phòng phải thu ngắn hạn khó đòi,4. Dự phòng phải thu ngắn hạn khó đòi,137,10,(221.663.412.363),(220.917.749.667),137.0,10.0,-221663412363.0,-220917749667.0
+5. Tài sản thiếu chờ xử lý,5. Tài sản thiếu chờ xử lý,5. Tài sản thiếu chờ xử lý,139,,48.230.383,-,139.0,,48230383.0,
+IV. Hàng tồn kho,IV. Hàng tồn kho,IV. Hàng tồn kho,140,11,923.155.439.979,1.365.359.901.358,140.0,11.0,923155439979.0,1365359901358.0
+1. Hàng tồn kho,1. Hàng tồn kho,1. Hàng tồn kho,141,,924.827.026.054,1.369.360.058.916,141.0,,924827026054.0,1369360058916.0
+2. Dự phòng giảm giá hàng tồn kho,2. Dự phòng giảm giá hàng tồn kho,2. Dự phòng giảm giá hàng tồn kho,149,,(1.671.586.075),(4.000.157.558),149.0,,-1671586075.0,-4000157558.0
+V. Tài sản ngắn hạn khác,V. Tài sản ngắn hạn khác,V. Tài sản ngắn hạn khác,150,,226.614.277.493,124.946.267.010,150.0,,226614277493.0,124946267010.0
+1. Chi phí trả trước ngắn hạn,1. Chi phí trả trước ngắn hạn,1. Chi phí trả trước ngắn hạn,151,12,42.509.732.890,16.806.463.175,151.0,12.0,42509732890.0,16806463175.0
+2. Thuế giá trị gia tăng được khấu trừ,2. Thuế giá trị gia tăng được khấu trừ,2. Thuế giá trị gia tăng được khấu trừ,152,,176.620.686.597,104.007.880.744,152.0,,176620686597.0,104007880744.0
+3. Thuế và các khoản khác phải thu Nhà nước,3. Thuế và các khoản khác phải thu Nhà nước,3. Thuế và các khoản khác phải thu Nhà nước,153,19,7.483.858.006,4.131.823.091,153.0,19.0,7483858006.0,4131823091.0
+B. TÀI SẢN DÀI HẠN,B. TÀI SẢN DÀI HẠN,B. TÀI SẢN DÀI HẠN,200,,3.752.732.326.026,2.836.858.993.077,200.0,,3752732326026.0,2836858993077.0
+I. Các khoản phải thu dài hạn,I. Các khoản phải thu dài hạn,I. Các khoản phải thu dài hạn,210,,2.067.606.000,22.282.745.091,210.0,,2067606000.0,22282745091.0
+1. Phải thu dài hạn của khách hàng,1. Phải thu dài hạn của khách hàng,1. Phải thu dài hạn của khách hàng,216,9,2.067.606.000,22.282.745.091,216.0,9.0,2067606000.0,22282745091.0
+II. Tài sản cổ định,II. Tài sản cổ định,II. Tài sản cổ định,220,,1.910.477.137.280,1.853.675.922.763,220.0,,1910477137280.0,1853675922763.0
+1. Tài sản cổ định hữu hình,1. Tài sản cổ định hữu hình,1. Tài sản cổ định hữu hình,221,13,1.065.244.359.016,950.883.146.423,221.0,13.0,1065244359016.0,950883146423.0
+- Nguyên giá,- Nguyên giá,- Nguyên giá,222,,7.621.745.716.384,7.325.699.359.354,222.0,,7621745716384.0,7325699359354.0
+- Giá trị hao mòn lũy kế,- Giá trị hao mòn lũy kế,- Giá trị hao mòn lũy kế,223,,(6.556.501.357.368),(6.374.816.212.931),223.0,,-6556501357368.0,-6374816212931.0
+2. Tài sản cổ định vô hình,2. Tài sản cổ định vô hình,2. Tài sản cổ định vô hình,227,14,845.232.778.264,902.792.776.340,227.0,14.0,845232778264.0,902792776340.0
+- Nguyên giá,- Nguyên giá,- Nguyên giá,228,,1.102.728.784.250,1.151.101.721.979,228.0,,1102728784250.0,1151101721979.0
+- Giá trị hao mòn lũy kế,- Giá trị hao mòn lũy kế,- Giá trị hao mòn lũy kế,229,,(257.496.005.986),(248.308.945.639),229.0,,-257496005986.0,-248308945639.0
+III. Bất động sản đầu tư,III. Bất động sản đầu tư,III. Bất động sản đầu tư,230,15,281.624.932.537,213.918.863.401,230.0,15.0,281624932537.0,213918863401.0
+- Nguyên giá,- Nguyên giá,- Nguyên giá,231,,346.037.256.544,257.503.814.400,231.0,,346037256544.0,257503814400.0
+- Giá trị hao mòn lũy kế,- Giá trị hao mòn lũy kế,- Giá trị hao mòn lũy kế,232,,(64.412.324.007),(43.584.950.999),232.0,,-64412324007.0,-43584950999.0
+IV. Tài sản dở dang dài hạn,IV. Tài sản dở dang dài hạn,IV. Tài sản dở dang dài hạn,240,,1.350.127.867.489,612.341.484.055,240.0,,1350127867489.0,612341484055.0
+1. Chi phí xây dựng cơ bản dở dang,1. Chi phí xây dựng cơ bản dở dang,1. Chi phí xây dựng cơ bản dở dang,242,16,1.350.127.867.489,612.341.484.055,242.0,16.0,1350127867489.0,612341484055.0
+V. Đầu tư tài chính dài hạn,V. Đầu tư tài chính dài hạn,V. Đầu tư tài chính dài hạn,250,6,45.353.584.368,47.372.063.536,250.0,6.0,45353584368.0,47372063536.0
+"1. Đầu tư vào công ty liên doanh, liền kết","1. Đầu tư vào công ty liên doanh, liền kết","1. Đầu tư vào công ty liên doanh, liền kết",252,,27.825.815.933,27.205.933.822,252.0,,27825815933.0,27205933822.0
+2. Đầu tư góp vốn vào đơn vị khác,2. Đầu tư góp vốn vào đơn vị khác,2. Đầu tư góp vốn vào đơn vị khác,253,,20.502.000.000,20.502.000.000,253.0,,20502000000.0,20502000000.0
+3. Dự phòng đầu tư tài chính dài hạn,3. Dự phòng đầu tư tài chính dài hạn,3. Dự phòng đầu tư tài chính dài hạn,254,,(2.974.231.565),(335.870.286),254.0,,-2974231565.0,-335870286.0
+VI. Tài sản dài hạn khác,VI. Tài sản dài hạn khác,VI. Tài sản dài hạn khác,260,,163.081.198.352,87.267.914.231,260.0,,163081198352.0,87267914231.0
+1. Chi phí trả trước dài hạn,1. Chi phí trả trước dài hạn,1. Chi phí trả trước dài hạn,261,12,29.294.044.224,23.061.447.048,261.0,12.0,29294044224.0,23061447048.0
+2. Tài sản thuê thu nhập hoãn lại,2. Tài sản thuê thu nhập hoãn lại,2. Tài sản thuê thu nhập hoãn lại,262,17,83.066.757.320,64.206.467.183,262.0,17.0,83066757320.0,64206467183.0
+"3. Thiết bị, vật tư, phụ tùng thay thể dài hạn","3. Thiết bị, vật tư, phụ tùng thay thể dài hạn","3. Thiết bị, vật tư, phụ tùng thay thể dài hạn",263,11,50.720.396.808,-,263.0,11.0,50720396808.0,
+TỔNG CỘNG TÀI SẢN (270 = 100 + 200),TỔNG CỘNG TÀI SẢN (270 = 100 + 200),TỔNG CỘNG TÀI SẢN (270 = 100 + 200),270,,9.568.629.520.485,10.919.179.723.247,270.0,,9568629520485.0,10919179723247.0

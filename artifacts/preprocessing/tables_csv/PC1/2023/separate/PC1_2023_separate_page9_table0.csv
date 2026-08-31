@@ -1,0 +1,26 @@
+﻿row_label_raw,row_label_full,col_0,Mã số,Thuyết minh,31/12/2023 VND,1/1/2023 VND,numeric__Mã số,numeric__Thuyết minh,numeric__31/12/2023 VND,numeric__1/1/2023 VND
+Đầu tư tài chính dài hạn,Đầu tư tài chính dài hạn,Đầu tư tài chính dài hạn,250,5(b),5.394.292.289.878,5.316.208.640.939,250.0,,5394292289878.0,5316208640939.0
+Đầu tư vào công ty con,Đầu tư vào công ty con,Đầu tư vào công ty con,251,,3.789.927.776.619,3.780.023.737.061,251.0,,3789927776619.0,3780023737061.0
+Đầu tư vào công ty liên kết,Đầu tư vào công ty liên kết,Đầu tư vào công ty liên kết,252,,1.603.148.756.168,1.534.748.756.168,252.0,,1603148756168.0,1534748756168.0
+Đầu tư góp vốn vào đơn vị khác,Đầu tư góp vốn vào đơn vị khác,Đầu tư góp vốn vào đơn vị khác,253,,4.821.770.000,4.821.770.000,253.0,,4821770000.0,4821770000.0
+Dự phòng đầu tư tài chính dài hạn,Dự phòng đầu tư tài chính dài hạn,Dự phòng đầu tư tài chính dài hạn,254,,(3.606.012.909),(3.385.622.290),254.0,,-3606012909.0,-3385622290.0
+Tài sản dài hạn khác,Tài sản dài hạn khác,Tài sản dài hạn khác,260,,55.860.152.674,70.646.478.003,260.0,,55860152674.0,70646478003.0
+Chi phí trả trước dài hạn,Chi phí trả trước dài hạn,Chi phí trả trước dài hạn,261,16,55.860.152.674,70.646.478.003,261.0,16.0,55860152674.0,70646478003.0
+TỔNG CỘNG TÀI SẢN (270 = 100 + 200),TỔNG CỘNG TÀI SẢN (270 = 100 + 200),TỔNG CỘNG TÀI SẢN (270 = 100 + 200),270,,10.751.985.852.670,12.464.511.241.185,270.0,,10751985852670.0,12464511241185.0
+NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,,,,
+NỘ PHẢI TRẢ (300 = 310 + 330),NGUỒN VỐN > NỘ PHẢI TRẢ (300 = 310 + 330),NỘ PHẢI TRẢ (300 = 310 + 330),300,,5.816.145.114.858,7.571.689.071.746,300.0,,5816145114858.0,7571689071746.0
+Nợ ngắn hạn,NGUỒN VỐN > Nợ ngắn hạn,Nợ ngắn hạn,310,,2.796.978.332.971,4.572.245.665.637,310.0,,2796978332971.0,4572245665637.0
+Phải trả người bán ngắn hạn,NGUỒN VỐN > Phải trả người bán ngắn hạn,Phải trả người bán ngắn hạn,311,17,806.198.113.402,1.027.783.835.592,311.0,17.0,806198113402.0,1027783835592.0
+Người mua trả tiền trước ngắn hạn,NGUỒN VỐN > Người mua trả tiền trước ngắn hạn,Người mua trả tiền trước ngắn hạn,312,18,101.802.829.495,296.844.924.883,312.0,18.0,101802829495.0,296844924883.0
+Thuế và các khoản khác phải nộp,Thuế và các khoản khác phải nộp,Thuế và các khoản khác phải nộp,,,,,,,,
+Nhà nước,Thuế và các khoản khác phải nộp > Nhà nước,Nhà nước,313,19,5.968.392.864,66.601.153.610,313.0,19.0,5968392864.0,66601153610.0
+Phải trả người lao động,Thuế và các khoản khác phải nộp > Phải trả người lao động,Phải trả người lao động,314,,6.624.695.061,7.457.277.117,314.0,,6624695061.0,7457277117.0
+Chi phí phải trả ngắn hạn,Thuế và các khoản khác phải nộp > Chi phí phải trả ngắn hạn,Chi phí phải trả ngắn hạn,315,20,48.628.917.361,187.195.114.723,315.0,20.0,48628917361.0,187195114723.0
+Doanh thu chưa thực hiện ngắn hạn,Thuế và các khoản khác phải nộp > Doanh thu chưa thực hiện ngắn hạn,Doanh thu chưa thực hiện ngắn hạn,318,,853.018.181,500.728.365,318.0,,853018181.0,500728365.0
+Phải trả ngắn hạn khác,Thuế và các khoản khác phải nộp > Phải trả ngắn hạn khác,Phải trả ngắn hạn khác,319,21,20.020.281.837,14.892.412.156,319.0,21.0,20020281837.0,14892412156.0
+Vay ngắn hạn,Thuế và các khoản khác phải nộp > Vay ngắn hạn,Vay ngắn hạn,320,22(a),1.661.054.422.237,2.862.060.337.867,320.0,,1661054422237.0,2862060337867.0
+"Quỹ khen thưởng, phúc lợi","Thuế và các khoản khác phải nộp > Quỹ khen thưởng, phúc lợi","Quỹ khen thưởng, phúc lợi",322,23,145.827.662.533,108.909.881.324,322.0,23.0,145827662533.0,108909881324.0
+Nợ dài hạn,Thuế và các khoản khác phải nộp > Nợ dài hạn,Nợ dài hạn,330,,3.019.166.781.887,2.999.443.406.109,330.0,,3019166781887.0,2999443406109.0
+Phải trả dài hạn khác,Thuế và các khoản khác phải nộp > Phải trả dài hạn khác,Phải trả dài hạn khác,337,,1.521.414.720,2.302.745.180,337.0,,1521414720.0,2302745180.0
+Vay và trái phiếu phát hành dài hạn,Thuế và các khoản khác phải nộp > Vay và trái phiếu phát hành dài hạn,Vay và trái phiếu phát hành dài hạn,338,22(b),3.017.645.367.167,2.992.770.508.866,338.0,,3017645367167.0,2992770508866.0
+Dự phòng phải trả dài hạn,Thuế và các khoản khác phải nộp > Dự phòng phải trả dài hạn,Dự phòng phải trả dài hạn,342,,-,4.370.152.063,342.0,,,4370152063.0

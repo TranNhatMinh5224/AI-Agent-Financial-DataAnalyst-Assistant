@@ -1,0 +1,23 @@
+﻿row_label_raw,row_label_full,col_0,col_1,Thuyết minh,2016 Triệu VND,2015 Triệu VND,numeric__col_1,numeric__Thuyết minh,numeric__2016 Triệu VND,numeric__2015 Triệu VND
+1,1,1,Thu nhập lãi và các khoản thu nhập tương tự,24,15.552.477,13.537.628,,24.0,15552477.0,13537628.0
+2,2,2,Chi phí lãi và các chi phí tương tự,24,(7.573.533),(6.219.098),,24.0,-7573533.0,-6219098.0
+I,I,I,Thu nhập lãi thuần,24,7.978.944,7.318.530,,24.0,7978944.0,7318530.0
+3,3,3,Thu nhập từ hoạt động dịch vụ,25,1.297.890,1.527.970,,25.0,1297890.0,1527970.0
+4,4,4,Chi phí hoạt động dịch vụ,25,(615.250),(984.132),,25.0,-615250.0,-984132.0
+II,II,II,Lãi thuần từ hoạt động dịch vụ,25,682.640,543.838,,25.0,682640.0,543838.0
+III,III,III,Lãi thuần từ hoạt động kinh doanh ngoại hối,26,113.354,159.048,,26.0,113354.0,159048.0
+IV,IV,IV,"Lãi thuần từ mua bán chứng khoán kinh doanh,chứng khoán đầu tư và góp vốn, đầu tư dài hạn",27,101.443,134.034,,27.0,101443.0,134034.0
+5,5,5,Thu nhập từ hoạt động khác,28,1.019.373,611.262,,28.0,1019373.0,611262.0
+6,6,6,Chi phí hoạt động khác,28,(142.554),(86.523),,28.0,-142554.0,-86523.0
+VI,VI,VI,Lãi thuần từ hoạt động khác,28,876.819,524.739,,28.0,876819.0,524739.0
+VII,VII,VII,"Thu nhập từ góp vốn, mua cổ phần",29,102.157,91.679,,29.0,102157.0,91679.0
+VIII,VIII,VIII,Chi phí hoạt động,30,(4.174.668),(3.449.129),,30.0,-4174668.0,-3449129.0
+IX,IX,IX,Lợi nhuận thuần từ hoạt động kinh doanhtrước chi phí dự phòng rủi ro,,5.680.689,5.322.739,,,5680689.0,5322739.0
+X,X,X,Chi phí dự phòng rủi ro tín dụng,31,(2.030.104),(2.102.068),,31.0,-2030104.0,-2102068.0
+XI,XI,XI,Tổng lợi nhuận trước thuế,,3.650.585,3.220.671,,,3650585.0,3220671.0
+7,7,7,Chi phí thuế thu nhập doanh nghiệp hiện hành,32,(766.870),(707.398),,32.0,-766870.0,-707398.0
+8,8,8,Chi phí thuế thu nhập doanh nghiệp hoãn lại,32,(164),(1.139),,32.0,-164.0,-1139.0
+XII,XII,XII,Chi phí thuế thu nhập doanh nghiệp,32,(767.034),(708.537),,32.0,-767034.0,-708537.0
+XIII,XIII,XIII,Lợi nhuận sau thuế,,2.883.551,2.512.134,,,2883551.0,2512134.0
+,,,Lợi ích của cổ đông thiểu số,,(28.252),16.141,,,-28252.0,16141.0
+XV,XV,XV,Lãi cơ bản trên cổ phiếu (VND/cổ phiếu),33,1.706,1.786,,33.0,1706.0,1786.0

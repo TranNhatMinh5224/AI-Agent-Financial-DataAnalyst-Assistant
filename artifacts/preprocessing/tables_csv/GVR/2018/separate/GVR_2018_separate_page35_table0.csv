@@ -1,0 +1,12 @@
+﻿row_label_raw,row_label_full,Tình trạng hồ sơ,Số hồ sơ,Số dư nợ,Số dư nợ_1,numeric__Số hồ sơ,numeric__Số dư nợ,numeric__Số dư nợ_1
+Tình trạng hồ sơ,Tình trạng hồ sơ,Tình trạng hồ sơ,Số hồ sơ,Nợ gốc,Nợ lãi,,,
+,,,,VND,VND,,,
+"Hồ sơ đã chuyển Tòa án, thi hành án","Tình trạng hồ sơ > Hồ sơ đã chuyển Tòa án, thi hành án","Hồ sơ đã chuyển Tòa án, thi hành án",172,608.070.502.256,1.002.794.728.109,172.0,608070502256.0,1002794728109.0
+- Hồ sơ đã có bản án có hiệu lực,Tình trạng hồ sơ > - Hồ sơ đã có bản án có hiệu lực,- Hồ sơ đã có bản án có hiệu lực,112,121.019.508.406,271.497.105.770,112.0,121019508406.0,271497105770.0
++ Hồ sơ trong giai đoạn phát mãi tài sản để thi hành án,Tình trạng hồ sơ > + Hồ sơ trong giai đoạn phát mãi tài sản để thi hành án,+ Hồ sơ trong giai đoạn phát mãi tài sản để thi hành án,38,24.529.865.403,71.787.642.697,38.0,24529865403.0,71787642697.0
++ Hồ sơ đã chuyển qua cơ quan thi hành án,Tình trạng hồ sơ > + Hồ sơ đã chuyển qua cơ quan thi hành án,+ Hồ sơ đã chuyển qua cơ quan thi hành án,57,96.489.643.003,163.095.767.714,57.0,96489643003.0,163095767714.0
++ Hồ sơ theo dõi tiếp tục thu lãi,Tình trạng hồ sơ > + Hồ sơ theo dõi tiếp tục thu lãi,+ Hồ sơ theo dõi tiếp tục thu lãi,17,-,36.613.695.359,17.0,,36613695359.0
+- Hồ sơ khởi kiện đang được Tòa án thụ lý,Tình trạng hồ sơ > - Hồ sơ khởi kiện đang được Tòa án thụ lý,- Hồ sơ khởi kiện đang được Tòa án thụ lý,60,487.050.993.850,731.297.622.339,60.0,487050993850.0,731297622339.0
+"Hồ sơ trả nợ theo tiến độ, kế hoạch","Tình trạng hồ sơ > Hồ sơ trả nợ theo tiến độ, kế hoạch","Hồ sơ trả nợ theo tiến độ, kế hoạch",20,34.783.465.445,158.416.016.693,20.0,34783465445.0,158416016693.0
+Hồ sơ chưa khởi kiện,Tình trạng hồ sơ > Hồ sơ chưa khởi kiện,Hồ sơ chưa khởi kiện,19,316.248.059.215,377.209.201.693,19.0,316248059215.0,377209201693.0
+,,,211,959.102.026.916,1.538.419.946.495,211.0,959102026916.0,1538419946495.0

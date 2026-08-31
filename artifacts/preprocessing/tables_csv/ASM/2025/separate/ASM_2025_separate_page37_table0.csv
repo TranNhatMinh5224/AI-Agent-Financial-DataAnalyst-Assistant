@@ -1,0 +1,23 @@
+﻿row_label_raw,row_label_full,Chỉ tiêu,"Nhà cửa, vật kiến trúc","Máy móc, thiết bị","Phương tiện vận tải,truyền dẫn",Thiết bị quản lý,TSCĐ khác,Cộng,"numeric__Nhà cửa, vật kiến trúc","numeric__Máy móc, thiết bị","numeric__Phương tiện vận tải,truyền dẫn",numeric__Thiết bị quản lý,numeric__TSCĐ khác,numeric__Cộng
+I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,I. Nguyên giá,,,,,,
+1. Số dư đầu năm,I. Nguyên giá > 1. Số dư đầu năm,1. Số dư đầu năm,1.045.960.547.188,2.554.321.780.251,63.860.390.436,5.852.773.773,,3.669.995.491.648,1045960547188.0,2554321780251.0,63860390436.0,5852773773.0,,3669995491648.0
+2. Số tăng trong năm,I. Nguyên giá > 2. Số tăng trong năm,2. Số tăng trong năm,523.863.326.927,36.483.648.746,390.000.000,,,560.736.975.673,523863326927.0,36483648746.0,390000000.0,,,560736975673.0
+- Mua trong năm,I. Nguyên giá > - Mua trong năm,- Mua trong năm,,1.023.910.184,,,,1.023.910.184,,1023910184.0,,,,1023910184.0
+- Đầu tư XDCB hoàn thành,I. Nguyên giá > - Đầu tư XDCB hoàn thành,- Đầu tư XDCB hoàn thành,431.788.188.767,35.423.433.880,390.000.000,,,467.601.622.647,431788188767.0,35423433880.0,390000000.0,,,467601622647.0
+- Chuyển từ BDS đầu tư sang,I. Nguyên giá > - Chuyển từ BDS đầu tư sang,- Chuyển từ BDS đầu tư sang,92.075.138.160,,,,,92.075.138.160,92075138160.0,,,,,92075138160.0
+- Tăng khác,I. Nguyên giá > - Tăng khác,- Tăng khác,,36.304.682,,,,36.304.682,,36304682.0,,,,36304682.0
+3. Số giảm trong năm,I. Nguyên giá > 3. Số giảm trong năm,3. Số giảm trong năm,,,482.727.273,,,482.727.273,,,482727273.0,,,482727273.0
+"- Thanh lý, nhượng bán","I. Nguyên giá > - Thanh lý, nhượng bán","- Thanh lý, nhượng bán",,,482.727.273,,,482.727.273,,,482727273.0,,,482727273.0
+4. Số dư cuối năm,I. Nguyên giá > 4. Số dư cuối năm,4. Số dư cuối năm,1.569.823.874.115,2.590.805.428.997,63.767.663.163,5.852.773.773,,4.230.249.740.048,1569823874115.0,2590805428997.0,63767663163.0,5852773773.0,,4230249740048.0
+II. Giá trị hao mòn luỹ kế,II. Giá trị hao mòn luỹ kế,II. Giá trị hao mòn luỹ kế,II. Giá trị hao mòn luỹ kế,II. Giá trị hao mòn luỹ kế,II. Giá trị hao mòn luỹ kế,II. Giá trị hao mòn luỹ kế,II. Giá trị hao mòn luỹ kế,II. Giá trị hao mòn luỹ kế,,,,,,
+1. Số dư đầu năm,II. Giá trị hao mòn luỹ kế > 1. Số dư đầu năm,1. Số dư đầu năm,178.169.173.144,518.428.453.057,33.912.149.147,4.948.770.610,,735.458.545.958,178169173144.0,518428453057.0,33912149147.0,4948770610.0,,735458545958.0
+2. Khấu hao trong năm,II. Giá trị hao mòn luỹ kế > 2. Khấu hao trong năm,2. Khấu hao trong năm,96.629.406.028,108.753.107.693,4.000.729.645,335.941.442,,209.719.184.808,96629406028.0,108753107693.0,4000729645.0,335941442.0,,209719184808.0
+- Khấu hao trong năm,II. Giá trị hao mòn luỹ kế > - Khấu hao trong năm,- Khấu hao trong năm,61.517.257.307,108.753.107.693,4.000.729.645,335.941.442,,174.607.036.087,61517257307.0,108753107693.0,4000729645.0,335941442.0,,174607036087.0
+- Chuyển từ BDS đầu tư sang,II. Giá trị hao mòn luỹ kế > - Chuyển từ BDS đầu tư sang,- Chuyển từ BDS đầu tư sang,35.112.148.721,,,,,35.112.148.721,35112148721.0,,,,,35112148721.0
+- Tăng khác,- Tăng khác,- Tăng khác,,,,,,,,,,,,
+3. Giảm trong năm,- Tăng khác > 3. Giảm trong năm,3. Giảm trong năm,,,482.727.273,,,482.727.273,,,482727273.0,,,482727273.0
+"- Thanh lý, nhượng bán","- Tăng khác > - Thanh lý, nhượng bán","- Thanh lý, nhượng bán",,,482.727.273,,,482.727.273,,,482727273.0,,,482727273.0
+4. Số dư cuối năm,- Tăng khác > 4. Số dư cuối năm,4. Số dư cuối năm,274.798.579.172,627.181.560.750,37.430.151.519,5.284.712.052,,944.695.003.493,274798579172.0,627181560750.0,37430151519.0,5284712052.0,,944695003493.0
+III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,III. Giá trị còn lại,,,,,,
+1. Tại ngày đầu năm,III. Giá trị còn lại > 1. Tại ngày đầu năm,1. Tại ngày đầu năm,867.791.374.044,2.035.893.327.194,29.948.241.289,904.003.163,,2.934.536.945.690,867791374044.0,2035893327194.0,29948241289.0,904003163.0,,2934536945690.0
+2. Tại ngày cuối năm,III. Giá trị còn lại > 2. Tại ngày cuối năm,2. Tại ngày cuối năm,1.295.025.294.943,1.963.623.868.247,26.337.511.644,568.061.721,,3.285.554.736.555,1295025294943.0,1963623868247.0,26337511644.0,568061721.0,,3285554736555.0

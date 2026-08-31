@@ -1,0 +1,23 @@
+﻿row_label_raw,row_label_full,col_0,col_1,Thuyết minh,Cho năm tài chính kết thúc ngày 31 tháng 12 năm > 2023 Triệu đồng,Cho năm tài chính kết thúc ngày 31 tháng 12 năm > 2022 Triệu đồng,numeric__col_1,numeric__Thuyết minh,numeric__Cho năm tài chính kết thúc ngày 31 tháng 12 năm > 2023 Triệu đồng,numeric__Cho năm tài chính kết thúc ngày 31 tháng 12 năm > 2022 Triệu đồng
+1,1,1,Thu nhập lãi và các khoản thu nhập tương tự,20,52.640.577,33.323.404,,20.0,52640577.0,33323404.0
+2,2,2,Chi phí lãi và các chi phí tương tự,21,(30.456.603),(15.311.836),,21.0,-30456603.0,-15311836.0
+I,I,I,Thu nhập lãi thuần,,22.183.974,18.011.568,,,22183974.0,18011568.0
+3,3,3,Thu nhập từ hoạt động dịch vụ,22,2.830.168,3.308.455,,22.0,2830168.0,3308455.0
+4,4,4,Chi phí hoạt động dịch vụ,23,(642.366),(351.637),,23.0,-642366.0,-351637.0
+II,II,II,Lãi thuần từ hoạt động dịch vụ,,2.187.802,2.956.818,,,2187802.0,2956818.0
+III,III,III,Lãi thuần từ hoạt động kinh doanh ngoại hối,24,564.703,134.237,,24.0,564703.0,134237.0
+IV,IV,IV,Lãi thuần từ mua bán chứng khoán kinh doanh,25,41.723,16.986,,25.0,41723.0,16986.0
+V,V,V,Lãi thuần từ mua bán chứng khoán đầu tư,26,1.167.005,312.620,,26.0,1167005.0,312620.0
+5,5,5,Thu nhập từ hoạt động khác,,541.644,588.126,,,541644.0,588126.0
+6,6,6,Chi phí hoạt động khác,,(282.491),(60.036),,,-282491.0,-60036.0
+VI,VI,VI,Lãi thuần từ hoạt động khác,27,259.153,528.090,,27.0,259153.0,528090.0
+VII,VII,VII,"Thu nhập từ góp vốn, mua cổ phần",28,9.325,6.785,,28.0,9325.0,6785.0
+VIII,VIII,VIII,Chi phí hoạt động,29,(9.129.202),(8.630.709),,29.0,-9129202.0,-8630709.0
+IX,IX,IX,Lợi nhuận thuần từ hoạt động kinh doanh trước chi phí dự phòng rủi ro tín dụng,,17.284.483,13.336.395,,,17284483.0,13336395.0
+X,X,X,Chi phí dự phòng rủi ro tín dụng,30,(4.267.751),(3.068.339),,30.0,-4267751.0,-3068339.0
+XI,XI,XI,Tổng lợi nhuận trước thuế,,13.016.732,10.268.056,,,13016732.0,10268056.0
+7,7,7,Chi phí thuế TNDN - hiện hành,31,(2.724.629),(2.091.986),,31.0,-2724629.0,-2091986.0
+8,8,8,Thu nhập thuế TNDN - hoãn lại,31,43.910,33.400,,31.0,43910.0,33400.0
+XII,XII,XII,Chi phí thuế TNDN,,(2.680.719),(2.058.586),,,-2680719.0,-2058586.0
+XIII,XIII,XIII,Lợi nhuận sau thuế,,10.336.013,8.209.470,,,10336013.0,8209470.0
+,,,Phân bổ cho:Các cổ đông sở hữu cổ phần phổ thông của Ngân hàngCổ đông không kiểm soát,,10.070.898265.115,7.749.794459.676,,,10070898265115.0,7749794459676.0

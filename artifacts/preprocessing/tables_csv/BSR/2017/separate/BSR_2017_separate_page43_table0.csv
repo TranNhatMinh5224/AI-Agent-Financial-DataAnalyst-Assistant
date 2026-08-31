@@ -1,0 +1,12 @@
+﻿row_label_raw,row_label_full,Chỉ tiêu,Số đầu năm(Trước điều chỉnh) > VND,Điều chỉnh > VND,Số đầu năm(Sau điều chỉnh) > VND,numeric__Số đầu năm(Trước điều chỉnh) > VND,numeric__Điều chỉnh > VND,numeric__Số đầu năm(Sau điều chỉnh) > VND
+TÀI SẢN,TÀI SẢN,TÀI SẢN,TÀI SẢN,TÀI SẢN,TÀI SẢN,,,
+1. Chỉ phí trả trước ngắn hạn,TÀI SẢN > 1. Chỉ phí trả trước ngắn hạn,1. Chỉ phí trả trước ngắn hạn,86.143.598.121,5.501.903.093,91.645.501.214,86143598121.0,5501903093.0,91645501214.0
+2. Tài sản cố định hữu hình,TÀI SẢN > 2. Tài sản cố định hữu hình,2. Tài sản cố định hữu hình,29.641.663.860.878,48.273.933.349,29.689.937.794.227,29641663860878.0,48273933349.0,29689937794227.0
+- Nguyên giá,TÀI SẢN > - Nguyên giá,- Nguyên giá,44.500.120.382.331,61.438.160.553,44.561.558.542.884,44500120382331.0,61438160553.0,44561558542884.0
+- Giá trị hao mòn lũy kế,TÀI SẢN > - Giá trị hao mòn lũy kế,- Giá trị hao mòn lũy kế,(14.858.456.521.453),(13.164.227.204),(14.871.620.748.657),-14858456521453.0,-13164227204.0,-14871620748657.0
+3. Chỉ phí trả trước dài hạn,TÀI SẢN > 3. Chỉ phí trả trước dài hạn,3. Chỉ phí trả trước dài hạn,-,437.157.942.879,437.157.942.879,,437157942879.0,437157942879.0
+NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,,,
+1. Thuế và các khoản phải nộp Nhà nước,NGUỒN VỐN > 1. Thuế và các khoản phải nộp Nhà nước,1. Thuế và các khoản phải nộp Nhà nước,1.346.324.775.576,51.324.625.205,1.397.649.400.781,1346324775576.0,51324625205.0,1397649400781.0
+2. Phải trả ngắn hạn khác,NGUỒN VỐN > 2. Phải trả ngắn hạn khác,2. Phải trả ngắn hạn khác,3.561.492.697.886,768.966.940.391,4.330.459.638.277,3561492697886.0,768966940391.0,4330459638277.0
+3. Dự phòng phải trả dài hạn,NGUỒN VỐN > 3. Dự phòng phải trả dài hạn,3. Dự phòng phải trả dài hạn,1.337.013.266.449,(639.825.000.000),697.188.266.449,1337013266449.0,-639825000000.0,697188266449.0
+4. Quỹ đầu tư phát triển,NGUỒN VỐN > 4. Quỹ đầu tư phát triển,4. Quỹ đầu tư phát triển,3.052.162.536.005,3.978.563.3725,3.362.629.749.730,3052162536005.0,39785633725.0,3362629749730.0

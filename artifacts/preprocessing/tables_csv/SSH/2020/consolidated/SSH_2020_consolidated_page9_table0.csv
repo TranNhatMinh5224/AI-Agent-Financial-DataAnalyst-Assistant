@@ -1,0 +1,26 @@
+﻿row_label_raw,row_label_full,NGUỒN VỐN,Mã số,Thuyết minh,Số cuối năm,Số đầu năm,numeric__Mã số,numeric__Thuyết minh,numeric__Số cuối năm,numeric__Số đầu năm
+C. NỘ PHẢI TRẢ,C. NỘ PHẢI TRẢ,C. NỘ PHẢI TRẢ,300,,7.477.623.899.459,2.869.167.258.643,300.0,,7477623899459.0,2869167258643.0
+I. Nợ ngắn hạn,I. Nợ ngắn hạn,I. Nợ ngắn hạn,310,,7.360.880.077.397,1.669.167.258.643,310.0,,7360880077397.0,1669167258643.0
+1. Phải trả người bán ngắn hạn,1. Phải trả người bán ngắn hạn,1. Phải trả người bán ngắn hạn,311,17,437.321.040.322,290.650.609.427,311.0,17.0,437321040322.0,290650609427.0
+2. Người mua trả tiền trước ngắn hạn,2. Người mua trả tiền trước ngắn hạn,2. Người mua trả tiền trước ngắn hạn,312,18,1.103.765.590.857,339.099.990.386,312.0,18.0,1103765590857.0,339099990386.0
+3. Thuế và các khoản phải nộp Nhà nước,3. Thuế và các khoản phải nộp Nhà nước,3. Thuế và các khoản phải nộp Nhà nước,313,19,292.869.405.705,196.020.002.822,313.0,19.0,292869405705.0,196020002822.0
+4. Phải trả người lao động,4. Phải trả người lao động,4. Phải trả người lao động,314,,8.952.347.383,264.151.650,314.0,,8952347383.0,264151650.0
+5. Chi phí phải trả ngắn hạn,5. Chi phí phải trả ngắn hạn,5. Chi phí phải trả ngắn hạn,315,20,739.312.655.190,295.338.697.523,315.0,20.0,739312655190.0,295338697523.0
+6. Doanh thu chưa thực hiện ngắn hạn,6. Doanh thu chưa thực hiện ngắn hạn,6. Doanh thu chưa thực hiện ngắn hạn,318,21,16.290.074.500,,318.0,21.0,16290074500.0,
+7. Phải trả ngắn hạn khác,7. Phải trả ngắn hạn khác,7. Phải trả ngắn hạn khác,319,22,514.898.397.387,547.793.806.835,319.0,22.0,514898397387.0,547793806835.0
+8. Vay ngắn hạn,8. Vay ngắn hạn,8. Vay ngắn hạn,320,23,4.245.656.252.722,,320.0,23.0,4245656252722.0,
+9. Dự phòng phải trả ngắn hạn,9. Dự phòng phải trả ngắn hạn,9. Dự phòng phải trả ngắn hạn,321,,1.814.313.331,,321.0,,1814313331.0,
+II. Nợ dài hạn,II. Nợ dài hạn,II. Nợ dài hạn,330,,116.743.822.062,1.200.000.000.000,330.0,,116743822062.0,1200000000000.0
+1. Chi phí phải trả dài hạn,1. Chi phí phải trả dài hạn,1. Chi phí phải trả dài hạn,333,20,18.101.975.437,,333.0,20.0,18101975437.0,
+2. Doanh thu chưa thực hiện dài hạn,2. Doanh thu chưa thực hiện dài hạn,2. Doanh thu chưa thực hiện dài hạn,336,21,17.829.143.625,,336.0,21.0,17829143625.0,
+3. Vay dài hạn,3. Vay dài hạn,3. Vay dài hạn,338,23,80.812.703.000,1.200.000.000.000,338.0,23.0,80812703000.0,1200000000000.0
+D. VỐN CHỦ SỞ HỮU,D. VỐN CHỦ SỞ HỮU,D. VỐN CHỦ SỞ HỮU,400,,2.535.601.910.837,2.931.631.308.538,400.0,,2535601910837.0,2931631308538.0
+I. Vốn chủ sở hữu,I. Vốn chủ sở hữu,I. Vốn chủ sở hữu,410,24,2.535.601.910.837,2.931.631.308.538,410.0,24.0,2535601910837.0,2931631308538.0
+1. Vốn góp của chủ sở hữu,1. Vốn góp của chủ sở hữu,1. Vốn góp của chủ sở hữu,411,,2.500.000.000.000,2.500.000.000.000,411.0,,2500000000000.0,2500000000000.0
+- Cổ phiếu phổ thông có quyền biểu quyết,- Cổ phiếu phổ thông có quyền biểu quyết,- Cổ phiếu phổ thông có quyền biểu quyết,411a,,2.500.000.000.000,2.500.000.000.000,,,2500000000000.0,2500000000000.0
+2. Quỹ khác thuộc vốn chủ sở hữu,2. Quỹ khác thuộc vốn chủ sở hữu,2. Quỹ khác thuộc vốn chủ sở hữu,420,,(791.955.590.152),,420.0,,-791955590152.0,
+3. Lợi nhuận sau thuế chưa phân phối,3. Lợi nhuận sau thuế chưa phân phối,3. Lợi nhuận sau thuế chưa phân phối,421,,624.305.528.529,431.631.308.538,421.0,,624305528529.0,431631308538.0
+- Lợi nhuận sau thuế chưa phân phối/(Lỗ) lũy kế đến cuối năm trước,- Lợi nhuận sau thuế chưa phân phối/(Lỗ) lũy kế đến cuối năm trước,- Lợi nhuận sau thuế chưa phân phối/(Lỗ) lũy kế đến cuối năm trước,421a,,431.377.864.445,(15.053.971.660),,,431377864445.0,-15053971660.0
+- Lợi nhuận sau thuế chưa phân phối năm nay,- Lợi nhuận sau thuế chưa phân phối năm nay,- Lợi nhuận sau thuế chưa phân phối năm nay,421b,,192.927.664.084,446.685.280.198,,,192927664084.0,446685280198.0
+4. Lợi ích của cổ đông không kiểm soát,4. Lợi ích của cổ đông không kiểm soát,4. Lợi ích của cổ đông không kiểm soát,429,,203.251.972.460,,429.0,,203251972460.0,
+TỔNG CỘNG NGUỒN VỐN (440=300+400),TỔNG CỘNG NGUỒN VỐN (440=300+400),TỔNG CỘNG NGUỒN VỐN (440=300+400),440,,10.013.225.810.296,5.800.798.567.181,440.0,,10013225810296.0,5800798567181.0

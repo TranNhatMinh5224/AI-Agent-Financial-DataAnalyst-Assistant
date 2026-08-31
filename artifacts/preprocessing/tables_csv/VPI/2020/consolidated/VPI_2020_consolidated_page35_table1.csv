@@ -1,0 +1,12 @@
+﻿row_label_raw,row_label_full,col_0,Số đầu năm,Số phải thu trong năm,Số đã bù trừ trong năm,Số cuối năm,numeric__Số đầu năm,numeric__Số phải thu trong năm,numeric__Số đã bù trừ trong năm,numeric__Số cuối năm
+Phải thu,Phải thu,Phải thu,Phải thu,Phải thu,Phải thu,Phải thu,,,,
+Thuế giá trị gia tăng được khấu trừ,Phải thu > Thuế giá trị gia tăng được khấu trừ,Thuế giá trị gia tăng được khấu trừ,18.200.346.127,-,(6.122.349.865),12.077.996.262,18200346127.0,,-6122349865.0,12077996262.0
+Các loại thuế khác,Phải thu > Các loại thuế khác,Các loại thuế khác,1.870.138.121,100.272.686,(1.706.606.030),263.804.777,1870138121.0,100272686.0,-1706606030.0,263804777.0
+TỔNG CỘNG,Phải thu > TỔNG CỘNG,TỔNG CỘNG,20.070.484.248,100.272.686,(7.828.955.895),12.341.801.039,20070484248.0,100272686.0,-7828955895.0,12341801039.0
+,,,Số đầu năm,Số phải nộp trong năm,Số đã nộp/bù trừ trong năm,Số cuối năm,,,,
+Phải nộp,Phải nộp,Phải nộp,Phải nộp,Phải nộp,Phải nộp,Phải nộp,,,,
+Thuế thu nhập doanh nghiệp (*),Phải nộp > Thuế thu nhập doanh nghiệp (*),Thuế thu nhập doanh nghiệp (*),127.092.098.137,112.867.910.870,(142.464.559.553),97.495.449.454,127092098137.0,112867910870.0,-142464559553.0,97495449454.0
+Thuế giá trị gia tăng,Phải nộp > Thuế giá trị gia tăng,Thuế giá trị gia tăng,263.545.553,77.874.889.880,(26.667.143.823),51.471.291.610,263545553.0,77874889880.0,-26667143823.0,51471291610.0
+Thuế thu nhập cá nhân,Phải nộp > Thuế thu nhập cá nhân,Thuế thu nhập cá nhân,1.563.574.730,11.109.373.702,(11.755.881.707),917.066.725,1563574730.0,11109373702.0,-11755881707.0,917066725.0
+Các loại thuế khác,Phải nộp > Các loại thuế khác,Các loại thuế khác,48.695.932,1.118.896.580,(1.107.271.103),60.321.409,48695932.0,1118896580.0,-1107271103.0,60321409.0
+TỔNG CỘNG,Phải nộp > TỔNG CỘNG,TỔNG CỘNG,128.967.914.352,202.971.071.032,(181.994.856.186),149.944.129.198,128967914352.0,202971071032.0,-181994856186.0,149944129198.0
