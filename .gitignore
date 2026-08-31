@@ -7,6 +7,8 @@ __pycache__/
 *.env
 !.env.example
 
-# Temporary logs
+# Temporary logs & local runtime cache
 inference_log.txt
 *.log
+*.parquet
+submission.zip
