@@ -10,14 +10,18 @@ from openai import OpenAI
 
 def extract_python_code(text: str) -> str:
     """Extract Python code from LLM Markdown output."""
+    if not text:
+        return ""
     # 1. Match closed code block ```python ... ```
     pattern = re.compile(r"```(?:python)?\s*(.*?)\s*```", re.DOTALL | re.IGNORECASE)
     match = pattern.search(text)
     if match:
-        return match.group(1).strip()
+        code = match.group(1).strip()
+        if code:
+            return code
         
     # 2. Match unclosed code block ```python ... (hit max_tokens before closing)
-    unclosed_pattern = re.compile(r"```(?:python)?\s*(.*)", re.DOTALL | re.IGNORECASE)
+    unclosed_pattern = re.compile(r"```(?:python)?\s*([^\n`].*)", re.DOTALL | re.IGNORECASE)
     match_unclosed = unclosed_pattern.search(text)
     if match_unclosed:
         candidate = match_unclosed.group(1).strip()
@@ -33,19 +37,12 @@ def extract_python_code(text: str) -> str:
     return text.strip()
 
 def call_llm(prompt: str, llm_config: dict[str, str | float], system_prompt: str = "") -> str:
-    """Generic function to call an LLM with a given prompt and system prompt.
-    
-    Hỗ trợ cả hai key 'model' và 'model_name' trong llm_config:
-    - AgentConfig.to_llm_config() trả về key 'model'
-    - run_profile.yaml dùng key 'model_name'
-    """
+    """Generic function to call an LLM with a given prompt and system prompt."""
     base_url = llm_config.get("base_url", "http://localhost:11434/v1")
     api_key = llm_config.get("api_key", "ollama")
-    # BUG-003 FIX: Hỗ trợ cả "model" (AgentConfig) và "model_name" (YAML config)
     model = llm_config.get("model") or llm_config.get("model_name", "qwen2.5-coder:7b")
     temperature = float(llm_config.get("temperature", 0.0))
-    # BUG-017 FIX: Truyền max_tokens vào API call
-    max_tokens = int(llm_config.get("max_tokens", 2048))
+    max_tokens = int(llm_config.get("max_tokens", 3072))
     
     max_attempts = 4
     last_err = None

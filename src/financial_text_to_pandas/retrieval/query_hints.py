@@ -132,18 +132,28 @@ def extract_query_hints(question: str) -> QueryHints:
     normalized_q = normalize_query_language(question)
     q_lower = normalized_q.lower()
     
-    # 1. Ticker: tra danh sách 100 mã CK chuẩn trước, fallback sang regex và tên công ty
+    # 1. Tickers: Quét toàn bộ danh sách mã CK chuẩn có mặt trong câu hỏi
     words = re.findall(r"\b[A-Za-z0-9]+\b", question)
-    ticker = None
+    found_tickers: list[str] = []
     for w in words:
-        if w.upper() in _KNOWN_TICKERS:
-            ticker = w.upper()
-            break
-    if not ticker:
-        tickers = _TICKER_RE.findall(question)
-        ticker = tickers[0].upper() if tickers else None
-    if not ticker:
-        ticker = _lookup_ticker_by_company_name(question)
+        w_up = w.upper()
+        if w_up in _KNOWN_TICKERS and w_up not in found_tickers:
+            found_tickers.append(w_up)
+            
+    if not found_tickers:
+        matched = _TICKER_RE.findall(question)
+        for m in matched:
+            m_up = m.upper()
+            if m_up not in found_tickers:
+                found_tickers.append(m_up)
+                
+    if not found_tickers:
+        named_ticker = _lookup_ticker_by_company_name(question)
+        if named_ticker:
+            found_tickers = [named_ticker]
+            
+    primary_ticker = found_tickers[0] if found_tickers else None
+    is_multi_ticker = len(found_tickers) > 1
     
     # 2. Years
     years_str = _YEAR_RE.findall(question)
@@ -170,29 +180,26 @@ def extract_query_hints(question: str) -> QueryHints:
             unit_requested = u
             break
             
-    # 6. Metric terms (simple heuristic: words before 'của' or around numbers)
-    # This is a placeholder for actual NLP extraction, but good enough for hints.
+    # 6. Metric terms
     metric_terms = []
-    # E.g. "Doanh thu thuần của AAA là bao nhiêu"
     if "của" in q_lower:
         prefix = q_lower.split("của")[0].strip()
-        # Take the last few words
         words = prefix.split()
         if len(words) > 0:
             metric_terms = [" ".join(words[-3:])]
     
-    # Calculate a rough confidence score for filtering
-    # High confidence if we have BOTH a ticker and a year
+    # Confidence
     confidence = 0.0
-    if ticker and years:
+    if found_tickers and years:
         confidence = 0.9
-    elif ticker or years:
+    elif found_tickers or years:
         confidence = 0.5
         
     return QueryHints(
         query_id=str(uuid.uuid4()),
         question=question,
-        ticker=ticker,
+        ticker=primary_ticker,
+        tickers=found_tickers,
         company_name=None,
         years=years,
         report_type=report_type,
@@ -200,7 +207,8 @@ def extract_query_hints(question: str) -> QueryHints:
         metric_terms=metric_terms,
         unit_requested=unit_requested,
         operation=None,
-        confidence=confidence
+        confidence=confidence,
+        is_industry_comparison=is_multi_ticker
     )
 
 
@@ -216,24 +224,23 @@ def filter_by_metadata(corpus: pd.DataFrame, hints: QueryHints) -> pd.DataFrame:
     """
     filtered = corpus.copy()
     
-    # Only filter if we have high confidence, to avoid over-filtering
     if hints.confidence >= 0.5:
-        # Filter by ticker if explicit
-        if hints.ticker:
+        # 1. Filter by multiple tickers (e.g. Industry Comparison) or single ticker
+        if hints.tickers:
+            t_set = {t.upper() for t in hints.tickers}
+            filtered = filtered[filtered["ticker"].str.upper().isin(t_set)]
+        elif hints.ticker:
             filtered = filtered[filtered["ticker"].str.upper() == hints.ticker.upper()]
             
-        # Filter by year if explicit
+        # 2. Filter by year if explicit
         if hints.years:
-            # Table year might be a string or int. Filter if the table year is IN the requested years.
             filtered = filtered[filtered["year"].astype(str).isin([str(y) for y in hints.years])]
             
-        # Filter by report type if explicit
-        if hints.report_type:
+        # 3. Filter by report type if explicit
+        if hints.report_type and not hints.is_industry_comparison:
             filtered = filtered[filtered["report_type"] == hints.report_type]
             
-    # Always return at least some rows to avoid failing completely due to bad extraction
     if filtered.empty and not corpus.empty:
-        # Fallback to full corpus if over-filtered
         return corpus
         
     return filtered

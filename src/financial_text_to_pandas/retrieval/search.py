@@ -143,6 +143,7 @@ def run_search(
         c.csv_path = str(path_map.get(c.table_id, ""))
         
     # 5. Rerank
+    effective_top_k = max(top_k, len(hints.tickers) * 3) if hints.is_industry_comparison else top_k
     reranker_model = None if no_reranker else cfg.reranker_config.get("model_name", "Qwen/Qwen3-Reranker-8B")
     reranker_base_url = cfg.reranker_config.get("base_url")
     reranker_api_key = cfg.reranker_config.get("api_key")
@@ -150,7 +151,7 @@ def run_search(
         query, 
         merged, 
         corpus_df=corpus_df, 
-        top_k=top_k, 
+        top_k=effective_top_k, 
         mock=False, 
         model_name=reranker_model,
         base_url=reranker_base_url,

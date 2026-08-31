@@ -201,14 +201,16 @@ class QueryHints:
     query_id: str
     question: str
     ticker: Optional[str]
-    company_name: Optional[str]
-    years: list[int]
-    report_type: Optional[str]
-    statement_type: Optional[str]
-    metric_terms: list[str]
-    unit_requested: Optional[str]
-    operation: Optional[str]
-    confidence: float         # 0.0-1.0
+    tickers: list[str] = field(default_factory=list)
+    company_name: Optional[str] = None
+    years: list[int] = field(default_factory=list)
+    report_type: Optional[str] = None
+    statement_type: Optional[str] = None
+    metric_terms: list[str] = field(default_factory=list)
+    unit_requested: Optional[str] = None
+    operation: Optional[str] = None
+    confidence: float = 0.0         # 0.0-1.0
+    is_industry_comparison: bool = False
 
 
 @dataclass
