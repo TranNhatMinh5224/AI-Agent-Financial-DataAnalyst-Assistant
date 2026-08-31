@@ -1,0 +1,14 @@
+﻿row_label_raw,row_label_full,col_0,01/01/2017(VND),Số phải nộptrong năm,Số đã thực nộptrong năm,31/12/2017(VND),numeric__01/01/2017(VND),numeric__Số phải nộptrong năm,numeric__Số đã thực nộptrong năm,numeric__31/12/2017(VND)
+Phải nộp,Phải nộp,Phải nộp,Phải nộp,Phải nộp,Phải nộp,Phải nộp,,,,
+Thuế giá trị gia tăng,Phải nộp > Thuế giá trị gia tăng,Thuế giá trị gia tăng,13.026.909.732,409.478.117.820,398.736.872.089,23.768.155.463,13026909732.0,409478117820.0,398736872089.0,23768155463.0
+Thuế thu nhập doanh nghiệp,Thuế thu nhập doanh nghiệp,Thuế thu nhập doanh nghiệp,-,-,-,-,,,,
+Thuế thu nhập cá nhân,Thuế thu nhập doanh nghiệp > Thuế thu nhập cá nhân,Thuế thu nhập cá nhân,322.299.580,1.715.137.389,1.794.477.776,242.959.193,322299580.0,1715137389.0,1794477776.0,242959193.0
+Thuế tài nguyên,Thuế thu nhập doanh nghiệp > Thuế tài nguyên,Thuế tài nguyên,1.901.042.842,82.824.083.497,74.501.666.209,10.223.460.130,1901042842.0,82824083497.0,74501666209.0,10223460130.0
+"Các khoản phí, lệ phí và các khoản phải nộp khác","Thuế thu nhập doanh nghiệp > Các khoản phí, lệ phí và các khoản phải nộp khác","Các khoản phí, lệ phí và các khoản phải nộp khác",10.197.391.950,29.585.525.168,34.507.963.335,5.274.953.783,10197391950.0,29585525168.0,34507963335.0,5274953783.0
+Cộng,Thuế thu nhập doanh nghiệp > Cộng,Cộng,25.447.644.104,523.602.863.874,509.540.979.409,39.509.528.569,25447644104.0,523602863874.0,509540979409.0,39509528569.0
+Phải thu,Phải thu,Phải thu,Phải thu,Phải thu,Phải thu,Phải thu,,,,
+Thuế giá trị gia tăng,Phải thu > Thuế giá trị gia tăng,Thuế giá trị gia tăng,11.032.075.125,7.549.504.884,12.211.754.502,15.694.324.743,11032075125.0,7549504884.0,12211754502.0,15694324743.0
+Thuế thu nhập doanh nghiệp,Phải thu > Thuế thu nhập doanh nghiệp,Thuế thu nhập doanh nghiệp,413.904.592,-,-,413.904.592,413904592.0,,,413904592.0
+Thuế thu nhập cá nhân,Phải thu > Thuế thu nhập cá nhân,Thuế thu nhập cá nhân,123.715.938,52.507.621,-,71.208.317,123715938.0,52507621.0,,71208317.0
+"Các khoản phí, lệ phí và các khoản phải nộp khác","Phải thu > Các khoản phí, lệ phí và các khoản phải nộp khác","Các khoản phí, lệ phí và các khoản phải nộp khác",2.908.851.839,2.352.000.569,469.626.223,1.026.477.493,2908851839.0,2352000569.0,469626223.0,1026477493.0
+Cộng,Phải thu > Cộng,Cộng,14.478.547.494,9.954.013.074,12.681.380.725,17.205.915.145,14478547494.0,9954013074.0,12681380725.0,17205915145.0

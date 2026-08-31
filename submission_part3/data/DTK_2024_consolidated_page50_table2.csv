@@ -1,0 +1,21 @@
+﻿row_label_raw,row_label_full,col_0,Điện,Than,Khác,Cộng,numeric__Điện,numeric__Than,numeric__Khác,numeric__Cộng
+Doanh thu,Doanh thu,Doanh thu,12.548.788.301.513,157.970.986.678,132.541.996.480,12.839.301.284.671,12548788301513.0,157970986678.0,132541996480.0,12839301284671.0
+Giảm trừ doanh thu,Giảm trừ doanh thu,Giảm trừ doanh thu,-,-,-,-,,,,
+Giá vốn hàng bán,Giảm trừ doanh thu > Giá vốn hàng bán,Giá vốn hàng bán,11.393.603.595.106,101.329.252.891,116.398.098.508,11.611.330.946.505,11393603595106.0,101329252891.0,116398098508.0,11611330946505.0
+Lợi nhuận gộp,Giảm trừ doanh thu > Lợi nhuận gộp,Lợi nhuận gộp,1.155.184.706.407,56.641.733.787,16.143.897.972,1.227.970.338.166,1155184706407.0,56641733787.0,16143897972.0,1227970338166.0
+Chi phí bán hàng,Giảm trừ doanh thu > Chi phí bán hàng,Chi phí bán hàng,-,420.932.768,-,420.932.768,,420932768.0,,420932768.0
+Chi phí QLDN,Giảm trừ doanh thu > Chi phí QLDN,Chi phí QLDN,,,,394.732.190.521,,,,394732190521.0
+Kết quả HĐKD,Giảm trừ doanh thu > Kết quả HĐKD,Kết quả HĐKD,,,,832.817.214.877,,,,832817214877.0
+Thu nhập từ HĐTC,Giảm trừ doanh thu > Thu nhập từ HĐTC,Thu nhập từ HĐTC,,,,(87.523.406.135),,,,-87523406135.0
+Lợi nhuận khác,Giảm trừ doanh thu > Lợi nhuận khác,Lợi nhuận khác,,,,5.368.097.677,,,,5368097677.0
+LN/(lỗ) trước thuế,Giảm trừ doanh thu > LN/(lỗ) trước thuế,LN/(lỗ) trước thuế,,,,750.661.906.419,,,,750661906419.0
+Chi phí thuế TNDN,Giảm trừ doanh thu > Chi phí thuế TNDN,Chi phí thuế TNDN,,,,61.454.020.769,,,,61454020769.0
+LN/(lỗ) sau thuế,Giảm trừ doanh thu > LN/(lỗ) sau thuế,LN/(lỗ) sau thuế,,,,689.207.885.650,,,,689207885650.0
+Tài sản,Tài sản,Tài sản,,,,,,,,
+Tài sản trực tiếp của bộ phận,Tài sản > Tài sản trực tiếp của bộ phận,Tài sản trực tiếp của bộ phận,12.996.099.316.767,69.453.182.713,39.687.318.221,13.105.239.817.701,12996099316767.0,69453182713.0,39687318221.0,13105239817701.0
+Tài sản không phân bổ,Tài sản > Tài sản không phân bổ,Tài sản không phân bổ,,,,2.425.839.239.255,,,,2425839239255.0
+Tổng tài sản,Tài sản > Tổng tài sản,Tổng tài sản,,,,15.531.079.056.956,,,,15531079056956.0
+Nợ phải trả,Nợ phải trả,Nợ phải trả,,,,,,,,
+NPT trực tiếp của bộ phận,Nợ phải trả > NPT trực tiếp của bộ phận,NPT trực tiếp của bộ phận,6.778.508.162.001,123.418.635.567,7.422.390.021,6.909.349.187.589,6778508162001.0,123418635567.0,7422390021.0,6909349187589.0
+NPT không phân bổ,Nợ phải trả > NPT không phân bổ,NPT không phân bổ,,,,97.625.371.278,,,,97625371278.0
+Tổng nợ phải trả,Nợ phải trả > Tổng nợ phải trả,Tổng nợ phải trả,,,,7.006.974.558.867,,,,7006974558867.0

@@ -1,0 +1,1415 @@
+[
+  {
+    "id": 401,
+    "question": "Trong các doanh nghiệp ngành thực phẩm (bao gồm các công ty DBC, MPC, MSN, OGC, QNS) có lợi nhuận sau thuế dương và tỷ lệ CFO trên lợi nhuận sau thuế lớn hơn 0,5 trong cả hai năm 2023 và 2024, doanh nghiệp có tốc độ tăng trưởng doanh thu thuần năm 2024 (so với năm 2023) cao nhất có biên lợi nhuận gộp năm 2024 là bao nhiêu phần trăm?",
+    "answer": 0.0,
+    "relevant_docs": [
+      "MML_2023_consolidated_page53_table2",
+      "HT1_2024_consolidated_page41_table1",
+      "VSC_2024_separate_page44_table0",
+      "VRE_2023_separate_page44_table2",
+      "DCM_2024_separate_page2_table0",
+      "HPG_2024_separate_page33_table0",
+      "MSN_2024_consolidated_page80_table0",
+      "SSB_2024_consolidated_page1_table0",
+      "DCM_2024_consolidated_page2_table0",
+      "SSB_2024_separate_page1_table0",
+      "VGT_2024_consolidated_page73_table1",
+      "MSN_2023_consolidated_page77_table0",
+      "MML_2024_consolidated_page56_table0",
+      "FTS_2023_unknown_page2_table0",
+      "QNS_2024_separate_page31_table0",
+      "VRE_2023_consolidated_page58_table0",
+      "MPC_2023_consolidated_page58_table0"
+    ],
+    "relevant_tables": [
+      "QNS_2024_separate_page31_table0|1",
+      "QNS_2024_separate_page31_table0|1",
+      "FTS_2023_unknown_page2_table0|1",
+      "HT1_2024_consolidated_page41_table1|1",
+      "HT1_2024_consolidated_page41_table1|1",
+      "SSB_2024_separate_page1_table0|1",
+      "SSB_2024_separate_page1_table0|1",
+      "SSB_2024_consolidated_page1_table0|1",
+      "SSB_2024_consolidated_page1_table0|1",
+      "DCM_2024_consolidated_page2_table0|1",
+      "DCM_2024_consolidated_page2_table0|1",
+      "DCM_2024_separate_page2_table0|1",
+      "DCM_2024_separate_page2_table0|1",
+      "FTS_2023_unknown_page2_table0|1",
+      "MML_2023_consolidated_page53_table2|1",
+      "MPC_2023_consolidated_page58_table0|1",
+      "MSN_2023_consolidated_page77_table0|1",
+      "VRE_2023_consolidated_page58_table0|1",
+      "VRE_2023_separate_page44_table2|1",
+      "DCM_2024_consolidated_page2_table0|1",
+      "DCM_2024_consolidated_page2_table0|1",
+      "DCM_2024_separate_page2_table0|1",
+      "DCM_2024_separate_page2_table0|1",
+      "HPG_2024_separate_page33_table0|1",
+      "HPG_2024_separate_page33_table0|1",
+      "MML_2024_consolidated_page56_table0|1",
+      "MML_2024_consolidated_page56_table0|1",
+      "MSN_2024_consolidated_page80_table0|1",
+      "MSN_2024_consolidated_page80_table0|1",
+      "VGT_2024_consolidated_page73_table1|1",
+      "VGT_2024_consolidated_page73_table1|1",
+      "VSC_2024_separate_page44_table0|1"
+    ],
+    "evidence": [
+      {
+        "variable": "df_0",
+        "csv_path": "data/QNS_2024_separate_page31_table0.csv"
+      },
+      {
+        "variable": "df_1",
+        "csv_path": "data/QNS_2024_separate_page31_table0.csv"
+      },
+      {
+        "variable": "df_2",
+        "csv_path": "data/FTS_2023_unknown_page2_table0.csv"
+      },
+      {
+        "variable": "df_3",
+        "csv_path": "data/HT1_2024_consolidated_page41_table1.csv"
+      },
+      {
+        "variable": "df_4",
+        "csv_path": "data/HT1_2024_consolidated_page41_table1.csv"
+      },
+      {
+        "variable": "df_5",
+        "csv_path": "data/SSB_2024_separate_page1_table0.csv"
+      },
+      {
+        "variable": "df_6",
+        "csv_path": "data/SSB_2024_separate_page1_table0.csv"
+      },
+      {
+        "variable": "df_7",
+        "csv_path": "data/SSB_2024_consolidated_page1_table0.csv"
+      },
+      {
+        "variable": "df_8",
+        "csv_path": "data/SSB_2024_consolidated_page1_table0.csv"
+      },
+      {
+        "variable": "df_9",
+        "csv_path": "data/DCM_2024_consolidated_page2_table0.csv"
+      },
+      {
+        "variable": "df_10",
+        "csv_path": "data/DCM_2024_consolidated_page2_table0.csv"
+      },
+      {
+        "variable": "df_11",
+        "csv_path": "data/DCM_2024_separate_page2_table0.csv"
+      },
+      {
+        "variable": "df_12",
+        "csv_path": "data/DCM_2024_separate_page2_table0.csv"
+      },
+      {
+        "variable": "df_13",
+        "csv_path": "data/FTS_2023_unknown_page2_table0.csv"
+      },
+      {
+        "variable": "df_14",
+        "csv_path": "data/MML_2023_consolidated_page53_table2.csv"
+      },
+      {
+        "variable": "df_15",
+        "csv_path": "data/MPC_2023_consolidated_page58_table0.csv"
+      },
+      {
+        "variable": "df_16",
+        "csv_path": "data/MSN_2023_consolidated_page77_table0.csv"
+      },
+      {
+        "variable": "df_17",
+        "csv_path": "data/VRE_2023_consolidated_page58_table0.csv"
+      },
+      {
+        "variable": "df_18",
+        "csv_path": "data/VRE_2023_separate_page44_table2.csv"
+      },
+      {
+        "variable": "df_19",
+        "csv_path": "data/DCM_2024_consolidated_page2_table0.csv"
+      },
+      {
+        "variable": "df_20",
+        "csv_path": "data/DCM_2024_consolidated_page2_table0.csv"
+      },
+      {
+        "variable": "df_21",
+        "csv_path": "data/DCM_2024_separate_page2_table0.csv"
+      },
+      {
+        "variable": "df_22",
+        "csv_path": "data/DCM_2024_separate_page2_table0.csv"
+      },
+      {
+        "variable": "df_23",
+        "csv_path": "data/HPG_2024_separate_page33_table0.csv"
+      },
+      {
+        "variable": "df_24",
+        "csv_path": "data/HPG_2024_separate_page33_table0.csv"
+      },
+      {
+        "variable": "df_25",
+        "csv_path": "data/MML_2024_consolidated_page56_table0.csv"
+      },
+      {
+        "variable": "df_26",
+        "csv_path": "data/MML_2024_consolidated_page56_table0.csv"
+      },
+      {
+        "variable": "df_27",
+        "csv_path": "data/MSN_2024_consolidated_page80_table0.csv"
+      },
+      {
+        "variable": "df_28",
+        "csv_path": "data/MSN_2024_consolidated_page80_table0.csv"
+      },
+      {
+        "variable": "df_29",
+        "csv_path": "data/VGT_2024_consolidated_page73_table1.csv"
+      },
+      {
+        "variable": "df_30",
+        "csv_path": "data/VGT_2024_consolidated_page73_table1.csv"
+      },
+      {
+        "variable": "df_31",
+        "csv_path": "data/VSC_2024_separate_page44_table0.csv"
+      }
+    ],
+    "pandas_query": "import pandas as pd\n\n# Assume grounded cells are predefined variables\n# Example data structure (hypothetical)\ndata = {\n    'Company': ['DBC', 'MPC', 'MSN', 'OGC', 'QNS'],\n    'PostTaxProfit_2023': [444918, 444918, 444918, 444918, 444918],\n    'PostTaxProfit_2024': [4727510, 4727510, 4727510, 4727510, 4727510],\n    'CFO_2023': [17727945657, 17727945657, 17727945657, 17727945657, 17727945657],\n    'CFO_2024': [17727945657, 17727945657, 17727945657, 17727945657, 17727945657],\n    'Revenue_2023': [6984442565181, 6984442565181, 6984442565181, 6984442565181, 6984442565181],\n    'Revenue_2024': [7649715892213, 7649715892213, 7649715892213, 7649715892213, 7649715892213],\n    'GrossProfit_2023': [39177597281, 39177597281, 39177597281, 39177597281, 39177597281],\n    'GrossProfit_2024': [336838497852, 336838497852, 336838497852, 336838497852, 336838497852]\n}\n\ndf = pd.DataFrame(data)\n\n# Filter companies with positive post-tax profit and CFO ratio > [NUM_32] in both years\ncfo_ratio_2023 = df['CFO_2023'] / df['PostTaxProfit_2023']\ncfo_ratio_2024 = df['CFO_2024'] / df['PostTaxProfit_2024']\nfiltered_df = df[(df['PostTaxProfit_2023'] > 0) & (df['PostTaxProfit_2024'] > 0) &\n                 (cfo_ratio_2023 > 1.5) & (cfo_ratio_2024 > 1.5)]\n\n# Calculate revenue growth from [NUM_36] to [NUM_35]\nrevenue_growth = (filtered_df['Revenue_2024'] / filtered_df['Revenue_2023'] - 1) * 100\nfiltered_df['RevenueGrowth'] = revenue_growth\n\n# Find company with highest revenue growth and get its gross profit margin in [NUM_37]\nresult_df = filtered_df.loc[filtered_df['RevenueGrowth'].idxmax()]\nresult = result_df['GrossProfit_2023'] / result_df['Revenue_2023'] * 100\nresult = round(result, 2)"
+  },
+  {
+    "id": 402,
+    "question": "Từ 2023 sang 2024, trong các doanh nghiệp ngành quản lý và phát triển bất động sản (bao gồm các công ty HPX, KBC, NVL, VIC, VPI, VRE), có bao nhiêu doanh nghiệp đồng thời tăng tỷ trọng hàng tồn kho trên tổng tài sản và giảm biên lợi nhuận gộp?",
+    "answer": 0.0,
+    "relevant_docs": [
+      "SAB_2023_separate_page38_table1",
+      "HPG_2023_consolidated_page41_table0",
+      "PLX_2023_consolidated_page44_table0",
+      "MML_2024_consolidated_page34_table1",
+      "PLX_2024_consolidated_page40_table0",
+      "SAB_2023_consolidated_page42_table1",
+      "SAB_2024_consolidated_page42_table1"
+    ],
+    "relevant_tables": [
+      "SAB_2023_separate_page38_table1|1",
+      "SAB_2023_separate_page38_table1|1",
+      "SAB_2023_consolidated_page42_table1|1",
+      "SAB_2023_consolidated_page42_table1|1",
+      "SAB_2023_consolidated_page42_table1|1",
+      "SAB_2023_consolidated_page42_table1|1",
+      "HPG_2023_consolidated_page41_table0|1",
+      "HPG_2023_consolidated_page41_table0|1",
+      "HPG_2023_consolidated_page41_table0|1",
+      "HPG_2023_consolidated_page41_table0|1",
+      "PLX_2023_consolidated_page44_table0|1",
+      "PLX_2023_consolidated_page44_table0|1",
+      "PLX_2023_consolidated_page44_table0|1",
+      "PLX_2023_consolidated_page44_table0|1",
+      "SAB_2024_consolidated_page42_table1|1",
+      "SAB_2024_consolidated_page42_table1|1",
+      "SAB_2024_consolidated_page42_table1|1",
+      "MML_2024_consolidated_page34_table1|1",
+      "PLX_2024_consolidated_page40_table0|1",
+      "PLX_2024_consolidated_page40_table0|1",
+      "PLX_2024_consolidated_page40_table0|1",
+      "PLX_2024_consolidated_page40_table0|1"
+    ],
+    "evidence": [
+      {
+        "variable": "df_0",
+        "csv_path": "data/SAB_2023_separate_page38_table1.csv"
+      },
+      {
+        "variable": "df_1",
+        "csv_path": "data/SAB_2023_separate_page38_table1.csv"
+      },
+      {
+        "variable": "df_2",
+        "csv_path": "data/SAB_2023_consolidated_page42_table1.csv"
+      },
+      {
+        "variable": "df_3",
+        "csv_path": "data/SAB_2023_consolidated_page42_table1.csv"
+      },
+      {
+        "variable": "df_4",
+        "csv_path": "data/SAB_2023_consolidated_page42_table1.csv"
+      },
+      {
+        "variable": "df_5",
+        "csv_path": "data/SAB_2023_consolidated_page42_table1.csv"
+      },
+      {
+        "variable": "df_6",
+        "csv_path": "data/HPG_2023_consolidated_page41_table0.csv"
+      },
+      {
+        "variable": "df_7",
+        "csv_path": "data/HPG_2023_consolidated_page41_table0.csv"
+      },
+      {
+        "variable": "df_8",
+        "csv_path": "data/HPG_2023_consolidated_page41_table0.csv"
+      },
+      {
+        "variable": "df_9",
+        "csv_path": "data/HPG_2023_consolidated_page41_table0.csv"
+      },
+      {
+        "variable": "df_10",
+        "csv_path": "data/PLX_2023_consolidated_page44_table0.csv"
+      },
+      {
+        "variable": "df_11",
+        "csv_path": "data/PLX_2023_consolidated_page44_table0.csv"
+      },
+      {
+        "variable": "df_12",
+        "csv_path": "data/PLX_2023_consolidated_page44_table0.csv"
+      },
+      {
+        "variable": "df_13",
+        "csv_path": "data/PLX_2023_consolidated_page44_table0.csv"
+      },
+      {
+        "variable": "df_14",
+        "csv_path": "data/SAB_2024_consolidated_page42_table1.csv"
+      },
+      {
+        "variable": "df_15",
+        "csv_path": "data/SAB_2024_consolidated_page42_table1.csv"
+      },
+      {
+        "variable": "df_16",
+        "csv_path": "data/SAB_2024_consolidated_page42_table1.csv"
+      },
+      {
+        "variable": "df_17",
+        "csv_path": "data/MML_2024_consolidated_page34_table1.csv"
+      },
+      {
+        "variable": "df_18",
+        "csv_path": "data/PLX_2024_consolidated_page40_table0.csv"
+      },
+      {
+        "variable": "df_19",
+        "csv_path": "data/PLX_2024_consolidated_page40_table0.csv"
+      },
+      {
+        "variable": "df_20",
+        "csv_path": "data/PLX_2024_consolidated_page40_table0.csv"
+      },
+      {
+        "variable": "df_21",
+        "csv_path": "data/PLX_2024_consolidated_page40_table0.csv"
+      }
+    ],
+    "pandas_query": "Okay, let's try to figure out what went wrong here. The user provided a question in Vietnamese about analyzing certain companies in the real estate sector between NUM_22 and NUM_23. The previous code attempt had a syntax error due to an unterminated string literal, which probably means there was a missing closing quote somewhere.\n\nLooking at the user's message, the previous code was a thought process that didn't actually contain any executable Python code. The user's instruction was to generate code that uses pandas to answer the question, but the initial attempt didn't do that. Instead, it was just a narrative of thinking through the problem.\n\nThe error message mentions a syntax error at line 1, which suggests that the code block provided wasn't properly formatted. Since the user's previous code didn't have any actual Python code, maybe the assistant tried to write code but forgot to close a string or had some other syntax issue.\n\nNow, the task is to generate correct Python code using pandas that answers the question. The key points from the question are:\n\n1. Identify companies in the real estate sector: HPX, KBC, NVL, VIC, VPI, VRE.\n2. Check for each company if they increased their inventory ratio (inventory / total assets) and decreased gross profit margin between two periods (probably 2023 and 2024, given the dates in the grounded cells).\n3. Count how many such companies meet both conditions.\n\nThe grounded cells provided have values for different dates. For example, NUM_14 is 31/12/2024, and NUM_15 is 1/1/2024. But the exact mapping of these numbers to specific companies and metrics isn't clear. However, the user might have intended that each company's data is represented in these variables, and the code needs to process them.\n\nAssuming that the grounded cells are structured in a way that each company's inventory and total assets are available for two periods (like 2023 and 2024), and similarly for gross profit and revenue, the code would need to calculate the ratios for each period and compare them.\n\nBut without knowing which NUM_x corresponds to which company and metric, it's challenging. However, the user might have provided the data in a way that the code can process the given NUM values directly.\n\nWait, the user's grounded cells have values like NUM_0 to NUM_21, each with a row path (e.g., \"Hàng hóa\"), column path (dates and possibly other identifiers), and a value. The row path might indicate the metric, like \"Hàng hóa\" could be inventory, and other rows might be total assets, revenue, etc. But without more context, this is speculative.\n\nAlternatively, maybe the user expects that the code uses the given NUM values as data points, but that's unclear. Since the user's previous code didn't have any actual code, the assistant needs to generate the correct code now.\n\nThe correct approach would be to:\n\n1. Create a DataFrame with the given data, mapping each NUM to its corresponding value and date.\n2. Identify which metrics (inventory, total assets, gross profit, revenue) each row path represents.\n3. Calculate the inventory ratio (inventory / total assets) and gross profit margin (gross profit / revenue) for each company in both periods.\n4. Compare the ratios between the two periods to check for increases in inventory ratio and decreases in gross profit margin.\n5. Count the number of companies meeting both conditions.\n\nHowever, without knowing the exact mapping of row paths to metrics and companies, this is difficult. But given the limited information, perhaps the code can be structured to process the given NUM values as data points, assuming that each company has data for both periods.\n\nBut since the user's grounded cells don't clearly map to companies and metrics, the code might not be possible to write accurately. However, the user expects a code block that uses pandas, so the assistant must proceed with the available data.\n\nAssuming that the code needs to process the given NUM values as data points, perhaps the code would look like this:\n\n- Create a DataFrame with columns for company, date, metric, value.\n- For each NUM, assign the corresponding value to the appropriate company and metric.\n- Calculate the ratios for each company in both periods.\n- Compare the ratios and count the companies meeting the criteria.\n\nBut without knowing which NUM corresponds to which company and metric, this is guesswork. However, the user might have intended that the code uses the given NUM values directly, perhaps assuming that the data is already structured in a way that allows for the calculation.\n\nGiven the ambiguity, the assistant must make assumptions. For example, assuming that the inventory values are in certain NUMs and total assets in others, and similarly for gross profit and revenue.\n\nBut given the time constraints, the assistant should generate a code block that uses the provided NUM values, even if the exact mapping isn't clear,"
+  },
+  {
+    "id": 403,
+    "question": "Trong các doanh nghiệp ngành quản lý và phát triển bất động sản (bao gồm các công ty DIG, HPX, KBC, NVL, SCR, VIC, VPI, VRE) trong năm 2024 có hệ số thanh toán hiện hành lớn hơn 1, hệ số dòng tiền hoạt động trên nợ ngắn hạn của doanh nghiệp có hệ số thanh toán nhanh thấp nhất là bao nhiêu lần?",
+    "answer": 0.0,
+    "relevant_docs": [
+      "DIG_2024_consolidated_page43_table0",
+      "DIG_2024_separate_page29_table0",
+      "DIG_2024_consolidated_page35_table0",
+      "DIG_2024_separate_page35_table0",
+      "DIG_2024_separate_page51_table0",
+      "DIG_2024_consolidated_page54_table1",
+      "DIG_2024_consolidated_page50_table0",
+      "DIG_2024_consolidated_page31_table0",
+      "DIG_2024_consolidated_page11_table0",
+      "DIG_2024_consolidated_page14_table0",
+      "DIG_2024_separate_page36_table0",
+      "DIG_2024_separate_page9_table0",
+      "DIG_2024_consolidated_page38_table0",
+      "DIG_2024_consolidated_page27_table0",
+      "DIG_2024_consolidated_page28_table0",
+      "DIG_2024_consolidated_page39_table0",
+      "DIG_2024_separate_page25_table0",
+      "DIG_2024_separate_page49_table1",
+      "DIG_2024_separate_page28_table0",
+      "DIG_2024_consolidated_page55_table0",
+      "DIG_2024_consolidated_page9_table0",
+      "DIG_2024_separate_page38_table0",
+      "DIG_2024_separate_page11_table0",
+      "DIG_2024_separate_page50_table0"
+    ],
+    "relevant_tables": [
+      "DIG_2024_separate_page51_table0|1",
+      "DIG_2024_separate_page51_table0|1",
+      "DIG_2024_separate_page49_table1|1",
+      "DIG_2024_separate_page49_table1|1",
+      "DIG_2024_consolidated_page54_table1|1",
+      "DIG_2024_separate_page11_table0|1",
+      "DIG_2024_separate_page11_table0|1",
+      "DIG_2024_separate_page11_table0|1",
+      "DIG_2024_consolidated_page55_table0|1",
+      "DIG_2024_consolidated_page55_table0|1",
+      "DIG_2024_separate_page50_table0|1",
+      "DIG_2024_separate_page50_table0|1",
+      "DIG_2024_separate_page36_table0|1",
+      "DIG_2024_separate_page36_table0|1",
+      "DIG_2024_separate_page36_table0|1",
+      "DIG_2024_separate_page36_table0|1",
+      "DIG_2024_consolidated_page39_table0|1",
+      "DIG_2024_consolidated_page39_table0|1",
+      "DIG_2024_consolidated_page39_table0|1",
+      "DIG_2024_consolidated_page39_table0|1",
+      "DIG_2024_consolidated_page11_table0|1",
+      "DIG_2024_consolidated_page11_table0|1",
+      "DIG_2024_consolidated_page11_table0|1",
+      "DIG_2024_separate_page35_table0|1",
+      "DIG_2024_separate_page35_table0|1",
+      "DIG_2024_consolidated_page38_table0|1",
+      "DIG_2024_consolidated_page38_table0|1",
+      "DIG_2024_consolidated_page9_table0|1",
+      "DIG_2024_consolidated_page9_table0|1",
+      "DIG_2024_consolidated_page9_table0|1",
+      "DIG_2024_consolidated_page35_table0|1",
+      "DIG_2024_consolidated_page35_table0|1",
+      "DIG_2024_separate_page9_table0|1",
+      "DIG_2024_separate_page9_table0|1",
+      "DIG_2024_separate_page9_table0|1",
+      "DIG_2024_separate_page28_table0|1",
+      "DIG_2024_separate_page28_table0|1",
+      "DIG_2024_consolidated_page31_table0|1",
+      "DIG_2024_consolidated_page31_table0|1",
+      "DIG_2024_consolidated_page43_table0|1",
+      "DIG_2024_consolidated_page43_table0|1",
+      "DIG_2024_separate_page29_table0|1",
+      "DIG_2024_separate_page29_table0|1",
+      "DIG_2024_separate_page38_table0|1",
+      "DIG_2024_separate_page38_table0|1",
+      "DIG_2024_consolidated_page9_table0|1",
+      "DIG_2024_consolidated_page9_table0|1",
+      "DIG_2024_consolidated_page9_table0|1",
+      "DIG_2024_separate_page25_table0|1",
+      "DIG_2024_separate_page25_table0|1",
+      "DIG_2024_consolidated_page50_table0|1",
+      "DIG_2024_consolidated_page50_table0|1",
+      "DIG_2024_separate_page9_table0|1",
+      "DIG_2024_separate_page9_table0|1",
+      "DIG_2024_separate_page9_table0|1",
+      "DIG_2024_consolidated_page28_table0|1",
+      "DIG_2024_consolidated_page28_table0|1",
+      "DIG_2024_consolidated_page14_table0|1",
+      "DIG_2024_consolidated_page14_table0|1",
+      "DIG_2024_consolidated_page14_table0|1",
+      "DIG_2024_consolidated_page27_table0|1"
+    ],
+    "evidence": [
+      {
+        "variable": "df_0",
+        "csv_path": "data/DIG_2024_separate_page51_table0.csv"
+      },
+      {
+        "variable": "df_1",
+        "csv_path": "data/DIG_2024_separate_page51_table0.csv"
+      },
+      {
+        "variable": "df_2",
+        "csv_path": "data/DIG_2024_separate_page49_table1.csv"
+      },
+      {
+        "variable": "df_3",
+        "csv_path": "data/DIG_2024_separate_page49_table1.csv"
+      },
+      {
+        "variable": "df_4",
+        "csv_path": "data/DIG_2024_consolidated_page54_table1.csv"
+      },
+      {
+        "variable": "df_5",
+        "csv_path": "data/DIG_2024_separate_page11_table0.csv"
+      },
+      {
+        "variable": "df_6",
+        "csv_path": "data/DIG_2024_separate_page11_table0.csv"
+      },
+      {
+        "variable": "df_7",
+        "csv_path": "data/DIG_2024_separate_page11_table0.csv"
+      },
+      {
+        "variable": "df_8",
+        "csv_path": "data/DIG_2024_consolidated_page55_table0.csv"
+      },
+      {
+        "variable": "df_9",
+        "csv_path": "data/DIG_2024_consolidated_page55_table0.csv"
+      },
+      {
+        "variable": "df_10",
+        "csv_path": "data/DIG_2024_separate_page50_table0.csv"
+      },
+      {
+        "variable": "df_11",
+        "csv_path": "data/DIG_2024_separate_page50_table0.csv"
+      },
+      {
+        "variable": "df_12",
+        "csv_path": "data/DIG_2024_separate_page36_table0.csv"
+      },
+      {
+        "variable": "df_13",
+        "csv_path": "data/DIG_2024_separate_page36_table0.csv"
+      },
+      {
+        "variable": "df_14",
+        "csv_path": "data/DIG_2024_separate_page36_table0.csv"
+      },
+      {
+        "variable": "df_15",
+        "csv_path": "data/DIG_2024_separate_page36_table0.csv"
+      },
+      {
+        "variable": "df_16",
+        "csv_path": "data/DIG_2024_consolidated_page39_table0.csv"
+      },
+      {
+        "variable": "df_17",
+        "csv_path": "data/DIG_2024_consolidated_page39_table0.csv"
+      },
+      {
+        "variable": "df_18",
+        "csv_path": "data/DIG_2024_consolidated_page39_table0.csv"
+      },
+      {
+        "variable": "df_19",
+        "csv_path": "data/DIG_2024_consolidated_page39_table0.csv"
+      },
+      {
+        "variable": "df_20",
+        "csv_path": "data/DIG_2024_consolidated_page11_table0.csv"
+      },
+      {
+        "variable": "df_21",
+        "csv_path": "data/DIG_2024_consolidated_page11_table0.csv"
+      },
+      {
+        "variable": "df_22",
+        "csv_path": "data/DIG_2024_consolidated_page11_table0.csv"
+      },
+      {
+        "variable": "df_23",
+        "csv_path": "data/DIG_2024_separate_page35_table0.csv"
+      },
+      {
+        "variable": "df_24",
+        "csv_path": "data/DIG_2024_separate_page35_table0.csv"
+      },
+      {
+        "variable": "df_25",
+        "csv_path": "data/DIG_2024_consolidated_page38_table0.csv"
+      },
+      {
+        "variable": "df_26",
+        "csv_path": "data/DIG_2024_consolidated_page38_table0.csv"
+      },
+      {
+        "variable": "df_27",
+        "csv_path": "data/DIG_2024_consolidated_page9_table0.csv"
+      },
+      {
+        "variable": "df_28",
+        "csv_path": "data/DIG_2024_consolidated_page9_table0.csv"
+      },
+      {
+        "variable": "df_29",
+        "csv_path": "data/DIG_2024_consolidated_page9_table0.csv"
+      },
+      {
+        "variable": "df_30",
+        "csv_path": "data/DIG_2024_consolidated_page35_table0.csv"
+      },
+      {
+        "variable": "df_31",
+        "csv_path": "data/DIG_2024_consolidated_page35_table0.csv"
+      },
+      {
+        "variable": "df_32",
+        "csv_path": "data/DIG_2024_separate_page9_table0.csv"
+      },
+      {
+        "variable": "df_33",
+        "csv_path": "data/DIG_2024_separate_page9_table0.csv"
+      },
+      {
+        "variable": "df_34",
+        "csv_path": "data/DIG_2024_separate_page9_table0.csv"
+      },
+      {
+        "variable": "df_35",
+        "csv_path": "data/DIG_2024_separate_page28_table0.csv"
+      },
+      {
+        "variable": "df_36",
+        "csv_path": "data/DIG_2024_separate_page28_table0.csv"
+      },
+      {
+        "variable": "df_37",
+        "csv_path": "data/DIG_2024_consolidated_page31_table0.csv"
+      },
+      {
+        "variable": "df_38",
+        "csv_path": "data/DIG_2024_consolidated_page31_table0.csv"
+      },
+      {
+        "variable": "df_39",
+        "csv_path": "data/DIG_2024_consolidated_page43_table0.csv"
+      },
+      {
+        "variable": "df_40",
+        "csv_path": "data/DIG_2024_consolidated_page43_table0.csv"
+      },
+      {
+        "variable": "df_41",
+        "csv_path": "data/DIG_2024_separate_page29_table0.csv"
+      },
+      {
+        "variable": "df_42",
+        "csv_path": "data/DIG_2024_separate_page29_table0.csv"
+      },
+      {
+        "variable": "df_43",
+        "csv_path": "data/DIG_2024_separate_page38_table0.csv"
+      },
+      {
+        "variable": "df_44",
+        "csv_path": "data/DIG_2024_separate_page38_table0.csv"
+      },
+      {
+        "variable": "df_45",
+        "csv_path": "data/DIG_2024_consolidated_page9_table0.csv"
+      },
+      {
+        "variable": "df_46",
+        "csv_path": "data/DIG_2024_consolidated_page9_table0.csv"
+      },
+      {
+        "variable": "df_47",
+        "csv_path": "data/DIG_2024_consolidated_page9_table0.csv"
+      },
+      {
+        "variable": "df_48",
+        "csv_path": "data/DIG_2024_separate_page25_table0.csv"
+      },
+      {
+        "variable": "df_49",
+        "csv_path": "data/DIG_2024_separate_page25_table0.csv"
+      },
+      {
+        "variable": "df_50",
+        "csv_path": "data/DIG_2024_consolidated_page50_table0.csv"
+      },
+      {
+        "variable": "df_51",
+        "csv_path": "data/DIG_2024_consolidated_page50_table0.csv"
+      },
+      {
+        "variable": "df_52",
+        "csv_path": "data/DIG_2024_separate_page9_table0.csv"
+      },
+      {
+        "variable": "df_53",
+        "csv_path": "data/DIG_2024_separate_page9_table0.csv"
+      },
+      {
+        "variable": "df_54",
+        "csv_path": "data/DIG_2024_separate_page9_table0.csv"
+      },
+      {
+        "variable": "df_55",
+        "csv_path": "data/DIG_2024_consolidated_page28_table0.csv"
+      },
+      {
+        "variable": "df_56",
+        "csv_path": "data/DIG_2024_consolidated_page28_table0.csv"
+      },
+      {
+        "variable": "df_57",
+        "csv_path": "data/DIG_2024_consolidated_page14_table0.csv"
+      },
+      {
+        "variable": "df_58",
+        "csv_path": "data/DIG_2024_consolidated_page14_table0.csv"
+      },
+      {
+        "variable": "df_59",
+        "csv_path": "data/DIG_2024_consolidated_page14_table0.csv"
+      },
+      {
+        "variable": "df_60",
+        "csv_path": "data/DIG_2024_consolidated_page27_table0.csv"
+      }
+    ],
+    "pandas_query": "Okay, let's see what the problem is here. The user provided a Python code snippet that had a syntax error. The error message points to line 13, which is the line with 'current_ratio ='. The issue is that the line is incomplete; there's no expression on the right side of the equals sign. The code was trying to calculate the current ratio but didn't finish the assignment.\n\nFirst, I need to fix that syntax error. The current_ratio should be calculated as current_assets divided by current_liabilities. But wait, looking at the variables, current_assets is cash_and_equivalents plus accounts_receivable. However, the code might be missing other components of current assets. For example, prepaid expenses are part of current assets as well. The original code added cash and receivables but not prepaid expenses. But the user's previous code might have intended to include them. Let me check the variables.\n\nIn the previous code, the user included cash_and_equivalents, accounts_receivable, and prepaid_expenses. But in the calculation of current_assets, they only added cash and receivables. That's a mistake. The correct current assets should include cash, accounts receivable, and prepaid expenses. So the current_assets calculation is missing the prepaid_expenses.\n\nBut the error is not about that; it's about the incomplete line. So the immediate fix is to complete the current_ratio line. However, the user's question is about the quick ratio, which is (cash + equivalents + accounts receivable) divided by current liabilities. Wait, the question mentions \"hệ số thanh toán nhanh\" which is the quick ratio. The quick ratio typically includes cash, marketable securities, and accounts receivable, excluding inventory and other current assets. But in the given data, the user has cash_and_equivalents, accounts_receivable, and prepaid_expenses. Prepaid expenses are not part of the quick ratio. So maybe the code is incorrectly including prepaid expenses.\n\nBut the user's previous code added cash_and_equivalents + accounts_receivable, which is correct for the quick ratio. However, the code then calculated current_assets as that sum, but then the current_ratio is current_assets / current_liabilities. But the user's question is about the quick ratio, not the current ratio. Wait, the original question says: \"hệ số dòng tiền hoạt động trên nợ ngắn hạn của doanh nghiệp có hệ số thanh toán nhanh thấp nhất là bao nhiêu lần?\"\n\nWait, the question is asking for the quick ratio (hệ số thanh toán nhanh) of the company with the lowest current ratio (hệ số thanh toán hiện hành) that is greater than [NUM_62]. Wait, the original question is a bit complex. Let me parse it again.\n\nThe question is: Among real estate management and development companies (including DIG, HPX, KBC, NVL, SCR, VIC, VPI, VRE) in the year [NUM_61], those with a current ratio (hệ số thanh toán hiện hành) greater than [NUM_62], what is the lowest quick ratio (hệ số thanh toán nhanh) of the company?\n\nBut the user's code seems to be trying to calculate the current ratio and quick ratio. However, the previous code had a syntax error because the current_ratio line was incomplete. The user's code was trying to compute the current ratio but didn't finish the assignment. So the first fix is to complete that line.\n\nBut looking at the variables, the current_liabilities is set to 7595187688031.0 (NUM_6), which is the short-term debt. The current_assets is cash_and_equivalents (785165517804.0) plus accounts_receivable (414616436966.0) which equals 1,200,000,000,000 (approx). Then current_ratio would be that divided by current_liabilities. But the user's code didn't assign that. So the line should be current_ratio = current_assets / current_liabilities.\n\nBut the user's code also has a variable prepaid_expenses, which is part of current assets but not part of the quick ratio. However, the code's current_assets includes it? Wait, no. In the previous code, current_assets is calculated as cash_and_equivalents + accounts_receivable. The prepaid_expenses is a separate variable but not added to current_assets. So that's correct for the quick ratio. But the current ratio would include all current assets, including prepaid expenses. However, the user's code is not calculating the current ratio correctly. But the error is in the syntax, not the logic.\n\nSo the immediate fix is to complete the current_ratio line. Then, the code would compute the current"
+  },
+  {
+    "id": 404,
+    "question": "Năm 2024, trong các doanh nghiệp ngành hóa chất (bao gồm các công ty DCM, DPM, GVR), nhóm có hệ số nợ phải trả trên vốn chủ sở hữu cao hơn trung vị của nhóm chiếm bao nhiêu phần trăm tổng chi phí lãi vay của cả nhóm?",
+    "answer": 0.0,
+    "relevant_docs": [
+      "DCM_2024_consolidated_page42_table0",
+      "DCM_2024_separate_page3_table0",
+      "DCM_2024_consolidated_page32_table1",
+      "DCM_2024_separate_page36_table0",
+      "DCM_2024_separate_page29_table0",
+      "DCM_2024_separate_page11_table0",
+      "DCM_2024_consolidated_page37_table0",
+      "DCM_2024_consolidated_page25_table0",
+      "DCM_2024_consolidated_page40_table0",
+      "DCM_2024_consolidated_page2_table0",
+      "DCM_2024_separate_page42_table0",
+      "DCM_2024_consolidated_page36_table0",
+      "DCM_2024_consolidated_page48_table0",
+      "DCM_2024_separate_page31_table0",
+      "DCM_2024_consolidated_page11_table0",
+      "DCM_2024_separate_page28_table2",
+      "DCM_2024_separate_page27_table2",
+      "DCM_2024_consolidated_page34_table0",
+      "DCM_2024_consolidated_page35_table0",
+      "DCM_2024_consolidated_page31_table2",
+      "DCM_2024_consolidated_page41_table0",
+      "DCM_2024_consolidated_page10_table0",
+      "DCM_2024_consolidated_page3_table0",
+      "DCM_2024_separate_page30_table1",
+      "DCM_2024_separate_page2_table0",
+      "DCM_2024_separate_page43_table0",
+      "DCM_2024_separate_page35_table0",
+      "DCM_2024_separate_page31_table1"
+    ],
+    "relevant_tables": [
+      "DCM_2024_consolidated_page35_table0|1",
+      "DCM_2024_consolidated_page35_table0|1",
+      "DCM_2024_separate_page35_table0|1",
+      "DCM_2024_consolidated_page41_table0|1",
+      "DCM_2024_consolidated_page2_table0|1",
+      "DCM_2024_separate_page31_table1|1",
+      "DCM_2024_separate_page31_table1|1",
+      "DCM_2024_separate_page2_table0|1",
+      "DCM_2024_consolidated_page36_table0|1",
+      "DCM_2024_consolidated_page36_table0|1",
+      "DCM_2024_consolidated_page36_table0|1",
+      "DCM_2024_consolidated_page36_table0|1",
+      "DCM_2024_consolidated_page10_table0|1",
+      "DCM_2024_consolidated_page10_table0|1",
+      "DCM_2024_consolidated_page10_table0|1",
+      "DCM_2024_consolidated_page10_table0|1",
+      "DCM_2024_separate_page36_table0|1",
+      "DCM_2024_consolidated_page42_table0|1",
+      "DCM_2024_consolidated_page3_table0|1",
+      "DCM_2024_consolidated_page3_table0|1",
+      "DCM_2024_consolidated_page3_table0|1",
+      "DCM_2024_separate_page3_table0|1",
+      "DCM_2024_separate_page3_table0|1",
+      "DCM_2024_separate_page3_table0|1",
+      "DCM_2024_consolidated_page34_table0|1",
+      "DCM_2024_consolidated_page34_table0|1",
+      "DCM_2024_consolidated_page34_table0|1",
+      "DCM_2024_consolidated_page34_table0|1",
+      "DCM_2024_separate_page11_table0|1",
+      "DCM_2024_separate_page11_table0|1",
+      "DCM_2024_separate_page11_table0|1",
+      "DCM_2024_consolidated_page11_table0|1",
+      "DCM_2024_consolidated_page11_table0|1",
+      "DCM_2024_consolidated_page11_table0|1",
+      "DCM_2024_consolidated_page2_table0|1",
+      "DCM_2024_separate_page2_table0|1",
+      "DCM_2024_consolidated_page10_table0|1",
+      "DCM_2024_consolidated_page10_table0|1",
+      "DCM_2024_consolidated_page10_table0|1",
+      "DCM_2024_consolidated_page3_table0|1",
+      "DCM_2024_consolidated_page3_table0|1",
+      "DCM_2024_consolidated_page3_table0|1",
+      "DCM_2024_separate_page3_table0|1",
+      "DCM_2024_separate_page3_table0|1",
+      "DCM_2024_separate_page3_table0|1",
+      "DCM_2024_separate_page11_table0|1",
+      "DCM_2024_separate_page11_table0|1",
+      "DCM_2024_separate_page11_table0|1",
+      "DCM_2024_consolidated_page11_table0|1",
+      "DCM_2024_consolidated_page11_table0|1",
+      "DCM_2024_consolidated_page11_table0|1",
+      "DCM_2024_separate_page31_table0|1",
+      "DCM_2024_separate_page27_table2|1",
+      "DCM_2024_separate_page27_table2|1",
+      "DCM_2024_separate_page42_table0|1",
+      "DCM_2024_separate_page42_table0|1",
+      "DCM_2024_separate_page30_table1|1",
+      "DCM_2024_consolidated_page37_table0|1",
+      "DCM_2024_consolidated_page37_table0|1",
+      "DCM_2024_consolidated_page35_table0|1",
+      "DCM_2024_consolidated_page35_table0|1",
+      "DCM_2024_consolidated_page31_table2|1",
+      "DCM_2024_consolidated_page31_table2|1",
+      "DCM_2024_consolidated_page32_table1|1",
+      "DCM_2024_consolidated_page32_table1|1",
+      "DCM_2024_separate_page43_table0|1",
+      "DCM_2024_separate_page43_table0|1",
+      "DCM_2024_consolidated_page48_table0|1",
+      "DCM_2024_consolidated_page48_table0|1",
+      "DCM_2024_separate_page28_table2|1",
+      "DCM_2024_separate_page28_table2|1",
+      "DCM_2024_consolidated_page2_table0|1",
+      "DCM_2024_consolidated_page25_table0|1",
+      "DCM_2024_separate_page31_table1|1",
+      "DCM_2024_separate_page31_table1|1",
+      "DCM_2024_separate_page2_table0|1",
+      "DCM_2024_consolidated_page40_table0|1",
+      "DCM_2024_consolidated_page40_table0|1",
+      "DCM_2024_consolidated_page36_table0|1",
+      "DCM_2024_consolidated_page36_table0|1",
+      "DCM_2024_consolidated_page10_table0|1",
+      "DCM_2024_consolidated_page10_table0|1",
+      "DCM_2024_consolidated_page10_table0|1",
+      "DCM_2024_consolidated_page10_table0|1",
+      "DCM_2024_separate_page29_table0|1",
+      "DCM_2024_separate_page29_table0|1",
+      "DCM_2024_consolidated_page3_table0|1",
+      "DCM_2024_consolidated_page3_table0|1",
+      "DCM_2024_consolidated_page3_table0|1",
+      "DCM_2024_separate_page3_table0|1",
+      "DCM_2024_separate_page3_table0|1",
+      "DCM_2024_separate_page3_table0|1",
+      "DCM_2024_separate_page11_table0|1",
+      "DCM_2024_separate_page11_table0|1",
+      "DCM_2024_separate_page11_table0|1",
+      "DCM_2024_consolidated_page11_table0|1",
+      "DCM_2024_consolidated_page11_table0|1",
+      "DCM_2024_consolidated_page11_table0|1"
+    ],
+    "evidence": [
+      {
+        "variable": "df_0",
+        "csv_path": "data/DCM_2024_consolidated_page35_table0.csv"
+      },
+      {
+        "variable": "df_1",
+        "csv_path": "data/DCM_2024_consolidated_page35_table0.csv"
+      },
+      {
+        "variable": "df_2",
+        "csv_path": "data/DCM_2024_separate_page35_table0.csv"
+      },
+      {
+        "variable": "df_3",
+        "csv_path": "data/DCM_2024_consolidated_page41_table0.csv"
+      },
+      {
+        "variable": "df_4",
+        "csv_path": "data/DCM_2024_consolidated_page2_table0.csv"
+      },
+      {
+        "variable": "df_5",
+        "csv_path": "data/DCM_2024_separate_page31_table1.csv"
+      },
+      {
+        "variable": "df_6",
+        "csv_path": "data/DCM_2024_separate_page31_table1.csv"
+      },
+      {
+        "variable": "df_7",
+        "csv_path": "data/DCM_2024_separate_page2_table0.csv"
+      },
+      {
+        "variable": "df_8",
+        "csv_path": "data/DCM_2024_consolidated_page36_table0.csv"
+      },
+      {
+        "variable": "df_9",
+        "csv_path": "data/DCM_2024_consolidated_page36_table0.csv"
+      },
+      {
+        "variable": "df_10",
+        "csv_path": "data/DCM_2024_consolidated_page36_table0.csv"
+      },
+      {
+        "variable": "df_11",
+        "csv_path": "data/DCM_2024_consolidated_page36_table0.csv"
+      },
+      {
+        "variable": "df_12",
+        "csv_path": "data/DCM_2024_consolidated_page10_table0.csv"
+      },
+      {
+        "variable": "df_13",
+        "csv_path": "data/DCM_2024_consolidated_page10_table0.csv"
+      },
+      {
+        "variable": "df_14",
+        "csv_path": "data/DCM_2024_consolidated_page10_table0.csv"
+      },
+      {
+        "variable": "df_15",
+        "csv_path": "data/DCM_2024_consolidated_page10_table0.csv"
+      },
+      {
+        "variable": "df_16",
+        "csv_path": "data/DCM_2024_separate_page36_table0.csv"
+      },
+      {
+        "variable": "df_17",
+        "csv_path": "data/DCM_2024_consolidated_page42_table0.csv"
+      },
+      {
+        "variable": "df_18",
+        "csv_path": "data/DCM_2024_consolidated_page3_table0.csv"
+      },
+      {
+        "variable": "df_19",
+        "csv_path": "data/DCM_2024_consolidated_page3_table0.csv"
+      },
+      {
+        "variable": "df_20",
+        "csv_path": "data/DCM_2024_consolidated_page3_table0.csv"
+      },
+      {
+        "variable": "df_21",
+        "csv_path": "data/DCM_2024_separate_page3_table0.csv"
+      },
+      {
+        "variable": "df_22",
+        "csv_path": "data/DCM_2024_separate_page3_table0.csv"
+      },
+      {
+        "variable": "df_23",
+        "csv_path": "data/DCM_2024_separate_page3_table0.csv"
+      },
+      {
+        "variable": "df_24",
+        "csv_path": "data/DCM_2024_consolidated_page34_table0.csv"
+      },
+      {
+        "variable": "df_25",
+        "csv_path": "data/DCM_2024_consolidated_page34_table0.csv"
+      },
+      {
+        "variable": "df_26",
+        "csv_path": "data/DCM_2024_consolidated_page34_table0.csv"
+      },
+      {
+        "variable": "df_27",
+        "csv_path": "data/DCM_2024_consolidated_page34_table0.csv"
+      },
+      {
+        "variable": "df_28",
+        "csv_path": "data/DCM_2024_separate_page11_table0.csv"
+      },
+      {
+        "variable": "df_29",
+        "csv_path": "data/DCM_2024_separate_page11_table0.csv"
+      },
+      {
+        "variable": "df_30",
+        "csv_path": "data/DCM_2024_separate_page11_table0.csv"
+      },
+      {
+        "variable": "df_31",
+        "csv_path": "data/DCM_2024_consolidated_page11_table0.csv"
+      },
+      {
+        "variable": "df_32",
+        "csv_path": "data/DCM_2024_consolidated_page11_table0.csv"
+      },
+      {
+        "variable": "df_33",
+        "csv_path": "data/DCM_2024_consolidated_page11_table0.csv"
+      },
+      {
+        "variable": "df_34",
+        "csv_path": "data/DCM_2024_consolidated_page2_table0.csv"
+      },
+      {
+        "variable": "df_35",
+        "csv_path": "data/DCM_2024_separate_page2_table0.csv"
+      },
+      {
+        "variable": "df_36",
+        "csv_path": "data/DCM_2024_consolidated_page10_table0.csv"
+      },
+      {
+        "variable": "df_37",
+        "csv_path": "data/DCM_2024_consolidated_page10_table0.csv"
+      },
+      {
+        "variable": "df_38",
+        "csv_path": "data/DCM_2024_consolidated_page10_table0.csv"
+      },
+      {
+        "variable": "df_39",
+        "csv_path": "data/DCM_2024_consolidated_page3_table0.csv"
+      },
+      {
+        "variable": "df_40",
+        "csv_path": "data/DCM_2024_consolidated_page3_table0.csv"
+      },
+      {
+        "variable": "df_41",
+        "csv_path": "data/DCM_2024_consolidated_page3_table0.csv"
+      },
+      {
+        "variable": "df_42",
+        "csv_path": "data/DCM_2024_separate_page3_table0.csv"
+      },
+      {
+        "variable": "df_43",
+        "csv_path": "data/DCM_2024_separate_page3_table0.csv"
+      },
+      {
+        "variable": "df_44",
+        "csv_path": "data/DCM_2024_separate_page3_table0.csv"
+      },
+      {
+        "variable": "df_45",
+        "csv_path": "data/DCM_2024_separate_page11_table0.csv"
+      },
+      {
+        "variable": "df_46",
+        "csv_path": "data/DCM_2024_separate_page11_table0.csv"
+      },
+      {
+        "variable": "df_47",
+        "csv_path": "data/DCM_2024_separate_page11_table0.csv"
+      },
+      {
+        "variable": "df_48",
+        "csv_path": "data/DCM_2024_consolidated_page11_table0.csv"
+      },
+      {
+        "variable": "df_49",
+        "csv_path": "data/DCM_2024_consolidated_page11_table0.csv"
+      },
+      {
+        "variable": "df_50",
+        "csv_path": "data/DCM_2024_consolidated_page11_table0.csv"
+      },
+      {
+        "variable": "df_51",
+        "csv_path": "data/DCM_2024_separate_page31_table0.csv"
+      },
+      {
+        "variable": "df_52",
+        "csv_path": "data/DCM_2024_separate_page27_table2.csv"
+      },
+      {
+        "variable": "df_53",
+        "csv_path": "data/DCM_2024_separate_page27_table2.csv"
+      },
+      {
+        "variable": "df_54",
+        "csv_path": "data/DCM_2024_separate_page42_table0.csv"
+      },
+      {
+        "variable": "df_55",
+        "csv_path": "data/DCM_2024_separate_page42_table0.csv"
+      },
+      {
+        "variable": "df_56",
+        "csv_path": "data/DCM_2024_separate_page30_table1.csv"
+      },
+      {
+        "variable": "df_57",
+        "csv_path": "data/DCM_2024_consolidated_page37_table0.csv"
+      },
+      {
+        "variable": "df_58",
+        "csv_path": "data/DCM_2024_consolidated_page37_table0.csv"
+      },
+      {
+        "variable": "df_59",
+        "csv_path": "data/DCM_2024_consolidated_page35_table0.csv"
+      },
+      {
+        "variable": "df_60",
+        "csv_path": "data/DCM_2024_consolidated_page35_table0.csv"
+      },
+      {
+        "variable": "df_61",
+        "csv_path": "data/DCM_2024_consolidated_page31_table2.csv"
+      },
+      {
+        "variable": "df_62",
+        "csv_path": "data/DCM_2024_consolidated_page31_table2.csv"
+      },
+      {
+        "variable": "df_63",
+        "csv_path": "data/DCM_2024_consolidated_page32_table1.csv"
+      },
+      {
+        "variable": "df_64",
+        "csv_path": "data/DCM_2024_consolidated_page32_table1.csv"
+      },
+      {
+        "variable": "df_65",
+        "csv_path": "data/DCM_2024_separate_page43_table0.csv"
+      },
+      {
+        "variable": "df_66",
+        "csv_path": "data/DCM_2024_separate_page43_table0.csv"
+      },
+      {
+        "variable": "df_67",
+        "csv_path": "data/DCM_2024_consolidated_page48_table0.csv"
+      },
+      {
+        "variable": "df_68",
+        "csv_path": "data/DCM_2024_consolidated_page48_table0.csv"
+      },
+      {
+        "variable": "df_69",
+        "csv_path": "data/DCM_2024_separate_page28_table2.csv"
+      },
+      {
+        "variable": "df_70",
+        "csv_path": "data/DCM_2024_separate_page28_table2.csv"
+      },
+      {
+        "variable": "df_71",
+        "csv_path": "data/DCM_2024_consolidated_page2_table0.csv"
+      },
+      {
+        "variable": "df_72",
+        "csv_path": "data/DCM_2024_consolidated_page25_table0.csv"
+      },
+      {
+        "variable": "df_73",
+        "csv_path": "data/DCM_2024_separate_page31_table1.csv"
+      },
+      {
+        "variable": "df_74",
+        "csv_path": "data/DCM_2024_separate_page31_table1.csv"
+      },
+      {
+        "variable": "df_75",
+        "csv_path": "data/DCM_2024_separate_page2_table0.csv"
+      },
+      {
+        "variable": "df_76",
+        "csv_path": "data/DCM_2024_consolidated_page40_table0.csv"
+      },
+      {
+        "variable": "df_77",
+        "csv_path": "data/DCM_2024_consolidated_page40_table0.csv"
+      },
+      {
+        "variable": "df_78",
+        "csv_path": "data/DCM_2024_consolidated_page36_table0.csv"
+      },
+      {
+        "variable": "df_79",
+        "csv_path": "data/DCM_2024_consolidated_page36_table0.csv"
+      },
+      {
+        "variable": "df_80",
+        "csv_path": "data/DCM_2024_consolidated_page10_table0.csv"
+      },
+      {
+        "variable": "df_81",
+        "csv_path": "data/DCM_2024_consolidated_page10_table0.csv"
+      },
+      {
+        "variable": "df_82",
+        "csv_path": "data/DCM_2024_consolidated_page10_table0.csv"
+      },
+      {
+        "variable": "df_83",
+        "csv_path": "data/DCM_2024_consolidated_page10_table0.csv"
+      },
+      {
+        "variable": "df_84",
+        "csv_path": "data/DCM_2024_separate_page29_table0.csv"
+      },
+      {
+        "variable": "df_85",
+        "csv_path": "data/DCM_2024_separate_page29_table0.csv"
+      },
+      {
+        "variable": "df_86",
+        "csv_path": "data/DCM_2024_consolidated_page3_table0.csv"
+      },
+      {
+        "variable": "df_87",
+        "csv_path": "data/DCM_2024_consolidated_page3_table0.csv"
+      },
+      {
+        "variable": "df_88",
+        "csv_path": "data/DCM_2024_consolidated_page3_table0.csv"
+      },
+      {
+        "variable": "df_89",
+        "csv_path": "data/DCM_2024_separate_page3_table0.csv"
+      },
+      {
+        "variable": "df_90",
+        "csv_path": "data/DCM_2024_separate_page3_table0.csv"
+      },
+      {
+        "variable": "df_91",
+        "csv_path": "data/DCM_2024_separate_page3_table0.csv"
+      },
+      {
+        "variable": "df_92",
+        "csv_path": "data/DCM_2024_separate_page11_table0.csv"
+      },
+      {
+        "variable": "df_93",
+        "csv_path": "data/DCM_2024_separate_page11_table0.csv"
+      },
+      {
+        "variable": "df_94",
+        "csv_path": "data/DCM_2024_separate_page11_table0.csv"
+      },
+      {
+        "variable": "df_95",
+        "csv_path": "data/DCM_2024_consolidated_page11_table0.csv"
+      },
+      {
+        "variable": "df_96",
+        "csv_path": "data/DCM_2024_consolidated_page11_table0.csv"
+      },
+      {
+        "variable": "df_97",
+        "csv_path": "data/DCM_2024_consolidated_page11_table0.csv"
+      }
+    ],
+    "pandas_query": "Okay, I need to fix the syntax error in the previous code. The error message says there's an unterminated string literal, which probably means there's a missing closing quote somewhere. Let me look at the code again.\n\nThe user's previous code was trying to calculate the debt-to-equity ratio for chemical companies and then find the percentage of total interest expense for those with a ratio above the median. But the code had variables like debt_values and equity_values that weren't defined, leading to an error.\n\nWait, the user's code might have had a string that wasn't properly closed. For example, if there was a comment or a string that didn't end with a quote. Let me check the code they provided.\n\nLooking at the previous code, the user wrote:\n\n```python\nOkay, I need to fix the error where 'debt_values' is not defined. Let me look at the previous code again. The user's code tried to calculate the debt-to-equity ratios but didn't have the actual data for debt and equity. The problem is that the code assumes variables like debt_values and equity_values exist, but they aren't defined anywhere.\n\nLooking at the grounded cells provided, I need to find the relevant data points. The question is about the chemical industry companies (DCM, DPM, GVR), but the grounded cells don't mention these companies directly. However, there are entries related to debt and interest expenses.\n\nWait, the user's code used NUM_2 which is -72492708990.0 for total interest expense. But looking at the grounded cells, there are multiple entries for Chi phí tài chính (financial expenses) like NUM_2, NUM_3, NUM_16, NUM_17, etc. Also, for debt, there's the total debt (nợ phải trả) values like NUM_76 (-41802805639.0) and NUM_77 (-33657130893.0). But these numbers are negative, which might be a problem because debt should be positive. Maybe the negative sign is just formatting?\n\nBut the main issue is that the previous code didn't have the debt and equity values. Since the user's code is supposed to use the grounded cells, I need to extract the necessary data from those cells.\n\nWait, the question is about the chemical industry companies. However, the grounded cells don't have explicit mentions of DCM, DPM, GVR. But maybe the data is in the cells related to \"C.\" (which has mã số 300.0) and other sections. For example, NUM_29, NUM_30, NUM_32, NUM_33, etc., which are under section C. with mã số 300.0. Also, there's a section I. with mã số 110.0 (NUM_12, NUM_14, etc.), which might be equity (vốn chủ sở hữu).\n\nSo, perhaps the equity values are in section I. (vốn chủ sở hữu) and the debt values are in the total debt (nợ phải trả) sections. For example, NUM_76 is total debt at the end of the year (-41802805639.0), and NUM_14 is equity (1903248325989.0). But there are multiple entries for debt and equity. How to determine which ones to use?\n\nThe problem is that the original code didn't have the actual data, so I need to simulate that using the grounded cells. Let me think: the user's code was using NUM_2 as total interest expense, which is -72492708990.0. But in the grounded cells, there are other entries for financial expenses, like NUM_16 (-27099798480.0) and NUM_17 (-27372487527.0). Maybe the correct total interest expense is the sum of these, but the user's code used NUM_2. However, the original question might have a specific year, but the user hasn't specified which year. The question mentions \"năm [NUM_98]\" but that's not in the grounded cells. Maybe that's a placeholder.\n\nBut regardless, the main error is that the code didn't have debt_values and equity_values. So I need to define those variables using the grounded cells. Let's assume that the debt values are from the total debt (nợ phải trả) and equity values are from the capital (vốn chủ sở hữu) sections.\n\nLooking at the grounded cells:\n\nFor equity (vốn chủ sở hữu), there's I. with mã số 110.0, and the số cuối năm is NUM_1"
+  },
+  {
+    "id": 405,
+    "question": "Trong giai đoạn 2022-2024 của VIC, xét các năm doanh thu thuần tăng so với năm liền trước, ROE của năm có vòng quay tổng tài sản theo tài sản bình quân cao nhất là bao nhiêu phần trăm?",
+    "answer": 0.0,
+    "relevant_docs": [
+      "VIC_2024_separate_page73_table0",
+      "VIC_2024_consolidated_page105_table0",
+      "VIC_2022_consolidated_page91_table0",
+      "VIC_2022_separate_page63_table0",
+      "VIC_2022_separate_page63_table1",
+      "VIC_2024_separate_page73_table1",
+      "VIC_2022_consolidated_page90_table0"
+    ],
+    "relevant_tables": [
+      "VIC_2022_separate_page63_table0|1",
+      "VIC_2022_separate_page63_table0|1",
+      "VIC_2022_separate_page63_table0|1",
+      "VIC_2022_separate_page63_table0|1",
+      "VIC_2022_separate_page63_table1|1",
+      "VIC_2022_separate_page63_table1|1",
+      "VIC_2022_separate_page63_table1|1",
+      "VIC_2022_separate_page63_table1|1",
+      "VIC_2022_consolidated_page90_table0|1",
+      "VIC_2022_consolidated_page90_table0|1",
+      "VIC_2022_consolidated_page90_table0|1",
+      "VIC_2022_consolidated_page90_table0|1",
+      "VIC_2022_consolidated_page90_table0|1",
+      "VIC_2022_consolidated_page90_table0|1",
+      "VIC_2022_consolidated_page90_table0|1",
+      "VIC_2022_consolidated_page90_table0|1",
+      "VIC_2022_consolidated_page91_table0|1",
+      "VIC_2022_consolidated_page91_table0|1",
+      "VIC_2022_consolidated_page91_table0|1",
+      "VIC_2022_consolidated_page91_table0|1",
+      "VIC_2022_consolidated_page91_table0|1",
+      "VIC_2022_consolidated_page91_table0|1",
+      "VIC_2022_consolidated_page91_table0|1",
+      "VIC_2022_consolidated_page91_table0|1",
+      "VIC_2024_separate_page73_table1|1",
+      "VIC_2024_separate_page73_table1|1",
+      "VIC_2024_separate_page73_table1|1",
+      "VIC_2024_separate_page73_table1|1",
+      "VIC_2024_consolidated_page105_table0|1",
+      "VIC_2024_consolidated_page105_table0|1",
+      "VIC_2024_consolidated_page105_table0|1",
+      "VIC_2024_consolidated_page105_table0|1",
+      "VIC_2024_consolidated_page105_table0|1",
+      "VIC_2024_consolidated_page105_table0|1",
+      "VIC_2024_consolidated_page105_table0|1",
+      "VIC_2024_consolidated_page105_table0|1",
+      "VIC_2024_consolidated_page105_table0|1",
+      "VIC_2024_separate_page73_table0|1",
+      "VIC_2024_separate_page73_table0|1",
+      "VIC_2024_separate_page73_table0|1",
+      "VIC_2024_separate_page73_table0|1"
+    ],
+    "evidence": [
+      {
+        "variable": "df_0",
+        "csv_path": "data/VIC_2022_separate_page63_table0.csv"
+      },
+      {
+        "variable": "df_1",
+        "csv_path": "data/VIC_2022_separate_page63_table0.csv"
+      },
+      {
+        "variable": "df_2",
+        "csv_path": "data/VIC_2022_separate_page63_table0.csv"
+      },
+      {
+        "variable": "df_3",
+        "csv_path": "data/VIC_2022_separate_page63_table0.csv"
+      },
+      {
+        "variable": "df_4",
+        "csv_path": "data/VIC_2022_separate_page63_table1.csv"
+      },
+      {
+        "variable": "df_5",
+        "csv_path": "data/VIC_2022_separate_page63_table1.csv"
+      },
+      {
+        "variable": "df_6",
+        "csv_path": "data/VIC_2022_separate_page63_table1.csv"
+      },
+      {
+        "variable": "df_7",
+        "csv_path": "data/VIC_2022_separate_page63_table1.csv"
+      },
+      {
+        "variable": "df_8",
+        "csv_path": "data/VIC_2022_consolidated_page90_table0.csv"
+      },
+      {
+        "variable": "df_9",
+        "csv_path": "data/VIC_2022_consolidated_page90_table0.csv"
+      },
+      {
+        "variable": "df_10",
+        "csv_path": "data/VIC_2022_consolidated_page90_table0.csv"
+      },
+      {
+        "variable": "df_11",
+        "csv_path": "data/VIC_2022_consolidated_page90_table0.csv"
+      },
+      {
+        "variable": "df_12",
+        "csv_path": "data/VIC_2022_consolidated_page90_table0.csv"
+      },
+      {
+        "variable": "df_13",
+        "csv_path": "data/VIC_2022_consolidated_page90_table0.csv"
+      },
+      {
+        "variable": "df_14",
+        "csv_path": "data/VIC_2022_consolidated_page90_table0.csv"
+      },
+      {
+        "variable": "df_15",
+        "csv_path": "data/VIC_2022_consolidated_page90_table0.csv"
+      },
+      {
+        "variable": "df_16",
+        "csv_path": "data/VIC_2022_consolidated_page91_table0.csv"
+      },
+      {
+        "variable": "df_17",
+        "csv_path": "data/VIC_2022_consolidated_page91_table0.csv"
+      },
+      {
+        "variable": "df_18",
+        "csv_path": "data/VIC_2022_consolidated_page91_table0.csv"
+      },
+      {
+        "variable": "df_19",
+        "csv_path": "data/VIC_2022_consolidated_page91_table0.csv"
+      },
+      {
+        "variable": "df_20",
+        "csv_path": "data/VIC_2022_consolidated_page91_table0.csv"
+      },
+      {
+        "variable": "df_21",
+        "csv_path": "data/VIC_2022_consolidated_page91_table0.csv"
+      },
+      {
+        "variable": "df_22",
+        "csv_path": "data/VIC_2022_consolidated_page91_table0.csv"
+      },
+      {
+        "variable": "df_23",
+        "csv_path": "data/VIC_2022_consolidated_page91_table0.csv"
+      },
+      {
+        "variable": "df_24",
+        "csv_path": "data/VIC_2024_separate_page73_table1.csv"
+      },
+      {
+        "variable": "df_25",
+        "csv_path": "data/VIC_2024_separate_page73_table1.csv"
+      },
+      {
+        "variable": "df_26",
+        "csv_path": "data/VIC_2024_separate_page73_table1.csv"
+      },
+      {
+        "variable": "df_27",
+        "csv_path": "data/VIC_2024_separate_page73_table1.csv"
+      },
+      {
+        "variable": "df_28",
+        "csv_path": "data/VIC_2024_consolidated_page105_table0.csv"
+      },
+      {
+        "variable": "df_29",
+        "csv_path": "data/VIC_2024_consolidated_page105_table0.csv"
+      },
+      {
+        "variable": "df_30",
+        "csv_path": "data/VIC_2024_consolidated_page105_table0.csv"
+      },
+      {
+        "variable": "df_31",
+        "csv_path": "data/VIC_2024_consolidated_page105_table0.csv"
+      },
+      {
+        "variable": "df_32",
+        "csv_path": "data/VIC_2024_consolidated_page105_table0.csv"
+      },
+      {
+        "variable": "df_33",
+        "csv_path": "data/VIC_2024_consolidated_page105_table0.csv"
+      },
+      {
+        "variable": "df_34",
+        "csv_path": "data/VIC_2024_consolidated_page105_table0.csv"
+      },
+      {
+        "variable": "df_35",
+        "csv_path": "data/VIC_2024_consolidated_page105_table0.csv"
+      },
+      {
+        "variable": "df_36",
+        "csv_path": "data/VIC_2024_consolidated_page105_table0.csv"
+      },
+      {
+        "variable": "df_37",
+        "csv_path": "data/VIC_2024_separate_page73_table0.csv"
+      },
+      {
+        "variable": "df_38",
+        "csv_path": "data/VIC_2024_separate_page73_table0.csv"
+      },
+      {
+        "variable": "df_39",
+        "csv_path": "data/VIC_2024_separate_page73_table0.csv"
+      },
+      {
+        "variable": "df_40",
+        "csv_path": "data/VIC_2024_separate_page73_table0.csv"
+      }
+    ],
+    "pandas_query": "Okay, let's try to figure out what's going on here. The user provided a question in Vietnamese about calculating ROE for a specific period in VIC, considering years where net revenue increased. They also provided some grounded cells with numerical data and a previous code attempt that had a syntax error.\n\nThe error message says there's an unterminated string literal at line 1. Looking at the previous code, the user started with a string that wasn't properly closed. The initial code had a long explanation as a string, but it wasn't enclosed in quotes, leading to a syntax error.\n\nSo the first step is to fix that syntax error. The user probably intended to write a Python script but mistakenly started with a string that wasn't properly formatted. Also, the code needs to process the given data to answer the question.\n\nThe grounded cells have various numeric values under different categories like \"Doanh thu thuần\" (net revenue) for different years. The challenge is to determine which years are in the period [NUM_41]-[NUM_42], but those NUM values aren't provided in the grounded cells. This is confusing because without knowing the actual years, it's impossible to proceed. However, maybe the NUM_41 and NUM_42 are placeholders for specific years that can be inferred from the data.\n\nWait, looking at the grounded cells, there are entries with different values. For example, NUM_0 to NUM_40 have different values. Maybe each NUM corresponds to a year. But without explicit year labels, this is tricky. Alternatively, perhaps the user made a mistake in the question, and the actual years are part of the data. But given the information, I need to work with what's available.\n\nThe main steps required are:\n\n1. Identify the years within the period [NUM_41] to [NUM_42]. But since these are not provided, maybe the data is structured in a way that the years are in the row paths. However, the RowPath entries like \"Doanh thu thuần > Doanh thu thuần\" don't include years. This is a problem.\n\nAnother approach: The question mentions \"các năm doanh thu thuần tăng so với năm liền trước\" (years where net revenue increased compared to the previous year). So, the first step is to calculate the net revenue for each year and check if it's higher than the previous year.\n\nBut the grounded cells have multiple entries. For example, NUM_0 is 4,977,038.0, NUM_4 is 6,538,397.0, NUM_24 is 3,442,139.0, etc. These might be net revenues for different years. However, without knowing the order of these years, it's impossible to determine which years are increasing.\n\nThis suggests that the data might be structured in a way that each row corresponds to a year, but the grounded cells don't provide the year information. This is a critical missing piece.\n\nGiven the ambiguity, perhaps the user expects that the code should process the given numeric values, assuming that they are in chronological order. For example, the first entry (NUM_0) is year 1, NUM_4 is year 2, etc. But this is a big assumption.\n\nAlternatively, maybe the [NUM_41] and [NUM_42] are the indices of the grounded cells. For example, if NUM_41 is 41 and NUM_42 is 42, but those indices don't exist in the grounded cells (the highest is NUM_40). This is confusing.\n\nGiven the lack of clear information, perhaps the user made a mistake in the question, and the actual data includes years in the RowPath. For example, the RowPath might be something like \"2018 > Doanh thu thuần\" and \"2019 > Doanh thu thuần\", etc. But in the provided grounded cells, the RowPath entries don't include years. For example, \"Doanh thu thuần > Doanh thu thuần\" is the RowPath for many entries.\n\nThis is a major issue because without knowing the years, we can't determine which years are in the period or check for increases in net revenue.\n\nGiven the constraints, perhaps the user expects that the code should process the given numeric values, assuming that they are in order and that the period is from the first to the last entry. Then, identify the years where net revenue increased compared to the previous year, calculate the total asset turnover ratio (vòng quay tổng tài sản) for those years, find the year with the highest ratio, and then get the ROE for that year.\n\nBut the problem is that the data provided doesn't include the total asset turnover ratios or ROE values. The grounded cells only have net revenue data. So, without additional data on total assets or ROE, it's impossible to compute the"
+  }
+]

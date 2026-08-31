@@ -1,0 +1,8 @@
+﻿row_label_raw,row_label_full,col_0,Mã số,Thuyết minh,2022 Nghìn VND,2021 Nghìn VND,numeric__Mã số,numeric__Thuyết minh,numeric__2022 Nghìn VND,numeric__2021 Nghìn VND
+Doanh thu hoạt động tài chính,Doanh thu hoạt động tài chính,Doanh thu hoạt động tài chính,21,13,281.533.488,280.995.953,21.0,13.0,281533488.0,280995953.0
+Chi phí tài chính,Chi phí tài chính,Chi phí tài chính,22,14,272.732.572,272.008.141,22.0,14.0,272732572.0,272008141.0
+Chi phí quản lý doanh nghiệp,Chi phí quản lý doanh nghiệp,Chi phí quản lý doanh nghiệp,26,,7.911.481,8.148.738,26.0,,7911481.0,8148738.0
+Lợi nhuận thuần từ hoạt động kinh doanh (30 = 21 - 22 - 26),Lợi nhuận thuần từ hoạt động kinh doanh (30 = 21 - 22 - 26),Lợi nhuận thuần từ hoạt động kinh doanh (30 = 21 - 22 - 26),30,,889.435,839.074,30.0,,889435.0,839074.0
+Lợi nhuận kế toán trước thuế (50 = 30),Lợi nhuận kế toán trước thuế (50 = 30),Lợi nhuận kế toán trước thuế (50 = 30),50,,889.435,839.074,50.0,,889435.0,839074.0
+Chi phí thuế TNDN hiện hành,Chi phí thuế TNDN hiện hành,Chi phí thuế TNDN hiện hành,51,15,178.259,328.916,51.0,15.0,178259.0,328916.0
+Lợi nhuận sau thuế TNDN (60 = 50 - 51),Lợi nhuận sau thuế TNDN (60 = 50 - 51),Lợi nhuận sau thuế TNDN (60 = 50 - 51),60,,711.176,510.158,60.0,,711176.0,510158.0
