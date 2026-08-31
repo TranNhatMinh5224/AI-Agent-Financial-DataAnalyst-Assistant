@@ -1,0 +1,23 @@
+﻿row_label_raw,row_label_full,STF,CHỈ TIÊU,Thuyết minh,Năm nay,Năm trước,numeric__CHỈ TIÊU,numeric__Thuyết minh,numeric__Năm nay,numeric__Năm trước
+1.,1.,1.,Thu nhập lãi và các khoản thu nhập tương tự,VI.1,5.376.251,5.449.139,,,5376251.0,5449139.0
+2.,2.,2.,Chi phí lãi và các khoản chi phí tương tự,VI.2,3.299.576,3.527.628,,,3299576.0,3527628.0
+I.,I.,I.,Thu nhập lãi thuần,,2.076.675,1.921.511,,,2076675.0,1921511.0
+3.,3.,3.,Thu nhập từ hoạt động dịch vụ,VI.3,397.207,246.235,,,397207.0,246235.0
+4.,4.,4.,Chi phí từ hoạt động dịch vụ,VI.3,32.946,23.022,,,32946.0,23022.0
+II.,II.,II.,Lãi/lỗ thuần từ hoạt động dịch vụ,VI.3,364.261,223.213,,,364261.0,223213.0
+III.,III.,III.,Lãi/lỗ thuần từ kinh doanh ngoại hối,VI.4,34.981,28.274,,,34981.0,28274.0
+IV.,IV.,IV.,Lãi/lỗ thuần từ mua bán chứng khoán kinh doanh,,-,-,,,,
+V.,IV. > V.,V.,Lãi/lỗ thuần từ mua bán chứng khoán đầu tư,VI.5,7.818,63.737,,,7818.0,63737.0
+5.,IV. > 5.,5.,Thu nhập từ hoạt động khác,VI.6,88.476,48.459,,,88476.0,48459.0
+6.,IV. > 6.,6.,Chi phí từ hoạt động khác,VI.6,5.280,16.911,,,5280.0,16911.0
+VI.,IV. > VI.,VI.,Lãi/lỗ thuần từ hoạt động khác,VI.6,83.196,31.548,,,83196.0,31548.0
+VII.,IV. > VII.,VII.,"Thu nhập từ góp vốn, mua cổ phần",VI.7,323,42.664,,,323.0,42664.0
+VIII.,IV. > VIII.,VIII.,Chi phí hoạt động,VI.8,1.411.132,1.178.744,,,1411132.0,1178744.0
+IX.,IV. > IX.,IX.,Lợi nhuận thuần từ hoạt động kinh doanh trướcchi phí dự phòng rủi ro tín dụng,,1.156.122,1.132.203,,,1156122.0,1132203.0
+X.,IV. > X.,X.,Chi phí dự phòng rủi ro tín dụng,,472.393,81.647,,,472393.0,81647.0
+XI.,IV. > XI.,XI.,Tổng lợi nhuận trước thuế,,683.729,1.050.556,,,683729.0,1050556.0
+7.,IV. > 7.,7.,Chi phí thuế thu nhập doanh nghiệp hiện hành,VIII.2,137.342,239.651,,,137342.0,239651.0
+8.,8.,8.,Chi phí thuế thu nhập doanh nghiệp hoãn lại,,-,-,,,,
+XII.,8. > XII.,XII.,Chi phí thuế thu nhập doanh nghiệp,,137.342,239.651,,,137342.0,239651.0
+XIII.,8. > XIII.,XIII.,Lợi nhuận sau thuế,,546.387,810.905,,,546387.0,810905.0
+XIV.,XIV.,XIV.,Lãi cơ bản trên cổ phiếu,,-,-,,,,

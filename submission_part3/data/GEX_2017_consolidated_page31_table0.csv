@@ -1,0 +1,24 @@
+﻿row_label_raw,row_label_full,col_0,Giá trị hợp lý được xác định tạm thời tại ngày mua,Điều chỉnh giá trị hợp lý,Đơn vị tính: VNDGiá trị hợp lýsau điều chỉnh,numeric__Giá trị hợp lý được xác định tạm thời tại ngày mua,numeric__Điều chỉnh giá trị hợp lý,numeric__Đơn vị tính: VNDGiá trị hợp lýsau điều chỉnh
+Tài sản,Tài sản,Tài sản,,,,,,
+Tiền và các khoản đường tiền,Tài sản > Tiền và các khoản đường tiền,Tiền và các khoản đường tiền,647.285.209.058,-,647.285.209.058,647285209058.0,,647285209058.0
+Các khoản phải thu ngắn hạn,Tài sản > Các khoản phải thu ngắn hạn,Các khoản phải thu ngắn hạn,352.689.650.396,-,352.689.650.396,352689650396.0,,352689650396.0
+Hàng tồn kho,Tài sản > Hàng tồn kho,Hàng tồn kho,625.916.042.866,-,625.916.042.866,625916042866.0,,625916042866.0
+Tài sản ngắn hạn khác,Tài sản > Tài sản ngắn hạn khác,Tài sản ngắn hạn khác,8.766.932.668,-,8.766.932.668,8766932668.0,,8766932668.0
+Tài sản cố định,Tài sản > Tài sản cố định,Tài sản cố định,100.866.026.891,69.403.760.061,170.269.786.952,100866026891.0,69403760061.0,170269786952.0
+Tài sản dài hạn khác,Tài sản > Tài sản dài hạn khác,Tài sản dài hạn khác,5.791.381.333,-,5.791.381.333,5791381333.0,,5791381333.0
+,,,1.741.315.243.212,69.403.760.061,1.810.719.003.273,1741315243212.0,69403760061.0,1810719003273.0
+Nợ phải trả,Nợ phải trả,Nợ phải trả,,,,,,
+Pnải trả người bán,Nợ phải trả > Pnải trả người bán,Pnải trả người bán,165.834.689.781,-,165.834.689.781,165834689781.0,,165834689781.0
+Vay và nợ thuê tài chính,Nợ phải trả > Vay và nợ thuê tài chính,Vay và nợ thuê tài chính,262.466.843.149,-,262.466.843.149,262466843149.0,,262466843149.0
+Phải trả khác,Nợ phải trả > Phải trả khác,Phải trả khác,219.027.765.697,-,219.027.765.697,219027765697.0,,219027765697.0
+Thuế thu nhập hoãn lại phải trả (phát sinh do điều chỉnh giá trị hợp lý),Nợ phải trả > Thuế thu nhập hoãn lại phải trả (phát sinh do điều chỉnh giá trị hợp lý),Thuế thu nhập hoãn lại phải trả (phát sinh do điều chỉnh giá trị hợp lý),-,13.880.752.012,13.880.752.012,,13880752012.0,13880752012.0
+,,,647.329.298.627,13.880.752.012,661.210.050.639,647329298627.0,13880752012.0,661210050639.0
+Tổng tài sản thuần theo giá trị hợp lý [a],Nợ phải trả > Tổng tài sản thuần theo giá trị hợp lý [a],Tổng tài sản thuần theo giá trị hợp lý [a],1.093.985.944.585,55.523.008.049,1.149.508.952.634,1093985944585.0,55523008049.0,1149508952634.0
+Cổ đông không kiểm soát [b],Nợ phải trả > Cổ đông không kiểm soát [b],Cổ đông không kiểm soát [b],319.520.811.101,16.216.622.028,335.737.433.129,319520811101.0,16216622028.0,335737433129.0
+Giá trị của khoản đầu tư đã mua trước đó [c],Nợ phải trả > Giá trị của khoản đầu tư đã mua trước đó [c],Giá trị của khoản đầu tư đã mua trước đó [c],218.070.592.690,50.130.147.810,268.200.740.500,218070592690.0,50130147810.0,268200740500.0
+Lợi thế thương mại từ hợp nhất kinh doanh (Thuyết minh số 18) [d],Nợ phải trả > Lợi thế thương mại từ hợp nhất kinh doanh (Thuyết minh số 18) [d],Lợi thế thương mại từ hợp nhất kinh doanh (Thuyết minh số 18) [d],21.805.459.206,10.823.761.789,32.629.220.995,21805459206.0,10823761789.0,32629220995.0
+Tổng giá phí hợp nhất kinh doanh đã thanh toán[e] = [a - b - c + d],Nợ phải trả > Tổng giá phí hợp nhất kinh doanh đã thanh toán[e] = [a - b - c + d],Tổng giá phí hợp nhất kinh doanh đã thanh toán[e] = [a - b - c + d],578.200.000.000,-,578.200.000.000,578200000000.0,,578200000000.0
+Thông tin lưu chuyển tiền tệ từ việc mua công ty con,Thông tin lưu chuyển tiền tệ từ việc mua công ty con,Thông tin lưu chuyển tiền tệ từ việc mua công ty con,,,,,,
+Tiền thu về từ công ty con,Thông tin lưu chuyển tiền tệ từ việc mua công ty con > Tiền thu về từ công ty con,Tiền thu về từ công ty con,647.285.209.058,-,647.285.209.058,647285209058.0,,647285209058.0
+Tiền chỉ để mua công ty con,Thông tin lưu chuyển tiền tệ từ việc mua công ty con > Tiền chỉ để mua công ty con,Tiền chỉ để mua công ty con,(578.200.000.000),-,(578.200.000.000),-578200000000.0,,-578200000000.0
+Tổng tiền thuần đã thu về từ nghiệp vụ mua,Thông tin lưu chuyển tiền tệ từ việc mua công ty con > Tổng tiền thuần đã thu về từ nghiệp vụ mua,Tổng tiền thuần đã thu về từ nghiệp vụ mua,69.085.209.058,-,69.085.209.058,69085209058.0,,69085209058.0

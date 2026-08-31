@@ -1,0 +1,15 @@
+﻿row_label_raw,row_label_full,col_0,Hoạt động sản xuất và bán điện VND,Hoạt động xây lắp VND,Hoạt động cung cấp dịch vụ VND,Hoạt động bán hàng hóa VND,Loại trừ VND,Tổng cộng VND,numeric__Hoạt động sản xuất và bán điện VND,numeric__Hoạt động xây lắp VND,numeric__Hoạt động cung cấp dịch vụ VND,numeric__Hoạt động bán hàng hóa VND,numeric__Loại trừ VND,numeric__Tổng cộng VND
+Doanh thu,Doanh thu,Doanh thu,Doanh thu,Doanh thu,Doanh thu,Doanh thu,Doanh thu,Doanh thu,,,,,,
+Bán hàng và cung cấp dịch vụ ra bên ngoài,Doanh thu > Bán hàng và cung cấp dịch vụ ra bên ngoài,Bán hàng và cung cấp dịch vụ ra bên ngoài,483.456.423.005,56.675.427.818,19.356.624.052,-,-,559.488.474.875,483456423005.0,56675427818.0,19356624052.0,,,559488474875.0
+Trong nội bộ Tập đoàn,Doanh thu > Trong nội bộ Tập đoàn,Trong nội bộ Tập đoàn,-,-,7.765.246.789,-,(7.765.246.789),-,,,7765246789.0,,-7765246789.0,
+Tổng doanh thu,Doanh thu > Tổng doanh thu,Tổng doanh thu,483.456.423.005,56.675.427.818,27.121.870.841,-,(7.765.246.789),559.488.474.875,483456423005.0,56675427818.0,27121870841.0,,-7765246789.0,559488474875.0
+Kết quả hoạt động kinh doanh,Kết quả hoạt động kinh doanh,Kết quả hoạt động kinh doanh,Kết quả hoạt động kinh doanh,Kết quả hoạt động kinh doanh,Kết quả hoạt động kinh doanh,Kết quả hoạt động kinh doanh,Kết quả hoạt động kinh doanh,Kết quả hoạt động kinh doanh,,,,,,
+Lợi nhuận gộp của bộ phận,Kết quả hoạt động kinh doanh > Lợi nhuận gộp của bộ phận,Lợi nhuận gộp của bộ phận,288.537.901.421,5.586.576.086,7.214.701.912,-,4.661.333.800,306.000.513.219(77.224.600.118),288537901421.0,5586576086.0,7214701912.0,,4661333800.0,
+Chi phí không phân bổ,Kết quả hoạt động kinh doanh > Chi phí không phân bổ,Chi phí không phân bổ,,,,,,19.454.754.655,,,,,,19454754655.0
+Doanh thu hoạt động tài chính,Kết quả hoạt động kinh doanh > Doanh thu hoạt động tài chính,Doanh thu hoạt động tài chính,,,,,,(41.137.903.234),,,,,,-41137903234.0
+Chi phí tài chính,Kết quả hoạt động kinh doanh > Chi phí tài chính,Chi phí tài chính,,,,,,(153.992.538),,,,,,-153992538.0
+Lợi nhuận khác,Kết quả hoạt động kinh doanh > Lợi nhuận khác,Lợi nhuận khác,,,,,,206.938.771.984,,,,,,206938771984.0
+Lợi nhuận trước thuế TNDN,Kết quả hoạt động kinh doanh > Lợi nhuận trước thuế TNDN,Lợi nhuận trước thuế TNDN,,,,,,(20.639.269.039),,,,,,-20639269039.0
+Chi phí thuế TNDN hiện hành,Kết quả hoạt động kinh doanh > Chi phí thuế TNDN hiện hành,Chi phí thuế TNDN hiện hành,,,,,,967.227.728,,,,,,967227728.0
+Thu nhập thuế TNDN hoãn lại,Thu nhập thuế TNDN hoãn lại,Thu nhập thuế TNDN hoãn lại,,,,,,,,,,,,
+Lợi nhuận sau thuế TNDN,Thu nhập thuế TNDN hoãn lại > Lợi nhuận sau thuế TNDN,Lợi nhuận sau thuế TNDN,,,,,,187.266.730.673,,,,,,187266730673.0

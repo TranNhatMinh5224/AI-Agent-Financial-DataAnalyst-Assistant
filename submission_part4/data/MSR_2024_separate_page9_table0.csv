@@ -1,0 +1,20 @@
+﻿row_label_raw,row_label_full,col_0,Mã số,Thuyết minh,31/12/2024 Nghìn VND,1/1/2024 Nghìn VND,numeric__Mã số,numeric__Thuyết minh,numeric__31/12/2024 Nghìn VND,numeric__1/1/2024 Nghìn VND
+NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,NGUỒN VỐN,,,,
+NỘ PHẢI TRẢ (300 = 310 + 330),NGUỒN VỐN > NỘ PHẢI TRẢ (300 = 310 + 330),NỘ PHẢI TRẢ (300 = 310 + 330),300,,1.566.283.998,3.117.172.705,300.0,,1566283998.0,3117172705.0
+Nợ ngắn hạn,NGUỒN VỐN > Nợ ngắn hạn,Nợ ngắn hạn,310,,66.283.998,1.617.172.705,310.0,,66283998.0,1617172705.0
+Phải trả người bán ngắn hạn,NGUỒN VỐN > Phải trả người bán ngắn hạn,Phải trả người bán ngắn hạn,311,,2.676.847,2.464.030,311.0,,2676847.0,2464030.0
+Thuế và các khoản phải nộp Nhà nước,NGUỒN VỐN > Thuế và các khoản phải nộp Nhà nước,Thuế và các khoản phải nộp Nhà nước,313,,78.944,125.030,313.0,,78944.0,125030.0
+Chi phí phải trả ngắn hạn,NGUỒN VỐN > Chi phí phải trả ngắn hạn,Chi phí phải trả ngắn hạn,315,10,26.233.147,61.376.800,315.0,10.0,26233147.0,61376800.0
+Phải trả ngắn hạn khác,NGUỒN VỐN > Phải trả ngắn hạn khác,Phải trả ngắn hạn khác,319,11,24.495.060,27.006.845,319.0,11.0,24495060.0,27006845.0
+Vay và trái phiếu phát hành ngắn hạn,NGUỒN VỐN > Vay và trái phiếu phát hành ngắn hạn,Vay và trái phiếu phát hành ngắn hạn,320,12(a),12.800.000,1.526.200.000,320.0,,12800000.0,1526200000.0
+Nợ dài hạn,NGUỒN VỐN > Nợ dài hạn,Nợ dài hạn,330,,1.500.000.000,1.500.000.000,330.0,,1500000000.0,1500000000.0
+Trái phiếu phát hành dài hạn,NGUỒN VỐN > Trái phiếu phát hành dài hạn,Trái phiếu phát hành dài hạn,338,12(b),1.500.000.000,1.500.000.000,338.0,,1500000000.0,1500000000.0
+VỐN CHỦ SỞ HỮU (400 = 410),NGUỒN VỐN > VỐN CHỦ SỞ HỮU (400 = 410),VỐN CHỦ SỞ HỮU (400 = 410),400,,12.159.148.037,12.158.705.150,400.0,,12159148037.0,12158705150.0
+Vốn chủ sở hữu,NGUỒN VỐN > Vốn chủ sở hữu,Vốn chủ sở hữu,410,13,12.159.148.037,12.158.705.150,410.0,13.0,12159148037.0,12158705150.0
+Vốn cổ phần,NGUỒN VỐN > Vốn cổ phần,Vốn cổ phần,411,14,10.991.554.200,10.991.554.200,411.0,14.0,10991554200.0,10991554200.0
+- Cổ phiếu phổ thông có quyền biểu quyết,NGUỒN VỐN > - Cổ phiếu phổ thông có quyền biểu quyết,- Cổ phiếu phổ thông có quyền biểu quyết,411a,,10.991.554.200,10.991.554.200,,,10991554200.0,10991554200.0
+Thặng dư vốn cổ phần,NGUỒN VỐN > Thặng dư vốn cổ phần,Thặng dư vốn cổ phần,412,14,1.098.259.892,1.098.259.892,412.0,14.0,1098259892.0,1098259892.0
+Lợi nhuận sau thuế chưa phân phối,NGUỒN VỐN > Lợi nhuận sau thuế chưa phân phối,Lợi nhuận sau thuế chưa phân phối,421,,69.333.945,68.891.058,421.0,,69333945.0,68891058.0
+- LNST chưa phân phối đến cuối năm trước,NGUỒN VỐN > - LNST chưa phân phối đến cuối năm trước,- LNST chưa phân phối đến cuối năm trước,421a,,68.891.058,68.532.037,,,68891058.0,68532037.0
+- LNST năm nay,NGUỒN VỐN > - LNST năm nay,- LNST năm nay,421b,,442.887,359.021,,,442887.0,359021.0
+TỔNG NGUỒN VỐN (440 = 300 + 400),NGUỒN VỐN > TỔNG NGUỒN VỐN (440 = 300 + 400),TỔNG NGUỒN VỐN (440 = 300 + 400),440,,13.725.432.035,15.275.877.855,440.0,,13725432035.0,15275877855.0

@@ -1,0 +1,22 @@
+﻿row_label_raw,row_label_full,col_0,col_1,Thuyết minh,Năm 2024 Triệu VND,Năm 2023 Triệu VND,numeric__col_1,numeric__Thuyết minh,numeric__Năm 2024 Triệu VND,numeric__Năm 2023 Triệu VND
+1,1,1,Thu nhập lãi và các khoản thu nhập tương tự,21,49.688.521,51.763.519,,21.0,49688521.0,51763519.0
+2,2,2,Chi phí lãi và các chi phí tương tự,22,(22.746.651),(27.353.221),,22.0,-22746651.0,-27353221.0
+I,I,I,Thu nhập lãi thuần,,26.941.870,24.410.298,,,26941870.0,24410298.0
+3,3,3,Thu nhập từ hoạt động dịch vụ,23,5.075.921,4.615.554,,23.0,5075921.0,4615554.0
+4,4,4,Chi phí hoạt động dịch vụ,24,(2.099.078),(1.930.477),,24.0,-2099078.0,-1930477.0
+II,II,II,Lãi thuần từ hoạt động dịch vụ,,2.976.843,2.685.077,,,2976843.0,2685077.0
+III,III,III,Lãi thuần từ hoạt động kinh doanh ngoại hồi,25,1.169.955,1.109.601,,25.0,1169955.0,1109601.0
+IV,IV,IV,(Lỗ)/lãi thuần từ mua bán chứng khoán kinh doanh,26,(11.863),15.499,,26.0,-11863.0,15499.0
+V,V,V,Lãi thuần từ mua bán chứng khoán đầu tư,27,450.312,2.647.140,,27.0,450312.0,2647140.0
+5,5,5,Thu nhập từ hoạt động khác,,1.165.261,1.069.406,,,1165261.0,1069406.0
+6,6,6,Chi phí hoạt động khác,,(459.987),(268.748),,,-459987.0,-268748.0
+VI,VI,VI,Lãi thuần từ hoạt động khác,28,705.274,800.658,,28.0,705274.0,800658.0
+VII,VII,VII,"Thu nhập từ góp vốn, mua cổ phần",29,14.492,63.720,,29.0,14492.0,63720.0
+VIII,VIII,VIII,Chi phí hoạt động,30,(10.528.840),(10.514.870),,30.0,-10528840.0,-10514870.0
+IX,IX,IX,Lợi nhuận thuần từ hoạt động kinh doanh trước chi phí dự phòng rủi ro tín dụng,,21.718.043,21.217.123,,,21718043.0,21217123.0
+X,X,X,Chi phí dự phòng rủi ro tín dụng,31,(1.599.079),(1.783.020),,31.0,-1599079.0,-1783020.0
+XI,XI,XI,Tổng lợi nhuận trước thuế,,20.118.964,19.434.103,,,20118964.0,19434103.0
+7,7,7,Chi phí thuế thu nhập doanh nghiệp hiện hành,32.1,(4.017.420),(3.881.918),,321.0,-4017420.0,-3881918.0
+8,8,8,Chi phí thuế thu nhập doanh nghiệp hoãn lại,32.2,(16.345),(30.431),,322.0,-16345.0,-30431.0
+XII,XII,XII,Chi phí thuế thu nhập doanh nghiệp,32,(4.033.765),(3.912.349),,32.0,-4033765.0,-3912349.0
+XIII,XIII,XIII,Lợi nhuận sau thuế,,16.085.199,15.521.754,,,16085199.0,15521754.0

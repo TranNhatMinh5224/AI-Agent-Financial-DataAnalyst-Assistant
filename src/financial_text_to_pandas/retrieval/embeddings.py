@@ -37,7 +37,7 @@ def _call_api_embeddings(
     clean_texts = [t if t.strip() else "table" for t in texts]
     data = json.dumps({"model": model, "input": clean_texts}).encode("utf-8")
     
-    max_attempts = 3
+    max_attempts = 6
     for attempt in range(1, max_attempts + 1):
         try:
             req = urllib.request.Request(url, data=data, headers=headers)
@@ -46,7 +46,8 @@ def _call_api_embeddings(
                 return [item["embedding"] for item in res["data"]]
         except Exception as e:
             if attempt < max_attempts:
-                time.sleep(2 * attempt)
+                wait_time = 1.0 + (1.5 * attempt)
+                time.sleep(wait_time)
             else:
                 print(f"[WARN] Embedding API call failed after {max_attempts} attempts: {e}. Falling back to local SentenceTransformer.")
                 return None
