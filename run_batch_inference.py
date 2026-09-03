@@ -1,4 +1,6 @@
 import json
+import threading
+from concurrent.futures import ThreadPoolExecutor, as_completed
 import shutil
 import argparse
 import logging
@@ -31,6 +33,7 @@ def main():
     parser.add_argument("--questions", default="ViFinQA/questions/questions.jsonl")
     parser.add_argument("--output", default="submission")
     parser.add_argument("--start", type=int, default=1, help="Start question number (1-indexed, e.g. --start 501)")
+    parser.add_argument("--workers", type=int, default=1, help="Number of concurrent workers")
     parser.add_argument("--limit", type=int, default=0, help="Limit number of questions to process (e.g. --limit 500)")
     args = parser.parse_args()
 
@@ -143,51 +146,38 @@ def main():
 
     logging.info(f"[INFO] Total questions to process: {len(questions)}")
 
-    for q in tqdm(questions, desc="Processing"):
+    file_lock = threading.Lock()
+    
+    def process_question(q):
         qid = q["id"]
         qtext = q["question"]
 
         if qid in processed_ids:
-            continue
+            return None, qid
 
         logging.info(f"--- Processing Question {qid} ---")
         try:
-            # 1. Search (BM25 or Hybrid)
-            # using BM25 by default here for speed, or hybrid if embedding is ready
-            # Fallback to bm25 if hybrid fails
             try:
-                # Chạy Hybrid Search kết hợp Reranker Cloud API / RRF
-                tables = run_search(qtext, cfg, method="hybrid", top_k=80, no_reranker=False)
+                tables = run_search(qtext, cfg, method="bm25", top_k=80, no_reranker=True)
             except Exception as e:
                 logging.warning(f"Search failed: {e}")
                 tables = []
                 
-            # 2. Extract Intent
             intent = extract_intent(qtext)
-
-            # 3. Create Package & Load DataFrames
             package = EvidencePackage(
-                query_id=str(qid),
-                question=qtext,
-                intent=intent,
-                tables=tables,
-                linked_text_context=[] # Can be populated via BM25 against a text corpus if available
+                query_id=str(qid), question=qtext, intent=intent, tables=tables, linked_text_context=[]
             )
             
-            output_root = cfg.output_root
-            if not output_root.is_absolute():
-                output_root = Path.cwd() / output_root
+            output_root_path = cfg.output_root
+            if not output_root_path.is_absolute():
+                output_root_path = Path.cwd() / output_root_path
                 
-            dfs = load_evidence_tables(package, output_root)
-
-            # 4. Orchestrate
-            trace = orchestrator.run(qtext, package, dfs, run_config=cfg, output_root=output_root)
+            dfs = load_evidence_tables(package, output_root_path)
+            trace = orchestrator.run(qtext, package, dfs, run_config=cfg, output_root=output_root_path)
             ans = trace.final_answer
 
-            # Log the orchestration trace
             logging.info(trace.summary())
 
-            # Prepare fields for SubmissionItem
             evidence_tables = []
             table_refs = []
             report_ids = set()
@@ -196,67 +186,72 @@ def main():
             citations = ans.citations if ans and ans.citations else []
             code_gen = ans.code_generated if ans and ans.code_generated else ""
 
-            # Phân biệt "thực sự không có kết quả" (None) với "kết quả là 0.0"
             if answer_val is None:
                 reason = "Không rõ nguyên nhân"
                 if ans:
                     if ans.error_type == "I_INSUFFICIENT_EVIDENCE":
-                        reason = "Lỗi Tìm kiếm (Retriever): Không tìm thấy bảng chứa dữ liệu."
+                        reason = "Lỗi Tìm kiếm (Retriever)"
                     elif ans.error_type == "E_NUMERICAL_EXTRACTION":
-                        reason = "Lỗi Grounding: Không ground được cell số từ bảng tìm thấy."
+                        reason = "Lỗi Grounding"
                     elif ans.error_type in ("T_TECHNICAL_ERROR", "C_CALCULATION_ERROR"):
-                        reason = "Lỗi Sandbox: Code Python thất bại sau 3 lần tự sửa."
+                        reason = "Lỗi Sandbox"
                     elif getattr(ans, 'verification_status', '') == "invalid":
-                        reason = "Lỗi Kiểm chứng (Critic): Kết quả không hợp lệ."
-                    else:
-                        reason = f"Lỗi Hệ thống: {getattr(ans, 'error_type', 'Unknown')}"
+                        reason = "Lỗi Kiểm chứng (Critic)"
                 logging.warning(f"⚠️ [CẢNH BÁO] Câu {qid} KHÔNG CÓ KẾT QUẢ! Nguyên nhân: {reason}")
-                # Ghi 0.0 vào submission JSON (yêu cầu của BTC — phải là số)
                 answer_val = 0.0
 
             for i, citation in enumerate(citations):
                 var_name = f"df_{i}"
                 report_id = citation.table_id
-                
-                # Make sure csv_path is resolved correctly
                 csv_path_str = citation.csv_path
-                # Check if it starts with output_root
                 if not Path(csv_path_str).is_absolute():
-                    csv_path_full = output_root / csv_path_str
+                    csv_path_full = output_root_path / csv_path_str
                 else:
                     csv_path_full = Path(csv_path_str)
                     
                 evidence_tables.append((var_name, report_id, csv_path_full.name))
-                table_refs.append((report_id, 1)) # Simplified to 1
+                table_refs.append((report_id, 1))
                 report_ids.add(report_id)
 
-                # Copy to submission/data/
-                if csv_path_full.exists():
-                    shutil.copy2(csv_path_full, data_dir / csv_path_full.name)
+                if csv_path_full.is_file():
+                    with file_lock:
+                        import shutil
+                        shutil.copy2(csv_path_full, data_dir / csv_path_full.name)
 
-            # 5. Build SubmissionItem
             item = create_submission_item(
-                question_id=qid,
-                question_text=qtext,
-                answer=answer_val,
-                report_ids=list(report_ids),
-                table_refs=table_refs,
-                evidence_tables=evidence_tables,
-                pandas_query=code_gen
+                question_id=qid, question_text=qtext, answer=answer_val,
+                report_ids=list(report_ids), table_refs=table_refs, evidence_tables=evidence_tables, pandas_query=code_gen
             )
-
-            results.append(item.to_dict())
-
-            # Save incrementally (Atomic write để chống hỏng file nếu bị ngắt điện đột ngột)
-            temp_file = output_json.with_suffix(".tmp")
-            with open(temp_file, "w", encoding="utf-8") as f:
-                json.dump(results, f, ensure_ascii=False, indent=2)
-            temp_file.replace(output_json)
-
-            processed_ids.add(qid)
+            return item.to_dict(), qid
 
         except Exception as e:
             logging.error(f"[ERROR] Question {qid} failed catastrophically: {e}", exc_info=True)
+            return None, qid
+
+    if args.workers > 1:
+        logging.info(f"Starting ThreadPoolExecutor with {args.workers} workers...")
+        with ThreadPoolExecutor(max_workers=args.workers) as executor:
+            future_to_q = {executor.submit(process_question, q): q for q in questions}
+            for future in tqdm(as_completed(future_to_q), total=len(questions), desc="Processing (Parallel)"):
+                result, qid = future.result()
+                if result:
+                    with file_lock:
+                        results.append(result)
+                        temp_file = output_json.with_suffix(".tmp")
+                        with open(temp_file, "w", encoding="utf-8") as f:
+                            json.dump(results, f, ensure_ascii=False, indent=2)
+                        temp_file.replace(output_json)
+                        processed_ids.add(qid)
+    else:
+        for q in tqdm(questions, desc="Processing (Sequential)"):
+            result, qid = process_question(q)
+            if result:
+                results.append(result)
+                temp_file = output_json.with_suffix(".tmp")
+                with open(temp_file, "w", encoding="utf-8") as f:
+                    json.dump(results, f, ensure_ascii=False, indent=2)
+                temp_file.replace(output_json)
+                processed_ids.add(qid)
 
     # ── ĐÓNG GÓI VÀ BÁO THỨC ──
     logging.info(f"\n[SUCCESS] Tất cả câu hỏi đã xử lý xong. Đang nén file submission.zip...")

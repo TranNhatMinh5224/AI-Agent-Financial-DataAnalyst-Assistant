@@ -83,8 +83,7 @@ Error Message:
 Requirements to Fix:
 - Fix the bug described in Error Message.
 - Make sure to assign the final numeric answer to `result`.
-- Do NOT include `import` statements.
-- Return ONLY the corrected python code block inside ```python ... ```.
+- STRICT REQUIREMENT: Output ONLY the python code block inside ```python ... ```. Absolutely NO explanations, thoughts, or analysis before the code block. Start your response IMMEDIATELY with ```python.
 
 Code:
 ```python

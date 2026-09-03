@@ -137,10 +137,13 @@ def build_delex_context(
             raw_map[cell.symbol_name] = cell.raw_value
             cell_lines.append(f"- {cell.to_linearized_coordinate_path()}")
 
-    # Step 1c: Add question-level numbers to raw_map (informational, not in sandbox)
-    # These should NOT appear in the generated code — they're already masked in prompt
+    # Step 1c: Add question-level numbers to raw_map and inject parsed float into symbol_map
+    from financial_text_to_pandas.reasoning.tools import parse_vn_number
     for sym, raw_str in question_num_map.items():
         raw_map[sym] = raw_str
+        parsed = parse_vn_number(raw_str)
+        if parsed is not None:
+            symbol_map[sym] = parsed
 
     masked_cells_str = "\n".join(cell_lines) if cell_lines else "(no grounded cells)"
 

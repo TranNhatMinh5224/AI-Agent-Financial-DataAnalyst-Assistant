@@ -48,28 +48,28 @@ llm_planner:
   engine: "ollama"
   base_url: "${OLLAMA_BASE_URL:-http://localhost:11434/v1}"
   api_key: "ollama"
-  model_name: "${OLLAMA_MODEL_DEFAULT:-qwen2.5-coder:14b}"
+  model_name: "${LLM_MODEL_PLANNER:-qwen2.5-coder:14b}"
   temperature: 0.0
 
 llm_retriever:
   engine: "ollama"
   base_url: "${OLLAMA_BASE_URL:-http://localhost:11434/v1}"
   api_key: "ollama"
-  model_name: "${OLLAMA_MODEL_SMALL:-qwen2.5-coder:3b}"
+  model_name: "${LLM_MODEL_RETRIEVER:-qwen-2.5-7b-instruct}"
   temperature: 0.0
 
 llm_programmer:
   engine: "ollama"
   base_url: "${OLLAMA_BASE_URL:-http://localhost:11434/v1}"
   api_key: "ollama"
-  model_name: "${OLLAMA_MODEL_DEFAULT:-qwen2.5-coder:14b}"
+  model_name: "${LLM_MODEL_PROGRAMMER:-qwen2.5-coder:14b}"
   temperature: 0.0
 
 llm_critic:
   engine: "ollama"
   base_url: "${OLLAMA_BASE_URL:-http://localhost:11434/v1}"
   api_key: "ollama"
-  model_name: "${OLLAMA_MODEL_SMALL:-qwen2.5-coder:3b}"
+  model_name: "${LLM_MODEL_CRITIC:-qwen-2.5-7b-instruct}"
   temperature: 0.0
 
 embedding:
@@ -77,4 +77,4 @@ embedding:
   batch_size: 32
 
 reranker:
-  model_name: "${RERANKER_MODEL:-BAAI/bge-reranker-v2-m3}"
+  model_name: "${RERANKER_MODEL:-rrf}"

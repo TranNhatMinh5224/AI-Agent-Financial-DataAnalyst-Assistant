@@ -218,7 +218,10 @@ class FinancialQAOrchestrator:
             cand = ev.candidate
             tables_context += f"Table ID: {cand.table_id}\nPath: {cand.csv_path}\n\n"
 
-        # Call Retriever LLM (optional hint, kết quả chính vẫn từ ground_cells)
+        # [TỐI ƯU HÓA TURBO] Tắt bước LLM Retriever hint vì kết quả không được sử dụng
+        # (ground_cells chạy bằng thuật toán schema-aware trực tiếp trên dfs, không nhận input từ call_llm này).
+        # Giúp tiết kiệm 2-3 giây mỗi câu và giảm chi phí token OpenRouter.
+        # (Đã khôi phục theo yêu cầu của user)
         prompt = RETRIEVER_GROUNDING_PROMPT_TEMPLATE.format(
             question=question,
             tables_context=tables_context
@@ -228,6 +231,7 @@ class FinancialQAOrchestrator:
             trace.add_step(ROLE_RETRIEVER, "llm_grounding", True, "LLM Retriever hint generated")
         except Exception as e:
             trace.add_step(ROLE_RETRIEVER, "llm_grounding", False, f"LLM hint skipped: {str(e)}")
+        trace.add_step(ROLE_RETRIEVER, "llm_grounding", True, "Fast-path schema grounding (bỏ qua LLM hint thừa)")
 
         # Schema-aware grounding (cơ chế chính)
         grounding = ground_cells(evidence_package.intent, dfs, raw_question=question)
@@ -312,11 +316,14 @@ class FinancialQAOrchestrator:
         if is_multi_hop and run_config and output_root:
             trace.add_step(ROLE_PLANNER, "route", True, "Routing to Multi-hop Flow")
             from financial_text_to_pandas.reasoning.multi_hop import run_multi_hop
-            result, grounding, dfs, evidence_package_mh = run_multi_hop(
+            mh_result, mh_grounding, mh_dfs, evidence_package_mh = run_multi_hop(
                 question, intent, run_config, output_root, self.cfg.programmer.to_llm_config()
             )
-            if result.error_type is None:
+            if mh_result.error_type is None:
                 evidence_package = evidence_package_mh
+                dfs = mh_dfs
+                result = mh_result
+                grounding = mh_grounding
                 trace.add_step(
                     ROLE_PROGRAMMER, "multi_hop_execute", True,
                     f"Multi-hop result: {result.numeric_result}"

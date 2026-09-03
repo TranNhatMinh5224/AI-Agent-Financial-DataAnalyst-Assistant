@@ -48,9 +48,10 @@ def run_multi_hop(
         try:
             # Fallback bm25 if hybrid is not fully setup
             try:
-                tables = run_search(sq, run_config, method="hybrid", top_k=20)
-            except Exception:
+                # [TỐI ƯU HÓA TURBO] Dùng BM25 siêu tốc cho truy vấn con multi-hop
                 tables = run_search(sq, run_config, method="bm25", top_k=20, no_reranker=True)
+            except Exception:
+                tables = []
                 
             for ev in tables:
                 all_tables[ev.candidate.table_id] = ev

@@ -89,13 +89,14 @@ def verify_answer(
             final_answer=None,   # BUG-010 FIX: None, không phải 0.0
         )
         
-    if result.numeric_result is None:
+    target_val = result.numeric_result if result.numeric_result is not None else result.sandbox_result
+    if target_val is None:
         return VerificationResult(
             is_valid=False,
             verification_status="invalid",
             error_type="U_UNVERIFIED",
             checked_cells=grounding.grounded_cells,
-            calculation_check="No numeric result returned.",
+            calculation_check="No result returned.",
             final_answer=None,   # BUG-010 FIX: None, không phải 0.0
         )
         
@@ -124,7 +125,7 @@ def verify_answer(
             
     # Perform Dual Verification against linked text notes (Thuyết minh BCTC)
     status, check_msg = verify_against_text_narrative(
-        result.numeric_result,
+        target_val,
         package.intent.unit_requested if package and package.intent else None,
         package.linked_text_context if package else [],
         package.question if package else "",
@@ -139,5 +140,5 @@ def verify_answer(
         error_type=None if is_valid else "U_UNVERIFIED",
         checked_cells=grounding.grounded_cells,
         calculation_check=check_msg,
-        final_answer=result.numeric_result
+        final_answer=target_val
     )

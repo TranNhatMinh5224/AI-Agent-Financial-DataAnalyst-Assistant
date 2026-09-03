@@ -23,6 +23,9 @@ class SecurityViolation(Exception):
     pass
 
 
+
+
+
 class SecureASTVisitor(ast.NodeVisitor):
     """AST Visitor to enforce security rules on generated code."""
     
@@ -73,21 +76,14 @@ def safe_div(a: float, b: float, default: float = 0.0) -> float:
         return default
 
 
-def run_pandas_sandbox(
-    code: str, 
-    dfs: Dict[str, pd.DataFrame],
-    symbol_map: Optional[Dict[str, float]] = None
-) -> Any:
-    """Run PoT code in a secure sandbox.
-    
-    Args:
-        code: Python source code.
-        dfs: Dictionary of dataframes.
-        symbol_map: Optional mapping of symbol names (e.g. NUM_0) to float values for Symbolic Masking.
-        
-    Returns:
-        The value assigned to 'result' in the code.
-    """
+# Sentinel để phân biệt "result = None" với "result không tồn tại"
+class _MissingType:
+    pass
+_MISSING = _MissingType()
+
+
+def _execute_in_worker(code: str, dfs: Dict[str, pd.DataFrame], symbol_map: Optional[Dict[str, float]]) -> Any:
+    """Worker function to run in a separate process."""
     cleaned_code = clean_code_string(code)
     try:
         tree = ast.parse(cleaned_code)
@@ -97,7 +93,9 @@ def run_pandas_sandbox(
     visitor = SecureASTVisitor()
     visitor.visit(tree)
     
-    # Safe globals
+    # AST is safe, compile it
+    compiled = compile(tree, filename="<sandbox>", mode="exec")
+    
     sandbox_globals = {
         "__builtins__": {
             "abs": abs,
@@ -141,20 +139,45 @@ def run_pandas_sandbox(
     
     sandbox_locals: Dict[str, Any] = {}
     
-    # Compile and execute
-    compiled = compile(tree, filename="<sandbox>", mode="exec")
     exec(compiled, sandbox_globals, sandbox_locals)
     
-    # Result có thể nằm trong locals (thông thường) hoặc globals (edge case với closures)
     result_val = sandbox_locals.get("result", sandbox_globals.get("result", _MISSING))
-    if result_val is _MISSING:
+    if isinstance(result_val, _MissingType):
         raise ValueError("Generated code did not assign a value to 'result'.")
         
     return result_val
 
 
-# Sentinel để phân biệt "result = None" với "result không tồn tại"
-class _MissingType:
-    pass
-
-_MISSING = _MissingType()
+def run_pandas_sandbox(
+    code: str, 
+    dfs: Dict[str, pd.DataFrame],
+    symbol_map: Optional[Dict[str, float]] = None,
+    timeout_seconds: float = 10.0
+) -> Any:
+    """Run PoT code in a secure sandbox using ProcessPoolExecutor.
+    
+    Args:
+        code: Python source code.
+        dfs: Dictionary of dataframes.
+        symbol_map: Optional mapping of symbol names.
+        timeout_seconds: Maximum time allowed for code execution.
+        
+    Returns:
+        The value assigned to 'result' in the code.
+    """
+    import concurrent.futures
+    import multiprocessing
+    
+    # Prevent nested processes issue on Windows
+    ctx = multiprocessing.get_context("spawn")
+    
+    with concurrent.futures.ProcessPoolExecutor(max_workers=1, mp_context=ctx) as executor:
+        future = executor.submit(_execute_in_worker, code, dfs, symbol_map)
+        try:
+            return future.result(timeout=timeout_seconds)
+        except concurrent.futures.TimeoutError:
+            executor.shutdown(wait=False, cancel_futures=True)
+            raise TimeoutError(f"Sandbox execution timed out after {timeout_seconds} seconds. Code is stuck in an infinite loop or too complex.")
+        except Exception as e:
+            # Re-raise exceptions from the child process so orchestrator can handle them
+            raise e

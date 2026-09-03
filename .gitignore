@@ -11,4 +11,12 @@ __pycache__/
 inference_log.txt
 *.log
 *.parquet
+*.pkl
 submission.zip
+submission/
+submission_part*/
+artifacts/
+data_workspaces/
+tests/tmp_pytest/
+node_modules/
+.next/

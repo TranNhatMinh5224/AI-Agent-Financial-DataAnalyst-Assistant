@@ -137,14 +137,17 @@ def run_pot_strategy(
 
             # Step 3: Deterministic Value Binding → inject symbol_map into Sandbox
             sandbox_val = run_pandas_sandbox(code, dfs, symbol_map=ctx.symbol_map)
-            numeric_val = float(sandbox_val)
+            try:
+                numeric_val = float(sandbox_val)
+            except (ValueError, TypeError):
+                numeric_val = None
 
             trace_msg = " | ".join(trace_steps) + " | Execution successful."
             return ReasoningResult(
                 strategy="pot",
                 code_generated=code,
                 sandbox_result=sandbox_val,
-                numeric_result=numeric_val,
+                numeric_result=numeric_val if numeric_val is not None else sandbox_val,
                 trace=trace_msg,
                 error_type=None,
             )

@@ -120,7 +120,7 @@ def rerank_candidates(
             doc_texts = [cand.csv_path or "" for cand in reranked]
 
         # 1. Check if RRF is explicitly chosen or API key is missing
-        use_rrf = (model_name or "").lower() in ("rrf", "reciprocal_rank_fusion", "none", "fusion") or not api_key
+        use_rrf = not model_name or str(model_name).lower() in ("rrf", "reciprocal_rank_fusion", "none", "fusion", "") or not api_key
         api_scores = None
         if not use_rrf:
             api_scores = _call_api_reranker(
